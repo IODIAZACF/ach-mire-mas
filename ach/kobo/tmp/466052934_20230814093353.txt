@@ -1,0 +1,91 @@
+stdClass Object
+(
+    [_id] => 466052934
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-14T09:17:41.835-05:00
+    [end] => 2023-08-14T09:33:51.147-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => RICAURTE
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Charco Largo, Tangarial, El Recodo, Bajo Charco Largo e Imbapí
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-08-14
+    [group_gu1lq88/Nombre_de_quien_reporta] => Wendy Rubiano
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => EtnicoComunitaria
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => El pasado, 02 de agosto a las 9:00 a. m. comenzó un enfrentamiento entre dos grupos armados ilegales en Nariño - Ricaurte.  Estos grupos han estado involucrados en combates que se han desarrollado en las comunidades de Charco Largo, Tangarial, El Recodo, Bajo Charco Largo e Imbapí desde ese día  Estos enfrentamientos han dado lugar a graves hechos victimizantes, como el desplazamiento forzado masivo y el confinamiento. Entre las personas afectadas se encuentran menores de edad, mujeres, jóvenes, adultos mayores, personas en situación de discapacidad y mujeres embarazadas.
+La situación se ha agravado, ya que en los lugares improvisados de refugio no existen condiciones mínimas de salubridad, como acceso al agua potable, alimentación y alojamiento adecuado. Además, hasta el momento, no se ha emitido una declaratoria oficial de los hechos victimizantes. Esto ha limitado el apoyo institucional para la atención humanitaria a las familias desplazadas, ya que las rutas de asistencia no han sido activadas. Asimismo, las familias Awá confinadas en el territorio han quedado sin atención debido a la falta de una respuesta oficial.
+    [group_yv1ph08/time2] => 2023-08-02
+    [group_yv1ph08/time3] => 12
+    [group_yv1ph08/evidencia] => proteccion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Acceso agua potable
+    [group_cn9za51/familias] => 253
+    [group_cn9za51/personas] => 885
+    [group_cn9za51/comu] => 5
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por actualizar
+    [group_mu9ho06/Seguridad] => Enfrentamientos
+    [group_mu9ho06/Operativa] => Por actualizar
+    [group_mu9ho06/Observaciones] => Por actualizar
+    [group_mu9ho06/Subir_el_Anexo] => COMUNICADO CONFINAMIENTO I 2023 (4)-9_32_47.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:01414208-8daf-4b98-9fa0-cc869097392d
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 01414208-8daf-4b98-9fa0-cc869097392d
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F01414208-8daf-4b98-9fa0-cc869097392d%2FCOMUNICADO_CONFINAMIENTO_I_2023_4-9_32_47.pdf
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F01414208-8daf-4b98-9fa0-cc869097392d%2FCOMUNICADO_CONFINAMIENTO_I_2023_4-9_32_47.pdf
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F01414208-8daf-4b98-9fa0-cc869097392d%2FCOMUNICADO_CONFINAMIENTO_I_2023_4-9_32_47.pdf
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F01414208-8daf-4b98-9fa0-cc869097392d%2FCOMUNICADO_CONFINAMIENTO_I_2023_4-9_32_47.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/01414208-8daf-4b98-9fa0-cc869097392d/COMUNICADO_CONFINAMIENTO_I_2023_4-9_32_47.pdf
+                    [instance] => 466052934
+                    [xform] => 572478
+                    [id] => 195639499
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-14T14:33:52
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

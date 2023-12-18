@@ -1,0 +1,78 @@
+stdClass Object
+(
+    [_id] => 460748691
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-01T15:42:00.806-05:00
+    [end] => 2023-08-01T15:49:43.881-05:00
+    [group_gu1lq88/Departamento] => CAUCA
+    [group_gu1lq88/CAUCA] => ARGELIA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Puerto Rico y Santa Clara del
+    [group_gu1lq88/Nombre_de_la_comunidad] => No aplica
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-08-01
+    [group_gu1lq88/Nombre_de_quien_reporta] => Mario Dager
+    [group_gu1lq88/Cargo] => ACH
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM MINAS PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Entre junio y julio de 2023, más de 587 personas (271 familias) se confinaron en dos eventos en los corregimientos de Puerto Rico y Santa Clara del municipio de Argelia a raíz de constantes combates. El primer evento, se conoció el 13 de junio, y afectó alrededor de 416 personas (194 familias) en las veredas La Cacharra, Buena Vista y Los Pinos del corregimiento de Puerto Rico. El segundo, ocurrió el 20 de julio, cuando otras 171 personas (77 familias) de las veredas Lomitas y Santa Clara perdieron su movilidad y el acceso a bienes indispensables para su supervivencia.
+Enmediodelosconfinamientos,sereportarontresdesplazamientosforzados,entreel20y30dejulio,queafectaronamásde334personas(167familias)delas veredas Hueco Lindo, Los Pinos y Mundo Nuevo, quienes se desplazaron hacia el centro poblado del corregimiento de Puerto Rico y la cabecera municipal de Argelia. Del total de personas desplazadas, al menos 171 personas (83 familias) se encuentran albergadas en el corregimiento Puerto Rico y otras 83 personas (35 familias) en la cabecera municipal. Las demás personas han retornado sin acompañamiento, garantías
+    [group_yv1ph08/time2] => 2023-07-20
+    [group_yv1ph08/time3] => 12
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Se requiere brindar asistencia alimentaria que cubra las necesidades nutricionales diarias para todas las familias confinadas y desplazadas.
+    [group_cn9za51/familias] => 438
+    [group_cn9za51/personas] => 921
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => si
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:cbbfa7f8-458f-4e60-ba33-668a92094e59
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => cbbfa7f8-458f-4e60-ba33-668a92094e59
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-01T20:49:45
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,59 @@
+<div class="page" data-name="f_clientes">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="title">Registro de Cliente</div>
+			<div class="right">
+				<a href="#" class="link popup-close">x</a>
+			</div>
+		</div>
+	</div>
+	<div class="toolbar tabbar-labels toolbar-bottom-md">
+		<div class="toolbar-inner">
+			<a href="#" class="tab-link opciones" data-funcion="t_F_CLIENTES" data-opcion="guardar">
+				<i class="icon f7-icons">check_round</i>
+				<span class="tabbar-label">Guardar</span>
+			</a>
+			<a href="#" class="tab-link opciones" data-funcion="t_F_CLIENTES" data-opcion="esc">
+				<i class="icon f7-icons">close_round</i>
+				<span class="tabbar-label">Cancelar</span>
+			</a>
+		</div>
+	</div>
+	  
+	<div class="page-content">
+	
+		<form  class="list formulario" id="f_M_CLIENTES" data-tabla="M_CLIENTES" data-busca="ID_M_CLIENTES" data-xbusca="" data-debug="" data-funcion="" autocomplete="off">
+		<input type="hidden" data-old="" data-campo="CAMPO2" data-tipo="C" data-enviar="1" value="" id="CAMPO2" name="CAMPO1">
+		<input type="hidden" data-old="" data-campo="CAMPO1" data-tipo="C" data-enviar="1" value="" id="CAMPO1" name="CAMPO2">
+		<ul>
+
+			<li class="item-content item-input item-input-with-info">
+				<div class="item-inner">
+					<div class="item-title item-label">Cédula o Ruc</div>
+						<div class="item-input-wrap">
+							<input type="text" data-old="" data-campo="CODIGO1" data-tipo="C" data-enviar="1" value="" id="CODIGO1" name="CODIGO1" required validate>
+							<span class="input-clear-button"></span>
+							<div class="item-input-info">*requerido</div>
+					</div>
+				</div>
+			</li>
+			<li class="item-content item-input item-input-with-info">
+				<div class="item-inner">
+					<div class="item-title item-label">Nombre</div>
+						<div class="item-input-wrap">
+							<input type="text" data-old="" data-campo="NOMBRES" data-tipo="C" data-enviar="1" value="" id="NOMBRES" name="NOMBRES" required validate>
+							<span class="input-clear-button"></span>
+							<div class="item-input-info">*requerido</div>
+					</div>
+				</div>
+			</li>
+
+		</ul>		
+		
+		</form>
+	</div>
+	<javascript src="maestros/f_clientes.js"></javascript>
+
+	
+</div>
+

@@ -1,0 +1,151 @@
+Array
+(
+    [p] => uploader/php/receive.php
+    [nombre] => 001118
+    [id] => 001118
+    [folder] => documentos/proyectos/0017/digitalizacion
+    [name] => Informe # 10- Anillo Machala (1).pdf
+    [chunk] => 44
+    [chunks] => 45
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => blob
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpI4h7EE
+            [error] => 0
+            [size] => 32674
+        )
+
+)
+/opt/lampp/htdocs/arimez/documentos/proyectos/0017/digitalizacion/001118.pdf
+Array
+(
+    [p] => uploader/php/receive.php
+    [nombre] => 001118
+    [id] => 001118
+    [folder] => documentos/proyectos/0017/digitalizacion
+    [name] => 00115.xlsx
+    [chunk] => 2
+    [chunks] => 3
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => blob
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpmT0JPx
+            [error] => 0
+            [size] => 7471
+        )
+
+)
+/opt/lampp/htdocs/arimez/documentos/proyectos/0017/digitalizacion/001118.xlsx
+Array
+(
+    [p] => uploader/php/receive.php
+    [nombre] => 00157
+    [id] => 00157
+    [folder] => documentos/proyectos/0017/digitalizacion
+    [name] => Informe # 10- Anillo Machala (1).pdf
+    [chunk] => 44
+    [chunks] => 45
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => blob
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpchcXMx
+            [error] => 0
+            [size] => 32674
+        )
+
+)
+/opt/lampp/htdocs/arimez/documentos/proyectos/0017/digitalizacion/00157.pdf
+Array
+(
+    [p] => uploader/php/receive.php
+    [nombre] => 00157
+    [id] => 00157
+    [folder] => documentos/proyectos/0017/digitalizacion
+    [name] => Manual_de_usuario_HKA80_VErev2.0.pdf
+    [chunk] => 36
+    [chunks] => 37
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => blob
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpWFg9qK
+            [error] => 0
+            [size] => 4824
+        )
+
+)
+/opt/lampp/htdocs/arimez/documentos/proyectos/0017/digitalizacion/00157.pdf
+Array
+(
+    [p] => uploader/php/receive.php
+    [name] => ReporteItems (66).pdf
+    [folder] => proyectos/0018/digitalizacion
+    [chunk] => 8
+    [chunks] => 9
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => blob
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpAMtEBf
+            [error] => 0
+            [size] => 32318
+        )
+
+)
+/opt/lampp/htdocs/arimez/proyectos/0018/digitalizacion/ReporteItems (66).pdf.pdf
+Array
+(
+    [p] => uploader/php/receive.php
+    [name] => PLANILLA 1 CAMAL LATACUNGA.pdf
+    [chunk] => 661
+    [chunks] => 662
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => blob
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpCebWND
+            [error] => 0
+            [size] => 22512
+        )
+
+)
+Array
+(
+    [p] => uploader/php/receive.php
+    [name] => 1 PLANILLA No2 DE AVANCE DE OBRA FIRMAR.pdf
+    [chunk] => 152
+    [chunks] => 153
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => blob
+            [type] => application/octet-stream
+            [tmp_name] => /tmp/phpGxGRon
+            [error] => 0
+            [size] => 32369
+        )
+
+)

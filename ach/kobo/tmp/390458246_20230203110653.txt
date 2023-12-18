@@ -1,0 +1,71 @@
+stdClass Object
+(
+    [_id] => 390458246
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-01-30T08:47:16.817-05:00
+    [end] => 2023-02-03T11:06:38.117-05:00
+    [group_gu1lq88/Departamento] => VALLE_DEL_CAUCA
+    [group_gu1lq88/VALLE_DEL_CAUCA] => BUENAVENTURA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => NO APLICA
+    [group_gu1lq88/Nombre_de_la_comunidad] => PUNTA BONITA
+    [group_gu1lq88/Urbano_Rural] => urbano
+    [group_gu1lq88/time1] => 2023-02-03
+    [group_gu1lq88/Nombre_de_quien_reporta] => MARIA LAURA LAZARO
+    [group_gu1lq88/Cargo] => ALIANZA POR LA SOLIDARIDAD
+    [group_gu1lq88/Origen_de_la_informaci_n] => ONG
+    [group_gu1lq88/Nombre_de_la_ONG] => ALIANZA POR LA SOLIDARIDAD
+    [group_hl1yc96/La_alerta_corresponde_a_] => PR
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => VABU-647.1
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2022-11-10
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSVABU_U_MACU039PR - Madre Cabeza de familia desplazada desde el mes de noviembre a quien miembros de un GANE le asesinaron uno de sus hijos de manera violenta y la obligaron a enterrarlo en la comunidad. La beneficiaria solicitó acompañamiento psicosocial y orientación jurídica para iniciar la ruta de indemnización, para este fin en articulación con ICLA se socializó la ruta para la obtención del registro civil de defunción, el cual es necesario para iniciar la ruta de la ley 1448/2011 y cuales serían las rutas de protección a las que tiene el derecho de acceder por los hechos victimizantes de los que fue víctima.
+    [group_mu9ho06/Logisitica] => NO APLICA
+    [group_mu9ho06/Seguridad] => NO APLICA
+    [group_mu9ho06/Operativa] => NO APLICA
+    [group_mu9ho06/Observaciones] => NO APLICA
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => SI
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:43797a33-41ac-4696-b261-eb72694ce63c
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 43797a33-41ac-4696-b261-eb72694ce63c
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-03T16:06:52
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

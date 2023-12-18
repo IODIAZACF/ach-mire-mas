@@ -1,0 +1,104 @@
+stdClass Object
+(
+    [_id] => 357253676
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-11-03T15:56:01.595-05:00
+    [end] => 2022-11-03T16:19:36.419-05:00
+    [group_gu1lq88/Departamento] => BOLIVAR
+    [group_gu1lq88/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => LA VEGA y PALMA CHICA
+    [group_gu1lq88/Nombre_de_la_comunidad] => LA VEGA y PALMA CHICA
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2022-11-03
+    [group_gu1lq88/Nombre_de_quien_reporta] => Jessica Rangel
+    [group_gu1lq88/Cargo] => Consejo Noruego para Refugiados - MRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => OrganismoPublico
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Enfrentamientos
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => La presente emergencia, registra una doble afectación, la primera de ellas un Desplazamiento masivo hacia cabecera municipal y el segundo de ellos un confinamiento de una de las veredas afectadas, a continuación se relata cada emergencia: 
+
+El día 21 de octubre en la vereda Palma Chica y La Vega ubicada en el municipio de Santa Rosa del Sur, se han venido presentado enfrentamientos entre dos Grupos Armados No Estatales- GANE que tienen fuerte presencia en la zona, razón de lo anterior, algunas familias de esta vereda decidieron desplazarse forzosamente hacia la cabecera municipal de Santa Rosa del Sur, siendo un total a la fecha de ayer 2 de noviembre (Fecha en que se cerro el censo) de 87 familias desplazadas (160 personas); De las cuales 61 personas se encuentras alojadas en el albergue municipal, otras auto albergadas en el sector Alta Brisa. 
+
+Se ha realizado atención en salud (Brigada de salud), la alcaldía ha realizado esfuerzos para suplir las necesidades alimentarias de las familias albergadas, pero aun persiste la necesidad. 
+
+Atención/Necesidades: 
+SEGURIDAD ALIMENTARIA, la alcaldía ha entregado algunos alimentos, que no han sido suficientes, asimismo la comunidad no cuenta con recursos económicos que le permitan subsanar por si mismos esta y otras necesidades.  A la fecha no se cuenta con información de apoyo subsidiarios por parte del ente departamental o la UARIV, ni de alguna organización presente en la zona.  
+EeE los NNAJ se encuentran muy afectados debido a la emergencia, esto teniendo en cuenta que a raíz de los constantes enfrentamientos salieron desplazados, generando afectaciones psicológicas, cambios en su diario vivir, educación y destinación de su tiempo libre .
+ICLA/PROTECCIÓN: hasta el momento se está realizando la activación de la ruta de declaración, la comunidad no ha accedido a información u orientación sobre la exigibilidad de derechos.
+SHELTER, del total de familias desplazadas,  67 personas se encuentras alojadas en el albergue municipal (la administración facilito algunas colchonetas que tenían) y las demás auto albergadas, de igual forma persiste la necesidad de elementos como frazadas, colchas y ropa.  
+SALUD: se realizo brigada de salud. 
+
+Debido a la continuidad delos  constantes enfrentamientos, las personas que aun permanecen en la vereda PALMA CHICA, como se menciono anteriormente perteneciente al municipio de Santa Rosa del Sur, se encuentra bajo una situación de confinamiento (200 personas - 55 familias aprox.), según información que le fue suministrada por parte del presidente de la JAC de la vereda a la personería municipal el día de ayer, debido a las condiciones de seguridad que se esta presentando actualmente en la vereda aun no se ha podido enviar algún tipo de asistencia humanitaria, la toma de declaración y censo se adelantara de forma remota. 
+Atención/Necesidades: 
+
+SEGURIDAD ALIMENTARIA, la Alcaldía no ha podido enviar respuesta debido a la complejidad de seguridad e ingreso a la vereda. 
+EeE NNAJ afectados por la situación de emergencia
+ICLA/PROTECCIÓN: hasta el momento se está realizando remotamente el censo y declaración, la comunidad no ha accedido a información u orientación sobre la exigibilidad de derechos
+SALUD MEDICA Y PSICOSOCIAL: no hay información de posible atención
+    [group_yv1ph08/time2] => 2022-10-21
+    [group_yv1ph08/time3] => 13
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => SAN , PROTECCIÓN/ICLA, EeE, SHELTER,, SALUD
+    [group_cn9za51/familias] => 142
+    [group_cn9za51/personas] => 360
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => atención parcial en la comunidad desplazada por parte de la Alcaldia (alimentación y albergue) y hospital con brigada de salud, Ministerio Público activación ruta declaración
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => Personería - Alcaldía
+    [group_mu9ho06/Logisitica] => Para el ingreso del personal en terreno pueden realizarlo desde Bogotá hasta Bucaramanga (Vuelo) y posteriormente a través de transporte terrestre hasta Santa Rosa del Sur (promedio de duración recorrido terrestre son 7 horas, dentro de este recorrido hay un trayecto por ferri). Para la atención de la emergencia por confinamiento en la vereda PALMA CHICA es un trayecto terrestre de aprox. 12 horas desde la cabecera municipal de Santa Rosa del Sur, la vía no es pavimentada, es una zona de lluvia constante.
+    [group_mu9ho06/Seguridad] => Presencia de GANE en la zona. Enfrentamientos constantes en las veredas del municipio, en especial de la vereda afectada por confinamiento y desplazamiento
+    [group_mu9ho06/Operativa] => CICR
+    [group_mu9ho06/Observaciones] => La administración municipal manifiesta su desbordamiento en la atención, están gestionando la realización de una "donaton" a fin de reunir elementos necesarios para suplir las necesidades de la emergencia como: Sabanas, cobijas, ropa, pañales, leche, alimento para coladas, gas, mercados, entre otros.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:32b7871a-8854-4b27-8850-d1642743388b
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 32b7871a-8854-4b27-8850-d1642743388b
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-11-03T21:19:47
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

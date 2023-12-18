@@ -1,0 +1,265 @@
+stdClass Object
+(
+    [_id] => 481961902
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-09-20T21:15:21.678-05:00
+    [end] => 2023-09-20T22:31:23.509-05:00
+    [group_pl6la06/_1_C_digo] => CALO-932.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-09-07
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-09-10
+    [group_pl6la06/_4_Departamento] => CAUCA
+    [group_pl6la06/CAUCA] => LOPEZ
+    [group_pl6la06/_6_Urbano_Rural] => URBANO
+    [group_pl6la06/_8_Comunidad] => Nainciona
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA
+    [group_mb5pt53/_1a_Evaluador] => Laura Catalina Rincón Prada
+    [group_mb5pt53/_1b_Celular] => 3208543434
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_mb5pt53/_2a_Evaluador] => Wendy Carabali
+    [group_mb5pt53/_2b_Celular] => 3228809070
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-08-11
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde el 11 de agosto, al menos 317 personas (152 familias aproximadamente), se desplazaron masivamente desde la comunidad Nacional del Consejo Comunitario Integración Río Chuare del municipio de López de Micay a raíz de los constantes enfrentamientos que se han registrado en esta zona. De acuerdo con la alerta generada por OCHA, las familias desplazadas se encuentran albergadas en redes de apoyo ubicadas en la cabecera municipal de López de Micay. 
+Así mismo, se menciona en el documento, que los Grupos Armados No Estatales (GANE) han aumentado su accionar armado, triangulando a la población civil en la mitad de las confrontaciones, afectando a las viviendas con disparos de fusil y usándolas como trinchera y alojamiento de estos grupos armados. Los grupos armados también han incrementado las restricciones de movilidad, y la imposición de códigos de conducta 
+La disputa por el control de la minería, los cultivos de coca y los laboratorios, ha generado una triangulación de la población civil de grandes dimensiones con presencia principalmente de cuatro grupos armados estatales y no estatales, de manera que la mayor parte de las poblaciones especialmente rurales, se encuentran restringidas y con la zozobra de que en algún momento algo pueda ocurrir. En la ruralidad los adolescentes y jóvenes están siendo captados bajo distintas modalidades de inclusión a GANE.
+    [group_rq63s60/group_lm6cx76/a_Social] => Dentro de la situación de emergencia se ha generado en López de Micay una serie de cambios sociales con relación de acceso al trabajo y a medios de subsistencia, a la salud, a la educación, a la recreación, al pleno desarrollo.  En este momento se encuentran en casas de sus familiares lo que puede conllevar a baja autoestima e ideas de minusvalía al no sentir que dan apoyo económico a sus seres queridos por lo que puede alterar a largo plazo su salud mental. Las comunidades han optado por hacer seguimiento estricto, a las disposiciones emitidas por los grupos con relación a la movilidad de transporte fluvial.
+Además, han optado por el silencio frente a muchos temas sensibles para salvaguardar su vida.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => La población desplazada es afrodescendiente, con más de 15 personas en condición de discapacidad y adultos mayores con enfermedades crónicas. En las ayudas no se ha discriminado algún tipo especial de condición.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Sus principales actividades económicas son la Agricultura, la Pesca y la Minería Artesanal.  Durante la emergencia las personas desplazadas no se encuentran laborando, algunos han viajado a sus veredas para vigilar sus cultivos y luego se devuelven al casco urbano.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => López de Micay es uno de los 42 municipios del Cauca. Ubicado al occidente a 84 kms de la capital del departamento, Popayán. 
+Pluviosidad: mayor de 13.000 milímetros de agua al año (alta), Temperatura de 30 ° C aproximadamente. 
+Población aprox. 42.443 habitantes (DANE 2017), afrocolombianos 90% e indígenas 10% .
+Presenta 34 corregimientos y más de 40 veredas.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las personas pueden acceder a los servicios de salud, pero hay las personas adscritas a la EPS Asmetsalud no pueden acceder a medicamentos para enfermedades crónicas por desabastecimiento. En cuanto a la educación esta se realiza de manera virtual parcial o por guías, no hay presencialidad. Por estar en el casco urbano se tiene acceso a medios de información, WIFI dependiente de energía intermitente, telefonía movistar, acceso a la alimentación por disponibilidad de supermercados y tiendas.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => El manejo de residuos se realiza por medio de una empresa del casco urbano. El río se encuentra contaminado razón por la que los niños, niñas y adultos, prefieren abstenerse de bañarse en el río o hacer uso de sus aguas, ya que al ser López de Micay un casco urbano portuario, hay mucha presencia de lanchas en la zona y sus derivados combustibles afectan la percepción de limpieza. 
+Adicionalmente, los lixiviados producidos por las distintas prácticas de agricultura también son evacuadas por medios indirectos a sus aguas. 
+Existe sistema de recolección de basuras en la zona.
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/Riesgos_para_respuesta] => CONTROL_NARCOTRÁFICO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR
+    [group_fm93i53/_2_Forma_de_acceso] => FLUVIAL
+    [group_fm93i53/logistica] => Transporte Aéreo: desde aeropuerto el dorado Bogota a Cali tiene una duración aproximada de 1 hora 5 minutos, desde Cali a Aeropuerto de Guapi tiene una duración de 50 minutos.
+Transporte fluvial: transporte en lancha desde muelle de cargue en Guapi a Lopez de Micay tiene una duración aproximada de 4 a 6 (motor 2.000) teniendo encuenta la marea ya que hay sitios que si es muy bajo el nivel del agua no pasa la lancha se sugiere contratar lanchero experimentado que conozca bien el trayecto. 
+Transporte Terrestre: del aeropuerto de Guapi al Muelle de Carga son 10 minutos en servicio de mototaxi, el cual cobra 5.000 pesos por persona para cualquier trayecto.
+Transporte de carga: durante la evaluación se comprobó tránsito de carga desde buenaventura en metrera hasta Lopez de Micay.
+Almacenamiento sitio de atención: se sugiere el uso del centro de desarrollo juvenil el cual cuenta con espacios amplios, contenedores modificados con aire acondicionado y luz eléctrica de igual forma para las actividades de psicología que requieren mayor privacidad, también se cuenta con el espacio.
+Comunicaciones: en la cabecera municipal de López de Micay la única cobertura de red móvil es la de Movistar.
+Abastecimiento de energía: la cabecera municipal de Argelia cuenta con red eléctrica sin embargo hay intermitencias en el suministro, se sugiere llevar planta eléctrica.
+Suministro de agua para el consumo: se sugiere para el abastecimiento de agua para el consumo la compra de botellones en la cabecera municipal.
+Hospedaje: el alojamiento en el casco urbano de López de Micay cuenta con una amplia oferta de hoteles: 
+Alimentación: se cuenta gran variedad de restaurantes y supermercados en la zona. 
+Servicios financieros: Corresponsal bancario Bancolombia, cajero ATH y Banco Agrario.
+    [group_fm93i53/seguridad] => En la situación de emergencia y marco del conflicto armado se han incrementado las restricciones de movilidad en el transporte fluvial, la imposición de códigos de conducta, el aumento en hostigamientos a población civil. 
+Factores como acceso de energía intermitente y afectación de telefonía celular (solo hay señal de operador Movistar) crean mayor inseguridad
+Se observa una libre circulación de la población en el casco urbano de Lépez de Micay, sin embargo, al trasladarse desde su comunidad se pueden presentar restricciones horarias. Existen riesgos asociados al contexto de conflicto armado tales como, contaminación con MAP- MSE y TE y riesgo de uso y vinculación por parte de Jóvenes de la comunidad, principalmente en la comunidad.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 200
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 400
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 1
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => NRC, ACNUR
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => Con ocasión a esta emergencia humanitaria las familias desplazadas sufrieron afectaciones que alteraron sus condiciones de vida, acceso a derechos esenciales y mínimo vital como alimentación, alojamiento digno y seguro, trabajo, libre movilidad y medios de vida, además la pérdida del bienestar individual y comunitario. 
+De igual manera, la condición de desplazamiento, la dificultad que se presenta para lograr cubrir necesidades básicas, la afectación psicosocial y los niveles elevados de estrés podrían llevar a que se presente mayor tensión en la comunidad y aumentar las problemáticas intrafamiliares o entre las parejas
+Durante la ERN, se identificó también afectaciones individuales como los daños sufridos en las viviendas por los impactos de bala y artefactos explosivos, lesiones físicas producidas en el momento del desplazamiento, amenazas e intimidaciones a personas con roles de liderazgo, hechos que han sido declarados por las víctimas, sin embargo, no se evidenció la capacidad y conocimiento de estos para realizar un seguimiento a la inclusión en el registro único de víctimas-RUV.
+En cuanto a los riesgos de MAP, MUSE y TE no se identificaron casos recientes, sin embargo, a las familias les preocupa que debido a los enfrentamientos haya algún tipo de contaminación por dichos artefactos al retornar a su comunidad, además advierten que antes del desplazamiento uno de los GANE les había advertido de la necesidad de no andar en el monte con el objetivo de mitigar riesgos relacionados con artefactos explosivos.
+Se han identificado riesgos asociados al alojamiento temporal en casas de redes de apoyo, debido que  en la  mayoría de los hogares se configuran condiciones de hacinamiento, en el sentido en que él espacio habitacional resulta ser reducido para la cantidad de personas dentro del hogar, lo que lleva a que no haya espacios seguros ni privados para las niñas, adolescentes y mujeres, lo cual aumenta sus condiciones de vulnerabilidad quedando expuestas a posibles casos de VBG. 
+Se identificó que el riesgo de reclutamiento y utilización de NNA es elevado dada la presencia constante del GANE en la misma. Refieren que hay una presión constante sobre los NNA para su vinculación, utilizando como estrategia la remuneración económica y el constreñimiento.
+Se ha evidenciado que los hechos de amenazas, coerción e imposición de normas de conducta debilitan el surgimiento y sostenimiento de liderazgo y representatividades comunitarias. Personas que desarrollan roles de representatividad han sido víctimas de persecución y amenazas. 
+La comunidad al verse inmersa en condición desplazamiento, se ven enfrentadas a la pérdida de la autonomía para su auto sostenimiento y la posibilidad de realizar sus actividades económicas que les permitían la supervivencia, lo cual se ha convertido en un riesgo, ya que en López de Micay se ejerce con frecuencia actividades sexuales como medio para la obtención de recursos económicos, en estas no se descarta la inclusión de menores de edad, y más, ante la demanda de servicios sexuales que se incrementa por la presencia de miembros de los grupos armados. Es de resaltar, que las comunidades no cuentan con estrategias de autoprotección e identificación riesgos que permita la mitigación de afectación de estos.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => - Se configura un desplazamiento masivo enfrentamientos en la vereda Naicioná entre el 13 y 14 de agosto. 
+- Imposición de restricciones horarias en la comunidad de Naicioná y López de Micay.
+- Existen riesgos asociados al contexto de conflicto armado tales, contaminación con MAP- MSE y TE y riesgo de uso y vinculación por parte de Jóvenes de la comunidad, principalmente en la comunidad. 
+- Se presume que en el marco del conflicto armado existen riesgos de VBG, vinculación y utilización de NNAJ por el GANE, sin embargo, la comunidad no lo manifestó expresamente, existe una ley del silencio por el temor y miedo a posibles represalias
+- Se evidencio recelo de las comunidades para abordar  temas de protección.
+- La población no tiene  establecidos planes, ni estrategia de protección comunitaria, para riesgos derivados del conflicto armado y desastres naturales.
+- Niveles elevados de tensión y desconfianza entre los miebros de la comunidad debido a que integrantes de esta, se encuentran vinculados en actividades relacionadas con los actores armados.
+- La comunidad acude a  los actores armados  como mecanismo de resolución de conflcitos, familiares, comunitarios o los relacionados con la delincuencia común. 
+- No se tiene claridad sobre las disposiciones de la Ley 1448 de 2011 y medidas de protección brindas por la UNP. 
+- Se observa obstáculos para el acceso a derechos esenciales como la salud 
+- Se evidencia Población víctima de doble afectación-población migrante
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => - Sensibilización sobre las afectaciones y garantías fundamentales establecidas en la Ley 1448 de 2011.
+- Sensibilización a la comunidad y líderes en estrategias de autoprotección  civil.
+- Promoción de espacios comunitarios para la entrega de mensajes clave y mitigación de riesgos psicosociales.
+- Orientación acompañamiento sobre legislación de derechos y mecanismos de protección 
+- Orientación en la construcción de plan de protección comunitario
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => - La comunidad mencionó casos de amenazas a roles de liderazgo pero no los identificó individualmente.
+- Se identifican hechos victimizantes individuales como amenas e  intimidaciones, riegos de vinculación, desplazamientos y riesgos de violencias basadas en género.
+- La situación de conflicto desencadenó niveles elevados de estrés y afectación psicosocial generalizada.
+- Una vez realizado el censo, se arroja un total de 194 familias, 397 personas y se realizó el comité de Justicia transicional el cual se hizo el 16 de agosto de 2023, además se realizo toma de declaración por la personería municipal por el hecho masivo y las afectaciones individuales.
+- Las comunidades poseen algunas claridades sobre las rutas de atención derivadas de las afectaciones individuales y masivas, sin embargo, podrían fortalecer estos conocimientos.
+-  Ruptura en la confianza institucional por parte de las comunidades y la negación de esta en la inclusión del censo y declaración de personas no nativas de la comunidad. 
+- Los lideres y lideresas  tienen conocimiento sobre la normatividad de victima y los mecanismos de exigibilidad, así como mecanismos de autoprotección civil, pero se hace necesario realizar un fortalecimiento de las mismas.
+    [group_aa8xg30/group_lg2ro37/Shelter] => El municipio de López de Micay enfrenta una situación crítica en cuanto a la falta de alojamiento temporal para las familias víctimas de desplazamiento forzado y otros eventos similares. Ante esta necesidad, la alcaldía municipal tomó la decisión de utilizar el coliseo municipal como un lugar temporal para albergar a estas familias. Sin embargo, este espacio no reúne las condiciones adecuadas para proporcionar un alojamiento digno. Se trata de un área abierta que dejaría a las familias vulnerables a las inclemencias del tiempo, como la lluvia, y carece de servicios básicos, como suministro de agua potable. Además, la estructura presenta múltiples filtraciones en su cubierta debido al uso y al paso del tiempo.
+Las familias que han recurrido a las redes de apoyo describen una situación de hacinamiento, ya que en algunas viviendas conviven hasta diez personas en espacios muy reducidos, lo que redunda en la falta de privacidad. Muchas personas se ven obligadas a dormir en condiciones precarias, como cartones o colchonetas improvisadas en el suelo, lo que las expone a las inclemencias climáticas y a la presencia de roedores y vectores
+En respuesta a esta crisis, la alcaldía municipal proporcionó 12 colchonetas, y la UARIV entregó 70 kits de alojamiento temporal a las familias más vulnerables. Sin embargo, todavía quedan 82 núcleos familiares desatendidos. Es importante señalar que estas familias no recibieron asistencia debido a que encontraron refugio en las casas de amigos y familiares, quienes les ofrecieron cobijo y los elementos esenciales para su estadía. En estas situaciones, las necesidades de alojamiento no eran tan apremiantes, lo que explica por qué no fueron incluidas en la asistencia proporcionada por las autoridades.
+En cuanto a la infraestructura comunitaria, la vereda Alto Naicioná cuenta con una casa comunal construida por la comunidad en madera, aunque carece de instalaciones sanitarias adecuadas. Las viviendas de la zona en general están construidas con materiales como madera, tejas de zinc y plástico, siguiendo el sistema palafítico, lo que las coloca en una posición de alto riesgo ante inundaciones y crecidas del río Naicioná.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => - Las familias desplazadas se encuentran albergadas en redes de apoyo, ya que el municipio no cuanta con albergue, en un primer momento la administración les ofreció el coliseo como espacio temporal, sin embargo, las familias no aceptaron por ser un espacio abierto que o se encuentra en las mejores condiciones, además de no contar con  el acceso a servicios básicos como energía, agua y saneamiento.
+- Algunos núcleos familiares refieren en contarse en condiciones de hacinamiento en las redes de apoyo y no poseen los elementos para albergarse de forma segura.
+- Como resultado de las condiciones de hacinamiento se identificó la falta de espacios de privacidad que permita contar con entornos seguros principalmente para el desarrollo de actividades domésticas y de higiene de mujeres y niños. 
+- La Alcaldía y Gobernación realizaron entrega de 82 kits de alojamiento compuestos por colchonetas, sabanas y toldillos, debido a que con esta cantidad no se logró satisfacer la necesidad de los núcleos familiares se priorizaron los hogares en altas condiciones de vulnerabilidad. 
+- Algunas familias optaron por alquilar viviendas en el casco urbano de López de Micay con los ahorros que poseían en el momento del desplazamiento.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Suministrar elementos de habita para un alojamiento temporal en condiciones dignas
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => - Las familias se albergan en redes de apoyos donde no cuentan con los elementos de alojamiento para albergarse en condiciones de dignidad y seguridad.  
+- Las familias tienen carencia de espacios privados en los lugares donde se encuentran albergados.
+- En alguna medida, se han presentado señalamientos por las actividades de esparcimiento realizadas por las familias desplazadas
+-  El secretario de gobierno municipal solicitó apoyo para la construcción de un albergue temporal. 
+- Se identifica la necesidad de construcción de albergue temporal en el municipio de López. 
+- Si, se disminuirían riesgos de VBG ya que se contaría con mayor privacidad y se podría llegar a disminuir las condiciones de hacinamiento.
+    [group_aa8xg30/group_fv0ct51/Agua] => Tanto las familias desplazadas como las de acogida en López de Micay dependen del agua captada por el acueducto del casco urbano. La distribución se realiza a través de mangueras que llevan el agua a los hogares por gravedad. Lamentablemente, este recurso se utiliza sin ningún tipo de tratamiento o purificación, como el uso de filtros. Aunque en la zona urbana existe un sistema de acueducto, el agua no es potable. Cuando sube la marea, el agua se vuelve turbia, y la comunidad se ve obligada a dejarla reposar, en ocasiones aplicar cloro, hervirla o incluso creen que añadir vinagre pueden hacerla más segura.
+ 
+Es importante señalar que, durante las lluvias, las familias pueden obtener suficiente agua para las necesidades de la comunidad en general. Sin embargo, debido al hacinamiento en los hogares de acogida, el tanque de almacenamiento de 60 galones que poseen resulta insuficiente para abastecer a todas las personas.
+ 
+Además, es relevante mencionar que la comunidad evita utilizar el agua del río Guapi debido a su contaminación, causada principalmente por la minería ilegal.
+ 
+Por otro lado, en la vereda Naicioná, donde no existe un sistema de acueducto, el abastecimiento de agua se obtiene directamente de las quebradas y fuentes hídricas cercanas. La distribución se realiza de manera similar a la zona urbana, utilizando mangueras que la comunidad instala según sus necesidades.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => En la comunidad, los residuos orgánicos se utilizan como abono para cultivos en azoteas y huertas, mientras que los residuos no orgánicos se queman. Lamentablemente, la vereda carece de un sistema de saneamiento para la gestión de residuos sólidos.
+En cuanto al manejo de excretas, las familias utilizan letrinas, algunos cuentan con sanitarios que no tienen suministro de agua, y otros optan por defecar en el río o en quebradas que desembocan después de cada comunidad.
+Es importante destacar que, en las redes de apoyo donde se encuentran alojadas las familias, generalmente se dispone de unidades sanitarias o letrinas conectadas al sistema de alcantarillado municipal.
+La gestión de residuos en López de Micay se lleva a cabo mediante el servicio público de aseo, que se encarga de recoger y transportar los residuos no aprovechables una vez a la semana.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Conforme a lo manifestado por las familias se identificó que las prácticas de lavado de manos varían considerablemente realizándolo tan solo de 2 a 3 veces al día, principalmente después de las comidas cuando poseen los elementos necesarios, en momentos donde no han podido acceder a elementos de higiene manifiestan que el lavado de manos y otras actividades de aseo las realizan solo con agua. La población no reconoce la importancia de realizar el correcto lavado de manos, ni lo asocia a la trasmisión de enfermedades.
+
+Actividades como baño personal, el lavado de manos y la limpieza de utensilios de cocina se realizan con jabón. Sin embargo, en el marco del desplazamiento el acceso limitado a estos elementos se ha disminuido y las familias han optado por remplazar estos elementos de aseo por productos a su alcance como el limón y vinagre para el lavado de utensilios de cocina y demás. 
+
+Se resalta que en el 8 de septiembre una ONG externa realizo entrega de kits de higiene con un enfoque diferencial a las 194 familias desplazadas en el casco urbano de López de Micay, kits que disponen de una durabilidad aproximadamente de un mes y estaban compuestos por crema dental, jabón, toallas sanitarias, champú, entre otros elementos. Así mismo, se destaca que el 24 de agosto de 2023 desde NRC área de occidente se realizó entrega de kits de higiene familiar, realizo sensibilización e información en promoción de higiene y agua segura.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Agua 
+Menciona la comunidad que acceden al recurso hídrico a través de agua lluvia y quebradas, sin embargo,  no filtran el agua y consumen el agua cruda del acueducto. 
+Refieren que no se abastecen del río Guapi por la contaminación producto de la minería.  
+En López de Micay se cuenta con acueducto. Las personas tienen normalmente tanques de almacenamiento de 60 galones,  sin embargo, por las condiciones de hacinamiento ocasiona que  el recurso hídrico no está alcanzando.  
+Las personas tienen normalmente tanque de almacenamiento de 60 galones, donde están alojados no les alcanza el agua, porque  se encuentran en condiciones de hacinamiento. 
+A pesar de contar con acueducto el agua el agua no  es potable,  cuando sube la marea, llega turbia, lo que se hace es dejarla asentar, algunas veces cloran, hierve, o le aplican vinagra. 
+
+Saneamiento 
+
+Los residuos orgánicos, son empleados como abono para cultivos en azoteas y huertos, y lo no orgánico se quema, la Vereda no cuenta con sistema de saneamiento en temas de residuos sólidos. 
+Para el manejo de excretas las familias cuentan con Letrinas , otros tienen sanitarios sin suministro de agua,  otros van al baño en el monte o en el río. 
+
+Higiene  
+Se presenta el lavado de manos de forma variable de 0 a 3 veces al día, principalmente después de las comidas; cuando cuentan con los insumos adecuados, el baño y lavado de manos y utensilios de cocina se realiza con jabón, sin embargo, el acceso limitado a los elementos de aseo personal condiciona que la higiene sea percibida como desde el desplazamiento.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Entrega de filtros a las familias desplazadas con el ánimo de aportar en el consumo de un agua segura.  
+Entrega de recipientes que permitan una adecuada conservación del agua. 
+Promover buenas prácticas de uso y conservación del agua, además de reforzar los conocimientos sobre métodos de tratamiento para consumo y almacenamiento de agua segura familiar y comunitaria, con la estrategia de sensibilizaciones y capsulas informativas.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => - La población no tiene acceso a agua segura 
+- Generalmente las personas realizan sus necesidades fisiológicas a campo abierto, son muy pocas las familias que cuentan con baño y en los centros educativos hay un sanitario.
+    [group_aa8xg30/group_jn0nm53/san] => En medio de la emergencia causada por el desplazamiento forzado de la vereda Naicioná, se han visto gravemente afectados los medios de vida y la seguridad alimentaria de los núcleos familiares. 
+En cuanto a alimentos perecederos y proteínas como carnes, pollo, pescado o huevos, han logrado obtenerlos a través de amigos o conocidos que tienen negocios o venden estos productos y que les permiten llevarlos en condiciones de fio. Sin embargo, esta estrategia ha llevado a algunas personas a acumular deudas que podrían afectar su proceso de recuperación una vez que regresen a sus veredas. Como una medida de apoyo, algunas familias han llevado estos alimentos a las casas de alojamiento temporal en las que se encuentran. Frente al número de comidas, las familias refieren que están haciendo 3 tiempos, con alguna disminución de porciones y bajo consumo de proteínas de origen animal y vegetal, las cuales en antes de la crisis su consumo era más estable. 
+Es importante destacar que tanto la alcaldía como la gobernación han coordinado una respuesta efectiva en términos de alimentación, cubriendo las necesidades alimentarias de la comunidad desplazada durante aproximadamente dos meses desde el momento del desplazamiento. La distribución se realiza de manera progresiva, entregando los kits a cada núcleo familiar. 
+En cuanto a los ingresos, las familias no tienen fuentes estables de ingresos desde que comenzó la emergencia. Muchos de ellos solían trabajar en la minería, la agricultura de subsistencia o la venta de productos, actividades que les proporcionaban los recursos necesarios para subsistir, pero que se han visto interrumpidas debido a los constantes enfrentamientos y combates en la zona. Algunos hogares contaban con ingresos de subsidios gubernamentales, como Familias en Acción y la devolución del IVA, pero estos ingresos no se han entregado durante la emergencia.
+Con relación al comercio local, los pobladores han mencionado que obtienen alimentos y productos esenciales en el centro poblado de López de Micay, que cuenta con una amplia oferta comercial capaz de abastecer tanto a la comunidad local como a la desplazada. Sin embargo, existen restricciones horarias para la apertura y cierre de los comercios. El incumplimiento de estas restricciones puede resultar en amonestaciones por parte de grupos armados, lo que pone en riesgo tanto la seguridad de los comerciantes como el acceso de la comunidad a los servicios de comercio.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => - Las personas de la comunidad no han podido llevar a cabo sus actividades generadoras de ingresos, como la minería (especialmente de forma artesanal bareque), y la agricultura que también es utilizada como fuente principal de alimentos, tales como papa china, plátano, yuca y caña. Además, se han visto obligados a desatender su cría de especies menores que también venden y usan para el consumo propio. 
+- Durante esta crisis, las comunidades desplazadas han dependido en gran medida de la ayuda humanitaria inicialmente proporcionada por las instituciones estatales y algunas organizaciones internacionales. Los cuales han entregado kits de alimentos no perecederos, que incluyen arroz, frijoles, lentejas, azúcar, entre otros. 
+- La respuesta generada hasta el momento no incluye una alimentación diferenciada para NNA y personas con necesidades específicas en la alimentación.
+- Se ha identificado un caso de un niño con bajo peso, que está siendo atendido en el centro hospitalario del casco urbano
+-
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Se recomienda monitorear la capacidad de respuesta local y la continuidad del desplazamiento, para saber si se requiere apoyo en el sector de SAN.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => - Hay disponibilidad y acceso de los hogares a alimentos sanos y en buenas condiciones dada la asistencia humanitaria que han recibido.
+- No se identificó implementación en los hogares de estrategias de afrontamiento reducido (rCSI).
+- Se evidencia acceso a una dieta diversificada y de calidad.
+- No se identifican Grupos vulnerables relevantes con dificultad de acceso a los alimentos.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => El municipio de López de Micay, cuenta con un hospital ESE occidente de 1 nivel de atención con capacidad hospitalaria, su equipo de trabajo está conformado por 4 médicos, 3 jefes de enfermería, 20 auxiliares de enfermería, 1 odontóloga, 1 higienista oral. Ofrece urgencias 24 horas, programa de vacunación, programa de control prenatal, crecimiento y desarrollo, crónico y de planificación familiar con acceso a todos los métodos. Hay rutas establecidas para abordaje de IVE, violencia sexual o de género. 
+Se estima una cobertura del 99% con aseguramiento de la población al SGSS con EPS Asmetsalud , Nueva EPS, AISED y Cosmitet . No hay caracterización de la población desplazada*, sin embargo, lideres de las comunidades indicaron que personas con enfermedades crónicas (HTA y diabetes mellitus) no estaban recibiendo los medicamentos ya que son de Eps Asmetsalud , y esta se encuentra en proceso de intervención por parte de la Supersalud. 
+No se realizan actividades extramurales a las veredas por falta de personal, temas relacionados con logística-operación e inseguridad. 
+Hasta el momento no se han reportado casos de muerte por enfermedades endémicas. Se han reportado muchos casos de malaria o accidente con animales ponzoñosos en la zona *, tratamiento que es proporcionado por la secretaria de salud del departamento, no se logran obtener cifras. 
+La ruta de remisión es hacia la ciudad de Popayán o Cali a hospitales de niveles superiores por medio de transporte fluvial, se cuenta con 2 lanchas ( rio-mar ) y una lancha solo para uso en rio. 
+El Hospital se encuentra de acuerdo con información otorgada por terceros, en proceso de interventoría. 
+
+** Se tiene previsto realizar una jornada de salud el día 14/09/2023. En repetidas ocasiones se solicitó datos epidemiológicos, pero no ha sido posible la obtención.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Existen afectaciones psicológicas derivadas de la emergencia. Las personas refieren sentirse muy estresadas frente a la situación que están experimentando. Derivado de la situación de emergencia, varias personas presentan síntomas de estrés agudo, reexperimentan exposición a los eventos desencadenantes (explosiones y fuegos cruzados) que derivan en hipervigilancia y sensación continua de estrés. También refieren problemas para dormir que se acompaña de ideas reiterativas y preocupaciones en torno a la situación de su futuro. 
+Una de las afectaciones más considerables la constituyen las psicosomatizaciones, de manera que las personas mencionan sentirse físicamente afectadas por la experimentación de angustia, por ende refieren dolores musculares, cefaleas, problemas estomacales asociados a la ansiedad. 
+
+Dentro de los factores de afrontamiento, se ha identificado un aumento en la ingesta de bebidas alcohólicas como parte de un mecanismo no adecuado para el manejo de la crisis. Ante esto mencionan haberse sentido cuestionados por algunas personas de la población de acogida e institucionalidad, pues mencionan que las otras personas parecieran no ser empáticos ante el fuerte sufrimiento psicológico que experimentan. 
+
+Frente a estos hallazgos, se menciona que no existen acciones de asistencia psicológica para el manejo de la crisis y no está proyectado un apoyo en salud mental pues el centro de salud carece del servicio. 
+
+En cuanto a las conductas suicidas y las violencias basadas en género estas son negadas durante la fase de evaluación. 
+
+Las condiciones de albergue y de alojamiento, aumentan la sintomatología y los riesgos psicosociales. La vida sexual y de pareja se ha visto también restringida y altamente limitada por estas circunstancias, pero de momento no refieren que esto haya conllevado a un aumento en los problemas de la relación de pareja.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Pueden presentarse riesgos de VBG por el colecho y las condiciones de alojamiento en general, sumado a que el cambio de contexto trae consigo también la aparición de nuevos roles sociales. No obstante de momento, no se genera ninguna referencia sobre la existencia de situaciones relacionadas con VBG.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Durante la evaluación no se refiere la existencia de casos de violencia sexual. Es importante señalar que puede ser subregistrada en parte por los severos castigos a los que las VBG pueden conllevar, ya que los grupos armados prohíben en la zona este tipo de comportamientos.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => - Se recomienda gestión interadministrativa para garantizar acceso a medicamentos e insumos en pacientes no cubiertos por EPS que operativamente garanticen con efectividad el plan de tratamiento.
+- Salud mental muy afectada. Se recomienda fortalecimiento de recurso humano en la ESE para garantía de acceso a servicios de salud mental. 
+- Se recomienda caracterización de la población. 
+- Disposición para el asesoramiento en manejo de emergencias si se requiere por las autoridades locales en salud. 
+- Fortalecer la articulación con la entidades institucionales y territoriales para mejorar tiempo de respuesta frente a estos eventos.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => - Número de personas afectadas entre 500 y 1500.
+- Hay necesidad expresa de atención en salud física
+- No existen situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia
+- No existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida
+- No hay reportes y/o aumento de Violencia Basada en Género durante el último mes
+    [group_aa8xg30/group_tb5de96/EIE] => Debido a combates en la comunidad de Naicioná se afectó el acceso a la educación de 40 estudiantes adscritos a la Institución Educativa Pablo Sexto de López de Micay, afectación que produjo la suspensión de las clases desde el 11 hasta el 21 de agosto del año 2023, además de producir afectaciones emocionales a los estudiantes y docentes de la sede educativa (2). 
+Es decir que, durante la emergencia la normalidad escolar ha resultado alterada, lo que, impedido el acceso continuo al servicio educativo para los NNA durante 10 días, pues se resalta que el 22 de agosto se reactivaron las clases en el casco urbano de López de Micay. 
+La institución educativa y secretaria de educación municipal habilitaron un espacio en la sede central, donde las docentes y estudiantes se encuentran realizando sus actividades académicas de lunes a viernes de 1:30 p.m. a 5:30 p.m. Reactivación que se da en un principio sin los lineamientos y estrategias de la educación en momentos de emergencia. 
+En ERN las docentes de la sede educativa Naicioná, manifestaron que en su comunidad las clases se estaban dictando de forma temporal en la caseta comunitaria ya que el plantel educativo se encuentra en reparaciones desde hace un año aproximadamente, un espacio que no cuenta con la infraestructura física adecuada para afectaciones de variabilidad climática (lluvias torrenciales) y que ha sido afectado por combates durante el mes de agosto.
+La cobertura académica cubre la básica primaria, escenario que obliga a los estudiantes a desplazarse hasta el casco urbano del municipio de López de Micay para continuar sus estudios de media y educación superior. Continuidad de estudios que atraviesa barreras de acceso, movilidad y costo, ya que la población se encuentra ubicada en las orillas del río Naicioná, un pequeño cause de poca profundidad, que ocasiona que los recorridos hasta el municipio estén entre 4 y 8 horas, generando un alto costo de transporte, la necesidad de cubrir los gastos de alojamiento, alimentación y estudios para que los estudiantes puedan continuar su proceso académico.
+De acuerdo con lo manifestado por las docentes, el hecho de que la oferta académica solo sea hasta el grado quinto expone a los adolescentes y jóvenes a riesgos relacionados con el conflicto armado, como la vinculación, trabajo forzado por los actores armados y el trabajo desde temprana edad en las minas. Además, las docentes refieren que la presencia constante de los actores armados en la comunidad y en cercanías de la escuela ha incrementado la exposición de los NNA a riesgos de vinculación o utilización por parte de actores armados. 
+Se ha desarrollado estrategias para la recuperación emocional con apoyo de la psicóloga de la I.E. y actividades lúdicas con la Corporación Desarrollo Juvenil, se han realizado entrega y dotación a la sede educativa de material para el desarrollo de estrategias lúdicas y 2 kits de educación y utilización del tiempo libre, uno por NRC y otro por la fundación EDUPAZ.
+Es importante destacar que, como respuesta a la emergencia desde el aérea de occidente de NRC se han brindado capacitación en educación en emergencias a docentes y agentes educativos comunitarios (AEC) enfatizando en apoyo psicosocial y de recuperación emocional con NNA y la reanudación de la normalidad educativa.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => - Los estudiantes desplazados se encuentran adscritos a la I.E.  Pablo Sexto, institución que posee sede en la comunidad Nacioná, con una cobertura academica de 0 a 5° grado.
+En la matricula academica 
+- Número de estudiantes:  40  NNA 
+- Número de docentes: 2
+- En un inicio la oferta académica fue suspendida, sin embargo, el 22 de agosto se reactivaron las clases en el casco urbano de López de Micay. 
+- La comunidad menciono que, como consecuencia de los últimos hechos, la infraestructura escolar en la comunidad  resulto afectada por impactos de balas, es de resaltar que el centro educativo se encuentra en construcción y las clases se estaban dictando en la caseta comunitaria.
+- La presencia constante de actores armados representa un riesgo para los NNA.
+- La I.E. no cuentan con un Plan de gestión de riesgo escolar enfocado en los riesgos y amenazas derivados del conflicto armado como fuego cruzado, presencia de artefactos explosivos o de actores armados, se requiere formación en educación en emergencias y comportamiento seguro.
+- Las docentes informaron que se estan desarrollando actividades para la utilización del tiempo libre de los estudiantes con el apoyo de la corporación de jovenes, y la I.E. 
+- Se ha realizado entrega de kits escolares por parte de NRC y  la fundación EDUPAZ.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => - Apoyo a la I.E. en la construcción de una de gestión de riesgo enfocado en hechos derivados del conflicto.
+- Formación de comportamiento seguro.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => 1.Ataque a la Escuela(s) de la comunidad durante la emergencia presencia 1 ó + eventos durante la emergencia:  SI
+2. Suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia. SI, sin embargo, ya se reactivaron las clases.
+3.Se identifica afectación en niños, niñas y adolescentes en edad escolar ante la presencia 1 ó + riesgos de protección durante la emergencia
+4.Durante la emergencia NO existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo
+5. La escuela SI cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia.
+6. La Institución Educativa NO cuenta con Plan de Gestión integral de riesgo escolar PGIRE y ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). .
+    [group_aa8xg30/group_tb5de96_001/TM] => En cuanto a la oferta de servicios y mercado, se ha identificado que López cuenta con una variedad de supermercados, tiendas, droguerías y una amplia gama de servicios que permiten satisfacer las necesidades de la población tanto rural como urbana del municipio.
+Se ha observado la presencia de entidades financieras como corresponsales de Bancolombia, Banco Agrario, Efecty y Super Giros, sin embargo, es importante señalar, que sus servicios resultan afectados por las constantes interrupciones en la prestación de servicios de señal telefónica, internet y energía. 
+Los jefes de hogar han mencionado que tanto antes como durante la emergencia, acuden al centro poblado de López de Micay para abastecerse de alimentos y elementos esenciales para su supervivencia. No obstante, es evidente que las restricciones horarias para la apertura y cierre del comercio limitan el acceso de la comunidad a los recursos básicos. Las amenazas de represalias por parte de grupos armados agravan esta situación y ponen en riesgo tanto la seguridad de los comerciantes como la disponibilidad de bienes y servicios esenciales para la población desplazada.
+En resumen, la presencia constante y el control territorial ejercido por el GANE en López de Micay representan un riesgo para el acceso al comercio y al abastecimiento de elementos esenciales.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => - Hay disponibilidad de proveedores/mercados para la entrega de CASH
+- Las familias pueden acceder en casco urbano de López de Micay a una oferta de comercio, sin embargo, se evidencia un alza en los precios  en la mayoría de elementos de la canasta familiar. 
+- Las familias mencionan que reciben ayudas del gobierno, tales como la devolución de IVA.
+- Dificultades de movimientos para salida e ingreso al municipio por cambios en el mareaje y bajo nivel del Río a los alrededores de Noanamito (Paso Juan Cobo). 
+- Existe una restricción de horarios para desplazarse a la cabecera en la cabecera municipal de López. 
+- Se evidencia restricciones horarias para el comercio durante los primeros días de la emergencia. 
+- Podrían presentarse fallas en el momento del retiro del recurso, por las fallas constantes en la señal y energia.
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Si las necesidades básicas no están siendo satisfechas adecuadamente por parte de las instituciones, sería crucial evaluar si los riesgos asociados a la entrega de transferencias monetarias podrían ser reducidos, dependiendo del momento en que se implementen.
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => - Se observa una libre circulación de la población en el casco urbano de López, sin embargo, al trasladarse desde su comunidad se pueden presentar restricciones horarias. 
+- Se presentan restricciones horarias para la apertura y cierre del comercio.
+-  Existe una oferta comercial, sin embargo, se observa un encarecimiento en los productos. 
+- López de Micay presenta capacidad financiera y de mercados. (Super giros, efectys y corresponsales bancarios)
+- Las familias desplazadas pueden satisfacer sus neceisadades de manera accesible siempre y cuando permenezcan en Lopez de Micay, puesto que la comunidad de Nacioná esta ubicada aproximadamente a 4 horas de la cabecera municipal. 
+- Se observo que algunas familias tienen deseos de retornar a pesar de no contar con condiciones de seguridad
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:32ed8a26-7f22-48e7-af61-07a2d111d81b
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 32ed8a26-7f22-48e7-af61-07a2d111d81b
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-21T03:31:25
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

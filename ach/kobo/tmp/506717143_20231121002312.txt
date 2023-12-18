@@ -1,0 +1,311 @@
+stdClass Object
+(
+    [_id] => 506717143
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-09-30T16:58:36.356-05:00
+    [end] => 2023-11-21T00:23:08.699-05:00
+    [group_pl6la06/_1_C_digo] => NASA-955.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-11-07
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-11-10
+    [group_pl6la06/_4_Departamento] => NARINO
+    [group_pl6la06/NARINO] => SAMANIEGO
+    [group_pl6la06/_6_Urbano_Rural] => URBANO
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Coliseo Villa del Rosario y Coliseo Municipal
+    [group_pl6la06/_8_Comunidad] => Resguardo Indígena Awá El Sande y el Resguardo Indígena Pastos
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => OCHA SANARIV_SISTEMA_NACIONAL_PARA_LA_ATENCION_INTEGRAL_A_LAS_VÍCTIMAS
+    [group_mb5pt53/_1a_Evaluador] => Alejandra Sanjuan
+    [group_mb5pt53/_1b_Celular] => 3224080930
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Angie Carvajal
+    [group_mb5pt53/_2b_Celular] => 3102166477
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_3a_Evaluador] => Miguel Monroy
+    [group_mb5pt53/_3b_Celular] => 3208788414
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-10-11
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Producto de la actual crisis humanitaria a causa de la presencia y accionar de los GANE en el territorio de Nariño, el pasado 11 de octubre se desplazaron hacía el centro poblado de Samaniego, más de 2000 personas, perteneciente al Resguardo Indígena Awá El Sande y el Resguardo Indígena Pastos de Guachavés. Este evento ha generado diferentes necesidades y vulneraciones en la población desplazada, algunas de estas han sido atendidas por la institucionalidad y organismos humanitarios; sin embargo, existen fallas y vacíos en el plan de contingencia de la administración municipal que limita la cobertura y la atención de las familias afectadas por la emergencia.
+El desplazamiento de la población se hizo a través del servicio de transporte desde las veredas afectadas hasta Samaniego, el gremio de transportadores se unió para brindar el servicio y poder recoger y trasladar a las familias que permanecían confinadas en sus territorios y que por escases de recursos para seguir subsistiendo toman la decisión de salir.
+    [group_rq63s60/group_lm6cx76/a_Social] => La emergencia actual ha desencadenado una serie de transformaciones sociales significativas. Una gran parte de la población indígena y campesina se ha visto obligada a abandonar sus territorios debido a las amenazas tanto colectivas como individuales emitidas por parte del GANE. Por otro lado, otra fracción de la población se ha confinado como medida de autoprotección frente a estas amenazas. Esta situación ha generado una tensión social palpable debido a las disputas territoriales, lo que ha llevado a la parálisis de varios procesos de desarrollo comunitario. El éxodo de personas y el cese de actividades agrícolas han provocado escasez de alimentos, ejerciendo una presión adicional sobre las familias y potencialmente exacerbando las tensiones internas. La preocupación por la seguridad personal, la falta de acceso a empleo, servicios básicos como educación, salud y recreación, ha afectado las dinámicas de interacción comunitaria, colocando a estas comunidades en una situación de mayor vulnerabilidad. Es importante destacar que las familias que deciden desplazarse lo hacen porque los recursos para subsistir en sus territorios se agotan y persiste un constante miedo, temor y zozobra debido a la presencia continua de los GANE.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Los diferentes hechos de violencia por cuenta de la disputa territorial entre los GANE están configurando el territorio ancestral del pueblo indígena awá, convirtiendo este en un escenario de guerra y un corredor geoestratégico para actividades ilegales, que interrumpen y fraccionan el tejido social de las comunidades quienes tienen una conexión especial y de supervivencia con su territorio. 
+La comunidad expone con preocupación que, debido a este conflicto ajeno, se encuentran experimentando una pérdida progresiva de autonomía y soberanía sobre su territorio, circunstancia que les ha obligado abandonar sus hogares. Esta situación compromete su estabilidad y condiciones de vida, resaltando la imperiosa necesidad de salvaguardar sus derechos fundamentales y preservar la integridad de su hábitat.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las Actividades económicas de los resguardos están ligadas en gran medida a la producción y comercialización primaria de cultivos ilícitos. La simbra, mantenimiento y recolección de cultivos de este tipo se encuentran directamente vinculadas como forma de generar ingresos principales y/o adicionales para los habitantes de la zona. Las practicas agropecuarias se ven sedimentadas en su estilo de vida tradicional y a las condiciones agroclimáticas de la región. Producciones de tipo familiar y de pequeña escala principalmente en cultivos de maíz, plátano, yuca, y hortalizas, así como la crianza de cuyes, gallinas, pavos, cerdos, peces y bovinos son parte fundamental para la seguridad alimentaria y la generación de recursos complementarios para las familias del resguardo. Los Awá también se dedican a actividades de caza, pesca y recolección de productos forestales no maderables como plantas medicinales los cuales desempeñan un papel importante en la diversidad de su dieta y la medicina tradicional. 
+El contexto económico del resguardo se ve influenciado por factores culturales, sociales y políticos, incluyendo la relación con entidades locales y nacionales, el conflicto armado que aqueja sus territorios y el esfuerzo junto a otras comunidades indígenas para proteger sus derechos territoriales e identitarios. Por lo tanto, podríamos mencionar que su economía es diversa y resiliente.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El resguardo indígena Awá del Sande y Resguardo indígena Pastos se encuentran alojados por motivos de la emergencia en el casco urbano del Samaniego, Nariño. El municipio se encuentra a 1470 msnm y a una temperatura media de 22 °C con una precipitación media anual es de 1314 mm en zona montañosa, el área municipal comprende 765 km². El acceso es vía terrestre a 117 km – 2 horas 30 minutos en carro de la ciudad de Pasto pasando por los municipios de Imués y Tuquerres.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => La comunidad manifiesta no tener los recursos suficientes para su mínimo vital refieren demoras en la atención en alimentación, higiene, agua, salud, albergue entre otros, debido a trámites administrativos y barreras de acceso con las distintas dependencias como Alcaldía, Gobernación, Secretarías de Gobierno, educación y salud, E.S.E, E.P.S situación que se ha agudizado con el conflicto. Dada la magnitud de la emergencia que se ha prolongado por aproximadamente 3 meses, la institucionalidad en Samaniego no cuenta con un plan de contingencia actualizado y se menciona la disminución del recurso de la administración para seguir atendiendo el evento.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => En el contexto ambiental del municipio de Samaniego se identificó que, aunque el municipio cuenta con capacidad de manejo ambiental en la cabecera municipal, esta es limitada y se evidencia diferentes residuos sólidos a lo largo de las calles y el parque principal. Las familias en situación de desplazamiento no se encuentran albergadas en un mismo lugar, sino que se ubican en redes de apoyo El periodo de verano que se vive en este momento en el municipio deja ver que ríos o quebradas cercanas a la cabecera están disminuidas, pero se considera un fenómeno natural por la ubicación geográfica. Se han presentado diferentes incendios en la zona, pero no se ha determinado el motivo el cual puede estar atribuido al fenómeno del niño o a quemas de potreros.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO
+    [group_fm93i53/Riesgos_para_respuesta] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE AEREO
+    [group_fm93i53/logistica] => El transporte aéreo desde el Aeropuerto El Dorado en Bogotá hasta los aeropuertos Antonio Nariño en Pasto (Chachagüí) y San Luis en Ipiales tiene una duración aproximada de 1 hora 25 minutos. Por tierra, desde el aeropuerto Antonio Nariño de Pasto a Samaniego, el trayecto de 147,4 kilómetros toma alrededor de 3 horas y 30 minutos, incluyendo un pare y siga de 20 minutos en el túnel Daza. Mientras tanto, desde el aeropuerto San Luis en Ipiales a Samaniego, el viaje de 85 kilómetros lleva aproximadamente 2 horas 10 minutos por la ruta Ipiales, Buenos Aires, Guachucal, Tuquerres, pudiendo aumentar hasta 2 horas 45 minutos según las condiciones climáticas. El transporte de carga desde Bogotá a Samaniego transita normalmente por vías en buen estado, permitiendo su acceso para posibles atenciones.
+La comunicación en Samaniego se realiza a través de cobertura móvil de todos los operadores, aunque puede verse afectada por fallos en el fluido eléctrico, algunos hoteles ofrecen conexión Wi-Fi mediante plantas eléctricas. La energía eléctrica en la población es intermitente y se recomienda llevar una planta eléctrica en caso de necesidad, con posibilidad de adquirir combustible y aceite en estaciones de servicio locales. Para el suministro de agua, se sugiere la compra de botellones.
+En cuanto al hospedaje, se mencionan diferentes hoteles con precios que van desde 30.000COP a 35.000COP por noche, con opciones de pago inmediato y variedad en la documentación requerida. La zona cuenta con numerosos restaurantes y supermercados para la alimentación, así como servicios financieros a través de corresponsales bancarios, cajeros automáticos y Efecty.
+    [group_fm93i53/seguridad] => En la situación de emergencia y marco del conflicto armado se han incrementado las restricciones de movilidad en las veredas, tener en cuenta dichas recomendaciones:
+
+- La presencia de grupo armados Organizados GAO en la cabecera municipal. 
+- El Territorio se encuentra con artefactos explosivos “MAP” en la parte rural, con incidentes de seguridad recientes.
+- Uso de visibilidad, personal, vehículos y puntos de atención.  
+- Los posibles sitios de atención no cuentan con el 100% de seguridad ya que no están cubiertos en su totalidad.
+- Se recomienda portar planta eléctrica para el punto de atención en caso de fallas en el fluido eléctrico.  
+- Se recomienda que las contrataciones tengan en cuenta los requisitos mínimos de seguridad, documentos al día y tanque de combustible de las camionetas totalmente lleno, camisetas color blanco y que no tengan pantalones tácticos o camuflados.
+- Portar métodos alternos de comunicación como teléfonos satelitales
+- Se recomienda el NO USO de aparatos electrónicos personales en la zona (celulares no institucionales, radio MP4) las comunicaciones se puede presentar una eventual revisión por parte de GAO de lo que se comunica. Se recomienda se centralice todas las comunicaciones con el punto focal de seguridad del equipo en terreno.
+- Seguimiento de normas de seguridad durante y terrestre, es decir el no uso de gorras, tapa bocas, audífono y los vidrios abajo en caso de que estén polarizados.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 1167
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 2350
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 2
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-11-17
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => ULTIMO CENSO (1)-0_5_13.xlsx
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => CARE, JRS, SEPASVI, OIM
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => CARE, SEPASVI, OIM
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => La comunidad manifiesta necesidad de apoyo por parte de la alcaldía y otras instituciones estatales manifestando no tener los recursos suficientes para su mínimo vital refieren demoras en la atención en Alimentación, Agua, Salud debido a trámites administrativos y barreras de acceso con las distintas dependencias como Alcaldía, Gobernación, Secretarías de Gobierno educación y Salud, E.S.E, E.P.S situación que se ha agudizado con el conflicto. 
+
+Hay una necesidad particular dirigida a la institucionalidad, dado que hay un desgaste institucional por todos los desplazamientos que se han generado desde el mes de agosto y que se ven reflejados en las fallas y vacíos en el plan de contingencia de la administración municipal de Samaniego, el cual no tiene información actualizada y que no aborda medidas y respuestas especificas generadas por el contexto actual.
+
+Hay necesidad en las comunidades, ante el desconocimiento de la ruta de atención, asistencia y reparación integral para el hecho victimizante del desplazamiento forzado, se evidencia desconocimiento en la ley 1448 del 2011 en lideres y lideresas, sumado a esto, existe desconocimiento por parte de la comunidad en los mecanismos de exigibilidad de derechos.
+
+Existe una persistencia de VBG derivada de prácticas machistas arraigadas en las estructuras culturales, especialmente en áreas rurales, lo que perpetúa la invisibilización y normalización de estas prácticas. La comunidad carece de sensibilización en estos temas, lo que agrava la situación. Además, las víctimas enfrentan una pérdida de confianza en las instituciones, ya que no ven en ellas espacios seguros, confidenciales ni libres de revictimización, lo que desincentiva la denuncia de casos de VBG. La falta de conexión entre entidades y sistemas de información provoca que las víctimas tengan que repetir su testimonio en múltiples procesos, generando retraumatización. La presencia de hombres como profesionales que atienden casos de VBG también representa una barrera para las víctimas que no se sienten seguras ni comprendidas. La ausencia de una ruta de atención clara para casos de VBG y la estrategia de los GANE de invisibilizar estos casos generan mayor presión y amenazas sobre las víctimas, dificultando aún más su búsqueda de ayuda y justicia.
+
+Existe riesgo de reclutamiento para la población escolar y adolescente sumado al temor del mismo por parte de los padres, Hay presencia en el territorio de artefactos explosivos improvisados (MAP, TE ,MSE)
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => Dentro de los hallazgos identificados en las comunidades desplazadas del resguardo indígena Awá El Sande y del resguardo indígena Pastos se encuentra que, desde el inicio del desplazamiento, al menos 1,000 personas se han visto obligadas a dejar sus hogares debido a la presencia y acciones de Grupos Armados No Estatales (GANE). Se evidencian fallas notables en el plan de contingencia de la administración municipal de Samaniego, y la comunidad carece de información sobre la ruta de atención y reparación integral frente al desplazamiento forzado. Además, existe una ausencia de enfoque diferencial étnico y migratorio en las rutas de atención institucionales. La falta de apoyo claro de la UARIV y la escasez de registros actualizados, atención individualizada y protección para menores de edad, así como para personas con necesidades de protección internacional (PNPI) provenientes de Venezuela en situación migratoria irregular. Se observa un temor generalizado debido a amenazas del GANE, riesgos por artefactos explosivos y una necesidad de educación en riesgo de minas para garantizar la seguridad en un posible retorno. Las altas tensiones psicosociales, la violencia de género arraigada en prácticas culturales y la falta de sensibilización y confianza hacia las instituciones en casos de VBG presentan desafíos críticos que requieren atención inmediata y coordinada en el ámbito de la protección.
+La Comunidad ubicada en El Coliseo de Villa del Rosario es la más grande de las dos comunidades evaluadas, ha sido víctima del conflicto armado de la región viéndose desplazada de su Resguardo de El Sande al casco urbano de Samaniego, se identifican, en el marco de la emergencia prioridad en el manejo de gestantes, menores de 5 años y adultos mayores, un número importante de personas con necesidades especiales (Personas mayores no acompañadas, en situación de discapacidad, enfermedades crónicas, enfermedades de salud mental) quienes debido a la emergencia pueden requerir atención
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => Se recomienda implementar un enfoque integral para abordar la situación en la comunidad afectada. En primer lugar, se debe brindar apoyo individualizado y acompañamiento a los líderes y lideresas de la comunidad, reconociendo la importancia de su rol en la gestión de la crisis. Además, es esencial llevar a cabo sesiones de sensibilización que aborden tanto las afectaciones específicas como las garantías fundamentales establecidas en la Ley 1448 de 2011, proporcionando información y recursos legales a la comunidad.
+
+Llevar a cabo sensibilización dirigida a la comunidad en su conjunto y a los líderes sobre estrategias de autoprotección civil, empoderando a la población para tomar medidas proactivas en situaciones de riesgo. Para facilitar la comunicación y la difusión de mensajes clave, se promueven espacios comunitarios donde se puedan entregar mensajes esenciales y abordar la mitigación de riesgos psicosociales. Estas recomendaciones buscan fortalecer la resiliencia de la comunidad y promover un ambiente de seguridad y apoyo mutuo en medio de la crisis.
+
+Acompañamiento y orientación legal a personas con necesidades de protección internacional (PNPI) provenientes de Venezuela en situación migratoria irregular que desconocen como regularizar su situación migratoria en el país.
+
+Seguimiento y acompañamiento a las instituciones del estado para poder tomar acciones desde lo público en pro de dar trámite a la problemática y encontrar soluciones. 
+
+Promoción de espacios comunitarios para la entrega de mensajes clave y mitigación de riesgos psicosociales.
+
+Ante la presencia de riesgo por artefactos explosivos y el temor generalizado por la rotación del conflicto, es fundamental implementar programas urgentes de Educación en Riesgo de Minas (ERM) para las comunidades afectadas. Estos programas deben enfocarse en educar a la población sobre los peligros, identificación y prevención de artefactos explosivos, así como en la promoción de comportamientos seguros al regresar a sus hogares o a áreas que hayan sido afectadas por el conflicto.
+
+Brindar acompañamiento y asistencia técnica a la administración de Samaniego para el fortalecimiento del plan de contingencia en articulación con la Gobernación de Nariño, la Unidad para la Atención y Reparación Integral para las Víctimas y la cooperación internacional
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => -	Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección
+-	Se evidencian materialización de amenazas individuales y colectivas 
+-	Las comunidades tienen alto nivel de afectación psicosocial y estrés severo
+-	El hecho victimizante fue visibilizado con la institucionalidad 
+-	Las comunidades no tienen conocimiento sobre normatividad de víctima
+-	Hay brecha que impiden el acceso de las comunidades víctimas a la ruta de asistencia y atención
+-	Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención
+    [group_aa8xg30/group_lg2ro37/Shelter] => Las familias desplazadas recientemente enfrentan una carencia significativa de artículos básicos indispensables para el hogar, tales como colchonetas, hamacas, cuerdas, cobijas, toldillos, ropa de cama, utensilios de cocina, vajilla, ollas, entre otros. La difícil situación provocada por el desplazamiento limita su acceso a estos elementos esenciales debido a sus recursos económicos limitados. Además, estas familias se suman a anteriores desplazamientos en el municipio, que han dejado a la comunidad sumida en una crisis prolongada. La preparación comunitaria de alimentos se realiza en medio de dificultades, ya que las redes de apoyo se extienden por la periferia del municipio y veredas cercanas, lo que dificulta su llegada a los coliseos designados para actividades colectivas. A pesar de que los coliseos fueron acondicionados por la administración municipal tras el primer desplazamiento en agosto, la mayoría de las familias encuentra refugio en sus propias redes de apoyo, mientras que un número reducido permanece en condiciones poco adecuadas en las instalaciones del coliseo municipal. Además, existen necesidades urgentes en las áreas de preparación de alimentos, donde las condiciones actuales no son óptimas ni seguras para llevar a cabo esta actividad esencial. También es necesario adecuar el espacio educativo erigido por la comunidad para continuar brindando servicios educativos a los niños, ya que carece de áreas seguras debido a la falta de separación de espacios, presencia de maleza y proliferación de vectores, lo que representa un riesgo para la salud y seguridad de los estudiantes.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => Las familias desplazadas de las 21 veredas del resguardo indígena Awa el Sande, se encuentran refugiadas en redes de apoyo, incluyendo familiares, amigos y conocidos, y algunas han sido ubicadas en casas arrendadas desde el resguardo, donde entre 10 a 20 familias conviven en condiciones de hacinamiento. Por otra parte, las familias desplazadas del resguardo indígena Pastos se concentran en el coliseo municipal y al igual que las familias del otro resguardo, estas pernoctan en sus redes de apoyo, sin embargo, en la evaluación de necesidades se identificó un número reducido de personas sobre todo adultos mayores no acompañadas que se alojan en el coliseo municipal. Estas familias carecen de elementos esenciales para el hábitat y albergue, como colchonetas, hamacas, ropa de cama, toldillos y cobijas. Debido a las distancias entre las ubicaciones de estas familias y el coliseo Villa del Rosario y municipal, han dejado de acudir al lugar. Aquellas que preparan y reciben alimentos de la olla comunitaria carecen de suficientes utensilios para la preparación y el servicio de comidas. Además, las familias que se apoyan de sus redes de apoyo para alimentarse no tienen los elementos necesarios para la preparación y servido de alimentos. A pesar de que los coliseos donde las familias pasan el día están en buen estado estructuralmente, los espacios destinados para la preparación de alimentos no son adecuados, ya que carecen de acceso al agua y medidas mínimas de higiene para la limpieza de utensilios. En el interior del coliseo, las familias no han identificado zonas seguras o inseguras, tampoco se han establecido puntos de refugio ni rutas de evacuación. Además, en el coliseo Villa del Rosario, existe un área educativa provisional junto al coliseo donde se llevan a cabo las clases de los estudiantes, pero carece de condiciones seguras y separación de espacios adecuados para la enseñanza.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Provisión urgente de elementos de hábitat y albergue: Se debe realizar una entrega inmediata de colchonetas, hamacas, ropa de cama, toldillos, cobijas y otros elementos esenciales para mejorar las condiciones de alojamiento de las familias desplazadas. Esto podría llevarse a cabo a través de campañas de donación, asistencia humanitaria o programas gubernamentales enfocados en el suministro de estos recursos.
+Mejora de las condiciones de preparación de alimentos: Se requiere un suministro adecuado de utensilios de cocina y elementos para la preparación y servicio de alimentos, tanto para aquellas familias que se alimentan de la olla comunitaria como para las que están en las redes de apoyo. Además, es fundamental implementar medidas de higiene básicas y asegurar las condiciones de salubridad en las áreas de preparación de alimentos.
+Acondicionamiento seguro de espacios de refugio y educación: Es vital establecer zonas seguras y señalar puntos de refugio y rutas de evacuación dentro del coliseo donde se refugian las familias, garantizando así su seguridad en caso de emergencia. Además, es necesario mejorar las condiciones de las áreas educativas provisionales para los estudiantes, creando ambientes seguros y adecuados para el aprendizaje, incluyendo la limpieza del área, la separación de espacios y la garantía de condiciones higiénicas.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => Las familias y/o personas tienen donde albergarse, sin embargo, las condiciones no son seguras, dado que se albergan en redes de apoyos como familiares, amigos y conocidos y en casas arrendadas por el resguardo estando en condiciones de hacinamiento
+Las familias y comunidad cuentan con las infraestructuras adecuadas que promuevan seguridad, ya que las familias al encontrarse en casco urbano aceden a todos los servicios públicos
+No existe problemáticas entre la comunidad de acogida y las familias desplazadas, dado que, la comunidad de acogida se ha manifestado positivamente con las familias y han brindado apoyos
+Si se permite y/o valida con autoridades locales y comunidades la aceptación de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales
+Si se identifica la necesidad de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales, dado que los espacios escolares no son adecuados ni cuentan con los elementos educativos, así mismo los espacios destinados a la preparación de alimentos
+La respuesta desde Shelter disminuye que las personas estén expuestas a riesgos de seguridad física, inclemencias climáticas, salud, privacidad y mejora la dignidad de las personas
+    [group_aa8xg30/group_fv0ct51/Agua] => Las familias recientemente desplazadas se suman a la prolongada crisis que afecta al municipio desde mediados de agosto. Aunque existen instalaciones adecuadas con filtros de tratamiento de agua en los coliseos Villa del Rosario y municipal para el uso en la olla comunitaria, no todas las familias optan por alimentarse en estos espacios y prefieren hacerlo en sus redes de apoyo, lo que les priva de acceso a condiciones seguras de agua. Esta situación ha generado necesidades urgentes en cuanto al almacenamiento de agua y se ha agravado debido a la disminución de caudales por la época seca del año. A pesar de que las familias reconocen la importancia de aplicar técnicas de tratamiento de agua, no las implementan debido al gasto económico que representa, particularmente el consumo de gas en el proceso de hervirla. Esta realidad deja en evidencia la urgencia de proporcionar soluciones accesibles y económicas para garantizar el acceso a agua segura y potable para estas familias desplazadas.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Las familias que se han agrupado en el coliseo municipal provenientes del resguardo Pastos tienen acceso a unidades sanitarias, pero lamentablemente, no todas están en condiciones óptimas de uso debido a su mal funcionamiento. En contraste, las familias concentradas en el coliseo Villa del Rosario provenientes del resguardo indígena Awa el Sande, tienen acceso a unidades sanitarias, pero existe una carencia de conciencia en cuanto a la importancia de tener espacios separados por sexo. Esta situación genera un entorno inseguro, especialmente para mujeres y niñas. La ausencia de elementos para mantener una adecuada limpieza dentro de estas instalaciones sanitarias aumenta el temor, especialmente entre las mujeres de la comunidad, de contraer infecciones o enfermedades debido a la falta de higiene y limpieza en estos espacios. Esto subraya la necesidad urgente de mejorar las condiciones de saneamiento y concienciar sobre la importancia de espacios separados por género y la higiene en estas áreas para salvaguardar la salud y la seguridad de las personas desplazadas. Adicional la recolección de residuos sólidos se limita por la falta de herramientas y la recolección infrecuente del camión de servicios públicos del municipio, generando malos olores y vectores. Aunque existe un comité de aseo, carecen de elementos para llevar a cabo sus funciones.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Las familias de ambos resguardos carecen de elementos básicos para la higiene personal y del hogar, incluyendo jabón para uso personal y lavandería, así como productos esenciales como crema dental, cepillos de dientes, papel higiénico, champú y otros artículos de higiene cotidiana. La limitada economía derivada del desplazamiento dificulta el acceso a estos elementos esenciales, generando una preocupación particularmente apremiante para las personas menstruantes, quienes carecen de acceso a productos para la higiene menstrual. Ante esta carencia, recurren a métodos alternativos como el uso de telas o trapitos, lo que aumenta el riesgo de infecciones y problemas de salud. A pesar de tener conciencia sobre la importancia de la higiene, la falta de acceso a estos elementos básicos impide su práctica adecuada, representando un desafío considerable para mantener condiciones de higiene adecuadas y prevenir problemas de salud en estas comunidades desplazadas.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Entre los hallazgos en Agua, Saneamiento e Higiene (WASH) se tiene que la fuente principal de abastecimiento de agua para la comunidad es el acueducto, aunque a veces experimenta interrupciones en el servicio. A pesar de contar con un tanque de almacenamiento de 5000 L, no hay un comité específico responsable del suministro y manejo del agua. Aquellas familias que acceden a la olla comunitaria reciben agua tratada mediante hervido y el uso de filtros de membrana; sin embargo, las familias que no participan en esta dinámica carecen de medios para tratar el agua. Tanto hombres como mujeres se encargan de recolectar agua para la preparación de alimentos. Por otro lado, las unidades sanitarias en el coliseo presentan dificultades: están ubicadas cerca de la gradería y no segregadas por sexo, lo que representa un riesgo para mujeres y niñas. Aunque las personas conocen su uso, carecen de elementos para limpiar y reparar las instalaciones. Además, la recolección de residuos sólidos a cargo del servicio público de Samaniego se ve limitada por la falta de herramientas como bolsas y canecas, lo que genera malos olores y vectores. A pesar de la conciencia sobre la importancia de la higiene, las familias carecen de elementos básicos como jabón, productos de higiene personal y para el hogar, lo que puede ocasionar problemas de salud. La limitada economía derivada del desplazamiento dificulta el acceso a estos elementos, incluso productos para la higiene menstrual, llevando a prácticas de manejo inadecuadas que pueden generar riesgos para la salud. En conjunto, estas carencias reflejan una situación crítica en WASH, donde la conciencia sobre la higiene se ve obstaculizada por la falta de acceso a elementos básicos necesarios para mantener condiciones sanitarias adecuadas.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Agua:
+
+Fortalecimiento del Comité de Agua: Es crucial designar un comité específico encargado del manejo y suministro del agua, asegurando su correcta distribución, tratamiento y almacenamiento. Esto implicaría una capacitación adecuada para sus miembros.
+
+Aumento de Recursos para Tratamiento de Agua: Es esencial proveer a las familias fuera del coliseo con los elementos necesarios para realizar tratamientos de agua. Esto incluye suministrar filtros, pastillas purificadoras u otros métodos accesibles y económicos para asegurar un suministro de agua seguro y potable.
+
+Mejora en la Continuidad del Servicio de Agua: Considerar medidas para asegurar una provisión continua de agua, abordando las intermitencias en el servicio del acueducto, como el fortalecimiento de infraestructuras o la implementación de sistemas alternativos de suministro de agua.
+
+Saneamiento:
+
+Mejora y Segregación de Unidades Sanitarias: Es vital separar los baños por género dentro del coliseo y proveer elementos para la limpieza y mantenimiento de estas instalaciones. Se deben reparar rápidamente los aparatos dañados para garantizar condiciones seguras e higiénicas.
+
+Herramientas y Recolección de Residuos: Facilitar a las familias las herramientas básicas para la recolección de residuos, como bolsas y canecas, para evitar la acumulación y malos olores. Además, se debe gestionar la recolección de residuos de manera más frecuente para prevenir la proliferación de vectores y mantener un entorno higiénico.
+
+Fortalecimiento del Comité de Aseo: Dotar al comité existente con los elementos y recursos necesarios para realizar eficazmente su labor de mantener los espacios limpios y saludables dentro del coliseo.
+
+Higiene:
+
+Provisión de Artículos de Higiene: Proveer a las familias desplazadas con elementos básicos de higiene personal y doméstica, como jabón, papel higiénico, productos para la higiene menstrual, entre otros, mediante campañas de donación o asistencia humanitaria.
+
+Capacitación en Prácticas de Higiene: Organizar sesiones de capacitación para promover prácticas de higiene efectivas y seguras, enfocándose en el uso adecuado de los elementos provistos y en la gestión de la higiene menstrual para prevenir riesgos para la salud.
+
+Acceso a Recursos de Higiene asequibles: Buscar opciones accesibles y económicas para que las familias puedan adquirir estos productos básicos de higiene, considerando programas de subsidios o transferencias monetarias que permitan a las familias contar con los recursos para acceder a los artículos de higiene esenciales.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => AGUA
+•	La mayoría de los hogares afectados tienen acceso al agua, con un punto de agua a una distancia menor a 500 m y el volumen de agua captado esta entre 7.5 y 15l/p/d.
+•	La mayoría de los hogares afectados tienen acceso a agua, pero NO practican ningún tipo de tratamiento a nivel domiciliario o métodos de barreras múltiples
+SANEAMEINTO
+•	La mayoría de los hogares afectados cuenta con acceso a instalaciones de eliminación de excretas, pero estas no están desagregadas por género, ni son suficientes.
+•	La mayoría de los hogares afectados no cuentan con información sobre prácticas seguras de recolección y disposición de residuos sólidos.
+HIGIENE
+•	La mayoría de los hogares no cuenta con acceso a ningún tipo de elemento de higiene.
+•	La mayoría de los hogares no cuentan con conocimientos en temas relacionados con la promoción de las buenas prácticas de higiene y por ende no las practican.
+    [group_aa8xg30/group_jn0nm53/san] => Dado que la emergencia se ha prologado, para algunas familias ya no es funcional la distribución y consumo de alimentos a través de la olla comunitaria, puesto que, para llegar a estos puntos les involucra un recurso, largas distancias, e incluso riesgos de protección.
+
+Las familias del último desplazamiento evidencian más retos al momento de conseguir un empleo y/o actividad informal para obtener un ingreso económico y complementar el consumo de alimentos, puesto que, en el municipio hay demasiada oferta de mano de obra por aquellas personas que se desplazaron hace aproximadamente tres meses. Además, aquellas que logran ocuparse de manera informal mencionan no recibir un pago justo por las actividades que desempeñan, relacionan que la diferencia puede alcanzar un 30%. 
+
+Las familias mencionan que una dieta poco diversificada y el no consumo de alimentos tradicionales afecta de alguna manera el estado emocional y la salud de la población desplazada; además, los alimentos que consumen les genera saciedad y no los aportes nutritivos y energéticos que demandan.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => •	La magnitud de la emergencia y la desactualización del plan de contingencia desborda la capacidad de respuesta institucional generando que no se brinde asistencia alimentaria en el marco de la inmediatez.
+•	En el centro poblado de Samaniego hay disponibilidad de alimentos, pero las familias no pueden acceder económicamente a estos.
+•	En los puntos de almacenamiento de alimentos para la olla comunitaria hay presencia de roedores y otros vectores que pueden afectar el estado y la calidad de los alimentos.
+•	En el marco de la emergencia las familias del último desplazamiento han implementado las cinco estrategias de afrontamiento reducido (rCsi); además, han tenido que gastar de sus ahorros e incluso algunas mencionan han tenido que mendigar. 
+•	Las familias mencionan que su dieta se basa principalmente en el consumo de granos, fideos y arroz, la ingesta de proteína es limitada. La asistencia alimentaria ha sido estándar y no ha tenido en cuenta el enfoque diferencial.
+•	El coliseo Villa del Rosario no cuenta con espacios apropiados para la preparación de los alimentos, se desarrolla en espacios abiertos, donde los NNA ocupan su tiempo libre.
+•	Las ollas comunitarias no cuentan con el menaje suficiente para la distribución de los alimentos.
+•	Se han presentado algunos casos de dolores estomacales, algunas personas los relacionan con el consumo de agua y la olla comunitaria.
+•	Perdida de hábitos saludables que influyen en el bienestar y la buena alimentación.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Es importante actualizar los datos e información de las evaluaciones de necesidades en seguridad alimentaria para brindar una asistencia alimentaria oportuna, complementaria y eficiente; además, de las afectaciones a mediano y largo plazo por la falta de acceso a los medios tradicionales de subsistencia.
+
+Para garantizar que se subsanen las necesidades en seguridad alimentaria no basta con facilitar la disponibilidad y acceso a los alimentos, es necesario fortalecer las capacidades en la implementación de prácticas saludables entorno a la preparación de los alimentos.
+
+Encaminar esfuerzos institucionales para extender la asistencia humanitaria a total de la población desplazada, que garantice la cobertura y sostenibilidad de esta, mientras existen las condiciones de retorno digno y seguro, con el fin de evitar la continuidad en la implementación de las estrategias de afrontamiento.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => •	Las familias del último evento del desplazamiento no han recibido asistencia para subsanar sus necesidades alimentarias, estas se encuentran en sus redes de apoyo; sin embargo, su alimentación depende principalmente de la funcionalidad de la olla comunitaria.
+•	El suministro de alimentos para la olla comunitaria no es suficiente para el número de personas que se encuentran en condición de desplazamiento.
+•	Los puntos donde se prepara la olla comunitaria (Coliseo Villa del Rosario) no son funcionales para toda la población desplazada, puesto que, están lejos del lugar donde residen. Esto dificulta el acceso principalmente a adultos mayores, NNA, personas con discapacidad y madres gestantes.
+•	Por dificultades de acceso físico, económico y seguro a los alimentos las familias del último desplazamiento han tenido que implementar estrategias de afrontamiento reducido; de igual manera, algunas relacionadas con los medios de subsistencia.
+•	La ingesta de alimento de las familias se basa en una dieta poco diversificada, que no responde a sus preferencias alimentarias. 
+•	A través de la conformación de comités los representantes comunitarios se organizan para gestionar alimentos que surtan la olla comunitaria.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => La comunidad desplazada presenta dificultad para el acceso a la salud por parte de las EPS, falta de seguimiento en patologías crónicas y desabastecimiento de medicamentos, además, manifiestan deficiencias en seguridad alimentaria, acceso a agua segura y de higiene básico que influyen en el estado de salud del individuo y de la comunidad.
+
+La E.S.E Lorencita Villegas es un hospital de primer nivel que da respuesta a la población de Samaniego sin embargo mencionan que han visto sobreocupación debido a la emergencia 
+
+Se han presentado múltiples desplazamientos, el ultimo sobre mediados del mes de octubre, los lideres refieren aproximadamente 700 familias se han visto afectadas con este nuevo desplazamiento involucrando a 21 veredas, existen personas en situación de discapacidad dentro de esta población desplazadas, con enfermedades crónicas que requieren especial atención especialmente en el contexto de salud mental dado los estigmas visibles en la población por el conflicto.
+
+Mujeres gestantes y planificación familiar:
+Las gestantes que se encuentran en situación de desplazamiento no cuentan con garantías por parte de la E.S.E municipal, argumentado por rebosamiento de la capacidad local, en cuanto a acceso a controles prenatales, toma de laboratorios, entrega de micronutrientes, y consulta de salud sexual y reproductiva, no obstante, existe acompañamiento por parte de CARE quienes han venido desarrollando jornadas de atención desde el mes de agosto, sin embargo, la organización comenta que existe resistencia dentro de la comunidad desplazada frente al uso de métodos anticonceptivos.
+
+Vacunación:
+Los menores de edad que se encuentran en el coliseo presentan esquemas de vacunación incompletos o sin iniciar debido al contexto de conflicto al que se ha visto expuesta la comunidad, además, existe desinformación por parte de la comunidad en cuanto a la vacunación desconociendo los beneficios que ofrece la vacunación en menores de 5 años. 
+
+Cobertura e intervenciones en salud:
+El municipio de Samaniego cuenta con un hospital de primer nivel de atención que tiene servicio de urgencias las 24 horas, incluye en su contratación 21 médicos generales, 7 enfermeros jefe,  50 auxiliares de enfermería 4, promotores de salud y 2 psicólogo, el Subgerente re tener programas de Vacunación, Control Prenatal , Enfermedades Crónicas No trasmisibles , Consulta Externa y Consulta Prioritaria sin embargo existe limitación para el acceso por el aseguramiento teniendo en cuenta que gran parte de la población está asegurada en Santa Cruz de Guachavés, existen 4 E.P.S. que tienen impacto en la salud de la población: Sanitas, Nueva E.P.S. Mallamas , Emssanar, el mayor reporte de demoras y falta de disponibilidad de convenios es con Emssanar, se realizó verificación de eventos de importancia en salud pública de los cuales el hospital y  la secretaria de salud refirió que en el marco de la emergencia en la comunidad perteneciente a los Resguardos en situación de desplazamiento no hay eventos recientes de importancia en salud publica tales como Morbi-mortalidad materna extrema o desnutrición aguda o muerte en menores de 5 años.
+
+Se realiza dialogo con los lideres de la comunidad y con la comunidad a través de grupos focales evidenciando que existe gran número de patologías derivadas del acceso al agua, alimentos y de higiene básicas, además demoras y barreras de acceso en la atención por parte de la E.S.E y por las E.P.S situación que se ha agudizado en el marco del conflicto.
+ 
+Referentes comunitarios en salud:
+Los lideres refieren que han organizado un comité de salud dentro de cada una de las veredas para dar prioridad a los casos sin embargo manifiestan falta de acompañamiento por las distintas instituciones para ser escuchados. 
+
+Capacidad instalada: El hospital de Samaniego manifiesta falta de recursos para ofrecer atención a la emergencia dado la cantidad de pacientes que han sobresaturado los diferentes servicios.
+
+Se percibe evidente dificultad para el acceso a la salud, y afecciones a la salud derivadas del acceso al agua, alimentación, medicamentos e higiene, se recomienda mayor acompañamiento a la población en situación de desplazamiento principalmente en el sitio de mayor concentración que es el coliseo de Villa del Rosario por parte de la institucionalidad.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => La E.S.E cuenta con equipo con capacidad de respuesta y conocimiento de las rutas de atención en salud mental cuentan con protocolo de activación para Violencia Sexual y VBG integral en casos de urgencia sin embargo la población evaluada refiere desconocer las rutas de atención y existe un desconocimiento de la salud mental como necesidad y como derecho la población requiere educación en salud mental en el marco del conflicto, medidas para sobrellevar problemáticas como el duelo, las relaciones de pareja, pautas de crianza saludables.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => De acuerdo con la evaluación se requiere apoyo y articulación de las instituciones para el abordaje de VBG, refieren no tener casos reportados en la comunidad evaluada, se dan las recomendaciones a secretaria de Salud y a la E.S.E en cuanto a la articulación y generar espacios educativos para la oferta de los servicios en salud mental. 
+
+Se debe fortalecer con las ONG presentes en el territorio el abordaje conjunto de la Salud mental, para mejorar tiempos de respuesta frente a eventos victimizantes en el marco del conflicto.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => De acuerdo con la reunión con la E.S.E y secretaria de Salud, cuentan con capacidad para la atención en Salud mental por el servicio de urgencias sin embargo se deben reforzar acciones para generar estrategias en pro de atención de la población desplazada por el conflicto y favorecer el abastecimiento de medicamentos para la atención de las enfermedades mentales y físicas desde un enfoque interdisciplinario y puntualmente con enfoque diferencial teniendo en cuenta la población evaluada.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => Se recomienda la atención integral a la población de mayor concentración en el Coliseo de Villa del Rosario tanto en salud física y mental junto con la educación a la población por medio de la generación de talleres en salud mental, educación en el marco de la emergencia, y rutas de atención tanto en salud mental como en salud física, se debe incluir a las EPS presentes en el territorio para dar prioridad y tramite a las remisiones y valoraciones por medicina especializada por orden de prioridad y seguimiento a las patologías asegurando acceso a medicamentos y control a las patologías presentes en la comunidad para evitar barreras en la atención de los pacientes.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => El municipio tiene capacidad de respuesta en salud física/salud mental/SSR
+Existen dificultades para acceder a servicios de salud
+No existen reportes institucionales de DNT severa en menores de 5 años en los últimos 3 meses
+No existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida
+    [group_aa8xg30/group_tb5de96/EIE] => Las necesidades producto de la emergencia tienen especial afectación en NNA, dado que, no se da un tipo de atención diferencial de acuerdo con las necesidades específicas y particulares de esta población. Los riesgos asociados en materia de protección se extienden desde antes, durante y después de la emergencia, por ejemplo, se presume del uso y vinculación de los NNA por parte de los GANE, los cuales se pueden dar en diferentes escalas de tiempo y espacio. De igual manera, hay preocupación por la ocupación del tiempo libre de los NNA que puede ser aprovechada como estrategia por parte de los GANE.
+
+En el ejercicio de recolección de información las familias manifiestan que parte del deseo de regresar a sus viviendas tiene que ver con la presión indirecta que ejercen las niñas y niños al preguntar de manera constante cuándo se dará el retorno a casa, puesto que, muchos de ellos no están acostumbrados a las condiciones de vida de la zona urbana y se sienten “confinados”. 
+
+La comunidad educativa ha generado diferentes estrategias para la continuidad del servicio educativo, actualmente se están dictando clases de 7am a 12m a los niños en el coliseo Villa del Rosario, en un espacio adecuado por la misma comunidad, con carpas y lonas, sin embargo, las condiciones actuales y particulares de cada hogar no facilitan que todos los NNA puedan asistir a los espacios educativos, presentándose casos de deserción escolar.
+
+Existe un acompañamiento de la institución educativa sin embargo las condiciones no son las idóneas para el adecuado aprendizaje y desarrollo de las capacidades de la población escolar teniendo en cuenta las condiciones en las que están recibiendo las clases.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Existen 18 Sedes educativas (Tigre, Copal, Salto, Laverde, Betania, Anda lucia, El Decio, La Paloma, El Palacio, la Bocana, San Antonio, Planada, Cedral, El salto, Buenavista, Montufa, El Maizal, Transval) Betania se destaca como la única sede ubicada en el sector montañoso que ofrece educación hasta el noveno grado, mientras que las demás hasta el quinto. 
+Número de niños y niñas afectados: entre 85 y 90 
+Actualmente se está prestando el servicio educativo de 7am a 12m a los niños en el coliseo Villa del Rosario, en un espacio adecuado por la misma comunidad, con carpas y lonas
+Riesgo de uso, vinculación y reclutamiento, y posible deserción escolar. 
+La escuela no cuenta con material pedagógico en emergencia y los profesores continúan con un alto nivel de afectación psicosocial.
+El área occidente de NRC realizo EeE con docentes y entregas de kits docentes
+Existe preocupación en los padres de familia por la continuidad del servicio educativo para el próximo año, si las condiciones en el territorio no mejoran. 
+Se requiere acompañamiento a NNJA en actividades de manejo del tiempo libre.
+Existe desconocimiento en educación en el riesgo de minas
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => Se requiere promoción de entornos protectores, aprovechamiento del tiempo libre, prevención para la deserción escolar, dotación de herramientas y elementos pedagógicos con enfoque étnico
+
+Acompañamiento por la secretaria de Educación de Samaniego teniendo en cuenta la limitación que tienen las poblaciones de los resguardos
+
+Para contener la situación de emergencia y garantizar la normalización del servicio educativo se recomienda. Capacitación tanto de docentes como de la comunidad educativa en la elaboración del Plan de Respuesta Educativa en Emergencias, con el objetivo de preparar y hacer frente a situaciones de crisis. Llevar a cabo sensibilizaciones dirigida a los docentes para resaltar la importancia del acceso a la educación en el contexto de una emergencia, subrayando su papel fundamental en el proceso.
+
+Entrega de kits escolares a los estudiantes, proporcionándoles el material necesario para continuar con su aprendizaje. Para enriquecer la experiencia educativa, se sugiere la entrega de una maleta lúdico-pedagógica que incluye recursos destinados a actividades escolares y tiempo libre, promoviendo así un enfoque integral en la educación de los NNs en medio de la situación de emergencia. Estas medidas buscan garantizar que la educación continúe siendo accesible y enriquecedora para los estudiantes en un entorno desafiante.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => No hay ataque a la Escuela(s) de la comunidad durante la emergencia presencia 1 ó + eventos durante la emergencia
+Existe suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia.
+Se identifica afectación en niños, niñas y adolescentes en edad escolar ante la presencia 1 ó más riesgos de protección durante la emergencia. 
+Existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. 
+La escuela no cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. 
+La Institución Educativa no cuenta con Plan de Gestión integral de riesgo escolar PGIRE y ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación).
+    [group_aa8xg30/group_tb5de96_001/TM] => Dificultades en el proceso de caracterización de la población desplazada en el último evento que demora los procesos de gestión en la solicitud de ayudas bajo el principio de la subsidiariedad y complementariedad.
+
+Según algunos funcionarios de institucionalidad, actualmente, hace presencia en el centro poblado de Samaniego una organización que está generando confusión y expectativa entre la comunidad desplazada por solicitud de documentos para las inscripciones de asistencia humanitaria; además, al parecer estaría implementando un cobro de 120.000 pesos para obtener ayudas. Esta corporación fue denunciada penalmente por fraudes y estafas.
+
+Altas expectativas del total de la población desplazada en recibir asistencia humanitaria a través de la modalidad de cash multipropósito. Las familias mencionan tener diferentes deudas por la falta de ingresos económicos. 
+
+Cabe mencionar, el desarrollo oportuno y eficiente de la primera intervención en Samaniego para atender a parte de la población desplazada a través de la modalidad de transferencias multipropósito por parte del Consorcio MIRE. Los prestadores del servicio financiero y los mercados estuvieron en la capacidad para atender la respuesta sin generar afectaciones en la población de acogida
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => Dificultades en el proceso de caracterización de la población desplazada en el último evento que demora los procesos de gestión en la solicitud de ayudas bajo el principio de la subsidiariedad y complementariedad.
+
+Según algunos funcionarios de institucionalidad, actualmente, hace presencia en el centro poblado de Samaniego una organización que está generando confusión y expectativa entre la comunidad desplazada por solicitud de documentos para las inscripciones de asistencia humanitaria; además, al parecer estaría implementando un cobro de 120.000 pesos para obtener ayudas. Esta corporación fue denunciada penalmente por fraudes y estafas.
+
+Altas expectativas del total de la población desplazada en recibir asistencia humanitaria a través de la modalidad de cash multipropósito. Las familias mencionan tener diferentes deudas por la falta de ingresos económicos. 
+
+Cabe mencionar, el desarrollo oportuno y eficiente de la primera intervención en Samaniego para atender a parte de la población desplazada a través de la modalidad de transferencias multipropósito por parte del Consorcio MIRE. Los prestadores del servicio financiero y los mercados estuvieron en la capacidad para atender la respuesta sin generar afectaciones en la población de acogida.
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Establecer estrategias para hacer seguimiento del uso del recurso y el impacto de las transferencias multipropósito por movimientos de la población a otras áreas; puesto que, existen en algunas familias el interés de regresar, sin embargo, actualmente no están dadas las condiciones para un retorno digno y seguro. 
+
+Cruzar las bases de datos de las personas que ya fueron atendidas a través de la modalidad de cash para evitar duplicidad de acciones y extender la atención en familias con altos niveles de vulnerabilidad ocasionadas por la emergencia
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => •	En el centro poblado de Samaniego existe una diversa y amplia oferta de productos, con comerciantes que confían en su capacidad de reabastecerse.
+•	Durante los tres meses que se ha prolongado la emergencia en la cabecera municipal de Samaniego no se han presentado problemas de desabastecimiento, algunos alimentos han aumentado de precio, pero esto no tiene que ver con el desplazamiento.
+
+
+•	Para ingresar al municipio de Samaniego se cuenta con una vía principal que se encuentra en buenas condiciones y facilita las labores de abastecimiento; además, de la cercanía con los municipios de Pasto e Ipiales. 
+•	En la ERN se menciona que, algunas familias desplazadas han regresaron a sus viviendas sin las condiciones de seguridad. El rumor de una posible asistencia puede hacer que estas se movilicen exponiéndose a diferentes riesgos producto de las estrategias de control territorial (MAP, MSE). Además, de los hechos recientes como la explosión de un artefacto en uno de los puentes que comunica a Samaniego con las comunidades de El Sande.
+•	Existen algunos comportamientos asociados a VBG que no se reconocen, se invisibilizan y/o normalizan por las dinámicas culturales de la comunidad indígena, lo cual, puede generar que en algunos hogares se aumenten las tensiones al definir la jefatura del hogar que recibirá el cash.
+•	Cambios en las dinámicas sociales al interior de las comunidades debido a la entrega de la asistencia.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 30
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 20
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Nayibe Chalacan
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => 312 2260829
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Secretaia Resguardo indígena Awa El Sande
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Yudi Alejandra Toro
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => 316 4678914
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Enlace de víctimas municipal
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => Albert Andrés Moriano
+    [group_aa0qz67/group_de0zc49/_3b_Tel_fono_1] => 312 8511007
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => Secretaría de Gobierno de Samaniego
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:abbafb8a-395e-40b2-879b-dd016711385e
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => abbafb8a-395e-40b2-879b-dd016711385e
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fabbafb8a-395e-40b2-879b-dd016711385e%2FULTIMO_CENSO_1-0_5_13.xlsx
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fabbafb8a-395e-40b2-879b-dd016711385e%2FULTIMO_CENSO_1-0_5_13.xlsx
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fabbafb8a-395e-40b2-879b-dd016711385e%2FULTIMO_CENSO_1-0_5_13.xlsx
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fabbafb8a-395e-40b2-879b-dd016711385e%2FULTIMO_CENSO_1-0_5_13.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/abbafb8a-395e-40b2-879b-dd016711385e/ULTIMO_CENSO_1-0_5_13.xlsx
+                    [instance] => 506717143
+                    [xform] => 638464
+                    [id] => 216573996
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-11-21T05:23:10
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

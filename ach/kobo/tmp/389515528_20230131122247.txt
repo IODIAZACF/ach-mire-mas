@@ -1,0 +1,84 @@
+stdClass Object
+(
+    [_id] => 389515528
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-01-31T12:11:58.056-05:00
+    [end] => 2023-01-31T12:22:35.879-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => OLAYA HERRERA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Veredas Zapotal y Calabazal
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin Información
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-01-31
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => NARCOTRAF CRISIS_DESPLAZAM PRESENCIA_GAI RECLUTAMIENTO VBG
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => El 10 de enero se presentó el desplazamiento forzado de aproximadamente 800 personas afrodescendientes (280 familias) de las veredas Zapotal y Calabazal del municipio deOlaya Herrera, como consecuencia de acciones coercitivas y restricciones a la movilidadimpuestas por parte de un Grupo Armado No Estatal (GANE). Este hecho victimizante seconvierte en el primer desplazamiento masivo en el departamento de Nariño en 2023,territorio con múltiples afectaciones humanitarias de manera histórica.
+enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/13012023_desplazamiento_masivo_en_olaya_herrera_vf.pdf
+    [group_yv1ph08/time2] => 2023-01-10
+    [group_yv1ph08/time3] => 21
+    [group_yv1ph08/evidencia] => proteccion educacion wash shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 280
+    [group_cn9za51/personas] => 800
+    [group_cn9za51/comu] => 4
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => La Alcaldía de Olaya Herrera habilitó el albergue municipal para la recepción de las familias desplazadas. Hasta el momento seencuentran 6 familias alojadas, a quienes se les ha brindado alimentación y hospedaje.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 11 de enero se activó el Comité Territorial de Justicia Transicional en Olaya Herrera, declarando el desplazamiento masivo, yse dio inicio al levantamiento del censo, el cual estará abierto hasta el lunes 16 de enero. Además, fue programado un nuevoComité para el día 18 de enero para revisión de compromisos y necesidades de atención a la población. La Alcaldía municipal se encuentra en revisión y gestión para entrega de ayudas humanitarias inmediatas, se proyecta entrega apartir del 16 de enero.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3+https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/13012023_desplazamiento_masivo_en_olaya_herrera_vf.pdf+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:1e0e291f-636b-4e9c-9720-e10fd0591a45
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 1e0e291f-636b-4e9c-9720-e10fd0591a45
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-01-31T17:22:46
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

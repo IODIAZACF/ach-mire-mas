@@ -1,0 +1,161 @@
+{
+    "packages": [
+        {
+            "name": "lazzard/php-ftp-client",
+            "version": "v1.5.3",
+            "version_normalized": "1.5.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lazzard/php-ftp-client.git",
+                "reference": "619ab7feea3952768825407d90b1ff8ba6a12182"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lazzard/php-ftp-client/zipball/619ab7feea3952768825407d90b1ff8ba6a12182",
+                "reference": "619ab7feea3952768825407d90b1ff8ba6a12182",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ftp": "*",
+                "php": "^7.2 | 8.0.*"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^8.0"
+            },
+            "time": "2021-11-26T10:40:54+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Lazzard\\FtpClient\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "El Amrani Chakir",
+                    "email": "elamrani.sv.laza@gmail.com",
+                    "homepage": "https://github.com/AmraniCh"
+                }
+            ],
+            "description": "This library provides helper classes and methods to manage your FTP files in an OOP way.",
+            "keywords": [
+                "ftp-client",
+                "ftp-library",
+                "php",
+                "php-ftp-client"
+            ],
+            "support": {
+                "issues": "https://github.com/lazzard/php-ftp-client/issues",
+                "source": "https://github.com/lazzard/php-ftp-client/tree/v1.5.3"
+            },
+            "install-path": "../lazzard/php-ftp-client"
+        },
+        {
+            "name": "nicolab/php-ftp-client",
+            "version": "v2.0.2",
+            "version_normalized": "2.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Nicolab/php-ftp-client.git",
+                "reference": "a1d007c8b203895611f68b0da314281d4a5c3d49"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Nicolab/php-ftp-client/zipball/a1d007c8b203895611f68b0da314281d4a5c3d49",
+                "reference": "a1d007c8b203895611f68b0da314281d4a5c3d49",
+                "shasum": ""
+            },
+            "require": {
+                "ext-ftp": "*",
+                "php": ">=5.4"
+            },
+            "time": "2022-08-10T11:09:32+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "FtpClient": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Tallefourtane",
+                    "email": "dev@nicolab.net",
+                    "homepage": "http://nicolab.net"
+                }
+            ],
+            "description": "A flexible FTP and SSL-FTP client for PHP. This lib provides helpers easy to use to manage the remote files.",
+            "homepage": "https://github.com/Nicolab/php-ftp-client",
+            "keywords": [
+                "file",
+                "ftp",
+                "helper",
+                "lib",
+                "server",
+                "sftp",
+                "ssl",
+                "ssl-ftp"
+            ],
+            "support": {
+                "source": "https://github.com/Nicolab/php-ftp-client/tree/v2.0.2"
+            },
+            "install-path": "../nicolab/php-ftp-client"
+        },
+        {
+            "name": "touki/ftp",
+            "version": "v1.2.1",
+            "version_normalized": "1.2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/touki653/php-ftp-wrapper.git",
+                "reference": "318595fb8b1bff215b4af092c3faae83a532b822"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/touki653/php-ftp-wrapper/zipball/318595fb8b1bff215b4af092c3faae83a532b822",
+                "reference": "318595fb8b1bff215b4af092c3faae83a532b822",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "time": "2017-01-04T08:59:38+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "Touki\\FTP": [
+                        "lib/",
+                        "tests/"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Touki",
+                    "email": "g.vincendon@vithemis.com"
+                }
+            ],
+            "description": "A fully object oriented library for PHP FTP functions",
+            "support": {
+                "issues": "https://github.com/touki653/php-ftp-wrapper/issues",
+                "source": "https://github.com/touki653/php-ftp-wrapper/tree/master"
+            },
+            "install-path": "../touki/ftp"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

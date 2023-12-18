@@ -1,0 +1,9 @@
+Título:auditoria_compra
+
+Tablas:M_DOCUMENTOS,D_DOCUMENTOS
+
+Vistas:V_M_COMPRAS,V_D_AUDITORIA_COMPRA,V_M_PROVEEDORES_REEMBOLSABLES
+
+Maestros:m_proveedores_reembolsables,m_conceptos_compras,m_lineas
+
+Reportes:r_documento_com

@@ -1,0 +1,86 @@
+<div class="page" data-name="m_productos" >
+	<style>
+	.demo-card-header-pic .card-header {
+	  height: 30vw;
+	  background-size: cover;
+	  background-position: center;
+	  color: #fff;
+	  xwidth : 800px; 
+	}
+	.demo-card-header-pic .card-content-padding .date{
+	  color: #8e8e93;
+	}
+
+	</style>
+
+	<div class="navbar">
+		<div class="navbar-inner sliding">
+			<div class="left">
+				<a href="#" class="link" data-funcion="t_M_PRODUCTOS" data-opcion="esc">
+					<i class="icon icon-back"></i>
+				</a>
+			</div>
+			<div class="title">Catálogo de Productos
+				<div class="subtitle">
+					<span></span>
+					<span id="LINEA">&nbsp;</span>
+				</div>
+			</div>
+			<div class="right">
+				<a href="#" class="link" data-funcion="t_M_PRODUCTOS" data-opcion="carrito">
+					<i class="icon f7-icons">cart</i>
+				</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar-labels toolbar-bottom-md">
+		<div class="toolbar-inner">
+			<a href="#" class="tab-link opciones" data-funcion="t_M_PRODUCTOS" data-opcion="esc">
+				<i class="icon icon-back"></i>
+				<span class="tabbar-label">Atrás</span>
+			</a>
+		</div>
+		
+	</div>
+	
+	<form class="searchbar searchbar-init" autocomplete="off">
+		<div class="searchbar-inner">
+			<div class="searchbar-input-wrap">
+				<input id="M_PRODUCTOS-buscador" autocorrect="off" data-grid="M_PRODUCTOS" type="search" placeholder="Buscar" onkeypress="tecla_grid(event,this.id)">
+				<i class="searchbar-icon"></i>
+				<span class="input-clear-button"></span>
+			</div>
+			<span class="searchbar-disable-button">Cancel</span>
+		</div>
+	</form>
+	<div class="page-content">
+		<div class="list media-list">
+			<ul id="M_PRODUCTOS" data-tabla="V_CONSULTA_PRECIO" data-indice="ID_M_PRODUCTOS" data-campos="*" data-busca="ID_M_PRODUCTOS,DESCRIPCION,CODIGO1" data-orden="DESCRIPCION ASC" data-filtro="ID_M_LINEAS" data-xfiltro="" data-limite="50" data-debug="" data-onselect="t_M_PRODUCTOS">
+			</ul>
+			<script id="M_PRODUCTOS-template" type="text/template7">
+				</>
+				<li class="card demo-card-header-pic">
+					<a REGISTRO href="#" class="item-link registro ">
+							<div class="card-header" style="background-image:url(../../imagenes/productos/{{ID_M_PRODUCTOS}}.jpg)">
+							<!--div class="card-header" style="background-image:url(http://escollanos.com/images/productos/reckeweg/small/R3.png)"-->
+								
+								
+								&nbsp;
+							</div>
+							<div class="card-content card-content-padding">
+								<small>
+								{{DESCRIPCION}}
+								<br>
+								{{boton ID_M_PRODUCTOS DESCRIPCION LINEAS PRECIO}}
+								<br>
+								</small>
+							</div>
+
+					</a>
+				</li>
+			</script>
+		</div>
+	</div>
+	<javascript src="catalogo_productos/m_productos.js"></javascript>
+</div>

@@ -1,0 +1,77 @@
+stdClass Object
+(
+    [_id] => 468192191
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-18T10:41:59.311-05:00
+    [end] => 2023-08-18T11:59:10.743-05:00
+    [group_gu1lq88/Departamento] => CAUCA
+    [group_gu1lq88/CAUCA] => LOPEZ
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Consejo comunitario integración Rio Chuare
+    [group_gu1lq88/Nombre_de_la_comunidad] => Naincioná
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-08-18
+    [group_gu1lq88/Nombre_de_quien_reporta] => Paula Andrea Villegas Osorio
+    [group_gu1lq88/Cargo] => Médicos del Mundo
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => NARCOTRAF CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 11 de agosto aproximadamente 317 personas (152 familias) de la comunidad Naincioná del Consejo Comunitario Integración Rio Chuare se desplazaron hacia la cabecera municipal de López de Micay por los frecuentes enfrentamientos entre los GANE presentes en el territorio. Algunos lograron desplazarse y otros quedaron confinados en medio del fuego cruzado, atrapados en su territorio. Hay necesidades en todos los sectores, NRC área ingresará con ACNUR con intervención en ICLA, wash y educación. UARIV ingresará con alimentos a partir del 25/08.
+    [group_yv1ph08/time2] => 2023-08-11
+    [group_yv1ph08/time3] => 7
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Salud - Protección
+    [group_cn9za51/familias] => 152
+    [group_cn9za51/personas] => 317
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => afro
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => UARIV ingresa el 25/08 con alimentos.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => N/A
+    [group_mu9ho06/Seguridad] => N/A
+    [group_mu9ho06/Operativa] => N/A
+    [group_mu9ho06/Observaciones] => N/A
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:8aa7ebbe-cb04-4f4d-9a70-f3bddf675c4a
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 8aa7ebbe-cb04-4f4d-9a70-f3bddf675c4a
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-18T16:59:12
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

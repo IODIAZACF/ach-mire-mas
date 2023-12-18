@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+    <title></title>
+    <style>
+        .grid {
+            width: 100%;
+            height: 100%;
+        }
+
+		
+	
+.col {
+  float: left;
+  width: 25%;
+  height: 25vh;
+  border: 0px solid;
+  display: inline-block;
+}
+	
+    </style>
+</head>
+<body>
+<table width="100%">
+	<tr>
+		<td><img src="http://127.0.0.1/ach/solicitudes_firmas/ach.jpg" /></td>
+	</tr>
+	<tr>
+		<td><b>Fecha:</b>{FECHA_SOLICITUD}</td>
+	</tr>
+	<tr>
+		<td><b>Asunto:</b>{ASUNTO}</td>
+	</tr>
+	<tr>
+		<td><b>Solicitante:</b>{NOMBRE_SOLICITANTE}</td>
+	</tr>
+	<tr>
+		<td>{COMENTARIOS}</td>
+	</tr>
+	<tr>
+		<td>Para la Aprobacion se require las siguientes firmas</td>
+	</tr>
+	<!-- BEGIN GRUPO -->
+	<tr>
+		<td>
+			 <div class="grid">
+				<!-- BEGIN FIRMANTE -->
+					<div class="col">						
+						<!-- BEGIN FIRMA --> <div><img src="http://127.0.0.1/ach/imagenes/firmas_digital/{ID_M_USUARIOS_FIRMANTE}.jpg" /></div><!-- END FIRMA -->
+						<div>{NOMBRE_FIRMANTE}</div>
+					</div>
+				<!-- END FIRMANTE -->
+			</div>		
+		</td>
+	</tr>
+	<!-- END GRUPO -->	
+</table>
+</body>
+</html>

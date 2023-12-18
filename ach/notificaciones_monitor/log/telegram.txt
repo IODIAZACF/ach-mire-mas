@@ -1,0 +1,5636 @@
+stdClass Object
+(
+    [update_id] => 465837615
+    [message] => stdClass Object
+        (
+            [message_id] => 203
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594217246
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837616
+    [message] => stdClass Object
+        (
+            [message_id] => 205
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594217268
+            [text] => Hola
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837617
+    [message] => stdClass Object
+        (
+            [message_id] => 207
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594217273
+            [text] => Epa
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837618
+    [message] => stdClass Object
+        (
+            [message_id] => 209
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594217365
+            [text] => /hola
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 5
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837619
+    [message] => stdClass Object
+        (
+            [message_id] => 212
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594218975
+            [text] => Prueba
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837620
+    [message] => stdClass Object
+        (
+            [message_id] => 215
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594219473
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837621
+    [message] => stdClass Object
+        (
+            [message_id] => 217
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594219635
+            [text] => Benjamín desde Telegram
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837622
+    [message] => stdClass Object
+        (
+            [message_id] => 219
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594219694
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837623
+    [message] => stdClass Object
+        (
+            [message_id] => 224
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594221848
+            [text] => Hola
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837624
+    [message] => stdClass Object
+        (
+            [message_id] => 226
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222733
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837625
+    [message] => stdClass Object
+        (
+            [message_id] => 229
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222741
+            [text] => ESTE MENSAJE NO ES UNA AYUDA
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837626
+    [message] => stdClass Object
+        (
+            [message_id] => 230
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222750
+            [text] => NI QUE LO ESCRIBA DESPUES /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 26
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837627
+    [message] => stdClass Object
+        (
+            [message_id] => 231
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222763
+            [text] => /AYUDA NI CON UN SPACIO AL PRINCIPIO
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837628
+    [message] => stdClass Object
+        (
+            [message_id] => 234
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222799
+            [text] => /AYUDA CON UN ESPACIO AL PRINCIPIO SI
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837629
+    [message] => stdClass Object
+        (
+            [message_id] => 237
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222815
+            [text] => /AYUDA CON 10 ESPACIOS AL PRINCIPIO
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837630
+    [message] => stdClass Object
+        (
+            [message_id] => 240
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222838
+            [text] => P /AYUDA SI TIENE UNA LETRA AL PRINCIPIO
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 2
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837631
+    [message] => stdClass Object
+        (
+            [message_id] => 241
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594224377
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837632
+    [message] => stdClass Object
+        (
+            [message_id] => 244
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594224466
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837633
+    [message] => stdClass Object
+        (
+            [message_id] => 247
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594224500
+            [text] => XXX
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837634
+    [message] => stdClass Object
+        (
+            [message_id] => 248
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594224505
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837635
+    [message] => stdClass Object
+        (
+            [message_id] => 251
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594224750
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837636
+    [message] => stdClass Object
+        (
+            [message_id] => 253
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594226631
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837637
+    [message] => stdClass Object
+        (
+            [message_id] => 254
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594226750
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837638
+    [message] => stdClass Object
+        (
+            [message_id] => 256
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594226838
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837639
+    [message] => stdClass Object
+        (
+            [message_id] => 257
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594226853
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837640
+    [message] => stdClass Object
+        (
+            [message_id] => 259
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594226880
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837641
+    [message] => stdClass Object
+        (
+            [message_id] => 261
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594228654
+            [text] => hola telegram
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 13
+                            [type] => pre
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837642
+    [message] => stdClass Object
+        (
+            [message_id] => 262
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594242538
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837643
+    [message] => stdClass Object
+        (
+            [message_id] => 264
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594243836
+            [text] => /PRODUCTO/BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837644
+    [message] => stdClass Object
+        (
+            [message_id] => 265
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594243951
+            [text] => /PRODUCTO
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837645
+    [message] => stdClass Object
+        (
+            [message_id] => 266
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594244078
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837646
+    [message] => stdClass Object
+        (
+            [message_id] => 268
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594244096
+            [text] => /PRODUCTO/BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837647
+    [message] => stdClass Object
+        (
+            [message_id] => 269
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594244415
+            [text] => /PRODUCTO/BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837648
+    [message] => stdClass Object
+        (
+            [message_id] => 271
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594252471
+            [text] => /PRODUCTO/BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837649
+    [message] => stdClass Object
+        (
+            [message_id] => 273
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594252610
+            [text] => MENSAJE=:
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837650
+    [message] => stdClass Object
+        (
+            [message_id] => 274
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594252620
+            [text] => /PRODUCTO/BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837651
+    [message] => stdClass Object
+        (
+            [message_id] => 276
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594252659
+            [text] => /PRODUCTO/BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837652
+    [message] => stdClass Object
+        (
+            [message_id] => 278
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594252693
+            [text] => /PRODUCTO/BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837653
+    [message] => stdClass Object
+        (
+            [message_id] => 280
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594255455
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837654
+    [message] => stdClass Object
+        (
+            [message_id] => 281
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594255718
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837655
+    [message] => stdClass Object
+        (
+            [message_id] => 282
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594259970
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837656
+    [message] => stdClass Object
+        (
+            [message_id] => 283
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594260312
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837657
+    [message] => stdClass Object
+        (
+            [message_id] => 287
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594261787
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837658
+    [message] => stdClass Object
+        (
+            [message_id] => 289
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594261796
+            [text] => /producto
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837659
+    [message] => stdClass Object
+        (
+            [message_id] => 290
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262047
+            [text] => /producto
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837660
+    [message] => stdClass Object
+        (
+            [message_id] => 292
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262200
+            [text] => /producto
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837661
+    [message] => stdClass Object
+        (
+            [message_id] => 293
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262497
+            [text] => /PRODUCTO BR02
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837662
+    [message] => stdClass Object
+        (
+            [message_id] => 294
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262550
+            [text] => /PRODUCTO BR02
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837663
+    [message] => stdClass Object
+        (
+            [message_id] => 296
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262644
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837664
+    [message] => stdClass Object
+        (
+            [message_id] => 298
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262670
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837665
+    [message] => stdClass Object
+        (
+            [message_id] => 300
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262755
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837666
+    [message] => stdClass Object
+        (
+            [message_id] => 302
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262862
+            [text] => PRODUCTO BR01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837667
+    [message] => stdClass Object
+        (
+            [message_id] => 303
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262870
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837668
+    [message] => stdClass Object
+        (
+            [message_id] => 305
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594262966
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837669
+    [message] => stdClass Object
+        (
+            [message_id] => 306
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263100
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837670
+    [message] => stdClass Object
+        (
+            [message_id] => 308
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263105
+            [text] => /START
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837671
+    [message] => stdClass Object
+        (
+            [message_id] => 310
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263127
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837672
+    [message] => stdClass Object
+        (
+            [message_id] => 312
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263131
+            [text] => /START
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837673
+    [message] => stdClass Object
+        (
+            [message_id] => 314
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263404
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837674
+    [message] => stdClass Object
+        (
+            [message_id] => 317
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263622
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837675
+    [message] => stdClass Object
+        (
+            [message_id] => 319
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263631
+            [text] => /START
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837676
+    [message] => stdClass Object
+        (
+            [message_id] => 321
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263639
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837677
+    [message] => stdClass Object
+        (
+            [message_id] => 323
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263644
+            [text] => /PRODUCTO
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837678
+    [message] => stdClass Object
+        (
+            [message_id] => 325
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263650
+            [text] => /PRODUCTO BR02
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837679
+    [message] => stdClass Object
+        (
+            [message_id] => 327
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263664
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837680
+    [message] => stdClass Object
+        (
+            [message_id] => 329
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263716
+            [text] => /PRODUCTO BR03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837681
+    [message] => stdClass Object
+        (
+            [message_id] => 331
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263725
+            [text] => /PRODUCTO BR02
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837682
+    [message] => stdClass Object
+        (
+            [message_id] => 333
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263733
+            [text] => /PRODUCTO BR04
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837683
+    [message] => stdClass Object
+        (
+            [message_id] => 335
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263741
+            [text] => /PRODUCTO BR05
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837684
+    [message] => stdClass Object
+        (
+            [message_id] => 337
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594264153
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837685
+    [message] => stdClass Object
+        (
+            [message_id] => 339
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594264163
+            [text] => /SALDO
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837686
+    [message] => stdClass Object
+        (
+            [message_id] => 341
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594264169
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837687
+    [message] => stdClass Object
+        (
+            [message_id] => 343
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594264259
+            [text] => /producto he01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837688
+    [message] => stdClass Object
+        (
+            [message_id] => 345
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594264277
+            [text] => /producto/he01
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837689
+    [message] => stdClass Object
+        (
+            [message_id] => 347
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594264294
+            [text] => /producto br01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837690
+    [message] => stdClass Object
+        (
+            [message_id] => 349
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594264310
+            [text] => /xxx
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 4
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837691
+    [message] => stdClass Object
+        (
+            [message_id] => 351
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594264686
+            [text] => /producto br02
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837692
+    [message] => stdClass Object
+        (
+            [message_id] => 353
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594264740
+            [text] => /producto br02
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837693
+    [message] => stdClass Object
+        (
+            [message_id] => 355
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594264933
+            [text] => /producto br01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837694
+    [message] => stdClass Object
+        (
+            [message_id] => 357
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594264987
+            [text] => /producto br01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837695
+    [message] => stdClass Object
+        (
+            [message_id] => 359
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594265063
+            [text] => /prueba br01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 7
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837696
+    [message] => stdClass Object
+        (
+            [message_id] => 361
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594265070
+            [text] => /producto br01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837697
+    [message] => stdClass Object
+        (
+            [message_id] => 363
+            [from] => stdClass Object
+                (
+                    [id] => 784457274
+                    [is_bot] => 
+                    [first_name] => Jose
+                    [last_name] => Ojeda
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 784457274
+                    [first_name] => Jose
+                    [last_name] => Ojeda
+                    [type] => private
+                )
+
+            [date] => 1594265185
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837698
+    [message] => stdClass Object
+        (
+            [message_id] => 365
+            [from] => stdClass Object
+                (
+                    [id] => 784457274
+                    [is_bot] => 
+                    [first_name] => Jose
+                    [last_name] => Ojeda
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 784457274
+                    [first_name] => Jose
+                    [last_name] => Ojeda
+                    [type] => private
+                )
+
+            [date] => 1594265300
+            [text] => Hola soy jose
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837699
+    [message] => stdClass Object
+        (
+            [message_id] => 366
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594265648
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837700
+    [message] => stdClass Object
+        (
+            [message_id] => 368
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594265657
+            [text] => Ayuda
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837701
+    [message] => stdClass Object
+        (
+            [message_id] => 369
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594265662
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837702
+    [message] => stdClass Object
+        (
+            [message_id] => 371
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266079
+            [text] => /producto he01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837703
+    [message] => stdClass Object
+        (
+            [message_id] => 373
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594266221
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837704
+    [message] => stdClass Object
+        (
+            [message_id] => 375
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266262
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837705
+    [message] => stdClass Object
+        (
+            [message_id] => 377
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266498
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837706
+    [message] => stdClass Object
+        (
+            [message_id] => 379
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266521
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837707
+    [message] => stdClass Object
+        (
+            [message_id] => 381
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266615
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837708
+    [message] => stdClass Object
+        (
+            [message_id] => 383
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266710
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837709
+    [message] => stdClass Object
+        (
+            [message_id] => 385
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266891
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837710
+    [message] => stdClass Object
+        (
+            [message_id] => 387
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266911
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837711
+    [message] => stdClass Object
+        (
+            [message_id] => 389
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594266990
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837712
+    [message] => stdClass Object
+        (
+            [message_id] => 391
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594267217
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837713
+    [message] => stdClass Object
+        (
+            [message_id] => 393
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594267274
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837714
+    [message] => stdClass Object
+        (
+            [message_id] => 395
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594267289
+            [text] => ‘’’hola’’’
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837715
+    [message] => stdClass Object
+        (
+            [message_id] => 396
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594267343
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837716
+    [message] => stdClass Object
+        (
+            [message_id] => 398
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594267623
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837717
+    [message] => stdClass Object
+        (
+            [message_id] => 400
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594267854
+            [text] => hola
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 4
+                            [type] => bold
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837718
+    [message] => stdClass Object
+        (
+            [message_id] => 401
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594267888
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837719
+    [message] => stdClass Object
+        (
+            [message_id] => 404
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594268384
+            [text] => https://vps24.dyndns.info
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 25
+                            [type] => url
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837720
+    [message] => stdClass Object
+        (
+            [message_id] => 405
+            [from] => stdClass Object
+                (
+                    [id] => 556909299
+                    [is_bot] => 
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 556909299
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [type] => private
+                )
+
+            [date] => 1594303514
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837721
+    [message] => stdClass Object
+        (
+            [message_id] => 407
+            [from] => stdClass Object
+                (
+                    [id] => 556909299
+                    [is_bot] => 
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 556909299
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [type] => private
+                )
+
+            [date] => 1594303531
+            [text] => Ayuda
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837722
+    [message] => stdClass Object
+        (
+            [message_id] => 408
+            [from] => stdClass Object
+                (
+                    [id] => 556909299
+                    [is_bot] => 
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 556909299
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [type] => private
+                )
+
+            [date] => 1594303545
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837723
+    [message] => stdClass Object
+        (
+            [message_id] => 410
+            [from] => stdClass Object
+                (
+                    [id] => 556909299
+                    [is_bot] => 
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 556909299
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [type] => private
+                )
+
+            [date] => 1594303682
+            [forward_from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [forward_date] => 1594264545
+            [text] => https://core.telegram.org/api/entities
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 38
+                            [type] => url
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837724
+    [message] => stdClass Object
+        (
+            [message_id] => 411
+            [from] => stdClass Object
+                (
+                    [id] => 556909299
+                    [is_bot] => 
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 556909299
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [type] => private
+                )
+
+            [date] => 1594303694
+            [text] => /producto
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837725
+    [message] => stdClass Object
+        (
+            [message_id] => 413
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594303698
+            [text] => /producto he01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837726
+    [message] => stdClass Object
+        (
+            [message_id] => 415
+            [from] => stdClass Object
+                (
+                    [id] => 556909299
+                    [is_bot] => 
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 556909299
+                    [first_name] => luis manuel
+                    [last_name] => nuñez
+                    [username] => luisman01
+                    [type] => private
+                )
+
+            [date] => 1594303711
+            [text] => /producto he01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837727
+    [message] => stdClass Object
+        (
+            [message_id] => 417
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594311703
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837728
+    [message] => stdClass Object
+        (
+            [message_id] => 419
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594311715
+            [text] => /producto br01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837729
+    [message] => stdClass Object
+        (
+            [message_id] => 421
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594316726
+            [text] => /producto br03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837730
+    [message] => stdClass Object
+        (
+            [message_id] => 423
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594316807
+            [text] => /producto br03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837731
+    [message] => stdClass Object
+        (
+            [message_id] => 425
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594316848
+            [text] => /producto br03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837732
+    [message] => stdClass Object
+        (
+            [message_id] => 427
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594316972
+            [text] => /producto br03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837733
+    [message] => stdClass Object
+        (
+            [message_id] => 429
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594317005
+            [text] => /producto br03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837734
+    [message] => stdClass Object
+        (
+            [message_id] => 431
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594317027
+            [text] => /producto br99
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837735
+    [message] => stdClass Object
+        (
+            [message_id] => 433
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594317083
+            [text] => /producto br03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837736
+    [message] => stdClass Object
+        (
+            [message_id] => 435
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594327271
+            [text] => /PRODUCTO BR01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837737
+    [message] => stdClass Object
+        (
+            [message_id] => 437
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594327276
+            [text] => /START
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837738
+    [message] => stdClass Object
+        (
+            [message_id] => 439
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594327280
+            [text] => /AYUDA
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837739
+    [message] => stdClass Object
+        (
+            [message_id] => 441
+            [from] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [is_bot] => 
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594327287
+            [text] => /XSDFV
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837740
+    [message] => stdClass Object
+        (
+            [message_id] => 443
+            [from] => stdClass Object
+                (
+                    [id] => 931147895
+                    [is_bot] => 
+                    [first_name] => eduardo
+                    [last_name] => gonzalez
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 931147895
+                    [first_name] => eduardo
+                    [last_name] => gonzalez
+                    [type] => private
+                )
+
+            [date] => 1594586368
+            [text] => /producto br01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837741
+    [message] => stdClass Object
+        (
+            [message_id] => 445
+            [from] => stdClass Object
+                (
+                    [id] => 931147895
+                    [is_bot] => 
+                    [first_name] => eduardo
+                    [last_name] => gonzalez
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 931147895
+                    [first_name] => eduardo
+                    [last_name] => gonzalez
+                    [type] => private
+                )
+
+            [date] => 1594586423
+            [text] => /producto he01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837742
+    [message] => stdClass Object
+        (
+            [message_id] => 447
+            [from] => stdClass Object
+                (
+                    [id] => 982923085
+                    [is_bot] => 
+                    [first_name] => Pagotoday
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 982923085
+                    [first_name] => Pagotoday
+                    [type] => private
+                )
+
+            [date] => 1594652032
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837743
+    [message] => stdClass Object
+        (
+            [message_id] => 449
+            [from] => stdClass Object
+                (
+                    [id] => 982923085
+                    [is_bot] => 
+                    [first_name] => Pagotoday
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 982923085
+                    [first_name] => Pagotoday
+                    [type] => private
+                )
+
+            [date] => 1594652058
+            [text] => /producto he01
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837744
+    [message] => stdClass Object
+        (
+            [message_id] => 451
+            [from] => stdClass Object
+                (
+                    [id] => 982923085
+                    [is_bot] => 
+                    [first_name] => Pagotoday
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 982923085
+                    [first_name] => Pagotoday
+                    [type] => private
+                )
+
+            [date] => 1594652087
+            [text] => /producto he03
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837745
+    [message] => stdClass Object
+        (
+            [message_id] => 453
+            [from] => stdClass Object
+                (
+                    [id] => 1081311903
+                    [is_bot] => 
+                    [first_name] => Kleber
+                    [last_name] => Benavides
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1081311903
+                    [first_name] => Kleber
+                    [last_name] => Benavides
+                    [type] => private
+                )
+
+            [date] => 1594652641
+            [text] => De prueba
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837746
+    [message] => stdClass Object
+        (
+            [message_id] => 454
+            [from] => stdClass Object
+                (
+                    [id] => 1081311903
+                    [is_bot] => 
+                    [first_name] => Kleber
+                    [last_name] => Benavides
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1081311903
+                    [first_name] => Kleber
+                    [last_name] => Benavides
+                    [type] => private
+                )
+
+            [date] => 1594652670
+            [text] => /producto he04
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837747
+    [message] => stdClass Object
+        (
+            [message_id] => 456
+            [from] => stdClass Object
+                (
+                    [id] => 1081311903
+                    [is_bot] => 
+                    [first_name] => Kleber
+                    [last_name] => Benavides
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1081311903
+                    [first_name] => Kleber
+                    [last_name] => Benavides
+                    [type] => private
+                )
+
+            [date] => 1594652718
+            [text] => /producto c103
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837748
+    [message] => stdClass Object
+        (
+            [message_id] => 459
+            [from] => stdClass Object
+                (
+                    [id] => 982923085
+                    [is_bot] => 
+                    [first_name] => Pagotoday
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 982923085
+                    [first_name] => Pagotoday
+                    [type] => private
+                )
+
+            [date] => 1595021338
+            [text] => /h4
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 3
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837749
+    [message] => stdClass Object
+        (
+            [message_id] => 461
+            [from] => stdClass Object
+                (
+                    [id] => 982923085
+                    [is_bot] => 
+                    [first_name] => Pagotoday
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 982923085
+                    [first_name] => Pagotoday
+                    [type] => private
+                )
+
+            [date] => 1595021392
+            [text] => /producto he05
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837750
+    [message] => stdClass Object
+        (
+            [message_id] => 463
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1595968475
+            [text] => Hola
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837751
+    [message] => stdClass Object
+        (
+            [message_id] => 464
+            [from] => stdClass Object
+                (
+                    [id] => 674949355
+                    [is_bot] => 
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 674949355
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [type] => private
+                )
+
+            [date] => 1595968546
+            [text] => /start
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837752
+    [message] => stdClass Object
+        (
+            [message_id] => 466
+            [from] => stdClass Object
+                (
+                    [id] => 674949355
+                    [is_bot] => 
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 674949355
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [type] => private
+                )
+
+            [date] => 1595968571
+            [text] => Ayuda
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837753
+    [message] => stdClass Object
+        (
+            [message_id] => 467
+            [from] => stdClass Object
+                (
+                    [id] => 674949355
+                    [is_bot] => 
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 674949355
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [type] => private
+                )
+
+            [date] => 1595968590
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837754
+    [message] => stdClass Object
+        (
+            [message_id] => 469
+            [from] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [is_bot] => 
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1595968594
+            [text] => /ayuda
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+stdClass Object
+(
+    [update_id] => 465837755
+    [message] => stdClass Object
+        (
+            [message_id] => 471
+            [from] => stdClass Object
+                (
+                    [id] => 674949355
+                    [is_bot] => 
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [language_code] => es
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 674949355
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [type] => private
+                )
+
+            [date] => 1595968634
+            [text] => /producto br05
+            [entities] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [offset] => 0
+                            [length] => 9
+                            [type] => bot_command
+                        )
+
+                )
+
+        )
+
+)
+
+
+
+
+
+
+
+
+
+

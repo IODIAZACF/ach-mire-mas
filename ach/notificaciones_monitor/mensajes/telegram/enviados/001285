@@ -1,0 +1,40 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 332
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263726
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBTF8GiK485u2vLJeM56vplcHv9AABSAACjKgxG4wqMETspkYYZr2m38u3bgYABAEAAwIAA20AA8K2AwABGgQ
+                            [file_unique_id] => AQADy7duBgAEwrYDAAE
+                            [file_size] => 9403
+                            [width] => 160
+                            [height] => 129
+                        )
+
+                )
+
+            [caption] => Producto no encontrado
+        )
+
+)

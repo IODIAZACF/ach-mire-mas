@@ -1,0 +1,131 @@
+stdClass Object
+(
+    [_id] => 153504227
+    [_notes] => Array
+        (
+        )
+
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [group_gu1lq88/Vereda] => El Coco y La Vuelta
+    [group_mu9ho06/Gesti_n] => Desde la oficina de Nariño nos encontramos en contacto con el enlace de víctimas del municipio.
+Estamos haciendo cruces de información con otros socios del ELC que pueden tener datos adicionales.
+    [group_yv1ph08/c4] => 0
+    [group_yv1ph08/d4] => 0
+    [group_gu1lq88/Departamento] => nari_o
+    [group_yv1ph08/pertinencia] => 17
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [group_yv1ph08/d9] => 1
+    [group_yv1ph08/evidencia] => desco _existe_alguna _se_esta_prese _se_esta_afect alber _se_han_presen _cuenta_con_in _tiene_afectad _cuenta_con_es
+    [group_yv1ph08/d8] => 0
+    [group_hl1yc96/La_alerta_corresponde_a_] => emergencia
+    [group_hl1yc96/tipo] => afectac
+    [start] => 2021-01-21T09:37:47.181-05:00
+    [group_hl1yc96/b9_001] => 0
+    [group_yv1ph08/c5] => 0
+    [group_yv1ph08/oportunidad] => 10
+    [group_xz4hy76/suma1] => 1
+    [_status] => submitted_via_web
+    [group_xz4hy76/suma2] => 3
+    [group_xz4hy76/exclusividad] => 6
+    [group_yv1ph08/time3] => 6
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => *1er reporte
+El reporte corresponde a un desplazamiento de aproximadamente 36 familias pertenecientes a la vereda el coco que se desplazan a la cabecera por amenazas del ELN.
+En este momento están ubicadas todas en la casa de una profe llegaron el sábado. 
+
+*Actualización con fecha de hoy
+En ampliación a esta información, Enlace de Victimas de Roberto Payan manifiesta: “Los desplazamientos se han venido presentado de forma progresiva, en ese primer evento fueron 36 familias con un aproximado de 76 personas.  Al día de hoy 21 de enero refiere que hay un total de 98 familias (225 personas aproximadamente), pertenecientes a las comunidades El coco y la vuelta las cuales están ubicadas en tres albergues temporales con un alto índice de hacinamiento. Durante la madrugada de hoy hubo un enfrentamiento que genero el mayor número de desplazamientos hacia la cabecera municipal.
+Este enfrentamiento fue entre los Guachos y el ELN, la fuerza pública ingreso alrededor de las 4 am, hubo hostigamiento y amenazas, se habla del asesinato de uno o dos líderes sociales, pero aún no se ha confirmado esta información. Se prevé que continúen los desplazamientos, además de la posibilidad de que haya familias confinadas en el territorio. 
+Hoy se realizará consejo de seguridad, aun no se cuenta con censos”
+    [_tags] => Array
+        (
+        )
+
+    [_submitted_by] => 
+    [group_hl1yc96/_cual_001] => Posible confinamiento
+    [_version_] => vm57zMtP6H2cFDvi7TaecN
+    [group_xz4hy76/orga] => si
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_attachments] => Array
+        (
+        )
+
+    [group_cn9za51/per] => 225
+    [_submission_time] => 2021-01-21T15:51:03
+    [group_gu1lq88/Nombre_de_la_comunidad] => Comunidad rural del Coco y la Vuelta en Roberto Payán
+    [group_hl1yc96/Problema] => crisis homicidios presencia otraproblem
+    [group_cn9za51/fami] => 98
+    [group_gu1lq88/_Cu_l] => Enlace de víctimas de Roberto Payán
+    [group_gu1lq88/Cargo] => Profesional Líder
+    [group_yv1ph08/d30] => 1
+    [group_cn9za51/incidencia] => 521
+    [group_hl1yc96/b1] => 0
+    [group_hl1yc96/b3] => 0
+    [group_hl1yc96/b2] => 0
+    [group_hl1yc96/b5] => 0
+    [group_hl1yc96/b4] => 0
+    [group_hl1yc96/b7] => 0
+    [group_hl1yc96/b6] => 0
+    [group_hl1yc96/b9] => 0
+    [group_hl1yc96/b8] => 0
+    [group_yv1ph08/d7] => 0
+    [group_yv1ph08/d6] => 1
+    [group_yv1ph08/d1] => 1
+    [group_yv1ph08/d3] => 1
+    [group_yv1ph08/d2] => 1
+    [group_yv1ph08/time2] => 2021-01-15
+    [group_hl1yc96/alcance] => 1
+    [group_yv1ph08/Tiempo] => semana
+    [meta/instanceID] => uuid:b40d2a0d-b453-4db1-94db-83d9edcf9501
+    [group_xz4hy76/suma3] => 2
+    [group_yv1ph08/zona] => comba zona aten
+    [end] => 2021-01-21T10:51:17.580-05:00
+    [group_gu1lq88/group_gb2hi57/NARI_O] => ROBERTO PAYAN
+    [group_yv1ph08/d17] => 1
+    [group_cn9za51/comu] => 2
+    [group_yv1ph08/d28] => 0
+    [group_yv1ph08/d29] => 1
+    [group_gu1lq88/time1] => 2021-01-21
+    [group_yv1ph08/d24] => 0
+    [group_yv1ph08/d25] => 0
+    [group_yv1ph08/d26] => 0
+    [group_yv1ph08/d27] => 1
+    [group_yv1ph08/d20] => 1
+    [group_yv1ph08/d21] => 0
+    [group_yv1ph08/d22] => 0
+    [group_yv1ph08/d23] => 0
+    [group_hl1yc96/a6] => 1
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_uuid] => b40d2a0d-b453-4db1-94db-83d9edcf9501
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => De manera preliminar se identifican brechas en albergue, seguridad alimentaria, protección, WASH, potencialmente salud mental
+    [group_gu1lq88/Origen_de_la_informaci_n] => otra
+    [group_xz4hy76/_Cuales] => WFP, FAO, OCHA, ACNUR
+    [group_yv1ph08/c2] => 0
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [group_yv1ph08/c3] => 0
+    [group_yv1ph08/d19] => 0
+    [group_yv1ph08/d18] => 1
+    [group_yv1ph08/d15] => 1
+    [group_yv1ph08/d14] => 1
+    [group_yv1ph08/d5] => 1
+    [group_yv1ph08/d16] => 1
+    [group_yv1ph08/d11] => 1
+    [group_yv1ph08/d10] => 1
+    [group_yv1ph08/d13] => 0
+    [group_yv1ph08/d12] => 0
+    [group_hl1yc96/a0] => 0
+    [group_yv1ph08/c1] => 10
+    [group_hl1yc96/a2] => 0
+    [group_hl1yc96/a3] => 0
+    [group_hl1yc96/a4] => 0
+    [group_hl1yc96/a5] => 0
+    [group_gu1lq88/Nombre_de_quien_reporta] => Mayra Floriano
+    [group_hl1yc96/a7] => 0
+)

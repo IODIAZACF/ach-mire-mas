@@ -1,0 +1,86 @@
+stdClass Object
+(
+    [_id] => 481304504
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-09-12T16:03:19.332-05:00
+    [end] => 2023-09-19T08:18:21.129-05:00
+    [group_kp1mu41/_1_C_digo] => CHNO-913.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-06-15
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-06-15
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-07-15
+    [group_kp1mu41/_4_Departamento] => CHOCO
+    [group_kp1mu41/CHOCO] => NOVITA
+    [group_kp1mu41/num_comunidades] => 1
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => ALGUNA
+    [group_kp1mu41/_8_Comunidad] => N/A
+    [group_kp1mu41/Urbano_Rural] => urbano
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Angie Lorena Carvajal
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3102166477
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R6_Salud
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.2-26-3/Consultas_de_salud_mental
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-06-15
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-06-15
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => N/A
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => N/A
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Durante la Evaluación Rápida de Necesidades realizada en el municipio de Nóvita Chocó, se realiza una atención psicológica por autorreferencia, de una paciente adulta  de 56 años que busca el apoyo psicológico para manejo de síntomas de salud mental derivados de la emergencia.
+ 
+Sintomatología y eventos desencadenantes: La paciente refiere sintomatología aguda de estrés relacionado con el desplazamiento reciente, amenazas y exposición a eventos de violencia. La paciente comenta tener comportamientos de evitación relacionados con el eventual retorno o la exposición a contextos parecidos, pensamientos intrusivos, hipervigilancia, flashbacks y síntomas somáticos.
+ 
+Ha recibido atención médica y psicológica de primer nivel por parte del centro de salud, pero la paciente ha buscado Re consulta con la finalidad de un aumento en su mejoría, esto debido a que aunque la atención psicológica que ha recibido le ha servido, ha sido más un primer auxilio psicológico y no ha obtenido una reducción de síntomas significativa. 
+A inicios de la consulta paciente puntúa en 6 en una de severidad de 1 a 7. Paciente reporta mejoría al cierre de la sesión. 
+
+En el desarrollo de la consulta, la paciente es atendida con técnicas de reestructuración cognitiva, técnicas de regulación emocional (mindfulness), habilidades sociales y toma de decisiones,  basada en psicoterapia breve y terapia en desensibilización  sistemática.
+  
+ El caso continuará en seguimiento presencial por psicólogo de la ESE con consentimiento de la paciente y telefónico por MDM.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_ek1nq87/Observaciones] => Cabe mencionar que, la acción desarrollada en salud mental por el equipo de Médicos del Mundo se desarrolló en el marco de la evaluación rápida de necesidades (ERN).
+
+Producto de la ERN se resuelve por parte del Consorcio MIRE no brindar respuesta en primera o segunda fase; esto debido a que la población víctima del desplazamiento retornó a su territorio de origen bajo su propia voluntad.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:179f70b4-e9fe-4942-b50a-28e2fa2f4db1
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 179f70b4-e9fe-4942-b50a-28e2fa2f4db1
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-19T13:20:37
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

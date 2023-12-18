@@ -1,0 +1,137 @@
+stdClass Object
+(
+    [_id] => 428294659
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-05-19T10:23:06.030-05:00
+    [end] => 2023-05-19T10:59:07.956-05:00
+    [group_kp1mu41/_1_C_digo] => VABU-647.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-05-08
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-03-06
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-03-24
+    [group_kp1mu41/_4_Departamento] => VALLE_DEL_CAUCA
+    [group_kp1mu41/VALLE_DEL_CAUCA] => BUENAVENTURA
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Mayorquín
+    [group_kp1mu41/num_comunidades] => 9
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => ALGUNA
+    [group_kp1mu41/_8_Comunidad] => Comba, Secadero, Cacao, Bocas de Mayorquín, Papayal 1 y 2, calle larga, lobo y casco Urbano
+    [group_kp1mu41/Urbano_Rural] => urbano_rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Camilo Ruiz Gomez
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Alianza_por_la_Solidaridad_APS
+    [group_qd4az23/_1d_Celular] => 3143079023
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion_VBG R1_Proteccion_PR R4_Wash R8_Cash
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases 2-R1-1.2-4-7/Entrega_de_kits_de_dignidad
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2023-03-06
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2023-03-24
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => Las acciones colectivas e individuales realizadas desde el subsector de VBG se logra dar de manera satisfactoria sin evidenciar dificultades que entorpecieran el correcto y adecuado proceso de cada caso, especialmente a nivel individual. La metodología utilizada para el desarrollo de las sensibilizaciones en temas de VBG donde se procura un correcto uso del lenguaje con base a las particularidades de cada comunidad, permitió que mujeres, lideresas y agentes comunitarios lograran fortalecer sus conocimientos y actitud ante la prevención de las VBG en sus comunidades, replicando así la importancia de solicitar apoyo ante situaciones de riesgo. Por otra parte, se logra la articulación con institucionalidad y fundaciones en el territorio con el fin de abordar y brindar atención a los casos que se presenten mediante el apoyo e identificación comunitaria.
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => La identificación y articulación con las entidades municipales encargadas y con responsabilidad en protección de lideresas, líderes, mujeres y NNAJ, además de la gestión de procesos mediante organización no gubernamentales o fundaciones en el territorio que aporten a la atención y protección de los derechos de las comunidades y en la activación de rutas de protección.
+Agregado a esto, es importante realizar acciones de incidencia con el fin de visibilizar las distintas violaciones del DDHH e infracciones al DIH no solo por parte de los GAO presentes en la zona, sino también de movimientos o empresas con intereses en la zona geográfica que amenacen la integridad de los referentes de las comunidades.
+Por otra parte, en la comunidad de Cacao existe el temor latente ante una posible desaparición de la comunidad dado los riesgos del territorio, la falta de oportunidades y la baja calidad académica que han ocasionado que familias jóvenes abandonen la comunidad evidenciándose así, alta presencia de adultos mayores en condición de abandono o con limitación para acceder de manera segura a la satisfacción de sus necesidades básicas.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-11/Evaluación_de_riesgos 2-R1-1.3-5-12/Asesoramiento_jurídico 2-R1-1.3-5-13/Apoyo_psicosocial_(individ
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2023-03-06
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2023-03-24
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => Durante las acciones desarrolladas con las comunidades del rio Mayorquín, no se presentan dificultades o vacíos en la respuesta dada a nivel colectivo e individual debido a que los procesos y actividades realizadas eran explicadas de manera directa, dándole a conocer a las personas de cada comunidad sobre el alcance de las acciones que el sector de protección podía brindar. De igual manera, en las acciones de sensibilización frente a los temas de protección de las lideresas, lideres y personas claves de las comunidades se logra cubrir la necesidad de orientación frente a las rutas disponibles, creando así espacios de confianza donde miembros de la comunidad expresaban de manera segura la necesidad existente y así recibir la asesoría requerida.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => Dentro de las acciones realizadas en el subsector PR, se logra identificar la necesidad de que se realicen acciones de incidencia con los distintos actores institucionales y de acompañamiento con capacidades de protección para la visibilidad de las distintas violaciones de DDHH e infracciones al DIH. Esto con el fin de insistir en el acompañamiento institucional y oportunidad de atención y gestión inmediata ante las necesidades de líderes, lideresas, agentes comunitarios, mujeres y NNAJ frente a las constantes amenazas y riesgos a los que esta expuesto el territorio brindando así, procesos de empoderamiento de capacidades de exigibilidad, mecanismos y activación de rutas para la protección y defensa de los derechos comunitarios e individuales.
+    [group_wo86e58/group_zh0iq179/R8_Actividades_Cash] => 4-R8-8.1-36-2-Entrega
+    [group_wo86e58/group_zh0iq179/Fecha_de_ingreso_NRC_Cash] => 2023-03-06
+    [group_wo86e58/group_zh0iq179/Fecha_de_salida_NRC_Cash] => 2023-03-24
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.1-16-1-Entrega_kits_agua 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas 2-R4-4.5-22-8-Aumento_conocimiento
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2023-03-06
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2023-03-24
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => La información que se encuentra, no fue lo suficiente con las autoridades locales.
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => Se recomienda que dentro de las acciones del sector, monitoreos de las acciones en el territorio
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => Se identificaron y valoraron 41 casos de sobreviviente de VBG y 2 casos de NNAJ en riesgo de reclutamiento en el contexto del conflicto armado y familiar, los casos de las mujeres sobrevivientes de VBG corresponden a limitaciones, amenazas, agresiones e intimidaciones lo cual no les ha permitido desarrollar de manera libre y segura sus actividades económicas, evidenciándose así dificultades a nivel emocional y de salud física.
+    [group_of2sk15/group_cf63e32/_4_Provisi_n_de_respuesta_y_seguimiento_a_casos_de_riesgo_o_sobrevivientes_de_VBG_ApS] => Se realizaron orientaciones jurídicas sobre las rutas de atención y derechos de las personas víctimas o sobrevivientes de VBG en atención en salud física y psicológica, las medidas de protección que se pueden solicitar en el marco de los procesos por violencia en contexto familiar.
+Las acciones realizadas a los casos identificados para atención por psicología a nivel individual se enfocaron en el reconocimiento de las emociones, las estrategias de afrontamiento, el fortalecimiento de redes de apoyo, específicamente para los casos de VBG.
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => Se realiza asesoría jurídica sobre la ruta de protección individual y colectiva para líderes y lideresas en riesgo, tomando como base los procesos que los lideres de la comunidad ya han adelantado ante la UNP, los cuales han recibido amenazas por la defensa del territorio no solo por parte del GAO de la zona, sino también de terceros quienes presentan intereses en la explotación de algunas zonas geográficas del territorio.
+En relación a la atención psicológica, los procesos se definían conforme a la condición de cada caso, sin embargo, se hizo énfasis en el fortalecimiento de estrategias de afrontamiento y métodos de identificación de riesgos mediante hábitos y prácticas de autocuidado.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => En la comunidad de secadero además de garantizar el tratamiento del agua también se garantiza la cantidad y acceso a la obtención  del liquido con la rehabilitación del tanque de almacenamiento con capacidad de 150 m3. La adecuación consistió en  la impermeabilización en la parte interior y exterior del tanque para evitar perdidas del liquido. Además se instala un angeo perimetral a la cubierta para evitar que si introduzcan zancudos al interior del tanque, evitando así la propagación de vectores.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_saneamiento_b_sico] => Se mojara el funcionamiento de la batería sanitaria de la escuela en la comunidad de secadero, este mejoramiento consistió en la instalación de lavamanos tuberías sanitarias y construcción del pozo séptico. Con esta adecuaciones se garantiza que los estudiantes tengan una baterías sanitarias dignas.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => como respuesta a la emergencia producida por el desplazamiento de  las comunidades de Mayorquin en Buenaventura; desde el componente de seguridad alimentaria se llevo a cabo la entrega de transferencias monetarias multipropósito a 321 familias. Como parte de ese proceso se desarrollaron las siguientes actividades:
+
+1. Reunión con lideres y lideresas de cada comunidad en la que se socializaron los censos y se les pidió su colaboración para citar a las personas que habían sido afectadas por el desplazamiento a realizar una caracterización.
+
+2.  Se realizo jornada lo cual  se verificaron números de documento e integrantes de cada núcleo familiar. También se realizaron unas preguntas de seguimiento.
+
+3. Se realizo la entrega de ayuda monetaria a 21 hogares afectados por la emergencia. En esta reunión se les informo lo que iban a recibir, el canal de transferencia (Efecty) y se les dictaron unas recomendaciones respecto a la utilización de la ayuda.
+
+Además de las acciones mencionadas, se ha estado haciendo seguimiento a quienes faltan por reclamar o han presentado inconvenientes para reclamar la ayuda humanitaria.
+Los montos entregados a cada familia variaron según el numero de integrantes del nucleo familiar y fueron los siguientes:
+1 persona: 300,000 COP
+2 personas: 510,000 COP
+3 personas: 690,000 COP
+4 personas: 840,000 COP
+5 personas o más: 990,000 COP
+1) Se realiza la entrega de 399 kits de agua a las 7 comunidades del rio mayorquin. Esta  entrega se realiza  con el fin de que las personas tengan acceso agua segura por medio del filtro purificador de agua.  Además se capacita a los lideres y al jefe de hogar de cada familia en el uso y mantenimiento del filtro pero lo mas importante es el interés que mostró las familias en aprender y reforzar el conocimiento de tratar el agua en la vivienda por el método tandas.
+
+Se  realizaron entrega de los kits de higiene con un enfoque diferencial, para la composición del kits se conto con la participación de la comunidad, lo cual garantiza el usos de los elementos que se entregan en el. Este cuenta con elementos de higiene personal para adultos mujeres y niños con una duración de 1 mes.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => 5) Se realizaron talleres de carácter informativos sobres las buenas practicas de higiene (Higiene dental, Corporal  y del lavado de las manos) tanto personal como comunitaria, lo cual termino con una jornada de recolección de residuos solidos y una jornada de fumigación para el centros de los zancudos. esta jornada de fumigación se logro gracias a la articulación entre aps y la secretaria de salud logrando ingresar con personal a la zona.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => Falta capacidad de personal
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => Falta capacidad de personal
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => Falta capacidad de personal
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => Falta capacidad de personal
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No aplica
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => Falta capacidad de personal
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => Falta capacidad de personal
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Secretaria de las mujeres y la fiscalia
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Se realizaron articulaciones con la secretaria de la mujer y la Fiscalía quienes identifican y reciben casos individuales de VBG, esto con el fin de dar a conocer sobre las acciones que el equipo de protección puede desarrollar mediante atención por psicología, asesoría jurídica y apoyo en cash cuando el municipio no cuente con la capacidad operativa para salvaguardar la vida de la persona en riesgo. 
+Adicionalmente, se realizaron reuniones con la secretaria de salud con el fin de dar a conocer sobre la necesidad de atención en salud mental que expresa la comunidad, especialmente en NNAJ quienes a razón del conflicto armado han desarrollado comportamientos no acordes a su edad.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => Las comunidades del río Mayorquín mencionan sobre la necesidad de recibir o contar con jornadas de salud física y mental dadas las condiciones que se encuentran enfrentando debido al conflicto que afecta la zona.
+Los espacios con los cuales la comunidad cuenta para el desarrollo de actividades escolares, los cuales fueron utilizados para el desarrollo de los espacios colectivos e individuales, presentan malas condiciones en cuanto a estructuras, identificando así riesgos para los NNA y docentes que ocupan dichos espacios.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => En la Evaluación Rápida de Necesidades, se lograron crear relacionamientos con distintos actores claves, así como, líderes y lideresas de las comunidades, lo cual, permitió crear contactos para monitorear la situación de riesgo de los líderes, mujeres y NNAJ en riesgo
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 338
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 10
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 5
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 1
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 1
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 3
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Denis tenorio
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3165378765
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Alianza por la Solidaridad
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Ana Maria Gualtero
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 3103844340
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Alianza por la Solidaridad
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => Ana Rboles
+    [group_kq5co41/group_wb3kr41/_3b_Tel_fono_1] => 3104130856
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => Alianza por la Solidaridad
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:a08707bc-3c04-423b-826f-6b52a5299dfe
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => a08707bc-3c04-423b-826f-6b52a5299dfe
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-19T15:59:10
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

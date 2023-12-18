@@ -1,0 +1,127 @@
+stdClass Object
+(
+    [_id] => 370322456
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2022-12-06T08:15:28.779-05:00
+    [end] => 2022-12-06T08:39:47.699-05:00
+    [group_kp1mu41/_1_C_digo] => CHAL-467.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2022-11-01
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-09-01
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-09-17
+    [group_kp1mu41/_4_Departamento] => CHOCO
+    [group_kp1mu41/CHOCO] => ALTO_BAUDO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Puesto Indio
+    [group_kp1mu41/num_comunidades] => 6
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => TODAS
+    [group_kp1mu41/_8_Comunidad] => Puesto Indio, Saru, Tassi , Alto Tumando, Puerto Tomas, La esperanza.
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Kevin Gonzalez
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3102657785
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion_VBG R1_Proteccion_PR R1_Proteccion_NNAJ R.2_EeE R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2022-09-01
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2022-09-17
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => Se reconocen profundas necesidades en materia de VBG en especial al interior de las familias
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-11/Evaluación_de_riesgos 2-R1-1.3-5-13/Apoyo_psicosocial_(individ
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2022-09-01
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2022-09-17
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i4] => 2-R1-1.4-7-22/NNJ_con_orientación_o_ases 2-R1-1.4-7-23/NNJ_con_acceso_a_los_servi
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_NNAJ] => 2022-09-01
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_NNAJ] => 2022-09-17
+    [group_wo86e58/group_hc3sa85/Vacios_NNAJ] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendaciones_NNAJ] => N/A
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-09-01
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-09-17
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => En general se cubrio a todos los NNA
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => CONTINUAR CON EL FORTALECIMIENTO DE HABILIDADES Y ACTIVIDADES ENFOCADAS AL USO DEL TIEMPO LIBRE PARA NNA
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.5-21-7a-Medidas_lavado_de_manos 3-R5-4.6-22-7b-Distribución_de_KIT_WASH_
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2022-09-01
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2022-09-17
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => N/A
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => N/A
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2022-09-01
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2022-09-17
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => N/A
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => N/A
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => Se llevaron acabo espacios mixtos para el fortalecimiento en fundamentos de las VBG, conceptos claves como: sexo, género, identidad de género, roles de género y estereotipos de género y las consecuencias de la naturalización de estos roles y estereotipos de género. También se trabajaron en estos espacios mixtos la identificación en tipos de violencias basadas en género, la Ley 1257 de 2008, rutas de atención a violencias basadas en género,  los derechos de las personas sobrevivientes de VBG en contextos familiares, sociales y de conflicto armado con el fin de brindar capacidades que permita la mitigación del riesgo dentro de la comunidad. A estos espacios asistieron 143 mujeres y 109 hombres de las siete comunidades atendidas.
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => Se llevaron a cabo capacitaciones con grupos focales de hombres sobre la identificación de los riesgos de minas antipersonal y la ruta de atención de víctimas de MAP, MUSE y AEI.
+
+ Se realizaron actividades con NNA en articulación con EiE, donde por medio la estrategia metodológica "la escalera" donde a través del juego reforzamos con los niños, niñas y adolescentes la identificación de sus derechos, mecanismos de autoprotección y estrategias protección para la mitigación del riesgo de reclutamiento forzado por las distintas problemáticas derivadas del conflicto armado que atraviesa el territorio. En estas actividades participaron 61 niños y niñas de todas las comunidades.
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Se realizo la entrega de 330 Nfis kits de uso tiempo libre , para los NNA de las 5 comundiades.
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Se desarrollaron sesiones por curso o similitud etaria de 5 horas por grupo en el que se desarrollarron 3 actividades de sensibilizacion y aprendije a traves del juego en los componentes de - Mensajes de Proteccion y  Autocuidado, enlace comunitario y enfoque etnico y aprendiaje seguro
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Se desarrollo una jornada completa de 8 horas de trabajo con todos los docentes de la escuela indigenista de puesto indio, Saru y Tassi en total 50 participantes.Las sesiones se enfocaron en 4 modulos , en educacion en emergencias, primeros auxilios emocionales, espacios seguros de aprendizaje y construccion de plan de respuesta para educacion en emergencias.
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Se hizo entrega de kits docentes individuales a 35 docentes y15 AEC
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => sseemfmfmseSe entregaron 3 maletas ludico pedagogicas a las sedes Puesto Indio Tassi y Saru, que cobijaban a un 95% de los NNA de las 5 comunidades. El material contaba con enfoque etnico para comunidad Embera .
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_saneamiento_b_sico] => Se realiza en la comunidad de Tassi y Saru dos sistemas de captación de agua lluvia, con una capacidad de 4.00 Litros, el cual se  localizarón de forma equidistante de los predios ubicados, esto con el fin de disminuir el riesgo a las mujeres y niños encargados de transportar el liquido a sus viviendas.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => se realiza entrega de kits de higiene individual con un total de 65, kits familiares de 2 a 3 personas 77 y kits familiares de 4 o mas personas 137 kits.  el cual fue acompañado de un pre y post por comunidad el cual nos mide el porcentaje de aumento en conocimiento en temas de higiene; el cual se estima una atención total de 1100 personas.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => se realiza talleres en Higiene personal, familia y de entorno, lo cual busco fortalece los habitos actuales que se tienen en la comunidad, se busca fortalecer temas de tratamiento intradomiciliar de agua y conceptos de higiene menstrual con enfoque en nuevas masculinidades.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => La entrega de la asistencia alimentaria se realizó teniendo en cuenta la conformación de los núcleos familiares, donde los hogares conformados por 1 a 5 integrantes recibían un paquete alimentario y a las familias compuestas por 6 a 10 se les entregó dos paquetes alimentarios, para el caso de las familias con más de 10 integrantes se entregaron 3 paquetes alimentarios. La entrega se desarrollo en el marco de un taller de sensibilización entre los sectores de seguridad alimentaria, agua y saneamiento, donde los beneficiarios participaron activamente de las temáticas impartidas por los dos sectores. Al finalizar el taller se realizó una entrega conjunta entre SAN y WASH
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => esta siendo atendido por NRC oficina de occidente
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => no se ubico la necesidad , ninguna familia o comunidad se encuentra en lugares de acogid
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => no se ubico la necesidad
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => existen campañas dirigidas por la mision medica y el CICR
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => PRESENCIA DEL ACTOR ARMADO
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => APOYO DE LA COMUNIDAD , VISIBILIDAD DE LOS ESPACIOS E INFORMACION PERTINENTE
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => LAS  COMUNIDADES QUEDAN EN LA PARTE MAS ALTA DEL RIO BAUDO LO QUE IMPLICO MAS DE 6 HORAS CONTINUAS PARA EL INGRESO ENN DIFERENTES TIPOS DE TRANSPORTE ACUATICO VIA RIO
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 994
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 20
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 20
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 25
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 5
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 1
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 994
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => LUIS ARCE
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3234635392
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => GUARDIA INDIGENA ALTO BAUDO
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => ONORIO ARCE
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 3107147695
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => INSTITUCION EDUCATIVA EMBERA KATIO PUESTO INDIO
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => JACKSON MARTINEZ
+    [group_kq5co41/group_wb3kr41/_3b_Tel_fono_1] => 3123035629
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => SECRETARIA DE GOBIERNO ALTO BAUDO
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [meta/instanceID] => uuid:b97d5d9e-507f-4a41-b36e-6d70b404fc63
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => b97d5d9e-507f-4a41-b36e-6d70b404fc63
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-12-06T13:40:00
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

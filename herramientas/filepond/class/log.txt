@@ -1,0 +1,14 @@
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {"color":null}
+        )
+
+    [SISTEMA] => synlab
+    [origen] => control_muestras/upload_archivos
+    [maxsize] => 10
+    [db] => synlab
+    [url_modulo] => /synlab/control_muestras/index.php
+)

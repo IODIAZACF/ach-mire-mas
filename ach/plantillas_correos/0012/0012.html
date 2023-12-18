@@ -1,0 +1,647 @@
+<!DOCTYPE HTML
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+  xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+  <!--[if gte mso 9]>
+  <xml>
+	<o:OfficeDocumentSettings>
+	  <o:AllowPNG/>
+	  <o:PixelsPerInch>96</o:PixelsPerInch>
+	</o:OfficeDocumentSettings>
+  </xml>
+	<title></title>
+  <![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="x-apple-disable-message-reformatting">
+  <!--[if !mso]><!-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--<![endif]-->
+  <title>Alarma</title>
+
+  <style>
+    @font-face {
+      font-family: Lato;
+      font-style: normal;
+      font-weight: 400;
+      src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');
+      unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+    }
+
+    @font-face {
+      font-family: Lato;
+      font-style: normal;
+      font-weight: 400;
+      src: url(https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXg.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+    }
+
+    @font-face {
+      font-family: Lato;
+      font-style: normal;
+      font-weight: 700;
+      src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGR_p.woff2) format('woff2');
+      unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF
+    }
+
+    @font-face {
+      font-family: Lato;
+      font-style: normal;
+      font-weight: 700;
+      src: url(https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
+    }
+
+
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    table,
+    tr,
+    td {
+      vertical-align: top;
+      border-collapse: collapse;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .ie-container table,
+    .mso-container table {
+      table-layout: fixed;
+    }
+
+    * {
+      font-family: 'Cabin', sans-serif;
+      line-height: inherit;
+    }
+
+    a[x-apple-data-detectors='true'] {
+      color: inherit !important;
+      text-decoration: none !important;
+    }
+
+    table,
+    td {
+      color: #000000;
+    }
+
+    #u_body a {
+      color: #0000ee;
+      text-decoration: underline;
+    }
+
+    /* personalizado */
+
+    h1.title {
+      font-family: 'Lato', sans-serif;
+    }
+
+    .border-rounded {
+      border-radius: 15px;
+    }
+
+    .border-rounded-top {
+      border-radius: 15px 15px 0px 0px;
+    }
+
+    /* colores */
+    .text-primary {
+      color: #005ca8;
+    }
+
+    .bg-green {
+      /* background-color: #f28f65; */
+      background-color: #bee1b2;
+    }
+
+    .btn-green {
+      /* background-color: #f28f65; */
+      background-color: #bee1b2;
+    }
+
+    .bg-light-orange {
+      background-color: #fff9f7;
+
+    }
+
+    .text-sm {
+      font-size: .6rem;
+    }
+
+    #customers {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    #customers td,
+    #customers th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+
+    #customers tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    #customers tr:hover {
+      background-color: #ddd;
+    }
+
+    #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #04AA6D;
+      color: white;
+    }
+
+    .btn {
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 10px;
+    }
+
+    .btn-secondary {
+      text-decoration: none !important;
+      color: #fff !important;
+      background-color: #FF6600;
+      border-color: #FF6600
+    }
+
+    .btn-primary {
+      text-decoration: none !important;
+      color: #fff !important;
+      background-color: #53ad32;
+      border-color: #53ad32
+    }
+  </style>
+
+  <!--[if !mso]><!-->
+  <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet" type="text/css">
+  <!--<![endif]-->
+
+</head>
+
+<body class="clean-body u_body"
+  style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #f9f9f9;color: #000000">
+
+  <!--[if IE]><div class="ie-container"><![endif]-->
+  <!--[if mso]><div class="mso-container"><![endif]-->
+  <table id="u_body"
+    style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #f9f9f9;width:100%"
+    cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr style="vertical-align: top">
+        <td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:0px;"><tr><td align="center" style="background-color: #f9f9f9;"><![endif]-->
+
+          <div class="u-row-container" style="padding: 0px;background-color: transparent">
+            <div class="u-row"
+              style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+              <div
+                style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+                <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:0px;"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+
+                <!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+                <div class="u-col u-col-100"
+                  style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+                  <div style="height: 100%;width: 100% !important;">
+                    <!--[if (!mso)&(!IE)]><!-->
+                    <div
+                      style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;">
+                      <!--<![endif]-->
+
+                      <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                        width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td
+                              style="overflow-wrap:break-word;word-break:break-word;padding:20px;font-family:'Cabin',sans-serif;"
+                              align="left">
+
+                              <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:0px;">
+                                <tr>
+                                  <td style="padding-right: 0px;padding-left: 0px;" align="center">
+
+                                    <div class="text-primary text-center">
+                                      <h1 class="title">
+                                        {ENCABEZADO.NOMBRE_FORMULARIO}
+                                      </h1>
+                                    </div>
+
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-right: 0px;padding-left: 0px;" align="center">
+
+                                    <div class="text-primary text-center">
+                                      <h4 class="title">
+                                        <!-- {SUBTITULO.ROTULO}: {SUBTITULO.VALOR} -->
+                                      </h4>
+                                    </div>
+
+                                  </td>
+                                </tr>
+                              </table>
+
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!--[if (!mso)&(!IE)]><!-->
+                    </div>
+                    <!--<![endif]-->
+                  </div>
+                </div>
+                <!--[if (mso)|(IE)]></td><![endif]-->
+                <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+              </div>
+            </div>
+          </div>
+
+          <!-- DETALLE DE FORMULARIO !-->
+
+          <div class="u-row-container" style="padding: 0px;background-color: transparent">
+            <div class="u-row"
+              style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+              <div
+                style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+                <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:0px;"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+
+                <!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+                <div class="u-col u-col-100"
+                  style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+                  <div style="height: 100%;width: 100% !important;">
+                    <!--[if (!mso)&(!IE)]><!-->
+                    <div
+                      style="margin-left: 1rem;margin-right: 1rem;box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;">
+                      <!--<![endif]-->
+
+                      <!-- DETALLE DE FORMULARIO !-->
+                      <table id="customers" class=" table-bordered" role="presentation">
+                        <tr>
+                          <td width="30%" class="title text-primary"><b>Departamento:</b></td>
+                          <td width="70%">{ENCABEZADO.DEPARTAMENTO}</td>
+                        </tr>
+                        <tr>
+                          <td width="30%" class="title text-primary"><b>Municipio:</b></td>
+                          <td width="70%">{ENCABEZADO.MUNICIPIO}</td>
+                        </tr>
+
+                        <!-- BEGIN DATA -->
+                        <tr>
+                          <td width="30%" class="title text-primary"><b>{ROTULO}</b></td>
+                          <td width="70%">{VALOR}</td>
+                        </tr>
+                        <!-- END DATA-->
+                      </table>
+
+
+                      <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                        width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td
+                              style="overflow-wrap:break-word;word-break:break-word;padding:20px;font-family:'Cabin',sans-serif;"
+                              align="left">
+
+                              <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:0px;">
+                                <tr>
+                                  <td style="padding-right: 0px;padding-left: 0px;" align="center">
+
+                                    <img alt="Organizaciones" src="tiraorg.png" width="100%">
+
+                                  </td>
+                                </tr>
+                              </table>
+
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                        width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td
+                              style="overflow-wrap:break-word;word-break:break-word;padding:33px 55px;font-family:'Cabin',sans-serif;"
+                              align="left">
+
+                              <img alt="" src="header.png" width="100%" class=" border-rounded">
+
+                            </td>
+                            <td
+                              style="overflow-wrap:break-word;word-break:break-word;padding:30px;font-family:'Cabin',sans-serif;"
+                              align="left">
+
+
+                              <!-- falta centrar al medio -->
+                              <p class=" text-sm">
+                                <b>El consorcio MIRE + </b>es un mecanismo intersectorial integrado por ACH,MM,NRC que
+                                busca
+                                dar respuesta a emergencias humanitarias y contribuir a la recuperación temprana de las
+                                comunidades afectadas
+                              </p>
+
+                            </td>
+                          </tr>
+                        </tbody>
+
+                      </table>
+
+                      <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                        width="100%" border="0">
+                        <tbody>
+                          <tr>
+
+
+                            <td
+                              style="text-align: center;overflow-wrap:break-word;word-break:break-word;padding:41px 55px 18px;font-family:'Cabin',sans-serif;"
+                              align="center">
+
+                              <table class="btn-primary" style="border-collapse:collapse;border-radius:4px"
+                                role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+
+                                <tbody>
+                                  <tr>
+                                    <td style="padding:13.5pt 13.5pt 13.5pt 13.5pt">
+                                      <p class="x_MsoNormal" align="center" style="text-align:center">
+                                        <span style="color:black">
+                                          <a href="http://ach.dyndns.info:6080/webMIRE/" target="_blank"
+                                            style="text-decoration: none;" rel="noopener noreferrer"
+                                            data-auth="Verified" originalsrc="http://ach.dyndns.info:6080/webMIRE/"
+                                            title="Dirección URL original: http://ach.dyndns.info:6080/webMIRE/. Haga clic o pulse si confía en este vínculo."
+                                            data-linkindex="0">
+                                            <b>
+                                              <span
+                                                style="font-size: 12pt; font-family: Arial, sans-serif, serif, EmojiFont; color: white; text-decoration: none;">
+                                                CONOCE MAS SOBRE MIRE+
+                                              </span>
+                                            </b>
+                                          </a>
+                                        </span>
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+
+                              </table>
+
+
+                            </td>
+
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                        width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td
+                              style="overflow-wrap:break-word;word-break:break-word;padding:33px 55px 60px;font-family:'Cabin',sans-serif;"
+                              align="left">
+
+                              <div
+                                style="font-size: 14px; line-height: 160%; text-align: center; word-wrap: break-word;">
+                                <p style="line-height: 160%; font-size: 14px;"><span
+                                    style="font-size: 18px; line-height: 28.8px;">Agradecemos la atención
+                                    prestada.</span></p>
+                                <p style="line-height: 160%; font-size: 14px;"><span
+                                    style="font-size: 18px; line-height: 28.8px;">Cordialmente,</span></p>
+                                <p style="line-height: 160%; font-size: 14px;"><span
+                                    style="font-size: 18px; line-height: 28.8px;">Equipo de Gestión de Información
+                                    MIRE+</span></p>
+                              </div>
+
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <!--[if (!mso)&(!IE)]><!-->
+                    </div>
+                    <!--<![endif]-->
+                  </div>
+                </div>
+                <!--[if (mso)|(IE)]></td><![endif]-->
+                <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+              </div>
+            </div>
+          </div>
+
+
+          <!-- tira -->
+
+
+
+          <div class="u-row-container" style="padding: 0px;background-color: transparent">
+            <div class="u-row"
+              style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #e5eaf5;">
+              <div
+                style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+                <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:0px;"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #e5eaf5;"><![endif]-->
+
+                <!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+                <div class="u-col u-col-100"
+                  style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+                  <div style="height: 100%;width: 100% !important;">
+                    <!--[if (!mso)&(!IE)]><!-->
+                    <div
+                      style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;">
+                      <!--<![endif]-->
+
+                      <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                        width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td
+                              style="overflow-wrap:break-word;word-break:break-word;padding:41px 55px 18px;font-family:'Cabin',sans-serif;"
+                              align="left">
+
+                              <div
+                                style="font-size: 14px; color: #003399; line-height: 160%; text-align: center; word-wrap: break-word;">
+
+                                <p class="text-sm">
+                                  * Si no desea recibir la información contenida en este correo o tiene alguna pregunta
+                                  frente
+                                  a la recolección y gestión de sus datos personales por favor escribanos al correo
+                                  <a type="button" target="_blank"
+                                    href="mailto:protecciondatos@co.acfspain.org?Subject=ejemplo&Body">
+                                    protecciondatos@co.acfspain.org
+                                  </a> ó mediante el boton de abajo. Todos los datos personales son tratados de
+                                  conformidad
+                                  con lo dispuesto en la normatividad colombiana vigente sobre protección de datos
+                                  personales
+                                  y lo establecido en la Política de Privacidad y Protección de Datos la cual podrá ser
+                                  consultada en <a href="https://www.accioncontraelhambre.co/politica-privacidad/"
+                                    target="_blank">https://www.accioncontraelhambre.co/politica-privacidad/</a>
+                                </p>
+
+                              </div>
+
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                        width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td
+                              style="text-align: center;overflow-wrap:break-word;word-break:break-word;padding:41px 55px 18px;font-family:'Cabin',sans-serif;"
+                              align="center">
+
+                              <table class="btn-secondary" style="border-collapse:collapse;border-radius:4px"
+                                role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+
+                                <tbody>
+                                  <tr>
+                                    <td style="padding:13.5pt 13.5pt 13.5pt 13.5pt">
+                                      <p class="x_MsoNormal" align="center" style="text-align:center">
+                                        <span style="color:black">
+                                          <a href="https://ee.acf-e.org/x/#sEJTWWSD" target="_blank"
+                                            style="text-decoration: none;" rel="noopener noreferrer"
+                                            data-auth="Verified" originalsrc="https://ee.acf-e.org/x/#sEJTWWSD"
+                                            title="Dirección URL original: https://reliefweb.int/node/4015846. Haga clic o pulse si confía en este vínculo."
+                                            data-linkindex="0">
+                                            <b>
+                                              <span
+                                                style="font-size: 12pt; font-family: Arial, sans-serif, serif, EmojiFont; color: white; text-decoration: none;">
+                                                Dejar de Recibir Estos Correos
+                                              </span>
+                                            </b>
+                                          </a>
+                                        </span>
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+
+                              </table>
+
+
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+
+
+
+                      <!--[if (!mso)&(!IE)]><!-->
+                    </div>
+                    <!--<![endif]-->
+                  </div>
+                </div>
+                <!--[if (mso)|(IE)]></td><![endif]-->
+                <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+              </div>
+            </div>
+          </div>
+
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+
+  <div class="u-row-container" style="padding: 0px;background-color: transparent">
+    <div class="u-row"
+      style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #005ca8;">
+      <div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+        <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:0px;"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #003399;"><![endif]-->
+
+        <!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+        <div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+          <div style="height: 100%;width: 100% !important;">
+            <!--[if (!mso)&(!IE)]><!-->
+            <div
+              style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;">
+              <!--<![endif]-->
+
+              <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0"
+                width="100%" border="0">
+                <tbody>
+                  <tr>
+                    <td
+                      style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Cabin',sans-serif;"
+                      align="left">
+
+                      <div
+                        style="font-size: 14px; color: #fafafa; line-height: 180%; text-align: center; word-wrap: break-word;">
+                        <p style="font-size: 14px; line-height: 180%;"><span
+                            style="font-size: 16px; line-height: 28.8px;">Copyrights © Accion Contra el Hambre
+                            All Rights Reserved</span></p>
+                      </div>
+
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+
+
+
+              <!--[if (!mso)&(!IE)]><!-->
+            </div>
+
+
+            <!--<![endif]-->
+          </div>
+
+
+        </div>
+
+        <!--[if (mso)|(IE)]></td><![endif]-->
+        <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+      </div>
+
+
+    </div>
+
+
+
+    <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%"
+      border="0">
+      <tbody>
+        <tr>
+          <td
+            style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 33px;font-family:'Cabin',sans-serif;"
+            align="left">
+
+
+            <div class="text-center" style="text-align: center;">
+              <img alt="" src="logo.png" width="300px">
+            </div>
+
+
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+</body>
+
+</html>

@@ -1,0 +1,1274 @@
+00:03:52 -> [2c10a514] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_clientes_vendedor&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&ID_M_VENDEDORES=&ID_M_TIPO_CLIENTES=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&ID_M_VENDEDORES=&TITULO=LISTADO%20DE%20CLIENTES%20POR%20VENDEDOR&ID_M_TIPO_CLIENTES=&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20DE%20CLIENTES%20POR%20VENDEDOR
+00:03:54 -> [2c10a514] get report format
+00:03:54 -> [2c10a514] init templates
+00:03:54 -> [2c10a514] init main report format
+00:03:54 -> [2c10a514] Trying to save...
+00:03:54 -> [2c10a514] Saving to Z:\app\tmp\2c10a514\-opt-lampp-htdocs-inventario-reportes-r_clientes_vendedor.fr3
+00:03:54 -> [2c10a514] loading report
+00:03:54 -> [2c10a514] set variables
+00:03:54 -> [2c10a514] building report file
+00:03:54 -> [2c10a514] exporting to pdf file
+00:03:59 -> [2c10a514] Report prepared
+00:04:00 -> [2c10a514] Done! Z:\app\pdf\2c10a514.pdf
+00:04:16 -> [b26c817a] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_listado_ventas_vendedor&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&ID_M_VENDEDORES=&ID_M_TIPO_CLIENTES=&xconfig={$x_config}&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&ID_M_VENDEDORES=&TITULO=LISTADO%20VENTAS%20POR%20VENDEDOR&ID_M_TIPO_CLIENTES=&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20VENTAS%20POR%20VENDEDOR
+00:04:16 -> [b26c817a] get report format
+00:04:16 -> [b26c817a] init templates
+00:04:16 -> [b26c817a] init main report format
+00:04:16 -> [b26c817a] Trying to save...
+00:04:16 -> [b26c817a] Saving to Z:\app\tmp\b26c817a\-opt-lampp-htdocs-inventario-reportes-r_listado_ventas_vendedor.fr3
+00:04:16 -> [b26c817a] loading report
+00:04:16 -> [b26c817a] set variables
+00:04:16 -> [b26c817a] building report file
+00:04:16 -> [b26c817a] exporting to pdf file
+00:04:17 -> [b26c817a] Report prepared
+00:04:17 -> [b26c817a] Done! Z:\app\pdf\b26c817a.pdf
+00:04:46 -> [3bd27a92] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154993&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:04:50 -> [3bd27a92] get report format
+00:04:50 -> [3bd27a92] init templates
+00:04:50 -> [3bd27a92] init main report format
+00:04:50 -> [3bd27a92] Trying to save...
+00:04:50 -> [3bd27a92] Saving to Z:\app\tmp\3bd27a92\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+00:04:50 -> [3bd27a92] loading report
+00:04:50 -> [3bd27a92] set variables
+00:04:50 -> [3bd27a92] building report file
+00:04:50 -> [3bd27a92] exporting to pdf file
+00:04:50 -> [3bd27a92] Report prepared
+00:04:50 -> [3bd27a92] Done! Z:\app\pdf\3bd27a92.pdf
+00:05:24 -> [d7b83d00] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154993&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:05:25 -> [d7b83d00] get report format
+00:05:25 -> [d7b83d00] init templates
+00:05:25 -> [d7b83d00] init main report format
+00:05:25 -> [d7b83d00] Trying to save...
+00:05:25 -> [d7b83d00] Saving to Z:\app\tmp\d7b83d00\-opt-lampp-htdocs-globalcargo-reportes-r_guia_etiqueta.fr3
+00:05:25 -> [d7b83d00] loading report
+00:05:25 -> [d7b83d00] set variables
+00:05:25 -> [d7b83d00] building report file
+00:05:25 -> [d7b83d00] exporting to pdf file
+00:05:25 -> [d7b83d00] Report prepared
+00:05:26 -> [d7b83d00] Done! Z:\app\pdf\d7b83d00.pdf
+00:06:16 -> [4bc89760] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_aju&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015666&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+00:06:16 -> [4bc89760] get report format
+00:06:16 -> [4bc89760] init templates
+00:06:16 -> [4bc89760] init main report format
+00:06:16 -> [4bc89760] Trying to save...
+00:06:16 -> [4bc89760] Saving to Z:\app\tmp\4bc89760\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_aju.fr3
+00:06:16 -> [4bc89760] loading report
+00:06:16 -> [4bc89760] set variables
+00:06:16 -> [4bc89760] building report file
+00:06:16 -> [4bc89760] exporting to pdf file
+00:06:16 -> [4bc89760] Report prepared
+00:06:16 -> [4bc89760] Done! Z:\app\pdf\4bc89760.pdf
+00:07:51 -> [8d19db18] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_devoluciones_venta&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-09-17&ID_M_VENDEDORES=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-08-01&TITULO=LISTADO%20DEVOLUCIONES%20EN%20VENTAS&FECHA_HASTA=2022-09-17&ID_M_VENDEDORES=&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20DEVOLUCIONES%20EN%20VENTAS
+00:07:51 -> [8d19db18] get report format
+00:07:51 -> [8d19db18] init templates
+00:07:51 -> [8d19db18] init main report format
+00:07:51 -> [8d19db18] Trying to save...
+00:07:51 -> [8d19db18] Saving to Z:\app\tmp\8d19db18\-opt-lampp-htdocs-inventario-reportes-r_devoluciones_venta.fr3
+00:07:51 -> [8d19db18] loading report
+00:07:51 -> [8d19db18] set variables
+00:07:51 -> [8d19db18] building report file
+00:07:51 -> [8d19db18] exporting to pdf file
+00:07:52 -> [8d19db18] Report prepared
+00:07:52 -> [8d19db18] Done! Z:\app\pdf\8d19db18.pdf
+00:20:17 -> [ad7ba845] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_listado_ventas_vendedor&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&ID_M_VENDEDORES=0036&ID_M_TIPO_CLIENTES=&xconfig={$x_config}&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&ID_M_VENDEDORES=0036&TITULO=LISTADO%20VENTAS%20POR%20VENDEDOR&ID_M_TIPO_CLIENTES=&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20VENTAS%20POR%20VENDEDOR
+00:20:18 -> [ad7ba845] get report format
+00:20:18 -> [ad7ba845] init templates
+00:20:18 -> [ad7ba845] init main report format
+00:20:18 -> [ad7ba845] Trying to save...
+00:20:18 -> [ad7ba845] Saving to Z:\app\tmp\ad7ba845\-opt-lampp-htdocs-inventario-reportes-r_listado_ventas_vendedor.fr3
+00:20:18 -> [ad7ba845] loading report
+00:20:18 -> [ad7ba845] set variables
+00:20:18 -> [ad7ba845] building report file
+00:20:18 -> [ad7ba845] exporting to pdf file
+00:20:18 -> [ad7ba845] Report prepared
+00:20:18 -> [ad7ba845] Done! Z:\app\pdf\ad7ba845.pdf
+00:21:35 -> [2a731ab9] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_listado_venta_almacen_marca_producto&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&ID_M_VENDEDORES=0036&ID_M_TIPO_CLIENTES=&xconfig={$x_config}&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&ID_M_ALMACENES=00111&ID_M_MARCAS=&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&ID_M_VENDEDORES=0036&TITULO=LISTADO%20VENTAS%20PRODUCTOS%20POR%20ALMACEN%20Y%20MARCA&ID_M_TIPO_CLIENTES=&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&ID_M_ALMACENES=00111&ID_M_MARCAS=&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20VENTAS%20PRODUCTOS%20POR%20ALMACEN%20Y%20MARCA
+00:21:36 -> [2a731ab9] get report format
+00:21:36 -> [2a731ab9] init templates
+00:21:36 -> [2a731ab9] init main report format
+00:21:36 -> [2a731ab9] Trying to save...
+00:21:36 -> [2a731ab9] Saving to Z:\app\tmp\2a731ab9\-opt-lampp-htdocs-inventario-reportes-r_listado_venta_almacen_marca_producto.fr3
+00:21:36 -> [2a731ab9] loading report
+00:21:36 -> [2a731ab9] set variables
+00:21:36 -> [2a731ab9] building report file
+00:21:36 -> [2a731ab9] exporting to pdf file
+00:21:40 -> [2a731ab9] Report prepared
+00:21:41 -> [2a731ab9] Done! Z:\app\pdf\2a731ab9.pdf
+00:23:24 -> [3606a353] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154993&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:23:25 -> [3606a353] get report format
+00:23:25 -> [3606a353] init templates
+00:23:25 -> [3606a353] init main report format
+00:23:25 -> [3606a353] Trying to save...
+00:23:25 -> [3606a353] Saving to Z:\app\tmp\3606a353\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+00:23:25 -> [3606a353] loading report
+00:23:25 -> [3606a353] set variables
+00:23:25 -> [3606a353] building report file
+00:23:25 -> [3606a353] exporting to pdf file
+00:23:26 -> [3606a353] Report prepared
+00:23:26 -> [3606a353] Done! Z:\app\pdf\3606a353.pdf
+00:27:09 -> [845578cd] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154993&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:27:12 -> [845578cd] get report format
+00:27:12 -> [845578cd] init templates
+00:27:12 -> [845578cd] init main report format
+00:27:12 -> [845578cd] Trying to save...
+00:27:12 -> [845578cd] Saving to Z:\app\tmp\845578cd\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+00:27:12 -> [845578cd] loading report
+00:27:12 -> [845578cd] set variables
+00:27:12 -> [845578cd] building report file
+00:27:12 -> [845578cd] exporting to pdf file
+00:27:12 -> [845578cd] Report prepared
+00:27:12 -> [845578cd] Done! Z:\app\pdf\845578cd.pdf
+00:27:40 -> [b315153d] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154969&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:27:42 -> [b315153d] get report format
+00:27:42 -> [b315153d] init templates
+00:27:42 -> [b315153d] init main report format
+00:27:42 -> [b315153d] Trying to save...
+00:27:42 -> [b315153d] Saving to Z:\app\tmp\b315153d\-opt-lampp-htdocs-globalcargo-reportes-r_guia.fr3
+00:27:42 -> [b315153d] loading report
+00:27:42 -> [b315153d] set variables
+00:27:42 -> [b315153d] building report file
+00:27:42 -> [b315153d] exporting to pdf file
+00:27:42 -> [b315153d] Report prepared
+00:27:42 -> [b315153d] Done! Z:\app\pdf\b315153d.pdf
+00:28:23 -> [10c10900] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154993&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:28:25 -> [10c10900] get report format
+00:28:25 -> [10c10900] init templates
+00:28:25 -> [10c10900] init main report format
+00:28:25 -> [10c10900] Trying to save...
+00:28:25 -> [10c10900] Saving to Z:\app\tmp\10c10900\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+00:28:25 -> [10c10900] loading report
+00:28:25 -> [10c10900] set variables
+00:28:25 -> [10c10900] building report file
+00:28:25 -> [10c10900] exporting to pdf file
+00:28:26 -> [10c10900] Report prepared
+00:28:26 -> [10c10900] Done! Z:\app\pdf\10c10900.pdf
+00:28:48 -> [4bbaac86] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154969&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:28:49 -> [4bbaac86] get report format
+00:28:49 -> [4bbaac86] init templates
+00:28:49 -> [4bbaac86] init main report format
+00:28:49 -> [4bbaac86] Trying to save...
+00:28:49 -> [4bbaac86] Saving to Z:\app\tmp\4bbaac86\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+00:28:49 -> [4bbaac86] loading report
+00:28:49 -> [4bbaac86] set variables
+00:28:49 -> [4bbaac86] building report file
+00:28:49 -> [4bbaac86] exporting to pdf file
+00:28:49 -> [4bbaac86] Report prepared
+00:28:49 -> [4bbaac86] Done! Z:\app\pdf\4bbaac86.pdf
+00:37:11 -> [25393778] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154993&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:37:13 -> [25393778] get report format
+00:37:13 -> [25393778] init templates
+00:37:13 -> [25393778] init main report format
+00:37:13 -> [25393778] Trying to save...
+00:37:13 -> [25393778] Saving to Z:\app\tmp\25393778\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+00:37:13 -> [25393778] loading report
+00:37:13 -> [25393778] set variables
+00:37:13 -> [25393778] building report file
+00:37:13 -> [25393778] exporting to pdf file
+00:37:14 -> [25393778] Report prepared
+00:37:14 -> [25393778] Done! Z:\app\pdf\25393778.pdf
+00:42:28 -> [9754665a] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015668&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+00:42:28 -> [9754665a] get report format
+00:42:28 -> [9754665a] init templates
+00:42:28 -> [9754665a] init main report format
+00:42:28 -> [9754665a] Trying to save...
+00:42:28 -> [9754665a] Saving to Z:\app\tmp\9754665a\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+00:42:28 -> [9754665a] loading report
+00:42:28 -> [9754665a] set variables
+00:42:28 -> [9754665a] building report file
+00:42:28 -> [9754665a] exporting to pdf file
+00:42:28 -> [9754665a] Report prepared
+00:42:28 -> [9754665a] Done! Z:\app\pdf\9754665a.pdf
+00:52:43 -> [9b384a95] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154994&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:52:44 -> [9b384a95] get report format
+00:52:44 -> [9b384a95] init templates
+00:52:44 -> [9b384a95] init main report format
+00:52:44 -> [9b384a95] Trying to save...
+00:52:44 -> [9b384a95] Saving to Z:\app\tmp\9b384a95\-opt-lampp-htdocs-globalcargo-reportes-r_guia.fr3
+00:52:44 -> [9b384a95] loading report
+00:52:44 -> [9b384a95] set variables
+00:52:44 -> [9b384a95] building report file
+00:52:44 -> [9b384a95] exporting to pdf file
+00:52:45 -> [9b384a95] Report prepared
+00:52:45 -> [9b384a95] Done! Z:\app\pdf\9b384a95.pdf
+00:54:07 -> [0ab594d8] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154994&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:54:11 -> [0ab594d8] get report format
+00:54:11 -> [0ab594d8] init templates
+00:54:11 -> [0ab594d8] init main report format
+00:54:11 -> [0ab594d8] Trying to save...
+00:54:11 -> [0ab594d8] Saving to Z:\app\tmp\0ab594d8\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+00:54:11 -> [0ab594d8] loading report
+00:54:11 -> [0ab594d8] set variables
+00:54:11 -> [0ab594d8] building report file
+00:54:11 -> [0ab594d8] exporting to pdf file
+00:54:12 -> [0ab594d8] Report prepared
+00:54:12 -> [0ab594d8] Done! Z:\app\pdf\0ab594d8.pdf
+00:56:58 -> [5cb29009] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154994&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+00:56:58 -> [5cb29009] get report format
+00:56:58 -> [5cb29009] init templates
+00:56:58 -> [5cb29009] init main report format
+00:56:58 -> [5cb29009] Trying to save...
+00:56:58 -> [5cb29009] Saving to Z:\app\tmp\5cb29009\-opt-lampp-htdocs-globalcargo-reportes-r_guia_etiqueta.fr3
+00:56:58 -> [5cb29009] loading report
+00:56:58 -> [5cb29009] set variables
+00:56:58 -> [5cb29009] building report file
+00:56:58 -> [5cb29009] exporting to pdf file
+00:56:58 -> [5cb29009] Report prepared
+00:56:59 -> [5cb29009] Done! Z:\app\pdf\5cb29009.pdf
+01:13:43 -> [d2d88c43] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_listado_ventas_vendedor&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-08-29&FECHA_HASTA=2022-08-31&ID_M_VENDEDORES=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-08-29&TITULO=LISTADO%20VENTAS%20POR%20VENDEDOR&FECHA_HASTA=2022-08-31&ID_M_VENDEDORES=&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20VENTAS%20POR%20VENDEDOR
+01:13:44 -> [d2d88c43] get report format
+01:13:44 -> [d2d88c43] init templates
+01:13:44 -> [d2d88c43] init main report format
+01:13:44 -> [d2d88c43] Trying to save...
+01:13:44 -> [d2d88c43] Saving to Z:\app\tmp\d2d88c43\-opt-lampp-htdocs-inventario-reportes-r_listado_ventas_vendedor.fr3
+01:13:44 -> [d2d88c43] loading report
+01:13:44 -> [d2d88c43] set variables
+01:13:44 -> [d2d88c43] building report file
+01:13:44 -> [d2d88c43] exporting to pdf file
+01:13:44 -> [d2d88c43] Report prepared
+01:13:44 -> [d2d88c43] Done! Z:\app\pdf\d2d88c43.pdf
+01:40:32 -> [93261dd1] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&ID_M_LINEAS=00319&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-08-01&TITULO=LISTADO%20VENTAS%20POR%20LINEAS%20DE%20PRODUCTOS&FECHA_HASTA=2022-08-31&ID_M_LINEAS=00319&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20VENTAS%20POR%20LINEAS%20DE%20PRODUCTOS
+01:40:32 -> [93261dd1] get report format
+01:40:32 -> [93261dd1] init templates
+01:40:32 -> [93261dd1] init main report format
+01:40:32 -> [93261dd1] Trying to save...
+01:40:32 -> [93261dd1] Saving to Z:\app\tmp\93261dd1\-opt-lampp-htdocs-inventario-reportes-r_venta_producto.fr3
+01:40:32 -> [93261dd1] loading report
+01:40:32 -> [93261dd1] set variables
+01:40:32 -> [93261dd1] building report file
+01:40:32 -> [93261dd1] exporting to pdf file
+01:40:34 -> [93261dd1] Report prepared
+01:40:34 -> [93261dd1] Done! Z:\app\pdf\93261dd1.pdf
+01:43:15 -> [30b1a1d2] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_listado_venta_almacen_marca_producto&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-31&ID_M_LINEAS=00319&xconfig={$x_config}&ID_M_ALMACENES=00111&ID_M_MARCAS=00325&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-08-01&TITULO=LISTADO%20VENTAS%20PRODUCTOS%20POR%20ALMACEN%20Y%20MARCA&FECHA_HASTA=2022-08-31&ID_M_LINEAS=00319&ID_M_ALMACENES=00111&ID_M_MARCAS=00325&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=LISTADO%20VENTAS%20PRODUCTOS%20POR%20ALMACEN%20Y%20MARCA
+01:43:16 -> [30b1a1d2] get report format
+01:43:16 -> [30b1a1d2] init templates
+01:43:16 -> [30b1a1d2] init main report format
+01:43:16 -> [30b1a1d2] Trying to save...
+01:43:16 -> [30b1a1d2] Saving to Z:\app\tmp\30b1a1d2\-opt-lampp-htdocs-inventario-reportes-r_listado_venta_almacen_marca_producto.fr3
+01:43:16 -> [30b1a1d2] loading report
+01:43:16 -> [30b1a1d2] set variables
+01:43:16 -> [30b1a1d2] building report file
+01:43:16 -> [30b1a1d2] exporting to pdf file
+01:43:16 -> [30b1a1d2] Report prepared
+01:43:16 -> [30b1a1d2] Done! Z:\app\pdf\30b1a1d2.pdf
+01:57:33 -> [4983c712] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+01:57:33 -> [4983c712] get report format
+01:57:34 -> [4983c712] init templates
+01:57:34 -> [4983c712] init main report format
+01:57:34 -> [4983c712] Trying to save...
+01:57:34 -> [4983c712] Saving to Z:\app\tmp\4983c712\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+01:57:34 -> [4983c712] loading report
+01:57:34 -> [4983c712] set variables
+01:57:34 -> [4983c712] building report file
+01:57:34 -> [4983c712] exporting to pdf file
+01:57:34 -> [4983c712] Report prepared
+01:57:34 -> [4983c712] Done! Z:\app\pdf\4983c712.pdf
+02:01:27 -> [50a15209] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+02:01:27 -> [50a15209] get report format
+02:01:27 -> [50a15209] init templates
+02:01:27 -> [50a15209] init main report format
+02:01:27 -> [50a15209] Trying to save...
+02:01:27 -> [50a15209] Saving to Z:\app\tmp\50a15209\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+02:01:27 -> [50a15209] loading report
+02:01:27 -> [50a15209] set variables
+02:01:27 -> [50a15209] building report file
+02:01:27 -> [50a15209] exporting to pdf file
+02:01:27 -> [50a15209] Report prepared
+02:01:28 -> [50a15209] Done! Z:\app\pdf\50a15209.pdf
+02:05:08 -> [bd7a1ac7] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_depositos_realizados&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&ID_M_CUENTAS_BANCARIAS=00329&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-09-17&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&ID_M_CUENTAS_BANCARIAS=00329&TITULO=DEPOSITOS%20BANCARIOS%20POR%20CUENTA&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-09-17&compress=1&id_m_usuario=003119&log_USER_ID=003119&log_USER_NAME=GIRON+LOIDA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=DEPOSITOS%20BANCARIOS%20POR%20CUENTA
+02:05:08 -> [bd7a1ac7] get report format
+02:05:08 -> [bd7a1ac7] init templates
+02:05:08 -> [bd7a1ac7] init main report format
+02:05:08 -> [bd7a1ac7] Trying to save...
+02:05:08 -> [bd7a1ac7] Saving to Z:\app\tmp\bd7a1ac7\-opt-lampp-htdocs-inventario-reportes-r_depositos_realizados.fr3
+02:05:08 -> [bd7a1ac7] loading report
+02:05:08 -> [bd7a1ac7] set variables
+02:05:08 -> [bd7a1ac7] building report file
+02:05:08 -> [bd7a1ac7] exporting to pdf file
+02:05:09 -> [bd7a1ac7] Report prepared
+02:05:09 -> [bd7a1ac7] Done! Z:\app\pdf\bd7a1ac7.pdf
+02:05:15 -> [87081bb5] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015681&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+02:05:15 -> [87081bb5] get report format
+02:05:15 -> [87081bb5] init templates
+02:05:15 -> [87081bb5] init main report format
+02:05:15 -> [87081bb5] Trying to save...
+02:05:15 -> [87081bb5] Saving to Z:\app\tmp\87081bb5\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+02:05:15 -> [87081bb5] loading report
+02:05:15 -> [87081bb5] set variables
+02:05:15 -> [87081bb5] building report file
+02:05:15 -> [87081bb5] exporting to pdf file
+02:05:16 -> [87081bb5] Report prepared
+02:05:16 -> [87081bb5] Done! Z:\app\pdf\87081bb5.pdf
+02:06:06 -> [c3338aa7] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015682&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+02:06:07 -> [c3338aa7] get report format
+02:06:07 -> [c3338aa7] init templates
+02:06:07 -> [c3338aa7] init main report format
+02:06:07 -> [c3338aa7] Trying to save...
+02:06:07 -> [c3338aa7] Saving to Z:\app\tmp\c3338aa7\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+02:06:07 -> [c3338aa7] loading report
+02:06:07 -> [c3338aa7] set variables
+02:06:07 -> [c3338aa7] building report file
+02:06:07 -> [c3338aa7] exporting to pdf file
+02:06:07 -> [c3338aa7] Report prepared
+02:06:07 -> [c3338aa7] Done! Z:\app\pdf\c3338aa7.pdf
+02:07:26 -> [74da0016] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+02:07:26 -> [74da0016] get report format
+02:07:26 -> [74da0016] init templates
+02:07:26 -> [74da0016] init main report format
+02:07:26 -> [74da0016] Trying to save...
+02:07:26 -> [74da0016] Saving to Z:\app\tmp\74da0016\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+02:07:26 -> [74da0016] loading report
+02:07:26 -> [74da0016] set variables
+02:07:26 -> [74da0016] building report file
+02:07:26 -> [74da0016] exporting to pdf file
+02:07:27 -> [74da0016] Report prepared
+02:07:27 -> [74da0016] Done! Z:\app\pdf\74da0016.pdf
+02:16:54 -> [984ba982] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_detalle_paquete&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_PAQUETES=00167&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+02:16:54 -> [984ba982] get report format
+02:16:54 -> [984ba982] init templates
+02:16:54 -> [984ba982] init main report format
+02:16:54 -> [984ba982] Trying to save...
+02:16:54 -> [984ba982] Saving to Z:\app\tmp\984ba982\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_detalle_paquete.fr3
+02:16:54 -> [984ba982] loading report
+02:16:54 -> [984ba982] set variables
+02:16:54 -> [984ba982] building report file
+02:16:54 -> [984ba982] exporting to pdf file
+02:16:54 -> [984ba982] Report prepared
+02:16:54 -> [984ba982] Done! Z:\app\pdf\984ba982.pdf
+02:17:27 -> [a09152dc] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00161&ID_M_CAJAS=0011&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+02:17:28 -> [a09152dc] get report format
+02:17:28 -> [a09152dc] init templates
+02:17:28 -> [a09152dc] init main report format
+02:17:28 -> [a09152dc] Trying to save...
+02:17:28 -> [a09152dc] Saving to Z:\app\tmp\a09152dc\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_arqueos.fr3
+02:17:28 -> [a09152dc] loading report
+02:17:28 -> [a09152dc] set variables
+02:17:28 -> [a09152dc] building report file
+02:17:28 -> [a09152dc] exporting to pdf file
+02:17:28 -> [a09152dc] Report prepared
+02:17:28 -> [a09152dc] Done! Z:\app\pdf\a09152dc.pdf
+03:25:10 -> [b8c0369b] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015678&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+03:25:10 -> [b8c0369b] get report format
+03:25:10 -> [b8c0369b] init templates
+03:25:10 -> [b8c0369b] init main report format
+03:25:10 -> [b8c0369b] Trying to save...
+03:25:10 -> [b8c0369b] Saving to Z:\app\tmp\b8c0369b\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+03:25:10 -> [b8c0369b] loading report
+03:25:10 -> [b8c0369b] set variables
+03:25:10 -> [b8c0369b] building report file
+03:25:10 -> [b8c0369b] exporting to pdf file
+03:25:11 -> [b8c0369b] Report prepared
+03:25:11 -> [b8c0369b] Done! Z:\app\pdf\b8c0369b.pdf
+12:11:20 -> [0a2dc480] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+12:11:20 -> [0a2dc480] get report format
+12:11:20 -> [0a2dc480] init templates
+12:11:20 -> [0a2dc480] init main report format
+12:11:20 -> [0a2dc480] Trying to save...
+12:11:20 -> [0a2dc480] Saving to Z:\app\tmp\0a2dc480\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+12:11:20 -> [0a2dc480] loading report
+12:11:20 -> [0a2dc480] set variables
+12:11:20 -> [0a2dc480] building report file
+12:11:20 -> [0a2dc480] exporting to pdf file
+12:11:21 -> [0a2dc480] Report prepared
+12:11:21 -> [0a2dc480] Done! Z:\app\pdf\0a2dc480.pdf
+12:12:09 -> [cb05b647] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00161&ID_M_CAJAS=0011&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+12:12:09 -> [cb05b647] get report format
+12:12:09 -> [cb05b647] init templates
+12:12:09 -> [cb05b647] init main report format
+12:12:09 -> [cb05b647] Trying to save...
+12:12:09 -> [cb05b647] Saving to Z:\app\tmp\cb05b647\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_arqueos.fr3
+12:12:09 -> [cb05b647] loading report
+12:12:09 -> [cb05b647] set variables
+12:12:09 -> [cb05b647] building report file
+12:12:09 -> [cb05b647] exporting to pdf file
+12:12:10 -> [cb05b647] Report prepared
+12:12:10 -> [cb05b647] Done! Z:\app\pdf\cb05b647.pdf
+12:53:59 -> [c060016b] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015681&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+12:53:59 -> [c060016b] get report format
+12:53:59 -> [c060016b] init templates
+12:53:59 -> [c060016b] init main report format
+12:53:59 -> [c060016b] Trying to save...
+12:53:59 -> [c060016b] Saving to Z:\app\tmp\c060016b\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+12:53:59 -> [c060016b] loading report
+12:53:59 -> [c060016b] set variables
+12:53:59 -> [c060016b] building report file
+12:53:59 -> [c060016b] exporting to pdf file
+12:53:59 -> [c060016b] Report prepared
+12:53:59 -> [c060016b] Done! Z:\app\pdf\c060016b.pdf
+12:54:41 -> [c098ddd4] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015682&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+12:54:41 -> [c098ddd4] get report format
+12:54:41 -> [c098ddd4] init templates
+12:54:41 -> [c098ddd4] init main report format
+12:54:41 -> [c098ddd4] Trying to save...
+12:54:41 -> [c098ddd4] Saving to Z:\app\tmp\c098ddd4\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+12:54:41 -> [c098ddd4] loading report
+12:54:41 -> [c098ddd4] set variables
+12:54:41 -> [c098ddd4] building report file
+12:54:41 -> [c098ddd4] exporting to pdf file
+12:54:41 -> [c098ddd4] Report prepared
+12:54:41 -> [c098ddd4] Done! Z:\app\pdf\c098ddd4.pdf
+12:55:21 -> [d8011110] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015641&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+12:55:21 -> [d8011110] get report format
+12:55:21 -> [d8011110] init templates
+12:55:21 -> [d8011110] init main report format
+12:55:21 -> [d8011110] Trying to save...
+12:55:21 -> [d8011110] Saving to Z:\app\tmp\d8011110\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+12:55:21 -> [d8011110] loading report
+12:55:21 -> [d8011110] set variables
+12:55:21 -> [d8011110] building report file
+12:55:21 -> [d8011110] exporting to pdf file
+12:55:22 -> [d8011110] Report prepared
+12:55:22 -> [d8011110] Done! Z:\app\pdf\d8011110.pdf
+13:01:26 -> [a438d014] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015722&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+13:01:26 -> [a438d014] get report format
+13:01:26 -> [a438d014] init templates
+13:01:26 -> [a438d014] init main report format
+13:01:26 -> [a438d014] Trying to save...
+13:01:26 -> [a438d014] Saving to Z:\app\tmp\a438d014\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+13:01:26 -> [a438d014] loading report
+13:01:26 -> [a438d014] set variables
+13:01:26 -> [a438d014] building report file
+13:01:26 -> [a438d014] exporting to pdf file
+13:01:26 -> [a438d014] Report prepared
+13:01:26 -> [a438d014] Done! Z:\app\pdf\a438d014.pdf
+13:24:54 -> [6624c001] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+13:24:54 -> [6624c001] get report format
+13:24:54 -> [6624c001] init templates
+13:24:54 -> [6624c001] init main report format
+13:24:54 -> [6624c001] Trying to save...
+13:24:54 -> [6624c001] Saving to Z:\app\tmp\6624c001\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+13:24:54 -> [6624c001] loading report
+13:24:54 -> [6624c001] set variables
+13:24:54 -> [6624c001] building report file
+13:24:54 -> [6624c001] exporting to pdf file
+13:24:55 -> [6624c001] Report prepared
+13:24:55 -> [6624c001] Done! Z:\app\pdf\6624c001.pdf
+14:50:06 -> [85083559] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00129073&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001212&log_USER_ID=001212&log_USER_NAME=GOMEZ+HERNANDEZ+HILLARY+ESTHEFANY&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=0
+14:50:08 -> [85083559] get report format
+14:50:08 -> [85083559] init templates
+14:50:08 -> [85083559] init main report format
+14:50:08 -> [85083559] Trying to save...
+14:50:08 -> [85083559] Saving to Z:\app\tmp\85083559\-opt-lampp-htdocs-karizmi-reportes-r_pedido_ticket.fr3
+14:50:08 -> [85083559] loading report
+14:50:08 -> [85083559] set variables
+14:50:08 -> [85083559] building report file
+14:50:08 -> [85083559] exporting to pdf file
+14:50:08 -> [85083559] Report prepared
+14:50:08 -> [85083559] Done! Z:\app\pdf\85083559.pdf
+15:27:24 -> [b3b95dbd] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00129074&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001210&log_USER_ID=001210&log_USER_NAME=POLANCO+AILYM&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=0
+15:27:26 -> [b3b95dbd] get report format
+15:27:26 -> [b3b95dbd] init templates
+15:27:26 -> [b3b95dbd] init main report format
+15:27:26 -> [b3b95dbd] Trying to save...
+15:27:26 -> [b3b95dbd] Saving to Z:\app\tmp\b3b95dbd\-opt-lampp-htdocs-karizmi-reportes-r_pedido_ticket.fr3
+15:27:26 -> [b3b95dbd] loading report
+15:27:26 -> [b3b95dbd] set variables
+15:27:26 -> [b3b95dbd] building report file
+15:27:26 -> [b3b95dbd] exporting to pdf file
+15:27:26 -> [b3b95dbd] Report prepared
+15:27:26 -> [b3b95dbd] Done! Z:\app\pdf\b3b95dbd.pdf
+15:43:13 -> [77ca7923] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_inventario&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&ID_M_ALMACENES=0011&ID_M_LINEAS=0013&CANTIDAD=%3C0&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&ID_M_ALMACENES=0011&TITULO=LISTADO%20DE%20EXISTENCIA&ID_M_LINEAS=0013&CANTIDAD=%3C0&compress=1&id_m_usuario=001227&log_USER_ID=001227&log_USER_NAME=CAJA+2&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=LISTADO%20DE%20EXISTENCIA
+15:43:14 -> [77ca7923] get report format
+15:43:14 -> [77ca7923] init templates
+15:43:14 -> [77ca7923] init main report format
+15:43:14 -> [77ca7923] Trying to save...
+15:43:14 -> [77ca7923] Saving to Z:\app\tmp\77ca7923\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_inventario.fr3
+15:43:14 -> [77ca7923] loading report
+15:43:14 -> [77ca7923] set variables
+15:43:14 -> [77ca7923] building report file
+15:43:14 -> [77ca7923] exporting to pdf file
+15:43:14 -> [77ca7923] Report prepared
+15:43:14 -> [77ca7923] Done! Z:\app\pdf\77ca7923.pdf
+15:43:26 -> [8b2d8193] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_inventario&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&ID_M_ALMACENES=0011&ID_M_LINEAS=0013&CANTIDAD=%3D0&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&ID_M_ALMACENES=0011&TITULO=LISTADO%20DE%20EXISTENCIA&ID_M_LINEAS=0013&CANTIDAD==0&compress=1&id_m_usuario=001227&log_USER_ID=001227&log_USER_NAME=CAJA+2&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=LISTADO%20DE%20EXISTENCIA
+15:43:27 -> [8b2d8193] get report format
+15:43:27 -> [8b2d8193] init templates
+15:43:27 -> [8b2d8193] init main report format
+15:43:27 -> [8b2d8193] Trying to save...
+15:43:27 -> [8b2d8193] Saving to Z:\app\tmp\8b2d8193\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_inventario.fr3
+15:43:27 -> [8b2d8193] loading report
+15:43:27 -> [8b2d8193] set variables
+15:43:27 -> [8b2d8193] building report file
+15:43:27 -> [8b2d8193] exporting to pdf file
+15:43:27 -> [8b2d8193] Report prepared
+15:43:27 -> [8b2d8193] Done! Z:\app\pdf\8b2d8193.pdf
+15:43:52 -> [80d975c3] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_inventario_costo&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&ID_M_ALMACENES=0011&ID_M_LINEAS=&CANTIDAD=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&ID_M_ALMACENES=0011&TITULO=RELACION%20DE%20INVENTARIO%20POR%20ALMACEN&ID_M_LINEAS=&CANTIDAD=&compress=1&id_m_usuario=001227&log_USER_ID=001227&log_USER_NAME=CAJA+2&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20INVENTARIO%20POR%20ALMACEN
+15:43:53 -> [80d975c3] get report format
+15:43:53 -> [80d975c3] init templates
+15:43:53 -> [80d975c3] init main report format
+15:43:53 -> [80d975c3] Trying to save...
+15:43:53 -> [80d975c3] Saving to Z:\app\tmp\80d975c3\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_inventario_costo.fr3
+15:43:53 -> [80d975c3] loading report
+15:43:53 -> [80d975c3] set variables
+15:43:53 -> [80d975c3] building report file
+15:43:53 -> [80d975c3] exporting to pdf file
+15:43:56 -> [62555d19] call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00114892&compress=1&id_m_usuario=0011001&log_USER_ID=0011001&log_USER_NAME=DIPASO+9+DE+OCTUBRE+Y+BOYACA&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+15:43:57 -> [62555d19] get report format
+15:43:57 -> [62555d19] init templates
+15:43:57 -> [62555d19] init main report format
+15:43:57 -> [62555d19] Trying to save...
+15:43:57 -> [62555d19] Saving to Z:\app\tmp\62555d19\-opt-lampp-htdocs-yobel-reportes-r_documento_guia2.fr3
+15:43:57 -> [62555d19] loading report
+15:43:57 -> [62555d19] set variables
+15:43:57 -> [62555d19] building report file
+15:43:57 -> [62555d19] exporting to pdf file
+15:43:57 -> [62555d19] Report prepared
+15:43:57 -> [62555d19] Done! Z:\app\pdf\62555d19.pdf
+15:43:58 -> [80d975c3] Report prepared
+15:43:59 -> [61065890] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_inventario_costo&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&ID_M_ALMACENES=0011&ID_M_LINEAS=0013&CANTIDAD=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&ID_M_ALMACENES=0011&TITULO=RELACION%20DE%20INVENTARIO%20POR%20ALMACEN&ID_M_LINEAS=0013&CANTIDAD=&compress=1&id_m_usuario=001227&log_USER_ID=001227&log_USER_NAME=CAJA+2&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20INVENTARIO%20POR%20ALMACEN
+15:44:00 -> [61065890] get report format
+15:44:00 -> [61065890] init templates
+15:44:00 -> [61065890] init main report format
+15:44:00 -> [61065890] Trying to save...
+15:44:00 -> [61065890] Saving to Z:\app\tmp\61065890\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_inventario_costo.fr3
+15:44:00 -> [61065890] loading report
+15:44:00 -> [61065890] set variables
+15:44:00 -> [61065890] building report file
+15:44:00 -> [61065890] exporting to pdf file
+15:44:00 -> [80d975c3] Done! Z:\app\pdf\80d975c3.pdf
+15:44:03 -> [61065890] Report prepared
+15:44:04 -> [61065890] Done! Z:\app\pdf\61065890.pdf
+15:45:43 -> [67974201] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_aud&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015728&compress=1&id_m_usuario=001227&log_USER_ID=001227&log_USER_NAME=CAJA+2&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+15:45:43 -> [67974201] get report format
+15:45:43 -> [67974201] init templates
+15:45:43 -> [67974201] init main report format
+15:45:43 -> [67974201] Trying to save...
+15:45:43 -> [67974201] Saving to Z:\app\tmp\67974201\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_aud.fr3
+15:45:43 -> [67974201] loading report
+15:45:43 -> [67974201] set variables
+15:45:43 -> [67974201] building report file
+15:45:43 -> [67974201] exporting to pdf file
+15:45:44 -> [67974201] Report prepared
+15:45:44 -> [67974201] Done! Z:\app\pdf\67974201.pdf
+15:59:14 -> [0740c869] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015729&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+15:59:14 -> [0740c869] get report format
+15:59:14 -> [0740c869] init templates
+15:59:14 -> [0740c869] init main report format
+15:59:14 -> [0740c869] Trying to save...
+15:59:14 -> [0740c869] Saving to Z:\app\tmp\0740c869\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+15:59:14 -> [0740c869] loading report
+15:59:14 -> [0740c869] set variables
+15:59:14 -> [0740c869] building report file
+15:59:14 -> [0740c869] exporting to pdf file
+15:59:14 -> [0740c869] Report prepared
+15:59:14 -> [0740c869] Done! Z:\app\pdf\0740c869.pdf
+16:31:24 -> [4895d04b] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154995&compress=0&compress=1&id_m_usuario=0011440&log_USER_ID=0011440&log_USER_NAME=MORENO+ORIANA&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+16:31:25 -> [4895d04b] get report format
+16:31:25 -> [4895d04b] init templates
+16:31:25 -> [4895d04b] init main report format
+16:31:25 -> [4895d04b] Trying to save...
+16:31:25 -> [4895d04b] Saving to Z:\app\tmp\4895d04b\-opt-lampp-htdocs-globalcargo-reportes-r_guia_etiqueta.fr3
+16:31:25 -> [4895d04b] loading report
+16:31:25 -> [4895d04b] set variables
+16:31:25 -> [4895d04b] building report file
+16:31:25 -> [4895d04b] exporting to pdf file
+16:31:25 -> [4895d04b] Report prepared
+16:31:28 -> [4895d04b] Done! Z:\app\pdf\4895d04b.pdf
+16:32:22 -> [942006c8] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154995&compress=0&compress=1&id_m_usuario=0011440&log_USER_ID=0011440&log_USER_NAME=MORENO+ORIANA&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+16:32:26 -> [942006c8] get report format
+16:32:26 -> [942006c8] init templates
+16:32:26 -> [942006c8] init main report format
+16:32:26 -> [942006c8] Trying to save...
+16:32:26 -> [942006c8] Saving to Z:\app\tmp\942006c8\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+16:32:26 -> [942006c8] loading report
+16:32:26 -> [942006c8] set variables
+16:32:26 -> [942006c8] building report file
+16:32:26 -> [942006c8] exporting to pdf file
+16:32:27 -> [942006c8] Report prepared
+16:32:27 -> [942006c8] Done! Z:\app\pdf\942006c8.pdf
+16:33:22 -> [d36a1b35] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00129075&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001210&log_USER_ID=001210&log_USER_NAME=POLANCO+AILYM&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=0
+16:33:24 -> [d36a1b35] get report format
+16:33:24 -> [d36a1b35] init templates
+16:33:24 -> [d36a1b35] init main report format
+16:33:24 -> [d36a1b35] Trying to save...
+16:33:24 -> [d36a1b35] Saving to Z:\app\tmp\d36a1b35\-opt-lampp-htdocs-karizmi-reportes-r_pedido_ticket.fr3
+16:33:24 -> [d36a1b35] loading report
+16:33:24 -> [d36a1b35] set variables
+16:33:24 -> [d36a1b35] building report file
+16:33:24 -> [d36a1b35] exporting to pdf file
+16:33:24 -> [d36a1b35] Report prepared
+16:33:24 -> [d36a1b35] Done! Z:\app\pdf\d36a1b35.pdf
+16:36:00 -> [5271ad07] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154995&compress=0&compress=1&id_m_usuario=0011440&log_USER_ID=0011440&log_USER_NAME=MORENO+ORIANA&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+16:36:01 -> [5271ad07] get report format
+16:36:01 -> [5271ad07] init templates
+16:36:01 -> [5271ad07] init main report format
+16:36:01 -> [5271ad07] Trying to save...
+16:36:01 -> [5271ad07] Saving to Z:\app\tmp\5271ad07\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+16:36:01 -> [5271ad07] loading report
+16:36:01 -> [5271ad07] set variables
+16:36:01 -> [5271ad07] building report file
+16:36:01 -> [5271ad07] exporting to pdf file
+16:36:02 -> [5271ad07] Report prepared
+16:36:02 -> [5271ad07] Done! Z:\app\pdf\5271ad07.pdf
+16:36:47 -> [d934c005] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154995&compress=0&compress=1&id_m_usuario=0011440&log_USER_ID=0011440&log_USER_NAME=MORENO+ORIANA&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+16:36:48 -> [d934c005] get report format
+16:36:48 -> [d934c005] init templates
+16:36:48 -> [d934c005] init main report format
+16:36:48 -> [d934c005] Trying to save...
+16:36:48 -> [d934c005] Saving to Z:\app\tmp\d934c005\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+16:36:48 -> [d934c005] loading report
+16:36:48 -> [d934c005] set variables
+16:36:48 -> [d934c005] building report file
+16:36:48 -> [d934c005] exporting to pdf file
+16:36:49 -> [d934c005] Report prepared
+16:36:49 -> [d934c005] Done! Z:\app\pdf\d934c005.pdf
+16:41:55 -> [0b17a0cd] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_revision2&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00129075&compress=1&id_m_usuario=001207&log_USER_ID=001207&log_USER_NAME=LUCENA+MORA+DAIRLEN+ANDREINA&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1
+16:41:56 -> [0b17a0cd] get report format
+16:41:56 -> [0b17a0cd] init templates
+16:41:56 -> [0b17a0cd] init main report format
+16:41:56 -> [0b17a0cd] Trying to save...
+16:41:56 -> [0b17a0cd] Saving to Z:\app\tmp\0b17a0cd\-opt-lampp-htdocs-karizmi-reportes-r_revision2.fr3
+16:41:56 -> [0b17a0cd] loading report
+16:41:56 -> [0b17a0cd] set variables
+16:41:56 -> [0b17a0cd] building report file
+16:41:56 -> [0b17a0cd] exporting to pdf file
+16:41:56 -> [0b17a0cd] Report prepared
+16:41:56 -> [0b17a0cd] Done! Z:\app\pdf\0b17a0cd.pdf
+16:41:58 -> [055c4202] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00129075&compress=1&id_m_usuario=001207&log_USER_ID=001207&log_USER_NAME=LUCENA+MORA+DAIRLEN+ANDREINA&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1
+16:41:59 -> [055c4202] get report format
+16:41:59 -> [055c4202] init templates
+16:41:59 -> [055c4202] init main report format
+16:41:59 -> [055c4202] Trying to save...
+16:41:59 -> [055c4202] Saving to Z:\app\tmp\055c4202\-opt-lampp-htdocs-karizmi-reportes-r_orden_entrega.fr3
+16:41:59 -> [055c4202] loading report
+16:41:59 -> [055c4202] set variables
+16:41:59 -> [055c4202] building report file
+16:41:59 -> [055c4202] exporting to pdf file
+16:41:59 -> [055c4202] Report prepared
+16:41:59 -> [055c4202] Done! Z:\app\pdf\055c4202.pdf
+16:58:38 -> [a9195789] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+16:58:39 -> [a9195789] get report format
+16:58:39 -> [a9195789] init templates
+16:58:39 -> [a9195789] init main report format
+16:58:39 -> [a9195789] Trying to save...
+16:58:39 -> [a9195789] Saving to Z:\app\tmp\a9195789\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+16:58:39 -> [a9195789] loading report
+16:58:39 -> [a9195789] set variables
+16:58:39 -> [a9195789] building report file
+16:58:39 -> [a9195789] exporting to pdf file
+16:58:39 -> [a9195789] Report prepared
+16:58:39 -> [a9195789] Done! Z:\app\pdf\a9195789.pdf
+17:16:20 -> [59695262] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_arreglos_vendedor&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&letras=1&FECHA_DESDE=2022-09-01&FECHA_HASTA=2022-09-15&ID_M_VENDEDORES=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/karizmi/&FECHA_DESDE=2022-09-01&TITULO=REPORTE%20DE%20ARREGLOS%20POR%20VENDEDOR&FECHA_HASTA=2022-09-15&ID_M_VENDEDORES=&compress=1&id_m_usuario=001214&log_USER_ID=001214&log_USER_NAME=MELENDEZ+ALVAREZ+MARIA+DEL+MAR&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1&title=REPORTE%20DE%20ARREGLOS%20POR%20VENDEDOR
+17:16:20 -> [59695262] get report format
+17:16:20 -> [59695262] init templates
+17:16:20 -> [59695262] init main report format
+17:16:20 -> [59695262] Trying to save...
+17:16:20 -> [59695262] Saving to Z:\app\tmp\59695262\-opt-lampp-htdocs-karizmi-reportes-r_arreglos_vendedor.fr3
+17:16:20 -> [59695262] loading report
+17:16:20 -> [59695262] set variables
+17:16:20 -> [59695262] building report file
+17:16:20 -> [59695262] exporting to pdf file
+17:16:25 -> [59695262] Report prepared
+17:16:25 -> [59695262] Done! Z:\app\pdf\59695262.pdf
+17:17:58 -> [499b220d] call url: http://172.17.0.1/farmacia/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_com&db=farmacia&SERVERPATH=http://172.17.0.1/farmacia/&ID_M_DOCUMENTOS=0014517&compress=1&id_m_usuario=001231&log_USER_ID=001231&log_USER_NAME=GAMEZ+MANUEL&log_SISTEMA=farmacia&log_SISTEMA_DB=farmacia&viewer=1
+17:17:58 -> [499b220d] get report format
+17:17:58 -> [499b220d] init templates
+17:17:58 -> [499b220d] init main report format
+17:17:58 -> [499b220d] Trying to save...
+17:17:58 -> [499b220d] Saving to Z:\app\tmp\499b220d\-opt-lampp-htdocs-farmacia-reportes-r_documento_com.fr3
+17:17:58 -> [499b220d] loading report
+17:17:58 -> [499b220d] set variables
+17:17:58 -> [499b220d] building report file
+17:17:58 -> [499b220d] exporting to pdf file
+17:17:59 -> [499b220d] Report prepared
+17:17:59 -> [499b220d] Done! Z:\app\pdf\499b220d.pdf
+17:19:19 -> [35d24373] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_arreglos_florista&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&letras=1&FECHA_DESDE=2022-09-01&FECHA_HASTA=2022-09-15&ID_M_PROFESIONALES=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/karizmi/&FECHA_DESDE=2022-09-01&TITULO=REPORTE%20DE%20ARREGLOS%20POR%20FLORISTA&FECHA_HASTA=2022-09-15&ID_M_PROFESIONALES=&compress=1&id_m_usuario=001214&log_USER_ID=001214&log_USER_NAME=MELENDEZ+ALVAREZ+MARIA+DEL+MAR&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1&title=REPORTE%20DE%20ARREGLOS%20POR%20FLORISTA
+17:19:19 -> [35d24373] get report format
+17:19:19 -> [35d24373] init templates
+17:19:19 -> [35d24373] init main report format
+17:19:19 -> [35d24373] Trying to save...
+17:19:19 -> [35d24373] Saving to Z:\app\tmp\35d24373\-opt-lampp-htdocs-karizmi-reportes-r_arreglos_florista.fr3
+17:19:19 -> [35d24373] loading report
+17:19:19 -> [35d24373] set variables
+17:19:19 -> [35d24373] building report file
+17:19:19 -> [35d24373] exporting to pdf file
+17:19:21 -> [35d24373] Report prepared
+17:19:21 -> [35d24373] Done! Z:\app\pdf\35d24373.pdf
+17:20:47 -> [00dcca1b] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_arreglos_chofer&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&letras=1&FECHA_DESDE=2022-09-01&FECHA_HASTA=2022-09-15&ID_M_PROFESIONALES2=&ID_M_CLIENTES=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/karizmi/&FECHA_DESDE=2022-09-01&TITULO=REPORTE%20DE%20ARREGLOS%20POR%20CHOFER&FECHA_HASTA=2022-09-15&ID_M_PROFESIONALES2=&ID_M_CLIENTES=&compress=1&id_m_usuario=001214&log_USER_ID=001214&log_USER_NAME=MELENDEZ+ALVAREZ+MARIA+DEL+MAR&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1&title=REPORTE%20DE%20ARREGLOS%20POR%20CHOFER
+17:20:47 -> [00dcca1b] get report format
+17:20:47 -> [00dcca1b] init templates
+17:20:47 -> [00dcca1b] init main report format
+17:20:47 -> [00dcca1b] Trying to save...
+17:20:47 -> [00dcca1b] Saving to Z:\app\tmp\00dcca1b\-opt-lampp-htdocs-karizmi-reportes-r_arreglos_chofer.fr3
+17:20:47 -> [00dcca1b] loading report
+17:20:47 -> [00dcca1b] set variables
+17:20:47 -> [00dcca1b] building report file
+17:20:47 -> [00dcca1b] exporting to pdf file
+17:20:50 -> [00dcca1b] Report prepared
+17:20:50 -> [00dcca1b] Done! Z:\app\pdf\00dcca1b.pdf
+17:33:55 -> [294cb936] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_carga&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_PEDIDOS=0014294&TITULO=ORDEN%20DE%20ENTREGA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+17:33:57 -> [294cb936] get report format
+17:33:57 -> [294cb936] init templates
+17:33:57 -> [294cb936] init main report format
+17:33:57 -> [294cb936] Trying to save...
+17:33:57 -> [294cb936] Saving to Z:\app\tmp\294cb936\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_orden_carga.fr3
+17:33:57 -> [294cb936] loading report
+17:33:57 -> [294cb936] set variables
+17:33:57 -> [294cb936] building report file
+17:33:57 -> [294cb936] exporting to pdf file
+17:33:57 -> [294cb936] Report prepared
+17:33:57 -> [294cb936] Done! Z:\app\pdf\294cb936.pdf
+17:36:25 -> [561bd16c] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012037&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+17:36:25 -> [561bd16c] get report format
+17:36:25 -> [561bd16c] init templates
+17:36:25 -> [561bd16c] init main report format
+17:36:25 -> [561bd16c] Trying to save...
+17:36:25 -> [561bd16c] Saving to Z:\app\tmp\561bd16c\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+17:36:25 -> [561bd16c] loading report
+17:36:25 -> [561bd16c] set variables
+17:36:25 -> [561bd16c] building report file
+17:36:25 -> [561bd16c] exporting to pdf file
+17:36:25 -> [561bd16c] Report prepared
+17:36:25 -> [561bd16c] Done! Z:\app\pdf\561bd16c.pdf
+18:00:56 -> [792a9c5c] call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pre_nomina&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&letras=1&ID_M_CUENTAS=0011&ID_M_DEPARTAMENTOS=&ID_M_TRABAJADORES=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/karizmi/&ID_M_CUENTAS=0011&TITULO=INFORME%20DE%20PRE-NOMINA&ID_M_DEPARTAMENTOS=&ID_M_TRABAJADORES=&compress=1&id_m_usuario=001214&log_USER_ID=001214&log_USER_NAME=MELENDEZ+ALVAREZ+MARIA+DEL+MAR&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1&title=INFORME%20DE%20PRE-NOMINA
+18:00:57 -> [792a9c5c] get report format
+18:00:57 -> [792a9c5c] init templates
+18:00:57 -> [792a9c5c] init main report format
+18:00:57 -> [792a9c5c] Trying to save...
+18:00:57 -> [792a9c5c] Saving to Z:\app\tmp\792a9c5c\-opt-lampp-htdocs-karizmi-reportes-r_pre_nomina.fr3
+18:00:57 -> [792a9c5c] loading report
+18:00:57 -> [792a9c5c] set variables
+18:00:57 -> [792a9c5c] building report file
+18:00:57 -> [792a9c5c] exporting to pdf file
+18:00:57 -> [792a9c5c] Report prepared
+18:00:57 -> [792a9c5c] Done! Z:\app\pdf\792a9c5c.pdf
+18:19:21 -> [4a10608d] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra_dolar&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_DOCUMENTOS=00328908&compress=1&id_m_usuario=001117&log_USER_ID=001117&log_USER_NAME=MEZA+JOSEFA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1
+18:19:22 -> [4a10608d] get report format
+18:19:22 -> [4a10608d] init templates
+18:19:22 -> [4a10608d] init main report format
+18:19:22 -> [4a10608d] Trying to save...
+18:19:22 -> [4a10608d] Saving to Z:\app\tmp\4a10608d\-opt-lampp-htdocs-inventario-reportes-r_documento_fact_carta_gra_dolar.fr3
+18:19:22 -> [4a10608d] loading report
+18:19:22 -> [4a10608d] set variables
+18:19:22 -> [4a10608d] building report file
+18:19:22 -> [4a10608d] exporting to pdf file
+18:19:22 -> [4a10608d] Report prepared
+18:19:22 -> [4a10608d] Done! Z:\app\pdf\4a10608d.pdf
+18:21:27 -> [1cb03070] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154996&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+18:21:28 -> [1cb03070] get report format
+18:21:28 -> [1cb03070] init templates
+18:21:28 -> [1cb03070] init main report format
+18:21:28 -> [1cb03070] Trying to save...
+18:21:28 -> [1cb03070] Saving to Z:\app\tmp\1cb03070\-opt-lampp-htdocs-globalcargo-reportes-r_guia_etiqueta.fr3
+18:21:28 -> [1cb03070] loading report
+18:21:28 -> [1cb03070] set variables
+18:21:28 -> [1cb03070] building report file
+18:21:28 -> [1cb03070] exporting to pdf file
+18:21:28 -> [1cb03070] Report prepared
+18:21:31 -> [1cb03070] Done! Z:\app\pdf\1cb03070.pdf
+18:22:27 -> [c4dd047b] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154996&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+18:22:29 -> [c4dd047b] get report format
+18:22:29 -> [c4dd047b] init templates
+18:22:29 -> [c4dd047b] init main report format
+18:22:29 -> [c4dd047b] Trying to save...
+18:22:29 -> [c4dd047b] Saving to Z:\app\tmp\c4dd047b\-opt-lampp-htdocs-globalcargo-reportes-r_guia.fr3
+18:22:29 -> [c4dd047b] loading report
+18:22:29 -> [c4dd047b] set variables
+18:22:29 -> [c4dd047b] building report file
+18:22:29 -> [c4dd047b] exporting to pdf file
+18:22:29 -> [c4dd047b] Report prepared
+18:22:29 -> [c4dd047b] Done! Z:\app\pdf\c4dd047b.pdf
+18:32:31 -> [262401cd] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154996&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+18:32:34 -> [262401cd] get report format
+18:32:34 -> [262401cd] init templates
+18:32:34 -> [262401cd] init main report format
+18:32:34 -> [262401cd] Trying to save...
+18:32:34 -> [262401cd] Saving to Z:\app\tmp\262401cd\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+18:32:34 -> [262401cd] loading report
+18:32:34 -> [262401cd] set variables
+18:32:34 -> [262401cd] building report file
+18:32:34 -> [262401cd] exporting to pdf file
+18:32:35 -> [262401cd] Report prepared
+18:32:35 -> [262401cd] Done! Z:\app\pdf\262401cd.pdf
+18:51:25 -> [5d0d811d] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015739&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+18:51:25 -> [5d0d811d] get report format
+18:51:25 -> [5d0d811d] init templates
+18:51:25 -> [5d0d811d] init main report format
+18:51:25 -> [5d0d811d] Trying to save...
+18:51:25 -> [5d0d811d] Saving to Z:\app\tmp\5d0d811d\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+18:51:25 -> [5d0d811d] loading report
+18:51:25 -> [5d0d811d] set variables
+18:51:25 -> [5d0d811d] building report file
+18:51:25 -> [5d0d811d] exporting to pdf file
+18:51:25 -> [5d0d811d] Report prepared
+18:51:25 -> [5d0d811d] Done! Z:\app\pdf\5d0d811d.pdf
+18:52:26 -> [63557d14] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra_dolar&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_DOCUMENTOS=00329785&compress=1&id_m_usuario=001117&log_USER_ID=001117&log_USER_NAME=MEZA+JOSEFA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1
+18:52:27 -> [63557d14] get report format
+18:52:27 -> [63557d14] init templates
+18:52:27 -> [63557d14] init main report format
+18:52:27 -> [63557d14] Trying to save...
+18:52:27 -> [63557d14] Saving to Z:\app\tmp\63557d14\-opt-lampp-htdocs-inventario-reportes-r_documento_fact_carta_gra_dolar.fr3
+18:52:27 -> [63557d14] loading report
+18:52:27 -> [63557d14] set variables
+18:52:27 -> [63557d14] building report file
+18:52:27 -> [63557d14] exporting to pdf file
+18:52:27 -> [63557d14] Report prepared
+18:52:27 -> [63557d14] Done! Z:\app\pdf\63557d14.pdf
+18:52:30 -> [38db4460] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154997&compress=0&compress=1&id_m_usuario=0011440&log_USER_ID=0011440&log_USER_NAME=MORENO+ORIANA&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+18:52:32 -> [38db4460] get report format
+18:52:32 -> [38db4460] init templates
+18:52:32 -> [38db4460] init main report format
+18:52:32 -> [38db4460] Trying to save...
+18:52:32 -> [38db4460] Saving to Z:\app\tmp\38db4460\-opt-lampp-htdocs-globalcargo-reportes-r_guia_etiqueta.fr3
+18:52:32 -> [38db4460] loading report
+18:52:32 -> [38db4460] set variables
+18:52:32 -> [38db4460] building report file
+18:52:32 -> [38db4460] exporting to pdf file
+18:52:32 -> [38db4460] Report prepared
+18:52:33 -> [38db4460] Done! Z:\app\pdf\38db4460.pdf
+18:53:03 -> [d0c9348c] call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00154997&compress=0&compress=1&id_m_usuario=0011440&log_USER_ID=0011440&log_USER_NAME=MORENO+ORIANA&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+18:53:05 -> [005ac08c] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra_dolar&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_DOCUMENTOS=00329084&compress=1&id_m_usuario=001117&log_USER_ID=001117&log_USER_NAME=MEZA+JOSEFA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1
+18:53:06 -> [005ac08c] get report format
+18:53:06 -> [005ac08c] init templates
+18:53:06 -> [005ac08c] init main report format
+18:53:06 -> [005ac08c] Trying to save...
+18:53:06 -> [005ac08c] Saving to Z:\app\tmp\005ac08c\-opt-lampp-htdocs-inventario-reportes-r_documento_fact_carta_gra_dolar.fr3
+18:53:06 -> [005ac08c] loading report
+18:53:06 -> [005ac08c] set variables
+18:53:06 -> [005ac08c] building report file
+18:53:06 -> [005ac08c] exporting to pdf file
+18:53:06 -> [005ac08c] Report prepared
+18:53:06 -> [005ac08c] Done! Z:\app\pdf\005ac08c.pdf
+18:53:07 -> [d0c9348c] get report format
+18:53:07 -> [d0c9348c] init templates
+18:53:07 -> [d0c9348c] init main report format
+18:53:07 -> [d0c9348c] Trying to save...
+18:53:07 -> [d0c9348c] Saving to Z:\app\tmp\d0c9348c\-opt-lampp-htdocs-globalcargo-reportes-r_guia_factura.fr3
+18:53:07 -> [d0c9348c] loading report
+18:53:07 -> [d0c9348c] set variables
+18:53:07 -> [d0c9348c] building report file
+18:53:07 -> [d0c9348c] exporting to pdf file
+18:53:07 -> [d0c9348c] Report prepared
+18:53:07 -> [d0c9348c] Done! Z:\app\pdf\d0c9348c.pdf
+19:07:23 -> [bb980625] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_anticipo_graf&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_DOCUMENTOS=00329084&ID_M_ANTICIPOS=0031578&letras=1&compress=1&id_m_usuario=001117&log_USER_ID=001117&log_USER_NAME=MEZA+JOSEFA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1
+19:07:24 -> [bb980625] get report format
+19:07:24 -> [bb980625] init templates
+19:07:24 -> [bb980625] init main report format
+19:07:24 -> [bb980625] Trying to save...
+19:07:24 -> [bb980625] Saving to Z:\app\tmp\bb980625\-opt-lampp-htdocs-inventario-reportes-r_anticipo_graf.fr3
+19:07:24 -> [bb980625] loading report
+19:07:24 -> [bb980625] set variables
+19:07:24 -> [bb980625] building report file
+19:07:24 -> [bb980625] exporting to pdf file
+19:07:24 -> [bb980625] Report prepared
+19:07:24 -> [bb980625] Done! Z:\app\pdf\bb980625.pdf
+19:07:45 -> [d4070c7d] call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_aplicacion_anticipo_cxc&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_ANTICIPOS=0031578&compress=1&id_m_usuario=001117&log_USER_ID=001117&log_USER_NAME=MEZA+JOSEFA&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1
+19:07:45 -> [d4070c7d] get report format
+19:07:45 -> [d4070c7d] init templates
+19:07:45 -> [d4070c7d] init main report format
+19:07:45 -> [d4070c7d] Trying to save...
+19:07:45 -> [d4070c7d] Saving to Z:\app\tmp\d4070c7d\-opt-lampp-htdocs-inventario-reportes-r_aplicacion_anticipo_cxc.fr3
+19:07:45 -> [d4070c7d] loading report
+19:07:45 -> [d4070c7d] set variables
+19:07:45 -> [d4070c7d] building report file
+19:07:45 -> [d4070c7d] exporting to pdf file
+19:07:46 -> [d4070c7d] Report prepared
+19:07:46 -> [d4070c7d] Done! Z:\app\pdf\d4070c7d.pdf
+19:19:19 -> [9a7351dc] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012038&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+19:19:20 -> [9a7351dc] get report format
+19:19:20 -> [9a7351dc] init templates
+19:19:20 -> [9a7351dc] init main report format
+19:19:20 -> [9a7351dc] Trying to save...
+19:19:20 -> [9a7351dc] Saving to Z:\app\tmp\9a7351dc\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+19:19:20 -> [9a7351dc] loading report
+19:19:20 -> [9a7351dc] set variables
+19:19:20 -> [9a7351dc] building report file
+19:19:20 -> [9a7351dc] exporting to pdf file
+19:19:20 -> [9a7351dc] Report prepared
+19:19:20 -> [9a7351dc] Done! Z:\app\pdf\9a7351dc.pdf
+19:25:50 -> [9b0bcc2d] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012039&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+19:25:50 -> [9b0bcc2d] get report format
+19:25:50 -> [9b0bcc2d] init templates
+19:25:50 -> [9b0bcc2d] init main report format
+19:25:50 -> [9b0bcc2d] Trying to save...
+19:25:50 -> [9b0bcc2d] Saving to Z:\app\tmp\9b0bcc2d\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+19:25:50 -> [9b0bcc2d] loading report
+19:25:50 -> [9b0bcc2d] set variables
+19:25:50 -> [9b0bcc2d] building report file
+19:25:50 -> [9b0bcc2d] exporting to pdf file
+19:25:51 -> [9b0bcc2d] Report prepared
+19:25:51 -> [9b0bcc2d] Done! Z:\app\pdf\9b0bcc2d.pdf
+19:34:37 -> [1785b76b] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012040&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+19:34:37 -> [1785b76b] get report format
+19:34:37 -> [1785b76b] init templates
+19:34:37 -> [1785b76b] init main report format
+19:34:37 -> [1785b76b] Trying to save...
+19:34:37 -> [1785b76b] Saving to Z:\app\tmp\1785b76b\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+19:34:37 -> [1785b76b] loading report
+19:34:37 -> [1785b76b] set variables
+19:34:37 -> [1785b76b] building report file
+19:34:37 -> [1785b76b] exporting to pdf file
+19:34:38 -> [1785b76b] Report prepared
+19:34:38 -> [1785b76b] Done! Z:\app\pdf\1785b76b.pdf
+19:41:53 -> [3b934d1c] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_carga&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_PEDIDOS=0014295&TITULO=ORDEN%20DE%20ENTREGA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+19:41:54 -> [3b934d1c] get report format
+19:41:54 -> [3b934d1c] init templates
+19:41:54 -> [3b934d1c] init main report format
+19:41:54 -> [3b934d1c] Trying to save...
+19:41:54 -> [3b934d1c] Saving to Z:\app\tmp\3b934d1c\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_orden_carga.fr3
+19:41:54 -> [3b934d1c] loading report
+19:41:54 -> [3b934d1c] set variables
+19:41:54 -> [3b934d1c] building report file
+19:41:54 -> [3b934d1c] exporting to pdf file
+19:41:54 -> [3b934d1c] Report prepared
+19:41:55 -> [3b934d1c] Done! Z:\app\pdf\3b934d1c.pdf
+19:43:48 -> [09877075] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012041&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+19:43:49 -> [09877075] get report format
+19:43:49 -> [09877075] init templates
+19:43:49 -> [09877075] init main report format
+19:43:49 -> [09877075] Trying to save...
+19:43:49 -> [09877075] Saving to Z:\app\tmp\09877075\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+19:43:49 -> [09877075] loading report
+19:43:49 -> [09877075] set variables
+19:43:49 -> [09877075] building report file
+19:43:49 -> [09877075] exporting to pdf file
+19:43:49 -> [09877075] Report prepared
+19:43:49 -> [09877075] Done! Z:\app\pdf\09877075.pdf
+19:52:46 -> [db0c8dc3] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012042&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+19:52:47 -> [db0c8dc3] get report format
+19:52:47 -> [db0c8dc3] init templates
+19:52:47 -> [db0c8dc3] init main report format
+19:52:47 -> [db0c8dc3] Trying to save...
+19:52:47 -> [db0c8dc3] Saving to Z:\app\tmp\db0c8dc3\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+19:52:47 -> [db0c8dc3] loading report
+19:52:47 -> [db0c8dc3] set variables
+19:52:47 -> [db0c8dc3] building report file
+19:52:47 -> [db0c8dc3] exporting to pdf file
+19:52:47 -> [db0c8dc3] Report prepared
+19:52:47 -> [db0c8dc3] Done! Z:\app\pdf\db0c8dc3.pdf
+19:54:02 -> [0444993a] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+19:54:02 -> [0444993a] get report format
+19:54:02 -> [0444993a] init templates
+19:54:02 -> [0444993a] init main report format
+19:54:02 -> [0444993a] Trying to save...
+19:54:02 -> [0444993a] Saving to Z:\app\tmp\0444993a\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+19:54:02 -> [0444993a] loading report
+19:54:02 -> [0444993a] set variables
+19:54:02 -> [0444993a] building report file
+19:54:02 -> [0444993a] exporting to pdf file
+19:54:03 -> [0444993a] Report prepared
+19:54:03 -> [0444993a] Done! Z:\app\pdf\0444993a.pdf
+19:58:16 -> [4c4cbb74] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012043&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+19:58:16 -> [4c4cbb74] get report format
+19:58:16 -> [4c4cbb74] init templates
+19:58:16 -> [4c4cbb74] init main report format
+19:58:16 -> [4c4cbb74] Trying to save...
+19:58:16 -> [4c4cbb74] Saving to Z:\app\tmp\4c4cbb74\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+19:58:16 -> [4c4cbb74] loading report
+19:58:16 -> [4c4cbb74] set variables
+19:58:16 -> [4c4cbb74] building report file
+19:58:16 -> [4c4cbb74] exporting to pdf file
+19:58:16 -> [4c4cbb74] Report prepared
+19:58:16 -> [4c4cbb74] Done! Z:\app\pdf\4c4cbb74.pdf
+20:02:00 -> [bd09c1aa] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015741&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+20:02:01 -> [bd09c1aa] get report format
+20:02:01 -> [bd09c1aa] init templates
+20:02:01 -> [bd09c1aa] init main report format
+20:02:01 -> [bd09c1aa] Trying to save...
+20:02:01 -> [bd09c1aa] Saving to Z:\app\tmp\bd09c1aa\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+20:02:01 -> [bd09c1aa] loading report
+20:02:01 -> [bd09c1aa] set variables
+20:02:01 -> [bd09c1aa] building report file
+20:02:01 -> [bd09c1aa] exporting to pdf file
+20:02:01 -> [bd09c1aa] Report prepared
+20:02:01 -> [bd09c1aa] Done! Z:\app\pdf\bd09c1aa.pdf
+20:02:33 -> [1a00cbb2] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012044&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+20:02:34 -> [1a00cbb2] get report format
+20:02:34 -> [1a00cbb2] init templates
+20:02:34 -> [1a00cbb2] init main report format
+20:02:34 -> [1a00cbb2] Trying to save...
+20:02:34 -> [1a00cbb2] Saving to Z:\app\tmp\1a00cbb2\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+20:02:34 -> [1a00cbb2] loading report
+20:02:34 -> [1a00cbb2] set variables
+20:02:34 -> [1a00cbb2] building report file
+20:02:34 -> [1a00cbb2] exporting to pdf file
+20:02:34 -> [1a00cbb2] Report prepared
+20:02:34 -> [1a00cbb2] Done! Z:\app\pdf\1a00cbb2.pdf
+20:12:48 -> [0049923c] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-18&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-18&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+20:12:48 -> [0049923c] get report format
+20:12:48 -> [0049923c] init templates
+20:12:48 -> [0049923c] init main report format
+20:12:48 -> [0049923c] Trying to save...
+20:12:48 -> [0049923c] Saving to Z:\app\tmp\0049923c\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+20:12:48 -> [0049923c] loading report
+20:12:48 -> [0049923c] set variables
+20:12:48 -> [0049923c] building report file
+20:12:48 -> [0049923c] exporting to pdf file
+20:12:48 -> [0049923c] Report prepared
+20:12:49 -> [0049923c] Done! Z:\app\pdf\0049923c.pdf
+20:16:11 -> [4cb1aa0d] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+20:16:12 -> [4cb1aa0d] get report format
+20:16:12 -> [4cb1aa0d] init templates
+20:16:12 -> [4cb1aa0d] init main report format
+20:16:12 -> [4cb1aa0d] Trying to save...
+20:16:12 -> [4cb1aa0d] Saving to Z:\app\tmp\4cb1aa0d\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+20:16:12 -> [4cb1aa0d] loading report
+20:16:12 -> [4cb1aa0d] set variables
+20:16:12 -> [4cb1aa0d] building report file
+20:16:12 -> [4cb1aa0d] exporting to pdf file
+20:16:12 -> [4cb1aa0d] Report prepared
+20:16:12 -> [4cb1aa0d] Done! Z:\app\pdf\4cb1aa0d.pdf
+20:17:08 -> [2ab7c529] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+20:17:09 -> [2ab7c529] get report format
+20:17:09 -> [2ab7c529] init templates
+20:17:09 -> [2ab7c529] init main report format
+20:17:09 -> [2ab7c529] Trying to save...
+20:17:09 -> [2ab7c529] Saving to Z:\app\tmp\2ab7c529\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+20:17:09 -> [2ab7c529] loading report
+20:17:09 -> [2ab7c529] set variables
+20:17:09 -> [2ab7c529] building report file
+20:17:09 -> [2ab7c529] exporting to pdf file
+20:17:09 -> [2ab7c529] Report prepared
+20:17:09 -> [2ab7c529] Done! Z:\app\pdf\2ab7c529.pdf
+20:17:51 -> [9c790100] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00161&ID_M_CAJAS=0011&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+20:17:52 -> [9c790100] get report format
+20:17:52 -> [9c790100] init templates
+20:17:52 -> [9c790100] init main report format
+20:17:52 -> [9c790100] Trying to save...
+20:17:52 -> [9c790100] Saving to Z:\app\tmp\9c790100\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_arqueos.fr3
+20:17:52 -> [9c790100] loading report
+20:17:52 -> [9c790100] set variables
+20:17:52 -> [9c790100] building report file
+20:17:52 -> [9c790100] exporting to pdf file
+20:17:52 -> [9c790100] Report prepared
+20:17:53 -> [9c790100] Done! Z:\app\pdf\9c790100.pdf
+20:18:10 -> [772900c7] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00161&ID_M_CAJAS=0011&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+20:18:10 -> [772900c7] get report format
+20:18:10 -> [772900c7] init templates
+20:18:10 -> [772900c7] init main report format
+20:18:10 -> [772900c7] Trying to save...
+20:18:10 -> [772900c7] Saving to Z:\app\tmp\772900c7\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_arqueos.fr3
+20:18:10 -> [772900c7] loading report
+20:18:10 -> [772900c7] set variables
+20:18:10 -> [772900c7] building report file
+20:18:10 -> [772900c7] exporting to pdf file
+20:18:11 -> [772900c7] Report prepared
+20:18:11 -> [772900c7] Done! Z:\app\pdf\772900c7.pdf
+20:20:11 -> [27271514] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012045&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+20:20:11 -> [27271514] get report format
+20:20:11 -> [27271514] init templates
+20:20:11 -> [27271514] init main report format
+20:20:11 -> [27271514] Trying to save...
+20:20:11 -> [27271514] Saving to Z:\app\tmp\27271514\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+20:20:11 -> [27271514] loading report
+20:20:11 -> [27271514] set variables
+20:20:11 -> [27271514] building report file
+20:20:11 -> [27271514] exporting to pdf file
+20:20:11 -> [27271514] Report prepared
+20:20:11 -> [27271514] Done! Z:\app\pdf\27271514.pdf
+20:24:51 -> [d0500656] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+20:24:52 -> [d0500656] get report format
+20:24:52 -> [d0500656] init templates
+20:24:52 -> [d0500656] init main report format
+20:24:52 -> [d0500656] Trying to save...
+20:24:52 -> [d0500656] Saving to Z:\app\tmp\d0500656\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+20:24:52 -> [d0500656] loading report
+20:24:52 -> [d0500656] set variables
+20:24:52 -> [d0500656] building report file
+20:24:52 -> [d0500656] exporting to pdf file
+20:24:52 -> [d0500656] Report prepared
+20:24:52 -> [d0500656] Done! Z:\app\pdf\d0500656.pdf
+20:27:34 -> [8d9800b3] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-18&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-18&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+20:27:34 -> [8d9800b3] get report format
+20:27:34 -> [8d9800b3] init templates
+20:27:34 -> [8d9800b3] init main report format
+20:27:34 -> [8d9800b3] Trying to save...
+20:27:34 -> [8d9800b3] Saving to Z:\app\tmp\8d9800b3\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+20:27:34 -> [8d9800b3] loading report
+20:27:34 -> [8d9800b3] set variables
+20:27:34 -> [8d9800b3] building report file
+20:27:34 -> [8d9800b3] exporting to pdf file
+20:27:34 -> [8d9800b3] Report prepared
+20:27:34 -> [8d9800b3] Done! Z:\app\pdf\8d9800b3.pdf
+20:34:49 -> [071430b9] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015746&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+20:34:50 -> [071430b9] get report format
+20:34:50 -> [071430b9] init templates
+20:34:50 -> [071430b9] init main report format
+20:34:50 -> [071430b9] Trying to save...
+20:34:50 -> [071430b9] Saving to Z:\app\tmp\071430b9\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+20:34:50 -> [071430b9] loading report
+20:34:50 -> [071430b9] set variables
+20:34:50 -> [071430b9] building report file
+20:34:50 -> [071430b9] exporting to pdf file
+20:34:50 -> [071430b9] Report prepared
+20:34:50 -> [071430b9] Done! Z:\app\pdf\071430b9.pdf
+20:35:15 -> [b0c87802] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-18&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-18&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+20:35:15 -> [b0c87802] get report format
+20:35:15 -> [b0c87802] init templates
+20:35:15 -> [b0c87802] init main report format
+20:35:15 -> [b0c87802] Trying to save...
+20:35:15 -> [b0c87802] Saving to Z:\app\tmp\b0c87802\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+20:35:15 -> [b0c87802] loading report
+20:35:15 -> [b0c87802] set variables
+20:35:15 -> [b0c87802] building report file
+20:35:15 -> [b0c87802] exporting to pdf file
+20:35:15 -> [b0c87802] Report prepared
+20:35:16 -> [b0c87802] Done! Z:\app\pdf\b0c87802.pdf
+20:37:57 -> [0b2c17d2] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00161&ID_M_CAJAS=0011&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+20:37:57 -> [0b2c17d2] get report format
+20:37:57 -> [0b2c17d2] init templates
+20:37:57 -> [0b2c17d2] init main report format
+20:37:57 -> [0b2c17d2] Trying to save...
+20:37:57 -> [0b2c17d2] Saving to Z:\app\tmp\0b2c17d2\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_arqueos.fr3
+20:37:57 -> [0b2c17d2] loading report
+20:37:57 -> [0b2c17d2] set variables
+20:37:57 -> [0b2c17d2] building report file
+20:37:57 -> [0b2c17d2] exporting to pdf file
+20:37:58 -> [0b2c17d2] Report prepared
+20:37:58 -> [0b2c17d2] Done! Z:\app\pdf\0b2c17d2.pdf
+20:59:15 -> [028a8606] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+20:59:16 -> [028a8606] get report format
+20:59:16 -> [028a8606] init templates
+20:59:16 -> [028a8606] init main report format
+20:59:16 -> [028a8606] Trying to save...
+20:59:16 -> [028a8606] Saving to Z:\app\tmp\028a8606\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+20:59:16 -> [028a8606] loading report
+20:59:16 -> [028a8606] set variables
+20:59:16 -> [028a8606] building report file
+20:59:16 -> [028a8606] exporting to pdf file
+20:59:16 -> [028a8606] Report prepared
+20:59:17 -> [028a8606] Done! Z:\app\pdf\028a8606.pdf
+21:21:41 -> [6b15a55b] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-18&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-18&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+21:21:41 -> [6b15a55b] get report format
+21:21:41 -> [6b15a55b] init templates
+21:21:41 -> [6b15a55b] init main report format
+21:21:41 -> [6b15a55b] Trying to save...
+21:21:41 -> [6b15a55b] Saving to Z:\app\tmp\6b15a55b\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+21:21:41 -> [6b15a55b] loading report
+21:21:41 -> [6b15a55b] set variables
+21:21:41 -> [6b15a55b] building report file
+21:21:41 -> [6b15a55b] exporting to pdf file
+21:21:41 -> [6b15a55b] Report prepared
+21:21:41 -> [6b15a55b] Done! Z:\app\pdf\6b15a55b.pdf
+21:24:13 -> [b0541425] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00161&ID_M_CAJAS=0011&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+21:24:13 -> [b0541425] get report format
+21:24:13 -> [b0541425] init templates
+21:24:13 -> [b0541425] init main report format
+21:24:13 -> [b0541425] Trying to save...
+21:24:13 -> [b0541425] Saving to Z:\app\tmp\b0541425\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_arqueos.fr3
+21:24:13 -> [b0541425] loading report
+21:24:14 -> [b0541425] set variables
+21:24:14 -> [b0541425] building report file
+21:24:14 -> [b0541425] exporting to pdf file
+21:24:14 -> [b0541425] Report prepared
+21:24:14 -> [b0541425] Done! Z:\app\pdf\b0541425.pdf
+21:36:13 -> [a047d844] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-18&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-18&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+21:36:13 -> [a047d844] get report format
+21:36:13 -> [a047d844] init templates
+21:36:13 -> [a047d844] init main report format
+21:36:13 -> [a047d844] Trying to save...
+21:36:13 -> [a047d844] Saving to Z:\app\tmp\a047d844\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+21:36:13 -> [a047d844] loading report
+21:36:13 -> [a047d844] set variables
+21:36:13 -> [a047d844] building report file
+21:36:13 -> [a047d844] exporting to pdf file
+21:36:14 -> [a047d844] Report prepared
+21:36:14 -> [a047d844] Done! Z:\app\pdf\a047d844.pdf
+21:41:22 -> [d1b70d00] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-17&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-17&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-17&ID_M_LINEAS=&compress=1&id_m_usuario=001222&log_USER_ID=001222&log_USER_NAME=VILLAMIZAR+GOMEZ+DANNY+MARCEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+21:41:22 -> [d1b70d00] get report format
+21:41:22 -> [d1b70d00] init templates
+21:41:22 -> [d1b70d00] init main report format
+21:41:22 -> [d1b70d00] Trying to save...
+21:41:22 -> [d1b70d00] Saving to Z:\app\tmp\d1b70d00\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+21:41:22 -> [d1b70d00] loading report
+21:41:22 -> [d1b70d00] set variables
+21:41:22 -> [d1b70d00] building report file
+21:41:22 -> [d1b70d00] exporting to pdf file
+21:41:23 -> [d1b70d00] Report prepared
+21:41:23 -> [d1b70d00] Done! Z:\app\pdf\d1b70d00.pdf
+21:56:22 -> Conectado al puerto 80
+21:57:14 -> Conectado al puerto 80
+22:18:14 -> [47c5cd03] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015635&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+22:18:15 -> [47c5cd03] get report format
+22:18:15 -> [47c5cd03] init templates
+22:18:15 -> [47c5cd03] init main report format
+22:18:15 -> [47c5cd03] Trying to save...
+22:18:15 -> [47c5cd03] Saving to Z:\app\tmp\47c5cd03\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+22:18:15 -> [47c5cd03] loading report
+22:18:15 -> [47c5cd03] set variables
+22:18:15 -> [47c5cd03] building report file
+22:18:15 -> [47c5cd03] exporting to pdf file
+22:18:15 -> [47c5cd03] Report prepared
+22:18:15 -> [47c5cd03] Done! Z:\app\pdf\47c5cd03.pdf
+22:24:54 -> [0481ca49] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015640&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+22:24:54 -> [0481ca49] get report format
+22:24:54 -> [0481ca49] init templates
+22:24:54 -> [0481ca49] init main report format
+22:24:54 -> [0481ca49] Trying to save...
+22:24:54 -> [0481ca49] Saving to Z:\app\tmp\0481ca49\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+22:24:54 -> [0481ca49] loading report
+22:24:54 -> [0481ca49] set variables
+22:24:55 -> [0481ca49] building report file
+22:24:55 -> [0481ca49] exporting to pdf file
+22:24:55 -> [0481ca49] Report prepared
+22:24:55 -> [0481ca49] Done! Z:\app\pdf\0481ca49.pdf
+22:32:11 -> [1351254c] call url: http://172.17.0.1/guarico_bkp_desarrollo/herramientas/impresora/impresora_new.php?origen=reportes/r_usd_venta_cadena&db=guarico_bkp_desarrollo&SERVERPATH=http://172.17.0.1/guarico_bkp_desarrollo/&ID_M_VENTAS=0012052&TITULO=VENTA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp_desarrollo&log_SISTEMA_DB=guarico_bkp_desarrollo&viewer=1
+22:32:11 -> [1351254c] get report format
+22:32:11 -> [1351254c] init templates
+22:32:11 -> [1351254c] init main report format
+22:32:11 -> [1351254c] Trying to save...
+22:32:11 -> [1351254c] Saving to Z:\app\tmp\1351254c\-opt-lampp-htdocs-guarico_bkp_desarrollo-reportes-r_usd_venta_cadena.fr3
+22:32:11 -> [1351254c] loading report
+22:32:11 -> [1351254c] set variables
+22:32:11 -> [1351254c] building report file
+22:32:11 -> [1351254c] exporting to pdf file
+22:32:11 -> [1351254c] Report prepared
+22:32:11 -> [1351254c] Done! Z:\app\pdf\1351254c.pdf
+22:46:42 -> [96800960] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-09-18&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-09-18&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-09-18&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+22:46:42 -> [96800960] get report format
+22:46:42 -> [96800960] init templates
+22:46:42 -> [96800960] init main report format
+22:46:42 -> [96800960] Trying to save...
+22:46:42 -> [96800960] Saving to Z:\app\tmp\96800960\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_venta_producto.fr3
+22:46:42 -> [96800960] loading report
+22:46:42 -> [96800960] set variables
+22:46:42 -> [96800960] building report file
+22:46:42 -> [96800960] exporting to pdf file
+22:46:42 -> [96800960] Report prepared
+22:46:42 -> [96800960] Done! Z:\app\pdf\96800960.pdf
+22:48:03 -> [80c9bb0a] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015665&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+22:48:03 -> [80c9bb0a] get report format
+22:48:03 -> [80c9bb0a] init templates
+22:48:03 -> [80c9bb0a] init main report format
+22:48:03 -> [80c9bb0a] Trying to save...
+22:48:03 -> [80c9bb0a] Saving to Z:\app\tmp\80c9bb0a\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+22:48:03 -> [80c9bb0a] loading report
+22:48:03 -> [80c9bb0a] set variables
+22:48:03 -> [80c9bb0a] building report file
+22:48:03 -> [80c9bb0a] exporting to pdf file
+22:48:03 -> [80c9bb0a] Report prepared
+22:48:03 -> [80c9bb0a] Done! Z:\app\pdf\80c9bb0a.pdf
+22:54:10 -> [dd730170] call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0015640&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+22:54:11 -> [dd730170] get report format
+22:54:11 -> [dd730170] init templates
+22:54:11 -> [dd730170] init main report format
+22:54:11 -> [dd730170] Trying to save...
+22:54:11 -> [dd730170] Saving to Z:\app\tmp\dd730170\-opt-lampp-htdocs-farmacia_bosqueserino-reportes-r_documento_fact_carta_gra.fr3
+22:54:11 -> [dd730170] loading report
+22:54:11 -> [dd730170] set variables
+22:54:11 -> [dd730170] building report file
+22:54:11 -> [dd730170] exporting to pdf file
+22:54:11 -> [dd730170] Report prepared
+22:54:11 -> [dd730170] Done! Z:\app\pdf\dd730170.pdf
+22:56:52 -> [7a999443] call url: http://172.17.0.1/farmacia/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia&SERVERPATH=http://172.17.0.1/farmacia/&ID_M_DOCUMENTOS=0014519&compress=0&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia&log_SISTEMA_DB=farmacia&viewer=0
+22:56:52 -> [7a999443] get report format
+22:56:52 -> [7a999443] init templates
+22:56:52 -> [7a999443] init main report format
+22:56:52 -> [7a999443] Trying to save...
+22:56:52 -> [7a999443] Saving to Z:\app\tmp\7a999443\-opt-lampp-htdocs-farmacia-reportes-r_documento_fact_carta_gra.fr3
+22:56:52 -> [7a999443] loading report
+22:56:52 -> [7a999443] set variables
+22:56:52 -> [7a999443] building report file
+22:56:52 -> [7a999443] exporting to pdf file
+22:56:52 -> [7a999443] Report prepared
+22:56:52 -> [7a999443] Done! Z:\app\pdf\7a999443.pdf
+22:59:00 -> [c4637d56] call url: http://172.17.0.1/farmacia/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia&SERVERPATH=http://172.17.0.1/farmacia/&ID_M_DOCUMENTOS=0014519&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia&log_SISTEMA_DB=farmacia&viewer=1
+22:59:00 -> [c4637d56] get report format
+22:59:00 -> [c4637d56] init templates
+22:59:00 -> [c4637d56] init main report format
+22:59:00 -> [c4637d56] Trying to save...
+22:59:00 -> [c4637d56] Saving to Z:\app\tmp\c4637d56\-opt-lampp-htdocs-farmacia-reportes-r_documento_fact_carta_gra.fr3
+22:59:00 -> [c4637d56] loading report
+22:59:00 -> [c4637d56] set variables
+22:59:00 -> [c4637d56] building report file
+22:59:00 -> [c4637d56] exporting to pdf file
+22:59:01 -> [c4637d56] Report prepared
+22:59:01 -> [c4637d56] Done! Z:\app\pdf\c4637d56.pdf

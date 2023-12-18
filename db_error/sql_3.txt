@@ -1,0 +1,1 @@
+08-10-2022 10:26:45 Dynamic SQL Error SQL error code = -104 Token unknown - line 1, column 9 set |update  set FECHA_VENCE= '2022-10-11',CANTIDAD= 3,ID_D_PEDIDOS= '001159135', ID_M_USUARIOS='00150' , ID_M_AREAS='' , UNICO='3E518B87A2416427F335DD28FE3A82E7' , ACCION='U'  where 

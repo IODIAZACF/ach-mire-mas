@@ -1,0 +1,42 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 210
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594217366
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAPSXwXTlWUi60NIvCFOSzw_UzLUVJ0AApuoMRuC3ZBHzP1Sd7uoOHIKoRIwAAQBAAMCAANtAAOcJQEAARoE
+                            [file_unique_id] => AQADCqESMAAEnCUBAAE
+                            [file_size] => 9403
+                            [width] => 160
+                            [height] => 129
+                        )
+
+                )
+
+            [caption] => Respueta de comando 
+HOLA
+        )
+
+)

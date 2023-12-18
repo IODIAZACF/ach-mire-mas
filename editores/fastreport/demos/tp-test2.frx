@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="23/02/2016 22:13:04" ReportInfo.Modified="23/02/2016 22:13:04" ReportInfo.CreatorVersion="2015.3.12.0">
+<ReportPage Name="Page1" PaperWidth="209.97333333333333" PaperHeight="150.02933333333334" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0">
+<DataBand Name="Data1" Width="793.6" Height="567.04">
+<PictureObject Name="Picture1" Left="423.36" Top="145.6" Width="73.92" Height="99.84" ImageLocation="bf24a57e76b08c8ed5c18dc1488e7291/agentphoto.png"  />
+<PictureObject Name="Picture2" Left="47.68" Top="134.08" Width="314.56" Height="198.4" ImageLocation="bf24a57e76b08c8ed5c18dc1488e7291/housephoto.png"  />
+<PictureObject Name="Picture3" Left="0.0" Top="0.0" Width="793.6" Height="567.04" ImageLocation="bf24a57e76b08c8ed5c18dc1488e7291/[lock][foreground].png"  />
+<TextObject Name="Text4" Left="281.92" Top="523.52" Width="282.112" Height="14.4" Text="Москвcкая область, Жуковка, 71" Font="Calibri, 12.0pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Center"  />
+<TextObject Name="Text5" Left="396.48" Top="316.16" Width="345.92" Height="125.76" Text="Я предоставляю услуги профессионального агента по недвиж
+имости в вашем районе. Принцип моей работы - профессио
+нально, качественно, грамотно и ответственно подходить к за
+просам клиента. Я готова оказать Вам необходимую поддержку
+ и помощь в проведении операций любой сложности – покуп
+ка, продажа, аренда, обмен недвижимости.
+CENTURY 21 Elvert Collection предлагает комплекс услуг в сфере
+ недвижимости, включая анализ рынка, оценку стоимости им
+ущества, юридическую и финансовую поддержку." Font="Calibri, 9.000513376099182pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text6" Left="526.08" Top="234.88" Width="105.088" Height="9.28" Text="+7 (989) 881-07-07
+" Font="Calibri, 8.01299376000347pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text7" Left="526.08" Top="216.64000000000001" Width="105.088" Height="9.28" Text="+7 (989) 881-07-07
+" Font="Calibri, 8.01299376000347pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text8" Left="526.08" Top="197.12" Width="105.088" Height="9.28" Text="+7 (989) 881-07-07
+" Font="Calibri, 8.01299376000347pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text9" Left="509.76" Top="145.28" Width="47.104" Height="10.56" Text="Иван" Font="Calibri, 11.934949425747918pt , style=Bold" TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text10" Left="509.76" Top="165.12" Width="68.608" Height="10.56" Text="Иванов" Font="Calibri, 11.934949425747918pt , style=Bold" TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text11" Left="48.32" Top="359.04" Width="290.88" Height="82.88" Text="Инфраструктура: охрана, школа, магазин, детская 
+игровая площадка, баня, лодочная станция. Усадьба 
+из двух домов на 50 сотках. Дома построены из 
+алтайского кедра. Основной – 800 м2 и гостевой – 500 
+м2. Гостевой дом полностью готов к проживанию. Все 
+коммуникации." Font="Calibri, 8.991271657854504pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text12" Left="48.96" Top="337.92" Width="253.696" Height="13.44" Text="Продажа деревянного дома" Font="Calibri, 12.0pt , style=Bold" TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text13" Left="57.6" Top="279.68" Width="81.28" Height="34.56" Text="Общая площадь: 270 м2
+Жилая площадь: 180 м2
+Этажа: 3
+50 соток участок" Font="Calibri, 5.697674874418604pt " TextFill.Color="255, 255, 255" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text14" Left="57.28" Top="262.72" Width="135.808" Height="14.4" Text="13 000 000 руб." Font="Calibri, 12.005814083720928pt " TextFill.Color="255, 255, 255" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text15" Left="41.28" Top="96.32000000000001" Width="212.22400000000002" Height="13.120000000000001" Text="Еврогруп Недвижимость" Font="Calibri, 12.036652877977913pt , style=Bold" TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Center"  />
+</DataBand>
+</ReportPage>
+</Report>

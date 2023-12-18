@@ -1,0 +1,20 @@
+============[Date]============
+[ 2022-03-02 01:28:24  America/Guayaquil ] 
+==========[Response]==========
+ok:			False
+error_code:		400
+description:		Bad Request: message text is empty
+=========[Sent Data]==========
+[ref]
+ref.chat_id= 
+ref.parse_mode= markdown
+ref.text= 
+
+
+============[Trace]===========
+#0 /opt/lampp/htdocs/ach/notificaciones_monitor/vendor/eleirbag89/telegrambotphp/Telegram.php(3201): TelegramErrorLogger::log(Array, Array)
+#1 /opt/lampp/htdocs/ach/notificaciones_monitor/vendor/eleirbag89/telegrambotphp/Telegram.php(111): Telegram->sendAPIRequest('https://api.tel...', Array)
+#2 /opt/lampp/htdocs/ach/notificaciones_monitor/vendor/eleirbag89/telegrambotphp/Telegram.php(196): Telegram->endpoint('sendMessage', Array)
+#3 /opt/lampp/htdocs/ach/notificaciones_monitor/telegram_send.php(42): Telegram->sendMessage(Array)
+#4 {main}
+

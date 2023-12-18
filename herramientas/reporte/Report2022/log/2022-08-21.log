@@ -1,0 +1,13 @@
+16:22:06 -> Conectado al puerto 9997
+16:22:12 -> [4b82256c] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+16:22:14 -> [4b82256c] get report format
+16:22:14 -> [4b82256c] init templates
+16:22:14 -> [4b82256c] init main report format
+16:22:14 -> [4b82256c] Trying to save...
+16:22:14 -> [4b82256c] Saving to C:\Reporter\Report2022\tmp\4b82256c\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+16:22:14 -> [4b82256c] loading report
+16:22:14 -> [4b82256c] set variables
+16:22:14 -> [4b82256c] building report file
+16:22:14 -> [4b82256c] exporting to pdf file
+16:22:15 -> [4b82256c] Report prepared
+16:22:15 -> [4b82256c] Done! C:\Reporter\Report2022\pdf\4b82256c.pdf

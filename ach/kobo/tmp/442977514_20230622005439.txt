@@ -1,0 +1,321 @@
+stdClass Object
+(
+    [_id] => 442977514
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-06-22T00:23:15.782-05:00
+    [end] => 2023-06-22T00:54:35.805-05:00
+    [group_pl6la06/_1_C_digo] => CHNO-913.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-06-13
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-06-16
+    [group_pl6la06/_4_Departamento] => CHOCO
+    [group_pl6la06/CHOCO] => NOVITA
+    [group_pl6la06/_6_Urbano_Rural] => URBANO
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Torrá, Cajón, Santa Bárbara y San José del municipio de Nóvita. Charco Largo, Charco Hondo y Barrancon del municipio de Sípi
+    [group_pl6la06/_8_Comunidad] => Torrá, Cajón, Santa Bárbara y San José del municipio de Nóvita. Charco Largo, Charco Hondo y Barrancon del municipio de Sípi
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA
+    [group_mb5pt53/_1a_Evaluador] => Angie Lorena Carvajal López
+    [group_mb5pt53/_1b_Celular] => 3102166477
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Alejandra Sanjuan Quintero
+    [group_mb5pt53/_2b_Celular] => 322 4080930
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_3a_Evaluador] => Cristian Henao
+    [group_mb5pt53/_3b_Celular] => 316 8173550
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_mb5pt53/_4a_Evaluador] => Laura Rincón
+    [group_mb5pt53/_4b_Celular] => 310 8737986
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-05-25
+    [group_rq63s60/_1c_Descripci_n_del_evento] => En el último año se ha observado un aumento significativo de incidentes violentos en el municipio de Nóvita, Chocó. Este fenómeno se atribuye al fortalecimiento y la expansión de dos grupos armados no estatales (GANE), los cuales compiten por el control territorial en la región. La principal disputa se centra en el acceso y la explotación de los recursos naturales de esta zona estratégica, aprovechando la presencia limitada del Estado en la región. Esta situación coloca a la población civil en una posición vulnerable, atrapada en medio de los enfrentamientos. Las alertas emitidas por la Defensoría del Pueblo en Chocó destacan el incremento de violaciones a los derechos humanos, la intensificación de las emergencias humanitarias y la frecuencia de ataques colectivos e individuales dirigidos hacia la población civil.
+
+Uno de los eventos más recientes tuvo lugar el 25 de mayo cuando se produce el enfrentamiento entre dos GANE dejando a la población civil atrapada en medio de este conflicto, como consecuencia, estas personas se vieron obligadas a abandonar sus hogares y desplazarse. Aproximadamente 1091 personas afrodescendientes, distribuidas en 614 familias, pertenecientes a las comunidades de Torrá, Cajón, Santa Bárbara y San José del municipio de Nóvita, así como Charco Largo, Charco Hondo, Barrancón y Barranconcito del municipio de Sípi, se dirigieron hacia los centros urbanos de los municipios de Istmina y Nóvita. De las familias que llegaron a la cabecera municipal de Nóvita, alrededor de 40 buscaron alojamiento en el albergue, las demás se refugiaron en sus redes de apoyo.
+
+A esta situación se le suma, que el 27 de mayo uno de los GANE que hace presencia en la zona decreta un paro armado en Nóvita, lo que resultó en la restricción a la movilidad de estas familias y algunas dificultades de acceso a alimentos por la escasez de productos. Este es el segundo paro armado registrado en lo que va de 2023, habiendo ocurrido uno en febrero.
+    [group_rq63s60/group_lm6cx76/a_Social] => Como resultado del desplazamiento forzado se han generado diversas afectaciones sociales las cuales exacerban en la medida que avanza el tiempo. Algunas personas han experimentado pérdida de confianza, posiblemente debido al estrés postraumático, mientras que otras han mencionado dificultades en las relaciones interpersonales; además el hecho de convivir con otras personas ha ocasionado pérdida de la intimidad y privacidad. 
+
+A pesar de las dificultades, la mayoría de las familias han expresado su deseo de regresar a sus comunidades. Incluso, después de que el GANE levantara la medida de paro armado, algunas familias decidieron regresar de manera voluntaria. Sin embargo, otras familias optaron por esperar a contar con garantías de seguridad y evaluar las condiciones que se presentan en las comunidades a través de las experiencias de las personas que ya han retornado. Igualmente, persiste un temor generalizado ante la posibilidad de nuevos enfrentamientos y se vive una sensación de zozobra debido a la presencia de minas antipersonal (MAP) y el riesgo de encontrarse con municiones sin explotar (MSE) en los territorios. 
+
+El 15 de junio, después de tres semanas del éxodo masivo, se emitió el concepto de seguridad que permitirá el regreso de las familias a sus comunidades. Este concepto contempla un acompañamiento y garantías adicionales a partir del 20 de junio. No obstante, las familias han expresado su deseo de no esperar más y fijado el 17 de junio como fecha para su regreso.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Este evento, resultado de la intensificación del conflicto armado, ha llevado a que las familias sigan optando por enviar a sus hijos e hijas a estudiar fuera del municipio, con el objetivo de protegerlos de cualquier vinculación, relación o impacto negativo causado por las acciones de los GANE. Además, las oportunidades limitadas existentes en la zona han motivado a estas familias a buscar mejores opciones en otros lugares.
+
+Es importante resaltar que, dentro del marco de la emergencia, las familias han recibido atención oportuna por parte de la Institucionalidad. Sin embargo, las condiciones derivadas del desplazamiento han puesto en situación de mayor vulnerabilidad a las mujeres embarazadas y en periodo de lactancia, a los adultos mayores, y a los niños y niñas. Estos grupos poblacionales enfrentan desafíos adicionales debido a las circunstancias actuales, lo que requiere una atención especial y diferencial para garantizar su bienestar y protección.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Como consecuencia de la emergencia, las familias se vieron obligadas a suspender sus actividades económicas en los sectores de la minería y la agricultura. El desplazamiento forzado del que fueron víctimas les impidió acceder a sus medios de subsistencia, lo que resultó en la falta de recursos económicos para cubrir sus necesidades básicas y las de sus dependientes que se encuentran fuera del municipio.
+
+Dado que esta situación se convirtió en su principal preocupación, un número significativo de familias expresó su deseo de regresar de manera voluntaria tan pronto se dio la reapertura de las minas, sin contar inicialmente con las condiciones mínimas para un retorno seguro. Este regreso se llevó a cabo de manera gradual, lo cual pudo ser evidenciado por el hecho de que, al momento del desplazamiento aproximadamente 40 familias se encontraban en el albergue del municipio, mientras que, para la semana del 13 de junio únicamente alrededor de 6 familias aún permanecían alojadas en este.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => En el marco de la emergencia, las familias desplazadas enfrentan dificultades para acceder de manera oportuna y constante a servicios básicos como agua segura y energía eléctrica. En cuanto al acceso al agua, la fuente principal es a través de las precipitaciones, pero según mencionan las familias, estas han disminuido en las últimas dos semanas. Como resultado, se han visto obligados a utilizar un afluente cercano al albergue para bañarse y lavar los utensilios de cocina.
+
+En cuanto a la energía eléctrica el municipio cuenta con el servicio, pero lamentablemente presenta varias fallas. Esto resulta en cortes de energía diarios, lo que afecta la disponibilidad de electricidad en las viviendas y los espacios comunitarios. Estas interrupciones en el suministro eléctrico dificultan más aún la situación de las familias desplazadas, ya que limitan su capacidad para realizar tareas cotidianas y tener acceso a iluminación adecuada especialmente durante las horas de la tarde y noche.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Algunas de las problemáticas que surgieron y fueron relacionadas por las familias están vinculadas principalmente con la gestión inadecuada de residuos sólidos dentro del albergue, el cual funcionaba como centro de preparación y distribución de alimentos para las familias desplazadas. Debido al gran volumen de alimentos preparadas diariamente, se generaron diversos desperdicios que no eran segregados y eran depositados en un solo contenedor, lo que resulto en la emisión de malos olores y la proliferación de vectores. Esta situación se agravo y tuvo un impacto en la salud de las personas cuando el servicio de recolección de basura se interrumpió durante varios días por cuenta de la medida del paro armado, lo que llevó a la acumulación de los desechos.
+    [group_fm93i53/_1_Problem_tica_Principal] => MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/Riesgos_para_respuesta] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => La principal vía de acceso al centro poblado de Nóvita es a través de vía terrestre, con un tiempo de viaje aproximado de 4 horas desde Quibdó, pasando por los municipios de Istmina y Condoto. La mayoría de la ruta esta pavimentada, sin embargo, después de cruzar el puente sobre el río Iró, la vía no cuenta con pavimentación.
+
+En las últimas semanas el acceso por estas rutas se ha visto afectado debido a los daños sufridos por el puente que cruza el río Iró, lo que dificulta el paso hacia el municipio. Hasta el momento no se ha establecido una fecha para la reparación del puente, pues este se encuentra en la fase de valoración y estudio de los daños. Como resultado los residentes se ven obligados a utilizar soluciones improvisadas para transitar, lo cual representa un riesgo para su seguridad. Se ha optado por emplear estructuras temporales, o cruzar el río en bote como alternativa.
+
+Finalmente, cabe mencionar que, el municipio cuenta con antenas de claro, hoteles, y vías principales en buen estado. Se encuentran tiendas de: ferretería, droguerías, abastecimiento de abarrotes, restaurantes, etc. No se encuentran empresas legalmente constituidas de transporte terrestre y fluvial, las contrataciones deben realizarse en Istmina o en Quibdó.
+    [group_fm93i53/seguridad] => En el centro poblado y en la zona rural del municipio de Nóvita hay presencia de GANE con acciones de control económico, social y territorial, por lo que no se descarta posibles escenarios de confrontación armada entre estos grupos, encuentros ocasionales y puestos de control. Estas acciones pueden generar diferentes tipos de riesgo en los trabajadores humanitarios, pero se mantiene en niveles aceptables para el desarrollo de las misiones humanitarias
+
+Es importante mencionar que, algunas personas referencian situaciones de riesgo y seguridad en la vía que conduce de Condoto a Nóvita, pues en esta se han presentado varios asesinatos.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 260
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 604
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 7
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-05-29
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => Censo CHNO-913.1-0_31_45.xlsx
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => Consejo Noruego para Refugiados.
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Cruz Roja Colombiana, Médicos del Mundo y Consejo Noruego para Refugiados.
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => La población que ha participado en el proceso de evaluación de necesidades derivadas de la emergencia por desplazamiento en el casco urbano de Nóvita, menciona como situaciones de amenaza desencadenante del hecho, enfrentamientos armados en el territorio y amenazas. Algunas personas fueron afectadas directamente como consecuencia de dichos enfrentamientos entre los GANE tal fue el caso de una mujer indígena que fue impactada con una bala perdida en uno de sus pies y que en consecuencia tuvo un aborto en un embarazo que ella desconocía. 
+
+El apoyo psicosocial recibido por parte del equipo municipal a cargo ha sido de gran utilidad, sin embargo, las principales preocupaciones que menciona la gente están relacionadas con su posibilidad de retorno. Temen que la situación se vuelva a presentar en el territorio y que además haya nuevos artefactos explosivos sin explotar que puedan lesionar a la población civil que habita y trabaja en los territorios.
+ 
+Existe un temor frente a que, ante la persistencia de estos eventos, la población se vea enfrentada a no ya un desplazamiento temporal sino a un abandono territorial debido a las pocas garantías de seguridad y estructura institucional que se presentan para el territorio. 
+
+Durante la emergencia, la situación de convivencia comunitaria ha requerido la puesta en juego de habilidades sociales para permitir un sano relacionamiento entre las familias de las comunidades desplazadas. Es así como la población ha referido que las poblaciones dispusieron roles y dinámicas para favorecer el acceso a áreas privadas, a baños, duchas, preparación de alimentos (olla comunitaria), actividades grupales convocadas por institucionalidad, o por ellos mismos, el reconocimiento de sus necesidades, para conformación de censos entre otros. No obstante, en efecto refieren que, pese a que las conflictividades y hostilidades han sido muy pocas, esta situación no es para nada la ideal y ya hay agotamiento generalizado relacionado con las condiciones de alojamiento, privacidad, acceso a recursos y al territorio.
+
+Las personas en el tiempo libre están realizando actividades lúdicas, básicamente juegos de mesa dominó y cartas, y también dialogar. Refieren que no ha habido un aumento en el consumo de sustancias alcohólicas en parte por las dificultades para el acceso por cuestiones económicas. También refieren que en las comunidades no hay producción de licor tradicional porque los mayores, conocedores de esta fabricación artesanal, ya se han ido muriendo y las nuevas generaciones ya no saben cómo realizarlo.  
+ 
+Las personas cuentan con documentos de identidad y la gran mayoría de ellos tienen también afiliación a sus servicios de EPS. 
+
+Pese a que la gente refiere estar agradecida con el apoyo recibido por el municipio, también identifican por un lado que ya hay agotamiento por las condiciones complejas del desplazamiento, y por otro lado mencionan que la cobertura y calidad de algunas acciones de soporte no han suplido plenamente las necesidades entendiendo que las capacidades con que cuenta el municipio han sido desbordantes.  
+
+Existen subregistros en situaciones de violencia de género (VBG) y casos de maltrato intrafamiliar, debido al temor de las víctimas a denunciar y a que los procesos no se concluyan adecuadamente. Este temor esta relacionado con la posibilidad de sufrir represalias por parte del agresor.
+    [group_aa8xg30/group_lg2ro37/Shelter] => Cuarenta de las familias desplazadas se encuentran refugiadas en el Albergue de Nóvita, ubicado en el casco urbano del municipio, el restante se encuentra en casas de red de apoyo distribuidas en el municipio.
+
+Se encontraron varios hallazgos en el albergue de Nóvita. El edificio tiene una estructura de concreto, con acabados en muros y pisos y la cubierta es de láminas máster 1000. En el segundo piso, hay 9 habitaciones de aproximadamente 7 m por 5 m, equipadas con camarotes, colchonetas, cobijas y toldillos. También hay un baño con dos duchas, un sanitario y un lavamanos en este piso. En el primer piso, se encuentra un salón social, una cocina y una bodega de almacenamiento, así como baños separados por género. Sin embargo, se observó la falta de elementos de cocina, como platos, vasos, pocillos, cubiertos y ollas pequeñas para la preparación de alimentos y servido de los mismos. Además, no se encontraron puntos de basura adecuados. Se notó que una de las tres estufas presenta problemas en los fogones, ya que, al usarla, sale humo negro que genera hollín en los techos y las paredes. Existe también la carencia en mobiliario como sillas, mesas y estantería.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => El albergue de Nóvita está construido con una estructura de concreto y cuenta con acabados en muros y pisos. Sin embargo, se observó la falta de elementos de mobiliario esenciales como sillas, mesas y estantería, lo que afecta la comodidad y organización de las familias alojadas.
+
+En el segundo piso del albergue, se encontraron habitaciones equipadas con camarotes, colchonetas, cobijas y toldillos. Sin embargo, el baño existente en este piso cuenta únicamente con dos duchas, un sanitario y un lavamanos, lo cual puede resultar insuficiente para la cantidad de personas refugiadas en el lugar.
+Se observó la falta de elementos de cocina básicos, como platos, vasos, pocillos, cubiertos y ollas pequeñas, necesarios para la preparación y servido de alimentos. Esta carencia puede afectar la capacidad de las familias para cocinar y alimentarse adecuadamente.
+
+Se encontró la ausencia de puntos de basura adecuados en el albergue. Esta situación puede llevar a la acumulación de residuos y generar problemas de higiene y salubridad en el lugar.
+
+Se identificó que una de las tres estufas del albergue presenta problemas en los fogones, lo cual ocasiona la emisión de humo negro y generación de hollín en los techos y las paredes. Esto puede afectar la calidad del aire y la salud de las personas alojadas en el albergue.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Es importante abastecer el albergue con platos, vasos, pocillos, cubiertos y ollas pequeñas para garantizar que los residentes puedan preparar y consumir sus comidas de manera adecuada.
+
+Establecer puntos de basura ya que es fundamental contar con recipientes de basura adecuados y estratégicamente ubicados en el albergue para mantener la limpieza y promover la gestión adecuada de residuos. Esto ayudará a mantener el lugar ordenado y evitará la acumulación de desechos en áreas inapropiadas.
+
+Reparar la estufa con problemas, puesto que emite humo negro y genera hollín en los techos y las paredes. Esto no solo evitará el deterioro del edificio, sino que también mejorará las condiciones de cocina y la calidad del aire en el albergue.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => Acceso a soluciones adecuadas de alojamiento colectivo temporal para mantener la salud, seguridad y dignidad para las personas afectada.
+    [group_aa8xg30/group_fv0ct51/Agua] => Se encontraron varios hallazgos relacionados con el suministro de agua en el albergue de Nóvita. Actualmente, no tienen acceso constante a agua segura, ya que dependen de la lluvia para recolectar y almacenar agua. A pesar de contar con 7 tanques de 2000 litros cada uno, debido a la falta de precipitaciones en los últimos días, no han logrado abastecerse adecuadamente. Como alternativa, las familias se ven obligadas a buscar agua en una quebradita ubicada a menos de 500 metros del albergue, transportándola en baldes para su uso en baños, lavado de ropa y utensilios de cocina. También es importante destacar que el agua proveniente de la quebrada es cristalina y las familias que la utilizan no reportan la presencia de enfermedades gastrointestinales o dermatitis como resultado de su uso. Esto sugiere que, a pesar de no ser un suministro de agua tratada, la calidad del agua de la quebrada es aceptable. La alcaldía envía al albergue bolsas de 7 litros cada 5 días, las cuales son utilizadas exclusivamente para la preparación de alimentos. Dentro del albergue, se encuentra un filtro comunitario de tipo vela con una capacidad de 120 litros, pero su proceso de filtración por goteo tarda aproximadamente 2 horas en completarse. Las familias cuentan con baldes con tapa para almacenar el agua. Además, es importante destacar que las familias que forman parte de la red de apoyo fuera del albergue también se ven afectadas por la escasez de agua dado que en Nóvita, no existe un acueducto con la capacidad suficiente para abastecer a todas las casas, lo que hace que también dependan en gran medida de la lluvia para obtener agua.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Dentro del albergue de Nóvita, se cuentan con dos unidades sanitarias. En el primer piso, desagregadas por género, se encuentran dos sanitarios y tres lavamanos para mujeres, y dos sanitarios, dos orinales y un lavamanos para hombres. En el segundo piso, hay dos unidades sanitarias: una dentro de una habitación con solo un sanitario, y otra con dos duchas, un sanitario instalado, un sanitario sin instalar y un lavamanos. Todos los elementos funcionan correctamente y se encuentran en buen estado. Las unidades sanitarias tienen buena luz y ventilación y están conectadas a un tanque séptico. Sin embargo, la escasez de duchas disponibles representa un problema, lo cual obliga a las personas a optar por bañarse en el patio cerca de los lavaderos. Esta falta de privacidad pone en riesgo especialmente a las mujeres.
+
+Por otro lado, se evidencia la carencia de un punto de basura en el albergue. Como resultado, los residuos se depositan en bolsas, lo cual genera la presencia de vectores como mosquitos y cucarachas. La recolección de basura proporcionada por el municipio se lleva a cabo los lunes, miércoles y viernes. Dadas las prácticas rurales de las familias, suelen separar los desechos orgánicos para alimentar a los cerdos o utilizarlos como abono para las plantas. Sin embargo, esta práctica no puede llevarse a cabo dentro del albergue. Este problema debe abordarse mediante la implementación de un punto de basura adecuado, que permita una gestión adecuada de los desechos y evite la proliferación de vectores y posibles riesgos para la salud de los residentes.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Las familias que se encuentran en el albergue reciben por parte de la alcaldía elementos de higiene comunitario, los cuales son usados en la limpieza y desinfección de los espacios comunitarios del albergue, sin embargo, el acceso a elementos de higiene personal es limitado ya que cada familia debe obtenerlos y actualmente existe un alza en los precios de los productos de la canasta familiar en el municipio debido a la caída del puente del rio Iro. Esto también afecta a las mujeres que se ven obligadas a priorizar otros elementos de tipo alimenticio sobre los elementos necesarios para el manejo de la higiene menstrual, las familias tanto del albergue como las que están en casas de red de apoyo no tienen desagregación de jabón para lavandería y aseo personal. Las familias informan tener conciencia en temas relacionados con la promoción de las buenas prácticas de higiene, como lavado de manos, higiene oral, limpieza y desinfección de espacios comunitarios, aseo personal e higiene menstrual, sin embargo, la falta de agua afecta estas dinámicas.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => El consumo de agua de las familias del albergue y en las casas de red de apoyo varía entre recolección y almacenamiento de agua lluvia, agua en bolsa y captación de la quebradita cercana, las familias demuestran una clara conciencia sobre la importancia del tratamiento del agua, ya que hacen uso del filtro y llevan a cabo el proceso de hervido.
+
+La alcaldía envía al albergue bolsas de 7 litros cada 5 días, exclusivamente destinadas para la preparación de alimentos. Esta cantidad limitada de agua no es suficiente para cubrir todas las necesidades de las familias en el albergue.
+
+A pesar de contar con 7 tanques de 2000 litros cada uno, el albergue no ha logrado abastecerse adecuadamente debido a la falta de precipitaciones en los últimos días. Esto ha generado dificultades para cubrir las necesidades de agua de las familias residentes.
+
+Dentro del albergue, se encuentra un filtro comunitario de tipo vela con una capacidad de 120 litros. Sin embargo, su proceso de filtración por goteo toma aproximadamente 2 horas en completarse, lo que puede generar limitaciones en el acceso rápido al agua filtrada.
+
+Las familias que forman parte de la red de apoyo fuera del albergue también se ven afectadas por la escasez de agua en Nóvita. La falta de un acueducto con la capacidad suficiente para abastecer todas las casas hace que también dependan en gran medida de la lluvia para obtener agua.
+
+A pesar de contar con unidades sanitarias comunitarias, estas no son suficientes para la capacidad de alojamiento del albergue. Sin embargo, las unidades sanitarias existentes están conectadas a un tanque séptico y operan correctamente siempre y cuando haya acceso al agua.
+
+Dentro del albergue, las familias se distribuyen las tareas de limpieza comunitaria, con líderes o voceros que promueven y refuerzan estas dinámicas. Las personas están familiarizadas con el uso correcto de los baños y su mantenimiento.
+
+Se evidencia la ausencia de espacios seguros y privados como duchas individuales y/o vestidores. Esta falta de privacidad y seguridad afecta especialmente a las mujeres.
+
+El albergue carece de un punto de basura adecuado y como resultado, los residuos se depositan en bolsas, lo que genera la presencia de vectores como mosquitos y cucarachas. Las familias se organizan para sacar la basura los lunes, miércoles y viernes, en anticipación a la recolección del camión.
+
+Las familias en el albergue reciben elementos de aseo comunitario por parte de la alcaldía, los cuales son utilizados para mantener limpio el albergue. Sin embargo, los elementos de higiene personal no son suministrados y cada familia debe comprarlos. La dificultad de acceso a estos productos se debe al alza de precios en el municipio de Nóvita debido al cierre del puente que comunica con Istmina.
+
+Las mujeres en el albergue manifiestan no tener acceso a elementos de higiene menstrual, lo que representa una limitación en su cuidado personal. Además, tanto las familias en el albergue como las que se encuentran en las casas de la red de apoyo carecen de desagregación de jabón para lavandería y aseo personal.
+
+Aunque las familias tienen conciencia sobre la importancia de las buenas prácticas de higiene, como el lavado de manos, la higiene oral, la limpieza y desinfección de espacios comunitarios, el aseo personal y la higiene menstrual, la falta de agua afecta la realización frecuente de estas acciones de higiene.
+
+Se reconoce la importancia de los momentos clave del lavado de manos, pero debido a la escasez de agua, son principalmente las mujeres responsables de la preparación de alimentos quienes lo realizan. Esta situación refuerza la necesidad de abordar la falta de agua como un obstáculo para mantener prácticas de higiene adecuadas.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Mejorar la capacidad de almacenamiento de agua, dado que el albergue depende en gran medida de la recolección de agua de lluvia, se recomienda aumentar la capacidad de almacenamiento mediante la adquisición de más tanques de agua. Esto permitirá acumular suficiente agua durante períodos de lluvia abundante para afrontar las temporadas de escasez.
+
+Promover buenas prácticas de conservación del agua, brindando capacitación y concienciación a las familias sobre la importancia del uso responsable del agua, el uso eficiente en actividades diarias y la reutilización del agua cuando sea posible. Esto ayudará a conservar el recurso y reducir el desperdicio.
+
+Reforzar los conocimientos sobre métodos de tratamiento para consumo y almacenamiento de agua segura familiar y comunitaria, con la estrategia de sensibilizaciones y capsulas informativas.
+
+Es fundamental aumentar el número de unidades sanitarias para cubrir la capacidad de alojamiento del albergue. Esto garantizará que todas las personas tengan acceso adecuado a instalaciones sanitarias y reducirá la presión sobre las existentes.
+
+Se deben tomar medidas para proporcionar espacios seguros y privados para las mujeres, como duchas individuales y/o vestidores. Esto ayudará a garantizar su dignidad y protección mientras utilizan las instalaciones sanitarias.
+
+Es crucial establecer un punto de basura adecuado en el albergue. Esto permitirá una gestión adecuada de los residuos y evitará la presencia de vectores y riesgos para la salud. Además, se debe promover la separación de desechos para facilitar su posterior manejo y reciclaje, en la medida de lo posible.
+Es importante proporcionar capacitación y educación sobre buenas prácticas de saneamiento a las familias y residentes del albergue. Esto incluye la correcta utilización de las instalaciones sanitarias, el mantenimiento de la higiene personal y la gestión adecuada de los residuos. También se deben promover medidas de higiene, como el lavado de manos, para prevenir enfermedades.
+
+Es necesario implementar un programa de mantenimiento regular para asegurar que las instalaciones sanitarias estén en óptimas condiciones de funcionamiento. Esto implica inspecciones periódicas, reparaciones y limpieza adecuada de las unidades sanitarias y el tanque séptico.
+
+Se debe fomentar la participación de la comunidad en la gestión del saneamiento del albergue. Esto puede incluir la formación de comités de saneamiento y la asignación de responsabilidades compartidas para el mantenimiento y la limpieza de las instalaciones. También se pueden establecer mecanismos de retroalimentación y comunicación para que los residentes puedan informar sobre cualquier problema o sugerencia relacionada con el saneamiento.
+
+Es importante asegurar el suministro de elementos de higiene personal, como jabón, pasta de dientes, toallas sanitarias, entre otros, especialmente para aquellas familias que enfrentan dificultades económicas para adquirirlos.
+
+Garantizar el acceso a productos de higiene menstrual para las personas menstruantes en el albergue. Esto incluye la distribución de toallas sanitarias reutilizables o desechables, copas menstruales u otros métodos adecuados, junto con educación sobre su uso correcto y manejo higiénico.
+
+Es necesario asegurar la disponibilidad de jabón tanto para el lavado de manos como para el aseo personal y lavandería, se debe abastecer de forma regular y suficiente el albergue y las casas de la red de apoyo con jabón.
+
+Se deben realizar campañas de sensibilización y educación sobre la importancia de las buenas prácticas de higiene, como el lavado de manos adecuado, la higiene oral, la limpieza de espacios comunitarios y el cuidado personal. Estas campañas deben adaptarse a las condiciones del albergue y ser dirigidas a todas las familias, haciendo énfasis en la participación de hombres y mujeres.
+
+Si bien la ERN se realiza en el albergue de Nóvita, las familias desplazadas retornaron a sus comunidades y se realiza la recomendación de poder hacer atenciones en la zona rural, por las carencias de las familias a la hora del retorno.
+    [group_aa8xg30/group_jn0nm53/san] => En el marco de la emergencia por desplazamiento las afectaciones en seguridad alimentaria se dan en las formas tradicionales de disponibilidad y acceso seguro a los alimentos, además, de las interrupciones en las actividades generadoras de ingresos. El escalonamiento del conflicto armado y los eventos asociados a este, implican una serie de desafíos para garantizar la seguridad alimentaria de las familias. Estos desafíos trascienden en la medida que avance o disminuya el ritmo del conflicto, lo que configura necesidades particulares del estado de la emergencia.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => Las familias están recibiendo asistencia alimentaria por parte de la Institucionalidad, la cual ha brindado un acompañamiento continuo desde el inicio de la emergencia, sin interrupciones; sin embargo, las capacidades institucionales ya se han ido desbordando. La estrategia adoptada se centró en garantizar la seguridad alimentaria de las familias a través del funcionamiento de una olla comunitaria, la cual se componen a través de un listado semanal de alimentos elaborado por las familias, que incluyen alimentos de los 12 grupos alimenticios, aportando así a una dieta diversificada y equilibrada. 
+
+Esta modalidad ha permitido atender las necesidades de todas las familias desplazadas de manera conjunta, fomentando la solidaridad y cohesión comunitaria. Además, se garantiza el acceso prioritario a mujeres gestantes y lactantes, niños y niñas, así como adultos mayores, para asegurar que estos grupos vulnerables reciban una alimentación adecuada y suficiente, sin que ningún grupo se encuentre en riesgo. 
+
+En el proceso de preparación de alimentos las mujeres desempeñan un papel principal en esta tarea, con el respaldo de hombres, niños y niñas para la distribución de los alimentos y el lavado de los utensilios, respectivamente. Dentro del albergue, se han provisto los utensilios y elementos necesarios para la distribución de los alimentos; sin embargo, la comunidad ha identificado la pérdida de algunos de estos, como platos y cubiertos. 
+
+Para complementar la utilización biológica de los alimentos las personas realizan algunas prácticas de higiene como el lavado de manos antes de preparar los alimentos, lavar los alimentos y mantener limpio los espacios de preparación. Es necesario fortalecer el lavado de manos antes de consumir como practica que salva vidas.
+
+Debido a esta crisis, las personas no han podido acceder a medios de producción económica generados en sus actividades laborales. De manera que la gran mayoría de los compromisos económicos están suspendidos por esta situación entre estos, las responsabilidades económicas parentofiliales, de las parejas, de los adultos mayores o de las personas con discapacidades o enfermedades incapacitantes.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Es fundamental realizar una complementación de la evaluación de necesidades en la zona rural una vez que las familias regresen, ya que a pesar de que se haya emitido un concepto de seguridad, el contexto sigue siendo susceptible a cambios. Además, algunas familias han manifestado temor y preocupación por las condiciones en las que encontrarán sus medios de vida, especialmente en relación con la presencia de MAP y la posibilidad de encontrarse con MSE cerca de sus cultivos de pancoger.  
+
+Igualmente, es importante considerar las nuevas condiciones que se podrían presentar y limitar las formas tradicionales de disponibilidad y acceso seguro a los alimentos, como posibles restricciones a la movilidad; por lo tanto, resulta necesario evaluar y abordar estos aspectos para garantizar la seguridad alimentaria y el bienestar de las familias al momento de su retorno a la zona rural. 
+
+Finalmente, con el regreso de las familias estas extienden la solicitud de que la asistencia alimentaria se realice directamente en sus comunidades, mientras estas restablecen las actividades de generación de ingresos. Esta solicitud se basa en la consideración de que algunas familias se encuentran inmersas en la zona rural debido al desempeño de sus labores diarias en la minería, lo cual dificulta la comunicación y el desplazamiento en caso de que se prioricen las ayudas en otros lugares.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => 1.Disponibilidad y acceso a alimentos. El desplazamiento, el paro armado y las afectaciones en el puente que garantizan el acceso al municipio han implicado diferentes retos en la seguridad alimentaria de las familias, sin embargo, en el marco de esta emergencia gracias a la respuesta institucional las familias afectadas han tenido acceso a los alimentos para satisfacer las necesidades básicas alimentarias de manera constante.
+
+2. Implementación de estrategias de afrontamiento de consumo en los últimos 7 días. A pesar de las dificultades, las familias mencionan que gracias a la asistencia alimentaria no han tenido que reducir el número de comidas diarias y se ha evitado la necesidad de implementar estrategias de afrontamiento reducido para acceder a los alimentos.
+
+3. Acceso a una dieta diversificada y de calidad. En el listado de alimentos las familias incluyen principalmente alimentos como: arroz, pasta, harina de maíz, papa, queso, carnes (incluido pollo y pescado), frijol, lenteja, huevos, panela, café, aceite e inclusive agua. No obstante, mencionan el bajo consumo de frutas y verduras.
+
+4. Grupos vulnerables relevantes con dificultad de acceso a los alimentos. No se identificaron casos de NN o personas en riesgo de desnutrición. Todos los grupos poblacionales tienen acceso a los alimentos. 
+
+5. Capacidad de Resiliencia. Las familias mencionan que en sus comunidades cuentan con algunos cultivos de pancoger como yuca, plátano, aguacate, maíz, etc. Uno de sus mayores temores es la presencia de MAP en los caminos que conducen y atraviesan sus sistemas productivos y de autoconsumo. Por otro lado, se relaciona la pérdida del relevo generacional.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => En la zona rural y municipal de Nóvita-Chocó se encuentran patologías tropicales entre ellas: Malaria (Falciparum y vivax), Dengue, leishmania en menor proporción, en los servicios de urgencias el principal motivo de consulta son las urgencias/emergencias hipertensivas lo cual es lo esperado dada la alta prevalencia de hipertensión en población afrocolombiana, la cual, es una de las principales enfermedades crónicas encontrada en este grupo étnico, adicionalmente, la enfermedad diarreica aguda sobre todo en menores de 5 años es otro de los motivos de consulta frecuente debido a falta de acceso a agua segura, por otra parte, se consulta por Infecciones respiratorias agudas en menores y adultos, lesiones traumáticas, infecciones de tejidos blandos y accidentes bohtrópicos y micrúricos de las cuales se han presentado 4 casos en lo que va corrido del año.
+
+Al indagar sobre casos relacionados a nutrición se refirieron 2 casos de DNT aguda grave en población indígena en el presente año los cuales remitieron para manejo en el municipio de Istmina en acompañamiento por comisaria de familia, adicionalmente, refieren en el último año dos casos de intento de suicidio mediante ingestión de organofosforados uno de los cuales, identificada como una menor adolescente, falleció en la ciudad de Montería (Córdoba) a donde fue remitida.
+
+Mujeres gestantes y planificación familiar:
+En las comunidades las mujeres no tienen acceso directo a métodos de planificación sin embargo les es factible conseguirlos en la cabecera municipal donde usualmente acceden a métodos inyectables mensuales de forma particular y en contadas ocasiones lo hacen por medio de su EPS, las mujeres refieren deseos de acceder a métodos de larga duración como implantes subdérmicos los cuales son de más difícil consecución en el medio. Durante su estancia en el albergue por medio de la unidad médica espíritu santo se ofertaron métodos de planificación inyectables mensuales y trimestrales.
+
+En cuanto a los controles prenatales de mujeres en gestación manifestaron que en la comunidad de Torrá la comunidad paga de forma particular una enfermera quien les hace ciertos controles prenatales y procedimientos menores además de aplicar métodos anticonceptivos inyectables. Acceden a sus controles prenatales en la cabecera municipal para lo cual deben desplazarse constantemente; durante la evaluación en el albergue solamente se encontró una mujer en estado de gestación y en el reporte de la atención de la unidad medica no se atendieron mujeres embarazadas.
+
+Vacunación:
+La población de menores de 5 años es menor a los otros renglones poblacionales según se pudo apreciar, sin embargo al interrogar madres de familia estas refieren tener hijos con programas de inmunización completos para la edad a los cuales acceden mediante jornadas de vacunación en sus veredas las cuales se realizan aproximadamente dos veces al año, sin embargo aunque el acceso a vacunas en sus sitios de vivienda es limitado, pueden desplazarse a la cabecera municipal para la vacunación de sus hijos.
+
+Cobertura e intervenciones en salud:
+Las personas en el municipio de Nóvita y sus áreas rurales se encuentran afiliadas a dos tipos de aseguradoras que son la Nueva EPS y Comfachocó las cuales se reparten la población de afiliados, según información brindada por la IPS municipal Unidad médica espíritu santo se hacen brigadas aproximadamente cada 3 meses las cuales cobijan 2 comunidades y así sucesivamente hasta abarcar las comunidades de Nóvita exceptuando las ubicadas en la región del alto tamaná a las cuales el acceso se imposibilita dadas las condiciones de seguridad y las condiciones del rio imposibilitan la entrada a dichas comunidades.
+
+Por otra parte, no se reportan acciones recientes de ONGs en las comunidades, refieren ingresos en el último año de CICR y el consorcio MIRE en el marco de emergencias previas. Consejos comunitarios en este caso como COCOMAN quienes representan las comunidades de Nóvita manifestaron múltiples necesidades de la población en ámbitos de salud especialmente en salud mental, refieren que desde su consejo comunitario han financiado brigadas de salud pagadas por sí mismo para la atención de algunas comunidades puesto que el presupuesto es insuficiente para abarcar todas las comunidades bajo su influencia. En dialogo con cruz roja colombiana seccional Chocó, se manifestó una intención de intervención en el corto plazo, está a la fecha no se ha realizado por disponibilidad del equipo de terreno el cual se encuentra en el marco de otras atenciones.
+Por otro lado, se dialogó con MSF quienes no planean intervenciones en el territorio dado que según su evaluación no se beneficiaban de una intervención de emergencia en el momento.
+
+Referentes comunitarios en salud:
+Existen comunidades como Torrá quienes de forma organizada pagan particularmente una enfermera que atiende situaciones básicas de salud, en las demás comunidades no cuentan con ningún tipo de promotor de salud ni persona que pueda prestar primeros auxilios básicos, por lo que ante situaciones emergentes de salud deben remitir urgente a la unidad médica en la cabecera municipal.
+
+Capacidad instalada:
+La unidad médica espíritu santo del municipio de Nóvita-Choco es una IPS privada de primer nivel que cuenta con dos médicos en el momento, uno prestando su Servicio social obligatorio y el otro médico general, prevén que la siguiente semana se incorpore un nuevo medico a la institución para contar con 3 profesionales en el área de medicina, cuentan además con tres enfermeras jefes y 1 psicólogo quien presta la atención psicosocial, además también se apoya esta área con la psicóloga con la que cuenta comisaria de familia y la trabajadora social de la alcaldía municipal. Por otra parte, se realizan laboratorios clínicos básicos a cargo de un microbiólogo, se cuenta con un odontólogo en el área de salud dental.  La unidad tiene dos ambulancias para traslado básico terrestre, la primera ambulancia cubre el tramo comprendido entre el municipio de Nóvita y el puente del rio Iró donde se realiza el trasbordo del paciente mediante bote a la segunda ambulancia que cubre el trayecto generalmente hasta el municipio de Istmina o Quibdó dependiendo de la gravedad del caso.
+Se cuentan con programas de PyP, planificación familiar, programa de enfermedades crónicas los cuales ofertan muchas veces mediante demanda inducida para poder alcanzar metas y poder lograr la facturación del servicio a las respectivas EPS.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Frente a la situación de la salud mental se encuentra que si bien hubo una fuerte afectación psicológica derivada de la exposición a situaciones de violencia armada (desplazamiento, amenazas, testimonio de violencia, impacto directo de la acción armada) se activó en el municipio un plan de acompañamiento para dar afrontamiento a este evento. En este sentido, principalmente dos profesionales incorporados a la institucionalidad local brindaron desde su sector el apoyo requerido para el manejo de síntomas en salud mental y afectaciones psicosociales que incluyeron personas con síntomas de estrés agudo y experiencia de duelo temporal por pérdida de bienes y recursos personales, así como temor generalizado en la comunidad tanto posterior a la exposición a los eventos, como frente a la posibilidad de retorno ante una eventual reexposición.
+
+Durante el espacio de reunión con el psicólogo del centro de salud, se menciona que la estrategia determinada para el abordaje en salud mental de la emergencia, consistió en dividir las acciones en clínicas y comunitarias, para lo cual el psicólogo del Hospital, asumió principalmente los casos individuales, y las acciones comunitarias por su parte fueron realizadas por la psicóloga de la casa de la Justicia, quien generó acciones grupales para favorecer la adaptación a la situación de emergencia. El acompañamiento a la salud mental y psicosocial ha sido continuo. Todos los días se ha hecho presencia en el albergue para monitorear las necesidades que han ido surgiendo. A esta labor de acompañamiento psicosocial también se ha adherido una trabajadora social de la casa de justicia y ha despertado el interés y el apoyo por parte de las distintas autoridades locales.
+Así mismo y de acuerdo con la coordinadora del centro de salud, el psicólogo y una jefe de enfermería, se menciona que durante esta emergencia también se contó con la participación de la secretaría de salud para realizar apoyo diagnóstico visita que incluyó también el acompañamiento de un psicólogo o referente de salud mental.
+
+Durante esta reunión, también se indaga sobre la conducta suicida, ante lo cual se refiere que, pese a que no está en el marco de la emergencia, la conducta suicida constituye una alerta prioritaria en el municipio debido a que anualmente se están recibiendo entre tres y cuatro casos con intención suicida en el hospital.
+
+Adicionalmente, durante la reunión con el consejo comunitario de Cocoman, se ha solicitado principalmente en este punto, un mayor fortalecimiento de la salud mental directamente en las poblaciones pues en su brigada médica particular y gestionada por fondos propios del consejo, prescinden de este servicio y han observado la necesidad muy prioritaria de que haya acceso a servicios de salud mental con seguimiento pues las secuelas del conflicto armado en la zona, tienen muy afectada a la población en general. Durante este espacio de reunión con la junta directiva, se mencionó la necesidad de fortalecer factores de protección en las comunidades para prevenir el vaciamiento de la zona rural, en tanto estos eventos de violencia armada, propician el deseo de abandono por temor a la reexposición, pero además el soporte que se brinda desde la emergencia, aunque es muy útil, no es suficiente para la recuperación de las personas afectadas. Se llegó al acuerdo de enviar algunos contactos de la plataforma humanitaria para que ellos puedan gestionar dichas necesidades frente a organizaciones afines.
+
+Durante la evaluación, se realizó una atención de un caso con estrés postraumático, el caso continuará en seguimiento por parte del hospital. Se configura en contacto con el psicólogo del hospital, un espacio de retroalimentación continua, estudio de caso y de intercambio de saberes para seguir fortaleciendo las capacidades institucionales. El psicólogo del área además refiere estar en un proceso de formación con OPS para MHGap, y además refiere que, en su agenda institucional, a término de esta formación, realizará una serie de formaciones al personal sanitario del hospital. Refiere que la mayor limitación en lo extramural, es el poco tiempo que tiene para hacer seguimientos pues por el modelo de la brigada, solo puede establecer una única consulta.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => La salud en el municipio de Nóvita especialmente en las comunidades rurales presentan desafíos propios de comunidades lejanas lo que actúa como una barrera geográfica en salud la cual repercute en la promoción y prevención de la salud en las comunidades así como el diagnóstico y tratamiento oportuno de condiciones de salud que amenazan la vida, se encuentran enfermedades propias de lugares tropicales como las arbovirosis, malaria, y accidente ofídico; enfermedades crónicas como HTA con una prevalencia alta de esta enfermedad en comunidad afro, la cual es la predominante en la zona. Los determinantes de salud juegan un papel clave en la salud de las comunidades, desde la literatura está demostrada que la existencia de acueductos funcionales con agua potable disminuyen la incidencia de enfermedad diarreica aguda en la población , por lo que los habitantes del municipio sufre las consecuencias de no tener condiciones de saneamiento óptimas por lo que impactan de manera negativa la salud en la comunidad, en este caso, solo si se tiene en cuenta la cabecera municipal, por lo que el problema es aún mayor para comunidades rurales y alejadas que además sufren los embates del conflicto armado además de múltiples barreras para el acceso a servicios de salud.
+
+En cuanto a la evaluación realizada se asiste a una emergencia en el marco de un desplazamiento por conflicto, donde se confinan un grupo determinado de personas, muchas de las cuales se refugian en un albergue temporal en el área rural del municipio de Nóvita, al asistir a la evaluación es claro que el sitio que alberga a las personas es un espacio reducido, por lo que en este punto solo están hospedadas pocas familias, las demás han tenido que buscar refugio en casas de familiares y amigos.
+
+En cuestión de las necesidades de salud en el marco de la emergencia se evidenciaron atenciones por la IPS municipal que abarcaron al  total de la población en el albergue donde no se documentaron casos que requiriesen atención de urgencias, adicionalmente según la petición en salud de las comunidades propias de sus necesidades estructurales, se enfocan en lo que necesitan en el día a día en sus veredas considerando que sus necesidades no son agudas y de momento se encuentran cubiertas, adicionalmente dado que el retorno es inminente y programado para el día 17/06/23 en el marco de esta emergencia no se benefician de una intervención en primera ni segunda fase, sería interesante un ejercicio de evaluación en el marco de la visita al territorio en área rural donde se beneficiarían quizás de otras intervenciones en salud que serían objeto de una evaluación totalmente distinta a la realizada en este momento.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => La permanencia y contratación de profesionales en docencia debido principalmente a la agudización del conflicto armado en la zona, es un aspecto de constante preocupación e insistente exigencia por parte de la personería, autoridades territoriales y las comunidades. 
+
+Algunos niños, niñas y adolescentes y jóvenes son enviados a los cascos urbanos para continuación de sus estudios, previendo el temor al reclutamiento o riesgos de desescolarización en las zonas más rurales. Aproximadamente el 25% de la población censada pertenece a los niños y niñas entre los 0 y 18 años. 
+Las comunidades viven de sus actividades laborales en la zona, y con ello han podido lograr cierto nivel adquisitivo que les ha permitido el acceso a derechos y a posibilidades como incluso el permitir el acceso a los procesos de formación universitaria para sus hijos en algunos casos. Con esta situación de riesgo, estas posibilidades se pueden ver profundamente menguadas o disminuidas. 
+
+En cuanto a la ocupación de tiempo libre en el marco de la emergencia los niños juegan en el parque, en las canchas de fútbol y en las actividades que ha organizado el equipo psicosocial del municipio. Actualmente los niños y niñas se encuentran en temporada de vacaciones.
+
+Hay necesidades en material lúdico pedagógico y útiles escolares; además, del fortalecimiento en los planes educativos y la estrategia de adaptación curricular.
+
+En la zona rural la disponibilidad de opciones educativas es limitada, y los centros educativos existentes solo cuentan con grupos de inscripción de hasta 10 estudiantes. Debido a esta situación, muchos padres optan por enviar a sus hijos a estudiar fuera de la zona.
+
+Hay riesgos de protección para niños, niñas y adolescentes como afectación psicosocial, uso y vinculación, deserción escolar, incidentes por MAP/MSE/TE y violencias basadas en género.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => En la emergencia es importante garantizar que todos los niños y jóvenes afectados tengan acceso a oportunidades educativas de calidad. Esto implica asegurar que se establezcan y mantengan espacios de aprendizaje seguro y adecuados. Además, es crucial brindar apoyo para superar barreras adicionales, como la falta de recursos educativos para garantizar que ningún estudiante quede excluido debido a la crisis.
+
+Formaciones a docentes en educación en emergencia y consolidación de plan educativo de respuesta en emergencia.
+
+Realizar actividades de protección y autoprotección con mensajes claves en Prevención de La Explotación y el Abuso Sexual (PEAS), y sensibilización en comportamientos seguros dada la contaminación por artefactos explosivos.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => En la zona se encuentran disponibles proveedores financieros como Súper Giro y Efecty. En el caso específico de Efecty, el centro poblado cuenta con dos puntos de atención, pero uno de ellos no está en funcionamiento. Por otro lado, el punto de atención que está operando tiene una capacidad limitada, lo que dificulta la prestación del servicio de manera eficiente; además, se han presentado problemas recurrentes en el suministro eléctrico en la zona y la planta de luz tiene algunas fallas, generando interrupciones directas en la atención. 
+
+En cuanto a la utilización de estos puntos financieros, algunas familias tienen conocimiento pues en ocasiones han recibido o enviado dinero. El grupo que menos experiencia tiene en el retiro de efectivo son los adultos mayores.
+
+Para el momento de la ERN no había registro y no se tenía focalizado el número de familias que habían regresado a sus comunidades después de la apertura de las minas y el levantamiento del paro armado. Por el temor a que alguna familia se quedará sin ayuda en el caso de que se priorizará alguna modalidad de respuesta, los representantes comunitarios se abstenían de dar un número. 
+
+Las expectativas de asistencia en el contexto de la emergencia dieron lugar a la propagación de rumores y comunicación informal que podrían conducir a las ocurrencias de casos de fraude, corrupción o suplantación de identidad. Aproximadamente más de 40 familias expresaron quedar excluidas de los censos; además, se presentaron comentarios de que individuos que no fueron afectados por el hecho, pretendían registrarse. Lamentablemente, estas circunstancias ponen en riesgo la integridad del proceso de ayuda.
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => * Libre circulación de mercancías y suministros.
+Como se mencionó anteriormente, la principal vía de acceso que permite el funcionamiento de los sistemas de aprovisionamiento y los canales de comercialización se encuentra afectada. Como consecuencia, los comerciantes se han visto obligados a buscar alternativas, las cuales han generado un aumento en los costos de los alimentos. Han tenido que afrontar incrementos en los precios de los fletes y asumir riesgos al enviar productos por diferentes rutas poco transitadas, incluso optando por recorridos fluviales. Ante la ausencia de una solución a corto plazo, algunos comerciantes mencionaron la posibilidad de realizar manifestaciones como medida de presión. Estas circunstancias plantean desafíos significativos en el abastecimiento de alimentos del municipio.
+
+* La oferta puede satisfacer la demanda mínima.
+Actualmente no se evidencia un escenario de desabastecimiento, sin embargo, hay una disminución en la variedad de productos disponibles en comparación con periodos anteriores. La oferta se ajusta a la demanda actual, no obstante, cualquier eventualidad o cambio podría desencadenar una situación de desabastecimiento que afectaría a todos los habitantes del municipio de Nóvita, tanto en la comunidad urbana con en las áreas rurales. 
+
+Para asegurar la disponibilidad de productos básicos los comerciantes han tenido que aumentar los precios de algunos alimentos, especialmente de las frutas y verduras. Además, han buscado abastecerse de carne y pescado mediante la compra de proveedores rurales. 
+
+* La población objetivo puede satisfacer las necesidades de forma segura a través de los mercados.
+El concepto de seguridad generado el 15 de junio motivo a las familias que no habían regresado a proyectar su retorno para el 17 de junio. En el caso que se establezca algún tipo de ayuda humanitaria, las familias solicitan que esta se brinde directamente en la zona para mitigar los posibles impactos negativos producto de las afectaciones en las dinámicas sociales que dificultan la libre y tranquila movilidad en la zona.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 200
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 20
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_aa0qz67/group_ys9jk69/_0_Personas_que_participaron_e] => 3
+    [group_aa0qz67/group_ys9jk69/_Cual_001] => Alcalde Municpal, Personero y Enlace de Víctimas
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Ernesto Mosquera
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3148849590
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Personero Municpal de Nóvita
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => León Fabio
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3137446169
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Alcalde del Municipio de Nóvita
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => Edgar
+    [group_aa0qz67/group_de0zc49/_3d_Celular] => 3004249044-3106261790
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => Representante Comunitario Torrá
+    [group_sp7cc00/Observaciones_adicionales] => Cabe mencionar, algunos mínimos que socializaron con el equipo evaluador por parte de Personería y los representantes comunitarios que definieron el concepto de seguridad, por lo tanto el retorno de las familias.
+
+1. Presencia y aumento de píe de fuerza pública en la zona rural, específicamente en la zona de los enfrentamientos.
+2. Disminuye la presencia de los GANE y los eventos.
+3. Las familias que regresaron no reportaron novedades e incidentes en la zona rural.
+4. Se programa acompañamiento el 20 de junio con apoyo de UARIV. 
+5. Se retoman actividades productivas como la minería.
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:4b5cca55-8f56-438b-a9e3-ef91167e3346
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 4b5cca55-8f56-438b-a9e3-ef91167e3346
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4b5cca55-8f56-438b-a9e3-ef91167e3346%2FCenso_CHNO-913.1-0_31_45.xlsx
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4b5cca55-8f56-438b-a9e3-ef91167e3346%2FCenso_CHNO-913.1-0_31_45.xlsx
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4b5cca55-8f56-438b-a9e3-ef91167e3346%2FCenso_CHNO-913.1-0_31_45.xlsx
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4b5cca55-8f56-438b-a9e3-ef91167e3346%2FCenso_CHNO-913.1-0_31_45.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/4b5cca55-8f56-438b-a9e3-ef91167e3346/Censo_CHNO-913.1-0_31_45.xlsx
+                    [instance] => 442977514
+                    [xform] => 638464
+                    [id] => 185226135
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-06-22T05:54:38
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

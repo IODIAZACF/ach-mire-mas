@@ -1,0 +1,107 @@
+stdClass Object
+(
+    [_id] => 516221139
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-12-14T10:37:02.071-05:00
+    [end] => 2023-12-14T14:51:58.216-05:00
+    [group_kp1mu41/_1_C_digo] => NASA-955.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-12-14
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-11-27
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-12-09
+    [group_kp1mu41/_4_Departamento] => NARIÑO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Barrio Villa del rosario
+    [group_kp1mu41/num_comunidades] => 2
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => TODAS
+    [group_kp1mu41/_8_Comunidad] => Resguardo indígena Awa el Sande, Resguardo indígena La Montaña
+    [group_kp1mu41/Urbano_Rural] => urbano
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Alejandra Sanjuan
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3224080930
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R3_Shelter R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-12-1/Provisión_de_soluciones_de
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2023-11-29
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2023-12-06
+    [group_wo86e58/group_zh0iq17/Vacios_SHELTER] => N/A
+    [group_wo86e58/group_zh0iq17/Recomendaciones_SHELTER] => N/A
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-2b/Paquete_alimentario_por_f
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2023-11-29
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2023-12-09
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => La respuesta en seguridad alimentaria enfrenta ciertas limitaciones inevitables, destacándose una brecha persistente en la distribución de alimentos. A menudo, surge un vacío en la comprensión entre lo que se intenta comunicar sobre una alimentación equilibrada y las percepciones arraigadas en las comunidades, especialmente en zonas rurales. Existe una noción consolidada de que la calidad de un plato de comida se mide por la cantidad, lo que conlleva a un énfasis en alimentos ricos en carbohidratos. Este paradigma es complejo de transformar únicamente mediante mensajes informativos. Asimismo, la distribución de alimentos para su conservación en el tiempo también presenta desafíos, ya que la concepción arraigada en las comunidades dificulta el cambio hacia prácticas alimentarias más balanceadas y sostenibles. Estos aspectos revelan la necesidad de estrategias más profundas y contextualizadas para abordar las percepciones sólidamente arraigadas y promover un cambio significativo en los hábitos alimenticios de estas comunidades.
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => N/A
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.2-26-4/Asesoramiento_y_sesiones_a 3-R6-6.3-27-5/Identificación_y_asistenci 3-R6-6.4-28-6/Evacuaciones_realizadas
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-11-27
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-12-02
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => Se evidencian brechas de acceso desde el punto de vista administrativo con las EPS y con la E.S.E ligadas a la cobertura por el asegurador, con dificultad para las citas por especialidades médicas, atención de patologías crónicas no trasmisibles, no se tienen instaurados programas de crecimiento y desarrollo ni programa de crónicos para la población que se encuentra en el coliseo que tiene aseguramiento en santa cruz de Guachavés, la EPS que más genera demoras en la atención es EMSANAR.
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => N/A
+    [group_of2sk15/group_qw7se20/_11_Provisi_n_de_soluciones_de_refugio_temporal_colectivo_o_individual_NRC] => En el coliseo de Villa del Rosario, Samaniego, con acompañamiento de la comunidad, se realizó la adecuación de la cocina comunitaria. Las actividades priorizadas fueron las siguientes:
+
+1. Instalación de cubierta de zinc con estructura de guadua: Construcción de estructura temporal de guadua con un área de 6x9 metros (54mts2) recubierta con zinc.
+2. Adecuación de plástico en zona de almacenaje de leña: Instalación de estructura de guadua para garantizar la cobertura de 6x10 metros (60mts2) recubierto con plástico negro.
+3. Instalación de lavaplatos: Instalación de lavaplatos incluidos todos los elementos de grifería para garantizar un adecuado lavado del menaje empleado en la cocina.
+4. Instalación de recipientes para almacenaje de menaje: Entrega e instalación de dos (2) mobiliarios para facilitar el almacenaje del menaje y el mercado.
+5. Entrega de recipientes para depositar residuos: Entrega de cinco (5) recipientes para depositar residuos.
+5. Entrega de mesas y sillas: Entrega de diez (10) mesas con  cuarenta (40) sillas que faciliten el consumo de los alimentos por parte de los participantes de la cocina.
+6. Entrega de herramientas para facilitar el mantenimiento de cunetas: Entrega de palas, picas y paladraga que permitan realizar mantenimiento de las cunetas y de esta manera evitar inundaciones o problemas con aguas estancadas que aumentan el riesgo de enfermedades transmitidas por vectores.
+    [group_of2sk15/group_qw7se20/_12_Entrega_de_art_culos_dom_sticos_que_salvan_vidas_NRC] => N/A
+    [group_of2sk15/group_qw7se20/_13_Entrega_de_efectivo_para_alquiler_NRC] => N/A
+    [group_of2sk15/group_qw7se20/_14_Shelter_and_Settlements_information_and_awareness_raising_sessions_NRC] => N/A
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => Dada la situación de desplazamiento de las familias se refleja la situación de inseguridad alimentaria que hay, ya que no tienen acceso económico a alimentos diversos ni nutricionales y que al estar consumiendo los alimentos en olla comunitaria se reduce el tamaño de las porciones e incluso del numero de comidas por día.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => En el marco de la atención de la emergencia y con el propósito de abordar las necesidades encontradas en la evaluación rápida de necesidades en el marco de seguridad alimentaria, se ha implementado la distribución de 1170 paquetes alimentarios entre el resguardo indígena Awa El Sande y el resguardo indígena La Montaña. Las acciones llevadas a cabo por Acción contra el Hambre están enfocadas en garantizar la seguridad alimentaria de las comunidades afectadas por el desplazamiento. Se ha realizado la distribución de paquetes alimentarios a las familias recientemente desplazadas, reconociendo las dificultades que enfrentan para acceder a una alimentación adecuada y equilibrada. Esta iniciativa busca brindar un apoyo crucial a estas comunidades, asegurando que tengan acceso a alimentos nutritivos y esenciales para salvar su bienestar nutricional en medio de esta crisis humanitaria, aportando en cada paquete 6 grupos alimenticios que les permita tener un consumos calórico mínimo de 2.100 kilocalorías, así como diversificar sus dietas alimentarias en cada comida. Esta entrega va acompañada de mensajes claves de sensibilización acerca de la distribución de los productos en las dietas diarias de tal manera que se puedan consumir platos saludables que mejoren las condiciones de seguridad alimentaria de las familias.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Se realizaron 289 consultas de salud física en el coliseo Villa del Rosario del 28 de Noviembre al 02 de Diciembre. Se detectaron patologías crónicas como hipertensión arterial y diabetes mellitus que requieren seguimiento, pacientes con riesgo de complicaciones a corto , mediano y largo plazo que ameritan control por parte de las Instituciones de salud. Se realizó evacuación médica efectiva a una paciente con anemia moderada con criterios de inestabilidad.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => Se entregaron 276 formulas por parte de enfermería con educación individual al paciente. Se aplicó un enfoque étnico-diferencial de modo que quedara claro el tratamiento entregado y su posología según indicación médica. Se colocaron 7 implantes subdérmicos como parte de atenciones en Salud Sexual y Reproductiva.
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Se atendieron 45 consultas individuales en salud mental. Se realizaron 4 talleres grupales con la asistencia de 101 personas. En las consultas individuales se detectaron patologías principales como Trastorno Adaptativo, Trastorno de Ansiedad y Estrés postraumático, Se detectaron 3 casos de VBG mayor de 72 horas y 1 caso de violencia sexual, estos casos identificados se encuentran bajo la consideración del la justicia propia del resguardo. Se detectó un caso de Trastorno del Neurodesarrollo que ya se encontraba en seguimiento con CEHANI.
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => Se realizaron talleres de psicología, Conocimiento y Reconocimiento de emociones, Estrategias de Afrontamiento, manejo del estrés y bienestar
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Se remitió paciente con sospecha de VBG mayor de 72 horas a urgencias y 1 caso de violencia sexual, estos casos identificados se encuentran bajo la consideración del la justicia propia del resguardo.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => El sector de Protección en el subsector ICLA para la población Samaniego – Nariño NO se activa,  se presentan todos los indicadores en temas de riesgos de protección, sin embargo,  la población fue atendida por el área NRC Occidente.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => El sector de Protección en el subsector VBG para la población Samaniego – Nariño NO se activa,  se presentan todos los indicadores en temas de riesgos de protección, sin embargo,  la población fue atendida por el área NRC Occidente.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => Se presentan todos los indicadores en temas de riesgos de protección, sin embargo,  la población fue atendida por el área NRC Occidente
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => El sector de Protección - NNAJ para la población Samaniego – Nariño NO se activa,  se presentan todos los indicadores en temas de riesgos de protección, sin embargo,  la población fue atendida por el área NRC Occidente.
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => El sector de Educación en Emergencias para la población Samaniego – Nariño NO se activa,  se presentan todos los indicadores en temas de riesgos de protección, sin embargo,  la población de NNA y docentes ya fueron atendidos por el área NRC Occidente. Los docentes se les realizo formación y entrega de materiales para la respuesta durante la emergencia.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => Las necesidades de wash fueron cubiertas en la atención NSA-945.1 con la entrega de filtros, así mismo la adminstración municipal dispuso de un tanque de 5000 L para almacenamiento de agua de forma segura.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => N/A
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => PARTICIPACION
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => La crisis prolongada de desplazamientos en el municipio de Samaniego ha motivado a algunas familias a buscar oportunidades laborales y nuevas perspectivas en otros lugares cercanos o incluso en distintas regiones del país. Esta situación ha provocado una notable disminución en la convocatoria, asistencia y participación de las familias afectadas en las actividades de asistencia humanitaria. Este escenario planteó un desafío significativo para nuestro equipo, ya que se volvió crucial garantizar una asistencia oportuna y adecuada a aquellas familias que, a pesar de haber buscado nuevas oportunidades, continúan experimentando necesidades apremiantes.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => En este contexto, se trabajó arduamente para adaptar nuestras estrategias y llegar de manera efectiva a estas comunidades, asegurando que reciban el apoyo necesario para mitigar las dificultades que enfrentan en este difícil contexto de desplazamiento prolongado.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 1149
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1149
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 101
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Nayibe Margot Chalacan
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 312 2260829
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Corporación Resguardo indígena Awa El Sande
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Yudi Alejandra Toro
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 316 4678914
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Enlace municipal de victimas de Samaniego
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => Juan Carlos Meneses
+    [group_kq5co41/group_wb3kr41/_3d_Celular] => 318 3564983
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => Gobernador Resguardo indígena Awa El Sande
+    [__version__] => v927fJckMZ3vi6KjpPSHN7
+    [meta/instanceID] => uuid:4f417ca1-11de-4f6a-973c-7c9c85b8b5d9
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 4f417ca1-11de-4f6a-973c-7c9c85b8b5d9
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-12-14T19:51:59
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

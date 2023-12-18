@@ -1,0 +1,7 @@
+Título:maestro_lineas
+
+Tablas:M_LINEAS,M_SUBLINEAS
+
+Vistas:V_M_LINEAS,V_M_SUBLINEAS
+
+Maestros:

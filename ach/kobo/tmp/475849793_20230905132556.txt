@@ -1,0 +1,95 @@
+stdClass Object
+(
+    [_id] => 475849793
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-09-05T09:25:37.809-05:00
+    [end] => 2023-09-05T13:25:51.657-05:00
+    [group_gu1lq88/Departamento] => CAQUETA
+    [group_gu1lq88/CAQUETA] => PUERTO RICO
+    [group_gu1lq88/Otros_Municipios] => N/A
+    [group_gu1lq88/Vereda] => Corregimientos de Santana Ramos (23 veredas) y La Paz (8 veredas)
+    [group_gu1lq88/Nombre_de_la_comunidad] => Comunidad de Santana Ramos y La Paz
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-09-05
+    [group_gu1lq88/Nombre_de_quien_reporta] => María Camila Morales Chapeta
+    [group_gu1lq88/Cargo] => Acción contra el hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => HOMICIDIOS MINAS PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el mes de abril se han generado reiterados enfrentamientos en el departamento de Caquetá zona cordillera a causa de la expansión de los Grupos Armados, el 11 de agosto se presentó un enfrentamiento entre los GANE, afectando el municipio de Puerto Rico, en la cual 3200 personas campesinas con aproximación de 650 familias pertenecientes a dos corregimientos; Santana Ramos (2000 personas) y La Paz (1200 personas), zona rural, fueron afectadas, quedando en situación de confinamiento en medio de las acciones armadas. El 19 de agosto se tenía previsto la atención por parte de la Alcaldía Municipal de Puerto Rico, sin embargo, dadas las condiciones de acceso manifiestan no haber podido entrar, por lo que tienen reprogramada una asistencia alimentaria sin fecha definida, al mismo tiempo, manifiestan no contar con los recursos y capacidades para dar respuesta a la emergencia dada su magnitud y la distancia frente al casco urbano. Se presentan necesidades en todos los sectores, siendo una prioridad el sector de seguridad Alimentaria, dado el desabastecimiento de alimentos en la zona y los cuales fueron saqueados por los GANE que además dados los enfrentamientos, obstruyen el ingreso de vehículos con provisiones. En el área de salud se requieren atenciones en salud mental junto con el acompañamiento en Protección para garantizar la adopción de medidas de prevención y protección a las comunidades. En el área de Educación en emergencias se requiere acompañamiento y espacios de protección para NNA y activación de rutas que permitan garantizar sus acciones en el marco de la emergencia. Se registra la presencia de denuncias de instalación de MAP y TE en los caminos desde los corregimientos al casco urbano, igualmente se ha registrado desde el 27 de mayo un asesinato y un homicidio a un integrante de la JAC y un integrante de un GAI. El 15 de Agosto se conoció la prohibición de transito de todo tipo de vehículos desde el municipio de Algeciras (Huila) hasta el corregimiento de Santana Ramos.
+    [group_yv1ph08/time2] => 2023-08-11
+    [group_yv1ph08/time3] => 25
+    [group_yv1ph08/evidencia] => proteccion educacion san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad alimentaria
+    [group_cn9za51/familias] => 650
+    [group_cn9za51/personas] => 3200
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => La Gobernación y Alcaldía Municipal tras un intento fallido de ingreso el 19 de agosto para verificación de la situación de las familias, tienen reprogramado junto con la compañía del Ministerio Público un nuevo ingreso con asistencia alimentaria, sin embargo, no hay una fecha definida
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => El tipo de transporte es terrestre desde el municipio de Algeciras (Huila) hasta Santana Ramos, la vía se encuentra en condiciones regulares y para entrar a las veredas es necesario un área de trocha, en la cual se ingresa en caballo con duración de 9 horas.
+    [group_mu9ho06/Seguridad] => Confrontación entre el EMC - FARC EP y la Segunda Marquetalia.
+Ocurrencia de homicidios selectivos.
+Desde el mes de abril se han presentado denuncias sobre la instalación de MAP Y TE en el camino que conecta el casco urbano de Puerto Rico y los corregimientos en mención.
+    [group_mu9ho06/Operativa] => La Alcaldía del municipio de Puerto Rico, acordó verificar la situación de las familias el 19 de Agosto, sin embargo, no lograron acceder dadas las obstrucciones al acceso de las comunidades confinadas, manifestando además no contar con los recursos para atención de eventos de esta magnitud, sin embargo, la Gobernación y Alcaldía municipal manifiestan tener programada una nueva intervención sin fecha definida.
+
+El ELC se encuentra realizando seguimiento y evaluando la capacidad de respuesta.
+    [group_mu9ho06/Observaciones] => N/A
+    [group_mu9ho06/Subir_el_Anexo] => 01092023_Confinamientode comunidades campesinas en Puerto Rico (Caquetá) VF-9_50_37.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:641fe938-dead-41ff-a4e2-65cd8a98f4df
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 641fe938-dead-41ff-a4e2-65cd8a98f4df
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F641fe938-dead-41ff-a4e2-65cd8a98f4df%2F01092023_Confinamientode_comunidades_campesinas_en_Puerto_Rico_Caquet%C3%A1_VF-9_50_37.pdf
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F641fe938-dead-41ff-a4e2-65cd8a98f4df%2F01092023_Confinamientode_comunidades_campesinas_en_Puerto_Rico_Caquet%C3%A1_VF-9_50_37.pdf
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F641fe938-dead-41ff-a4e2-65cd8a98f4df%2F01092023_Confinamientode_comunidades_campesinas_en_Puerto_Rico_Caquet%C3%A1_VF-9_50_37.pdf
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F641fe938-dead-41ff-a4e2-65cd8a98f4df%2F01092023_Confinamientode_comunidades_campesinas_en_Puerto_Rico_Caquet%C3%A1_VF-9_50_37.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/641fe938-dead-41ff-a4e2-65cd8a98f4df/01092023_Confinamientode_comunidades_campesinas_en_Puerto_Rico_Caquetá_VF-9_50_37.pdf
+                    [instance] => 475849793
+                    [xform] => 572478
+                    [id] => 199900908
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-05T18:25:55
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

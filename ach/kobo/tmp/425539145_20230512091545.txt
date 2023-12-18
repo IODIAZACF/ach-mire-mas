@@ -1,0 +1,81 @@
+stdClass Object
+(
+    [_id] => 425539145
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-05-12T08:49:52.022-05:00
+    [end] => 2023-05-12T09:15:42.868-05:00
+    [group_gu1lq88/Departamento] => META
+    [group_gu1lq88/META] => MAPIRIPAN
+    [group_gu1lq88/Otros_Municipios] => Puerto Gaitán
+    [group_gu1lq88/Vereda] => Rincón de Indio y Alto Tillabá
+    [group_gu1lq88/Nombre_de_la_comunidad] => Rincón del Indio, Puerto Siare, EL anzuelo, Puerto Trujillo y Alto Tillabá
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-05-12
+    [group_gu1lq88/Nombre_de_quien_reporta] => Paula Andrea Villegas Osorio
+    [group_gu1lq88/Cargo] => Médicos del Mundo
+    [group_gu1lq88/Origen_de_la_informaci_n] => OrganismoPublico
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => RESTRICC_MOV
+    [group_hl1yc96/Problema] => NARCOTRAF PRESENCIA_GAI VBG
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Según información aportada por Defensoría del Pueblo, quienes a través de sus defensores comunitarios, han podido establecer que estas comunidades no han podido acceder a bienes y servicios por la fuerte presencia de GANE (2 grupos F39 y segunda Marquetalia) en la zona, esto sumado a los altos costos para el desplazamiento. Se encuentran necesidades en protección, seguridad alimentaria (por no poder acceder a sus cultivos de pancoger), salud y no tienen acceso a agua segura. Se comenta sobre un alto riesgo de reclutamiento de menores y altos índices de VBG. En los territorios no se cuenta con infraestructura para atender los temas de salud.
+    [group_yv1ph08/time2] => 2023-05-10
+    [group_yv1ph08/time3] => 2
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección - SAN y salud
+    [group_cn9za51/familias] => 0
+    [group_cn9za51/personas] => 500
+    [group_cn9za51/comu] => 5
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Sin información
+    [group_mu9ho06/Seguridad] => Enfrentamientos entre frente 39 y segunda Marquetalia por el territorio. Establecimiento de normas de conducta por parte de los grupos en las comunidades. Presencia de pancartas y distribución de panfletos para control social.
+    [group_mu9ho06/Operativa] => Sin información
+    [group_mu9ho06/Observaciones] => En monitoreo, pendiente alerta de OCHA
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:c03c1b54-afdc-4292-bde4-6824db71192f
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => c03c1b54-afdc-4292-bde4-6824db71192f
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-12T14:15:44
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

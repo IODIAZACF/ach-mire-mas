@@ -1,0 +1,118 @@
+stdClass Object
+(
+    [_id] => 487627386
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-10-04T08:59:45.747-05:00
+    [end] => 2023-10-04T09:13:36.769-05:00
+    [group_gu1lq88/Departamento] => PUTUMAYO
+    [group_gu1lq88/PUTUMAYO] => PUERTO ASIS
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => comunidades indígenas Nasa y Siona Consejos Comunitarios y población campesina
+    [group_gu1lq88/Nombre_de_la_comunidad] => comunidades indígenas Nasa y Siona Consejos Comunitarios y población campesina
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-10-03
+    [group_gu1lq88/Nombre_de_quien_reporta] => Mario Dager - UGI
+    [group_gu1lq88/Cargo] => ACH
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM MINAS PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => En
+el mes de septiembre, al menos 2 900 personas 1 156 familias) de las
+comunidades indígenas Nasa y Siona Consejos Comunitarios y población campesina
+fueron desplazadas forzadamente y se vieron afectadas por confinamientos en la zona
+entre los ríos Piñuña Negro y Piñuña Blanco, por motivo de enfrentamientos entre dos
+Grupos Armados No Estatales ( con imposiciones de restricciones a la
+movilidad y el acceso a bienes y servicios, así
+•
+El 15 de septiembre, 213 personas 77 familias) de la comunidad indígena Siona
+se desplazaron hacia el Resguardo Buenavista por enfrentamientos en la
+vereda Puerto Silencio y zonas aledañas Otras 164 personas 24
+familias) quedaron confinadas en Puerto Silencio Mientras que la población Nasa
+del Cabildo Kwe'sx Kiwe compuesta por 212 personas 82 familias) se desplazó en su
+centro poblado hacia la casa del Cabildo, donde fueron confinadas
+•
+El 23 de septiembre, el municipio confirmó el confinamiento de 2 900 personas
+1 156 familias) de las veredas San Ignacio, Lisberia Dos Quebradas, Monte Verde,
+Monte Bello, Peneya El Singo, Remolino Santa Elena, La Paz, Campo Ají, Campo Sol,
+Kanacas Bajo Santa Helena, Nunkachipa Alto Piñuña Piñuña Blanco, Puerto Bello, El
+Silencio, Consejos Comunitarios Afroverde La Chilpa y La Paz, y el Resguardo Siona
+de Buenavista y Cabildo Nasa de Kwe sx Kiwe
+•
+El 25 de septiembre, aproximadamente 42 personas 19 familias) del Resguardo
+Piñuña Blanco se desplazaron al Resguardo Buenavista, en el que se encuentran
+confinadas
+•
+Los hechos no cuentan con declaración y afectan gravemente los derechos colectivos
+y fundamentales de las comunidades
+    [group_yv1ph08/time2] => 2023-09-25
+    [group_yv1ph08/time3] => 8
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Todos los sectores
+    [group_cn9za51/familias] => 1156
+    [group_cn9za51/personas] => 2900
+    [group_cn9za51/comu] => 4
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_mu9ho06/Subir_el_Anexo] => 100323 Alerta Situación Puerto Asís - Putumayo-9_12_32.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2023-10-04
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://response.reliefweb.int/colombia/alertas-de-situacion-humanitaria
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:8bea8ad4-63c7-440b-be1f-1284d62bbc3f
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 8bea8ad4-63c7-440b-be1f-1284d62bbc3f
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F8bea8ad4-63c7-440b-be1f-1284d62bbc3f%2F100323_Alerta_Situaci%C3%B3n_Puerto_As%C3%ADs_-_Putumayo-9_12_32.pdf
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F8bea8ad4-63c7-440b-be1f-1284d62bbc3f%2F100323_Alerta_Situaci%C3%B3n_Puerto_As%C3%ADs_-_Putumayo-9_12_32.pdf
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F8bea8ad4-63c7-440b-be1f-1284d62bbc3f%2F100323_Alerta_Situaci%C3%B3n_Puerto_As%C3%ADs_-_Putumayo-9_12_32.pdf
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F8bea8ad4-63c7-440b-be1f-1284d62bbc3f%2F100323_Alerta_Situaci%C3%B3n_Puerto_As%C3%ADs_-_Putumayo-9_12_32.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/8bea8ad4-63c7-440b-be1f-1284d62bbc3f/100323_Alerta_Situación_Puerto_Asís_-_Putumayo-9_12_32.pdf
+                    [instance] => 487627386
+                    [xform] => 572478
+                    [id] => 205890174
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-10-04T14:13:39
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

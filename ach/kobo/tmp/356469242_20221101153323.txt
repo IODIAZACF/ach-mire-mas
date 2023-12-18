@@ -1,0 +1,78 @@
+stdClass Object
+(
+    [_id] => 356469242
+    [formhub/uuid] => 93f3f67f4542465b8cf177da52eb0b76
+    [start] => 2022-11-01T15:30:01.410-05:00
+    [end] => 2022-11-01T15:33:12.305-05:00
+    [group_gener/departamento] => arauca
+    [group_gener/municipio] => 81736_saravena
+    [group_gener/Vereda_Corregimiento] => Prueba
+    [group_gener/C_digo_de_la_Emergencia] => Prueba
+    [group_gener/Fecha_del_Evento_001] => 2022-10-31
+    [group_gener/Hora_del_Evento] => 15:30:00.000-05:00
+    [group_gener/Comunidad] => Prueba
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => Prueba
+    [group_gu1lq88/CATEGOR_A] => derrumbe enfrentamiento
+    [group_gu1lq88/ONG_IMPLICADAS] => ach
+    [group_gu1lq88/Autor] => Prueba
+    [group_gu1lq88/Consecuencias] => reprogramaci_n_de_la_agenda
+    [group_gu1lq88/MEDIDAS_TOMADAS] => Prueba
+    [group_Acceso/NARRATIVO] => Prueba
+    [group_Acceso/Socios] => nrc
+    [group_Acceso/AUTOR] => Prueba
+    [group_Acceso/Consecuencias_001] => Prueba
+    [group_Acceso/MEDIDAS_TOMADAS_001] => Prueba
+    [group_Acceso/TIPO_INCIDENTE_NOVEDAD] => Comunicaciones Paro_minero
+    [group_Acceso/Descripcion] => Prueba
+    [group_gu1lq88_001/Caracter] => GAO-R
+    [group_gu1lq88_001/GAO-R] => Segunda_Marquetalia_1
+    [group_gu1lq88_001/Estructura_del_Grupo_Armado] => Prueba
+    [group_gu1lq88_001/SubEstructura_del_Grupo_Armado] => Prueba
+    [group_gu1lq88_001/Segundo_Grupo] => GDO
+    [group_gu1lq88_001/GDO_001] => Los Pachelly
+    [group_gu1lq88_001/Estructura_del_Grupo_Armado_001] => Prueba
+    [group_gu1lq88_001/SubEstructura_del_Grupo_Armado_001] => Prueba
+    [group_gu1lq88_001/time1] => 2022-10-31
+    [group_gu1lq88_001/Evento] => Hegemonia
+    [group_gu1lq88_001/DescripciOn_del_Evento] => Prueba
+    [group_gu1lq88_001/Situacion] => Hegemonia
+    [group_gu1lq88_001/Economia] => Prueba
+    [group_gu1lq88_001/Fuente] => Prueba
+    [__version__] => vreLNZQhmx2nzC4WRkLwLN
+    [_version_] => vKkMnXC7MzaeYxgjAkP66P
+    [_version__001] => vb3DCBJYaEBRDXZYpNBi4w
+    [_version__002] => vVHr9qiTnYYBU25epczKpn
+    [_version__003] => vwUUZTwFYy44j3qsMRCx6t
+    [_version__004] => v9SSW5zNbDZdFkzssJjzTY
+    [_version__005] => vicUyBQ8Q8hWFQheVFFxeT
+    [_version__006] => vnyKZkaJZHuFtK5UDiKc9Z
+    [meta/instanceID] => uuid:ddae0526-a8b0-4716-b33c-6ca3535dd86c
+    [_xform_id_string] => aKZg4apnJARrntWx6KyUjA
+    [_uuid] => ddae0526-a8b0-4716-b33c-6ca3535dd86c
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-11-01T20:33:22
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

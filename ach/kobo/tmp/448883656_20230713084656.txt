@@ -1,0 +1,475 @@
+stdClass Object
+(
+    [_id] => 448883656
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-07-06T09:17:50.254-05:00
+    [end] => 2023-07-06T10:11:51.476-05:00
+    [group_pl6la06/_1_C_digo] => CHSI-917.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-06-28
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-06-30
+    [group_pl6la06/_4_Departamento] => CHOCO
+    [group_pl6la06/CHOCO] => MEDIO SAN JUAN
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => SAN MIGUEL
+    [group_pl6la06/_8_Comunidad] => BUENAS BRISAS, SAN AGUSTIN, BARRANCONCITO Y CAÑAVERAL
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA ORGANISMO_PUBLICO SANARIV_SISTEMA_NACIONAL_PARA_LA_ATENCION_INTEGRAL_A_LAS_VÍCTIMAS CTJT_COMITE_TERRITORIAL_DE_JUSTICIA_TRANSICIONAL
+    [group_mb5pt53/_1a_Evaluador] => JESSICA RANGUEL
+    [group_mb5pt53/_1b_Celular] => +57 323 2342745
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => DIEGO REYES
+    [group_mb5pt53/_2b_Celular] => +57 310 3124381
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_3a_Evaluador] => KEVIN GONZALEZ
+    [group_mb5pt53/_3b_Celular] => +57 310 2657785
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_4a_Evaluador] => RICARDO MONTES
+    [group_mb5pt53/_4b_Celular] => +57 3228157357
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-06-18
+    [group_rq63s60/_1c_Descripci_n_del_evento] => El municipio de Sipi y de medio San Juan pertenecientes al departamento del Chocó, desde el 2022 en concordancia con la alerta temprana 012 de 2022 se ha presentado un recrudecimiento del conflicto en el territorio consecuencia del control y expansión territorial de los GANE, lo que ha ocasionado diversas violaciones a los derechos humanos como afectaciones a la vida, libertad de movilidad, seguridad, integridad de las comunidades presentes en los municipios, promoviendo desplazamientos masivos, enfrentamientos y confinamientos en gran parte del departamento.  
+
+Recientemente las comunidades de San Agustín, Cañaveral, Buenas Brisas y Barranconcito pertenecientes territorialmente a Sipí, producto constantes enfrentamientos entre GANE en cercanías a las comunidades ocasionando que estas salieran desplazadas forzosamente hacia la comunidad de San Miguel municipio de Medio San Juan, a fin de proteger su vida e integridad.  
+
+Actualmente la administración de Medio San Juan, reporta 117 familias desplazadas del 18 al 20 de junio en San Miguel y 12 familias que llegaron posterior al evento, la Alcaldía junto al ministerio público (personería) han activado la ruta de declaración por el hecho victimizante masivo, así mismo ha realizado la entrega de algunos componentes de la asistencia humanitaria inmediata, es de resaltar que a pesar de la respuesta entregada por la territorialidad, se presentan vacíos en la respuesta integral en especial en los sectores de Agua, Saneamiento e Higiene, Salud, protección y educación en emergencias.  
+
+Las dinámicas de conflicto recientemente se han intensificado como la continuidad de enfrentamientos en la zona, desplazamientos intraveredales hacia otras comunidades, confinamiento, y el decreto del paro armado indefinido a partir del 04 de julio del presente año, así como las infracciones al DIH y de los derechos humanos en los atentados hacia la vida de la población civil, ocasionando limitantes en la atención integral a las familias afectadas.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las comunidades manifiestan tener buenas relaciones con la comunidad de acogida, de hecho, la comunidad de San Miguel ha sido clave para generar unas condiciones mínimas en el alojamiento y alimentación de las comunidades desplazadas, sin embargo, la cantidad de familias y las condiciones en general de la población han representado un reto en la comunidad.  En los diálogos con las comunidades y sus lideres se denota que muchas de las familias desplazadas contemplan la posibilidad de permanecer en San Miguel. Esta vocación de permanencia implica la expansión del pueblo, la ocupación y posible construcción de nuevas casas y en términos de acceso a servicios mayores necesidades, tanto de la población afectada por la emergencia como de la comunidad receptora.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Las cuatro comunidades afectadas por la emergencia son población NARP (Negra, Afrocolombiano, Raizal, Palenquero), pertenecientes al Consejo Comunitario mayor ACADESAN. En el interior de las comunidades se identifica adultos mayores, mujeres gestantes, niños, niñas y adolescentes en situación de vulnerabilidad.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las principales actividades económicas de las comunidades antes de la emergencia se basaban principalmente en la agricultura y la minería. Al momento de la evaluación las comunidades manifiestan que en esta época del año desarrolla la cosecha del arroz, cosecha que se va a perder debido al desplazamiento. Con la perdida de estos cultivos, incluso ante un posible retorno, estas comunidades verán afectadas sus capacidades económicas y de acceso a alimentos. Adicionalmente mencionaron la cría de animales como gallinas y cerdos. Expresaban su preocupación, pues en este momento no hay quien alimente a estos. En este momento, las comunidades desplazadas en San Miguel no han tenido acceso a medios de vida, afectando sus ingresos y su capacidad de acceder al mercado. Para la alimentación y el acceso a bienes de primera necesidad han dependido exclusivamente de las ayudas recibidas por parte de las instituciones del Estado y las organizaciones humanitarias.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Las comunidades presentan contaminaciones en sus fuentes hídricas (rio) y territorio, por la extracción y ejercicio de la minería. No hay manejo de residuos por lo que estos son arrojados al rio o enterrados en sitios destinados para esta actividad en las comunidades.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => La comunidad receptora del dezplazamiento cuenta con acceso a servicios basicos como energia y educación. Sin embargo, no cuenta con salud y agua segura.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Derivado a la emergencia y por la escases de agua en los alojamientos, las gran mayoria de personas ralizan sus necesidades en el rio, caso que origina impactos ambientales y afectaciones a la salud de la población. Existe un botadero a cielo abierto de la comunidad pero no le dan un manejo adecuado en la gestion de los residuos.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/Riesgos_para_respuesta] => CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1d_Caracterizaci_n_Homicidios] => HOMICIDIOS_SELECTIVOS_LÍDERES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO ELN OTRO_GRUPO_ARMADO
+    [group_fm93i53/_Cu_l_005] => FUERZAS MILITAR PUBLICA
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => Transporte: 
+
+El ingreso desde Bogotá es vía aérea hacia Quibdó (vuelo comercial), desde Quibdó hacia la cabecera municipal de Istmina es por medio terrestre aproximadamente el recorrido son dos horas y media, finalmente desde Istmina hacia la comunidad receptora (San Miguel) es ingreso fluvial tiempo promedio en lancha motor 200 es una hora y 15 minutos de acuerdo con las condiciones del caudal del rio.  
+
+Alojamientos: 
+
+El lugar más idóneo para pernotar es Istmina que es el centro más poblado y cuenta con variedad de alojamientos. En la comunidad no hay hospedajes ni residencias, adicionalmente los espacios comunitarios se encuentran ocupados con las familias de la emergencia.  
+
+Alimentación: 
+
+Las comunidades desplazadas y de acogida, basan su alimentación en los siguientes productos, arroz, plátano, papachina, yuca, maíz, queso y proteína animal.  
+
+Servicios: 
+
+La comunidad receptora no cuenta con servicio de agua, su acueducto se encuentra deshabilitado por contaminación con sospecha de presencia de artefactos explosivos: Minas antipersonal MAP, no hay alcantarillado, los residuos son arrojados al rio, hay fluido eléctrico desde la cabecera municipal (red) pero esta es intermitente. No hay cobertura a telefonía móvil, su única fuente de comunicación es a través de Wifi privados (pin).
+    [group_fm93i53/seguridad] => La presencia de múltiples actores armados en los municipios de Sipi y Medio San Juan, como el ELN, AGC y la fuerza militar, ha incrementado la posibilidad de hostilidades, combates y enfrentamientos en la zona. Se han establecido restricciones a la movilidad en el río, con horarios restringidos de traslado de 5 pm a 6 am, y se han instalado puntos de control por parte de los GANEs. 
+
+Los actores armados presentes en la zona ejercen un control sobre el territorio y establecen normas de conducta que las comunidades deben seguir. Esto crea un ambiente de incertidumbre y temor, limitando la libertad de movimiento y generando una sensación de inseguridad entre la población del territorio. 
+
+Se han registrado casos de saqueos y hurto en las veredas abandonadas debido a la situación de conflicto en la región. Estas acciones contribuyen a la inestabilidad socio económica y afectan aún más la situación de las comunidades afectadas. 
+
+Se ha reportado el asesinato de una persona de la comunidad y el herido de un menor de edad en la comunidad de San Agustín, perpetrados por actores armados presentes en la zona. Estos incidentes agravaron la situación de violencia y generaron un mayor nivel de temor entre la población.  
+
+En la comunidad de San Miguel, se evidencia la presencia de fuerza pública, lo cual puede generar riesgos al convertirse en posibles blancos de ataques por parte de los grupos armados. Esto plantea desafíos adicionales para garantizar la seguridad de la población civil y la integridad de las operaciones humanitarias. 
+
+A partir del 4 de julio del presente año, se ha decretado un paro armado indefinido en la región. Esta medida aumenta la tensión y el riesgo de violencia en los municipios de Sipi y Medio San Juan, lo que afecta aún más la situación humanitaria y dificulta la prestación de asistencia a las comunidades afectadas.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 126
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 350
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 4
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-07-01
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 350
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => OCHA, ACNUR, ALCALDIA MUNICIPAL, UARIV
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => OCHA, ACNUR, ALCALDIA MUNICIPAL, UARIV
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => Para las comunidades de las emergencia, ya existía una alerta de inminencia por parte de la Defensoría del pueblo No. 012-22, la cual relaciona los escenarios de riesgos asociados al conflicto armado (confinamiento, desplazamientos, amenazas, homicidios) de las comunidades de Sipí (Chambacú, San Agustín, Buenas Brisas, Cañaveral, Teatino, Loma Chupey, Marqueza, Santa Rosa, Tanando, Sipí cabecera municipal, Barraconcito, Barrancón, Charco Largo la Unión, Charco Hondo) como consecuencia de las incursiones realizadas por las AGC y los constantes enfrentamientos con el ELN en el territorio, como fin de su expansión y control territorial.  
+
+En relación con lo anterior y materializándose el riesgo, el pasado 16, 17 y 18 de junio Cuatro comunidades del municipio de Sipí (Cañaveral, Barranconcito, San Agustín y Buenas Brisas) debido a constantes enfrentamientos entre los grupos armados a los alrededores de su comunidad, por amenazas y el temor al fuego cruzado deciden desplazarse forzosamente hacia la comunidad de San Miguel perteneciente al municipio de Medio San Juan. 
+
+Estas comunidades han sido afectadas desde 2022 por confinamientos y desplazamientos individuales y masivos, en San Agustín se tiene como antecedente reciente el desplazamiento en el segundo semestre del 2022 y adicionalmente, la presencia permanente de fuerza pública ubicado desde noviembre del año anterior dentro de la comunidad, específicamente en una estructura desgastada alrededor de la Escuela, generando una situación de riesgo para toda la comunidad, dadas las actuales dinámicas de conflicto en la zona.  
+
+Con anterioridad a la ocurrencia del desplazamiento, se evidencia una presencia activa y movilidad de actores armados como estrategia de control y preparación para las hostilidades, donde se establecieron retenes ilegales sobre el rio Sipi, que generaron restricciones a la movilidad e ingreso a zonas de cultivo, dejando como resultado el confinamiento de las comunidades. Además, los actores armados amedrentaron a las comunidades, amenazando y señalando a perfiles de liderazgo y alertando sobre posibles enfrentamientos y la necesidad de desplazarse de sus comunidades para salvar sus vidas. 
+
+En este contexto, se evidencia la configuración de riesgos y materialización de hechos individuales de amenazas, intimidaciones, uso, utilización y vinculación de niños, niñas y adolescentes (mediante métodos persuasivos como prestamos de dinero, enamoramiento a niñas y adoslescentes, entre otros), homicidios y lesiones a población civil y masivos como las restricciones a la movilidad, confinamientos y presencia de artefactos explosivos. No se evidencia activación de rutas de protección o de atención para afectaciones individuales por el temor y el desconocimiento de las garantías de protección para estos casos. 
+
+El desplazamiento fue una medida de auto protección de las comunidades antes los enfrentamientos constates en su territorio, es por ello que actualmente, San Miguel (comunidad receptora) para las comunidades es un lugar medianamente seguro, por lo que no se habla de un retorno a menos que el mismo sea acompañado por las entidades territoriales y departamentales y exista una verificación de las condiciones de seguridad que incluya la no presencia de MAP, TE y MSE.    
+
+Sumado a lo anteriormente mencionado y como producto de los sucesos, los NNAJ presentan afectaciones psicosociales como dificultades para dormir, algunos sienten reacciones emocionales desbordadas cuando escuchan algún estruendo, niños, niñas mayores mientras duermen no controlan esfínteres y tienen accidentes de micción, así mismo, los adultos están experimentando ansiedad, estrés, depresión, cansancio, falta de herramientas de  reconocimiento y afrontamiento de las emociones por no contar con espacios de escucha y primeros auxilios emocionales en la comunidad lo que les genera incertidumbre y frustración.  
+
+La poca iluminación en la comunidad de acogida genera un riesgo para las comunidades principalmente en horarios nocturnos, debido a esta situación las comunidades desplazadas internamente han establecido medidas de mitigación al riesgo como restringir la circulación por las calles después de las 8pm.  
+
+Se resalta que, en los lugares de albergue, hay riesgos a niñas, adolescentes y mujeres en su seguridad e intimidad, al no contar con espacios diferenciados, ni cuentan con espacios de autocuidado separados con enfoque de género, a su vez exteriorizan que, debido a los escases de agua, recurren a realizar sus necesidades fisiológicas o de higiene en el rio, pero en lo posible van acompañadas, ya que no lo consideran un espacio seguro. No se evidencia la presencia de un espacio seguro de aprendizaje para la continuidad y protección de los niños, niñas y adolescentes en el albergue. 
+
+En San Miguel, en el año 2021 se presentó un accidente por MAP cerca a la comunidad, desde la fecha hay lugares que la comunidad refiere hay presencia o sospecha de MAP, como cerca al acueducto (el cual no está en funcionamiento por el riesgo de presencia de artefactos explosivos MAP), en el sector de atrás de la comunidad, frente a la comunidad (pasando el rio) y en las zonas de las “fincas”. La institucionalidad como las comunidades Indican haber solicitado desminado, en años anteriores fueron, pero a la fecha dicen que aún hay por lo que no hay certeza de que sea un territorio libre de sospecha de MAP, el riesgo de un accidente está presente debido a que la comunidad referencia que se encuentran a escasos metros de la comunidad. Debido a estas situaciones tanto las comunidades receptoras como desplazadas se encuentran limitadas en su movilidad y en el acceso a sus cultivos.  
+
+En cuanto a conflictos intrafamiliares o Violencia basada en genero VBG hasta el momento no se reportan casos y se resalta que estos se solucionan primeramente a nivel del consejo comunitario local, en ciertos eventos emiten sanción, si es un caso complejo, es remitido a las rutas institucionales. 
+
+Dadas las condiciones de desplazamiento y el número de comunidades se evidencian desacuerdos entre esta, aunque se expresan que son pocas estas se presentan principalmente por el uso de las cocinas provisionales, la distribución de alimentos, etc y estas son solventadas utilizando el dialogo y la coordinación.  
+
+Es menester resaltar que actualmente la administración municipal refiere que en el municipio de Sipí hay aproximadamente 15 comunidades afectadas por las recientes hostilidades entre las AGC y el ELN en el territorio, en el cual 7 se encuentran en situación de desplazamiento y las restantes incluido la cabecera municipal se encuentran confinados.  
+
+Posterior al evento victimizante, la institucionalidad realiza misión de verificación, concreta el cierre del censo oficial con 117 familias y se procede a la toma de declaración la cual fue remitida a la UARIV el 20 de julio. Se resalta que al momento de la Evaluación Rápida de Necesidades del Consorcio MIRE, la comunidad indica la llegada ese día de 12 familias (27 personas) que en el desplazamiento inicial no alcanzaron a salir y que por orden directa de los GANE informaron que debían irse de la comunidad.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => ​Riesgo de fuego cruzado por constantes enfrentamientos.​
+
+Presencia permanente de fuerza pública en la comunidad receptora.​
+
+Antecedentes de accidentes, contaminación y sospecha de MAP.​
+
+Amenazas a lideres, lideresas por su rol de liderazgo​
+
+Restricción a la movilidad ​
+
+Imposición de normas de conducta en el interior de la comunidad receptora como mitigación de "riesgos" (no salir después de las 8:00pm) ​
+
+Espacios "no seguros" dentro de la comunidad identificados por las mujeres.​
+
+Antecedentes y riesgos de Vinculación y utilización de NNAJ en la comunidad receptora. ​
+
+Posible afectación a la vida de una persona civil ​
+
+Recientemente decreto de paro armado en el departamento​
+
+Población con afectaciones emocionales/psicológicas y en su salud física sin acceso a atención médica. ​
+
+Conflictos intercomunitarios​
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => Seguimiento a los casos identificados con mayor vulnerabilidad
+
+Seguimiento a la incluision de la poblacion en registro nacion de victimas
+
+Fortalecer los conocimientos de la poblacion en rutas de activacion en situaciones de emergencia y ley 1448
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => ¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección?​
+
+Se identifican afectaciones por amenazas, personas con necesidades especiales (adultos mayores, discapacitados y con enfermedades de base) con afectaciones psicológicas producto del desplazamiento​
+
+¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)?​
+
+Se identifican hechos victimizantes individuales como amenazas, intimidaciones, homicidios, accidentes con MAP, riesgos de reclutamiento, uso y utilización.​
+
+Desplazamiento (Medio San Juan), confinamiento (Sipí) y restricción a la movilidad (todo el rio San Juan)​
+
+¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo?​
+
+La situación de emergencia a provocado en NNAJ afectaciones en su salud mental, disminución del sueño, miedo, alteraciones/sobresaltos producto de ruidos altos, en cuanto a los adultos persiste el estrés, la angustia, depresión, cansancio, represión de emociones, incertidumbres de no saber que hacer. ​
+
+¿El hecho victimizante ha sido visibilizado con la institucionalidad? ​
+
+La ruta de activación de la declaración por el Desplazamiento forzado masivo  se realizó el pasado 20 de junio por el municipio de Medio San Juan. Asimismo, la institucionalidad (Alcaldía y UARIV) ha realizado entrega de AHI​
+
+​
+
+¿Tienen conocimiento las comunidades sobre normatividad de víctima? ​
+
+Existe vacíos sobre las rutas y medidas de atención, asistencia, reparaciones establecidas en la ley 1448 de 2011 y de los decretos étnicos 3635 de 2011 para población afectada por conflicto armado​
+
+​
+
+¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención?​
+
+Falta de capacidad de atención en algunos componentes de la AHI, descoordinación en estas atenciones entre la administración expulsora y la receptiva especialmente en el sector salud. ​
+
+​
+
+¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? ​
+
+Los Lideres y lideresas requieren fortalecimiento en rutas de atención establecidos en la ley de víctimas y su decreto étnico, así como profundización en los mecanismos de exigibilidad de derechos y reparación colectiva. ​
+    [group_aa8xg30/group_lg2ro37/Shelter] => Las familias desplazadas se encuentran en una situación desfavorable debido a la falta de elementos básicos necesarios para establecer un alojamiento adecuado. Entre estos elementos se incluyen camas, colchonetas, cobijas y utensilios para la toma/preparación de alimentos. Esta situación precaria afecta negativamente su calidad de vida y su capacidad para adaptarse a su nueva situación. 
+
+Actualmente, las familias desplazadas se alojan en hogares de familiares o en casas vacías de la comunidad de acogida. Este tipo de alojamiento temporal brinda cierta estabilidad, pero no constituye una solución sostenible a largo plazo. Es importante destacar que, por el momento, no se ha observado un alto grado de hacinamiento entre las familias desplazadas, lo que indica que la capacidad de acogida de la comunidad aún no se encuentra desbordada. 
+
+Algunas familias desplazadas se están alojando en la casa comunitaria. Si bien este espacio proporciona refugio, es importante tener en cuenta que presenta limitaciones en términos de privacidad y comodidad. Durante la evaluación, se identificaron varios espacios comunitarios adicionales que podrían haber sido habilitados como alojamientos adicionales. Sin embargo, debido a la capacidad actual de la comunidad de acogida, no fue necesario utilizarlos. 
+
+El espacio designado para la preparación colectiva de alimentos no se encuentra en buenas condiciones. Esto dificulta la adecuada preparación de alimentos y genera un impacto negativo en la higiene. Un desafío importante identificado es la falta de acceso a agua adecuada para la preparación de alimentos, lo que pone en riesgo la salud y el bienestar de las familias desplazadas. 
+
+Durante la evaluación, se observó que las personas desplazadas tienen un conocimiento limitado sobre los aspectos relacionados con el alojamiento y asentamientos. Esto indica la necesidad de brindar información y educación sobre estos temas para mejorar su capacidad de adaptación y bienestar.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => Las familias desplazadas carecen de los elementos básicos necesarios para establecer un alojamiento adecuado. Esto incluye la ausencia de camas, colchonetas, cobijas y utensilios para la toma/preparación de alimentos.​
+
+Las familias desplazadas se están quedando en hogares de familiares o en casas vacías de la comunidad de acogida. Este tipo de alojamiento temporal proporciona cierta estabilidad, pero no es una solución sostenible a largo plazo. No se observa un alto grado de hacinamiento entre las familias desplazadas. Esto indica que, por el momento, la capacidad de acogida de la comunidad no se encuentra desbordada.​
+
+Algunas familias se están alojando en la casa comunitaria. Estos espacios brindan un lugar de refugio, pero pueden tener limitaciones en términos de privacidad y comodidad. Se identificaron varios espacios comunitarios que podrían haber sido habilitados como alojamientos adicionales. Sin embargo, no se requería su uso debido a la capacidad actual de la comunidad de acogida.​
+
+Las familias desplazadas llevan a cabo la preparación de alimentos de manera colectiva. Sin embargo, el espacio designado para esta actividad no se encuentra en buenas condiciones. Esto puede dificultar la preparación adecuada de alimentos y afectar la higiene. Uno de los desafíos identificados es la falta de acceso a agua adecuada para la preparación de alimentos. Esto puede poner en riesgo la salud y el bienestar de las familias desplazadas.​
+
+Se observó que las personas desplazadas tienen un conocimiento limitado sobre los aspectos relacionados con el alojamiento y el establecimiento de asentamientos. Esto indica la necesidad de brindar información y educación sobre estos temas para mejorar su capacidad de adaptación y bienestar.​
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Entrega de kits de hábitat es primordial para brindar garantías y dignidad  a las personas en condición de desplazamiento.​
+
+Habilitación de espacio comunitario para la preparación de alimentos y dotación del lugar​
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿La mayoría de las familias y/o personas tienen donde albergarse >50%?. SI.​
+
+¿La mayoría de las familias y/o personas tienen donde albergarse en condiciones seguras >50%?  SI.​
+
+¿Las familias cuentan con los elementos adecuados de hábitat que promuevan seguridad >50%? NO.​
+
+¿La institucionalidad y población desconoce sobre temas relacionados con el sector de Alojamiento y Asentamiento?  NO.​
+
+¿Los espacios educativos presenta hacinamiento agudizado por la emergencia, Si /No? NO.​
+
+¿Existen espacios educativos para la atención de NNAJ durante la emergencia, Si/No? SI.​
+
+¿Se cuenta con el apoyo y coordinación de autoridades locales para el seguimiento y desarrollo de espacios educativos en la emergencia, Si/No? SI.​
+    [group_aa8xg30/group_fv0ct51/Agua] => La comunidad desplazada depende principalmente de las aguas lluvias como fuente de suministro. Sin embargo, se ha observado que no cuentan con tanques y sistemas de recolección adecuados para captar y almacenar el agua de manera eficiente. Esta falta de infraestructura dificulta la disponibilidad constante de agua potable y crea una situación precaria para las personas desplazadas. 
+
+La población no aplica ningún tipo de tratamiento al agua que consumen y carecen de conocimiento sobre la importancia de hacerlo. Como resultado, consumen directamente el agua sin considerar los posibles riesgos para la salud asociados con el consumo de agua no tratada. Esta práctica aumenta la vulnerabilidad de la comunidad a enfermedades transmitidas por el agua. 
+
+Para sus necesidades de higiene personal, lavado de ropa y utensilios de cocina, la comunidad obtiene agua directamente del río. La falta de acceso a agua limpia y segura pone en riesgo la higiene y la salud de las personas, aumentando la posibilidad de enfermedades relacionadas con el agua y la falta de saneamiento. 
+
+Aunque existe un acueducto comunitario en la zona, lamentablemente no está en funcionamiento. Esta situación agrava aún más la falta de acceso al agua potable y limita las opciones de abastecimiento para la población desplazada. Es imperativo tomar medidas para rehabilitar o buscar alternativas de abastecimiento para garantizar un suministro confiable de agua potable. 
+
+La presencia de artefactos explosivos en la zona representa un peligro adicional para la población desplazada y dificulta aún más el acceso seguro al agua. Se deben tomar medidas para garantizar la seguridad de la comunidad y facilitar el acceso a fuentes seguras de agua.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Las viviendas o alojamientos temporales cuentan con solución de letrina, la más usada la tasa campesina para la eliminación de desechos. Sin embargo, debido al limitado acceso al agua, estas no funcionan correctamente. Como resultado, las personas prefieren realizar sus necesidades directamente en el río y/o campo abierto, lo cual representa un riesgo para su seguridad, la salud y el medio ambiente. 
+
+La comunidad de acogida tiene establecido un botadero a cielo abierto para la gestión de residuos. Aunque este sistema es funcional, es necesario mejorar las prácticas de manejo para evitar la proliferación de vectores y enfermedades asociadas. Se ha informado una alta presencia de mosquitos en las noches, lo que pone en riesgo la manifestación de enfermedades como paludismo y malaria en la población. Se requiere implementar medidas de control de vectores, como el uso de mosquiteros y la fumigación, para proteger la salud de la comunidad.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Aunque la población ha recibido asistencia básica en higiene a través de la entrega de kits de aseo familiar, se ha observado que no tienen conocimiento sobre la importancia del lavado de manos y otras buenas prácticas de higiene durante la emergencia. No asocian estas prácticas con la prevención de enfermedades. Es fundamental realizar jornadas de educación e información sobre higiene para promover comportamientos saludables. 
+
+No se ha considerado un enfoque diferencial en los kits de higiene entregados, lo que ha dejado sin cubrir las necesidades específicas de ciertos grupos, como aquellos que requieren pañales e higiene menstrual para garantizar una buena salud y bienestar.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => La comunidad desplazada depende principalmente de las aguas lluvias para obtener agua, pero no cuentan con tanques y sistemas de recolección adecuados para captarla y almacenarla. Esto dificulta su disponibilidad constante. ​
+
+La población no aplica ningún tipo de tratamiento al agua que consumen, ni tienen creencias o conocimiento sobre la necesidad de hacerlo. Como resultado, consumen directamente el agua sin considerar los posibles riesgos para la salud.​
+
+Para higiene personal, lavado de ropa y utensilios de cocina, la comunidad obtiene agua directamente del río. La falta de acceso a agua limpia y segura pone en riesgo la higiene y la salud de las personas.​
+
+Aunque existe un acueducto comunitario, lamentablemente no está en funcionamiento. Esta situación agrava la falta de acceso al agua potable y limita las opciones de abastecimiento para la población desplazada.​
+
+La presencia de minas en la zona representa un peligro adicional para la población, lo que dificulta aún más el acceso seguro al agua.​
+
+Las viviendas o alojamientos temporales cuentan con tasa campesina para la eliminación de desechos, pero debido al limitado acceso al agua, esta no funciona correctamente. Como resultado, las personas prefieren realizar sus necesidades directamente en el río, lo cual representa un riesgo para la salud y el medio ambiente.​
+
+La comunidad de acogida ha establecido un botadero a cielo abierto para la gestión de residuos. Este sistema es funcional, pero puede haber necesidad de mejorar las prácticas de manejo para evitar la proliferación de vectores y enfermedades asociadas.​
+
+Se manifiesta una alta presencia de mosquitos en las noches, lo que ha llevado a la manifestación frecuente de enfermedades como paludismo y malaria en la población. Esto indica la necesidad de implementar medidas de control y prevención adecuadas.​
+
+La población ha recibido asistencia básica en higiene por parte de actores locales y UARIV a través de la entrega de kits de aseo familiar. Sin embargo, no tienen conocimiento sobre la importancia del lavado de manos y otras buenas prácticas de higiene durante la emergencia. No asocian estas prácticas con la prevención de enfermedades.​
+
+No se ha considerado un enfoque diferencial en los kits de higiene entregados, lo que ha dejado sin cubrir las necesidades específicas de ciertos grupos, como aquellos que requieren pañales e higiene menstrual para garantizar una buena salud y bienestar.​
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Instalación de sistemas de recolección y almacenamiento de agua​
+
+Entrega de solución de tratamiento de comunitarios (cocina) y familiares​
+
+Fortalecimiento en conocimientos sobre temáticas WASH​
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => 95% de la población NO usa agua segura. ​
+
+100% de la población SI tiene acceso a jabón para realizar los procesos de higiene.​
+
+50% infraestructura total que cumple con los estándares esfera.​
+    [group_aa8xg30/group_jn0nm53/san] => Las comunidades desplazadas de Buenas Brisas, Cañaveral, San Agustín y Barranconcito se encuentran actualmente albergadas en la comunidad de San Miguel, ubicada aproximadamente a 2 horas de la cabecera municipal de Medio San Juan. La comunidad receptora apoyó a estas comunidades el día que llegaron con los alimentos y han continuado brindando ayuda al prestar los espacios, las ollas y las herramientas para poder preparar los alimentos. En este momento la alimentación de estas personas ha dependido exclusivamente de las ayudas alimentarias que han recibido, pues desde el desplazamiento no han podido acceder a sus medios de vida, ni a ningún tipo de ingreso.  
+
+Según lo informado por la comunidad y la institucionalidad, desde que se produjo el desplazamiento han recibido apoyo de emergencia por medio de alimentos para la olla comunitaria en 4 ocasiones. La primera vez de parte de la alcaldía de Medio San Juan, la segunda de organizaciones humanitarias (ACNUR, OCHA y la Diócesis), la tercera la recibieron en una visita que hizo un candidato a la alcaldía de Sipí y la última se trató de una ayuda enviada por la alcaldía de Sipí.  
+
+Al momento de desarrollar la ERN, se identificaron necesidades alimentarias urgentes. La principal barrera para el acceso a alimentos a la que se han enfrentado es la falta de ingresos y medios de vida. Antes de la emergencia las principales fuentes de trabajo a las que se dedicaban estas personas eran la agricultura y la minería. Cultivaban principalmente el arroz, la yuca, el ñame, el plátano y el maíz; productos que podían vender y tomar para el pan coger. Igualmente, tenían cultivo de especies menores como gallinas y cerdos. En este momento las comunidades manifiestan preocupación por sus cultivos y sus animales, pues debido al desplazamiento los animales quedaron solos y sin quien los alimente. Además, en este momento el arroz está en cosecha y sin nadie que la recoja esta se va a perder. En la comunidad de acogida, las comunidades desplazadas no han podido acceder a actividades productivas que les generen ingresos. Debido a esto, están dependido principalmente de las ayudas humanitarias para su subsistencia. Estas manifiestan que los alimentos que han recibido hasta ahora están próximos a agotarse, razón por la cual están haciendo solo 1 comida al día, que consiste en un arroz “clavado” (arroz con queso y en ocasiones salchicha). En las noches toman una colada preparada con harina. Este ejercicio de turnarse y preparar comunitariamente afecta los horarios de alimentación especialmente para NNA, mujeres gestantes y adultos mayores, de igual forma, no garantiza un tamaño de porciones adecuadas según las necesidades.  
+
+Estas comunidades hacen los alimentos en ollas comunitarias con las cocinas y elementos que la comunidad de acogida les ha permitido utilizar. Las 4 comunidades se turnan el espacio para realizar esta actividad y el combustible que utilizan es leña. Esta también es prestada por la comunidad de acogida. Al momento de realizar la ERN existía preocupación por que la leña estaba escaseando y no conocían los lugares en donde podían reponerla o volver a abastecerse de esta ya que en el territorio se presume presencia de artefactos explosivos, razón por la cual deben depender de alguien de la comunidad de acogida para indicaciones exactas que no vayan a poner en peligro a todos.  
+
+El equipo en terreno pudo presenciar el 1 de julio la entrega de kit de alimentos y de higiene tipo A por parte de la UARIV a las 116 familias que se desplazaron y declararon en el masivo inicial. Aunque estos kits están pensados para cubrir la alimentación durante 1 mes, según lo constatado con el enlace de víctimas se estima que estos kits van a alcanzar a cubrir la alimentación durante aproximadamente 15 días. Esto teniendo en cuenta que las familias en estas comunidades son bastante numerosas y los kits tipo A no se ajustan según número de integrantes. Sumado a esto, se identificaron 12 familias (27 personas) de la comunidad de San Agustín que se desplazaron en el transcurso de la última semana. Estas familias no recibieron kits por parte de la UARIV, sin embargo, el mismo día en que se llevaron a cabo las entregas la entidad levanto su declaración y según lo informado por parte del enlace de víctimas se estaría proyectando pronto una respuesta de parte de la institución a estas personas. 
+
+Para finalizar, es importante señalar que las necesidades alrededor de la seguridad alimentaria pueden extenderse debido a que aún no existen garantías para el retorno de estas personas a su territorio, lo que puede empezar a generar problemas no solo en temas de acceso, disponibilidad y consumo, si no que se sumaría las afectaciones especialmente en grupos vulnerables en el aprovechamiento biológico. Se recomienda mantener un monitoreo para dar seguimiento al estado de estas comunidades y evaluar si de prolongarse la emergencia continúa existiendo una respuesta desde la institucionalidad a las necesidades alimentarias de esta población.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => La comunida a sido atendida por parte de institucinalidad local y la UARIV con la entrega de alimentos duramte los primeros dias de la emergencia
+
+La población manifiesta que esta alimentacion recibida les alcanza hasta el 10 julio.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Dar seguimiento a la situación de la emergencia. En caso de activarse necesidad por acceso alimentos en la poblacion lograr complementarla.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => En el marco de la actual evaluación rápida de necesidades MdM delegó el levantamiento de información a los colegas de otros sectores pertenecientes a NRC. Previo al desarrollo de la misión se generó un espacio donde se compartió una herramienta para la recolección de datos en salud cuando MdM no puede estar presente en la evaluación. De igual manera, posterior a la evaluación se genera un espacio de retroalimentación con los hallazgos encontrados. 
+
+La población desplazada no ha logrado acceder a servicios de atención en salud y no se estima una atención pronta ya que la IPS que funciona en el municipio de Sipi no es la misma que opera en Medio San Juan, sin embargo, si bien aún no se define la fecha, desde la institucionalidad se plantea un ingreso corto con atenciones médicas y psicológicas enfocado en la población de acogida. 
+
+La Comunidad de San Miguel cuenta con espacio físico de centro de salud, sin embargo, éste no se encuentra en funcionamiento por falta de personal, por tanto, requeriría adecuaciones en caso tal que se defina ingreso por parte del sector salud (agregar fotos). Las emergencias médicas que requieren un mayor nivel de atención son trasladados hacia Dipurdú o Istmina de acuerdo a la gravedad de los síntomas y siempre respetando el toque de queda impuesto por el GAO de la zona, como medio de transporte se hace uso de un bote comunitario perteneciente a ACADESAN, sin embargo, este vehículo no siempre se encuentra disponible. De todas formas, para patologías no graves existen algunos médicos tradicionales y parteras quienes realizan formulación y seguimiento de estos pacientes. 
+
+Salud física: 
+
+Se reporta desde la comunidad incremento de enfermedad diarreica desde el desplazamiento debido al uso de fuentes de agua no seguras (agua lluvia, agua de río) para el consumo y preparación de alimentos, además se presentan síntomas respiratorios tipo catarro empeorado dadas las condiciones de hacinamiento bajo las cuales se encuentran expuestas las personas en situación de desplazamiento para esta alerta, sin embargo, para ninguna de las dos patologías se reportan casos de gravedad con requerimiento de hospitalización o mortalidad asociada. Se presentan de forma adicional y también relacionada al uso de agua no segura lesiones dermatológicas múltiples y de predominio en población infantil. 
+
+En el apartado de enfermedades tropicales no se evidencian casos documentados o reportados de dengue o malaria; NRC en actividades de primera fase realiza entrega de 254 toldillos a comunidad desplazada, pese a ello si es evidente la deficiencia en comportamientos seguros frente a enfermedades tropicales.  
+
+Se destaca la presencia de un caso de mordedura de roedor tipo rata en un menor de edad quien se presenta al equipo con herida en mano con signos aparentes de sobreinfección (eritema, edema, dolor, limitación funcional) tras lo cual, ante la ausencia de personal médico en el equipo, se realiza la recomendación acertada de asistencia al centro de salud más cercano para recibir atención integral. 
+
+Hay presencia de patologías crónicas tipo hipertensión arterial (HTA) y Enfermedad Pulmonar Obstructiva Crónica (EPOC), sin embargo, éstas, según la comunidad, se encuentran recibiendo tratamiento de manera inconstante dadas las dificultades propias del terreno y alto costo de bolsillo para hacer el debido reclamo de medicamentos.   
+
+Se identifican 4 embarazos en adolescentes, las cuales refieren no han recibido valoración médica alguna tipo control prenatal. De las 4 personas referenciadas 1 debió salir de urgencia hacia el municipio de Istmina por aparentemente trabajo de parto activo. Desde la institucionalidad no se reportan casos de morbilidad materna extrema o mortalidades por esta causa. 
+
+Se identifican 2 adultos mayores con aparentes complicaciones medicas graves originadas durante la emergencia con síntomas y signos asociados a ictus, sin embargo, la información por parte de la comunidad no es clara al respecto, de igual forma se desconoce la razón por la cual pese a tratarse de casos aparentemente graves con consecuencias posiblemente catastróficas, teniendo en cuenta que para ese momento existía movilidad sobre el río San Juan, estas personas no recibieron atención médica de urgencias; se presume que debido a los altos costos de transporte sumado a aspectos de seguridad contextual impidieron el traslado de estas personas para atención médica integral. 
+
+En cuanto a salud sexual y reproductiva (SSR) existe un interés colectivo en atenciones de SSR, particularmente hacia métodos de planificación familiar a largo plazo tipo implante subdérmico, esto debido a que las mujeres manifiestan que se les dificulta acceder a métodos anticonceptivos por los altos costos y la muy baja disponibilidad de los mismos. 
+
+Los niños cuentan con esquema de vacunación al día, última jornada de vacunación realizada hace 3 meses.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Salud mental:  
+
+Solicitud expresa de atención en salud mental 
+
+Sentimientos de miedo, zozobra y desesperanza generalizado 
+
+Dada la percepción de peligro las familias mantienen a sus hijos en casa, los niños presentan dificultades para dormir y enuresis 
+
+No existen a la fecha espacios de recreación o uso del tiempo libre 
+
+Mujeres cabeza de hogar reportan síntomas de tristeza, ansiedad y estrés 
+
+Se identifican riesgos asociados a VBG, sin embargo, no se reportan casos a la fecha 
+
+No hay reporte de eventos en salud mental que potencialmente amenacen la vida 
+
+No hay percepción de aumento de consumo de SPA principalmente dado por normas de convivencia impuestas por GAO, sin embargo, durante la evaluación se evidencia alto consumo de alcohol, situación aparentemente normalizada 
+
+Existe la sospecha de situaciones asociadas a trabajo infantil dadas las condiciones de vida actuales.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => No se identificaron casos con esta necesidad al momento de la ERN
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Incremento de enfermedad diarreica desde el desplazamiento por uso de fuentes de agua no seguras y síntomas respiratorios por condiciones de hacinamiento, sin embargo, no se reportan casos de gravedad con requerimiento de hospitalización.​
+
+No casos documentados o reportados de dengue o malaria; NRC en actividades de primera fase realiza entrega de 254 toldillos a comunidad desplazada, deficiencia en comportamientos seguros frente a enfermedades tropicales.​
+
+Dificultades de acceso a tratamiento de ENT y planificación familiar dados altos costos y baja disponibilidad, con solicitud expresa de atención en SSR. Identificadas 4 gestantes adolescentes aparentemente sin controles prenatales, 1 de ellas debió desplazarse a Istmina por trabajo de parto.​
+
+Hay previstas atenciones para población de acogida por parte del municipio de Medio San Juan, no incluye población desplazada pues esta se encuentra afiliada al municipio de Sipí.​
+
+No reportes comunitarios ni institucionales de DNT o morbilidad materna extrema.​
+
+Última jornada de vacunación hace 3 meses.​
+
+2 casos reportados no documentados de signos y síntomas stroke-like en adultos mayores.​
+
+Solicitud expresa de atención en salud mental​
+
+Sentimientos de miedo, zozobra y desesperanza generalizado​
+
+Dada la percepción de peligro las familias mantienen a sus hijos en casa, los niños presentan dificultades para dormir y enuresis​
+
+No existen a la fecha espacios de recreación o uso del tiempo libre​
+
+Mujeres cabeza de hogar reportan síntomas de tristeza, ansiedad y estrés​
+
+Se identifican riesgos asociados a VBG, sin embargo, no se reportan casos a la fecha​
+
+No hay reporte de eventos en salud mental que potencialmente amenacen la vida​
+
+No hay percepción de aumento de consumo de SPA principalmente dado por normas de convivencia impuestas por GAO, sin embargo, durante la evaluación se evidencia alto consumo de alcohol, situación aparentemente normalizada​
+
+Existe la sospecha de situaciones asociadas a trabajo infantil dadas las condiciones de vida actuales. ​
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => Existen vacíos de información principalmente dados por los limitados datos aportados por parte de la institucionalidad, de igual forma, pese a que en territorio se encuentran otros actores humanitarios, a la fecha no ha sido posible establecer contacto con los colegas que puedan ampliar información en salud asociada a la emergencia. Se resalta a modo de lección aprendida la importancia de generar espacios de aprendizaje y retroalimentación con los colegas del consorcio cuando es necesario levantar información en ausencia del sector salud. ​
+
+Es necesario verificar particularmente con Médicos sin Fronteras, quienes tienen base de operaciones en Istmina, si existen intenciones de ingreso y respuesta debido a que, según lo expresado por la comunidad, se realizó un ejercicio de evaluación (aparentemente). Hasta la fecha no ha sido posible generar este espacio de conversación con MSF.​
+
+Es de vital importancia la articulación con puntos focales de seguridad, dadas las nuevas condiciones del contexto con la entrada en rigor de paro armado indefinido por parte de uno de los GAO.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => Número de personas afectadas entre 500 y 1500.​​ No​​
+
+¿Hay necesidad expresa de atención en salud física?​​ ​​No
+
+¿Existen situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia?​​ Si​​
+
+¿Existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida?​​ Si​​
+
+¿Hay reportes y/o aumento de Violencia Basada en Género durante el último mes?​​ Si
+
+​​
+
+​​
+    [group_aa8xg30/group_tb5de96/EIE] => Al momento de la evaluación se identifican 132 NNA en la comunidad de acogida (San Miguel de Medio San Juan), pertenecientes a las instituciones educativas de Santa teresita de Cañaveral (Comunidad de San Agustín, Buenas brisas y Cañaveral) y a la IE Unión Charco Largo (Comunidad de Barranconcito ). La IE Santa Teresita de cañaveral en su sede principal ubicada en Cañaveral, presta los servicios educativos en primaria, básica y media, mientras que en las sedes de Buenas Brisas y San Agustín solo oferta educación primaria, lo mismo sucede con La sede de Barranconcito.  
+
+Las 4 comunidades quedan geográficamente cerca, las distancias entre una y otra en recorridos fluviales están en un promedio de 10 minutos por lo cual los diferentes hechos asociados al conflicto que se puedan presentar en cualquiera de ellas suelen afectarlas en conjunto. En ese sentido las comunidades manifiestan que durante el mes de mayo hubo intermitencia en el servicio educativo a razón de la presencia continua de los GANEs y enfrentamientos en inmediaciones de los asentamientos. Situación que desencadeno en el desplazamiento de las mismas el día 18 de junio del presente año. Para esta fecha los NNA se encontraban en periodo de vacaciones, sin embargo, el inicio de clases está programado para el día 4 de Julio, teniendo en cuenta que las comunidades aún permanecen en la comunidad de San Miguel los NNA no podrán retornar a las clases hasta no normalizarse la situación o hasta que no se brinden alternativas por parte de la institucionalidad. Actualmente la población y los NNA se encuentran ubicados en la casa comunitaria de San Miguel adecuada como albergue y algunas otras familias se han establecido en casas de conocidos, familiares o casas que se encontraban desocupadas y fueron destinadas para su alojamiento con el permiso de la comunidad receptora. Dado el periodo de vacaciones los docentes tampoco se encuentran en el territorio y por las recientes restricciones es poco probable que retornen a sus puestos en lo inmediato. 
+
+Los NNA se encuentran escolarizados sin embargo por la emergencia existe riesgo de deserción escolar, dado que en el lugar de acogida no se ubican al momento opciones para lograr continuar con las clases y no se cuenta con un espacio temporal de aprendizaje seguro e inclusivo establecido. También se identifica que, muchos de los NNA han sido trasladados a otros municipios o enviados con familiares por el temor de las familias frente a los riesgos de protección existentes principalmente por el alto riesgo de reclutamiento, en este mismo sentido la escuela de San miguel no cuenta actualmente con la capacidad física ni  de planta docente para la recepción de los NNA afectados por la emergencia, tampoco se cuenta con planes de contingencia ni planes de respuesta para afrontar emergencias por parte de la institución educativa y las autoridades locales que permitan garantizar el derecho a la educación durante la emergencia. 
+
+A la vez las comunidades manifiestan riesgos asociados a la presencia de MAP y MSE, tanto en sus comunidades como en la comunidad de acogida, el antecedente más reciente es que en el mes de septiembre del 2022 se encontraron MSE en inmediaciones de la escuela de San Miguel. También se identifica que en los espacios escolares y en cercanía de los mismos se encuentra ubicado un campamento del ejercito instalado a raíz de la emergencia, sin embargo, esto representa un riesgo para las comunidades desplazadas y la comunidad de acogida en especial para los NNA siendo una violación directa al DIH y la declaración de escuelas seguras.  
+
+Al momento de la evaluación no se han generado espacios de recuperación y/o continuidad del servicio educativo, primeros auxilios emocionales y/o adaptación de los contenidos educativos con los NNA, Tampoco se cuenta con ningún tipo de material pedagógico o lúdico e incluso se evidencia la falta de prendas de vestir principalmente para los NNA.   Las comunidades manifiestan que la población infantil se encuentra bastante afectada en términos emocionales y psicosociales, esto se refleja en falta de sueño, zozobra, miedo y manifestaciones físicas relacionadas al control de esfínteres a la hora de dormir. 
+
+Si bien al momento de la evaluación no se contó con la presencia de personal docente es necesario poder generar espacios de formación con agentes educativos comunitarios, que permitan establecer planes de  respuesta educativa en situaciones de emergencia tanto para la situación actual como para otros eventos posibles, de la misma manera es clave generar espacios de formación y sensibilización con NNA en términos de autocuidado, comportamientos seguros, y recuperación educativa para minimizar los impactos que se pueden generar por el no retorno a clases en  los tiempos establecidos según el calendario académico, además es importante fomentar actividades lúdicas y de recuperación emocional que fortalezcan las capacidades asociadas a la resiliencia . 
+
+La mayoría de información recolectada se da en el marco de los diálogos con la comunidad, los lideres y la institucionalidad de Medio San Juan (municipio receptor) por lo que ha sido complejo establecer datos concretos frente a los niveles de deserción escolar en los últimos meses ya que la comunicación con el rector y la institucionalidad de sipi se encuentra demasiado reducida a causa de la emergencia y el confinamiento que viven actualmente en el municipio, a pesar de ello las familias manifiestan que en general todos los NNA de las comunidades están matriculados y asisten a clases previo al momento del desplazamiento.  
+
+Se ha observado que las aulas existentes en la comunidad aparentemente son suficientes para albergar a los estudiantes, lo que sugiere la posibilidad de implementar la alternancia como medida para trabajar con los niños del desplazamiento en otra jornada. Sin embargo, existe una preocupación latente acerca del posible hacinamiento escolar una vez se inicien las actividades educativas. Además, se desconoce la estrategia que las autoridades locales plantean para el desarrollo de los entornos escolares, y la comunidad no ha presentado iniciativas para abordar esta situación.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Se identifican 132 NNA en la comunidad de acogida (San Miguel de Medio San Juan), pertenecientes a las instituciones educativas de Santa teresita de Cañaveral (Comunidad de San Agustín, Buenas brisas y Cañaveral) y a la IE Unión Charco Largo (Comunidad de Barranconcito ). La IE Santa Teresita de cañaveral en su sede principal ubicada en Cañaveral, presta los servicios educativos en primaria, básica y media, mientras que en las sedes de Buenas Brisas y San Agustín solo oferta educación primaria, lo mismo sucede con La sede de Barranconcito. ​
+
+Riesgo de incremento de la Deserción  dado que los NNA no retornaran a clases con normalidad ya que estas inician el 4 de julio  y Dadas las condiciones de permanencia y el anuncio de  nuevas restricciones las comunidades permanecen en San Miguel . ​
+El 95% de los  NNA se encuentran escolarizados sin embargo por la emergencia existe riesgo de deserción escolar, dado que en el lugar de acogida no se ubican al momento opciones para lograr continuar con las clases y no se cuenta con un espacio temporal de aprendizaje establecido. ​
+
+Riesgo de protección infantil presentes en la comunidad, asociados a riesgos  de reclutamiento,  MAP y MSE, tanto en sus comunidades como en la comunidad de acogida. (el antecedente más reciente es que en el mes de septiembre del 2022 se encontraron MSE en inmediaciones de la escuela de San Miguel.​
+
+También se identifica que en los espacios escolares y en cercanía de los mismos se encuentra ubicado un campamento del ejercito instalado a raíz de la emergencia, sin embargo, esto representa un riesgo para las comunidades desplazadas y la comunidad de acogida en especial para los NNA siendo una violación directa al DIH y la declaración de escuelas seguras. ​
+
+Al momento de la evaluación no se han generado actividades dirigidas a reducir las afectaciones psicosociales ni a la recuperación emocional, no cuenta con ningún tipo de material pedagógico o lúdico e incluso se evidencia la falta de prendas de vestir principalmente para los NNA.   ​
+
+Las comunidades manifiestan que la población infantil se encuentra bastante afectada en términos emocionales y psicosociales, esto se refleja en falta de sueño, zozobra, miedo y manifestaciones físicas relacionadas al control de esfínteres a la hora de dormir.​
+
+Si bien al momento de la evaluación no se contó con la presencia de personal docente es necesario poder generar espacios de formación con agentes educativos comunitarios, que permitan establecer planes de respuesta educativa en situaciones de emergencia tanto para la situación actual como para a otros eventos posibles. ​
+
+Se requieren espacios de acompañamiento y  sensibilización con NNA en términos de autocuidado, comportamientos seguros, y refuerzo escolar para minimizar los impactos que se pueden generar por el no retorno a clases en los tiempos establecidos según el calendario académico.​
+​
+Actividades de  recuperación emocional que  permitan fortalecer capacidades asociadas a la resiliencia de toda la comunidad educativa.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => Dar seguimiento a la situacion de la emergencia, brindar espacios de acompañamiento a los NNAJ, acciones de ocupacion del tiempo libre y entrega de NFI.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => Hay Presencia de Ataque a la Escuela de la comunidad (Acampamiento de Actores armados Legales e ilegales en la escuela y/o Camino a ella, Uso y utilización de la escuela por los actores armados, Fuego cruzado, Presencia de Artefactos explosivos en la escuela, alrededor y camino hacia ella, uso, utilización y vinculación por parte de los Actores amados de estudiantes y docentes). SI.​
+
+Suspensión del servicio educativo de la Institución o Sede educativas afectada durante la emergencia. SI​
+
+Se identifica afectación en niños, niñas y adolescentes ante la presencia 1 ó + riesgos de protección durante la emergencia: (1) deserción y abandono escolar de los niños, niñas y adolescentes por el conflicto armado, (2) Incremento de los riesgos de uso, utilización y vinculación de los niños, niñas y adolescentes, (3) violencias basadas en género, abuso sexual y prostitución de los niños, niñas y adolescentes por el conflicto, (4) Afectación Psicosocial de los niños, niñas y adolescentes durante y después de la emergencia, (5) incidentes y/o Accidentes por artefactos explosivos (MAP-MSE-TE) en la escuela, alrededor o camino a ella.  SI ​
+
+Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. NO​
+
+La escuela  cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO​
+
+La Institución Educativa cuenta con Plan de Gestión de riesgo escolar y la ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación).  NO.​
+    [group_aa8xg30/group_tb5de96_001/TM] => Al utilizar las herramientas de análisis de mercados, riesgos y observación directa se pudo determinar que el contexto del mercado en Istmina presenta condiciones para poder llevar a cabo una distribución de CASH de manera exitosa. En Istimina se encuentra un mercado urbano con una amplia y diversa gama de bienes y servicios. Presenta unas buenas capacidades de abastecimiento, que le permiten responder a aumentos en la demanda e incluso a mantenerse operativo cuando se presentan cierres o bloqueos en las vías que conectan a este municipio.  
+
+En la cabecera municipal de Istimna se encuentran varias sucursales de distintos proveedores financieros con la capacidad operativa para entregar CASH. En la observación directa se alcanzaron a identificar alrededor de 5 puntos de Efecty y más de 10 de Super Giros. La distribución de las ayudas del Estado es realizada por medio de Efecty. 
+
+Las comunidades desplazadas de Buenas Brisas, Barranconcito, San Agustín y Cañaveral se encuentran refugiadas en la comunidad de San Miguel. En esta se identifica una buena actividad comercial con tiendas medianas y abastecidas. También hay personas que se abastecen en la cabecera municipal de Istmina, que se encuentra a aproximadamente 3 horas. El pasaje en el bote tiene un costo de 50 mil pesos por trayecto (100 mil ida y regreso), y los horarios en que funciona es de 7 a.m. a 4 p.m. El mercado es activo y no presenta cambios en su dinámica, sin embargo, las comunidades afectadas por esta emergencia en el momento no tienen acceso este debido a la carencia de recursos para abastecerse y han dependido exclusivamente de las ayudas alimentarias recibidas.  
+
+Las vías que comunican a la comunidad con la cabecera municipal son fluviales. En el trayecto es posible encontrarse puestos de control operados por los actores armados que operan en el territorio. Se pueden llegar a presentar bloqueos en el río. En este momento se deben monitorear las condiciones de movilidad teniendo en cuenta el paro armado decretado por el ELN a partir del 4 de julio. Al momento de visitar a las comunidades en San Miguel existía además una restricción de movilidad en el Río Sipí. Esto, sumado al paro armado son razones por las cuales aún no existen garantías para el retorno de estas personas a su territorio. En las carreteras que conectan Quibdó con Istmina pueden llegar a presentarse bloqueos, sin embargo, recientemente esto no ha llegado a tener un impacto significativo sobre el abastecimiento de los mercados. 
+
+La principal barrera que se encuentra en esta población para acceder al mercado es la falta de recursos económicos. Como resultado de la emergencia, esta población no ha podido acceder a sus medios de vida y no cuentan con un ingreso estable que les permita el abastecimiento de alimentos ni bienes de primera necesidad. Como se ha mencionado ya, estas comunidades han venido recibiendo ya algunas ayudas de parte de la alcaldía de Medio San Juan, la UARIV y otras organizaciones. Durante la recolección de información para esta ERN la UARIV se encontraba haciendo entrega de Kits de alimentos y de higiene. Se recomienda mantener un monitoreo a las ayudas entregadas, pues de prolongarse esta emergencia hay necesidades alimentarias que van a persistir y la capacidad institucional para responder puede llegar a verse desbordada.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => En Istmina La circulación de mercancías no presenta mayores problemas. Se pueden llegar a presentar bloqueos en la carretera, sin embargo, los establecimientos comerciales tienen capacidad de abastecimiento suficiente para enfrentar estas situaciones. Existen diversidad de tiendas y comercios con una amplia gama de oferta de bienes y servicios. Se identificaron varios puntos de Efecty y Super Giros en la cabecera municipal de Istimna. Estos cuentan con la capacidad operativa para distribuir CASH. Desde Efecty se distribuyen las ayudas que llegan del Estado.​
+
+La oferta del mercado es amplia y tiene la capacidad de responder a aumentos en la demanda, pues se trata de un mercado urbano. En la cabecera municipal de Istmina hay tanto tiendas minoristas como mayoristas. En Andagoya se identificó un mercado mediano con condiciones similares a Istmina, pero con una oferta y capacidad de abastecimiento más reducida mientras en la comunidad de San Miguel existen tiendas pequeñas que proveen los alimentos básicos.​
+
+Para acceder al mercado en Istmina estas personas deben movilizarse en lancha por el río en un trayecto de aproximadamente 3 horas en donde el pasaje cuesta 100 mil pesos. El tránsito por el río está controlado por los GANE que operan en el territorio y en ocasiones puede verse restringido. En este momento la principal barrera para acceder a los mercados que tiene esta población es  la falta de acceso a ingresos y trabajo.​
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Monitorear la emergencia para ver como evoluciona la emergencia y analizar nuevamente si es necesario activar CASH.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 350
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 1
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 10
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Liliana Zamira Diaz Lerma
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3113642377
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Personera Medio San Juan
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Felipe
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3146481445
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => ACEDESAN
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => Johana
+    [group_aa0qz67/group_de0zc49/_3d_Celular] => +57 312 2800047
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => Fiscal Comunidad San Miguel Medio San Juan
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:ffc5568b-1171-4606-ab50-de4c080f5578
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => ffc5568b-1171-4606-ab50-de4c080f5578
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-07-06T15:11:53
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

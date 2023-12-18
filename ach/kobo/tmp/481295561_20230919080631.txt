@@ -1,0 +1,102 @@
+stdClass Object
+(
+    [_id] => 481295561
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-09-18T09:03:09.456-05:00
+    [end] => 2023-09-19T08:06:24.399-05:00
+    [group_kp1mu41/_1_C_digo] => NARI-925.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-09-18
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-08-15
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-09-18
+    [group_kp1mu41/_4_Departamento] => NARIÑO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => El Palacio y El Alto
+    [group_kp1mu41/num_comunidades] => 2
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => ALGUNA
+    [group_kp1mu41/_8_Comunidad] => CF000447974
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Angie Lorena Carvajal
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3102166477
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion_PR R8_Cash
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-12/Asesoramiento_jurídico 2-R1-1.3-5-13/Apoyo_psicosocial_(individ
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2023-08-16
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2023-09-18
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => N/A
+    [group_wo86e58/group_zh0iq179/R8_Actividades_Cash] => 4-R8-8.1-36-2-Entrega 4-R8-8.1-36-3-Monitoreo
+    [group_wo86e58/group_zh0iq179/Fecha_de_ingreso_NRC_Cash] => 2023-08-15
+    [group_wo86e58/group_zh0iq179/Fecha_de_salida_NRC_Cash] => 2023-09-11
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => Durante la etapa de respuesta a la situación de emergencia provocada por los enfrentamientos que ocurrieron en el municipio de Los Andes, NRC detectó un total de 10 casos que presentaban altas demandas en cuanto a protección de sus derechos. Es relevante señalar que las urgencias de estas personas están relacionadas principalmente con la necesidad de contar con descarga emocional y  atención psicológica,  debido a la experiencia de enfrentamiento y desplazamiento que tuvieron que afrontar, en acceso a servicios de salud mental, acceso a servicios esenciales de salud, recepción de ayuda humanitaria proporcionada por UARIV, orientación en la activación de protocolos en situaciones victimizantes como amenazas e intimidaciones, abandono de bienes y tierras.
+
+NRC está respondiendo a 9 de los casos identificados proporcionando una variedad de servicios entre estos  servicios de apoyo psicosocial individual estructurado que incluyen la remisión a otros servicios de asistencia y transferencias monetarias para brindar protección, espacios de descarga emocional  así como el asesoramiento legal para garantizar el acceso a sus derechos y rutas de protección. En lo que respecta a la gestión de casos desde una perspectiva legal, se ha brindado asistencia legal a 7 personas para acceder a servicios de atención médica proporcionados por el proveedor de servicios de salud, en solicitudes ante UARIV para recibir ayuda humanitaria que les permita cubrir sus necesidades en los meses venideros y se brindó 1 servicio de orientación en ruta de indemnización, momentos de las ayudas humanitarias y abandono de tierras.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => Se realiza únicamente acciones en el componente individual de gestión de casos.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => N/A
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => N/A
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => Los NNA identificados en el  marco del desplazamiento tienen oferta educativa por la institucionalidad en modalidad a distancia a través de guías y grupos de WhatsApp.  La institucionalidad está iniciando la presencialidad en la zona rural.
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => La emergencia se enmarca como un desplazamiento, en la actualidad la mayoría de las familias estan regresando a sus veredas de origen lo que supone una reconfiguración de la emergencia inicial y lo que supondría una poca participación de las personas en los espacios de atención; si bien las veredas son cercanas al casco urbano, no podemos promover la movilización de las personas para la recepción de una atención porque supondría un riesgo a su seguridad y una acción con daño.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => No se proyectan acciones, dado que, en el marco de la emergencia las necesidades estaban cubiertas, a través de la atención de UARIV y la oferta institucional.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => N/A
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => No se proyecta asistencia alimentaria en especie, dado que, las familias desplazadas recibieron asistencia alimentaria (no perecederos) por parte de la UARIV.
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => El número de personas afectadas por la emergencia es menor a 500. No hay necesidad expresa de atención en salud física. No existen situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia. No existe aumento sobre la línea basal de eventos en salud mental que potencialmente amenacen la vida. No existen reportes y/o aumento de Violencia Basada en Género durante el último mes.
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => OTRAS
+    [group_zj0tq00/_Cu_les_Otras] => Comunicación
+    [group_zj0tq00/Dificultades_encontradas_Otras] => Obstáculos para la efectiva comunicación con las personas a quienes se les acompaña en la gestión de sus casos desde protección, dada la poca señal telefónica con la que cuenta en sus veredas.
+    [group_zj0tq00/Medidas_adoptadas_Otras] => Establecimiento de canales de comunicación diversos entre estos mediante WhatsApp y mensajes de texto, además de ubicación de la persona mediante el contacto telefónico de otro familiar, coordinar citas con fecha y hora de contacto mediante mensaje de texto que permitió la atención de la persona.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 80
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 2
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 2
+    [group_kq5co41/group_zo3ck85/_Cual] => Enlace de víctimas y Personero municipal
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => María Rosalba Oviedo
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3224234785
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Líder Comunitaria
+    [group_ek1nq87/Observaciones] => Bajo la modalidad de CASH multipropósito se atendieron 60 familias (150 personas) de la vereda El Palacio que permanecían en condición de desplazamiento en el casco urbano de Los Andes Sotomayor; destacando necesidades en alimentos perecederos y apoyos económicos para alojamiento. 
+
+El Consorcio MIRE llevó a cabo acciones complementarias que permiten a las familias satisfacer sus necesidades durante un periodo de tiempo más prolongado. Esto se debe a que las necesidades ocasionadas por la emergencia persisten, y aunque algunas familias han considerado regresar, no existen condiciones de seguridad para retorno digno, lo que crea escenarios de vulnerabilidad que aumentan las necesidades.
+
+Para conocer el impacto de la ayuda humanitaria entregada se desarrollaron 24 líneas base, siendo efectivas 20 líneas de salida, en el cual se destacan los siguiente hallazgos:
+
+1. Las familias encuestadas manifestaron que se sintieron seguras durante el proceso de entrega de la ayuda y durante el proceso de retiro de esta en la entidad destinada para tal fin.
+2. De acuerdo con las familias encuestadas la entidad designada para el retiro del efectivo multipropósito fue la correcta tanto en acceso como en disponibilidad del recurso. 
+3. La decisión de como invertir el efectivo multipropósito fue tomada en su conjunto por el grupo familiar. 
+4. El efectivo multipropósito fue invertido en su mayor medida en necesidades básicas como alimentos, arriendo, deudas. Además, algunos encuestados mencionaron que invirtieron la ayuda en otras necesidades insatisfechas como artículos de higiene, salud, transporte y educación. 
+5. En el marco de la atención las familias mencionaron su agradecimiento por las acciones complementarias. El dinero en efectivo les permite atender necesidades individuales y al interior de los hogares.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:f819e792-5068-4d5b-a57b-b857d81c7dbe
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => f819e792-5068-4d5b-a57b-b857d81c7dbe
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-19T13:06:30
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

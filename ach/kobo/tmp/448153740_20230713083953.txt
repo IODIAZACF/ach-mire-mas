@@ -1,0 +1,86 @@
+stdClass Object
+(
+    [_id] => 448153740
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-05-25T17:56:36.228-05:00
+    [end] => 2023-07-04T19:58:43.591-05:00
+    [group_gu1lq88/Departamento] => ANTIOQUIA
+    [group_gu1lq88/municip_antioquia] => SEGOVIA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Resguardo indigena Tagual La Po
+    [group_gu1lq88/Nombre_de_la_comunidad] => Tagual La Po
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-06-29
+    [group_gu1lq88/Nombre_de_quien_reporta] => ANGELICA PINO MENA
+    [group_gu1lq88/Cargo] => NRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC OrganismoPublico SNARIV CTJT
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => ENFRENTAMIENTOS
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Por enfrentamientos en la zona rural del municipio de Segovia y Monte Frio, que se han venido presentando desde mayo del presente año, donde los últimos de registraron en el día jueves 29 de junio. Y por las situaciones que se presentaron de fuerte presencia de actores armados, retenes, establecimiento de restricciones a la movilidad, se configuro el confinamiento de las familias del resguardo indígena de Tagual la Po.
+
+Por ser un resguardo con viviendas dispersas las familias decidieron movilizarse hasta el punto central de la comunidad donde existe una mayor presencia de población como medida de protección antes la presencia de actores armados.
+Se han presentado, además amenazas a las figuras de liderazgo del resguardo que acrecenté la situación de riesgo de la comunidad.
+    [group_yv1ph08/time2] => 2023-06-29
+    [group_yv1ph08/time3] => 0
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Se presentan necesidades de alimentación, elementos de habitat, atención en salud por casos de graves, acceso agua, mecanismo de protección y implementación de educación en emergencia.
+    [group_cn9za51/familias] => 105
+    [group_cn9za51/personas] => 503
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => El acceso al resguardo se realiza desde Segovia por via destapada en una duración de aproximadamente 4 hrs.
+    [group_mu9ho06/Seguridad] => Existe fuerte presencia de actores armado en la zona. 
+La guardia indígena está prestando seguridad en la comunidad.
+    [group_mu9ho06/Operativa] => -
+    [group_mu9ho06/Observaciones] => -
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:cd0c3194-4ff2-4c29-915b-e32470caa2c9
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => cd0c3194-4ff2-4c29-915b-e32470caa2c9
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-07-05T00:58:42
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

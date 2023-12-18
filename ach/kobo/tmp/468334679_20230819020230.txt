@@ -1,0 +1,264 @@
+stdClass Object
+(
+    [_id] => 468334679
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-08-19T01:33:06.705-05:00
+    [end] => 2023-08-19T02:00:46.279-05:00
+    [group_pl6la06/_1_C_digo] => NALA-925.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-08-08
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-08-12
+    [group_pl6la06/_4_Departamento] => NARINO
+    [group_pl6la06/NARINO] => LOS ANDES
+    [group_pl6la06/_6_Urbano_Rural] => URBANO
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => El Palacio
+    [group_pl6la06/_8_Comunidad] => El Palacio
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => OCHA
+    [group_mb5pt53/_1a_Evaluador] => Raul Camilo Villate
+    [group_mb5pt53/_1b_Celular] => 3102166465
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Katherine Álvarez
+    [group_mb5pt53/_2b_Celular] => 3102994693
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_3a_Evaluador] => Laura Rincon
+    [group_mb5pt53/_3b_Celular] => 3208543434
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-07-29
+    [group_rq63s60/_1c_Descripci_n_del_evento] => El municipio de Sotomayor Los Andes está ubicado al noroccidente del departamento de Nariño. El municipio limita con los municipios de Cumbitara y Policarpa, al sur con el municipio La Llanada, en el oriente con el Municipio El Peñol y Linares y en el occidente con el municipio de Barbacoas. Su ubicación geográfica que conecta la cuenca del Patía, el piedemonte de la cordillera occidental y la Llanura del Pacifico, así como su papel relevante en la extracción minera de oro de filón y veta de alto quilate; Han configurado históricamente al municipio como un territorio estratégico de tránsito y control para los actores armados, y, por tanto, un espacio de disputa y confrontación territorial.
+
+En la última década en el municipio el nivel de confrontación entre actores armados había disminuido significativamente; sin embargo, en los últimos meses aumento la presencia y se intensificaron los enfrentamientos entre las disidencias de las FARC y el ELN por el control y el manejo de las economías territoriales. Esto ha desencadenado la imposición de medidas de control territorial como la expulsión de población refugiada y migrante bajo pena de “ajusticiamiento”, la contaminación por minas antipersonales (MAP), la imposición de conductas, restricciones a la movilidad, entre otros. Esta situación de disputa e imposición de conductas por parte de los actores armados está afectando de forma general a las veredas y corregimientos ubicados en la zona alta de la cordillera entre ellos; i) Las veredas El Palacio, La Esmeralda, Quebrada honda, Cordillera y cabecera del corregimiento El Carrizal, ii) La Vereda de Campo Bello del corregimiento Pangus, y iii) Las Veredas El Alto y La Loma del corregimiento San Sebastián.
+
+En el marco de las confrontaciones entre disidencias de las FARC, ELN y fuerzas militares en los últimos dos meses se han producido dos desplazamientos; El primero ocurrió el 18 de junio en la vereda La Loma, allí aproximadamente 300 personas arribaron al casco urbano por el combate entre las disidencias y las fuerzas militares. Durante este hecho la sede educativa fue ocupada por parte de los actores armados. Una vez en el casco urbano, las familias realizaron la declaración del hecho, recibieron asistencia por parte de UARIV, y a la fecha ya regresaron por voluntad propia, pese la falta de garantías de seguridad y dignidad en el territorio.
+
+El segundo desplazamiento ocurrió el pasado sábado 29 de julio, en el cual arribaron al casco urbano del municipio de Sotomayor un total de 148 familias de las veredas El palacio y El Alto. Inicialmente las familias se movilizaron por un mensaje sobre el riesgo de bombardeo en el marco de las confrontaciones entre actores en la zona. Las familias, durante los días siguientes intentaron regresar a sus viviendas, sin embargo, se presentaron confrontaciones entre fuerzas militares y disidencia en las que algunas viviendas de la comunidad fueron afectadas por la explosión de artefactos explosivos. Posterior, al evento las familias fueron atendidas con entregas comunitarias de alimentos por parte del municipio, así como asistencia con Kits de alimentos, higiene y alojamiento familiares por parte de UARIV.
+
+En el momento de la ERN, la mayoría de las familias de la vereda El Palacio se encuentran en la cabecera del municipio, las familias están alojadas en casas de familiares, amigos y algunas están pagando arriendo. La comunidad expresa su intención de retornar y está a la espera de unas condiciones mínimas de seguridad para regresar; La principal solicitud de la comunidad es el desminado, ya que sospechan la presencia de zonas contaminadas MAP y MUSE, lo cual fue confirmado por la comunidad por un incidente en el que murió un caballo.
+
+Por otra parte, Las familias de la vereda el Alto han regresado pese a la falta de garantías en materia de seguridad y dignidad, y actualmente se encuentran en medio de las tensiones e imposiciones por el control territorial por parte de actores armados.
+    [group_rq63s60/group_lm6cx76/a_Social] => La situación de emergencia ha generado una serie de cambios sociales. En primer lugar, debido a amenazas provocadas por un GANE, casi el total de la población migrante que se encontraba en la zona abandonó el territorio, sólo quedaron en el territorio los migrantes que ya llevaban varios años en la comunidad y que gozaban de total regularidad (10 personas). 
+
+La aparición de disputas territoriales ha generado parálisis comunitarias en varios de los procesos de desarrollo social, en este sentido, las comunidades se han visto replegadas o limitadas en su accionar sobre el territorio en los temas de acceso al trabajo y a medios de subsistencia, a la salud, a la educación, a la recreación, al pleno desarrollo cultural e incluso en su proceso de consulta electoral. Las comunidades han optado por hacer seguimiento casi estricto, a las disposiciones emitidas por los grupos mediante los distintos canales de información que la población ha recibido sean estos o no validados o verificados.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => La situación que atraviesan las familias debido al recrudecimiento del conflicto armado las coloca en una situación extremadamente compleja, caracterizada por niveles significativos de vulnerabilidad. Cabe destacar que, quienes experimentan el mayor impacto en este contexto son los adultos mayores. El abandono de sus hogares, sus medios de vida y sus rutinas cotidiana ha tenido un profundo efecto en este grupo poblacional. Esta situación ha ejercido un peso desproporcionado sobre ellos, descubriendo una serie de desafíos y dificultades que merecen especial atención y apoyo.
+
+Actualmente, los principios esenciales para el retorno, que incluyen la voluntad, la seguridad y la dignidad, no se cumplen ni se garantizan en su totalidad. La mayoría de las familias de la vereda El Alto optaron por regresar, a pesar de las condiciones de seguridad. Sin embargo, estas no han vuelto a la normalidad, las comunidades raramente se han vuelto a reunir en la zona rural, han preferido quedarse en sus hogares, y esto ha generado un clima de temor y ansiedad.
+
+Por otro lado, debido a la falta de conocimiento sobre el acceso a derechos en el contexto de la emergencia, algunas familias se sienten incomodas al solicitar asistencia, percibiendo que están siendo intrusivas. Esta percepción influye en su inquietud acerca de regresar a sus hogares en la zona rural.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Debido al desplazamiento, las familias han perdido el acceso a sus fuentes de sustento, lo que ha resultado en la interrupción de sus actividades económicas fundamentales para la generación de ingresos, y que son esenciales para satisfacer sus necesidades básicas. Principalmente, las familias han perdido el acceso a sus sistemas de cultivo, y aquellas que dependen de la explotación de minas se han visto gravemente afectadas por el cierre de estas.
+
+Varias de las familias manifiestan su preocupación por la incapacidad de mantener los recursos necesarios para cumplir con sus obligaciones bancarias, puesto que, muchas de estas familias llevaban procesos de endeudamiento con el fin de respaldar proyectos productivos de aguacate y granadilla. Actualmente, por la falta de seguimiento en sus unidades productivas, existe el temor de que puedan perder sus valiosas inversiones. Además, las presiones de los bancos por e pago puntual de sus compromisos no da margen de espera.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => El municipio ofrece variedad de servicios en la cabecera municipal para la población en situación de desplazamiento y de acogida, destacando la presencia de la ESE municipal Luis Acosta con capacidad de personal, medico de enfermería, administrativo y 3 ambulancias; Adicional se encuentra la IE San Juan Bautista con sede hasta bachillerato, comedor escolar y programas que se desarrollan alrededor de CORPONARIÑO.
+
+El municipio cuenta con agua potable (subsidiada) la cual es suministrada por el acueducto bajo redes hidráulicas hasta las viviendas de la comunidad y los puntos sociales como es el Centro Vida, Salón de Lucha, salones comunales entre otros, para el sistema de recolección de residuos cuenta con una periodicidad de 2 o 3 veces por semana con vehículos de la E.S.P. (Empresa de servicios públicos) y cuentan con alcantarillado como proceso de residuos intradomiciliarios.
+
+En Sotomayor hay redes eléctricas administradas por la E.S.P. con contadores domiciliarios, las comunidades mencionan que aproximadamente hace 20 días hubo un apagón todo el día, sin embargo, el suministro de electricidad no es racionado, sino que por el contrario es permanente.
+
+Las redes de telefonía funcionan con normalidad en el municipio especialmente la de CLARO, en el trayecto desde Nariño hasta El Peñol la telefonía que capta la mejor red es la de Movistar.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => En el marco de la emergencia no se evidencian problemas ambientales dada la capacidad del municipio del manejo ambiental en la cabecera. Adicional las familias en situación de desplazamiento no se encuentran albergadas en un mismo lugar, sino que se encuentran en redes de apoyo.
+
+El periodo de verano que se vive en este momento en el municipio deja ver que ríos o quebradas cercanas a la cabecera se están secando, pero se considera un fenómeno natural por la ubicación geográfica (Cañón y montañosa); La institucionalidad menciona que no consideran que el periodo de verano afecté el suministro de agua potable a la comunidad de cabecera
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/Riesgos_para_respuesta] => OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => COMUNIDAD_EN_RIESGO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Para llegar al municipio se cuentan con tres vías de acceso desde Pasto e Ipiales pasando por municipios como Samaniego, La llanada, Sandoná entre otros. Sin embargo, por la presencia de GANE la ruta que brinda las mejores condiciones de seguridad es desde Pasto pasando por El Tambo y el Peñol con una distancia aproximada de 85 km y duración de tres horas y media; la carretera es pavimentada hasta el municipio de El Tambo y después es destapada pero carreteable con una velocidad promedio de 25 Km/H.
+
+La operación logística del municipio de Los Andes – Sotomayor consta de variedad de establecimientos comerciales destacando los siguientes: 2 estaciones de servicio Biomax y 2 Terpel, se encontraron 5 hoteles (Hotel refugio Panga, Hotel Paola, Hotel Aristi, Hotel Nebraska), 2 ferreterías (La Avenida y Stihl), 1 plaza de mercado, variedad de tiendas, autoservicios, panaderías, droguerías y restaurantes, 4 puntos físicos de Efecty, 3 puntos físico de Super Giro, 3 sucursales de Bancolombia, 1 sucursal del Banco Agrarío y 1 sucursal de Banco Caja Social.
+
+La comunidad menciona que antes los establecimientos comerciales estaban abiertos hasta 11 de la noche, sin embargo, por la percepción de seguridad están cerrando más temprano, pero se sigue prestando el servicio.
+    [group_fm93i53/seguridad] => Las expresiones del conflicto en la zona, de acuerdo con los hallazgos de la evaluación, se ven reflejadas en la presencia y posicionamiento de grupos armados en la zona, cambios en las operaciones militares de los grupos armados (presencia masiva en áreas públicas, acciones de control público en la noche), aumento en las directrices y restricciones a la población civil, presencia de MAP, MUSE y AEI, grafitis en espacios de visibilidad comunitaria, amenazas, aumento en acciones de estimulación al reclutamiento, entre otros.  
+
+De manera que, en los alrededores del municipio los Andes – Sotomayor en los últimos 3 meses, iniciaron los enfrentamientos entre el ELN, las disidencias de las FARC y el ejército colombiano, por lo que los habitantes de 32 veredas ubicadas se han visto en situación de desplazamiento forzado o confinamiento. Actualmente, la comunidad del Palacio se encuentra en desplazamiento forzado en el municipio. Se realizaron múltiples alertas de amenaza a la población venezolana que se encontraba en el lugar con efecto de huida, además de restricciones a la movilidad, retenes ilegales, instalación de artefactos explosivos, homicidios con efectos en limitación de abastecimiento de alimentos y dificultad de acceso a la atención en salud para las zonas veredales.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 148
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 348
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 2
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-07-31
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => 4. NALA-295.1 (LPA)-1_44_33.xlsx
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => UARIV
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => OCHA, ELC
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => En el contexto de la emergencia por la que fue activada la ERN, se identificó que as familias de la Vereda El Palacio que se encuentran en el casco Urbano tienen una intención de retorno y están a la espera de las condiciones de seguridad para regresar a sus viviendas. La principal solicitud de la comunidad es el desminado humanitario, ya que hay sospecha de la presencia de zonas contaminadas MAP y MUSE lo cual ha limitado el desarrollo de las actividades agrícolas y el cumplimiento obligaciones financieras. Por otra, parte la comunidad de la vereda el Alto ya había regresado a la vereda cuándo inició la aplicación de la ERN.
+
+Con relación al contexto general de las comunidades afectadas, se identificó que en el pasado mes de julio y durante el mes de agosto. Las comunidades de las veredas fueron presionadas a participar en actos de proselitismo, así como el seguimiento de conductas y comportamientos impuestos por el actor armado (GANE) para favorecer su presencia y control en el territorio.
+
+Esta situación, se ha configurado como un escenario de alto riesgo a nivel comunitario relacionado con la presencia de MAP, MUSE y TE, enfrentamientos y/o imposición de normas y restricciones a la movilidad para las veredas afectadas por la emergencia y aquellas que cuentan con presencia y tránsito activo de actores armados GANE. Las comunidades en las que se identificaron situaciones de riesgo son; Las veredas El Palacio, La Esmeralda, Quebrada honda, Cordillera y cabecera del corregimiento El Carrizal, La Vereda de Campo Bello del corregimiento Pangus, y Las Veredas El Alto y La Loma del corregimiento San Sebastián. 
+
+Así mismo, existe un alto nivel de riesgo a nivel individual para líderes y líderesas quienes temen por su integridad ante las distintas presiones de los actores armados y las demandas constantes para el cumplimiento de normas y códigos de conducta. Ante esta situación las comunidades, líderes y líderesas no han recibido acompañamiento en el fortalecimiento en estrategias de autoprotección comunitaria, así como el conocimiento de mecanismos de autoprotección individual y rutas de protección en el marco de la Ley 1448.
+ 
+Finalmente, frente a la institucionalidad se identifica un temor generalizado, la mayoría de los servicios institucionales para las veredas han sido restringidos o suspendidos debido a la imposibilidad o temor de los funcionarios para acceder a las comunidades. Así mismo, se identificaron necesidades de fortalecimiento en Ley 1448 y DIH para promover un mayor seguimiento y visibilización de las restricciones a la movilidad o confinamientos en otras veredas de los Corregimiento del Carrizal y Pangas
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => 1. Presencia e imposición de conductas por parte de actores armados GANE en las veredas afectadas por el desplazamiento. Antes, durante y después de la emergencia la comunidad ha sido presionada por un actor armado GANE a cumplir con códigos de conducta y restricciones a la movilidad. 
+2. Presencia de prácticas de utilización de los miembros de las comunidades afectadas para actos de proselitismo, mediación y control territorial por parte de los actores armados GANE.
+3. Las comunidades afectadas que han regresado a las veredas lo han hecho sin garantías de seguridad y dignidad, y están expuestas a riesgos de minas y amenazas a la integridad por la presencia y confrontación entre actores armados.
+4. Presencia de alta afectación psicosocial de las familias afectadas por la emergencia y baja participación o interés en acceder a los servicios psicosociales disponibles en el municipio.
+5. La comunidad no cuenta con información clara sobre la ley 1448 para la identificación de hechos victimizantes y la demanda de medidas de protección y garantía de derechos.
+6. Las comunidades afectadas no cuentan con estrategias comunitarias de autoprotección, así como información clara sobre Educación en el riesgo de Minas (ERM) para la mitigación de riesgos derivados de la presencia y/o confrontación de actores armados.
+7. Riesgos de protección para líderes y lideresas de las veredas afectadas, las directivas están en medio de las presiones para el cumplimiento de conductas e imposiciones de los actores armados, y no cuentan con estrategias de autoprotección, así como el conocimiento de mecanismos de activación en caso de emergencia o amenaza directa.
+8. Presencia de situaciones de confinamiento y/o restricciones a la movilidad en las veredas de la zona alta de municipio que no han sido declaradas.
+9. La institucionalidad presenta un temor generalizado que limita la identificación y seguimiento a situaciones de riesgo, confinamientos y restricciones a la movilidad.
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => 1.Brindar apoyo y acompañamiento individual a líderes y lideresas en el fortalecimiento en análisis de riesgos, estrategias de autoprotección individual y conocimiento sobre mecanismos y rutas de protección en el marco de la ley 1448.
+2.Brindar apoyo individual y acompañamiento psicosocial a las personas afectadas para la promoción de acceso a información sobre mecanismos de protección en el marco de la ley 1448, y mitigación de los efectos psicosociales de la emergencia.
+3.Sensibilizar e informar a las comunidades afectadas sobre las garantías fundamentales establecidas en la Ley 1448 de 2011, así como la implementación de estrategias de autoprotección a nivel comunitario.
+4.Promoción de espacios comunitarios para la entrega de mensajes clave y mitigación de riesgos a nivel psicosociales.
+5.Brindar formación y asistencia técnica funcionarios en; i) análisis de riesgos y planes de contingencia relacionados la situación de conflicto en el municipio, ii) fortalecimiento de conocimientos sobre hechos victimizantes en el marco de la Ley 1448 y iii) promoción de estrategias de acompañamiento a las comunidades afectadas por emergencias.
+6.Brindar orientación legal a las familias que actualmente cuentan con créditos con fines agrícolas en la mediación con el sistema financiero.
+7. Integrar el análisis de riesgos en el desarrollo de estrategias de atención para promover respuestas flexibles y adaptadas al contexto y a las necesidades específicas de protección de personas afectadas.
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => *Presencia de afectaciones en líderes y lideresas por sobrecarga emocional y psíquica en el relacionamiento constante con actores armados.
+*Presencia de hechos victimizantes individuales como intimidaciones, riegos de vinculación, uso y utilización y desplazamientos masivos.  De igual manera, existe un alto riesgo de VBG.
+*La emergencia desencadenó un alto nivel de estrés y afectación psicosocial en las familias afectadas.
+*Las entidades territoriales activaron en comité de justicia transicional, la activación de la entrega asistencia inmediata por parte del municipio y UARIV.
+*Las comunidades no cuentan con información clara sobre las rutas de atención derivadas de las afectaciones individuales y masivas, y con relación a la institucionalidad se identifican necesidades de asistencia técnica para hacer seguimiento a las restricciones de movilidad y confinamientos.
+*los lideres y lideresas nos tienen conocimiento sobre la normatividad de victima ni mecanismos de exigibilidad, así como mecanismos de autoprotección civil.
+    [group_aa8xg30/group_lg2ro37/Shelter] => En el contexto del desplazamiento de las familias se identificó diversos hallazgos significativos en cuanto a las opciones de alojamiento y albergue disponibles. En primer lugar, se observa que las familias desplazadas tienen la posibilidad de encontrar refugio en casas de familiares y amigos, estableciendo así una red de apoyo crucial para la crisis. La comunidad de acogida y las familias desplazadas coexisten en armonía, sin que se evidencien problemáticas o conflictos entre ambas. Se ha dado prioridad a proporcionar a las familias espacios adecuados y dignos, en los cuales encuentran no solo refugio físico, sino también un entorno que promueve su seguridad y bienestar. Este ambiente de colaboración se ve fortalecido por la aceptación y validación, tanto por parte de las autoridades locales como de las comunidades, de contribuciones y mejoras en las infraestructuras para alojamientos temporales.
+
+Por otro lado, en los puntos de concentración designados, se ha dispuesto de elementos necesarios para la preparación de alimentos, garantizando así la provisión de comidas en dos jornadas del día. Además, es relevante destacar que los albergues han sido dotados con conexiones de servicios públicos básicos, incluyendo electricidad, agua y alcantarillado, lo que contribuye a mejorar las condiciones de vida de las personas desplazadas.
+
+Asimismo, se ha puesto especial atención en la creación de espacios adecuados, con iluminación apropiada y mecanismos de privacidad, tanto en áreas comunes como en baños y dormitorios. Estos hallazgos revelan la preocupación por salvaguardar la dignidad y el bienestar de las familias afectadas, ofreciéndoles un entorno seguro y digno durante este período de transición y adaptación. Incluso, algunas familias desplazadas se han ofrecido a brindar mano de obra no calificada en el proceso. De igual manera, se destaca los esfuerzos y recursos invertidos en la creación de condiciones habitacionales dignas y en la promoción de una convivencia pacífica, reflejando un compromiso sólido con el bienestar de todas las personas afectadas por el desplazamiento.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => • Fortalecer los Recursos para el Apoyo a las Casas de Acogida en el Casco Urbano: Es esencial considerar la asignación de recursos adecuados para respaldar y fortalecer las casas de acogida dentro del casco urbano. Esto implica colaborar con instituciones locales, organizaciones no gubernamentales y otros actores relevantes para asegurar que las casas de acogida cuenten con los medios necesarios para brindar un ambiente seguro y digno a las familias desplazadas. La inversión en recursos financieros, materiales y de personal permitirá mejorar la capacidad de estas casas para ofrecer apoyo y servicios integrales a quienes lo necesitan.
+• Garantizar la Continuidad y Calidad de los Servicios Públicos: Para asegurar un alojamiento adecuado y condiciones de vida dignas, es fundamental mantener condiciones estables y consistentes en el acceso a los servicios públicos. Se recomienda establecer mecanismos de monitoreo y mantenimiento de los servicios de electricidad, agua y alcantarillado en los albergues y casas de acogida. La colaboración con las autoridades competentes y proveedores de servicios públicos ayudará a detectar posibles anomalías o intermitencias y a tomar medidas proactivas para solucionar cualquier problema que pueda surgir.
+• Fortalecer la colaboración entre la comunidad de acogida y las familias desplazadas: Aunque no se han observado conflictos entre estas dos comunidades, es importante fomentar la interacción positiva y el entendimiento mutuo. Se pueden organizar actividades y programas que promuevan la participación conjunta, el intercambio cultural y la cohesión social, lo que contribuirá a un ambiente de convivencia aún más armonioso.
+• Establecer mecanismos de participación comunitaria: Involucrar a las familias desplazadas y a la comunidad de acogida en la toma de decisiones relacionadas con las mejoras en las infraestructuras y servicios puede generar un mayor sentido de pertenencia y empoderamiento. Esto también puede incluir la identificación de necesidades específicas y la planificación conjunta de proyectos de construcción o mejoramiento.
+    [group_aa8xg30/group_fv0ct51/Agua] => En la evaluación se evidencia que las personas desplazadas cuentan con acceso a agua de la red de acueducto de la cabecera municipal, en la que nos manifiestan que el agua es utilizada sin tratamiento para toda las actividades cotidianas, adicional manifiestan que este recurso no se suspende y que tienen un servicio continuo las 24 horas, por lo anterior se puede determinar que se garantiza el 100% de acceso a agua  y lo cual no tiene una afectación a las actividades cotidianas y a la salud.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Se evidencia que el centro poblado y las casas acogidas donde se encuentran las familias desplazadas el 100% se encuentran conectadas a la red de alcantarillado, el cual favorece la expulsión de las aguas residuales; y que prestan un servicio eficiente y sin alternaciones.
+
+Adicional, se cuenta con un sistema de recolección de basuras puerta a puerta, el cual pasa 2 a 3 veces por semana, esto depende de la zona, y es llevado a un relleno sanitario, el cual se desconoce su operabilidad y/o su estado actual, sin embargo, se logra observar que dentro de la recopilación de la información la comunidad manifiesta que el servicio es continuo y pocas veces su horario se ve modificado.
+    [group_aa8xg30/group_fv0ct51/Higiene] => La comunidad desplazada no cuenta con los recursos para acceder a elementos de primera necesidad en higiene. A través del análisis de mercados se evidencio que el centro poblado cuenta con disponibilidad de elementos para ser adquiridos por medio de las tiendas locales, estos no han aumentado sus precios en el marco de la emergencia. Se logra identificar que los elementos más requeridos son relacionados con jabón, champú, toallas higiénicas, cepillo de dientes y crema dental.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Las familias en el marco del desplazamiento cuentan con acceso a agua segura en las casas de acogida y servicio de alcantarillado, el cual facilita el transporte de las aguas residuales. Con relación en el manejo de los residuos sólidos, es importante fortalecer los mensajes claves en separación en la fuente, las 7R, y en capacitaciones de planes de uso eficiente del recurso hídrico.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => • Fortalecimiento en temas de tratamiento de agua domiciliar y optimización del recurso hídrico
+• Realizar un fortalecimiento en la cadena de custodia para el manejo, uso y mantenimiento de los sistemas de almacenamiento de agua.
+• Se recomienda realizar una sensibilización en caso de ser utilizado la trasferencia monetaria no condicionada, con el fin de poder guiar a las familias en compras que estén en pro de las necesidades inmediatas.
+• En caso de ser necesario es importante enfocar en temas relacionado en espacios seguros y/o entornos dignos para mitigar la proliferación de vectores.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => • 100 % de la población tiene acceso a agua, red de acueducto veredal
+• 50 % de la población que NO tiene acceso a jabón para realizar los procesos de higiene.
+• 100 % de las infraestructuras existentes visitadas cumple con los estándares esfera.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => La comunidad del El Palacio ha experimentado un impacto significativo en su vida cotidiana por causa del desplazamiento, especialmente en lo que respecta en el acceso a sus medios de subsistencia basados en la agricultura y la cría de ganado. Esta comunidad ha mantenido una tradición agrícola durante muchos años, y sus recursos económicos dependen en gran medida de la venta de los excedentes de sus productos agrícolas en la cabecera municipal.
+
+Además de la agricultura y la ganadería algunas familias se emplean en trabajos tanto formales como informales en empresas mineras dedicadas a la extracción de minerales y rocas; sin embargo, debido a problemas de seguridad en la región, muchas de estas empresas han cerrado, lo que ha tenido un impacto negativo en la economía de estas familias.
+
+La actual situación humanitaria ha llevado a algunas personas a enfrentar peligros para su propia seguridad, ya que se ven obligados a exponerse a la contaminación por minas antipersonales (MAP) para revisar sus cultivos y cuidar de sus animales. existe la preocupación de que algunos de sus animales puedan haber perecido debido a esta situación.
+
+De igual manera, las familias comentan que la producción de café durante el primer semestre fue baja, y esta emergencia ha dejado sus recursos económicos agotados, lo que dificulta su capacidad para invertir para la próxima cosecha. Este problema se agrava aún más, ya que no cuentan con los medios para hacer frente a los compromisos de pago de los créditos agropecuarios con las entidades financieras.
+
+Las familias refieren que en promedio tiene una ingesta de dos comidas al día, ya que han agotado sus ahorros para adquirir alimentos, esto llevó a una disminución en la frecuencia de sus comidas diarias. En cuanto a la diversidad dietaría las familias de El Palacio en promedio consumen siete grupos de alimentos. Es importante destacar que carecen de alimentos perecederos como verduras, tubérculos, carnes, huevos y lácteos debido a la falta de recursos económicos durante esta crisis.
+
+Para el momento de la ERN las familias se congregaban en Centro Vida (Casa del Adulto Mayor) por la mañana y por la tarde para compartir alimentos a través de la funcionalidad de la olla comunitaria. Sin embargo, hasta el viernes 11 de agosto la Alcaldía proporcionó los suministros necesarios para asegurar dos comidas diarias a las familias afectadas.
+
+El sábado 12 de agosto la UARIV (Unidad para la Atención y Reparación Integral a la Víctimas) brindó asistencia a las 71 familias de la comunidad de El Palacio y a 78 de la comunidad de El Alto, proporcionando un kit tipo A que incluye alimentos, productos de higiene y alojamiento. Esto asegura la disponibilidad de alimentos no perecederos durante aproximadamente 15 días. La comunidad manifestó la intención de preparar estos en sus redes de apoyo, y por el momento no planean reunirse nuevamente en el Centro Vida.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Brindar seguimiento y acompañamiento a las familias por el riesgo de que se presenten casos de inseguridad alimentaria, dadas las dificultades de acceso a los alimentos. Para ello es importante evaluar la seguridad alimentaria durante la crisis, además, incluir un análisis del entorno social y ambiental en este proceso
+
+Mantener la gestión y seguimiento de posibles respuestas alimentarias humanitarias en el marco de la complementariedad que permita la estabilidad en la alimentación de las familias.
+
+Garantizar el acceso de las personas a la asistencia imparcial, de conformidad con las diferentes necesidades en salud mental y física, de entornos familiares poco saludables y dificultades de acceso a sistemas de protección social, permiten hacer seguimiento a las causas subyacentes de la desnutrición.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => El centro poblado del municipio de Los Andes cuenta con una amplia gama de lugares donde se pueden adquirir alimentos, generando una oferta diversificada. Sin embargo, las familias se encuentran en una situación en la que carecen de los recursos económicos necesarios para acceder a estos alimentos. En la actualidad se ven obligados a comprar alimentos que solían cultivar, y la mayoría de estos productos no son orgánicos, provienen de fuera del municipio.
+
+En este sentido, las dificultades en el acceso han dado lugar a la adopción de estrategias de afrontamiento, tales como reducir la frecuencia de las comidas diarias, consumir alimentos menos preferidos y, en algunos casos recurrir a familiar y amigos para obtener comida. Además, la limitación del recurso económico impide asegurar una dieta diversificada que pueda tener un impacto significativo en el estado nutricional de la población.
+
+Cabe mencionar que, la atención brindada por la UARIV facilitó la disponibilidad y acceso alimentos no perecederos al total de la población que incluye adultos mayores, personas lactantes y gestantes. Población vulnerable que gracias a la asistencia reduce en algo los niveles de preocupación y ansiedad.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => El municipio de los Andes – Sotomayor, cuenta con un centro de salud de 1 nivel de atención, llamado ESE Centro de Salud de los Andes, Sotomayor. Cuenta con urgencias las 24 horas, con una capacidad hospitalaria para atención de 9.800 personas/año, son aproximadamente 68 empleados (administrativos y personal asistencial) entre los que se incluyen 6 médicos, 25 auxiliares de enfermería, 4 promotoras de salud, 1 odontólogo general, 1 auxiliar de salud oral, 1 bacteriólogo, 1 auxiliar de bacteriología, 2 psicólogos, 3 jefes de enfermería, 3 conductores de ambulancia.  Además, cuenta con un equipo de PAPSIVI.  
+
+Se estima una cobertura del 99% con aseguramiento de la población al SGSS con EPS Sanitas y Asmet salud con uso mayor del servicio por las mujeres en un 70%, siendo en los últimos 3 meses la hipertensión arterial la primera causa de atención por consulta externa y rinofaringitis aguda la causa de consulta por urgencias. Se recibió información por parte del hospital que no hay población migrante venezolana actualmente en la zona. 
+
+Existen los programas de vacunación, control prenatal, paciente crónico, Crecimiento y desarrollo, planificación familiar   y rutas específicas para abordaje de IVE, violencia sexual o de género. 
+
+En el transcurso del año solo se ha reportado un caso de dengue, un caso de tuberculosis y un caso de enfermedad de Hansen (estos dos últimos tratamientos proporcionado por la secretaria de salud departamental). Además, dos casos de accidente ofídico, pero sin identificar la serpiente responsable del ofidismo. La ruta de remisión es hacia la ciudad de Pasto a hospitales de niveles superiores por medio de transporte terrestre por la vía de La Llanada. 
+
+Actualmente, por temas de seguridad fueron suspendas las actividades extramurales por lo que representa un reto brindar acceso a la salud a personas alejadas del municipio los Andes, se plantea incursionar en la telemedicina en áreas donde haya red de acceso o hacer llegar los medicamentos por medio de los promotores de salud a personas con enfermedades crónicas. 
+
+En conversación con la comunidad de Palacio no manifiesta de manera expresa necesidad de atención en salud física, pues las necesidades están siendo cubiertas por la ESE municipal.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => La comunidad en situación de desplazamiento presenta afectaciones en salud mental como consecuencia de la emergencia. Las personas refieren dificultades para conciliar el sueño, síntomas psicosomáticos (cefaleas, dolores musculares, agudización de crónicos), sobresalto, signos y síntomas de TEA y TEPT, y síntomas de depresión y de otros trastornos de ansiedad. 
+
+De acuerdo con lo mencionado por la comunidad existe un desconocimiento de la red de servicios institucionales con los que podrían contar. Es importante mencionar que durante la evaluación se realizaron acciones para motivar la participación social en la oferta institucional y para realizar la incidencia ante las instituciones sobre la necesidad de ampliar la difusión de los servicios en salud mental y la realización de actividades psicosociales para la población en situación de desplazamiento.
+ 
+Así mismo, durante la evaluación se presenta una alerta de relevancia comunitaria en salud. Se hace mención de que uno de los GANE estaría pidiendo a la población, la realización y presentación de resultados de exámenes de ETS con el comentario de que quien esté enfermo, tendría que abandonar el territorio. 
+
+Frente a situaciones de relevancia clínica en salud mental, según se refiere por parte de la dirección local de salud, se han presentado alrededor de 10 intentos de suicidio y un suicidio consumado en el último semestre. Los eventos desencadenantes aluden principalmente a temas relacionados con pareja y de momento no se refieren casos vinculados a la situación de conflicto armado. Los intentos se realizaron con ingesta de medicamentos, sustancias tóxicas y/o venenosas y medios mecánicos como ahorcamientos.
+  
+El centro de salud Los Andes cuenta con 2 psicólogos uno en atención clínica y otro para actividades promocionales; y con 3 psicólogos para programas del PAPSIVI. Adicionalmente la infraestructura institucional también cuenta con psicólogos en comisaría de familia, en programas de género.
+ 
+En complemento con lo ya mencionado y de acuerdo con la información suministrada por el área encargada del SIVIGILA, se han realizado 128 primeras consultas por psicología en el último trimestre. Los principales motivos de consulta sugieren trastornos de ansiedad, relaciones de pareja, trastornos emocionales y otros motivos de consulta. De las 128 primeras consultas, 80 fueron realizadas por mujeres y 48 por hombres.  
+
+Así mismo, de acuerdo con lo mencionado por la ESE, durante el último trimestre, se brindó atención a 6 casos de violencia sexual, 4 de ellos por urgencias (sin esclarecer la temporalidad de la ocurrencia del evento) y 5 casos de violencia familiar.  De estas violencias sexuales, 2 ocurrieron sobre población de NNA. 
+
+Debido a la emergencia, las actividades extramurales de asistencia se encuentran suspendidas y en la actualidad continúan en monitoreo extramural únicamente los equipos del PAPSIVI (Programa de atención psicosocial y salud integral a víctimas).
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => En el momento, el hospital cuenta con un equipo con capacidad de respuesta y con las rutas respectivas para la atención intra y extramural que continúa en labores. Cuentan con el kit PEP y el protocolo de activación para violencia sexual y VBG integral.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => La atención de casos de VBG, física, mental y psicológica está siendo cubierta por personal de ESE municipal.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => En el momento no hay necesidad de activación de rutas en este aspecto de acuerdo con los hallazgos de la evaluación, la ESE municipal cuenta con las capacidades para brindar apoyo en salud mental a la comunidad afectada en el momento sin embargo, se continuará con el monitoreo de la zona ante la eventual necesidad de apoyo. 
+
+Disposición para el asesoramiento en manejo de emergencias si se requiere por las autoridades locales en salud. 
+
+Fortalecer la articulación con la entidades institucionales y territoriales para mejorar tiempo de respuesta frente a estos eventos y crear estrategias enmarcadas a disminuir posibles complicaciones que puedan conllevar a los pacientes ubicados fuera de la zona urbana por no acceso a atención en salud física y mental y la no adquisición de medicamentos de enfermedades crónicas.
+
+La telemedicina o atenciones por medio telefónico es una buena estrategia en zonas donde se puede tener acceso de red y en los que no se cuenta con esa posibilidad, posterior a evaluar seguridad de acceso a la zona, se podría continuar dispensando medicamentos a pacientes con diagnósticos crónicos que no puedan acceder al centro de salud.
+    [group_aa8xg30/group_tb5de96/EIE] => En el contexto de la emergencia para el sector de educación en el municipio de Sotomayor Los Andes se ha identificado; i) La afectación directa a dos sedes educativas las cuales fueron ocupadas por actores armados durante los enfrentamientos, ii) Riesgo de minas por contaminación por MAP, MUSE y TE de escuelas y caminos en el corregimiento del Carrizal y la Vereda la Loma, iii) dificultades en la I.E afectadas para implementar el plan de Gestión de Riesgo Escolar y retornar a la presencialidad de forma segura, iv) La comunidad educativa en general no cuenta con formación y sensibilización en Educación en Riesgo de Minas y comportamientos seguros, v) Las I.E tienen dificultades para adelantar estrategias de educación en emergencia y garantizar el acceso a la educación por parte de los niños, niñas y adolescentes durante y después de las emergencias.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => 1. En el contexto de la emergencia por desplazamiento de las veredas El Palacio y El Alto, las instituciones educativas afectas son la San Juan Bautista sede El Alto, y la Institución Educativa la Paz sede Palacio las cuales en el marco de los enfrentamientos fueron ocupadas por los actores armados, y actualmente la sede El Palacio presenta riesgo de minas por contaminación con MAP, MUSE y TE.
+2. En el municipio se presentó en el mes de junio una emergencia por desplazamiento de la vereda La Loma, en la que la sede educativa de La Loma de la I.E San Juan Bautista fue ocupada por actores armados durante los enfrentamientos entre actores armados y contaminada por TE, las cuales fueron retiradas por fuerzas militares.
+3. Las sedes rurales del municipio se han visto afectadas por el conflicto debido a la presencia de enfrentamientos, riesgos de contaminación por MAP, MUSE y TE y riesgo de reclutamiento, uso y utilización, así como estrés psicosocial para la comunidad educativa. En este contexto, hay aproximadamente 129 estudiantes y 14 docentes afectados de forma directa por el conflicto, los cuales pertenecen I.E La Paz de corregimiento del Carrizal y Las sedes de El Alto y la Loma de la I.E San Juan Bautista.
+4. El acceso a la educación de los niños y niñas vinculados a las I.E afectadas fue limitado durante la emergencia debido a la no disponibilidad recursos y dificultades para el acceso las a guías y seguimiento por el equipo docente. Por lo anterior, la comunidad solicito el retorno a la presencialidad pese a la presencia de riesgo de contaminación por minas en la zona.
+5. Las I.E identifican necesidades de formación y acompañamiento para el equipo docente en la activación del comité de gestión del Riesgo y ERM. Así mismo, solicitaron apoyo para sensibilización y motivación de los docentes en el marco de la emergencia y entrega de botiquines.
+6. Existen otras instituciones educativas en riesgo afectación por la presencia de actores armados, imposición de conductas y búsqueda de control territorial. en el municipio, entre ellas la I.E Agropecuario La Planada y Técnico Comercial Pangus.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => 1. Desarrollar procesos de sensibilización a estudiantes y comunidad en general sobre Educación en Riesgo de Minas para promover comportamientos seguros en los caminos hacia y desde las escuelas.
+2. Apoyar a las Instituciones educativas en el fortalecimiento y actualizaciones de los planes de Gestión de Riesgo Escolar para la mitigación de riesgos relacionados con el conflicto armado en el escenario escolar.
+3. Adelantar acciones de formación y actualización de conocimientos de los equipos docentes en la Educación en Riesgo de Minas.
+4. Desarrollar acciones de sensibilización a estudiantes y comunidad educativa sobre estrategias y comportamientos seguros.
+5. Realizar asistencia/transferencia técnica para el fortalecimiento de las Instituciones Educativas en Educación en emergencias.
+6. Promover la coordinación con otros actores para la verificación y descontaminación de las sedes educativas afectadas en riesgo de minas durante la emergencia.
+7. Adelantar estrategias de sensibilización para la prevención del reclutamiento uso y utilizaciones adaptadas al contexto de la emergencia.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => Se identifica afectación en NNA ante la presencia de riesgos de protección como Afectación Psicosocial, Uso y vinculación, deserción escolar, y riesgos de accidente con MAP-MSE-TE.
+La I.E afectada por la emergencia requiere una estrategia de adaptación curricular y entrega de Material Educativo.
+La I.E afectada no cuenta con un plan de Gestión del Riesgo Escolar.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => Las familias refieren que los medios económicos han sido afectados de manera directa por la emergencia, las actividades que realizaban antes de la emergencia era la producción agropecuaria y la minería pero a causa de los enfrentamientos fueron desplazadas a la cabecera municipal donde no hay oportunidades de empleabilidad o de generación de ingresos para satisfacer algunas necesidades no cubiertas de sus familias como los son: los alimentos perecederos, los servicios públicos y apoyos en los arriendos a los familiares que han prestados sus hogares para albergarse durante la emergencia.
+
+Frente al análisis de mercado de la cabecera municipal al cual podrían acceder las familias en situación de desplazamiento se encuentra una plaza de mercado municipal con productos agrícolas, minimercados, autoservicios que se encuentran ubicados a lo largo de las calles principales, así también hay amplia oferta de establecimientos comerciales como panaderías, restaurantes, droguerías y tiendas de artículos no alimenticios "Cacharrerías y remates". El comercio ha cambiado respecto a los horarios de atención, pero no han tenido que cerrar los establecimientos debido a la emergencia. Las minas (Empresas de explotación minera) han cerrado por el temor de retaliaciones y estafas, afectando ingresos de la población de acogida y en situación de desplazamiento. No se evidencia un riesgo en temas de seguridad en el acceso al mercado de las familias de El Palacio dado que las distancias son en promedio de 200 metros máximo entre los hogares y los mercados de la cabecera municipal.
+
+Las familias de la comunidad del palacio refieren que han utilizado proveedores financieros para recibir asistencias del estado, como familias en acción y adulto mayor; adicional, mencionan que se les dificulta los cajeros por las tarjetas como los del Banco Agrario corresponsales Bancolombia y Caja Social, pero que los puntos físicos de entrega en efectivo como Super Giros, Efecty y Su Red los utilizan en promedio una vez cada dos meses cuando bajaban de las veredas a abastecerse y retirar algunos subsidios.
+
+Sotomayor cuenta con 4 puntos físicos de Efecty 3 puntos físico de Super Giro 3 sucursales de Bancolombia 1 sucursal de Banco Caja Social y 5 de Su Red como proveedores financieros en caso de que se requiera realizar un MPCA, la distancia entre proveedores financieros y los mercados está a menos de 200 metros y las condiciones de seguridad son óptimas al ser la zona urbana del municipio.
+
+Se pueden presentar riesgos como el aumento de las tensiones dentro del hogar por recibir una asistencia en CASH y con comunidades en general (Afectación del municipio), acceso de la asistencia para adultos mayores o personas con analfabetismo se genere expectativas de población de acogida sobre posibles ayudas dada las necesidades colectivas por los enfrentamientos y presencia de GANE en todo el municipio y en municipios aledaños como la Llanada y Samaniego.
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Las 70 familias de El Palacio tienen necesidades en alimentos perecederos, apoyos económicos para servicios públicos y arriendo dado el hacinamiento en las redes de apoyo dado que las familias refieren que están durmiendo 4 personas aproximadamente en una cama y generando riesgos derivados de protección puesto que duermen familiares, adultos con los NNA, por lo cual se recomiendo una asistencia en CASH multipropósito para brindar apoyo a esas necesidades complementando la asistencia brindada por la UARIV y la alcaldía municipal.
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:0908230f-dc2d-42c8-99f5-79633f052a4e
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 0908230f-dc2d-42c8-99f5-79633f052a4e
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F0908230f-dc2d-42c8-99f5-79633f052a4e%2F4._NALA-295.1_LPA-1_44_33.xlsx
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F0908230f-dc2d-42c8-99f5-79633f052a4e%2F4._NALA-295.1_LPA-1_44_33.xlsx
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F0908230f-dc2d-42c8-99f5-79633f052a4e%2F4._NALA-295.1_LPA-1_44_33.xlsx
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F0908230f-dc2d-42c8-99f5-79633f052a4e%2F4._NALA-295.1_LPA-1_44_33.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/0908230f-dc2d-42c8-99f5-79633f052a4e/4._NALA-295.1_LPA-1_44_33.xlsx
+                    [instance] => 468334679
+                    [xform] => 638464
+                    [id] => 196668256
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-19T07:00:51
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

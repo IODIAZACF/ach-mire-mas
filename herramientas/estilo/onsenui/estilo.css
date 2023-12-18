@@ -1,0 +1,66 @@
+ons-toolbar ~ .page--grid-s24__content{
+    margin-top: 55px;
+}
+
+
+.search-bar {
+    width: 100%;
+    position: fixed;
+    display: flex;
+    margin-top: -45px;
+}
+
+.after-search-bar {
+    margin-top: 0px;
+}
+
+
+
+.bottom-bar--s24 {
+	display: flex;
+}
+
+.bottom-bar--s24 .tabbar__button{
+	flex: 1;
+}
+
+.bottom-bar--s24 .tabbar__label{
+	margin-bottom : 5px;
+}
+
+.input_editable{
+	
+    font-family: Roboto,Noto,sans-serif ;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400 !important;
+    border-radius: 2px !important;;
+    height: 48px !important;;
+    background-color: #fafafa !important;;
+    font-size: 14px !important;;
+    padding: 0 15px 0 15px !important;;
+    box-shadow: 0 0 2px 0 rgba(0,0,0,.12),0 2px 2px 0 rgba(0,0,0,.24),0 1px 0 0 rgba(255,255,255,.06) inset !important;;
+	width: 100% !important;;
+	
+}
+
+
+.input_editable:focus{
+	outline: 0 !important;;
+}
+    
+
+.input_editable_label{
+	padding: 5px 5px 5px 5px !important;;
+	font-family: Roboto,Noto,sans-serif !important;;
+	font-size: 12px !important;;
+	width:100% !important;;
+	
+}
+
+
+.fondo_formulario {
+	
+	
+	
+}
+	

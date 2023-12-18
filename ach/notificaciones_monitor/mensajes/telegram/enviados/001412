@@ -1,0 +1,41 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 432
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594317028
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBsF8HWORRdJV3LPJisG6cFINsdszDAAKMqDEbjCowROymRhhmvabfy7duBgAEAQADAgADbQADwrYDAAEaBA
+                            [file_unique_id] => AQADy7duBgAEwrYDAAE
+                            [file_size] => 9403
+                            [width] => 160
+                            [height] => 129
+                        )
+
+                )
+
+            [caption] => Producto no encontrado
+        )
+
+)

@@ -1,0 +1,161 @@
+16:22:06 -> Conectado al puerto 9997
+16:22:12 -> [4b82256c] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+16:22:14 -> [4b82256c] get report format
+16:22:14 -> [4b82256c] init templates
+16:22:14 -> [4b82256c] init main report format
+16:22:14 -> [4b82256c] Trying to save...
+16:22:14 -> [4b82256c] Saving to C:\Reporter\Report2022\tmp\4b82256c\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+16:22:14 -> [4b82256c] loading report
+16:22:14 -> [4b82256c] set variables
+16:22:14 -> [4b82256c] building report file
+16:22:14 -> [4b82256c] exporting to pdf file
+16:22:15 -> [4b82256c] Report prepared
+16:22:15 -> [4b82256c] Done! C:\Reporter\Report2022\pdf\4b82256c.pdf
+16:48:20 -> [52732631] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+16:48:23 -> [52732631] get report format
+16:48:23 -> [52732631] init templates
+16:48:23 -> [52732631] init main report format
+16:48:23 -> [52732631] Trying to save...
+16:48:23 -> [52732631] Saving to C:\Reporter\Report2022\tmp\52732631\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+16:48:23 -> [52732631] loading report
+16:48:23 -> [52732631] set variables
+16:48:23 -> [52732631] building report file
+16:48:23 -> [52732631] exporting to pdf file
+16:48:24 -> [52732631] Report prepared
+16:48:24 -> [52732631] Done! C:\Reporter\Report2022\pdf\52732631.pdf
+17:18:46 -> [9ccb02c4] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+17:18:48 -> [9ccb02c4] get report format
+17:18:48 -> [9ccb02c4] init templates
+17:18:48 -> [9ccb02c4] init main report format
+17:18:48 -> [9ccb02c4] Trying to save...
+17:18:48 -> [9ccb02c4] Saving to C:\Reporter\Report2022\tmp\9ccb02c4\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+17:18:48 -> [9ccb02c4] loading report
+17:18:48 -> [9ccb02c4] set variables
+17:18:48 -> [9ccb02c4] building report file
+17:18:48 -> [9ccb02c4] exporting to pdf file
+17:18:50 -> [9ccb02c4] Report prepared
+17:18:50 -> [9ccb02c4] Done! C:\Reporter\Report2022\pdf\9ccb02c4.pdf
+17:33:41 -> [a6c47a04] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+17:33:45 -> [a6c47a04] get report format
+17:33:45 -> [a6c47a04] init templates
+17:33:45 -> [a6c47a04] init main report format
+17:33:45 -> [a6c47a04] Trying to save...
+17:33:45 -> [a6c47a04] Saving to C:\Reporter\Report2022\tmp\a6c47a04\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+17:33:45 -> [a6c47a04] loading report
+17:33:45 -> [a6c47a04] set variables
+17:33:45 -> [a6c47a04] building report file
+17:33:45 -> [a6c47a04] exporting to pdf file
+17:33:49 -> [a6c47a04] Report prepared
+17:33:49 -> [a6c47a04] Done! C:\Reporter\Report2022\pdf\a6c47a04.pdf
+19:03:06 -> [6bc1dcba] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+19:03:08 -> [6bc1dcba] get report format
+19:03:08 -> [6bc1dcba] init templates
+19:03:08 -> [6bc1dcba] init main report format
+19:03:08 -> [6bc1dcba] Trying to save...
+19:03:08 -> [6bc1dcba] Saving to C:\Reporter\Report2022\tmp\6bc1dcba\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+19:03:08 -> [6bc1dcba] loading report
+19:03:08 -> [6bc1dcba] set variables
+19:03:08 -> [6bc1dcba] building report file
+19:03:08 -> [6bc1dcba] exporting to pdf file
+19:03:09 -> [6bc1dcba] Report prepared
+19:03:09 -> [6bc1dcba] Done! C:\Reporter\Report2022\pdf\6bc1dcba.pdf
+19:04:07 -> [162045d3] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+19:04:08 -> [162045d3] get report format
+19:04:08 -> [162045d3] init templates
+19:04:08 -> [162045d3] init main report format
+19:04:08 -> [162045d3] Trying to save...
+19:04:08 -> [162045d3] Saving to C:\Reporter\Report2022\tmp\162045d3\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+19:04:08 -> [162045d3] loading report
+19:04:08 -> [162045d3] set variables
+19:04:08 -> [162045d3] building report file
+19:04:08 -> [162045d3] exporting to pdf file
+19:04:10 -> [162045d3] Report prepared
+19:04:11 -> [162045d3] Done! C:\Reporter\Report2022\pdf\162045d3.pdf
+19:38:33 -> [6844970b] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+19:38:35 -> [6844970b] get report format
+19:38:35 -> [6844970b] init templates
+19:38:35 -> [6844970b] init main report format
+19:38:35 -> [6844970b] Trying to save...
+19:38:35 -> [6844970b] Saving to C:\Reporter\Report2022\tmp\6844970b\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+19:38:35 -> [6844970b] loading report
+19:38:35 -> [6844970b] set variables
+19:38:35 -> [6844970b] building report file
+19:38:35 -> [6844970b] exporting to pdf file
+19:38:37 -> [6844970b] Report prepared
+19:38:37 -> [6844970b] Done! C:\Reporter\Report2022\pdf\6844970b.pdf
+19:38:51 -> [d20009b6] call url: http://his.cmuce.local/report/data.php?fmt=eval_emerg2-3&sql=eval_emerg&idInforme=643795
+19:38:51 -> [d20009b6] get report format
+19:38:51 -> [d20009b6] init templates
+19:38:51 -> [d20009b6] Downloading template from http://his.cmuce.local/report/patrones/carta_historia.fr3
+19:38:51 -> [d20009b6] init main report format
+19:38:51 -> [d20009b6] Trying to save...
+19:38:51 -> [d20009b6] Saving to C:\Reporter\Report2022\tmp\d20009b6\eval_emerg2-3.fr3
+19:38:51 -> [d20009b6] loading report
+19:38:51 -> [d20009b6] set variables
+19:38:51 -> [d20009b6] building report file
+19:38:51 -> [d20009b6] exporting to pdf file
+19:38:52 -> [d20009b6] Report prepared
+19:38:52 -> [d20009b6] Done! C:\Reporter\Report2022\pdf\d20009b6.pdf
+19:40:22 -> [030b0a83] call url: http://his.cmuce.local/report/data.php?fmt=eval_emerg2-3&sql=eval_emerg&idInforme=643795
+19:40:22 -> [030b0a83] get report format
+19:40:22 -> [030b0a83] init templates
+19:40:22 -> [030b0a83] Downloading template from http://his.cmuce.local/report/patrones/carta_historia.fr3
+19:40:22 -> [030b0a83] init main report format
+19:40:22 -> [030b0a83] Trying to save...
+19:40:22 -> [030b0a83] Saving to C:\Reporter\Report2022\tmp\030b0a83\eval_emerg2-3.fr3
+19:40:22 -> [030b0a83] loading report
+19:40:22 -> [030b0a83] set variables
+19:40:22 -> [030b0a83] building report file
+19:40:22 -> [030b0a83] exporting to pdf file
+19:40:22 -> [030b0a83] Report prepared
+19:40:22 -> [030b0a83] Done! C:\Reporter\Report2022\pdf\030b0a83.pdf
+19:42:11 -> [70a5430c] call url: http://his.cmuce.local/report/data.php?fmt=eval_emerg2-3&sql=eval_emerg&idInforme=643795
+19:42:12 -> [70a5430c] get report format
+19:42:12 -> [70a5430c] init templates
+19:42:12 -> [70a5430c] Downloading template from http://his.cmuce.local/report/patrones/carta_historia.fr3
+19:42:12 -> [70a5430c] init main report format
+19:42:12 -> [70a5430c] Trying to save...
+19:42:12 -> [70a5430c] Saving to C:\Reporter\Report2022\tmp\70a5430c\eval_emerg2-3.fr3
+19:42:12 -> [70a5430c] loading report
+19:42:12 -> [70a5430c] set variables
+19:42:12 -> [70a5430c] building report file
+19:42:12 -> [70a5430c] exporting to pdf file
+19:42:12 -> [70a5430c] Report prepared
+19:42:12 -> [70a5430c] Done! C:\Reporter\Report2022\pdf\70a5430c.pdf
+19:58:04 -> [2a34a9bb] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+19:58:06 -> [2a34a9bb] get report format
+19:58:06 -> [2a34a9bb] init templates
+19:58:06 -> [2a34a9bb] init main report format
+19:58:06 -> [2a34a9bb] Trying to save...
+19:58:06 -> [2a34a9bb] Saving to C:\Reporter\Report2022\tmp\2a34a9bb\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+19:58:06 -> [2a34a9bb] loading report
+19:58:06 -> [2a34a9bb] set variables
+19:58:06 -> [2a34a9bb] building report file
+19:58:06 -> [2a34a9bb] exporting to pdf file
+19:58:07 -> [2a34a9bb] Report prepared
+19:58:07 -> [2a34a9bb] Done! C:\Reporter\Report2022\pdf\2a34a9bb.pdf
+19:59:02 -> Conectado al puerto 9997
+19:59:05 -> [7abbbb27] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+19:59:06 -> [7abbbb27] get report format
+19:59:06 -> [7abbbb27] init templates
+19:59:06 -> [7abbbb27] init main report format
+19:59:06 -> [7abbbb27] Trying to save...
+19:59:06 -> [7abbbb27] Saving to C:\Reporter\Report2022\tmp\7abbbb27\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+19:59:06 -> [7abbbb27] loading report
+19:59:06 -> [7abbbb27] set variables
+19:59:06 -> [7abbbb27] building report file
+19:59:06 -> [7abbbb27] exporting to pdf file
+19:59:08 -> [7abbbb27] Report prepared
+19:59:08 -> [7abbbb27] Done! C:\Reporter\Report2022\pdf\7abbbb27.pdf
+20:03:10 -> [69958058] call url: https://desarrollo.sistemas24.com/protecseguros/herramientas/impresora/impresora_new.php?origen=reportes/r_cuentas_contables&db=protecseguros&SERVERPATH=http://172.17.0.1/protecseguros/&letras=1&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/protecseguros/&XCAMPO=PRESIONE%20F12%20PARA%20CONTINUAR&TITULO=CATALOGO%20DE%20CUENTAS%20CONTABLES&compress=1&id_m_usuario=001810&log_USER_ID=001810&log_USER_NAME=MARCO&log_SISTEMA=protecseguros&log_SISTEMA_DB=protecseguros&viewer=1&title=CATALOGO%20DE%20CUENTAS%20CONTABLES
+20:03:11 -> [69958058] get report format
+20:03:11 -> [69958058] init templates
+20:03:11 -> [69958058] init main report format
+20:03:11 -> [69958058] Trying to save...
+20:03:11 -> [69958058] Saving to C:\Reporter\Report2022\tmp\69958058\-opt-lampp-htdocs-protecseguros-reportes-r_cuentas_contables.fr3
+20:03:11 -> [69958058] loading report
+20:03:11 -> [69958058] set variables
+20:03:11 -> [69958058] building report file
+20:03:11 -> [69958058] exporting to pdf file
+20:03:13 -> [69958058] Report prepared
+20:03:13 -> [69958058] Done! C:\Reporter\Report2022\pdf\69958058.pdf

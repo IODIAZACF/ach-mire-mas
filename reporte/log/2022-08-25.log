@@ -1,0 +1,516 @@
+00:06:50 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112066&compress=1&id_m_usuario=001964&log_USER_ID=001964&log_USER_NAME=CZ+865+BATA+CCI+JOHANNA+CAYAMA&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:06:51 -> get report format
+00:06:51 -> init templates
+00:06:51 -> init main report format
+00:06:51 -> Trying to save...
+00:06:51 -> Saving to Z:\app\tmp\71171bd0\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:06:51 -> loading report
+00:06:51 -> set variables
+00:06:51 -> building report file
+00:06:51 -> exporting to pdf file
+00:06:51 -> Report prepared
+00:06:51 -> Done! Z:\app\pdf\71171bd0.pdf
+00:09:25 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112068&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:09:25 -> get report format
+00:09:25 -> init templates
+00:09:25 -> init main report format
+00:09:25 -> Trying to save...
+00:09:25 -> Saving to Z:\app\tmp\a57003bd\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:09:25 -> loading report
+00:09:25 -> set variables
+00:09:25 -> building report file
+00:09:25 -> exporting to pdf file
+00:09:26 -> Report prepared
+00:09:26 -> Done! Z:\app\pdf\a57003bd.pdf
+00:09:50 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112067&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:09:50 -> get report format
+00:09:50 -> init templates
+00:09:50 -> init main report format
+00:09:50 -> Trying to save...
+00:09:50 -> Saving to Z:\app\tmp\7c2b893a\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:09:50 -> loading report
+00:09:50 -> set variables
+00:09:50 -> building report file
+00:09:50 -> exporting to pdf file
+00:09:51 -> Report prepared
+00:09:51 -> Done! Z:\app\pdf\7c2b893a.pdf
+00:14:56 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0013727&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+00:14:57 -> get report format
+00:14:57 -> init templates
+00:14:57 -> init main report format
+00:14:57 -> Trying to save...
+00:14:57 -> Saving to Z:\app\tmp\3b309c06\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+00:14:57 -> loading report
+00:14:57 -> set variables
+00:14:57 -> building report file
+00:14:57 -> exporting to pdf file
+00:14:57 -> Report prepared
+00:14:57 -> Done! Z:\app\pdf\3b309c06.pdf
+00:15:03 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112069&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:15:04 -> get report format
+00:15:04 -> init templates
+00:15:04 -> init main report format
+00:15:04 -> Trying to save...
+00:15:04 -> Saving to Z:\app\tmp\662d50c2\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:15:04 -> loading report
+00:15:04 -> set variables
+00:15:04 -> building report file
+00:15:04 -> exporting to pdf file
+00:15:04 -> Report prepared
+00:15:04 -> Done! Z:\app\pdf\662d50c2.pdf
+00:17:42 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112070&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:17:42 -> get report format
+00:17:43 -> init templates
+00:17:43 -> init main report format
+00:17:43 -> Trying to save...
+00:17:43 -> Saving to Z:\app\tmp\760c4334\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:17:43 -> loading report
+00:17:43 -> set variables
+00:17:43 -> building report file
+00:17:43 -> exporting to pdf file
+00:17:43 -> Report prepared
+00:17:43 -> Done! Z:\app\pdf\760c4334.pdf
+00:18:47 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112071&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:18:47 -> get report format
+00:18:48 -> init templates
+00:18:48 -> init main report format
+00:18:48 -> Trying to save...
+00:18:48 -> Saving to Z:\app\tmp\50b09a22\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:18:48 -> loading report
+00:18:48 -> set variables
+00:18:48 -> building report file
+00:18:48 -> exporting to pdf file
+00:18:48 -> Report prepared
+00:18:48 -> Done! Z:\app\pdf\50b09a22.pdf
+00:19:54 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112072&compress=1&id_m_usuario=001964&log_USER_ID=001964&log_USER_NAME=CZ+865+BATA+CCI+JOHANNA+CAYAMA&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:19:54 -> get report format
+00:19:54 -> init templates
+00:19:54 -> init main report format
+00:19:54 -> Trying to save...
+00:19:54 -> Saving to Z:\app\tmp\183935d2\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:19:54 -> loading report
+00:19:54 -> set variables
+00:19:54 -> building report file
+00:19:54 -> exporting to pdf file
+00:19:55 -> Report prepared
+00:19:55 -> Done! Z:\app\pdf\183935d2.pdf
+00:21:27 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112073&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:21:27 -> get report format
+00:21:27 -> init templates
+00:21:27 -> init main report format
+00:21:27 -> Trying to save...
+00:21:27 -> Saving to Z:\app\tmp\d679033b\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:21:27 -> loading report
+00:21:27 -> set variables
+00:21:27 -> building report file
+00:21:27 -> exporting to pdf file
+00:21:28 -> Report prepared
+00:21:28 -> Done! Z:\app\pdf\d679033b.pdf
+00:21:56 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0013728&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+00:21:57 -> get report format
+00:21:57 -> init templates
+00:21:57 -> init main report format
+00:21:57 -> Trying to save...
+00:21:57 -> Saving to Z:\app\tmp\6adc00d1\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+00:21:57 -> loading report
+00:21:57 -> set variables
+00:21:57 -> building report file
+00:21:57 -> exporting to pdf file
+00:21:57 -> Report prepared
+00:21:57 -> Done! Z:\app\pdf\6adc00d1.pdf
+00:22:35 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_mayor_analitico_cuenta&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&letras=1&CONTABLE=81111098&FECHA_DESDE=2022-03-01&FECHA_HASTA=2022-03-31&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/amvtecnologia/&CONTABLE=81111098&TITULO=LIBRO%20MAYOR%20DETALLADO%20POR%20CUENTA&FECHA_DESDE=2022-03-01&FECHA_HASTA=2022-03-31&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1&title=LIBRO%20MAYOR%20DETALLADO%20POR%20CUENTA
+00:22:35 -> get report format
+00:22:35 -> init templates
+00:22:35 -> init main report format
+00:22:35 -> Trying to save...
+00:22:35 -> Saving to Z:\app\tmp\a15ba365\\opt\lampp\htdocs\amvtecnologia\reportes\r_mayor_analitico_cuenta.fr3
+00:22:35 -> loading report
+00:22:35 -> set variables
+00:22:35 -> building report file
+00:22:35 -> exporting to pdf file
+00:22:35 -> Report prepared
+00:22:35 -> Done! Z:\app\pdf\a15ba365.pdf
+00:23:01 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112074&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:23:01 -> get report format
+00:23:01 -> init templates
+00:23:01 -> init main report format
+00:23:01 -> Trying to save...
+00:23:01 -> Saving to Z:\app\tmp\a4a80d94\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:23:01 -> loading report
+00:23:01 -> set variables
+00:23:01 -> building report file
+00:23:01 -> exporting to pdf file
+00:23:01 -> Report prepared
+00:23:02 -> Done! Z:\app\pdf\a4a80d94.pdf
+00:24:04 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112075&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:24:04 -> get report format
+00:24:04 -> init templates
+00:24:04 -> init main report format
+00:24:04 -> Trying to save...
+00:24:04 -> Saving to Z:\app\tmp\16507088\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:24:04 -> loading report
+00:24:04 -> set variables
+00:24:05 -> building report file
+00:24:05 -> exporting to pdf file
+00:24:05 -> Report prepared
+00:24:05 -> Done! Z:\app\pdf\16507088.pdf
+00:24:32 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001621&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:24:32 -> get report format
+00:24:32 -> init templates
+00:24:32 -> init main report format
+00:24:32 -> Trying to save...
+00:24:32 -> Saving to Z:\app\tmp\0216dad4\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:24:32 -> loading report
+00:24:32 -> set variables
+00:24:32 -> building report file
+00:24:32 -> exporting to pdf file
+00:24:32 -> Report prepared
+00:24:32 -> Done! Z:\app\pdf\0216dad4.pdf
+00:25:00 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112076&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:25:00 -> get report format
+00:25:00 -> init templates
+00:25:00 -> init main report format
+00:25:00 -> Trying to save...
+00:25:00 -> Saving to Z:\app\tmp\6cd7cd05\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:25:00 -> loading report
+00:25:00 -> set variables
+00:25:00 -> building report file
+00:25:00 -> exporting to pdf file
+00:25:00 -> Report prepared
+00:25:00 -> Done! Z:\app\pdf\6cd7cd05.pdf
+00:25:05 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001623&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:25:06 -> get report format
+00:25:06 -> init templates
+00:25:06 -> init main report format
+00:25:06 -> Trying to save...
+00:25:06 -> Saving to Z:\app\tmp\32373b0d\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:25:06 -> loading report
+00:25:06 -> set variables
+00:25:06 -> building report file
+00:25:06 -> exporting to pdf file
+00:25:06 -> Report prepared
+00:25:06 -> Done! Z:\app\pdf\32373b0d.pdf
+00:25:29 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001624&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:25:29 -> get report format
+00:25:29 -> init templates
+00:25:29 -> init main report format
+00:25:29 -> Trying to save...
+00:25:29 -> Saving to Z:\app\tmp\a14d906b\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:25:29 -> loading report
+00:25:29 -> set variables
+00:25:29 -> building report file
+00:25:29 -> exporting to pdf file
+00:25:29 -> Report prepared
+00:25:29 -> Done! Z:\app\pdf\a14d906b.pdf
+00:25:56 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001625&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:25:56 -> get report format
+00:25:56 -> init templates
+00:25:56 -> init main report format
+00:25:56 -> Trying to save...
+00:25:56 -> Saving to Z:\app\tmp\130607a1\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:25:56 -> loading report
+00:25:56 -> set variables
+00:25:56 -> building report file
+00:25:56 -> exporting to pdf file
+00:25:56 -> Report prepared
+00:25:56 -> Done! Z:\app\pdf\130607a1.pdf
+00:26:04 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112077&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:26:04 -> get report format
+00:26:04 -> init templates
+00:26:04 -> init main report format
+00:26:04 -> Trying to save...
+00:26:04 -> Saving to Z:\app\tmp\b0735615\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:26:04 -> loading report
+00:26:04 -> set variables
+00:26:04 -> building report file
+00:26:04 -> exporting to pdf file
+00:26:05 -> Report prepared
+00:26:05 -> Done! Z:\app\pdf\b0735615.pdf
+00:26:23 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001626&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:26:24 -> get report format
+00:26:24 -> init templates
+00:26:24 -> init main report format
+00:26:24 -> Trying to save...
+00:26:24 -> Saving to Z:\app\tmp\3706a224\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:26:24 -> loading report
+00:26:24 -> set variables
+00:26:24 -> building report file
+00:26:24 -> exporting to pdf file
+00:26:24 -> Report prepared
+00:26:24 -> Done! Z:\app\pdf\3706a224.pdf
+00:26:55 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112078&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:26:55 -> get report format
+00:26:55 -> init templates
+00:26:55 -> init main report format
+00:26:55 -> Trying to save...
+00:26:55 -> Saving to Z:\app\tmp\5713439b\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:26:55 -> loading report
+00:26:55 -> set variables
+00:26:55 -> building report file
+00:26:55 -> exporting to pdf file
+00:26:55 -> Report prepared
+00:26:56 -> Done! Z:\app\pdf\5713439b.pdf
+00:27:38 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001627&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:27:39 -> get report format
+00:27:39 -> init templates
+00:27:39 -> init main report format
+00:27:39 -> Trying to save...
+00:27:39 -> Saving to Z:\app\tmp\d4408010\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:27:39 -> loading report
+00:27:39 -> set variables
+00:27:39 -> building report file
+00:27:39 -> exporting to pdf file
+00:27:39 -> Report prepared
+00:27:39 -> Done! Z:\app\pdf\d4408010.pdf
+00:28:11 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001628&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:28:12 -> get report format
+00:28:12 -> init templates
+00:28:12 -> init main report format
+00:28:12 -> Trying to save...
+00:28:12 -> Saving to Z:\app\tmp\0a800130\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:28:12 -> loading report
+00:28:12 -> set variables
+00:28:12 -> building report file
+00:28:12 -> exporting to pdf file
+00:28:12 -> Report prepared
+00:28:12 -> Done! Z:\app\pdf\0a800130.pdf
+00:28:17 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112079&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:28:18 -> get report format
+00:28:18 -> init templates
+00:28:18 -> init main report format
+00:28:18 -> Trying to save...
+00:28:18 -> Saving to Z:\app\tmp\50065d60\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:28:18 -> loading report
+00:28:18 -> set variables
+00:28:18 -> building report file
+00:28:18 -> exporting to pdf file
+00:28:18 -> Report prepared
+00:28:18 -> Done! Z:\app\pdf\50065d60.pdf
+00:28:40 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_asiento_diario&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_CONTABILIDAD=001629&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=amvtecnologia&log_SISTEMA_DB=amvtecnologia&viewer=1
+00:28:40 -> get report format
+00:28:40 -> init templates
+00:28:40 -> init main report format
+00:28:40 -> Trying to save...
+00:28:40 -> Saving to Z:\app\tmp\2cc4bc63\\opt\lampp\htdocs\amvtecnologia\reportes\r_asiento_diario.fr3
+00:28:40 -> loading report
+00:28:40 -> set variables
+00:28:40 -> building report file
+00:28:40 -> exporting to pdf file
+00:28:41 -> Report prepared
+00:28:41 -> Done! Z:\app\pdf\2cc4bc63.pdf
+00:29:03 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112079&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:29:03 -> get report format
+00:29:03 -> init templates
+00:29:03 -> init main report format
+00:29:03 -> Trying to save...
+00:29:03 -> Saving to Z:\app\tmp\92b54dd8\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:29:03 -> loading report
+00:29:03 -> set variables
+00:29:03 -> building report file
+00:29:03 -> exporting to pdf file
+00:29:03 -> Report prepared
+00:29:04 -> Done! Z:\app\pdf\92b54dd8.pdf
+00:29:21 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112081&compress=1&id_m_usuario=001952&log_USER_ID=001952&log_USER_NAME=CZ+888+BATA+EL+PORTAL+KAREN+NAVA&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:29:21 -> get report format
+00:29:21 -> init templates
+00:29:21 -> init main report format
+00:29:21 -> Trying to save...
+00:29:21 -> Saving to Z:\app\tmp\03c37130\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:29:21 -> loading report
+00:29:21 -> set variables
+00:29:21 -> building report file
+00:29:21 -> exporting to pdf file
+00:29:22 -> Report prepared
+00:29:22 -> Done! Z:\app\pdf\03c37130.pdf
+00:30:17 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112082&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:30:18 -> get report format
+00:30:18 -> init templates
+00:30:18 -> init main report format
+00:30:18 -> Trying to save...
+00:30:18 -> Saving to Z:\app\tmp\97d04c50\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:30:18 -> loading report
+00:30:18 -> set variables
+00:30:18 -> building report file
+00:30:18 -> exporting to pdf file
+00:30:18 -> Report prepared
+00:30:18 -> Done! Z:\app\pdf\97d04c50.pdf
+00:31:00 -> call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_convenios_cxc&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_CONVENIOS_CXC=0039&compress=1&id_m_usuario=001112&log_USER_ID=001112&log_USER_NAME=CASTILLO+JORGE+LUIS&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1
+00:31:01 -> get report format
+00:31:01 -> init templates
+00:31:01 -> init main report format
+00:31:01 -> Trying to save...
+00:31:01 -> Saving to Z:\app\tmp\77c89620\\opt\lampp\htdocs\inventario\reportes\r_convenios_cxc.fr3
+00:31:01 -> loading report
+00:31:01 -> set variables
+00:31:01 -> building report file
+00:31:01 -> exporting to pdf file
+00:31:01 -> Report prepared
+00:31:01 -> Done! Z:\app\pdf\77c89620.pdf
+00:34:24 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112080&compress=1&id_m_usuario=001928&log_USER_ID=001928&log_USER_NAME=BENAVIDES+AMAYA+DANIEL+ALEJANDRO+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:34:24 -> get report format
+00:34:24 -> init templates
+00:34:24 -> init main report format
+00:34:24 -> Trying to save...
+00:34:24 -> Saving to Z:\app\tmp\0c71d54c\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:34:24 -> loading report
+00:34:24 -> set variables
+00:34:24 -> building report file
+00:34:24 -> exporting to pdf file
+00:34:25 -> Report prepared
+00:34:25 -> Done! Z:\app\pdf\0c71d54c.pdf
+00:34:45 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-24&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+00:34:46 -> get report format
+00:34:46 -> init templates
+00:34:46 -> init main report format
+00:34:46 -> Trying to save...
+00:34:46 -> Saving to Z:\app\tmp\73271213\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_venta_producto.fr3
+00:34:46 -> loading report
+00:34:46 -> set variables
+00:34:46 -> building report file
+00:34:46 -> exporting to pdf file
+00:34:46 -> Report prepared
+00:34:46 -> Done! Z:\app\pdf\73271213.pdf
+00:38:50 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_manifiesto&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_MANIFIESTOS=0011368&compress=1&id_m_usuario=001981&log_USER_ID=001981&log_USER_NAME=BONILLA+JIMENEZ+OSCAR+DAVID+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:38:51 -> get report format
+00:38:51 -> init templates
+00:38:51 -> init main report format
+00:38:51 -> Trying to save...
+00:38:51 -> Saving to Z:\app\tmp\326d12a2\\opt\lampp\htdocs\yobel\reportes\r_manifiesto.fr3
+00:38:51 -> loading report
+00:38:51 -> set variables
+00:38:51 -> building report file
+00:38:51 -> exporting to pdf file
+00:38:51 -> Report prepared
+00:38:51 -> Done! Z:\app\pdf\326d12a2.pdf
+00:39:13 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_manifiesto&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_MANIFIESTOS=0011370&compress=1&id_m_usuario=001981&log_USER_ID=001981&log_USER_NAME=BONILLA+JIMENEZ+OSCAR+DAVID+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:39:14 -> get report format
+00:39:14 -> init templates
+00:39:14 -> init main report format
+00:39:14 -> Trying to save...
+00:39:14 -> Saving to Z:\app\tmp\b49b7961\\opt\lampp\htdocs\yobel\reportes\r_manifiesto.fr3
+00:39:14 -> loading report
+00:39:14 -> set variables
+00:39:14 -> building report file
+00:39:14 -> exporting to pdf file
+00:39:14 -> Report prepared
+00:39:14 -> Done! Z:\app\pdf\b49b7961.pdf
+00:39:31 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_manifiesto&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_MANIFIESTOS=0011371&compress=1&id_m_usuario=001981&log_USER_ID=001981&log_USER_NAME=BONILLA+JIMENEZ+OSCAR+DAVID+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:39:32 -> get report format
+00:39:32 -> init templates
+00:39:32 -> init main report format
+00:39:32 -> Trying to save...
+00:39:32 -> Saving to Z:\app\tmp\b90069c0\\opt\lampp\htdocs\yobel\reportes\r_manifiesto.fr3
+00:39:32 -> loading report
+00:39:32 -> set variables
+00:39:32 -> building report file
+00:39:32 -> exporting to pdf file
+00:39:32 -> Report prepared
+00:39:32 -> Done! Z:\app\pdf\b90069c0.pdf
+00:39:50 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_manifiesto_abierto&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_MANIFIESTOS=0011372&compress=1&id_m_usuario=001981&log_USER_ID=001981&log_USER_NAME=BONILLA+JIMENEZ+OSCAR+DAVID+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:39:51 -> get report format
+00:39:51 -> init templates
+00:39:51 -> init main report format
+00:39:51 -> Trying to save...
+00:39:51 -> Saving to Z:\app\tmp\b7ba0002\\opt\lampp\htdocs\yobel\reportes\r_manifiesto_abierto.fr3
+00:39:51 -> loading report
+00:39:51 -> set variables
+00:39:51 -> building report file
+00:39:51 -> exporting to pdf file
+00:39:51 -> Report prepared
+00:39:51 -> Done! Z:\app\pdf\b7ba0002.pdf
+00:40:13 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_manifiesto&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_MANIFIESTOS=0011374&compress=1&id_m_usuario=001981&log_USER_ID=001981&log_USER_NAME=BONILLA+JIMENEZ+OSCAR+DAVID+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:40:13 -> get report format
+00:40:13 -> init templates
+00:40:13 -> init main report format
+00:40:13 -> Trying to save...
+00:40:13 -> Saving to Z:\app\tmp\b77d4480\\opt\lampp\htdocs\yobel\reportes\r_manifiesto.fr3
+00:40:13 -> loading report
+00:40:13 -> set variables
+00:40:13 -> building report file
+00:40:13 -> exporting to pdf file
+00:40:14 -> Report prepared
+00:40:14 -> Done! Z:\app\pdf\b77d4480.pdf
+00:40:28 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0013731&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+00:40:28 -> get report format
+00:40:28 -> init templates
+00:40:28 -> init main report format
+00:40:28 -> Trying to save...
+00:40:28 -> Saving to Z:\app\tmp\d0007611\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+00:40:28 -> loading report
+00:40:28 -> set variables
+00:40:28 -> building report file
+00:40:28 -> exporting to pdf file
+00:40:28 -> Report prepared
+00:40:28 -> Done! Z:\app\pdf\d0007611.pdf
+00:40:37 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_manifiesto&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_MANIFIESTOS=0011375&compress=1&id_m_usuario=001981&log_USER_ID=001981&log_USER_NAME=BONILLA+JIMENEZ+OSCAR+DAVID+&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:40:38 -> get report format
+00:40:38 -> init templates
+00:40:38 -> init main report format
+00:40:38 -> Trying to save...
+00:40:38 -> Saving to Z:\app\tmp\21b34318\\opt\lampp\htdocs\yobel\reportes\r_manifiesto.fr3
+00:40:38 -> loading report
+00:40:38 -> set variables
+00:40:38 -> building report file
+00:40:38 -> exporting to pdf file
+00:40:38 -> Report prepared
+00:40:38 -> Done! Z:\app\pdf\21b34318.pdf
+00:43:56 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0013732&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+00:43:57 -> get report format
+00:43:57 -> init templates
+00:43:57 -> init main report format
+00:43:57 -> Trying to save...
+00:43:57 -> Saving to Z:\app\tmp\31101c62\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+00:43:57 -> loading report
+00:43:57 -> set variables
+00:43:57 -> building report file
+00:43:57 -> exporting to pdf file
+00:43:57 -> Report prepared
+00:43:57 -> Done! Z:\app\pdf\31101c62.pdf
+00:50:15 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-24&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+00:50:15 -> get report format
+00:50:15 -> init templates
+00:50:15 -> init main report format
+00:50:15 -> Trying to save...
+00:50:15 -> Saving to Z:\app\tmp\c054cc3d\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_venta_producto.fr3
+00:50:15 -> loading report
+00:50:15 -> set variables
+00:50:15 -> building report file
+00:50:15 -> exporting to pdf file
+00:50:16 -> Report prepared
+00:50:16 -> Done! Z:\app\pdf\c054cc3d.pdf
+00:52:42 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112051&compress=1&id_m_usuario=0011094&log_USER_ID=0011094&log_USER_NAME=LUIS+HERNAN+SIMBANA+TITUANA&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+00:52:42 -> get report format
+00:52:42 -> init templates
+00:52:42 -> init main report format
+00:52:42 -> Trying to save...
+00:52:42 -> Saving to Z:\app\tmp\b105b149\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+00:52:42 -> loading report
+00:52:42 -> set variables
+00:52:42 -> building report file
+00:52:42 -> exporting to pdf file
+00:52:43 -> Report prepared
+00:52:43 -> Done! Z:\app\pdf\b105b149.pdf
+01:07:10 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-24&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+01:07:10 -> get report format
+01:07:10 -> init templates
+01:07:10 -> init main report format
+01:07:10 -> Trying to save...
+01:07:10 -> Saving to Z:\app\tmp\6d90d012\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_venta_producto.fr3
+01:07:10 -> loading report
+01:07:10 -> set variables
+01:07:10 -> building report file
+01:07:10 -> exporting to pdf file
+01:07:11 -> Report prepared
+01:07:11 -> Done! Z:\app\pdf\6d90d012.pdf
+01:08:36 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-24&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-24&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+01:08:36 -> get report format
+01:08:36 -> init templates
+01:08:36 -> init main report format
+01:08:36 -> Trying to save...
+01:08:36 -> Saving to Z:\app\tmp\66c90d31\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_venta_producto.fr3
+01:08:36 -> loading report
+01:08:36 -> set variables
+01:08:36 -> building report file
+01:08:36 -> exporting to pdf file
+01:08:37 -> Report prepared
+01:08:37 -> Done! Z:\app\pdf\66c90d31.pdf

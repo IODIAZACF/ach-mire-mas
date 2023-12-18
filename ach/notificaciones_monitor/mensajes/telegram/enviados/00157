@@ -1,0 +1,26 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 200
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1380371253
+                    [first_name] => Reinaldo
+                    [type] => private
+                )
+
+            [date] => 1593549432
+            [text] => hola reinaldo
+        )
+
+)

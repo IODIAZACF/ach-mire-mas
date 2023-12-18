@@ -1,0 +1,57 @@
+stdClass Object
+(
+    [_id] => 396440207
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-02-21T11:04:22.509-05:00
+    [end] => 2023-02-21T11:19:38.437-05:00
+    [group_gener/departamento] => choco
+    [group_gener/municipio] => 27491_novita
+    [group_gener/Point] => -0.900842 -71.286202 0 0
+    [group_gener/Vereda_Corregimiento] => Sin Información
+    [group_gener/Comunidad] => Curundó
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => CHNO-188.1
+    [group_gener/Fecha_del_Evento_001] => 2021-12-05
+    [group_gener/Hora_del_Evento] => 07:04:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => Circula audio por parte de GAI de restricción a la movilidad en Novita, con amenaza directa a quienes se transporten por cualquier medio, hasta nueva orden
+    [group_gu1lq88/CATEGOR_A] => paros_armados fiestas_nacionales___fiestas_l restricci_n_a_la_movilidad
+    [group_gu1lq88/ONG_IMPLICADAS] => ach nrc aps mdm plan
+    [group_gu1lq88/Autor] => Alexander Rivera
+    [group_gu1lq88/Consecuencias] => reprogramaci_n_de_la_agenda
+    [group_gu1lq88/Fecha_de_Reprogramaci_n] => 2022-01-12
+    [group_gu1lq88/MEDIDAS_TOMADAS] => En seguimiento para dar visto bueno al ingreso del consorcio. Complejo para la misión que empieza mañana, ya estamos en comunicación con la líder, mañana a las 4 hay una nueva reunión con alcaldía, también se está validando con los líderes de la zona, a pesar que Curundó es lejano, debemos evaluar además, las restricciones de movilidad que afectan el transporte y elevan los niveles en términos de seguridad. El informe debe ser enviado a las 11 am con la validación de ustedes y en la tarde, una actualización. se emite un informe con las alertas para el CD.Buenas tardes, Personería de Novita indica que no hay garantías de seguridad para la misión (recomienda esperar una semana), Consejo Comunitario No da garantías de ingreso, el grupo no aceptó el canal humanitario, manifiesta que el que no cumpla con las órdenes de restricción dará a entender que están en contra de sus intereses y actuarán bajo ese entendido.
+    [group_gu1lq88/Seguimiento] => 07 de dic: el Consejo de Novita indica que no hay cambios en la situación, insisten en la solicitud de aplazar una semana el ingreso.En relación a la entrada a Novita para el 7 de Enero. Se considera que la fecha de ingreso se debe replantear para el 11 o 12  de Enero teniendo presente que las comunidades del choco suelen por tradición celebrar el festivo de Reyes.
+    [group_gu1lq88_001/Caracter] => GAO
+    [group_gu1lq88_001/GAO] => Clan del Golfo- AGC
+    [group_gu1lq88_001/Clan_del_Golfo_AGC] => bloque_caribe_norte
+    [__version__] => v4GupGhVJoTDzM7JvCnrRb
+    [meta/instanceID] => uuid:f9f4a20f-0fcd-4dd7-9157-2e4f40b14c7e
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => f9f4a20f-0fcd-4dd7-9157-2e4f40b14c7e
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => -0.900842
+            [1] => -71.286202
+        )
+
+    [_submission_time] => 2023-02-21T16:19:45
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

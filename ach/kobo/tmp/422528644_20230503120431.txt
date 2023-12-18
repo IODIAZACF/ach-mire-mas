@@ -1,0 +1,187 @@
+stdClass Object
+(
+    [_id] => 422528644
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-05-03T11:32:09.853-05:00
+    [end] => 2023-05-03T12:02:47.635-05:00
+    [group_pl6la06/_1_C_digo] => VABU-750.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-02-26
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-03-10
+    [group_pl6la06/_4_Departamento] => VALLE_DEL_CAUCA
+    [group_pl6la06/VALLE_DEL_CAUCA] => BUENAVENTURA
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Veredas: Secadero, Comba, Cacao
+    [group_pl6la06/_8_Comunidad] => Cacao y Mayorquín
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento desplazamiento_masivo
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO ORGANIZACION_ETNICO_COMUNITARIA
+    [group_mb5pt53/_1a_Evaluador] => Ana María Gualtero
+    [group_mb5pt53/_1b_Celular] => +57 310 3844340
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ALIANZA_POR_LA_SOLIDARIDAD_APS
+    [group_mb5pt53/_2a_Evaluador] => Denniss Alberto Tenorio
+    [group_mb5pt53/_2b_Celular] => +57 316 5378765
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ALIANZA_POR_LA_SOLIDARIDAD_APS
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-01-29
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde el 29 de enero del 2023, 479 personas (193 familias) pertenecientes a las veredas Cacao, Comba y Secadero del Consejo Comunitario del río Mayorquín, ubicadas en la zona rural de Buenaventura, se encuentran en emergencia por confinamiento debido a enfrentamientos entre un Grupo Armado No Estatal (GANE) y la Fuerza Pública. Debido a esto, y ante el temor de interposición de la población en el cruce de fuego, las veredas afectadas enfrentan limitaciones para desarrollar sus prácticas productivas de generación de ingresos como la pesca, caza y recolección de alimentos, también ha restringido el acceso a medios de vida y ha generado riesgos de desplazamientos forzados.  Además, 50 personas (21 familias) de la vereda Cacao se desplazaron hacia la cabecera municipal de Buenaventura. La ocurrencia de esta emergencia es una alerta por la expansión, incursión y control territorial de los GANE en esta zona, ya que las veredas afectadas no reportaron emergencias por conflicto armado durante el 2022
+    [group_rq63s60/group_lm6cx76/a_Social] => Análisis de la situación
+•	El conflicto armado se agudizó en el río Mayorquín y demás ríos aledaños ubicados en la zona rural de Buenaventura. Desde enero 2023 se han presentado enfrentamientos entre los distintos GANE que hacen presencia en la zona y se disputan el control territorial de la región del Naya, por su ubicación estratégica, salida al mar y corredor para las rutas del narcotráfico y otras economías ilegales.
+•	Actualmente, 479 personas (193 familias) pertenecientes a las veredas de Cacao, Comba y Secadero del Consejo Comunitario de Mayorquín, se encuentran en confinamiento. Adicionalmente, 50 personas (21 familias) pertenecientes a la comunidad de Cacao se desplazaron hacia el casco urbano de Buenaventura.  
+•	Debido al confinamiento, las familias presentan restricciones a la movilidad que limitan la realización de sus principales actividades económicas tradicionales, tales como, pesca, recolección de moluscos y extracción de madera. Así también, impide la recolección de agua y actividades comunitarias. 
+•	El GANE estableció puntos ilegales de control en la vía terrestre, para hacer seguimiento al ingreso y la salida del territorio, también han realizado amenazas en contra de líderes y lideresas, extorsiones a tenderos y comerciantes del río, señalamientos y hostigamientos, e incursiones a las comunidades.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Las afectaciones por la emergencia incrementan las vulnerabilidades y necesidades de manera diferencial a mujeres, niñas, niños y adolescentes, y adultos mayores; se identificaron afectaciones en la salud mental como consecuencia de los riesgos de protección.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las principales actividades económicas de las comunidades afectadas por la emergencia son la pesca, la extracción de piangua, la agricultura y la comercialización de madera.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Sin Información
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las comunidades asentadas en el río Mayorquín no tienen acceso a servicios públicos de agua potable, electricidad, telefonía y saneamiento básico. Las comunidades se abastecen de fluido eléctrico a través de una planta generadora de electricidad a diesel. Para tener conectividad a internet las personas deben comprar pines de conexión con tiempo limitado.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Sin Información
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/Riesgos_para_respuesta] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1d_Caracterizaci_n_Homicidios] => HOMICIDIOS_SELECTIVOS_LÍDERES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO ELN
+    [group_fm93i53/_1i_Descripci_n_VBG] => RESTRICCION_ACTIVIDADES_DOMESTICAS LIMITADO_ACCESO_A_EDUCACION ECONOMICA_Y_PATRIMONIAL
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => Para acceder a las comunidades afectadas, desde la cabecera municipal de Buenaventura se realizada el traslado en transporte fluvial (una hora de recorrido) hasta las veredas Comba, Cacao y Secadero. Las distancias entre las comunidades son muy cortas, entre Comba y Secadero hay 3 minutos (recorridos que se pueden hacer caminando) y de las dos comunidades anteriores a Cacao es de 3 minutos en lancha. Se recomienda que el personal humanitario vaya acompañado por un líder/lideresa o persona delegada de la comunidad. Frente una posible respuesta, las comunidades cuentan con espacios comunitarios para el almacenamiento y/o bodegaje de insumos. Se recomienda que la compra de insumos se realice en Buenaventura, debido a que las comunidades no cuentan con tiendas grandes y el agua no es potable. Para el alojamiento del personal humanitario de respuesta hay disponibilidad de los espacios comunitarios.
+    [group_fm93i53/seguridad] => La dinámica del conflicto armado en la región, la presencia de grupos armados no estatales (GANE), las disputas entre estos por el control del territorio y de las rentas de las economías ilegales, y la importancia geoestratégica de las comunidades afectadas para las rutas del narcotráfico están generando graves afectaciones en la población civil de las veredas Comba, Cacao y Secadero, dejándola expuesta a múltiples riesgos de protección como desplazamientos, confinamientos, homicidios, intimidaciones y amenazas en contra de líderes y lideresas comunitarias.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 214
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 529
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 3
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-05-03
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 100
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION_-VBG PROTECCION-PR EDUCACION WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => Indicadores clave
+•	Los hechos victimizantes han sido visibilizados con la institucionalidad, se tomó la declaración por parte de la Defensoría del Pueblo, sin embargo, esta no se ha remitido aún a la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV).
+•	Al interior de las comunidades afectadas no hay conocimientos sobre la normatividad de víctima, activación de rutas y exigencia de derechos.
+•	Se identificaron brechas que limitan el acceso de las comunidades a la asistencia y atención oportuna. Entre estas brechas están: amenazas por parte de los GANE, temor de movilizarse al casco urbano, falta de señal telefónica y de internet para conocer oferta de servicios, y la falta de cobertura y acompañamiento de las instituciones locales encargadas.
+•	Líderes, lideresas y defensores de DDHH requieren fortalecer sus conocimientos en torno al acceso a rutas de atención, normatividad, entidades responsables en la atención, ya que debido a los señalamientos y amenazas que han recibido por parte de los grupos y la falta de orientación legal, no saben a qué entidades acudir para exigir las garantías de sus derechos.
+Hallazgos
+•	Las familias de la comunidad de Cacao que se desplazaron hasta el casco urbano de Buenaventura realizaron la declaración ante la Defensoría del Pueblo. Sin embargo, se evidenció que la institucionalidad hace una remisión tardía de las declaraciones, lo que retrasa el proceso para la aceptación en el Registro Único de Víctimas. 
+•	Las comunidades que se encuentran confinadas realizaron la declaración de los hechos ante la Defensoría del Pueblo. La Alcaldía Municipal, activó la primera respuesta a la emergencia de inmediatez a través de la entrega de paquetes de alimentos familiares durante el mes de enero 2023. 
+•	Líderes y lideresas señalaron que las familias afectadas no conocen las rutas de atención y asistencia, ni la normativa de víctimas. Se identificaron personas con necesidades especiales de protección que requieren asesoría jurídica.
+•	Falta de información sobre asistencia humanitaria, restablecimiento de derechos de las víctimas de conflicto armado y acompañamiento por parte de los entes territoriales.
+Recomendaciones
+•	Orientación y asistencia legal individual para el acceso a las rutas de atención a personas víctimas del conflicto armado.
+•	Espacios de información sobre acceso a rutas de atención a víctimas del conflicto armado.
+•	Acompañamiento para el acceso a la información sobre el estado de las reparaciones individuales de personas priorizadas para la indemnización y quienes nuevamente son víctimas del conflicto armado. 
+•	Fortalecimiento a líderes, lideresas en derecho propio, nuevos liderazgos y herramientas jurídicas para la exigibilidad de derechos.
+    [group_aa8xg30/group_ow1dy59/VBG] => Indicadores clave
+•	Los funcionarios/as conocen e implementan las rutas de atención y protección a víctimas y sobrevivientes de VBG, disponen de distintos canales de denuncia y atención, sin embargo, estos están ubicados en la cabecera municipal, cuyo acceso es limitado para las mujeres de las comunidades rurales. Las mujeres sienten temor de denunciar, además de desconocer las rutas de atención y acceso a servicios. 
+•	¿Manifiestan preocupaciones por la posibilidad de sufrir alguna violencia cuando se pregunta sobre la asistencia a los entornos educativos?
+•	La presencia de los GANE, las acciones armadas en contra de la población civil y la prolongación de los hechos victimizantes, genera al interior de las comunidades sensación de inseguridad para la asistencia de los niños, niñas y adolescentes a los espacios educativos.
+•	Las mujeres participan y ocupan cargos en los Consejos Comunitarios, pero siguen siendo minoría y su participación en la toma de decisiones para las políticas de protección es muy baja.
+Hallazgos
+•	Los líderes y lideresas son víctimas de amenazas asociadas a los procesos comunitarios que realizan de defensa del territorio frente a la titulación de tierras y la explotación de hidrocarburos.
+•	Los líderes y lideresas están en proceso de iniciar las rutas de protección colectiva e individuales ante la Unidad Nacional de Protección y requieren apoyo jurídico a fin de ampliar el conocimiento sobre las medidas colectivas e individuales de protección. 
+•	No existen antecedentes próximos en violencias sexuales en contexto de conflicto armado. Sin embargo, se evidenció la existencia de Violencias Basadas en Género (VBG) en contexto intrafamiliar; las mujeres señalaron que los riesgos de VBG incrementaron como consecuencia de las afectaciones emocionales y físicas por el conflicto armado.
+•	Se identificó un alto índice de embarazos a temprana edad y acceso limitado a los métodos de planificación de familiar debido a las restricciones a la movilidad y los confinamientos.
+•	Hay restricciones de acceso para los agentes educativos, lo que ha derivado en la suspensión del calendario escolar y en el incremento de los riesgos de reclutamiento, vinculación y utilización de niños, niñas y adolescentes.
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => Recomendaciones
+•	Articulación con las entidades municipales para la activación de las rutas de protección pertinentes. 
+•	Generar canales de comunicación segura para la remisión e identificación de casos individuales con los líderes y lideresas, agentes educativos, madres comunitarias y actores claves en el territorio.
+•	Acompañamiento en los procesos de empoderamiento de capacidades de exigibilidad, mecanismos y activación de rutas para la protección y defensa de los derechos comunitarios e individuales. 
+•	Brindar acompañamiento, asesoría y apoyo durante el proceso de identificación de casos que requieren medidas de protección individual y colectiva.
+    [group_aa8xg30/group_fv0ct51/Agua] => Indicadores clave
+•	El 95% de la población no usa agua segura ya que su consumo se encuentra limitado por no contar con los procesos de tratamiento adecuado.
+•	El 95% de la población que no tiene acceso a lavamanos o duchas para realizar los procesos de higiene.
+•	El 100% de la comunidad manifiesta no tener acceso a los elementos de primera necesidad en higiene.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Hallazgos
+En cuanto a los artículos de aseo se ha visto limitada la compra de estos productos, esto debido a la situación de confinamiento sumado a los constantes robos que se presentan a las embarcaciones que se encargan de surtir las tiendas de las comunidades.
+•	Las veredas afectadas por la emergencia se abastecen principalmente de la recolección de aguas lluvia y afluentes cercanos. Para el abastecimiento diseñaron un sistema de conducción del agua hasta los hogares. El agua que utilizan para el consumo no recibe ningún tipo de tratamiento.
+•	Las comunidades no cuentan con redes de alcantarillado comunitario, ni sistemas familiares de tratamiento de las aguas residuales (pozos sépticos), debido a esto las deposiciones son vertidas directamente al mar.
+•	Se identificó que al interior de las comunidades hay proliferación de zancudos y roedores, como consecuencia del mal manejo de los residuos sólidos, por lo que hay prevalencia de enfermedades transmitidas por vectores como malaria y dengue.
+•	Se identificó que las comunidades tienen acceso limitado a los elementos básicos para la higiene debido a las restricciones a movilidad y la falta de ingresos económicos.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Recomendaciones
+•	Reforzar las sensibilizaciones en agua segura, enfocándolas a los métodos de tratamiento de agua a nivel intradomiciliario y almacenamiento seguro.
+•	Desarrollar formaciones sobre buenas prácticas de higiene, enfocadas en la higiene al interior de la vivienda y espacios comunes.
+•	Distribución de kits de higiene a nivel familiar e individual con enfoque diferencial.
+    [group_aa8xg30/group_jn0nm53/san] => Indicadores clave
+•	La falta de recursos económicos para acceder a alimentos, las restricciones a la movilidad y a los medios de vida incrementan las necesidades en la seguridad alimentaria de las familias afectadas por la emergencia.
+•	Hay disponibilidad de alimentos en la zona urbana de Buenaventura, sin embargo, las comunidades rurales que se trasladan hasta la cabecera municipal para abastecerse han sido víctimas de robo por parte GANE y grupos de delincuencia común donde los despojan de los alimentos que adquieren y de los motores de sus embarcaciones.
+•	El consumo promedio de ingesta de alimentos es de 3 comidas al día, sin embargo, la familias afectadas por la emergencia refirieron que han tenido que reducir las porciones y algunas han tenido que reducir en número de ingestas.
+•	El estado de los alimentos en promedio es regular, ya que en las viviendas no se tiene las condiciones de higiene, adecuadas para el almacenamiento y manipulación de los alimentos.
+•	La mayoría de las familias afectadas han tenido que pedir comida prestada o regalada a vecinos o familiares porque no se tienen alimentos. Frente a esta estrategia de afrontamiento señalaron que se desarrolla como práctica colaborativa.
+•	Las familias han tenido que recurrir a compran alimentos menos preferidos o más económicos por el acceso económico limitado.
+•	Aplicación de conocimientos sobre seguridad alimentaria en una emergencia.
+•	Las veredas afectadas no cuentan con comités sobre la alimentación, ni formación en hábitos alimentarios saludables, buenas prácticas de higiene y almacenamiento de alimentos. Además, la mayoría de las familias refirió que no tiene conocimientos de la importancia de lactancia materna.
+•	En la mayoría de los hogares se evidenció que las mujeres desarrollan roles de cuidado, entre estos, son responsables de la preparación de alimentos.
+•	Se identificó que hay poca variedad de alimentos debido a las restricciones de movilidad y controles de acceso por parte de los GANE.
+•	La Unidad de Víctimas hizo entrega de paquetes alimentarios a las tres comunidades por medio de la Secretaría Municipal de Convivencia.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Indicadores clave
+•	La capacidad de respuesta en salud física, mental, sexual y reproductiva, de las instituciones municipales locales es limitada especialmente para las comunidades rurales.
+•	El acceso a los servicios de salud es limitado para las familias afectadas por la emergencia, dado que no cuentan con personal sanitario en las comunidades afectadas. Además, para acceder a los servicios médicos deben trasladarse hacia la cabecera municipal de Buenaventura. Sin embargo, las condiciones de seguridad, la situación de confinamiento a la que están sometidas las comunidades y los costos de transporte restringen el traslado hacia el hospital municipal y centros de salud cercanos.
+•	Como consecuencia de los hechos victimizantes derivados del conflicto armado, se identificaron afectaciones psicosociales como duelos, depresión, ansiedad y psico somatización, por lo que se requiere acompañamiento psicosocial individual y colectivo.
+•	Se identificó un incremento en el número de personas con enfermedades como hipertensión, diabetes y paludismo.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Sin Información
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Sin Información
+    [group_aa8xg30/group_tb5de96/EIE] => Indicadores clave
+•	 Se identificó que cerca de 400 niños, niñas y adolescentes vinculados a las sedes educativas de la zona no han logrado iniciar su ciclo escolar en modalidad presencial.
+•	Se identificaron los siguientes riesgos de protección en niños, niñas y adolescentes: Afectación psicosocial, reclutamiento, vinculación y utilización por parte de los GANE, deserción escolar y violencias basadas en género. 
+•	Durante la emergencia se evidenció la necesidad de una estrategia de adaptación curricular y entrega de material educativo.
+•	En las comunidades afectadas por la emergencia no se desarrollan actividades para el uso del tiempo libre de los niños, niñas y adolescentes en edad escolar.
+•	En las comunidades afectadas hay personal docente y agentes educativos comunitarios con quienes se puede construir un plan de trabajo en el marco de la emergencia.
+
+Hallazgos
+•	La zona del río Mayorquín la comprenden 9 veredas, de las cuales 3 están confinadas (Cacao, Secadero y Conga). Sin embargo, frente al acceso al servicio educativo, las 9 comunidades se encuentran afectadas debido a que no pueden ingresar a la zona de Papayal donde está ubicada la sede principal de la Institución Educativa.
+•	Los docentes asignados a la zona del río Mayorquín refirieron que no cuentan con garantías de seguridad para su ingreso a las comunidades y así atender las necesidades de educación de la población escolar. Han optado por iniciar el año escolar mediante guías de trabajo para los estudiantes, situación que no está siendo aceptada por los padres de familia.
+•	Desde que inició el año escolar no se han desarrollado clases presenciales, los docentes se encuentran trabajando en estrategias que permitan agilizar su ingreso a la zona.
+•	Los docentes manifiestan que como no han logrado acceder a la zona para iniciar con el año escolar, los padres de familia han tomado la decisión de retirar a sus hijos de las sedes rurales y vincularlos a las sedes urbanas.
+•	No existe actividades o iniciativas de utilización del tiempo libre para NNAJ quienes se ven expuestos en mayor medida a riesgos de reclutamiento, vinculación y utilización por parte de los GANE.
+Recomendaciones
+•	Desarrollar espacios de formación de personal docente y Agentes Educativos Comunitarios en Educación en Emergencias y consolidación de plan educativo de respuesta en emergencia. 
+•	Entregar kits escolares y material lúdico - pedagógico para niños, niñas y adolescentes en edad escolar, personal docente y agentes educativos comunitarios, con el objetivo de promover actividades escolares y de aprovechamiento del tiempo libre.
+•	Implementar estrategias de prevención de cualquier tipo de violencia en contra de niños, niñas y adolescentes que integran las comunidades afectadas.
+    [group_aa8xg30/BrechasInformacion] => Por actualizar.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 0
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por confirmar
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Por confirmar
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Por confirmar
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => Por confirmar
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:1f29e154-7b02-4fa0-b5da-10a5967c726a
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 1f29e154-7b02-4fa0-b5da-10a5967c726a
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-03T17:02:59
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

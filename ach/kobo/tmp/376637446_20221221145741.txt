@@ -1,0 +1,160 @@
+stdClass Object
+(
+    [_id] => 376637446
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2022-12-16T14:00:55.124-05:00
+    [end] => 2022-12-21T14:55:58.468-05:00
+    [group_kp1mu41/_1_C_digo] => NASA-483.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2022-12-19
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-09-21
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-12-18
+    [group_kp1mu41/_4_Departamento] => NARIÑO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Corregimiento de Llorente - Comunidades Inda Guacaray
+    [group_kp1mu41/num_comunidades] => 4
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => TODAS
+    [group_kp1mu41/_8_Comunidad] => La Batea, Guacaray, Peña Lisa, Alto Inda y Villa Hermosa tienen el mismo # FUD: NF000778130
+    [group_kp1mu41/Urbano_Rural] => semiurbano
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Raul Camilo Villate Angulo
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3102166465
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion_VBG R1_Proteccion_PR R1_Proteccion_NNAJ R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-4/Reubicación 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases 2-R1-1.2-4-7/Entrega_de_kits_de_dignidad
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2022-10-21
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2022-12-18
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => Se identificó (1) caso de una persona víctima de VBG quien acude a la asesoría psicosocial, sin embargo, debido a las dinámicas familiares, la mujer desiste del proceso. Se observó la barrera que existe para que las personas víctimas o sobrevivientes de VBG acudan a las rutas o programas de protección, por la normalización de estas violencias en sus dinámicas de vida. Lo anterior, dificulta que las personas quieran buscar ayuda y activar las rutas y medidas pertinentes.
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => Fortalecimiento de las capacidades de las mujeres, líderes, lideresas, docentes y actores claves, en la identificación de las distintas formas de VBG. Así como, la implementación y apoyo para la construcción de estrategias de auto protección, afrontamiento. Lo anterior, a fin de contra restar los estereotipos que inhiben que las personas accedan a buscar ayuda.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-12/Asesoramiento_jurídico 2-R1-1.3-5-13/Apoyo_psicosocial_(individ
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2022-10-21
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2022-12-18
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => No se presentan vacíos durante la respuesta dada en la comunidad de Guacaray, ya que la información brindada a la comunidad durante los espacios de sensibilización permitió que las personas accedieran a los servicios de manera confiable, expresando con seguridad la necesidad existente y recibiendo la asesoría requerida.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => Aprovechar los espacios de sensibilización con la comunidad en general para dar a conocer el proceso de gestión de casos mediante el cual se puede brindar apoyo a personas con alguna dificultad y que no deseen acceder a las instituciones cercanas a su comunidad.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i4] => 2-R1-1.4-7-19/NNJ_con_evaluación_inicial 2-R1-1.4-7-20/NNJ_con_primeros_auxilios_ 2-R1-1.4-7-24/NNJ_con_entrega_de_efectiv
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_NNAJ] => 2022-08-24
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_NNAJ] => 2022-12-18
+    [group_wo86e58/group_hc3sa85/Vacios_NNAJ] => El tema de los NNAJ en la mayoría de las comunidades es difícil de trabajar dado la desconfianza que mantienen lideres y lideresas ante los procesos que desarrollan algunas regionales del ICBF cuando exponen casos de NNAJ en riesgo, por esta razón, es importante generar espacios de confianza y seguridad en las comunidades frente a la respuesta que brinda el sector con el fin de cubrir las necesidades de NNAJ en riesgo.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_NNAJ] => Identificar aquellas ONG´s en cada zona que trabajen en pro de los derechos y bienestar de los NNAJ con el fin de identificar aquellas necesidades de difícil atención.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.4-20-6d-Protocolos_manejo 2-R4-4.1-16-1-Entrega_kits_agua 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas 2-R4-4.5-22-8-Aumento_conocimiento
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2022-09-21
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2022-09-25
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => N/A
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => Visibilizar las necesidades en agua segura a las instituciones de Inda Guacaray permitirían un acceso de agua en mejores condiciones a los menores o estudiantes que se encuentran inscritos en estas comunidades, adicional es importante que los organismos ambientales puedan revisar estrategias que mitiguen la contaminación de afluentes en la zona, puesto que en la ERN las comunidades mencionaban que no pueden consumir agua de unas quebradas y rios cercanas porque están contaminadas con hidrocarburos y metales pesados.
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2022-09-21
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2022-10-31
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => Las comunidades mencionaron que para el caso de los alimentos perecederos aunque podían producirlos, dado los continuos enfrentamientos de la zona no pueden acercarse a sus cultivos ni la comercialización de los mismos en mercados de proximidad dado que los transportadores no ingresan a la zona por la presión de algunos grupos. De allí es importante manifestar las necesidades de comercialización de los productos  y de redes de transporte de productos agrícolas a cascos urbanos con otros proyectos de recuperación temprana y/o desarrollo que se encuentren en la zona para poder apoyar con las redes de comercialización
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => La articulación con las entregas de algunos productos que entregó PMA a las comunidades de Inda Guacaray junto con el sector SAN permitieron entregar alimentos diferenciales como granos, algunas harinas y proteína animal (Huevo). Por tal razón se recomienda seguir incentivando la articulación para que desde las agencias de cooperación y las institucionales puedan brindar asistencia complementaria entre varios.
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2022-10-30
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2022-11-05
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => N/A
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => N/A
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => El equipo del sector protección ApS basa su identificación de casos de VBG por medio de los espacios de sensibilización a mujeres y comunidad en general. Creando mediante este espacio, un ambiente de confianza y seguridad mediado por la información, lo cual permite que las mujeres, en la mayoría de los casos, se acerquen a compartir la situación que atraviesan y así brindar una respuesta integral ante su condición.
+    [group_of2sk15/group_cf63e32/_4_Provisi_n_de_respuesta_y_seguimiento_a_casos_de_riesgo_o_sobrevivientes_de_VBG_ApS] => El seguimiento de los casos individuales por VBG de desarrolla conforme la evaluación inicial de cada caso, pues es ahí donde se identifican aspectos claves que le permiten al equipo de protección ApS brindar una respuesta integral.
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => La respuesta se basa en el respeto a las condiciones de cada caso y la necesidad que presenta la persona. Se explica cada paso del proceso de manera que la información que se le entregue a las personas sea de fácil comprensión, reconociendo la importancia de cada fase del proceso.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => Desde el sector SAN escuela de la batea le fueron entregados 5 filtros adicional se hizo la sensibilización a los docentes sobre el manejo y uso de los mismos para garantizar acceso a agua segura a los NNA de la institución Educativa.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => N/A
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_saneamiento_b_sico] => N/A
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Desde el sector de WASH se entregaron 333 kits de higiene que beneficiaron a 328 familias con artículos de higiene para familias priorizadas por las restricciones a la movilidad y los desplazamientos.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Se realizaron jornadas de sensibilización en buenas prácticas de higiene a las 5 comunidades en temas de; Higiene personal y del entorno, agua segura, vectores y residuos sólidos.
+Formaciones en tratamiento de agua a nivel intradomiciliario y almacenamiento seguro, apoyado con elementos de fácil adquisición en las comunidades, a fin de generar conocimiento que luego redundará en capacidad instalada.
+Sensibilizaciones en buenas prácticas de higiene, a fin de evitar la transmisión y propagación de enfermedades, con ello mejorar la calidad de vida de las comunidades. 
+Se realizó encuesta inicial y final a fin de evaluar conocimiento de los hábitos de higiene de los asistentes.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => Se realizó la ERIN en la institución de Aguazú donde se evaluaron con referentes de las comunidades del resguardo de Inda Guacaray las necesidades alimentarias a causa de la presencia de GANE y el control del territorio. Destacando que las familias no han podido acceder a redes de mercado para vender los excedentes agrícolas y comprar productos de la canasta familiar en las redes de comercio mas cercano puesto que los GANE les prohíben el libre transito a Llorente (Cabecera del corregimiento) por considerarlos activistas de un o del otro grupo. Las dificultades de acceso obligaron a las familias a implementar estrategias de afrontamiento reducido, en la cuales mencionan que han tenido que disminuir el tamaño de las porciones durante los meses de restricción, sin embargo, no han pasado todo un día y una noche sin consumir alimentos. Han tenido que disminuir el número de comidas al día (en promedio una ingesta de 2 comidas al día), con una dieta poco diversificada a partir de 4 a 6 grupos de alimentos, principalmente: cereales, raíces y tubérculos, leguminosas, frutas y vegetales. El estado de los alimentos en promedio es bueno y regular.
+De igual manera, la mayoría de las familias han tenido que desarrollar estrategias como: pedir comida prestada o regalada a vecinos o familiares entre tres a cuatro días a la semana, comprar alimentos menos preferidos o más económicos, y en general todos los hogares han tenido que disminuir la alimentación de los adultos para priorizar la alimentación de los NNA.
+La principal fuente de energía que utilizan las comunidades para la preparación de los alimentos es gas propano seguida de leña, manifestaron que hay aumento en los precios del gas.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => En el resguardo de Inda Guacaray se atendieron las comunidades de (La Batea, Bajo Inda, Villa Hermosa y Guacaray) con 355 paquetes alimentarios familiares y talleres en (Seguridad Alimentaria y Alimentación Saludable); en total se beneficiaron 336 familias y 997 personas en necesidades alimentarias insatisfechas a causa del conflicto armado en sus territorios. En los talleres de formación se promovió para que desde el cabildo de la comunidad se pueda hacer una incidencia para que las familias puedan comercializar sus productos mediante intermediarios o venta directa en comercios aledaños como Llorente, Tumaco, Pasto puesto que las necesidades de comercialización se restringen al momento de sacar los productos agrícolas de los medios de cultivo por la restricción a la movilidad. 
+El paquete alimentario estándar fue modificado para poder complementar la entrega que se proyectó por PMA con alimentos por miembro familiar, después de cruzar la información con PMA se modificaron cantidades y alimentos para poder brindar un paquete diferencial complementario en el cual se incluyo el Huevo como fuente de proteína animal.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => En total se realizaron 10 líneas base en la comunidad de Inda Sabaleta, en donde se realizaron en total 8 PDM a jefas y jefes de hogar a los cuales se les entregó paquetes alimentarios.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => El objetivo de las atenciones se centró en generar acciones de baja densidad en salud física para manejo de morbilidades complementarias derivadas de la emergencia. Se realizaron atenciones inicialmente priorizando la comunidad específica según el momento de la respuesta, sin embargo los beneficiarios asistieron de acuerdo con su disponibilidad y necesidad; eso requirió adaptar la agenda de la misión a las necesidades de las poblaciones.
+Se atendieron un promedio de 157 atenciones primarias en salud, 151 muestras rápidas de laboratorio, una consultas en control prenatal y 17 procedimientos de enfermería.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => En la comunidad de Inda Guacaray se realizaron 157 entregas de medicamentos en las atenciones por consulta medica a las personas que lo necesitaran para contrarrestar las patologías.
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Coherente con lo recopilado durante la ERN, la consulta individual en psicología fue pertinente durante la misión; la necesidad era evidente para las comunidades, en donde la afectación directa e indirecta por el conflicto armado continúa siendo una constante en la zona, la recurrencia de los eventos y el recrudecimiento de la violencia en la zona por cuenta de la disputa territorial se mantiene y ha aseverado la situación de la población nuevamente desplazada y con una muy inestable situación de seguridad, por lo cual se realizaron 26 consultas individuales
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => En el marco de la atención psicosocial con la comunidad de Inda Sabaleta, se realizaron 6 talleres grupales para el manejo de primeros auxilios psicológicos como primeros respondientes donde participaron 33 personas.
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Con relación a la salud mental, además de las consultas individuales, fueron realizadas actividades colectivas en cuanto a la educación de derechos sexuales y reproductivos, salud sexual y reproductiva y mitigación de violencias basadas en genero entregando material informativo violentómetro
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => Al inicio de la atención se había conversado que desde NRC Area se iba a realizar el seguimiento a algunos casos por lo cual el 9 de diciembre se remite los casos  identificados desde protección APS a el sector de ICLA de NRC área.
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => No había disponibilidad de equipo móvil en las primeras etapas de parte del equipo del consorcio, posteriormente se realiza articulación con NRC área y no deciden un ingreso. Despues cuando se solicita la información para evidenciar si las necesidades persistían en las IE y NNA pero ya habían cerrado el periodo educativo
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => No había la necesidad en kit de albergue y adicional se triangulo la información con NRC área.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No se realiza estas acciones de parte de APS - Por favor corregir el kobo
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => PMA
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => ALIMENTACION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Se realiza revisión de entrega alimentaria de parte de PMA y desde el sector SAN de ACH se realiza complementariedad con única entrega involucrando alimentos adicionales y proteína animal tipo huevo.
+    [group_ob0im32/b_Nombre_de_la_entidad] => NRC - Area
+    [group_ob0im32/a_Sector_en_el_que_se_intervino_001] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_001] => Se realiza remisión de casos para orientación jurídica de casos identificados en la atención de protección APS
+    [group_ob0im32/c_Nombre_de_la_entidad] => Save The Children, ICBF,  Mesa de protección a casos de reclutamiento a NNAJ Nariño
+    [group_ob0im32/c_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_002] => Se realiza articulación con las organizaciones para poder evacuar a un joven que estaba en riesgo por reclutamiento por GANE en la escuela de Aguazú cuando el equipo móvil se encontraba realizando la ERN.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => Por temas de conflicto armado el equipo realizó 3 intentos de ERN lo cual dificultó la activación pronta a la emergencia, se debían hacer comités extraordinarios de seguridad en las noches para evaluar las situaciones del siguiente día, esto generaba varios cambios de las agendas y que los equipos estuvieran pendientes 24 horas por si cualquier cosa.  
+
+Adicional en el segundo ingreso nos reunimos con algunos lideres en la IPS de UNIPA en Llorente pero en medio de la reunión manifiestan que hubo un asesinato de un docente en cercanías al lugar y este docente pertenecía al pueblo Awa
+
+Durante la atención de MdM en la comunidad de Inda Guacaray sucede un hecho de un asesinato de un líder de la comunidad de Inda Sabaleta a lo cual se convoca una minga y varias de las familias de Guacaray se trasladan hacía Sabaleta a los actos funebres.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => Realizar seguimiento a las condiciones de seguridad y validar junto con los referentes de seguridad comités extraordinarios para poder definir acciones operativas en el marco de la emergencia.                       
+
+De inmediato el equipo pide excusas a las personas que se encontraban en la reunión en la IPS y les menciona que por protocolos de seguridad tendríamos que evacuar de inmediato y el equipo sale hacia Tumaco.
+
+El equipo monitorea junto con los PFS la situación y suspende media jornada de atención sin embargo, continúan con las atenciones primarias en salud física y mental.
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Por condiciones de seguridad, en el segundo intento no se pudo acceder a las comunidades sino que se realiza la reunión operativa en la IPS de la UNIPA en Llorente para recopilar necesidades, pero no fue posible por lo cual hasta el tercer ingreso es que el equipo móvil pudo ingresar hasta la comunidad de Guacaray y reunirse con la comunidad.
+
+El acceso a la zona estaba restringido por algunos GANE y el consorcio hacia parte de las primeras organizaciones en ingresar a la zona y se evalúa la mejor manera de ingreso de los equipos móviles.
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => se realiza seguimiento a la emergencia junto con los lideres del resguardo, el líder de la emergencia y los puntos focales de seguridad para monitorear la zona y poder determinar un ingreso cuando las condiciones lo permitieran.
+
+Desde la interlocución con los lideres se concreta que los equipos móviles junto con la carga que se trasladaba para la atención iba a estar acompañada por la guardia indígena, tanto al ingreso como a la salida del territorio (Todos los días)
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 30
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 0
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 30
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 1
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 2
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 4
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 37
+    [group_kq5co41/group_wc9ei25/e_Telef_nica] => 4
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Jose Canticus
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3147763012
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Gobernador (E) Resguardo Inda Guacaray
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Johana
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 3177295291
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Secretaria resguardo Inda Guacaray
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => Wilfredo Pai
+    [group_kq5co41/group_wb3kr41/_3b_Tel_fono_1] => 3204863204
+    [group_ek1nq87/Observaciones] => Se brindaron datos aproximados en la atención por el sector salud sin embargo, para el siguiente año se brindaría la información especifica puesto que las atenciones se realizaron en los dos resguardos y se esta validando los números específicos por comunidad, por lo cual la actualización se brindaría a inicios del mes de enero 2023.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:92b6ec64-8eec-4a75-a53c-e4de7df7a295
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 92b6ec64-8eec-4a75-a53c-e4de7df7a295
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-12-21T19:56:09
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

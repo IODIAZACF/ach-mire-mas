@@ -1,0 +1,28 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 474
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 674949355
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [type] => private
+                )
+
+            [date] => 1595968710
+            [text] => mi nombre es Edson Daza en que puedo ayudarle
+        )
+
+)

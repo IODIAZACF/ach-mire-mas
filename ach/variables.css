@@ -1,0 +1,31 @@
+:root{
+	--color-iconos-menu: #00c9c9;
+
+    --color-azul-oscuro: #00bfbf;
+ 	--color-azul-claro:  #00c9c9;
+
+    --color-boton-oscuro: #00bfbf;
+ 	--color-boton-claro:  #00c9c9;
+    
+	--color-gris-claro:  #DDDDDD;
+    --color-gris-medio:  #CCCCCC;
+    --color-gris-oscuro: #999999;
+    
+	--color-beige:       #F1ECD8;
+    
+	--color-blanco:      #FFF;
+    
+	--color-verde:       #008040;
+    
+	--color-rojo:        #F00;
+    
+	--color-amarillo:    #FF0;
+    
+	--color-negro:       #000;
+    
+	--tamano-fuente:     10px;
+    
+	--tipo-fuente:       Verdana,Arial,Helvetica,sanserif;
+	--xtipo-fuente:		 Segoe UI, Helvetica Neue, Helvetica, Lucida Grande, Arial, Ubuntu, Cantarell, Fira Sans, sans-serif;
+
+}

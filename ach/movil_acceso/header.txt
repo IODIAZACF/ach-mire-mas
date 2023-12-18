@@ -1,0 +1,64 @@
+Array
+(
+    [Host] => ach.dyndns.info:8888
+    [Connection] => keep-alive
+    [Content-Length] => 66
+    [Accept] => application/json
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+    [Content-Type] => application/x-www-form-urlencoded
+    [Origin] => http://ach.dyndns.info:8888
+    [Referer] => http://ach.dyndns.info:8888/ach/movil_dashboard/www/
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-US,es-419;q=0.9,es;q=0.8,en;q=0.7
+    [Cookie] => ach_session=c73uqfeaob4a9lrfef11cf57go
+)
+Array
+(
+    [auth] => undefined
+    [rnd] => 33641473
+    [login] => Jerangel
+    [password] => MIRENRC
+    [db] => ach
+)
+Array
+(
+    [SCRIPT_URL] => /ach/movil_acceso/seguridad.php
+    [SCRIPT_URI] => http://ach.dyndns.info:8888/ach/movil_acceso/seguridad.php
+    [HTTP_HOST] => ach.dyndns.info:8888
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 66
+    [HTTP_ACCEPT] => application/json
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ORIGIN] => http://ach.dyndns.info:8888
+    [HTTP_REFERER] => http://ach.dyndns.info:8888/ach/movil_dashboard/www/
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-US,es-419;q=0.9,es;q=0.8,en;q=0.7
+    [HTTP_COOKIE] => ach_session=c73uqfeaob4a9lrfef11cf57go
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Debian) Server at ach.dyndns.info Port 8888</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Debian)
+    [SERVER_NAME] => ach.dyndns.info
+    [SERVER_ADDR] => 192.168.1.150
+    [SERVER_PORT] => 8888
+    [REMOTE_ADDR] => 191.156.51.114
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/ach/movil_acceso/seguridad.php
+    [REMOTE_PORT] => 60536
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ach/movil_acceso/seguridad.php?
+    [SCRIPT_NAME] => /ach/movil_acceso/seguridad.php
+    [PHP_SELF] => /ach/movil_acceso/seguridad.php
+    [REQUEST_TIME_FLOAT] => 1702664144.5161
+    [REQUEST_TIME] => 1702664144
+)

@@ -1,0 +1,49 @@
+<div class="page" data-name="ficha_producto" >
+
+	<div class="navbar">
+		<div class="navbar-inner sliding">
+			<div class="left">
+				<a href="#" class="link back">
+				<i class="icon icon-back"></i>
+				<span class="ios-only">Back</span>
+				</a>
+			</div>
+			<div class="title">Ficha de Producto</div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar-labels toolbar-bottom-md">
+		<div class="toolbar-inner">
+			<a href="#" class="tab-link link back">
+				<i class="icon f7-icons">logout</i>
+				<span class="tabbar-label">Salir</span>
+			</a>
+		</div>
+		
+	</div>
+	
+	<div class="page-content">
+		<div class="card card-outline" style="min-height: 92%;">
+			<div id="TITULO" class="card-header">
+			
+			</div>
+			<div class="card-content card-content-padding ">
+				<div id="FOTO" valign="bottom" style="height: 80vw; background-size: cover; background-position: center; xcolor: #fff;"> </div>
+				<p>
+				xxxx<span class="date" id="CODIGO1" ></span>
+				/<span class="date" id="ID_M_PRODUCTOS"></span>
+				</p>
+				<p id="PREPARACION"></p>
+				
+			</div>
+			<button class="col button button-fill color-green opciones" data-funcion="t_ficha_producto" data-opcion="enter">Tomar Foto</button>
+			<form action ='./foto_producto.php' id="frm_foto">
+			<input type="file" id="ARCHIVO" onchange="readURL(this);" style="display:none;"/>
+			<textarea data-prefijo="a"  data-destino="F" data-campo="ARCHIVO" data-tipo="6" data-enviar="1" id="BASE64_ARCHIVO" style="display:none;"/></textarea>
+			<input type="text" data-prefijo="n"  data-campo="ARCHIVO" data-tipo="6" data-enviar="1" id="NOMBRE_ARCHIVO" style="display:none;"></input>
+			</form>
+
+		</div>
+	</div>
+	<javascript src="catalogo/ficha_producto.js"></javascript>
+</div>

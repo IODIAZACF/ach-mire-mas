@@ -1,0 +1,70 @@
+stdClass Object
+(
+    [_id] => 392163809
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-02-09T12:52:38.580-05:00
+    [end] => 2023-02-09T13:08:28.144-05:00
+    [group_gu1lq88/Departamento] => ANTIOQUIA
+    [group_gu1lq88/municip_antioquia] => REMEDIOS
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Lejanias
+    [group_gu1lq88/Nombre_de_la_comunidad] => Lejanias
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-02-09
+    [group_gu1lq88/Nombre_de_quien_reporta] => Ana María Gualtero Villate
+    [group_gu1lq88/Cargo] => Alianza por la Solidaridad
+    [group_gu1lq88/Origen_de_la_informaci_n] => LiderComunitario
+    [group_hl1yc96/La_alerta_corresponde_a_] => PR
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => ANRE 630.1
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2023-01-02
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSANRE_R_JUMO983PR El Presidente de la JAC de la vereda de Lejanías se encuentra amenazado, siendo víctima de extorsión y hostigamientos por parte de los grupos armados con presencia en la zona. Dada esta situación, el presidente de la JAC ha tenido que confinarse y en consecuencia abandonar su trabajo y principal fuente de obtención de recursos.  Se realiza acompañamiento jurídico en la ruta de protección con la UNP y se brindará apoyo en CASH para poder dar continuidad a la medida de autoprotección que el líder a implementado.
+    [group_mu9ho06/Logisitica] => No aplica
+    [group_mu9ho06/Seguridad] => No aplica
+    [group_mu9ho06/Operativa] => No aplica
+    [group_mu9ho06/Observaciones] => No aplica
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:c4d1ad9d-0eac-4f14-bfe7-b92a7abcb7ca
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => c4d1ad9d-0eac-4f14-bfe7-b92a7abcb7ca
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-09T18:08:34
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

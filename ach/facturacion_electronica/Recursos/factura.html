@@ -1,0 +1,173 @@
+<html>
+
+<head>
+
+<style>
+body { 
+	font-family: verdana; 
+	font-size:10px;
+}
+
+* {
+ font-size: 10px;
+ font-family: Arial;
+}
+.roundedCorner {
+	border: 1.5px solid black;
+	border-radius:5px;
+	text-align:center;
+	text-align: left;
+}
+.sep{
+	height:15px;
+}
+td{
+	height:20px;
+}
+</style>
+
+</head>
+
+<body>
+<table border="0" width="100%">
+	<tr>
+		<td width="370px;"><img src="http://{local_ip}/{nombre_programa}/facturacion_electronica/Recursos/{logo_empresa}.jpg" width="100px;"></td>
+		<td width="340px;" rowspan="2">
+			<div class="roundedCorner">
+				<table border="0" cellpadding="1" cellspacing="1" bordercolor="#000000">
+					<tr>
+					  <td>
+							<table width="100%" border="0" cellpadding="0" cellspacing="0">
+								<tr><td colspan="2">RUC:{RUC}</td></tr>
+								<tr><td colspan="2"><strong>FACTURA</strong></td></tr>
+								<tr><td colspan="2">No:{ESTAB}-{PTOEMI}-{SECUENCIAL}</td></tr>
+								<tr><td colspan="2">NUMERO DE AUTORIZACI&Oacute;N</td></tr>
+								<tr><td colspan="2">{SRI_AUTORIZACION}</td></tr>
+								<tr><td>FECHA Y HORA DE AUTORIZACI&Oacute;N:</td><td>{SRI_FECHAAUTORIZA}</td></tr>
+								<tr><td colspan="2">AMBIENTE:{TXT_AMBIENTE}</td></tr>
+								<tr><td colspan="2">EMISI&Oacute;N:{TXT_TIPOEMISION}</td></tr>
+								<tr><td colspan="2">CLAVE DE ACCESO</td></tr>
+								<tr>
+									<td colspan="2" align="center"><img src="http://{local_ip}/{nombre_programa}/facturacion_electronica/barcode/barcode.php?size=30&print=false&text={CLAVEACCESO}" alt="" width="320px;"></td>
+								</tr>				
+								<tr><td colspan="2" align="center">{CLAVEACCESO}</td></tr>
+							</table>
+						</td>        
+					</tr>        
+				</table>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td width="100%" align="left" valign="bottom">
+			<div class="roundedCorner">
+				<table bordercolor="#000000" border="0" width="100%">
+					<tr>
+						<td>
+							<table width="100%" border="0" cellpadding="0" cellspacing="0">
+								<tr><td colspan="2"><h4>{RAZONSOCIAL}</h4></td></tr> 
+								<tr><td colspan="2"><strong>{NOMBRECOMERCIAL}</strong></td></tr>
+								<tr><td width="32%">Direcci&oacute;n Matr&iacute;z:</td><td width="68%">{DIRMATRIZ}</td></tr>
+								<tr><td>Direcci&oacute;n Sucursal:</td><td>{DIRESTABLECIMIENTO}</td></tr>
+                                <tr><td><!-- CONTRIBUYENTE ESPECIAL:!--></td><td><!-- {CONTRIBUYENTEESPECIAL} !--></td></tr>
+								<tr><td>OBLIGADO A LLEVAR:</td><td>{OBLIGADOCONTABILIDAD}</td></tr>
+							</table>        
+						</td>
+					</tr>
+				</table>
+			</div>
+        </td>
+	</tr>
+</table>
+<div class="sep"></div>
+<table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+	<tr>
+		<td width="100%">
+			<table width="100%" border="0" cellpadding="0">
+				<tr><td width="15%">Raz&oacute;n Social / Nombres:</td><td width="85%">{RAZONSOCIALCOMPRADOR}</td></tr>
+				<tr><td>Identificaci&oacute;n:</td><td>{IDENTIFICACIONCOMPRADOR}</td></tr>
+				<tr><td>Fecha:</td><td>{FECHAEMISION}</td></tr>
+				<tr><td>Direcci&oacute;n:</td><td>{DIRECCIONCOMPRADOR}</td></tr>				
+			</table>
+		</td>
+	</tr>
+</table>
+<div class="sep"></div>
+<table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+	<tr>
+		<td width="60" align="center">Cod Principal</td>
+		<td width="60" align="center">Cod Auxiliar</td>
+		<td width="60" align="center">Cantidad</td>
+		<td width="" align="center">Descripcion</td>
+		<td width="90" align="center">Detalle Adicional</td>
+		<td width="60" align="right">Precio Unitario</td>
+		<td width="60" align="right">Descuento</td>
+		<td width="60" align="right">Precio Total</td>
+	</tr>
+<!-- BEGIN DETALLES -->
+	<tr>
+		<td width="" align="center">{CODIGOPRINCIPAL}</td>
+		<td width="" align="center">{CODIGOAUXILIAR}</td>
+		<td width="" align="right">{CANTIDAD}</td>
+		<td width="">{DESCRIPCION}</td>
+		<td width="">{SERIAL}</td>
+		<td width="" align="right">{PRECIOUNITARIO}</td>
+		<td width="" align="right">{DESCUENTO}</td>
+		<td width="" align="right">{BASEIMPONIBLE}</td>
+	</tr>
+<!-- END DETALLES -->	
+</table>
+<div class="sep"></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="690px;" valign="top">
+			<table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+				<tr>
+           	    <td colspan="2"><center><b>Informaci&oacute;n Adicional</b></center></td></tr>
+                <tr>
+                	<td>          
+                      	<table width="100%" cellpadding="0" cellspacing="0">
+							<tr><td width="11%">Email:		</td><td width="89%">{CORREO}</td></tr>
+							<tr><td>Tel&eacute;fono: 	</td><td>{TELEFONO1}</td></tr>
+							<tr><td>Direcci&oacute;n:	</td><td>{DIRECCIONCOMPRADOR}</td></tr>                
+							<tr><td>Comentarios:	</td><td>{COMENTARIOS}</td></tr>
+                		</table>
+                	</td>
+               	</tr>
+			</table>
+            <div class="sep"></div>	
+			<table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+				<tr>
+					<td><center><b>Forma de Pago</b></center></td>
+					<td><center><b>Valor</b></center></td>
+				</tr>
+<!-- BEGIN PAGOS -->				
+				<tr>
+                	<td>{SRI_NOMBRES}</td>
+					<td align="right">{TOTAL}</td>
+				</tr>
+<!-- END PAGOS -->					
+			</table>	
+		</td>
+		<td width="440px;" align="right" valign="top">
+			<table width="80%" border="1" cellpadding="0" cellspacing="0" bordercolor="#000000">
+				<tr><td>SUBTOTAL 12%				</td><td width="70" align="right">{BASE1}</td></tr>
+				<tr><td>SUBTOTAL 0%					</td><td align="right">{BASE2}</td></tr>
+				<tr><td>SUBTOTAL NO OBJETO DE IVA	</td><td align="right">{BASE3}</td></tr>
+				<tr><td>SUBTOTAL EXENTO DE IVA		</td><td align="right">{BASE4}</td></tr>
+				<tr><td>SUBTOTAL SIN IMPUESTOS		</td><td align="right">{SUBTOTALSINIVA}</td></tr>
+				<tr><td>ICE							</td><td align="right">{BASE5}</td></tr>
+				<tr><td>IVA 12% 					</td><td align="right">{DEBITO_FISCAL1}</td></tr>
+				<tr><td>IRBPNR 						</td><td align="right">0.00</td></tr>
+				<tr><td>PROPINA						</td><td align="right">0.00</td></tr>
+				<tr><td>VALOR TOTAL					</td><td align="right">{NETO}</td></tr>
+				<tr><td>VALOR TOTAL SIN SUBSIDIO    </td><td align="right">0.00</td></tr>
+				<tr><td>AHORRO POR SUBSIDIO (Incluye IVA cuando corresponda)</td><td align="right">0.00</td></tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+</body>
+
+</html>

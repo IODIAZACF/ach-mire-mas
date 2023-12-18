@@ -1,0 +1,84 @@
+stdClass Object
+(
+    [_id] => 392410013
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-02-10T08:28:24.523-05:00
+    [end] => 2023-02-10T08:50:38.493-05:00
+    [group_gu1lq88/Departamento] => CAUCA
+    [group_gu1lq88/CAUCA] => ARGELIA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Desiderio Zapata
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin Información
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-02-10
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 06 de febrero, al menos 325 personas (112 familias aproximadamente), se desplazaron masivamente desde los sectores de Los Picos, Tambo Largo, Mundo Nuevo e Higuerones del municipio de Argelia, a raíz de los constantes enfrentamientos que se vienen registrando en esta zona desde el 05 de febrero. Se conoce que las familias desplazadas se encuentran albergadas en el coliseo de la cabecera municipal (74 familias, 215 personas) y en la caseta comunal de la vereda Desiderio Zapata del corregimiento Sinaí (38 familias, 110 personas).
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/09022023_alerta_humanitaria_desplazamiento_en_argelia_vf.pdf
+    [group_yv1ph08/time2] => 2023-02-06
+    [group_yv1ph08/time3] => 4
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Refugio y Asentamientos
+    [group_cn9za51/familias] => 112
+    [group_cn9za51/personas] => 325
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde el 06 de febrero, la administración municipal ha brindado atención a las personas desplazadas en alimentación, colchonetas, frazadas, kits de higiene, atención en salud física y psicosocial, la adecuación del coliseo como alojamiento temporal en la cabecera municipal. También, han brindado apoyo con kits de alimentación a familias desplazadas del corregimiento de Sinaí (Desiderio Zapata)
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 09 de febrero, la Fundación Tierra de Paz y Diakonie brindó kits alimentos e higiene para 5 días a 32 familias, 96 personas, de la vereda Higuerones, además fortalecieron la iniciativa comunitaria denominada “Comité Humanitario de Argelia”, para mejorar su capacidad de respuesta en emergencia con una dotación de implementos de cocina.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3+https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/09022023_alerta_humanitaria_desplazamiento_en_argelia_vf.pdf+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:cf5f7aa6-f207-4494-a10e-d4f4bc58fa94
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => cf5f7aa6-f207-4494-a10e-d4f4bc58fa94
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-10T13:50:48
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

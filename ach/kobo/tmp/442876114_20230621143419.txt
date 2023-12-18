@@ -1,0 +1,59 @@
+stdClass Object
+(
+    [_id] => 442876114
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-06-21T14:27:30.740-05:00
+    [end] => 2023-06-21T14:34:17.765-05:00
+    [group_gener/departamento] => amazonas
+    [group_gener/municipio] => 91405_lachorrera
+    [group_gener/Point] => 42.569264 -99.285295 0 0
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => AMLA-027.1
+    [group_gener/Consorcio] => mire_ii
+    [group_gener/Fase] => ern
+    [group_gener/Fecha_del_Evento_001] => 2021-08-25
+    [group_gener/Hora_del_Evento] => 16:00:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => hicieron presencia las FARC con casos de reclutamiento pero años atrás, se tiene una base del ejercito a las afueras de la comunidad, no se cuenta con policia, no se conocen antecedentes de presencia de minas antipersona; pero si hay bastante delincuencia común con robos en viviendas, raponazo, y a mano armada con arma cortopunzante, por lo cual se aconseja no transitar después de las 6:00 de la tarde por las calles.
+    [group_gu1lq88/CATEGOR_A] => restricci_n_a_la_movilidad
+    [group_gu1lq88/ONG_IMPLICADAS] => ach nrc aps mdm
+    [group_gu1lq88/Autor] => Alexander Rivera
+    [group_gu1lq88/Consecuencias] => ninguna
+    [group_gu1lq88/MEDIDAS_TOMADAS] => Seguimiento constante y entrega de medidas de prevención frente a compartamiento seguro. Acompañamiento del voluntario de la Cruz Roja Colombiana y líderes de la comunidad
+    [group_gu1lq88/Seguimiento] => Reunión de cierre: -En general no hubo ningún inconveniente relacionado con seguridad, sin embargo, se realizan las siguientes observaciones: -Había un horario en que no se podía transitar libremente, hubo la advertencia por lo cual se limitaron los desplazamientos después de las 7pm. -No había seguridad de los movimientos en las comunidades
+    [group_gu1lq88/Observaciones] => No
+    [group_gu1lq88_001/Caracter] => GAO-R
+    [group_gu1lq88_001/GAO-R] => FARC
+    [group_gu1lq88_001/Disidencias_de_las_Antiguas_FA] => bloque_suroriental
+    [group_gu1lq88_001/Bloque_Suroriental] => frente_armando_r_os
+    [group_gu1lq88_001/Existe_otro_grupo_armado_impli] => no
+    [__version__] => v8M3ZrKyvectWJnnxUQbXJ
+    [meta/instanceID] => uuid:651d7735-76a9-4590-879f-9ed607e8206b
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => 651d7735-76a9-4590-879f-9ed607e8206b
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 42.569264
+            [1] => -99.285295
+        )
+
+    [_submission_time] => 2023-06-21T19:34:19
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

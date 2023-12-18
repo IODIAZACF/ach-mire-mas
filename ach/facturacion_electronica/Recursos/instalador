@@ -1,0 +1,4 @@
+$ tar -xvf wkhtmltox-0.12.4_linux-generic-amd64.tar.xz 
+$ cp wkhtmltox/bin/wkhtmltopdf /usr/bin/
+#USO
+$ wkhtmltopdf https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/ 10-Sudo-Configurations.pdf

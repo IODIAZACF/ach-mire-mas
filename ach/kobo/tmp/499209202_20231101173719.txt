@@ -1,0 +1,83 @@
+stdClass Object
+(
+    [_id] => 499209202
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-11-01T16:46:45.908-05:00
+    [end] => 2023-11-01T17:36:16.441-05:00
+    [group_gu1lq88/Departamento] => AMAZONAS
+    [group_gu1lq88/municip_amazonas] => LETICIA
+    [group_gu1lq88/Otros_Municipios] => Puerto Nariño
+    [group_gu1lq88/Vereda] => No reporta
+    [group_gu1lq88/Nombre_de_la_comunidad] => Arara, Canaán, El Vergel, La Libertad, Macedonia, Maloca Yaguas, Mocagua, Puerto Triunfo, Nuevo Jardín, San José del Río, San Martín de Amacayacu y Zaragoza.
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-10-26
+    [group_gu1lq88/Nombre_de_quien_reporta] => Maria Fernanda Gomez
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESASTRES
+    [group_hl1yc96/Problema] => DESASTRES_NAT
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => La temporada seca en Amazonas, normalmente abarca los meses de agosto a septiembre, pero en 2023 se ha extendido hasta octubre, generando una disminución significativa en el caudal de los ríos Amazonas y Putumayo, afectando a 25.452 personas aproximadamente.
+
+Como resultado, se ha registrado una reducción del 60% en el transporte fluvial, lo que ha conllevado a sobrecostos en los alimentos y a una disminución en la variedad de los mismos en los hogares, particularmente en los municipios de Leticia y Puerto Nariño donde reside el 50,4% de la población del departamento (42.170 personas). Además, la disminución significativa del caudal del río Amazonas, sumado a un proceso natural de sedimentación en la margen derecha ha dejó aisladas, sin acceso a transporte fluvial y a servicios de educación (secundaria) y salud a 7.200 personas (1.913 familias) de las comunidades indígenas de Arara, Canaán, El Vergel, La Libertad, Macedonia, Maloca Yaguas, Mocagua, Puerto Triunfo, Nuevo Jardín, San José del Río, San Martín de Amacayacu y Zaragoza.
+
+La disminución de las precipitaciones por la llegada de El Niño ha impactado al 61,3% de la población de las comunidades rurales e indígenas (25.452 personas), para quienes el agua lluvia es la principal fuente de abastecimiento de este recurso en sus hogares, al no contar con un acueducto u otros sistemas rurales de abastecimiento. Asimismo, la disminución de las precipitaciones y las altas temperaturas están afectando los cultivos transitorios (yuca, plátano, maíz, pimentón, ají, etc.), y frutos silvestres (asaí, arazá, copoazú, chontaduro, caimo, etc.) que son la base de la producción agrícola de subsistencia, razón por la que se espera un incrementado de la inseguridad alimentaria y malnutrición en el departamento, donde el 59% de los hogares enfrentan inseguridad alimentaria (CISAN, 2022). 
+
+Por otro lado, las comunidades indígenas han reportado una disminución en la disponibilidad de recursos pesqueros, que representan el 78% de sus ingresos familiares y el 81% del valor de la ingesta de proteínas proviene de este recurso. Esto ha generado un impacto significativo en los medios de vida de la población.
+    [group_yv1ph08/time2] => 2023-10-26
+    [group_yv1ph08/time3] => 0
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 0
+    [group_cn9za51/personas] => 25452
+    [group_cn9za51/comu] => 14
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde el 6 de octubre, la Secretaría de Salud Departamental del Amazonas activo el Plan de Contingencia Departamental de Dengue, donde se impartieron instrucciones para la organización y respuesta para el control de Dengue.  El 13 de octubre, Corpoamazonía convocó una reunión extraordinaria al subnodo del Plan Integral de Gestión de Cambio Climático Territorial para realizar una evaluación de impactos de la temporada seca en el departamento del Amazonas.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vQ42okMMCzm2zggHw89X3L
+    [meta/instanceID] => uuid:35d64d65-b888-4ba2-bcb7-79699ae28aeb
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 35d64d65-b888-4ba2-bcb7-79699ae28aeb
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-11-01T22:36:17
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

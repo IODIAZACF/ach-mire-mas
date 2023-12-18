@@ -1,0 +1,238 @@
+stdClass Object
+(
+    [_id] => 515384799
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-12-12T10:11:30.624-05:00
+    [end] => 2023-12-12T14:20:04.075-05:00
+    [group_kp1mu41/_1_C_digo] => ANCA-929.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-12-12
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-10-05
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-12-04
+    [group_kp1mu41/_4_Departamento] => ANTIOQUIA
+    [group_kp1mu41/ANTIOQUIA] => CACERES
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Peñitas, Las Conchas, San Pablo, El Carmen, Peladero, Malabrigo, Alto Vaquero y La tinta
+    [group_kp1mu41/num_comunidades] => 8
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => Peñitas, Las Conchas, San Pablo, El Carmen, Peladero, Malabrigo, Alto Vaquero y La tinta.
+
+Declaraciones individuales: 
+FUD:BG000709216
+FUD: BI000704444
+FUD:BF000710738
+FUD: BE00711927
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Wendy Meliza Carabali
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3228899070
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R.2_EeE R3_Shelter R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2023-10-05
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2023-12-20
+    [group_wo86e58/group_hc3sa85/vacios_icla] => Reconocimiento formal de la emergencia por parte de la institucionalidad, quienes conocen del contexto y afectaciones que están viviendo las comunidades, sin embargo, refieren que por las condiciones no pueden acceder hasta el territorio.
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => Recomendaciones:
+
+1. Realizar un reconocimiento formal de la situación y contexto de violencia en las comunidades del sur de cáceres por parte de la institucionalidad y poder brindar ayuda humanitaria en la fase de inmediatez activando rutas de atención.
+
+2.	Fomentar con estrategias enfocadas en la atención de primeros auxilios psicológicos-PAP, recuperación emocional y reducción del estrés. 
+
+3.Promover espacios de comportamiento seguro como mecanismos de mitigación ante riesgos de minas antipersonales, municiones sin explosionar y artefactos explosivos improvisados.
+
+4.	Fortalecer estrategias que permitan prevenir riesgos de ocurrencia de VBG.
+
+5.	Promover la activación y conocimiento sobre las rutas de atención y acceso a derechos de la población víctima del conflicto armado, víctimas de violencias basadas en género y personas en riesgo, como una estrategia que contribuye al fortalecimiento de las capacidades comunitarias.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2023-10-05
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2023-10-20
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => 1.	Las comunidades manifiestan en las veredas de Peladero, Peñitas, Las Conchas y Alto Vaquero, que la educación se interrumpe de manera recurrente debido a la ausencia de los docentes debido a reuniones y actividades para las cuales son citados en la cabecera municipal por lo que la educación no solo es interrumpida por cuestiones relacionadas con el orden público.
+2.	Las comunidades educativas en general, no reciben atención emocional para reducir las afectaciones derivadas de los hechos que ocasionaron la emergencia.
+3.	Solo en la sede educativa de San Pablo, se cuenta con computadores e internet para la educación. Las demás sedes no cuentan con nuevas tecnologías para la formación de sus estudiantes.
+4.	No existen estrategias educativas para la permanencia de los estudiantes y la prevención del uso y vinculación de los estos al conflicto armado.
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => RECOMENDACIONES PARA EL SECTOR DE EeE – INCIDENCIA
+
+1.	Debido a que no asistieron a las formaciones directivos de las sedes educativas, es necesario realizar un seguimiento para la implementación del plan de respuesta educativo en emergencias construido con los docentes y AEC.
+2.	Reducir y priorizar las capacitaciones a personal docente para suspender lo menos posible los tiempos de clase con los estudiantes.
+3.	Gestionar la entrega de computadores y servicio de internet en las escuelas del CER La Victoria, ya que ninguna cuenta con estos elementos para la educación y sus estudiantes no cuentan con fuentes de consulta para su adecuada formación.
+4.	Promoción de estrategias de acompañamiento desde la escuela para la prevención de la vinculación de los NNA al conflicto armado, acompañándolos en la construcción de sus proyectos de vida y formas de continuar sus estudios superiores con la gestión de becas o créditos educativos.
+5.	Brindar espacios de atención emocional a docentes, ya que manifiestan preocupación por los riesgos que deben correr en el territorio y hasta la fecha, ninguno ha recibido o solicitado ser atendido al respecto.
+6.	Implementar como tema recurrente en las escuelas, los comportamientos seguros y simulacros periódicos para reducir la vulnerabilidad de la comunidad educativa ante los riesgos asociados al conflicto en las veredas.
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-13-2/Entrega_de_artículos_para_
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2023-10-09
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2023-10-20
+    [group_wo86e58/group_zh0iq17/Vacios_SHELTER] => La asistencia de emergencia no incluye medidas de reparación para la infraestructura a nivel individual. Las personas se encuentran en una situación de restricción a la movilidad que limita sus ingresos, lo que dificulta la adquisición de los materiales necesarios para llevar a cabo las reparaciones requeridas.
+    [group_wo86e58/group_zh0iq17/Recomendaciones_SHELTER] => Las comunidades de Cáceres han sido sometidas a confinamiento. Hasta el momento, no se ha evidenciado la necesidad de llevar a cabo intervenciones en el sector Shelter. No obstante, existe la probabilidad de que grupos armados estén llevando a cabo incursiones con el propósito de saquear elementos esenciales para la vida cotidiana, tales como platos, cucharas y cobijas, dentro de estas comunidades. Se ha observado que algunos de los combates han afectado la infraestructura local.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.1-16-2-Rehabilitaciones_agua 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas 2-R4-4.5-22-8-Aumento_conocimiento
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2023-10-09
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2023-10-20
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => Se logra identificar que para el corregimiento de san Pablo no se cuenta con toda la red de acueducto el cual se realiza un oficio al a alcaldía para sumar y lograr la instalación de los 2.000 metros de tubería de polietileno de 3 pulgadas, dicho lo anterior solo se logró completar 1.200 metros para un faltante de 800 metros.
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => N/A
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2023-10-05
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2023-10-20
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => No se identificaron vacios, pues es necesario comentar que las otras siete comunidades que no fueron priorizadas fueron atentidas por una organización humanitaria externa, quienes brindaron dos entregas de paquetes alimentarios, una en el mes de octubre y otra en noviembre del año en curso.
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => Realizar seguimiento a la situación con el animo de aportar a las comunidades medios para satisfacer sus necesidades basicas y alimentarias, principalmente en la comunidad de El Carmen.
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.3-27-5/Identificación_y_asistenci 3-R6-6.4-28-7/Atención_realizada_a_las_e
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-10-09
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-10-17
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => Existe limitación para el acceso y seguimiento de patologías crónicas no trasmisibles dada la restricción de movilidad en el territorio y la falta de condiciones que favorezcan el trabajo formal es complejo que los pacientes puedan acceder a un servicio de calidad, adicionalmente no tienen forma de acceder a los medicamentos, teniendo en cuenta la falta de acceso de los servicios de salud a las distintas veredas. De igual forma, existe limitación para acceder a métodos de planificación en el territorio, siendo inexistente la educación en métodos de planificación.
+Las afectaciones en cuanto a Salud mental de la comunidad de San Pablo y veredas aledañas del municipio de Cáceres, se evidencia con la sintomatología relacionada con estrés postraumático, ansiedad, psicosomáticos entre otros se están agudizando con el pasar del tiempo y el conflicto armado. De ser posible hacer seguimiento y fortalecimiento en estrategias de afrontamiento.
+La limitación del uso de dispositivos móviles para generar canales de comunicación se constituye como una barrera de acceso a servicios de salud pues evita el agendamiento oportuno de citas médicas en la cabecera municipal.
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => Recomendaciones en el sector SALUD*
+Se recomienda mayor acompañamiento a la población por parte del centro de salud, no hay acceso a planes de vacunación ni esquemas PAI, existe un puesto de salud en la comunidad de San Pablo que no presta servicio de salud dada las condiciones propias del contexto, lo cual, limita el acceso de la población a todos los programas de PYP. Se deben priorizar programas para manejo de patologías crónicas no trasmisibles empezando por el eje de educación en salud del paciente y prevención de la enfermedad sumado a formación en hábitos de vida saludables.  
+Dada la alta demanda de atención individual en salud mental, derivada de factores estresantes generados por el conflicto armado y las restricciones a la movilidad asociadas, se recomienda la atención periódica de estas comunidades por parte de la ESE municipal de forma que se logren superar las necesidades de atención en salud mental y realizar seguimientos de manera oportuna, de igual manera resaltamos la importancia de continuar realizando actividades grupales en salud mental las cuales brindan alivio y herramientas frente a posibles nuevos hechos victimizantes.
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de atención a emergencia por restricción a la movilidad, MAP, MSE, amenazas e intimidaciones a lideres/as y representantes comunitarios, además de los riesgos identificados en la evaluación rápida de necesidades realizada en el mes de septiembre de 2023 en las comunidades de Las Conchas, Peñitas, San Pablo, Alto Vaquero, Peladero, Malabrigo, La Tinta y El Carmen, desde el sector de protección se desarrollarlo estrategias con un enfoque individual y colectivo, por medio del cual se buscó el fortalecimiento de los mecanismos de autoprotección civil de las comunidades, se facilitaron espacios de regulación emocional, conocimiento sobre el  acceso, exigibilidad de derechos y activación de rutas de atención, asistencia y reparación de población víctima del conflicto armado. Las intervenciones se realizaron desde los enfoques individual y colectivo.
+
+Se desarrollaron espacios de información que permitieron el análisis de riesgos, amenazas y capacidades, así como la visibilizarían de estrategias comunitarias y territoriales de autoprotección civil en contextos de emergencia. Se brindaron acciones de socialización en las rutas de atención y mecanismos establecidos para la protección de personas y comunidades afectadas en el marco del conflicto armado, como lo es la ley 1448 de 2011, rutas de atención e instituciones responsables de la asistencia y atención en el marco de la inmediatez. Dichos talleres se desarrollaron con las ocho comunidades priorizadas donde participaron 298 personas (174 hombres y 124 Mujeres). 
+
+Durante atención a la emergencia, NRC identificó un total de 16 casos de personas con necesidades de protección y alta vulneración a sus derechos.  A través de la gestión de casos se brindó primeros auxilios psicológicos  como estrategia para reducir síntomas de estrés derivados de la emergencia; adicionalmente, se hizo entrega de 4 asistencias de protección individual (IPA) para acceso a servicios de alimentación y transporte. Por otra parte, se suministró asesoría sobre acceso a derechos esenciales como salud, regularización migratoria, socialización de rutas de atención a población víctima de conflicto armado, principalmente asistencia humanitaria e indemnización, así como la ruta de búsqueda de personas desaparecidas, uso y vinculación de niños, niñas, adolescentes  y Jóvenes.  
+
+Atención y acompañamiento Psicológico:  8
+Asistencia legal: 9 personas 
+Orientaciones legales: 60 personas
+Derivación: 3 persona
+Articulación con Cruz Roja y Defensoría del Pueblo)
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => N.A
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => •	Suministro de NFI (kits de EiE individuales) educativos pertinentes a los niños.
+Cantidad: 210 kits educativos NNA
+Con la entrega de 210 kits educativos a NNA de 5 sedes educativas atendidas, se brindan herramientas de sano esparcimiento, aprendizaje y autoprotección a igual número de estudiantes que afrontan los riesgos producto de la presencia de los GANEs y la interrupción recurrente de sus clases. Con las cartillas contenidas en los kits entregados, la de “Leo y escribo” que de manera divertida apoya en los NNA el fortalecimiento de sus capacidades de lectura y escritura, que debido a la perdida de clases de manera constante causa atraso en su formación académica y la cartilla “Aprendiendo a cuidarme”, refuerza mensajes claves de autoprotección ante riesgos asociados al conflicto armado, conocimiento de sus deberes y derechos y manejo de sus emociones en momentos de crisis. 
+
+San Pablo: 104 NNA
+Peñitas: 9 NNA 
+Alto Vaquero: 33 NNA 
+Peladero: 17 NNA 
+Las Conchas: 47 NNA
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => •	Sesiones de formación para niños
+Cantidad: 210 NNA
+En sesiones realizadas en cada una de las comunidades intervenidas se hicieron actividades con enfoque etario, donde se sensibilizaron en Técnicas prácticas de Sanación emocional y apoyo a pares, Comportamientos seguros ante fuego cruzado y Riesgo de accidentes con artefactos explosivos MAP, MSE y TE, Animación lectoescritura, cuidado y protección del cuerpo, Aprendizaje de deberes y derechos en especial con adolescentes y jóvenes. En estas actividades se emplearon dinámicas participativas, realización de representaciones con vinilo, juegos tradicionales y las cartillas entregadas en los kits educativos. En la sede educativa más grande, la de San Pablo, se realizaron hasta 4 sesiones debido a la ausencia de algunos estudiantes los primeros días debido a la semana de receso escolar.
+
+San Pablo: 104 NNA
+Peñitas: 9 NNA 
+Alto Vaquero: 33 NNA 
+Peladero: 17 NNA 
+Las Conchas: 47 NNA
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => •	Sesiones de formación para profesores y agentes educativos (NRC)
+Cantidad: 19 docentes/AEC
+Realización de espacios de formación en educación en emergencias a 13 docentes y 6 agentes educativos comunitarios de las comunidades intervenidas para de esta manera dejar capacidad instalada con herramientas pedagógicas y de saneamiento emocional, que les permita mejorar su respuesta a las afectaciones que las emergencias puedan dejar tanto en ellos como en sus estudiantes y comunidad educativa en general. Las formaciones se hicieron en sesiones donde con los docentes se trabajo en grupo por sedes educativas y con las AEC, en sus comunidades en espacios concertados con estas. Como parte del espacio se construyeron Planes de respuesta educativos en la emergencia adaptados a los principales riesgos reconocidos por los participantes en cada una de sus comunidades.
+Tanto a docentes como a AEC, se les hizo entrega de un kit Docente AEC, en los cuales pueden encontrar una cartilla de EeE, donde puedan repasar los conceptos aprendidos en la formación y metodologías practicas de saneamiento emocional y elementos para el seguimiento de las actividades.
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Tanto a docentes como a AEC, se les hizo entrega de un kit Docente AEC, en los cuales pueden encontrar una cartilla de EeE, donde puedan repasar los conceptos aprendidos en la formación y metodologías practicas de saneamiento emocional y elementos para el seguimiento de las actividades.
+    [group_of2sk15/group_qw7se20/_12_Entrega_de_art_culos_dom_sticos_que_salvan_vidas_NRC] => Se realizo  entrega de toldillos para complementar el kit de higiene con el objetivo de disminuir la exposición a vectores infecciosos. La cantidad de elementos variaba según la cantidad de miembros familiares.  Se hizo la entrega de 624 kits.
+
+Se realiza una jornada de sensibilización en hábitos de higiene en las comunidades antes de realizar la entrega de los kits de higiene y toldillos para garantizar la disminución de enfermedades relacionadas con el consumo de agua y la falta de higiene. Se realizó la sensibilización a 518 jefes de hogar quienes recibieron los kits.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => Fase 1:  
+
+Se hace la entrega de kits de higiene compuestos de los siguientes elementos: 
+
+1. Crema dental
+2. Crema dental sin fluor
+3. Jabón de baño
+4. Jabón de ropa 
+5. Papel higiénico
+6. Cepillo de dientes
+7. Toallas para el cuerpo
+8. Shampoo
+9. Gancho tipo pinzas para ropa
+10. Cuerda para tender ropa
+11. Linterna personal
+12. Silbato
+13. Toallas sanitarias de un solo uso con alas
+
+La cantidad de elementos variaba según la cantidad de miembros familiares. Se hizo la entrega de 624 kits.
+
+Se realiza una jornada de sensibilización en hábitos de higiene en las comunidades antes de realizar la entrega de los kits de higiene y toldillos para garantizar la disminución de enfermedades relacionadas con el consumo de agua y la falta de higiene. Se realizó la sensibilización a 518 jefes de hogar quienes recibieron los kits.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => Para la atención por parte del sub sector de Saneamiento se llegaron a acuerdos comunitarios con los diferentes presidentes y encargados de los sistemas de abastecimiento para Alto Vaquero, Peladero y San Pablo, en los cuales por parte del Consorcio MIRE +, se entregaron los insumos para las adecuaciones sencillas, y por el contrario partida de parte de la comunidad se realizara la mano de obra calificada y no calificada que se requiera, esto con el fin de aumentar los recursos y generar sentido de pertenencia en la comunidades receptoras de la ayuda humanitaria. 
+1.	Las actividades que se realizaron para las adecuaciones fueron de dos días de trabajo colaborativo por cada punto de las rehabilitaciones, en el siguiente orden: 
+•	Peladero: se realizó dos placas de concreto reforzado para el soporte de los tanques existentes, adecuación de la tubería y de los accesorios existentes, esto con el fin de mejorar la hidráulica del sistema existente y mejoramiento del desagüe de aguas de exceso. 
+•	Alto Vaquero: realización de enchape del tanque de almacenamiento, búsqueda activa de las fugas del tanque de almacenamiento y de la flauta de repartición, cambio de collarines y enumeración por cada vivienda para generar conciencia por cada una de las familias conectadas al sistema; dichas actividades se realizaron de forma remota. 
+•	San Pablo: se realizó el análisis de los datos hidráulicos iniciales para la revisión de un nuevo punto de captación de agua, entrega de material para la línea de conducción de agua para el caserío e incidencia con la alcaldía para buscar apoyos adicionales en temas de los Acueductos veredales.
+2.	Realización de dos murales con un artista de la zona con mensajes claves en temas relacionado al lavado de manos y al bueno uso del recurso hídrico. 
+3.	Realización de talleres formativos en el buen uso del recurso hídrico y lavado de manos a las comunidades de San Pablo y Peladero.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Se hace la entrega de kits de higiene compuestos de los siguientes elementos: 
+
+1. Crema dental
+2. Crema dental sin fluor
+3. Jabón de baño
+4. Jabón de ropa 
+5. Papel higiénico
+6. Cepillo de dientes
+7. Toallas para el cuerpo
+8. Shampoo
+9. Gancho tipo pinzas para ropa
+10. Cuerda para tender ropa
+11. Linterna personal
+12. Silbato
+13. Toallas sanitarias de un solo uso con alas
+
+La cantidad de elementos variaba según la cantidad de miembros familiares. 
+Se hizo la entrega de 624 kits.
+Se realiza una jornada de sensibilización en hábitos de higiene en las comunidades antes de realizar la entrega de los kits de higiene y toldillos para garantizar la disminución de enfermedades relacionadas con el consumo de agua y la falta de higiene. Se realizó la sensibilización a 518 jefes de hogar quienes recibieron los kits
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Promoción de buenas prácticas de higiene
+ 
+Se llevaron a cabo sesiones en formato de cápsulas informativas con grupos focales de no más de 50 personas, abordando temas de sensibilización relacionados con el adecuado manejo del recurso hídrico. Estas sesiones se enfocaron en destacar las buenas prácticas y los momentos clave del lavado de manos, adaptándose a las necesidades específicas de cada vereda.
+
+Se desarrollaron actividades centradas en la promoción de prácticas de higiene menstrual con un enfoque particular en nuevas masculinidades. Además, se implementó la creación de un mural en el centro educativo, con el objetivo de fomentar desde edades tempranas las buenas prácticas de higiene. Esta iniciativa busca, en última instancia, reducir la morbilidad y los gastos adicionales que recaen en cada una de las familias.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => El acceso a servicios básicos se ha visto limitado por la falta o ausencia de recursos económicos debido a la suspensión de las principales actividades económicas de la zona, a partir de las limitaciones del acceso a combustible, restricciones a la movilidad y otros impactos del conflicto armado, lo que ha significado una limitación en el acceso a bienes y servicios básicos, entre ellos alimentos, que aunque ingresan a la zona sus precios se han elevado o no cuentan con el dinero para comprarlo. La actividad económica principal es la extracción de oro de forma tecnificada (con maquinaria) y artesanal (barequeao) y las actividades económicas impulsadas a partir de esta en la zona, como el comercio en tiendas de abarrotes, restaurantes, hospedajes y lugares de venta de alcohol.Por la minería se cambió la vocación agrícola de las comunidades y actualmente son pocas las familias que cuentan con cultivos agrícolas de pancoger tales como plátano, yuca, maíz y caña, los cuales son utilizados para la subsistencia propia y el intercambio entre vecinos.    
+
+Otra limitación ha sido la suspensión de las rutas (líneas) de transporte que permitían que las comunidades se trasladaran desde la zona rural hasta el caso urbano. Con anterioridad a la emergencia, existían tres horarios disponibles diarios para el traslado de las comunidades, dado el incremento de combustible y la poca demanda por el temor de las personas a trasladarse por la presencia de actores armados, se limitó a una disponibilidad diaria y esta depende de que el número de personas sea suficiente para cubrir los gastos del traslado.  Esto ha generado un desabastecimiento mayor en las tiendas de las veredas, dado que el ingreso de alimentos depende del transporte de las líneas, las cuales han aumentado el valor de los tiquetes de las personas y de la carga significativamente derivando en el incremento de los precios de los productos.   
+
+ Dado que las familias realizan su abastecimiento principalmente en el comercio de las veredas, esto porque el traslado hasta el casco urbano supone un alto costo (220.000 mil pesos), se ha limitado la posibilidad de comprar alimentos o en algunos casos de que sean variados; generando una reducción en el número de comidas diarias, que actualmente son en promedio dos. Sumado a los altos costos del transporte, en algunos casos los GANE realizan revisiones aleatorias sobre la cantidad de alimentos que ingresan las familias, lo que genera temor para traslado de suministros desde el casco urbano hacia la zona rural.  
+
+Por o anteriormente mencionado, y por la presencia y control de los actores armado, las familias de las veredas encuentran limitado su acceso a alimentos y medios de vida que les permita subsanar y garantizar su seguridad alimentaria.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => En evaluación rápida de necesidades se identificó limitación para el acceso a servicios básicos debido a la falta o ausencia de recursos económicos ocasionada por la suspensión de las principales actividades económicas de la zona, a partir de las limitaciones en el acceso a combustible, restricciones a la movilidad y otros impactos del conflicto armado, lo que ha significado una disminución en el acceso a bienes y servicios básicos, entre ellos los alimentos, limitación que se identifico principalmente en la comunidad de El Carmen. 
+Por ello, en atención a emergencia por restricción a la movilidad, se realizo entrega paquetes alimentarios a cada núcleo familiar de la comunidad de El Carmen y sensibilización sobre el almacenamiento y consumo de alimentos. 
+La configuración del paquete alimentario se determinó para una duración aproximadamente de 30 días, basada en una planeación nutricional de 2100 k cal/día, teniendo en cuenta alimentos no perecederos que conforman la alimentación cotidiana de la comunidad.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Durante el desarrollo de la respuesta se realizaron 51 consultas individuales de psicología, para ello, dada la alta demanda del servicio se priorizó la atención individual debido a los síntomas que la comunidad está presentando en relación con los factores estresantes asociados al conflicto y las restricciones de la movilidad. Los principales diagnósticos de salud mental encontrados en esta población estuvieron en relación con trastorno de estrés postraumático, trastornos de adaptación y ansiedad, a su vez, la sintomatología encontrada principalmente fue: síntomas postraumáticos, síntomas relacionados con la ansiedad y problemas del comportamiento.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => Entrega de medicamentos
+Para esta respuesta se realizó entrega de medicamentos por parte del personal de enfermería en 312 ocasiones correspondientes a consultas realizadas por profesionales de medicina, enfermería y psicología. Durante la entrega se brindaron recomendaciones específicas para la administración oportuna y adecuada de los medicamentos entregados.
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Consultas de salud mental
+Durante el desarrollo de la respuesta se realizaron 51 consultas individuales de psicología, para ello, dada la alta demanda del servicio se priorizó la atención individual debido a los síntomas que la comunidad está presentando en relación con los factores estresantes asociados al conflicto y las restricciones de la movilidad. Los principales diagnósticos de salud mental encontrados en esta población estuvieron en relación con trastorno de estrés postraumático, trastornos de adaptación y ansiedad, a su vez, la sintomatología encontrada principalmente fue: síntomas postraumáticos, síntomas relacionados con la ansiedad y problemas del comportamiento
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => Se realizó 1 taller grupal dirigido a líderes y lideresas de la comunidad, el tema tratado fue Primeros Auxilios Psicológicos (PAP) donde se enseñaron técnicas sencillas de reducción del estrés y resolución de problemas. Durante esta jornada se atendieron las necesidades e inquietudes de las personas asistentes brindando información clara y concisa de los servicios que brinda MdM en el marco de la respuesta.
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Se identificaron 9 casos de VBG dentro de la comunidad los cuales están enmarcados bajo constructos sociales centrados en el machismo, dentro de la comunidad se tienden a normalizar las manifestaciones y conductas de violencia de larga data convirtiéndose en ciclos de violencia. Por tanto, durante las sesiones individuales de psicología se trabajó en el fortalecimiento del proceso de reconocimiento de manifestaciones de violencia utilizando estrategias como el violentómetro con el fin de mitigar y prevenir violencias basadas en género para esta población.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => Se brindo respuesta a traves del sector de protección NRC
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => Se brindo respuesta a traves del sector de protección NRC
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => Se brindo respuesta a traves del sector de protección NRC
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No se identifico dicha necesidad
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Defensoria del Pueblo - Bajo Cauca
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Se realizo articulación con la Defensoria del Pueblo, con el animo de activar rutas de atención de personas victimas del conflcito armado a tráves de la toma de declaraciones individuales.
+    [group_ob0im32/b_Nombre_de_la_entidad] => Cruz Roja Colombiana
+    [group_ob0im32/a_Sector_en_el_que_se_intervino_001] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_001] => Articulación y derivación de casos con necesidades de atención psicologica continua y presencial.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 1
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 3166482472
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Yenny - secretaria de Junta de accion comunal San Pablo
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3157710819
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => JAC SAN PABLO
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => YANYS MARTINEZ
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 3234322823
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => PRESINTENTA DE JAC PEÑITAS
+    [__version__] => v927fJckMZ3vi6KjpPSHN7
+    [meta/instanceID] => uuid:368a33eb-486b-496b-ac22-87c224be087b
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 368a33eb-486b-496b-ac22-87c224be087b
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-12-12T19:20:05
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

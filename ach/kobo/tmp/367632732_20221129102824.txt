@@ -1,0 +1,83 @@
+stdClass Object
+(
+    [_id] => 367632732
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-11-29T10:06:38.965-05:00
+    [end] => 2022-11-29T10:27:49.417-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => NUQUI
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin Información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Emberá del Resguardo Jurubirá, Chori y Alto Baudó (Puerto Indio, Agua Blanca, Boca de Jagua, Chorro, La Loma, Miramar, y Villanueva Jurubirá
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2022-11-29
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => NARCOTRAF MINAS PRESENCIA_GAI RECLUTAMIENTO VBG
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde enero (ver Alerta No. 1) se viene presentado el confinamiento de al menos 1.579 personas, (334 familias, 867 niños y niñas, 347 mujeres) pertenecientes a 7 comunidades indígenas Emberá del Resguardo Jurubirá, Chori y Alto Baudó (Puerto Indio, Agua Blanca, Boca de Jagua, Chorro, La Loma, Miramar, y Villanueva Jurubirá). Esta situación se mantiene ante la continua presencia de dos Grupos Armados No Estatales (GANE) dentro de las comunidades y el permanente riesgo de enfrentamientos. Así mismo, los GANE se estarían asentando en las Instituciones Educativas (IE), impidiendo el desarrollo de clases. Se continúan registrando amenazas individuales y colectivas, instalación de Minas Antipersonal (MAP), casos de reclutamiento, uso y utilización de niños, niñas, adolescentes y jóvenes, Violencias Basadas en Genero (VBG) hacia niñas y mujeres, restricciones para realizar actividades de pesca, caza y recolección de alimentos en cultivos de pan coger, recolección de agua y libre movilidad sobre el territorio, afectando también el desarrollo de actividades culturales.
+    [group_yv1ph08/time2] => 2022-01-27
+    [group_yv1ph08/time3] => 306
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 334
+    [group_cn9za51/personas] => 1579
+    [group_cn9za51/comu] => 7
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde enero, se han realizado cinco Comités Territoriales de Justicia Transicional (CTJT) en el municipio de Nuquí en donde se han coordinado y acordado diferentes actividades para dar respuesta a las necesidades humanitarias de las comunidades confinadas. En octubre, el Ministerio Publico, la administración municipal, el ICBF y la iglesia, realizaron una visita de verificación como parte de las recomendaciones contempladas en la AT de inminencia 017-22, en donde escucharon la situación actual de afectación de la población, se adquirieron compromisos necesarios para el pleno restablecimiento de derechos, se dio a conoce
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 8 de junio la administración municipal, Ministerio Público, FUPAD y el SENA, realizaron una feria de servicios institucional en la comunidad de Puerto Indio y se atendieron también a las comunidades de la Loma y Chorro. El 30 de agosto la Gobernación de Chocó realizó entrega de kits de alimentación y aseo. FUPAD, desde marzo hasta agosto ha realizado diferentes actividades como: feria de servicios de salud a nueve comunidades indígenas, talleres de fortalecimiento de la Guardia Indígena, talleres de fortalecimiento organizativo en derechos colectivos, rutas de concertación y el decreto étnico 4633 de 2011, talleres de mecanismos de protección, talleres de manipulación de alimentos y entrega de 243 canastas de alimentos a 9 comunidades. WFP, ha hecho dos entregas de kits de alimentos durante el mes de marzo y 3 entregas de bonos en dinero a las familias para la compra de alimentos desde julio a noviembre. UNFPA, en noviembre realizó actividades de prevención y protección en VBG a mujeres y niñas, brindó atención en primeros auxilios psicológicos (PAP) para descarga emocional en Puerto Indio y Bocas de Jagua y entregó 50 kits de dignidad con enfoque diferencial (generó, etario y étnico) en la comunidad de Bocas de Jagua.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Persisten vacíos en la atención a la emergencia dada la magnitud de las afectaciones que ha excedido la capacidad de atención del municipio. Preocupa también que la UARIV manifestó que el municipio no está priorizado para entregas de ayuda humanitaria para este año.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3--https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/actualizacion_no._1_confinamiento_municipio_de_nuqui.pdf+ERN*FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:39136e88-9bcf-4670-bd00-e83c8a226ee4
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 39136e88-9bcf-4670-bd00-e83c8a226ee4
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-11-29T15:28:22
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

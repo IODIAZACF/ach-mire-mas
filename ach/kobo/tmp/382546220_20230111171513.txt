@@ -1,0 +1,71 @@
+stdClass Object
+(
+    [_id] => 382546220
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-01-11T17:06:25.406-05:00
+    [end] => 2023-01-11T17:15:01.978-05:00
+    [group_gu1lq88/Departamento] => CAUCA
+    [group_gu1lq88/CAUCA] => GUACHENE
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => No Aplica
+    [group_gu1lq88/Nombre_de_la_comunidad] => No Aplica
+    [group_gu1lq88/Urbano_Rural] => urbano
+    [group_gu1lq88/time1] => 2023-01-11
+    [group_gu1lq88/Nombre_de_quien_reporta] => Deymis Julieth Soto Sánchez
+    [group_gu1lq88/Cargo] => Alianza por la Solidaridad
+    [group_gu1lq88/Origen_de_la_informaci_n] => LiderComunitario
+    [group_hl1yc96/La_alerta_corresponde_a_] => VBG
+    [group_hl1yc96/_El_evento_ha_sucedido_antes_de_72_horas] => no
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => No Aplica
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2022-07-19
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSCAGU_U_ANHI122VBG: Mujer sobreviviente a VBG refiere que el 19 de Julio 2022 fue agredida física, sexual y psicológicamente con amenazas de muerte por parte de su expareja. Esto hechos ocurrieron por primera vez. Refiere que ese mismo día se acercó al hospital donde verificaron su estado de salud física (y le dieron incapacidad), pero cuando la mujer mencionó que también había sido víctima de violencia sexual, el médico le indicó que ya había cerrado la historia clínica y no podía registrar la información por lo que él le recomendó acercarse a la fiscalía y referir esos hechos en medicina legal.  Refiere haber denunciado los hechos el 21 de Julio 2022 en la Fiscalía de Caloto, donde le dieron la orden de atención por medicina legal y ha tenido audiencias virtuales, siendo su próxima audiencia programada para Marzo 2023. No ha recibido atención psicológica por estos hechos. Se realiza verificación del riesgo actual, para lo cual la mujer refiere sentirse tranquila y no tiene intenciones de cambiar de residencia, ya que desde la denuncia de los hechos el victimario cesó con las amenazas. Mantiene redes de apoyo fuertes, donde la principal es su señora madre la cual vive cerca de ella. Mujer cuenta con medida de protección. Refiere no haber recibido apoyo psicológico.
+    [group_mu9ho06/Logisitica] => No Aplica
+    [group_mu9ho06/Seguridad] => No Aplica
+    [group_mu9ho06/Operativa] => No Aplica
+    [group_mu9ho06/Observaciones] => No Aplica
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => No Aplica
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:5b69b4d8-0be2-4170-b6c5-56d334007470
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 5b69b4d8-0be2-4170-b6c5-56d334007470
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-01-11T22:15:12
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

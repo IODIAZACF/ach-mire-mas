@@ -1,0 +1,55 @@
+en javascript:
+
+    "webpackJsonp",
+    "config",
+    "core",
+    "__core-js_shared__",
+    "System",
+    "asap",
+    "ObservableObservable",
+    "setImmediate",
+    "clearImmediate",
+    "regeneratorRuntime",
+    "_babelPolyfill",
+    "JsBarcode",
+    "tinycolor",
+    "DSG",
+    "jQuery341078528186080937971",
+    "dir",
+    "dirxml",
+    "profile",
+    "profileEnd",
+    "clear",
+    "table",
+    "keys",
+    "values",
+    "debug",
+    "undebug",
+    "monitor",
+    "unmonitor",
+    "inspect",
+    "copy",
+    "queryObjects",
+    "$_",
+    "$0",
+    "$1",
+    "$2",
+    "$3",
+    "$4",
+    "getEventListeners",
+    "getAccessibleName",
+    "getAccessibleRole",
+    "monitorEvents",
+    "unmonitorEvents",
+    "$",
+    "$$",
+    "$x"
+	
+	view-source:https://dsg2014.fast-report.com:3000/api/demos/
+	lista de reportes demo.
+	
+	DSG.app.openDemoReport('About Microsoft Chart.frx');
+	DSG.app.openDemoReport('Using Expressions.frx');
+	
+	
+	

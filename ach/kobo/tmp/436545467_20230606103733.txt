@@ -1,0 +1,89 @@
+stdClass Object
+(
+    [_id] => 436545467
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-06-06T10:19:49.575-05:00
+    [end] => 2023-06-06T10:37:32.417-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => RICAURTE
+    [group_gu1lq88/Otros_Municipios] => Barbacoas
+    [group_gu1lq88/Vereda] => veredas Gualaipi, Piedra Verde, Limón, Tronco y San Francisco
+    [group_gu1lq88/Nombre_de_la_comunidad] => indígena Awá
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-06-06
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => NARCOTRAF CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Durante mayo, al menos 1.242 personas (547 familias) indígenas Awá se desplazaron y confinaron en los municipios de Ricaurte y Barbacoas, a causa de amenazas y enfrentamientos entre dos Grupos Armados No Estatales (GANE), así: 
+• Desde el 5 de mayo, más de 338 personas (95 familias) indígenas Awá pertenecientes al Resguardo Ñambí Piedra Verde se desplazaron desde las veredas Gualaipi, Piedra Verde, Limón, Tronco y San Francisco hacia la vía entre el corregimiento de Junín y Barbacoas, como consecuencia de amenazas de un GANE. Adicionalmente, aproximadamente 80 personas (40 familias) indígenas Awá permanecen confinadas en las estas cinco veredas. 
+• El 28 de mayo, al menos 824 personas (412 familias) indígenas Awá pertenecientes al Resguardo Integrado La Milagrosa de Cuaiquer Viejo y al Resguardo Cuascuabi se desplazaron entre veredas en el municipio de Ricaurte, a causa de enfrentamientos entre GANEs.
+Actualmente, las comunidades desplazadas de Ricaurte y Barbacoas se encuentran alojadas en diferentes centros educativos rurales. Los enfrentamientos registrados en Ricaurte ocasionaron daños en 15 viviendas de las comunidades indígena Awá afectadas y restricciones de acceso humanitario. Existen riesgos de nuevas emergencias humanitarias debido a la disputa entre los GANE por el control territorial.
+Enlace: https://drive.google.com/file/d/1b8ktPE00vk3Z2o9o4v0fPpkOIzZkYmjq/view
+    [group_yv1ph08/time2] => 2023-05-05
+    [group_yv1ph08/time3] => 32
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 547
+    [group_cn9za51/personas] => 1242
+    [group_cn9za51/comu] => 5
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde el inicio de la emergencia, las autoridades indígenas de la zona han distribuido alimentos para el desarrollo de ollas comunitarias a la población afectada en Barbacoas y Ricaurte. El 31 de mayo, la Alcaldía de Ricaurte entregó asistencia alimentaria para 377 personas indígenas Awá en el Resguardo Integrado La Milagrosa de Cuaiquer Viejo.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => Médicos Sin Fronteras
+    [group_mu9ho06/Logisitica] => Por Actualizar
+    [group_mu9ho06/Seguridad] => Por Actualizar
+    [group_mu9ho06/Operativa] => El 23 de mayo, la Alcaldía de Barbacoas realizó Comité Territorial de Justicia Transicional (CTJT) en el que, acordó activar el Subcomité de Prevención, Protección y Garantías de no Repetición para verificar la situación humanitaria de la comunidad Awá.
+✓ El 29 de mayo, la Alcaldía de Ricaurte realizó CTJT en la que declaró el desplazamiento masivo y se comprometió a censar a la población e iniciar los trámites para la distribución de ayuda humanitaria inmediata para la población afectada.
+✓ Médicos Sin Fronteras, evalúa la posibilidad de hacer asistir a la población afectada en Barbacoas.
+✓ El Equipo Local de Coordinación (ELC) Nariño continúa monitoreando la situación humanitaria con el fin de evaluar la posibilidad de brindar respuesta complementaria de acuerdo a los Standard Operating Procedures (SOP), así como para incidir ante las autoridades sobre la necesidad de proteger y asistir a la población.
+    [group_mu9ho06/Observaciones] => Vacios: 
+A la fecha, los censos no están consolidados, por lo tanto, no es posible desagregar la información por enfoque diferencial ni identificar necesidades particulares de los grupos poblacionales afectados.
+Las hostilidades y operaciones militares han limitado acceder a las personas con necesidades de asistencia y/o protección en Ricaurte.
+En Barbacoas, se presentan protestas por conflictos sociales en la vía Panamericana que han limitado la verificación de los hechos victimizantes y acceder a las personas afectadas.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/1b8ktPE00vk3Z2o9o4v0fPpkOIzZkYmjq/view+Por Confirmar+¿FCE?
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vKEKKFySr9ruAX5DQf44aK
+    [meta/instanceID] => uuid:134a6259-b82a-455e-918f-088c163dc42d
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 134a6259-b82a-455e-918f-088c163dc42d
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-06-06T15:37:32
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,7 @@
+Título:modulo_base
+
+Tablas:M_TEST
+
+Vistas:V_M_TEST
+
+Maestros:m_usuarios

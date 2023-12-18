@@ -1,0 +1,7 @@
+Título:maestro_inventarios
+
+Tablas:
+
+Vistas:V_D_PRODUCTOS,V_D_I_PROD_ALMA,V_D_KARDEX 
+
+Maestros:

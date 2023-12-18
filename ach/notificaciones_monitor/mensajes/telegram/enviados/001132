@@ -1,0 +1,41 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 239
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594222817
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAPvXwXo4Va5siIPZRUyQ--rRVWc8K4AApuoMRuC3ZBHzP1Sd7uoOHIKoRIwAAQBAAMCAANtAAOcJQEAARoE
+                            [file_unique_id] => AQADCqESMAAEnCUBAAE
+                            [file_size] => 9403
+                            [width] => 160
+                            [height] => 129
+                        )
+
+                )
+
+            [caption] => Respueta de comando 
+AYUDA CON 10 ESPACIOS AL PRINCIPIO
+        )
+
+)

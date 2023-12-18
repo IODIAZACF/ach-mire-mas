@@ -1,0 +1,73 @@
+<div class="page" data-name="d_cxc">
+
+	<div class="navbar">
+		<div class="navbar-inner sliding">
+			<div class="left">
+				<a href="#" class="link opciones" data-funcion="t_d_cxc" data-opcion="esc">
+				<i class="icon icon-back"></i>
+				</a>
+			</div>
+			<div class="title">Cuentas Por Cobrar</div>
+		</div>
+	</div>
+	<div class="toolbar tabbar-labels toolbar-bottom-md">
+		<div class="toolbar-inner">
+			<a href="#" class="tab-link opciones" data-funcion="t_d_cxc" data-opcion="esc">
+				<i class="icon f7-icons">logout</i>
+				<span class="tabbar-label">Salir</span>
+			</a>
+			<!--a href="#" class="tab-link opciones" data-funcion="t_d_cxc" data-opcion="cargar">
+				<i class="icon f7-icons">cloud_download</i>
+				<span class="tabbar-label">Cargar Data</span>
+			</a-->
+		</div>
+		
+	</div>
+
+	<div class="searchbar-backdrop"></div>
+	<form class="searchbar searchbar-init">
+		<div class="searchbar-inner">
+			<div class="searchbar-input-wrap">
+				<input id="d_cxc-buscador" data-grid="d_cxc" type="search" placeholder="Buscar" onkeypress="tecla_grid(event,this.id)">
+				<i class="searchbar-icon"></i>
+				<span class="input-clear-button"></span>
+			</div>
+			<span class="searchbar-disable-button">Cancel</span>
+		</div>
+	</form>
+	<div class="page-content">
+		<div class="searchbar-backdrop"></div>
+		<div class="block-title" id="titulo-grid"></div>
+		<div class="block-title">
+			<div class="row" style="font-size:13px">
+				<div class="col-40  tablet-40 negrita"> Documento </div>
+				<div class="col-20  tablet-15 negrita centrado"> Fecha </div>
+				<div class="col-20  tablet-15 negrita derecha"> Monto </div>
+				<div class="col-20  tablet-15 negrita derecha"> Saldo </div>
+			</div>
+		</div>
+		<div class="list">
+			<ul id="d_cxc" data-tabla="V_D_CXC_DOCUMENTOS" data-indice="ID_D_CXC" data-campos="*" data-busca="ID_D_CXC_CXC,ID_M_DOC_FINAL" data-orden="ID DESC" data-filtro="ID_M_CLIENTES" data-xfiltro="" data-limite="50" data-debug="" data-onselect="t_d_cxc">
+			</ul>
+			
+			
+			<script id="d_cxc-template" type="text/template7">
+				<li>
+					<a REGISTRO href="#" class="row no-gap item-inner item-content item-link registro XCOLOR" style="font-size:13px">
+						<div class="col-40  tablet-40 "> {{ID_M_DOC_FINAL}} </div>
+						<div class="col-20  tablet-15 centrado"> {{FECHA_DOCUMENTO}} </div>
+						<div class="col-20  tablet-15 derecha"> {{format MONTO}} </div>
+						<div class="col-20  tablet-15 derecha"> {{format SALDO}} </div>
+							
+					</a>
+				</li>
+
+			</script>
+			
+
+		</div>
+	</div>
+
+	<javascript src="cxc/d_cxc.js"></javascript>
+</div>
+

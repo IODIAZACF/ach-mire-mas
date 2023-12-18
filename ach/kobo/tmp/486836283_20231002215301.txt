@@ -1,0 +1,526 @@
+stdClass Object
+(
+    [_id] => 486836283
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-07-20T21:43:51.730-05:00
+    [end] => 2023-10-02T21:51:27.171-05:00
+    [group_pl6la06/_1_C_digo] => ANCA-929.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-09-20
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-09-25
+    [group_pl6la06/_4_Departamento] => ANTIOQUIA
+    [group_pl6la06/ANTIOQUIA] => CACERES
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Las Conchas, Peñitas, Peladero, Malabrigo, Alto Vaquero, San Pablo, El Carmen y La Tinta
+    [group_pl6la06/_8_Comunidad] => .
+    [group_pl6la06/_9_Tipo_de_emergencia] => RESTRICCION_DE_MOVILIDAD
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO ORGANISMO_PUBLICO ORGANIZACION_ETNICO_COMUNITARIA OTRO_ORIGEN
+    [group_pl6la06/_Cu_l_001] => Personas de las veredas
+    [group_mb5pt53/_1a_Evaluador] => ANGELICA PINO
+    [group_mb5pt53/_1b_Celular] => 3223924868
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => WENDY CARABALI
+    [group_mb5pt53/_2b_Celular] => 322 8809070
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-08-23
+    [group_rq63s60/_1c_Descripci_n_del_evento] => El municipio de Cáceres está ubicado en la subregión del Bajo Cauca, limita con el Sur de Bolívar y los municipios de Caucasia, Anorí y Tarazá, en el departamento de Antioquia, los cuales se caracterizan por la presencia y disputa territorial entre actores armados. La zona sur de Cáceres cuenta con unas condiciones geográficas y naturales que favorecen la extracción minera de oro a gran escala, lo que la hace la principal actividad económica del municipio y, por lo tanto, la principal fuente de ingresos de quienes habitan en esta zona. Esto posiciona al Sur de Cáceres como una zona de interés para el control de los grupos armados, por los dividendos que supone el desarrollo de las extracciones a gran escala y las actividades económicas en torno a estas.  
+
+El control territorial de la zona estuvo por mucho tiempo bajo el predominio de un GANE, pero a partir de 2022 se inicia una avanzada por parte de su contrario desde la zona norte del municipio con la finalidad de dominar el territorio y hacerse con las ganancias de las minas específicamente de San Pablo y las veredas cercanas. Este avance se intensificó a partir de febrero del 2023, en el que se presentaron dos enfrentamientos y un combate, dando inicio a una disputa abierta entre los dos grupos.  Paralelamente, se iniciaron hostigamientos en las zonas aledañas a las veredas, generando temor y zozobra frente a la posibilidad de la ocurrencia de una incursión o enfrentamiento al interior de las comunidades. A partir de mayo, como estrategia de confrontación y para reducir el acceso de recursos en la zona, uno de los grupos en disputa prohibió el ingreso de combustible a toda la zona sur para suspender las actividades mineras y, por ende, el no cobro de extorsiones por parte del GANE contrario en el desarrollo de las mismas. Esto supuso además una afectación para todas las familias de las veredas impactadas, dejando como resultado el no acceso a bienes y servicios.  
+
+El miedo y temor de las comunidades se materializó cuando el pasado 23 de agosto, uno de los grupos armados realizó una incursión armada en la vereda San Pablo, donde intimidaron y amenazaron a la población civil, se quemaron bienes civiles y además se presentaron 4 homicidios en los que se le prohibió a cualquier persona el levantamiento o socorro de las personas heridas, lo que genero mayor impacto psicológico en la población. Dicha incursión generó el confinamiento de las 8 veredas por temor a represalias del grupo armado en disputa, y también la movilidad interna de algunas familias a sitios seguros, tales como los desplazamientos intraveredales desde la vereda de Peñitas hacia las Conchas, y de Malabrigo hacia Peladero. y desplazamientos individuales hacia diferentes municipios del Bajo Cauca y Medellín.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las veredas se encuentran organizadas mediante Juntas de Acción Comunal – JAC y también existen organizaciones de representación de mineros, lo que permite que tengan una estructura organizada para la coordinación y representatividad de las comunidades. Además, las JAC ejercen un papel fundamental para la administración de los recursos, la implementación de soluciones a conflictos comunitarios o intrafamiliares presentados en las veredas.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Dentro de las características de la población se identifica que en las veredas se auto reconocen como campesinos, sin embargo, hay una fuerte presencia de población afrodescendiente y de migrantes de nacionalidad venezolana en su mayoría de regularizados en territorio colombiano. Debido al predominio de actividades mineras y a la presencia de la población flotante, se evidencia que el mayor porcentaje de población es masculina y que existen muchos hogares monoparentales, como respuesta a la permanencia en el territorio solo para el desarrollo de las actividades económicas.  
+
+En las veredas más numerosas, se evidencia mayor presencia de NNAJ y mujeres, en los cuales se identificó una afectación psicología significativa derivada de los hechos ocurridos en el mes de agosto y la necesidad de adaptabilidad de metodologías para la atención de sus necesidades diferenciales. Se evidencia población de los diferentes grupos etarios con afectaciones en la salud generadas por la emergencia y algunas enfermedades de base que se han agravado por la limitación en el acceso y oferta de salud en la zona rural.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Cáceres, se caracteriza por tener una economia basada en los cultivos de pan coger para subsistencia familiar, tales como maíz, yuca, arroz y plátano, sin embargo la economía en la zona sur de Cáceres se basa en la explotación de oro por parte de multinacionales que generan empleo en el manejo de maquinaria y con el barequeo posterior a la extracción. Además, la movilidad de oro en la zona fomenta el comercio de forma activa de alimentos, restaurantes, arriendo y establecimientos con expendios de alcohol. 
+
+La restricción del acceso de combustible generó la suspensión de las actividades mineras que a su vez dieron como resultado la limitación de trabajo tanto en las minas como en la oferta comercial restringiendo el acceso a ingresos, bienes y servicios.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => .
+    [group_rq63s60/group_lm6cx76/e_Servicios] => En las veredas no se cuenta con señal, ni servicio de internet por medio de pines. La única forma de comunicación son teléfonos habilitados como SAYs; esto debido a la limitación del uso de teléfonos y la prohibición de tener internet en la zona.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => El desarrollo de actividades mineras ha generado grandes afectaciones ambientales que han impactado a las comunidades, transformando su geografía de boscosa a desértica; además el manejo de metales pasados ha generado la contaminación de fuentes hídricas y ha impactado en la salud de la población. En el marco de la ERN se observa además que no existe un sistema de manejo de los residuos sólidos, lo que produce la proliferación de vectores y el aumento de enfermedades asociadas a estos.
+    [group_fm93i53/_1_Problem_tica_Principal] => HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/Riesgos_para_respuesta] => MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_cual] => Enfrentamientos e incursión
+    [group_fm93i53/_1d_Caracterizaci_n_Homicidios] => HOMICIDIOS_SELECTIVOS_LÍDERES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => AEREO​
+Bogotá​-Montería​ traslado de 50mn​
+Existe disponibilidad constante de vuelos​
+
+TERRESTRE​
+
+Montería​- Casco Urbano de Cáceres​: 2hrs 30mn​
+Existen buenas condiciones en la vía​
+
+TERRESTRE​
+Cáceres​ - Vereda San Pablo: 5 hrs​
+Vereda San Pablo​ - Las Conchas- Peñitas- Alto Vaquero - Peladero​: 30mn​
+Es una carretera destapada con zonas balastradas y otras que no han sido reparadas. Es importante el uso de camionetas altas, 4x4 y con gran capacidad por las condiciones de la vía.​
+Luego del kilómetro 40 al tomar el desvió hacia San Pablo, se cruzan varias quebradas, las cuales pueden dificultar el paso, si están crecidas. ​
+
+
+Alojamientos: 
+
+Existe una limitada oferta de hospedaje en Cáceres, el único hotel es el Sueño Dorado que no cuenta con amplia capacidad. En las veredas se habilitan espacios para pernoctar con elementos de camping (carpa, hamaca, etc.). En la vereda San Pablo, se habilita un lugar de alojamiento que cuenta con 3 habitaciones cada una con su cama y espacios para camping, es decir, que pueden albergar a 5 personas, además la comunidad refiere tener capacidad para brindar lugares comunitarios más amplios para pernoctar de ser necesario. 
+
+ 
+Alimentación: 
+
+En el casco urbano de Cáceres es limitada la oferta de restaurantes, pero se identificaron dos de ellos para desayuno y almuerzo. En cuanto a las cenas en el hotel están los datos de restaurantes con servicio a domicilio. En las veredas, existen algunos restaurantes en Peladero y San Pablo, sin embargo, por el desabastecimiento de alimentos en la zona rural, se deben llevar alimentos y existe disponibilidad de personas de las comunidades para la preparación de los mismos. 
+
+ 
+
+Servicios:  
+
+En las veredas no se cuenta con señal, ni servicio de internet por medio de pines. La única forma de comunicación son teléfonos habilitados como SAYs; esto debido a la limitación del uso de teléfonos y la prohibición de tener internet en la zona.
+    [group_fm93i53/seguridad] => Seguridad
+- Presencia de actores armados: ELN- AGC - Disidencias de las FARC. 
+- Fuerte demarcación en viviendas y lugares representativos de las veredas. Uso de palabras hostiles y fuertes.  
+- La coordinación de los ingresos y las fechas se debe hacer con los lideres y lideresas. 
+- Hay una prohibición tácita del uso de cualquier medio para la comunicación externa (celulares y satelitales), así elementos que generen la ubicación en tiempo real. (Las personas de las veredas no usan el teléfono, de ser así serían retenidos). 
+- Existen antecedentes de accidentes (2) con MAP – TE en caminos transitados y considerados seguros. 
+- Hay presencia del ejército en la zona montañosa, estos no ingresan a las veredas, ni hacen uso de lugares públicos. 
+- Hay probabilidad de retenes por parte de los actores armados.  
+- Existe carnetización de las personas en las veredas como mecanismo de control territorial. 
+
+Acceso humanitario 
+- Existe control del ingreso de las personas a la zona y acompañamiento constante por partes de los lideres con la finalidad de supervisar las acciones que puedan ser entendidas como prohibidas.  
+- Se debe limitar el uso de medios de comunicación. Lo reportes se pueden hacer por medio de los SAYs comunitarios que son los permitidos. (Los equipos están intervenidos) 
+- Existe organizaciones a las cuales se les veta el ingreso. 
+- Existe un peaje comunitario, el que por el momento no está en funcionamiento. 
+- Se debe contar con visibilidad tanto de los medios de transporte como del personal humanitario. 
+- Importante resaltar los principios humanitarios y resaltar nuestra neutralidad de temas políticos. 
+- Debe informarse el número de personas que ingresan y el tipo de vehículo. 
+- Existen restricciones de movilidad de 6pm a 6am
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 585
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 1617
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 8
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 15
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 30
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-09-25
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 1617
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => PMA: entrega de paquetes alimentarios
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => La presencia constante de actores armados en las veredas de Las Conchas, Peñitas, San Pablo, Malabrigo, Peladero, Alto Vaquero, La Tinta y El Carmen representa una alta exposición de riesgos en el marco del conflicto armado de los pobladores de este territorio, quienes han quedado inmersos en una disputa territorial en la que se afecta el tejido social y comunitario de las veredas, además de sus derechos fundamentales. 
+
+En esta disputa armada se han visto afectadas aproximadamente 600 familias o 1617 personas que han sido víctimas de restricción a la movilidad por el temor a la presencia de artefactos explosivos en caminos que suelen frecuentar, por la presencia del actor armado y por limitaciones horarias para movilizarse, que al no ser acatadas pueden acarrear multas económicas y afectaciones a la integridad física y mental de las personas. Estas y otras medidas profundizan el control social en el ejercicio de las actividades diarias, como la prohibición del ingreso de combustibles y alcohol como una estrategia para diezmar y obligar al repliegue de los grupos contrarios, impactando a las comunidades limitando su acceso a recursos económicos y dejando como resultado poco o nulo acceso a bienes y servicios. 
+
+Las comunidades sienten miedo, angustia y zozobra por las acciones de los actores armados, refieren que, desde enero del año en curso, las hostilidades en el territorio se han incrementado, presentándose enfrentamientos, amenazas, homicidios a líderes económicos, afectaciones a bienes muebles, secuestros, desapariciones forzadas, desplazamientos individuales y presuntos casos de delitos contra la libertad y la integridad sexual de mujeres y niñas, escenario que obliga a la comunidad a no desarrollar sus actividades diarias productivas como la cosecha, siembra o minería, lo que da cuenta de una crisis humanitaria que afecta desde enero de 2023 la supervivencia de las comunidades campesinas.  
+
+El accionar armado del GANE ha producido una limitación para el ejercicio de liderazgos debilitando las estructuras organizativas. Existen riesgos y materialización de amenazas e intimidaciones a lideres(as) pues se presentó el homicidio de una persona que ejercía una vocación de liderazgo económico a finales del mes de agosto y amenazas al presidente de la Junta de Acción Comunal de la vereda Malabrigo, ocasionando el desplazamiento forzado de este y su núcleo familiar en el mes de julio. Esta situación de riesgo conllevó a que en este momento haya poca presencia de los perfiles de mayor representatividad en las veredas, lo que da cuenta de un riesgo exacerbado por la presencia y control de actores armados. 
+
+Frente a este riesgo, se evidenció que algunos líderes e integrantes de las Juntas de Acción Comunal JAC saben sobre las medidas y esquemas de protección brindados por la Unidad Nacional de Protección-UNP, sin embargo, refieren que estas no son aptas para el contexto en el que se encuentran, pues al acceder a ellas podrían ser señalados e incrementar el riesgo de ellos y sus familias ante los actores armados, así mismo, se observan mitos sobre dichas medidas y modos de acceder a ellas. Este escenario de hostilidades donde se ha afectado a la población civil ha producido desplazamientos individuales, homicidios, amenazas e intimidaciones, desaparición forzada, violencia sexual, MAP-TE, secuestro, afectaciones a bienes civiles, extorsiones y/o multas. 
+
+Se evidencio que la presencia del GANE eleva el riesgo y materialización de uso y vinculación de NNAJ a través de estrategias de enamoramiento y ofrecimientos económicos por parte de los grupos. Riesgo que ha ocasionado que un gran porcentaje de jóvenes y adolescentes se desplacen hacia el casco urbano de Cáceres, Tarazá y Caucasia para terminar sus estudios o búsqueda de oportunidades alejadas del conflicto.  
+
+En las veredas afectadas se observa una presencia mayoritaria de hombres que llegan al territorio buscando fuentes de ingresos económicos, donde la presencia de las mujeres resulta ser un poco más baja, ubicándolas en un contexto liderado por el patriarcado donde se identifica violencia económica, sexual/reproductiva, verbal y psicológica. Además, existen relaciones sentimentales desde temprana edad principalmente de niñas y jóvenes menores de edad con adultos. Lo anterior, conlleva a la planificación temprana sin un acompañamiento y orientación por parte del personal de salud. Se debe destacar que este tipo de violencias en contra de las mujeres y niñas, son ejercidas tanto por los actores armados como por sus compañeros sentimentales. 
+
+En el marco de esta evaluación de necesidades se identificó también población con doble afectación, víctimas del conflicto en este territorio y migrantes que en busca de mejores oportunidades han llegado a este territorio, migrantes que en su mayoría cuentan con un estatus regular en Colombia.  
+
+Se logro percibir en las comunidades sentimientos de soledad, nostalgia y melancolía por los múltiples desplazamientos individuales que han dejado las veredas deshabitadas, en silencio y soledad, produciendo una ruptura y quebrantamiento de las comunidades que no poseen estrategias de afrontamiento ni mecanismos de autoprotección, se observó una afectación generalizada en las comunidades, afectaciones generadas por la emergencia que han dejado sentimientos de miedo constante, dificultades para conciliar el sueño, estrés que ocasionan dolores de cabeza y físicos. Esta situación se acentúa por la poca presencia de las instituciones municipales y departamentales en el territorio ocasionando que no exista una relación y desconfianza entre las comunidades y la institucionalidad para la activación de rutas de protección, trabajo conjunto para la mitigación de riesgos o actividades en beneficio de la comunidad.  
+
+El conocimiento y acceso de la población a estrategias para la defensa y protección de derechos y libertades es limitada, se observa una invisibilización de hechos victimizantes que no son conocidos por las comunidades y desconocen las entidades donde pueden activar rutas de atención. Adicional a lo anterior, no conocen sobre la normatividad vigente orientadora de la atención a víctimas del conflicto armado, rutas de atención, acceso a derechos, asistencia inmediata y reparación integral a población afectada por el conflicto armado interno y solo identifican el desplazamiento forzado como afectación en el marco del conflicto armado.  
+
+Se presentan obstáculos para el acceso a derechos esenciales y activación de rutas de atención en el marco del conflicto armado, como se dijo anteriormente la poca presencia de la institucionalidad y el hecho de que esta no llegue al territorio por las condiciones de seguridad del contexto. impide la verificación de la situación de las comunidades campesinas, el reconocimiento de la emergencia, la toma de declaraciones y activación de rutas de atención, pues a pesar de que la Alcaldía municipal conoce sobre la situación y hechos presentados, aún no se realiza la coordinación para la atención de las familias que aún permanecen en el territorio y no se ha iniciado la activación de la ruta de atención del total de la población afectada por confinamiento masivo. 
+
+El acceso a la salud es limitado, pues en el territorio evaluado no se cuenta con centros asistenciales para la atención y traslados de emergencia, las largas distancias hasta el casco urbano de Cáceres, la falta de conectividad y señal telefónica impiden que las personas puedan programar con éxito citas médicas.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => Se evidencia restricción a la movilidad por el control, presencia y la disputa de actores armados que imponen normas de control social, económicas y comportamental.​
+
+Existe restricción para el ingreso a ciertas zonas del territorio por temor a la presencia de artefactos explosivos. Así como horarios para la movilidad que acarrean faltas y multas.​
+
+Se evidencia una limitación para el ejercicio de liderazgos que debilita las estructuras organizativas. ​
+
+Existen riesgo y materialización de intimidaciones y amenazas a algunos lideres(as) y se presentó el homicidio de una persona que ejercía una vocación de liderazgo económico. ​
+
+Se evidencia poca presencia de los perfiles de mayor representatividad en las veredas, lo que da cuenta de un riesgo exacerbado por la presencia y control de actores armados.​
+
+La presencia de actores armados ha resultado en desplazamientos individuales, homicidios, amenazas/intimidaciones, desaparición forzada, violencia sexual, MAP-TE, secuestro, afectaciones a bienes civiles, extorsiones/multas. ​
+
+Se evidencia riesgo y materialización de la vinculación y uso de NNAJ a través de estrategias de enamoramiento y ofrecimientos económicos. ​
+
+Existe violencia económica, sexual/reproductiva, verbal y psicológica en las mujeres de las veredas. Además, se evidencian relaciones sentimentales desde temprana edad principalmente de niñas y jóvenes menores de edad con adultos. Lo anterior conlleva a la planificación temprana.​
+
+No hay estrategias de afrontamiento, ni mecanismos de autoprotección comunitaria.​
+
+Existe poco conocimiento sobre las rutas de atención y protección de las víctimas. Las comunidades en su mayoría no han sido reconocidas por hechos victimizantes anteriores. ​
+
+La presencia de las entidades territoriales es nula frente a las necesidades identificadas. ​
+
+Existe desconfianza en las rutas de protección institucionales.
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => ¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección? ​
+Se identifican casos de necesidades acentuadas en salud fisica, acceso a garantías de la UARIV​
+
+¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)?​
+Se evidencia amenazas individuales como resultado de desplazamientos individuales, homicidios, amenazas/intimidaciones, MAP-TE, afectaciones a bienes civiles, extorsiones/multas y hechos masivos de desplazamiento masivos y restricción a la movilidad.​
+
+¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo?​
+Se evidencia un sentimiento generalizado de soledad, miedo, zozobra y melancolía por la situación de contexto y desplazamiento de muchas familias que rompe el tejido social.​
+
+¿El hecho victimizante ha sido visibilizado con la institucionalidad? ¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención?​
+No ha sido visibilizado, existe limitación para el ingreso de la institucionalidad a zona rural debido a que las condiciones de seguridad no son favorables para el acceso lo que desemboca en   la no verificación de la situación y activación de la ruta.​
+
+​¿Tienen conocimiento las comunidades sobre normatividad de víctima? ¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? 
+No existe conocimiento sobre las rutas de atención lo que genera un no reconocimiento institucional de su condición de víctimas.
+    [group_aa8xg30/group_lg2ro37/Shelter] => En la zona sur del municipio de Cáceres, a partir de la situación expuesta anteriormente que afectó a las comunidades de las veredas San Pablo, Peñitas, Las Conchas, Malabrigo, Peladero, el Carmen, la Tinta y Alto Vaquero se produjeron desplazamientos al interior de las veredas y restricción a la movilidad; varias familias, después de los hechos de agosto, se albergaron en la antigua sede educativa de la vereda San Pablo sin condiciones de habitabilidad para las personas de 2 a 3 días. Se identificó la utilización de elementos de hábitat y utensilios de cocina comunitaria, proporcionadas con anterioridad por la institucionalidad para ser administrados y entregados por los liderazgos de las JAC.  
+
+En la vereda de Peladero, las personas desplazadas de Malabrigo se auto albergaron en redes de apoyo o en casas deshabitadas, solo 4 núcleos familiares se establecieron allí, los otras retornaron a su comunidad. Las familias que no retornaron a sus comunidades y personas de las veredas que inicialmente fueron receptoras, se desplazaron posteriormente hacia la cabecera municipal de Cáceres. Actualmente se sabe que han iniciado el retorno por una disminución de los enfrentamientos, sin embargo, persisten restricciones a la movilidad y dificultades para el acceso a recursos económicos, que sumado a las dificultades de salud que presenta la población como consecuencia del control y la disputa de los actores armados presentes en el territorio, y la posibilidad de nuevos ataques de los GANE que involucren a la población civil, persiste la restricción a la movilidad y se podrían producir nuevos desplazamientos no necesariamente masivos. 
+
+Dentro de los principales hallazgos se encuentran casos confirmados de dengue y paludismo, sin atención o respuesta de salud, la proliferación de epidemias y el aumento de contagio por vectores requiere del acceso a toldillos como elementos de mitigación desde shelter para prevenir el aumento de contagios y/o muertes en la población.  
+
+En la ERN se identifica un incremento significativo de deserción escolar por múltiples causas, y pese a los desplazamientos, la infraestructura educativa no presenta hacinamiento, de hecho, se identificaron algunas sedes educativas con un número de estudiantes menor a su capacidad, sin embargo, se identifica deterioro de algunas instalaciones educativas como consecuencia de problemas estructurales como la falta de inversión desde el sector de educación y no como consecuencia de la emergencia. Las sedes educativas de San Pablo, Peladero y Las Conchas son en concreto, San Pablo tienen una nueva infraestructura utilizada desde el mes  de julio; la sede de las conchas tiene impacto de armas de fuego como consecuencia del enfrentamientos presentados entre grupos armados en el primer semestre del año, sin embargo, no hay deterioro de su infraestructura de manera permanente; las veredas de Peñitas y Alto Vaquero tienen una infraestructura en madera, pero en Alto Vaquero están en proceso de construcción de una escuela que está detenido por la emergencia. Es importante resaltar que las escuelas y las casas donde viven los profesores están señalizadas con banderas blancas como medida de contingencia y autoprotección. Por todo lo anterior, no se evidencia necesidades inmediatas en el marco de la emergencia para ser atendidas por el sector de shelter en los territorios.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => La mayoría de las personas siguen viviendo en sus hogares, con la excepción de cuatro familias que se desplazaron a Peladero hace algunos meses, pero ya están establecidas en esa área. ​
+
+Las familias que permanecen en sus viviendas tienen acceso a los elementos necesarios para satisfacer sus necesidades básicas de vivienda.​
+
+Debido a las restricciones de movilidad, la falta de recursos económicos. Sumando, la confirmación de casos de dengue y paludismo en las comunidades se ha identificado la necesidad urgente de acceso a toldillos para ayudar a proteger la salud de las familias.​
+
+No se han observado problemas de hacinamiento en las escuelas, lo que también ha contribuido a reducir la deserción escolar y aumentar la cantidad de niños y adolescentes que asisten a la escuela.​
+
+Las comunidades consideran los centros educativos como lugares seguros, ya que la mayoría de ellos están construidos con materiales resistentes como el concreto y están marcados con banderas como símbolos de neutralidad.​
+
+En la comunidad de San Pablo, la gobernación ha proporcionado elementos de hábitat y utensilios de cocina para hacer frente a posibles desplazamientos masivos debido a emergencias.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿La mayoría de las familias y/o personas tienen donde albergarse >50%?. N/A​
+
+¿La mayoría de las familias y/o personas tienen donde albergarse en condiciones seguras >50%?  N/A​
+
+¿Las familias cuentan con los elementos adecuados de hábitat que promuevan seguridad >50%? SI.​
+
+¿La institucionalidad y población desconoce sobre temas relacionados con el sector de Alojamiento y Asentamiento?  NO​
+
+¿Los espacios educativos presenta hacinamiento agudizado por la emergencia, Si /No? NO.​
+
+¿Existen espacios educativos para la atención de NNAJ durante la emergencia, Si/No? SI.​
+
+¿Se cuenta con el apoyo y coordinación de autoridades locales para el seguimiento y desarrollo de espacios educativos en la emergencia, Si/No? SI
+    [group_aa8xg30/group_fv0ct51/Agua] => Las veredas recolectan el agua desde afluentes naturales de la zona montañosa como quebradas, las cuales están a una distancia mayor a los mil metros, con mecanismos como sequias y barreras, a través de un tubo madre desde el cual la comunidad hace conexiones de manera improvisada con mangueras de 3 pulgadas que distribuyen el agua a cada casa, por lo que no tienen que hacer largos recorridos para esto, el almacenamiento se hace en tanques de plástico y en piletas fabricadas en concreto. Se evidencia que el agua fluye las 24 horas del día, las veredas en su totalidad cuentan con acceso a agua debido a que hay afluentes que tienen la capacidad para abastecerlas, sin embargo, los habitantes manifiestan que en tiempo de verano se presentan sequías y disminuye el suministro de la misma. 
+
+En la comunidad de Peladero se realizó la construcción de un acueducto comunitario por medio del cual la recolección se hace a través de en un tanque de concreto que después distribuye el agua hacia dos tanques de 5.000 litros cada uno, de los cuales se desprende un tubo madre en donde las familias conectan las respectivas mangueras para obtener el agua. Cabe resaltar que dicho proyecto fue construido con fondos de la misma comunidad y que, aunque hay una persona encargada del mantenimiento del mismo, que se realiza cada mes, no está capacitado en tratamiento adecuado de agua y se observa turbiedad y sedimentación en los tanques. 
+
+Es importante resaltar el hecho de, que, aunque las comunidades indican que es agua potable, también manifiestan que existen vectores como larvas, zancudos, roedores y cucarachas; que se presenta sedimentación en el agua, e identifican como “hogas” las aguas contaminadas por metales pesados, los cuales mencionan que son mercurio y ácido nítrico usados para la extracción y manejo del oro, ya que es zona minera. Los habitantes de las veredas refieren que debido al consumo de agua cruda se han presentado enfermedades gastrointestinales, dérmicas y renales ya que el agua no es tratada y no tienen acceso a filtros para descontaminarla. 
+
+No se evidencia el tratamiento del agua en ninguna comunidad, por lo que esta se consume sin tratar y usan métodos como asentamiento del agua y filtrarla con estrategias no convencionales como la utilización de prendas de vestir en llaves o como coladores, tales como medias y camisetas que ya no estén siendo usadas por las personas. Adicionalmente las pocas personas que hierven el agua refieren que después de hacerlo, el agua presenta una capa densa en la parte superior la cual es incolora y sin olor.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => La mayoría de las casas de las veredas visitadas cuentan con acceso a sanitarios ubicados dentro de ellas para la realización de sus necesidades fisiológicas, los cuales generalmente tienen pozos sépticos que son construidos de forma improvisada y otras usan desagües que desembocan directamente a las fuentes hídricas generando contaminación para las comunidades aledañas ya que el agua que desciende contiene excrementos. 
+
+En las instituciones educativas cuentan con baños para niñas y para niños, en su gran mayoría tienen acceso a agua y cuentan con pozos sépticos, dependiendo de las estructuras de los baños, en cada vereda se cuenta con diferentes elementos para asegurar los de las niñas pero en la mayoría, se cierra la puerta con trancas de madera.   
+
+La disposición de aguas residuales se hace de manera individual y no se cuenta con alcantarillado  para deshacerse adecuadamente de las aguas contaminadas, las personas no están familiarizadas y capacitadas con el mantenimiento y vertimiento correcto de los desechos, es decir, no se tienen las pautas adecuadas de mantenimiento de infraestructura sanitaria.  
+
+En cuanto a los desechos de residuos sólidos o básuras, en la mayoría de las veredas las familias hacen huecos en la tierra por núcleo familiar para deshacerse de ellos, ya que no cuentan con un lugar o procesos para la correcta disposición de las mismas. En otras veredas y hogares manifiestan que realizan quema de residuos cada cierto tiempo, a excepción de una comunidad que es la vereda San Pablo que cuenta con un lugar a cielo abierto, a la entrada de la vereda, para poder deshacerse de los mismos. En esta vereda, antes de las afectaciones por los hechos de conflicto mencionados, se contaba con una volqueta pagada con recursos de la comunidad que se encargaba de recoger ciertos días de la semana las basuras y llevarlas al botadero, sero debido a los pocos recursos que tienen en este momento, ya no es posible el funcionamiento de la misma. Los participantes indican que respecto a los desechos orgánicos, algunas veces son usados como abono para las plantas de jardín de las casas.
+    [group_aa8xg30/group_fv0ct51/Higiene] => En cuanto a la higiene, las personas refieren que el acceso a los elementos de aseo es bastante limitado debido a la situación de contexto ya que el aumento en los precios ha sido considerable, tanto así, que han tenido que priorizar la compra de un solo elemento (como jabón azul) para todas las actividades de limpieza y aseo personal y de los hogares ya que no les es posible comprar los elementos de antes ni las cantidades acostumbradas. 
+
+Las mujeres indican que no se prioriza el uso de los elementos de higiene menstrual por la situación económica y que se prioriza la compra de alimentos o elementos de aseo para toda la familia por lo que hay limitaciones de acceso a toallas o tampones, protectores, pañitos húmedos o jabón íntimo. 
+
+El lavado de manos no es tan usual, refieran algunos que lo hacen antes de las comidas, aunque taxativamente expresan que si están en jornadas de trabajo de campo donde no tienen acceso rápido a agua y realizan necesidades fisiológicas no acuden al lavado de manos ni tampoco antes y después de las comidas, ya que esto retrasa sus labores y no lo consideran importante. En general las personas tienen hábitos de higiene en sus hogares, pero están limitados con los elementos de aseo.  
+
+Respecto a las instituciones educativas se expresa que hay mala manipulación con los alimentos del Programa de Alimentación Estudiantil (PAE) debido a que no son bien seleccionados ni empacados para su distribución y el manejo que se les da en las escuelas es con agua que no es potable, generando en los NNA enfermedades gastrointestinales.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Agua​
+
+La recolección del agua se realiza a través de fuentes naturales como quebradas y riachuelos que funcionan como toma de agua.​
+
+La distribución del agua a nivel comunitario se realiza por gravedad a través de una tubería madre y por medio de esta se realizan conexiones individuales para el abastecimiento de cada vivienda, a excepción de las comunidades de Peladero y Alto Vaquero que poseen acueductos veredales semi estructurados, los cuales se limpian cada mes con cloro y jabón en polvo, pero dónde se observa una gran cantidad de lama y sedimentos. ​
+
+Se evidencia que las familias no realizan procesos de potabilización del agua, refieren purificarla por medio del asentamiento de sedimentos y el uso de filtros no convencionales como prendas de vestir “medias y camisas”​
+
+Se observa sedimentos en el agua y una persona refiere que a pesar de que se hierve, los sedimentos permanecen. Además, se observa turbiedad, larvas y roedores en el agua.​
+
+Las familias refieren enfermedades intestinales y renales por el consumo de agua no segura y mayoría refieren afectaciones recurrentes en la piel.​
+
+Se evidencia un mal manejo y contaminación de las fuentes hídricas por metales pesados utilizados en la minería como el mercurio y ácido nítrico.​
+
+Manifiestan que en temporadas de verano el abastecimiento del agua se disminuye por la sequía y en época de invierno se obstruyen las tuberías. ​
+
+Las comunidades de Peladero y de Alto Vaquero cuentan con estructuras de acueducto improvisado que fueron construidas con recursos propios, pero se evidencia la necesidad de realizar mejoras para un adecuado funcionamiento.​
+
+Se identificó que uno de los centros educativos cuenta con baños, pero no con conexión a agua (Sede Las Conchas)
+
+Higiene​
+
+Las comunidades solo identifican un momento importante para el lavado de manos y manifiestan que no lo realizan con frecuencia.​
+
+Las comunidades no cuentan con fácil acceso a elementos de aseo. 
+
+Saneamiento​
+
+Las familias en la mayoría de las veredas cuentan con tazas sanitarias hidráulicas con descarga en pozo en terreno natural con tapa.​
+
+La disposición de las aguas residuales en su gran mayoría se hace con pozo séptico improvisados y en algunos casos con tuberías que eliminan los desechos a fuentes hídricas.​
+
+La disposición de residuos sólidos se hace de manera individual mayoritariamente y solo en dos veredas se hace de manera comunitaria y a cielo abierto, cabe resaltar que los residuos no son separados y que su disposición final se realiza por medio de quemas o se entierran.​
+
+Existe una proliferación de vectores como cucarachas, roedores, zancudos y moscas por el mal manejo de residuos sólidos y la gran cantidad de aguas estancadas.​
+
+Los baños al interior de las casas son mayoritariamente de madera y se aseguran con trancas improvisadas.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Dadas las necesidades identificadas se recomienda la entrega de filtros de agua, formación sobre su utilización, fortalecimiento de los mecanismos de limpieza de las redes de acueductos comunitarios y sensibilización para las precauciones sobre el uso de metales pesados con la finalidad de reducir los impactos y las afectaciones a la salud (intoxicaciones) producida por la manipulación de estos.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => 100% de la población que NO usa agua segura. ​
+
+90% de la población que NO tiene acceso a jabón para realizar los procesos de higiene.​
+
+La infraestructura del albergue no cumple con los estándares esfera. N/A
+    [group_aa8xg30/group_jn0nm53/san] => El acceso a servicios básicos, se han visto limitado por la falta de recursos económicos que ha generado la emergencia por restricción a la movilidad en las veredas de la zona sur del municipio de Cáceres, lo que supone una limitación en el acceso y el desabastecimiento de alimentos.  
+
+La economía principal desarrollada por las comunidades deriva de extracción de oro, de forma tecnificada y artesanal (barequear) y las actividades económicas que esta impulsa en la zona, que generaba gran movilidad de económica en las tiendas, restaurantes, hospedajes y lugares de venta de alcohol. Al ser la minera la actividad principal se cambió la vocación agrícola de las comunidades, por lo que actualmente son pocas las familias que cuentan con cultivos agrícolas de pan coger tales como plátano, yuca, maíz y caña, los cuales son utilizados para la subsistencia propia y el intercambio entre vecinos.  
+
+Con la restricción del acceso de combustible y la suspensión de las actividades en las minerías, se vio afectada la generación de recursos de las comunidades, así como también se suspendieron las rutas (líneas) de transporte que permitían que las comunidades se trasladaran desde la zona rural hasta el caso urbano. 
+
+Con anterioridad a la emergencia, existían tres horarios disponibles diarios para el traslado de las comunidades, dado el incremento de combustible y la poca demanda por el temor de las personas a trasladarse por la presencia de actores armados, se limitó a una disponibilidad diaria y esta depende de que el número de personas sea suficiente para cubrir los gastos del traslado.  
+
+Esto ha generado un desabastecimiento mayor en las tiendas de las veredas, dado que el ingreso de alimentos depende del transporte de las líneas, las cuales han aumentado el valor de los tiquetes de las personas y de la carga significativamente derivando en el incremento de los precios de los productos.  
+
+Dado que las familias realizan su abastecimiento principalmente en el comercio de las veredas, esto porque el traslado hasta el casco urbano supone un alto costo (220.000 mil pesos), se ha limitado la posibilidad de comprar alimentos o en algunos casos de que sean variados; generando una reducción en el número de comidas diarias, que actualmente son en promedio dos. Sumado a los altos costos del transporte, en algunos casos los GANE realizan revisiones aleatorias sobre la cantidad de alimentos que ingresan las familias, lo que genera temor para traslado de suministros desde el casco urbano hacia la zona rural. 
+
+Por o anteriormente mencionado, y por la presencia y control de los actores armado, las familias de las veredas encuentran limitado su acceso a alimentos y medios de vida que les permita subsanar y garantizar su seguridad alimentaria.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => La materialización de los riesgos derivados de la presencia de los actores armado por la incursión en la vereda de San Pablo, generaron alteraciones no solo psicológicas sino también en la salud física de las personas de las veredas de San Pablo, Peñitas, Las Conchas, Malabrigo, Peladero, el Carmen, la Tinta y Alto Vaquero, las cuales se reflejan en dolores de cabeza frecuentes que derivan en algunos casos de migraña severa donde se presumen que son causados por los altos niveles de estrés y preocupación, además también han aumentado los casos de dolores en el cuerpo y problema respiratorios (gripe) principalmente en niños y niñas.  
+
+Además, se identificaron casos de personas con afecciones previas como problemas cardiacos e hipertensión que tuvieron recaídas derivadas del estrés y la situación de contexto, generando un deterioro en su condición de salud, lo cual se acrecienta por la falta de atención medica en la zona rural y acceso a medicamentos para sus condiciones médicas. 
+
+Dentro de las enfermedades de base identificadas se destacan, colesterol, hipertensión, diabetes y triglicéridos altos, dichas patologías no están siendo tratas actualmente por la falta de recursos que permitan el acceso a los servicios médicos que se encuentran en el casco urbano. Sumado a la anterior se destacaron casos de dengue y malaria por la proliferación de vectores, principalmente en la vereda San Pablo, donde se habla de 3 casos de dengue hemorrágico de los cuales, un joven falleció por esta causa y dos menores con atención en las UCI de Montería y Caucasia.  
+
+Es de resaltar que el acceso a atención en salud en las veredas se ve limitado porque este se centra en el caso urbano de Cáceres, sumado a la falta de realización de brigadas de salud extramurales, que la última fue hace más de un año y las que se tenían prevista para el 2023 fueron canceladas por las condiciones de seguridad derivadas del contexto de conflicto armado. 
+
+Si bien en las veredas de Peladero y San Pablo existe dos lugares habilitados como puestos de salud, estos no han sido reconocidos legalmente, lo que limita la provisión de personal médico y de las garantías de salud reales. Frente a esto es la misma comunidad es quien contrata por medio de recursos propios a auxiliares de enfermería para la prestación de servicios básicos de salud con la finalidad de salvar vidas. Cabe destacar que por la falta de actividades económicas en la zona debido a la restricción de los actores armado y suspensión de la minería en la actualidad estos puestos de salud se encuentran cerrados, ya que no se contaba con los recursos económicos para solventar el pago del personal.  
+
+Como resaltamos con anterioridad, la principal actividad económica de las comunidades es la minería, para la cual se hace uso de metales pesado que terminan en las fuentes hídricas generando la contaminación de las mismas, dicha situación deriva con frecuencia en problemas gastrointestinales y afecciones en la piel como resultado el consumo de agua no trata y contaminada. Una profesional de enfermería en la comunidad refiere que existe un aumento notable de personal con cálculos lo cual se deriva principalmente del sedimento presente en el agua. 
+
+También se resalta la recurrencia de infecciones vaginales que son atribuidas a las condiciones del agua, así como constantes casos de intoxicación por mercurio como resultado de la no precaución y uso de medidas de protección en el manejo de metales pesados.  
+
+Existe una conciencia sobre el uso de los métodos anticonceptivos, pero se evidencia su uso desde temprana edad como respuesta y medidas de precaución frente a las relaciones entre personas mayores y menores de edad, con la finalidad de prevenir embarazos tempranos.  
+
+Para finalizar se identifican casos de infecciones respiratorias agudas – IRA, principalmente neumonía, en niños y niñas, además la falta de recursos económicos para los traslados hasta casco urbano ha limitados el acceso a los esquemas de vacunas primario.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Se evidencian afectaciones psicológicas derivadas de la emergencia, tales como estrés exacerbado, síntomas de hipervigilancia, problemas para dormir, psicosomatizaciones, sentimientos de soledad, abandono y tristeza que se acrecienta por el rompimiento de los lazos y tejidos sociales que generaron los desplazamientos individuales de varias familias de las veredas y la reducción significativa del número de personas en las comunidades. 
+
+Se tiene conocimiento de dos casos de personas que tenían padecimientos psicológicos y que debido a la emergencia se alteraron, sus familiares expresan que con anterioridad no habían sufrido alteraciones de esa magnitud. 
+
+Las afectaciones son generalizadas en toda la población, pero se resalta una mayor verbalización por parte de las mujeres quienes también expresan que nos NNAJ se alteran con facilidad ante sonidos fuertes y que además replican conductas propias de los actores armados derivadas de los eventos violentos de los cuales fueron testigos. Por último, se evidencia consumos de sustancias psicoactivas por parte de jóvenes de las veredas.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Hallazgos de salud física: 
+
+ Se identifica que como resultado de la emergencia se presentan dolores de cabeza frecuentes que derivan en algunos casos a migraña severa.​
+
+También han aumentado casos de dolores en el cuerpo y problemas respiratorios (gripe) ​
+
+Se evidencias casos de dengue y malaria, en la vereda de San Pablo se identificaron 2 casos de menores con Dengue hemorrágico y que reciben atención medica en UCI.​
+
+ El estrés y la situación de contexto ha generado en la población con problemas cardiacos e hipertensión la alteración y detrimento de su condición de salud. ​
+
+ Dentro de las enfermedades de base se resaltan: Colesterol, Hipertensión, Diabetes y triglicéridos altos, enfermedades que actualmente no están siendo tratadas por la falta de oferta en la zona rural y por las dificultades de movilidad hacia el casco urbano.  ​
+
+La última jornada de salud fue hace más de un año y aunque en las veredas de San Pablo y Peladero existen lugares habilitados como centros de salud actualmente por la emergencia suspendieron sus servicios debido a que no cuentan con disponibilidad de personal. ​
+
+Se presentan con frecuencia problemas gastrointestinales y afecciones de la piel como resultado del consumo de agua no tratada y de la contaminación con metales pesados derivados de la actividad minera.​
+
+Además, una de las profesionales de enfermería recalca el aumento de los cálculos en la población derivado del sedimento presente en el agua.​
+
+También se reportan desde la ESE constantes casos de intoxicación por mercurio en la zona sur del municipio de Cáceres.​
+
+Las mujeres presentan con recurrencia infecciones vaginales y atribuyen esa situación a las condiciones del agua.​
+
+Existe una gran cantidad de NN que por falta de recursos económicos para el traslado a el municipio de Cáceres no cuentan con el esquema de vacunas primario.​
+
+ Las mujeres usan desde temprana edad métodos anticonceptivos y existe una conciencia a cerca del uso y la importancia de estos, pero no existe la disponibilidad para el acceso a los mismo. ​
+
+Las personas están afiliadas a servicios de salud, pero no hay una cobertura de estas EPS a nivel rural lo que limita el acceso a servicios.​
+
+En las veredas existen tres personas con formación en enfermería que prestan servicios particulares.​
+
+Teniendo en cuenta que en las veredas evaluadas no se cuenta con programas del ICBF quienes reportan los casos de NNA en condiciones de desnutrición leve o aguda existe un subregistro para la identificación y seguimiento de estos casos.​
+
+Se reportaron casos de IRA- Infecciones Respiratorias Agudas (neumonía) en la zona sur de Cáceres. 
+
+Hallazgos de salud mental: 
+​Se evidenciaron afectaciones psicológicas derivadas de la emergencia, las personas refieren sentirse estresadas, con síntomas de hipervigilancia, problemas para dormir, psicosomatizaciones, sentimientos de soledad, abandono y tristeza, afectaciones que se incrementan por el desplazamiento masivo de las personas que impacta el tejido social y rompe el relacionamiento de las comunidades. ​
+
+Se evidencian casos donde el nivel de estrés ha derivado en el incremento de migrañas y  alteraciones psicológicas preexistes. ​
+
+Los padres de familia refieren que el contexto ha perturbado la salud emocional de los NNA, quienes se alteran ante cualquier sonido y replican conductas de los actores armados, hablan de forma reiterativa sobre los eventos violentos y están muy distraídos en las clases.​
+
+A nivel institucional no se evidencia capacidad para la atención psicológica de las personas víctimas del conflicto armado.​
+
+No se evidenciaron pensamientos de ideación suicida en la comunidad.​
+
+Se presenta consumo de sustancias psicoactivas principalmente en jóvenes.
+
+Capacidad institucional:  
+
+El municipio de Cáceres cuenta con un hospital de primer nivel, (ESE Hospital Isabel La Catolica) el cual tiene baja capacidad para el numero de población a nivel municipal (36.908 personas) este centro de salud queda a 5 horas desde las veredas evaluadas.  
+
+Aunque la ESE cuenta con capacidad logística (ambulancia y camioneta) estos no realizan evacuaciones de urgencia desde las áreas rurales, los pacientes independientemente de su condición de gravedad deben llegar hasta el casco urbano. 
+
+Las evacuaciones de emergencia se realizan conforme a los convenios de las E.P.S. a las que se encuentran afiliadas las personas y generalmente se realiza a Caucasia, donde se cuenta con un hospital de segundo nivel y Montería. 
+
+En la zona rural la ESE cuenta con 1 centro y 4 puestos de salud, pero ninguno de estos se encuentra cerca de las veredas evaluadas.  
+
+Desde la coordinación local de salud se cuenta con una psicóloga que presta primeros auxilios emocionales a población victima principalmente en zona urbana, asi como también 2 microscopistas y uno está ubicado en la  vereda del Tigre a 3hrs a tres horas de las veredas evaluadas.  
+
+La asignación de citas se hace por medio de llamadas o WPP lo que dificulta el acceso de las comunidades a servicios médicos; se asignan 5 cupos de citas para la población rural sin agendamiento. 
+
+Las muestras de malaria se analizan por gota gruesa. Existe disponibilidad para la articulación y entrega de medicamentos de casos diagnosticados, siempre y cuando se cuente con la ficha epidemiologica. 
+
+Así mismo, existe la posibilidad de articular con la ESE para una atención conjunta donde ellos proporcionarían profesionales de salud oral, vacunación e insumos para la atención.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => De acuerdo a las necesidades identificadas se recomienda:​
+
+Brigadas de atención en salud física.​
+
+Habilitación de espacios de atención psicológica individuales.​
+
+Generar espacios comunitarios de recuperación psicológica y emocional.​
+
+Jornadas de prevención y promoción de educación sexual y planificación familiar.​
+
+Articulación con la Alcaldía de Cáceres para la atención conjunta (vacunación y salud oral).
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => Número de personas afectadas entre 500 y 1500.​ Si
+
+¿Hay necesidad expresa de atención en salud física?​ Si
+
+¿Existen situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia?​ Si
+
+¿Existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida?​ No
+
+¿Hay reportes y/o aumento de Violencia Basada en Género durante el último mes?​ Si
+    [group_aa8xg30/group_tb5de96/EIE] => Desde el mes de junio las hostilidades de los actores armados han afectado el servicio educativo en cinco veredas de la zona sur de Cáceres, Antioquia. La restricción a la movilidad, confinamiento e incursiones armadas en el territorio han generado interrupción del servicio educativo de 230 niños, niñas y adolescentes-NNA de las veredas Las Conchas, Peñitas, San Pablo, Peladero y Alto Vaquero produciéndose así un aumento de la deserción escolar y una afectación directa a la educación a consecuencia de la emergencia humanitaria.  
+
+Las sedes educativas rurales de las veredas Las Conchas, Peñitas y Alto Vaquero son parte de la Institución Educativa Rural La Victoria, dónde se desarrolla una educación misional contratada (de tipo provisional), la sede educativa de Peladero hace parte del Centro Educativo Rural El Tigre y la Sede de la vereda San Pablo a la Escuela Rural Indígena Anará, en donde se encontraron los siguientes hallazgos: 
+
+La sede educativa rural las Conchas actualmente cuenta con una matrícula académica de 49 estudiantes, Al inicio del año escolar se encontraban matriculados 67 estudiantes, lo que refleja una deserción escolar del 30% de estudiantes. Se logró identificar que esta disminución significativa en los NNA matriculados se debe al temor que expresan los cuidadores frente al incremento de hostilidades que se vienen presentando desde hace varios meses en el territorio, hechos derivados del conflicto armado que han afectado a los estudiantes y población, por ello, algunas familias han tomado la decisión de desplazarse hacia el casco urbano de Cáceres o municipios aledaños. 
+
+La sede educativa de la Conchas cuenta dos docentes, con oferta educativa desde prescolar a grado once, la infraestructura presenta buenas condiciones, en relación a los docentes refieren no tener formación y/o Capacitación en Educación en Emergencias, la sede no cuenta con Plan de Gestión Integral de riesgo escolar PGIRE, ni elementos lúdicos y pedagógicos para el desarrollo de las actividades educativas. Se evidenció que como estrategias de arraigamiento cultural y emprendimiento realizan tejidos en crochet y tienen huertas escolares. 
+
+ 
+
+La sede educativa de Peñitas al inicio del año escolar tenía una matrícula de 13 estudiantes, sin embargo, actualmente posee una matrícula académica de 9 estudiantes, tiene una oferta educativa desde prescolar a quinto de primaria y un docente. Al no contar con la oferta educativa completa, los estudiantes del ciclo secundaria deben movilizarse para completar su trayectoria educativa hasta la sede educativa de la vereda Las Conchas que está ubicada aproximadamente a 40 minutos de Peñitas. Se identifico que esta sede educativa no cuenta con un PGIRE, materiales para el desarrollo de las actividades educativas de los niños, niñas y adolescentes.  
+
+ 
+
+La sede educativa de San Pablo al inicio del año escolar contaba con 195 estudiantes, actualmente tiene una matrícula de 86 estudiantes, evidenciando una deserción de un 49% principalmente en los estudiantes del ciclo de secundaria. Cuenta con 7 docentes nombrados y 2 en provisionalidad, no referencian orientación para la continuidad de las actividades académicas en el marco de la emergencia y formación en Educación en Emergencia. Se presentó interrupción del servicio educativo, es de resaltar que la suspensión de las clases fue una estrategia de mitigación y autoprotección de los cuidadores, JAC y docentes, pues desde su perspectiva no era viable continuar con las clases debido al riesgo derivado del conflicto que podrían sufrir los estudiantes y docentes al desplazarse hasta la sede escolar.  
+
+ 
+
+En a sede rural de Peladero el incremento de la deserción escolar es muy alta, en julio se cerró la oferta académica de secundaria y actualmente solo oferta desde prescolar a quinto de primaria (0- 5), los estudiantes se trasladaron a otros municipios como Cáceres, Caucasia, Taraza entre otros. Esta disminución de la matricula se presentó en la comunidad de manera progresiva durante este año lectivo. Actualmente cuenta con una matrícula de 20 estudiantes. La interrupción del servicio educativo inició desde el mes de julio a consecuencia de los hechos de violencia en el territorio, en medio de esta suspensión se cambió la modalidad flexible a través de Guías Pedagógicas, de igual manera, esta sede educativa cuenta con la estrategia “Todos a Aprender” durante todo este año lectivo. Se evidenció que esta sede cuenta con un docente nombrado, modelo pedagógico Escuela Nueva multigrado, no cuenta con PGIRE, plan de emergencia, ni materiales para el desarrollo de actividades lúdicas, deportivas y pedagógicas durante la emergencia. Se identificó la necesidad de elementos como diccionarios (inglés-español), mapas, materiales didácticos como rompecabezas, elementos deportivos, entre otros. 
+
+ 
+
+En la sede educativa de Alto Vaquero actualmente se encuentran asistiendo 40 estudiantes de los 56 matriculados al inicio del año escolar, de estos 40 estudiantes que aún se encuentran matriculados, alrededor de 12 estudiantes están con modalidad de trabajo en casa a través de guías pedagógicas que corresponden a las familias desplazadas. En esta sede se identificó una fuerte afectación emocional y psicológica entre docentes y estudiantes, quienes solicitaron apoyo psicosocial para el afrontamiento de hechos de violencia que han afectado la tranquilidad de la vereda e impedido la continuidad de las clases. Esta, cuenta don dos docentes y una oferta educativa desde prescolar hasta secundaria (0° a 11°) con Escuela Nueva multigrado. 
+
+Es de resaltar que las veredas de La Tinta y Malabrigo no cuentan con sedes educativas, por ello, los NNA de estas comunidades se desplazan hasta las comunidades de San Pablo y Peladero para ser escolarizados. 
+
+En relación a los riesgos de protección de los niños, niñas y adolescentes se identifican los siguientes hallazgos: deserción escolar que se presume es debido a las diferentes situaciones derivadas del conflicto armado presente en el territorio como amenazas y enfrentamientos, quedando la escuela en medio del fuego cruzado; riesgo de presencia de artefactos explosivos (MAP y TE); uso, utilización y vinculación de NNAJ por los grupos armados; consumo de alcohol y sustancias psicoactivas, abuso sexual normalizado por la comunidad en lo referente a conformación de parejas sentimentales entre menores de edad y adultos. Por todo lo anterior identificamos una alta afectación en el acceso al servicio educativa de niños, niñas y adolescentes en todas las veredas. 
+
+En la ERN se identificó un ataque a la escuela en el mes de febrero de 2023: la sede educativa de la vereda Las Conchas fue impactada en medio del fuego cruzado y se han encontrado artefactos explosivos (MAP, TE, MSE) camino hacia la escuela. El riesgo es alto para los NNA, los trayectos por los cuales deben transitar son largos para llegar a las sedes educativas, como por ejemplo en las comunidades de Conchas, Malabrigo, San Pablo y Peladero se evidenció que por la dispersión de las viviendas y las distancias hasta las sedes educativas, existe un riesgo de accidentes con MAP y TE, riesgos de uso, utilización y vinculación por medio de estrategias de enamoramiento y ofrecimientos económicos, riesgos que también se relacionan con la deserción escolar, algunos cuidadores tienen temor de enviar a sus hijos a la escuela para que no estén expuestos a este tipo de riesgos. En lo que va corrido del año se han presentados dos accidentes con MAP y TE que no dejaron afectaciones físicas en las personas, ambos fueron cerca de caminos transitables y “seguros” en cercanías a la vereda de Las Conchas y San Pablo. 
+
+En relación a la afectación emocional y psicosocial se identifica un alto impacto en docentes, NNA y cuidadores, desde la ocurrencia de los diversos hechos de violencia en el territorio refirieron que algunos niños y niñas, se encuentran en un estado de hipervigilancia, se asustan ante cualquier sonido o presencia de personas no conocidas, de forma recurrente hablan de los hechos de violencia y los han observado jugando con temáticas relacionadas con los actores armados, disputas y armas. De igual forma se identificó una participación de NNAJ desde edades tempranas en actividades económicas (minería y recolección de hoja de coca), lo cual genera un interés temprano en generar recursos económicos, el consumo de alcohol y sustancias psicoactivas, embarazos en adolescentes y la planificación forzada, hacen parte de lo identificado en la ERN, se presume que pueden ser parte de las múltiples causas del incremento de la deserción escolar en el territorio.  
+
+Es importante mencionar que las comunidades en las veredas refieren que antes de la emergencia se desarrollaban estrategias culturales a través de la danza como una estrategia de expresión cultural, apropiación de la cultura y espacios de recreación para NNA, sin embargo, en la actualidad se han suspendido estas actividades.  
+
+Por todo lo anterior, se hace necesario la formación en educación en emergencias a Docentes, AEC y comunidad educativa en general, por los riesgos mencionados, los cuidadores tienen gran preocupación por la interrupción y no continuidad del servicio educativo y las afectaciones de sus hijos e hijas en los territorios, se requiere un espacio de Formación a Cuidadores en estrategias de juego ante el riesgo de confinamiento, que les permita acompañar de manera adecuada en casa a los NNA y talleres de sensibilización de autocuidado y comportamientos seguros que permitan al ecosistema educativo tener herramientas durante la emergencia.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Existen 5 sedes educativas distribuidas así: Las Conchas, Peñitas y Alto Vaquero pertenecen a las instituciones educativas rurales la victoria (Educación contratada por medio de CAREF), la sede de Peladero pertenece a IER del Tigre y la sede de San Pablo pertenece IER Anará (educación estatal – nombrados/provisionalidad).  ​
+
+Las sedes educativas tienen el siguiente nivel de escolaridad:  Las Conchas (0-11), Peñitas (0-5), Peladero (0-11), San Pablo (0-8) y Alto Vaquero (0-11).​
+
+Se identificaron 15 docentes y 203 NNAJ escolarizados en las 5 sedes educativas. Es de resaltar que existen un alto nivel de deserción escolar, pues la matricula a principio de año registraba los siguientes datos:​
+
+*Las Conchas: 67/49 = 30% ​
+
+*Peñitas: 13/9 = 30%​
+
+*Peladero:60/20 =70%​
+
+*San Pablo: 192/95 = 49%​
+
+Se evidencia que donde existe mayor deserción es en la secundaria. La institución de Peladero tuvo que reasignar un docente y cerrar la disponibilidad en estos grados por falta de estudiantes.​
+​
+Se evidencian buenas condiciones en las estructuras escolares. ​
+
+Se presento un ataque en el mes de febrero a la sede de las Conchas por enfrentamientos entre actores armados (afectación por impacto de balas).​
+
+La emergencia generó la suspensión de clases de manera presencial por dos semanas, lo que genero la adopción de una metodología de autoaprendizaje (guías y talleres).​
+
+Por la dispersión de las viviendas y las distancias hasta las sedes educativas, existe un riesgo de accidentes con MAP y TE, vinculación por medio de estrategias de enamoramiento y ofrecimientos económicos, y que también se relacionan con la deserción escolar.​
+
+En lo que va corrido del año se han presentados dos accidentes con MAP y TE que no dejaron afectaciones físicas en las personas, ambos fueron cerca de caminos transitables y “Seguros”.​
+
+Existe participación de NNAJ desde edades tempranas en actividades económicas (minería y recolección de hoja de coca), lo cual genera un interés temprano en generar recursos económicos y deja como resultado el retiro de los planteles educativos.​
+
+Existe un alto nivel de consumo de alcohol y moderado de sustancias psicoactivas en NNAJ. ​
+
+Se evidencia una conformación de hogares desde edades temprana lo que genera embarazos en adolescentes y la planificación forzada de niñas y Jóvenes.​
+
+Se evidencia alta afectación psicológica en NNAJ y personal educativo como resultados de la situación de contexto. ​
+
+No existen en ninguna de las sedes educativas un PGIRE lo que las hace susceptibles de mayores afectaciones en el marco de las emergencias. ​
+
+Los docentes no han sido formados ni referencia conocimiento sobre educación en emergencia y riesgo de minas. ​
+
+Las entidades educativas no cuentan con material educativo y pedagógico para uso del tiempo libre ni para recuperación de los NNAJ por afectaciones como resultado de las emergencias. ​
+
+En dos sedes educativas (Peladero y Las conchas) existen estrategias de huertas escolares y tejido de crochet como medida de fortalecer el arraigo de los NNAJ y fortalecer estrategia de emprendimiento.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => 1.    Hay Presencia de Ataque a la Escuela de la comunidad (Acampamiento de Actores armados Legales e ilegales en la escuela y/o Camino a ella, Uso y utilización de la escuela por los actores armados, Fuego cruzado, Presencia de Artefactos explosivos en la escuela, alrededor y camino hacia ella, uso, utilización y vinculación por parte de los Actores amados de estudiantes y docentes).  SI. ​
+
+2.    Suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia. SI.​
+
+3.    Se identifica afectación en niños, niñas y adolescentes ante la presencia 1 ó + riesgos de protección durante la emergencia: (1) deserción y abandono escolar de los niños, niñas y adolescentes por el conflicto armado, (2) Incremento de los riesgos de uso, utilización y vinculación de los niños, niñas y adolescentes, (4) Afectación Psicosocial de los niños, niñas y adolescentes durante y después de la emergencia, (5) incidentes y/o Accidentes por artefactos explosivos (MAP-MSE-TE) en la escuela, alrededor o camino a ella.  SI ​
+
+4.    Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. NO.​
+
+5.    La escuela cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO.​
+
+6.    La Institución Educativa cuenta con Plan de Gestión de riesgo escolar y la ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.    
+
+​6 INDICADORES IDENTIFICADOS EN EL SECTOR
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 350
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 8
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 2
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_ys9jk69/_0_Personas_que_participaron_e] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Nelson
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => 316 6482472
+    [group_aa0qz67/group_zf1xv45/_1c_Tel_fono_2] => 0
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 316 6482472
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Líder de la vereda de San Pablo
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Eliana Mendoza
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => 321 6746767
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 321 6746767
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Lideresa de la vereda de san Pablo
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => Manuel Zurita
+    [group_aa0qz67/group_de0zc49/_3b_Tel_fono_1] => 310 2460897
+    [group_aa0qz67/group_de0zc49/_3d_Celular] => 310 2460897
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => Secretario de Gobierno de Caceres
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:bb267e66-6132-4ee7-a112-c7dadc2381e9
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => bb267e66-6132-4ee7-a112-c7dadc2381e9
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-10-03T02:51:29
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

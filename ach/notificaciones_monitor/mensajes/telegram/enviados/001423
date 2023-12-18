@@ -1,0 +1,43 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 440
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594327281
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBuF8HgPCuECjw5cE_WRBbx2CcNwmYAAKHqDEbjCo4RNnJtqEvVoKM88IBSRcAAwEAAwIAA20AAzyZAAIaBA
+                            [file_unique_id] => AQAD88IBSRcAAzyZAAI
+                            [file_size] => 5270
+                            [width] => 225
+                            [height] => 225
+                        )
+
+                )
+
+            [caption] => Â´Â´Â´AYUDAÂ´Â´Â´
+**AYUDA**
+------------------------------
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat porta suscipit. Proin lobortis sem vel tellus condimentum hendrerit.
+        )
+
+)

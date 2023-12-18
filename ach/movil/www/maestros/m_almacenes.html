@@ -1,0 +1,66 @@
+<div class="page" data-name="almacenes" >
+
+	<div class="navbar">
+		<div class="navbar-inner sliding">
+			<div class="left">
+				<a href="#" class="link" data-funcion="t_M_ALMACENES" data-opcion="esc">
+					<i class="icon f7-icons">arrow_left</i>
+					<span class="ios-only">Back</span>
+				</a>
+			</div>
+			<div class="title">Clientes</div>
+
+			<div class="right">
+
+				<a href="#" class="link" data-funcion="t_M_ALMACENES" data-opcion="ins">
+					<i class="icon f7-icons">bag_badge_plus</i>
+					<span class="ios-only">Insertar</span>
+				</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar-labels toolbar-bottom-md">
+		<div class="toolbar-inner">
+			<a href="#" class="tab-link opciones" data-funcion="t_M_ALMACENES" data-opcion="esc">
+				<i class="icon f7-icons">arrow_left</i>
+				<span class="tabbar-label">Atrás</span>
+			</a>
+		</div>
+	</div>
+	
+	<form class="searchbar searchbar-init" autocomplete="off">
+		<div class="searchbar-inner">
+			<div class="searchbar-input-wrap">
+				<input id="M_ALMACENES-buscador" autocorrect="off" data-grid="M_ALMACENES" type="search" placeholder="Buscar" onkeypress="tecla_grid(event,this.id)">
+				<i class="searchbar-icon"></i>
+				<span class="input-clear-button"></span>
+			</div>
+			<span class="searchbar-disable-button">Cancel</span>
+		</div>
+	</form>
+	<div class="page-content">
+		<div class="list media-list">
+			<ul id="M_ALMACENES" data-tabla="V_M_ALMACENES" data-indice="ID_M_ALMACENES" data-campos="*" data-busca="ID_M_ALMACENES,NOMBRES" data-orden="NOMBRES ASC" data-filtro="" data-xfiltro="" data-limite="50" data-debug="" data-onselect="t_M_ALMACENES">
+			</ul>
+			<script id="M_ALMACENES-template" type="text/template7">
+				<li>
+				  <a REGISTRO class="item-link item-content registro XCOLOR">
+					<div class="item-inner">
+					  <div class="item-title-row">
+						<div class="item-title">{{ID_M_ALMACENES}}</div>
+						<div class="item-after"></div>
+					  </div>
+					  <div class="item-subtitle">{{NOMBRES}}</div>
+					  <div class="item-text">{{NOMBRES}}</div>
+					</div>
+				  </a>
+				</li>
+
+			</script>
+
+
+		</div>
+	</div>
+	<javascript src="maestros/m_almacenes.js"></javascript>
+</div>

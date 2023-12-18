@@ -1,0 +1,320 @@
+stdClass Object
+(
+    [_id] => 422589819
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-05-03T14:58:05.219-05:00
+    [end] => 2023-05-03T15:42:57.267-05:00
+    [group_pl6la06/_1_C_digo] => COTI-761.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-03-04
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-05-08
+    [group_pl6la06/_4_Departamento] => CORDOBA
+    [group_pl6la06/CORDOBA] => TIERRALTA
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => sin información
+    [group_pl6la06/_8_Comunidad] => Resguardo Indígena Del Alto Sinú Nejondó
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => desplazamiento_masivo desplazamiento_individual restricci_n_a_la_movilidad
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO ORGANIZACION_ETNICO_COMUNITARIA
+    [group_mb5pt53/_1a_Evaluador] => Angélica Pino
+    [group_mb5pt53/_1b_Celular] => +57 322 3934868
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => Camilo Villate
+    [group_mb5pt53/_2b_Celular] => +57 310 2166465
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_3a_Evaluador] => Laura Goretti Suarez Roa
+    [group_mb5pt53/_3b_Celular] => +57 319 2486585
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => ALIANZA_POR_LA_SOLIDARIDAD_APS
+    [group_rq63s60/_1a_Fecha_del_evento] => 2022-09-24
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde septiembre del 2022 aterrizó un helicóptero de las Fuerzas Armadas (FF. AA.) en el Resguardo Indígena Emberá Katio del Alto Sinú en el municipio de Tierralta, ocasionando el desplazamiento de las comunidades de Kapupudó y Koredó (271 familias) hacia la comunidad de Nejondó como medida de protección para prevenir la ocurrencia de situaciones de amenaza y señalamiento por parte de los Grupos Armados No Estatales (GANE) que hacen presencia en la zona.
+En consecuencia 581 familias de las tres comunidades Kapupudó, Koredó (desplazadas) y Nejondó (comunidad de acogida) tienen dinámicas de control social por parte del GANE, principalmente las personas están afectadas por las restricciones a la movilidad que aún se mantienen y que impiden el acceso a necesidades básicas, adicionalmente, el Grupo Armado (GA) ha realizado acciones directas contra la población civil, entre ellas se encuentran: amenazas de violencia sexual contra las mujeres de la comunidad si se movilizan a los cultivos de pan coger; la imposición de pagos a los hombres por cada animal cazado; el impedimento a la Guardia indígena para hacer arreglos en las mangueras que transportan agua a las comunidades desde una quebrada cercana. 
+Esta situación ha generado temor y zozobra en las comunidades, paralelamente, la limitación de los medios de vida en las comunidades es alta, principalmente para el acceso a actividades de caza, pesca y recolección de agua y cultivos.
+El 21 de febrero de 2023 la Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) emite la alerta sobre las necesidades identificadas en el Resguardo Emberá Katío del Alto Sinú.
+    [group_rq63s60/group_lm6cx76/a_Social] => El municipio de Tierralta se encuentra ubicado en un clima cálido y templado con temperatura promedio anual de 26.6 °C y una humedad relativa promedio anual de 83%, la topografía del terreno es montañosa en su mayor parte y está comprendido entre las serranías de Abibe y San Jerónimo, sin embargo, al norte se encuentran algunos sectores planos. Recorren el territorio numerosas corrientes, entre ellas los ríos Sinú, Manso, Verde, Esmeralda, Madre de Dios, Salvalín y Charudosos, además de las quebradas El Guamo, Caimán, Chontaduro, El Socorro, El Viejo, La Balsita, Pechindé, La Luna, Saiza, Mutatá, La Pita, entre otras en su territorio se encuentran; Un Parque Nacional (Natural Paramillo); dos Resguardos Indígenas (10.568 indígenas); un título Colectivo de Comunidades Negras (6.965 negros, mulatos, afrodescendientes o afrocolombianos). Limita al norte con Montería, al este con Planeta Rica y Montelíbano (Córdoba), al sur con Ituango (Antioquia) y al oeste con Valencia (Córdoba), Mutatá, Chigorodó, Carepa y Apartadó (Antioquia). Se caracteriza por ser un municipio con vocación rural .
+Las Alertas Tempranas N° 005-2018 (Inminencia), N° 083-2018 (Estructural) y N° 054-2019 (Estructural) evidencian una situación de riesgo y de altos impactos sobre los derechos a la vida, libertad, integridad y seguridad de la población civil y el Derecho Internacional Humanitario (DIH) de los habitantes de Tierralta. El escenario de riesgo se presenta por cuenta de la disputa territorial que sostiene tres grupos armados no estatales (GANE).
+Según la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV) durante el año 2022 se han presentado 242 declaraciones por desplazamiento individual afectando a 892 mujeres y hombres, con respecto al confinamiento y desplazamiento Masivo no se reportan sucesos para el 2022 .
+En los últimos años dos Grupos Armados No Estatales (GANE) han buscado su expansión hacia comunidades situadas en la zona rural (indígenas, afrocolombianas, campesinas) con la intención de obtener el control territorial de estos espacios geográficos que son del dominio de otro GA. Actualmente en el territorio se encuentran tres GANE con fuerte presencia que han conllevado a un escenario grave de riesgo para la población.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Las tres comunidades con restricciones a la movilidad se reconocen como indígenas del Resguardo Indígena Del Alto Sinú Nejondó, estas hacen uso y ejercicio de su cosmovisión, prácticas tradicionales, lenguaje, autonomía y derecho propio. No obstante, las comunidades enfrentan una situación difícil a nivel organizacional, que hace necesario la coordinación cercana con las organizaciones étnicas, líderes y lideresas comunitarias para evitar una acción con daño. 
+Las comunidades hacen uso de su lenguaje, razón por la cual es necesario la utilización de traductores en la interlocución y el uso de un lenguaje simple para una compresión real de los mensajes brindados. 
+El Equipo Móvil (EM) identifica un gran número de niños, niñas, adolescentes y jóvenes (NNAJ), mujeres gestantes y lactantes, adultos mayores, razón por la cual es indispensable un enfoque diferencial y realizar el uso de metodologías diferenciales en la atención y asistencia que se preste en las comunidades afectadas. 
+Finalmente, las organizaciones étnicas expresan que se ha realizado trabajo y acompañamiento de población indígena LGTBQ, destacando, la importancia de tener una mirada diferencial en el desarrollo de las acciones comunitarias.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Los medios de vida de las comunidades Nejondó, Kapupudó y Koredó están relacionados con la agricultura, la caza y la pesca, siendo actividades para satisfacer sus necesidades básicas por medio de cultivos de pan coger como plátano, yuca, en lugares distante de las comunidades, la caza de animales de monte y la pesca en fuentes hídricas cercanas a estas. Las actividades no representan ingresos significativos, ya que son economías de pan coger. Otra fuente de ingresos es la elaboración de artesanías, jarrones y atuendos.  
+El equipo móvil junto a las comunidades identifico que desde la construcción del embalse de Urra, el tamaño de los peces se ha reducido significativamente, dejando como consecuencia la pesca de peces pequeños que no satisfacen las necesidades alimentarias de las comunidades. 
+Se evidenció que los medios económicos y los medios de cultivos están restringidos por la limitación que impone el GANE. Adicionalmente las comunidades implementan estrategias de comercialización mediante intercambio o trueque especialmente con las familias de Nejondó, no obstante, no hay comercialización de excedentes (Agrícolas) ni medios de vida (Artesanías, jarrones, atuendos) en el mercado más cercano que es Puerto Frasquillo.
+Es importante resaltar que existe un proyecto de reforestación y producción de cacao con sello de conservación del Parque Nacional Natural Paramillo (PNN), sin embargo, debido a la emergencia, el proyecto no ha podido ser ejecutado afectando ingresos económicos de las familias beneficiadas, adicionalmente la vegetación de la zona está generando que se afecten los cultivos de pan coger.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Las comunidades de Nejondó, Koredó y Kapupudó afectadas por la emergencia se encuentran ubicadas en el río Sinú junto al PNN del Paramillo. El Nudo de Paramillo se ubica en la Cordillera Occidental de los Andes en Colombia. En este accidente orográfico nace la Serranía de Abibe, lo que hace que el territorio se caracterice por ser una selva húmeda y de zonas altamente inundables.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las comunidades del resguardo no cuentan con acceso a servicios básicos de calidad que les permita tener condiciones de una vida digna, además, estas tres comunidades se enfrentan a grandes niveles de desigualdad y brechas para acceder a bienes y servicios básicos. Los servicios básicos con mayores necesidades son: agua segura; espacios de disposición de residuos (Excretas); espacios para la preparación y almacenamiento de alimentos. 
+Con respecto al agua y saneamiento, las familias no tienen acceso a fuentes de agua limpia, estás se encuentran contaminadas y no son seguras para el consumo humano. Además, no se cuenta con sanitarios y se utiliza el río como lugar central para la realización de las actividades domésticas y el aseo personal. 
+En la comunidad de Nejondó, se cuenta con servicio de energía en algunas viviendas por medio de plantas solares. En cuanto a conectividad, no existe conectividad de celular, pero si un punto de venta de pines para conectarse al servicio de internet, ocasionado que su grado de vulnerabilidad sea mayor al tener redes de conexión inestable, limitando así la comunicación fuera de la comunidad.
+Con relación al sector de salud, los lugares que brindan cuidados para la salud más cercanos a las comunidades de Nejondó, Koredó y Kapupudó son Puerto Frasquillo y Tierra Alta, hasta donde se trasladan las personas para recibir algún tipo de servicio de salud. 
+Finalmente, aunque la extensión del resguardo permite tener áreas de producción agrícola y de caza para las comunidades tanto desplazadas como de acogida, no se pueden realizar estas acciones en este momento.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Sin Información
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/Riesgos_para_respuesta] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => El acceso a las comunidades es desde Puerto Frasquillo por vía fluvial en un recorrido de 4 horas, tiempo que puede variar de acuerdo con las condiciones del río Sinú.
+Es importante resaltar que la mano de obra para una posible construcción y/o adecuación de infraestructura se puede coordinar con las comunidades, sin embargo, no cuentan con documentos legales y con requisitos formales, lo cual represente un reto para el proceso formal.
+    [group_fm93i53/seguridad] => Existe presencia y control de los Grupos Armados en las comunidades.  Debido a esta situación, el contexto de las comunidades es volátil y es necesaria la coordinación con las comunidades para el ingreso y tener información actualizada para coordinar algún ingreso, asimismo, es indispensable utilizar visibilidad en los medios de transporte por parte del personal humanitario.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 581
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 2381
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 3
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-05-01
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 100
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => la UARIV, posible entrega de kits alimentición y la La Cruz roja hizo entrega de filtros de membrana a las familias de Koredó y Kapupudó.
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Cruz Roja esta en la cabecera municipal
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION_-VBG PROTECCION-PR PROTECCION-NNAJ EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => Indicadores Clave
+•	Las comunidades conocen las rutas de atención y activación. Sin embargo, es necesario fortalecer y continuar las formaciones en la ley 1448 de 2011.
+•	Se han realizado misiones de verificación y atención a las comunidades afectadas, no obstante, existe baja presencia institucional.
+•	Las mujeres y hombres manifiestan han contado con espacios de fortalecimiento para el acceso a derechos. 
+Hallazgos
+•	Existe limitación y demora en la valoración de las familias por parte de la UARIV. 
+•	La comunidad identifica las entidades territoriales a las cuales acudir en caso de una emergencia. 
+•	Las comunidades recibieron formación por parte de Harllance (HAI) sobre normatividad de víctima. 
+•	Las familias tienen la intención de iniciar un proceso de retorno acompañado por parte de la institucionalidad. 
+•	En las comunidades se encuentran mujeres y hombres amenazados.
+•	Existen niñas y niños sin documento de identidad, debido a la dificultad de salir hasta Tierra Alta.
+Recomendaciones
+•	Fortalecer a gobernadores y otras figuras de liderazgo (hombres y mujeres) dentro del resguardo indígena, hombres y mujeres sobre mecanismos de exigibilidad de derechos.
+•	Identificar y brindar acompañamiento en los procesos de cedulación a menores de edad y personas sin identidad legal, principalmente a los recién nacidos en las comunidades. 
+•	Es indispensable el acompañamiento institucional para la activación del proceso de retorno de las comunidades afectadas.
+•	Seguimiento y eficiencia de las medidas de protección colectivas e individuales brindadas por la Unidad Nacional de Protección (UNP).
+•	Identificación de hechos individuales no declarados e invisibilizados por las víctimas directas e indirectas.
+    [group_aa8xg30/group_ow1dy59/VBG] => Indicadores Clave
+•	las mujeres, las niñas y otros grupos participan activamente en el desarrollo de políticas, normas y directrices en materia de protección.
+•	Las mujeres no confían en la ruta de atención en VBG, razón por la cual, acuden a la justicia propia para resolver los conflictos intrafamiliares y las expresiones de VBG en su contra.
+•	Desconocimiento sobre las rutas de atención, instituciones protectoras de sus derechos y tipos de violencias a las que pueden enfrentarse.
+Hallazgos
+•	Se evidenció la naturalización de las VBG en contexto intrafamiliar, según el EM son recurrentes. Los conflictos de pareja e intrafamiliares son resueltos por la guardia indígena y cuando está no logra determinar una solución o castigo pasa a manos del gobernador de cada comunidad quien determina el castigo y/o multa a imponer. 
+•	El EM identificó casos de amenazas de violencia sexual por parte de miembros de la Fuerza Pública y GANE hacia las mujeres. 
+•	Existen históricos de casos de violencia intrafamiliar, el último fue hace tres meses en la comunidad de Nejondó, la mujer víctima de VBG fue trasladada al municipio de Tierralta donde se le brindó la asistencia en salud, no obstante, no se inició ninguna ruta de protección institucional. 
+•	Es notorio el deterioro cultura y la perdida de las costumbres tradicionales como la danza, música y las artesanías que antes eran puntos de encuentro culturales entre mujeres que fortalecían la red de apoyo entre ellas. 
+•	En la actualidad no se desarrollan actividades culturales o sociales debido a la situación de desplazamiento en la que se encuentran, además la comunidad tiene afectaciones emocionales por las muertes de niños y niñas por desnutrición en la comunidad.
+•	Las comunidades han recibido información sobre salud sexual y reproductiva, adicionalmente la mayoría cuentan con métodos anticonceptivos implementados por brigadas de salud de la Cruz Roja.  
+•	Existe un número alto de embarazos adolescentes.  
+Recomendaciones 
+•	Realizar actividades de fortalecimiento de las capacidades de las mujeres, líderes, lideresas, miembros de la guardia indígena, docentes y actores claves, en la identificación de las distintas formas de VBG. 
+•	Brindar brigadas de orientación e información sobre los derechos de las víctimas y sobrevivientes, las rutas institucionales de prevención y protección de VBG, y entidades con capacidad y responsabilidad en su protección.
+•	Aumentar las capacitaciones y estrategias para la prevención de embarazos adolescentes y acciones para abordar la educación integral en sexualidad de NNAJ a nivel comunitario, familiar e individual.
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => Se identificó la necesidad de fortalecer las estrategias de autoprotección y protección colectiva, consolidar los conocimientos de las rutas colectivas e individuales de protección. También se identificaron dificultades de acceso y ejecución a las instituciones estatales protectoras de sus derechos.
+Hallazgos
+•	Se evidencian riesgos de amenazas e intimidaciones a personas de las comunidades. 
+•	Las medidas de protección colectivas reconocidas por la Unidad Nacional de Protección (UNP) no son suficientes y en algunos casos no están siendo implementadas a cabalidad, ocasionando el incremento del riesgo de las comunidades. 
+•	Es indispensable fortalecer la implementación de estrategias de autoprotección comunitaria, la realización de acciones humanitarias de verificación, reforzar la consolidación de las guardias indígenas y el acompañamiento en activación de rutas por parte de organizaciones civiles. 
+•	Se evidenciaron 10 casos de suicidios en los últimos meses en personas jóvenes en su mayoría hombres. 
+Recomendaciones 
+•	Implementar y sensibilizar estrategias que favorezcan la permanencia de las comunidades en el territorio, la defensa de los derechos a la vida y acuerdos humanitarios basados en los principios de precaución y prevención. 
+•	Fortalecer los procesos de exigibilidad y atención legal de personas que ejercen el liderazgo y las acciones de defensa de los derechos colectivos que se encuentran en riesgo. 
+•	Realizar acciones de incidencia con los distintos actores institucionales y de acompañamiento con capacidades de protección para la visibilidad de las distintas violaciones de DDHH e infracciones al DIH.
+•	Acompañamiento psicosocial a personas de la comunidad que por el desplazamiento y las condiciones de albergue se encuentran afectadas emocionalmente, principalmente a los hombres jóvenes.
+    [group_aa8xg30/group_ow1dy59/Reclutamiento] => •	En las comunidades la oferta educativa es hasta la educación básica media, esto ha ocasionado que aumente la deserción escolar en los jóvenes que finalizan la educación primaria. 
+•	Los jóvenes que desean continuar con sus estudios deben desplazarse a Carepa o Tierralta, no obstante, los costos de vivir en estas cabeceras es muy alto, la mayoría de las familias es un gasto demasiado alto, razón por la cual es poco accesible terminar el bachillerato en las comunidades.
+•	Las economías ilícitas es la mayor oferta de ocupación de los jóvenes que no continúan con los estudios. 
+•	Culturalmente a la edad de 14 o 15 años los adolescentes se consideran en edad apta para trabajar y formar familias, lo cual ha ocasionado, que no exista una oportunidad de capacitarse en diferentes áreas que permitan cumplir con un proyecto de vida, asumiendo responsabilidades y dependencias económicas desde muy temprana edad.
+•	En las comunidades es alto el riesgo de reclutamiento, uso y utilización de la niñez por parte del GANE. 
+Recomendaciones 
+•	Incentivar y promover estrategias comunitarias para la prevención de utilización y uso de los NNAJ en el conflicto armado. 
+•	Realizar acciones de incidencia con los distintos actores institucionales y de acompañamiento con capacidades de protección para la visibilidad y establecimiento de canales de remisión segura de casos para la activación de las rutas de protección. 
+•	Visibilizar y acompañar los proyectos y procesos colectivos comunitarios donde se realizan espacios protectores
+•	Implementar actividades deportivas y sociales como una oferta alterna para los NNAJ.
+    [group_aa8xg30/group_lg2ro37/Shelter] => Indicadores Clave: 
+•	Las familias y/o personas han logrado cubrir parcialmente su necesidad de albergue gracias a la disponibilidad de espacios temporales de emergencia, sin embargo, aún se enfrentan a problemas de hacinamiento debido a la falta de suficiente espacio.
+•	A pesar de los esfuerzos por proporcionar refugios temporales, la demanda sigue siendo mayor que la oferta y muchas familias se ven obligadas a compartir un mismo espacio, lo que puede afectar su privacidad, seguridad y bienestar.
+•	Algunas familias cuentan con algunos elementos de hábitat que contribuyen a su seguridad, estos resultan insuficientes para satisfacer las necesidades de la cantidad de personas desplazadas. 
+•	Aunque las comunidades de Koredó y Kapupudó cuentan con infraestructuras adecuadas para promover su seguridad, estas son parcialmente suficientes para satisfacer sus necesidades básicas. Además, gracias al apoyo de la comunidad de acogida, las comunidades desplazadas han recibido ciertos materiales y elementos de hábitat.
+•	La cantidad limitada de recursos y la alta demanda continúan siendo un desafío importante para la provisión de soluciones adecuadas y sostenibles para las personas afectadas por la situación.
+•	El aumento del hacinamiento ha generado una mayor tensión entre los miembros de los hogares, lo que puede aumentar la incidencia de casos de violencia doméstica. 
+•	Se ha identificado la necesidad de contribuciones para la construcción o mejora de alojamientos temporales. 
+•	Se identifica población vulnerable que requieran un enfoque de programación segura e inclusiva a las respuestas.
+
+Hallazgos: 
+•	Las comunidades de Koredó y Kapupudó han construido refugios temporales en Nejondó utilizando materiales donados. Esto ha permitido que 110 familias afectadas por la situación puedan tener un espacio seguro y protegido mientras trascurre la emergencia. 
+•	Más de la mitad de las familias no cuentan con refugios propios, según el EM 2 o 3 familias habitan un mismo espacio de 15 m².
+•	Las comunidades recibieron la donación de elementos de hábitat (hamacas, toldillos, cobijas y menaje), sin embargo, no son suficientes para satisfacer la totalidad de familias que requieren refugio. 
+•	La mayoría de las familias afectadas están durmiendo en el suelo, situación que alarma debido a que aumenta significativamente su exposición a vectores y enfermedades transmitidas por animales.
+Recomendaciones
+•	Se recomienda construir espacios para la tenencia de animales, asimismo, delimitar los espacios de refugio y de habitad de animales, con el fin de disminuir el riesgo de exposición a vectores y otras enfermedades.
+•	Es indispensable aumentar los elementos de hábitat y adicionar kits que permitan suplir los pocos elementos que tienen las personas desplazadas en los refugios temporales.
+•	Aumentar significativamente los espacios temporales para disminuir el hacinamiento en los refugios temporales.
+•	Construir plataformas o tambos que eleven a las personas y las separen del suelo con el fin de reducir los riesgos de exposición a vectores y enfermedades transmitidas por animales.
+    [group_aa8xg30/group_fv0ct51/Agua] => Indicadores clave
+•	De las tres comunidades afectadas el 90% de la población que NO usa agua segura.
+•	El 100% de las mujeres y hombres NO tiene acceso a jabón para realizar los procesos de higiene personal.
+•	Al consultar sobre las formas de tratar el agua, el 90 % de la población desconoce los métodos de tratamiento de agua a nivel domiciliario.
+Hallazgos
+Agua
+El 100% de las familias tienen acceso a agua constante mediante el río y en época invernal captación de agua lluvia
+El 100% de las familias consumen agua no segura, es natural en la población consumir el agua sin tratamiento.
+No se evidencian sistemas de almacenamiento de agua familiares (tanques).
+Las mujeres son las encargadas de realizar la recolección del agua, en algunos casos esto incrementa el riesgo de sufrir una VBG.
+La comunidad de Nejondó tiene en sus planes realizar un proyecto para la extracción de agua y filtrado de la misma dentro de la comunidad, esto ser realizaría junto a la Cruz Roja.
+La Cruz roja hizo entrega de filtros de membrana a las familias de Koredó y Kapupudó
+Recomendaciones
+Agua 
+Realizar formaciones en agua segura, (Sistemas de captación, tratamiento y almacenamiento seguro) a nivel domiciliario en las tres comunidades.
+Establecer punto de captación de agua, aguas arriba de la disposición de excretas a través de formaciones en protección a la fuente de agua.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Saneamiento
+Dentro de la comunidad de acogida NO existen puntos de excretas, esto conlleva a que toda la comunidad realice sus necesidades en el río.
+El 90% de las familias realizan procesos de recolección de los residuos generados en el hogar y se realiza enterramiento y quema. 
+Algunas familias arrojan los residuos debajo de las viviendas, ocasionando malos olores y que la disposición de excretas de animales (Cerdos y gallinas) sea debajo de las viviendas. 
+Recomendaciones
+Formación a las tres comunidades en sistemas alternativos sanitarios.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Higiene
+El 90% de las personas realizan prácticas de aseo personal entre 2 y 3 veces al día, sin embargo, la mayoría no usa el jabón 
+El 90% de las familias no pueden acceder a elementos básicos de higiene personal y familiar, ya que no cuentan con recursos económicos para adquirirlos y el lugar más cercano para comprarlos queda a 3 horas en lancha.
+Las mujeres de las comunidades no tienen acceso a los elementos de higiene menstrual, así mimos hay buena receptividad de las mujeres a elementos menstruales reutilizables (pantis y toallas menstruales)
+Las comunidades de Koredó y Kapupudó recibieron Kit de higiene por medio de la unidad de víctimas.
+Recomendaciones
+Reforzar en todas las comunidades los conocimientos sobre métodos de tratamiento para consumo y almacenamiento de agua segura familiar y comunitaria, junto a la estrategia de sensibilizaciones y cápsulas informativas. 
+Crear espacios seguros y realizar formaciones en manejo de la higiene menstrual para niñas, jóvenes y mujeres
+Complementar y fortalecer los kits de higiene entregados por la unidad de víctimas a través de un enfoque diferencial.
+    [group_aa8xg30/group_jn0nm53/san] => Hallazgos
+•	El 24 de septiembre HAI entregó 17 Toneladas de alimentos.
+•	Pasados 3 meses después de los hechos la alcaldía brindó alimentación para olla comunitaria.
+•	El 23 de febrero UARIV entregó Kits alimentarios y de higiene a las familias afectadas (Faltaron alrededor de 10 familias).
+•	Inconformidades por las atenciones brindadas (Enlatados, perecederos, entre otras).
+•	El proyecto hidroeléctrico ha afectado la disponibilidad y tamaño de peces.
+•	ICBF con unidad móvil desplegó promotores para atender comunidades emberá entre esas las evaluadas.
+•	No se cuentan con cultivos de pancoger cercanos a las comunidades.
+•	La vegetación del PNN afectó cultivos en Koredó y Kapupudó.
+•	Carencia de comercios en la comunidad.
+•	Se contaba con proyectos productivos de cacao y madereros, pero están afectados por las emergencias. 
+Recomendaciones: 
+•	Incentivar la producción de huertas locales, familiares o comunitarias alrededor de los asentamientos.
+•	Continuar y fortalecer los proyectos de producción de cacao, restauración ecológica y protección del PNN, para aumentar la biodiversidad de alimentos silvestres, vocación recolectora de comunidades indígenas e ingresos familiares.
+•	Es importante un retorno seguro para continuar desarrollando los medios de vida tradicionales y reconstruir las dinámicas productivas.
+•	Articular con la institucionalidad y las ONG´s presentes sobre formación en buenas prácticas de higiene para la preparación de alimentos y disminuir Enfermedades Diarreicas Agudas (EDA).
+•	Socialización a los promotores del PAE sobre las necesidades de la pronta activación del programa.
+•	Verificar la información de los casos de NN menores de 5 años muertos por desnutrición.
+Implementación de estrategias de afrontamiento reducido: 
+En los últimos 7 días el Índice de estrategias de afrontamiento (rCSI) ha sido bajo por la entrega reciente de la UARIV, no obstante, antes de realizar la entrega y una vez finalizada las rCSI más utilizadas fueron: Pedir comida prestada, espacialmente las familias desplazadas a las de acogidas; depender de alimentos menos preferidos o más baratos por el alto costo de alimentos en puerto frasquillo
+En general la ración se divide en todos los miembros del hogar de manera equitativa.
+El promedio de comidas en los últimos días es de 2-3 por la entrega de la ayuda humanitaria por parte de la UARIV, antes de esta, era de 1-2.
+Disponibilidad y acceso físico, económico y social a alimentos sanos e inocuos: 
+Actualmente no cuentan con cultivos cercanos al asentamiento, mencionan que es aproximadamente a 40 min
+Los alimentos provienen de donación, pesca, trabajo a cambio de alimentos.
+Las entregas de la institucionalidad y ONG se han consumido rápidamente, no obstante, la comunidad manifiesta baja aceptación a alimentos enlatados.
+Los comercios que cuentan con la mayoría de productos para satisfacer las necesidades se encuentran lejanos, adicionalmente existen altos costos de transporte para llegar a estos.
+La única fuente de combustible para cocinar es la leña.
+Algunas veces realizan olla comunitaria por el número de miembros.
+Actividades económicas son reducidas o nulas, sin embargo, las comunidades realizar estrategias de intercambio de alimentos.
+
+Acceso a una dieta diversificada y alimentos de calidad que permita a los hogares satisfacer los requerimientos nutricionales: 
+En los últimos 7 días la diversidad de alimentos era de un promedio de 8 grupos alimenticios, carecen de lácteos y carnes a pesar de que se evidenciaron crianza de especies menores.
+Predomina el consumo de cereales, pescados, frutos, raíces 
+Carencia de alimentos perecederos por no poder acceder a sus medios de cultivo o subsistencia.
+La calidad de algunos alimentos comprados en puerto frasquillo es mala por el transporte y por el alto costo de alimentos de buena calidad.
+
+Alimentación en Menores: 
+Las madres lactantes y gestantes se encuentran en buena condición.
+Existen diferencias entre la información suministrada por desnutrición, por una parte, la comunidad menciona que en este año van 6 muertos por desnutrición, no obstante, el Instituto Colombiano de Bienestar Familiar (ICBF) y entidad de salud no confirman esta situación. 
+La Defensoría le remitió un derecho de petición al ICBF, pero los equipos promotores no han reportado en los seguimientos.
+La situación de agua y saneamiento (agua contaminada), sumado a las enfermedades endémicas de la región (malaria), son problemas que pueden afectar el desarrollo de los Niños y Niñas, Madres Gestantes y Madres Lactantes
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Indicadores clave: 
+•	La mayoría de las necesidades en las comunidades son causadas por las patologías Paludismo, enfermedades gastrointestinales y la desnutrición infantil.
+•	La restricción a la movilidad y la ubicación geográfica de las comunidades limita significativamente el acceso a servicios de salud, principalmente en el traslado de pacientes de emergencia.
+•	la Cruz Roja Colombiana Seccional Córdoba quien ha realizado 2 ingresos en octubre 2022 y febrero 2023.
+Hallazgos
+•	Limitación para el acceso a servicios de salud de forma crónica, agravada por factores como: la restricción a la movilidad, situación económica y las largas distancias para llegar a las Instituciones Prestadoras de Servicios de Salud.
+•	Según la comunidad existen casos de Desnutrición Aguda Severa (DNT) recientes en las comunidades, razón por la cual, el ICBF movilizo unidades móviles para verificar la situación.
+•	El EM evidenció a mujeres y hombres de la comunidad con síntomas gastrointestinales de tipo dolor abdominal, diarrea y vómito, esto es ocasionado por el consumo de agua no segura en las comunidades
+•	Junto a la Dirección Local de Salud del municipio de Tierralta se evidenció que existe un gran sub registro de casos de paludismo, así como desabastecimiento de tratamiento frente a paludismo por P. Vivax. 
+
+Recomendaciones
+•	Generar espacios de intercambio que promuevan la generación de un enfoque étnico-diferencial que disminuya las brechas culturales con las comunidades indígenas en la zona.
+•	Realizar acciones de articulación entre las instituciones gubernamentales del orden municipal y departamental y las organizaciones humanitarias en el territorio mediante su Equipo Local de Coordinación (ELC) donde se realicen acciones de desarrollo a largo plazo. 
+•	Crear talleres y jornadas educativas y de capacitación sobre métodos de potabilización del agua en las comunidades. 
+•	Realizar actividades de seguimientos para los niños con riesgo de desnutrición
+•	Desarrollar talleres sobre los cuidados de las madres gestantes.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Hallazgos
+•	Existe presencia marcada de síntomas y trastornos mentales como estrés, tristeza y desesperanza, depresión, consumo de sustancias psicoactivas y alcohol, trastornos del sueño y del estado de ánimo.
+•	Históricamente en la comunidad se han presentado casos de suicidio en la comunidad. Durante el 2022 se presentaron aproximadamente 4 casos. 
+•	Ausencia de personal para atención psicológica en las comunidades.
+
+Recomendaciones:
+•	Realizar brigadas de atención psicosocial individual en las tres comunidades.
+•	Acompañar la jornada con un traductor.
+•	Reforzar la importancia de tratar los problemas de salud mental en las comunidades.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => posibles casos de sub registros
+    [group_aa8xg30/group_tb5de96/EIE] => Indicadores Clave
+•	Se evidenció la necesidad de trabajar la prevención del abuso sexual a menores, no obstante, no se registra ninguna afectación en el marco del conflicto armado. 
+•	No se tiene un registro del número de NNA desescolarizados debido a que no se ha realizado seguimiento de esta situación.
+•	Se identificó oficialmente el inicio de clases en la comunidad de Nejondó, sin embargo, las comunidades desplazadas no tienen un espacio para brindar sus clases de manera idónea, razón por la cual no han comenzado clases los NNA desplazados. 
+•	En la comunidad de acogida no se requiere la construcción de espacios educativos.
+•	Es indispensable adaptar estrategias educativas en Educación en Emergencias (EeE) y dotar de material pedagógico para la implementación de actividades de sano esparcimiento y ocupación del tiempo libre.
+•	Existe poco material didáctico pedagógico y es deficiente la planeación de actividades de tiempo libre. 
+•	Se evidenció alta rotación en la planta y docente y los tiempos y el proceso de contratación son largos, lo que ocasiona la demora en iniciar actividades y dificulta el dejar capacidad instalada en temas de EeE.
+Hallazgos:
+•	Las tres comunidades cuentan con educación básica primaria, a excepción de Koredó, donde se brindan clases de bachillerato hasta el grado 8. 
+•	A pesar de tener un docente contratado, este estaría ingresando entre abril y mayo, razón por la cual, la mayoría de las jóvenes no puedan continuar sus estudios dejando la escuela a temprana edad.
+•	El ingreso económico de las familias no permite enviar a sus hijos a estudiar a otro lugar por los costos que esto implica.
+•	Se evidencia déficit de material pedagógico y mobiliario en la sede de Nejondó. Los docentes de las comunidades de Koredó y Kapupudó, manifiestan que en sus escuelas tienen las mismas problemáticas.
+•	No se cuenta con letrinas en ninguna de las tres sedes educativas de Nejondó, Koredó y Kapupudó.
+•	La calidad del agua no es buena, al igual que el acceso a agua en las sedes educativas es de baja calidad, además, Los estudiantes no cuentan con agua para el aseo y consumo. 
+•	No cuentan con personal capacitado para brindar apoyo emocional a los estudiantes ni jornadas planeadas para actividades lúdicas, recreativas y la sana ocupación del tiempo libre.
+•	El Programa de Alimentación Escolar (PAE) tiene grandes limitaciones, principalmente por el no funcionamiento, a pesar de estar en el tercer mes del año y manifiestan que este servicio siempre se demora en iniciar.
+Recomendaciones
+•	Formación de personal docente y agentes educativos comunitarios en Educación en Emergencias y consolidación de plan educativo de respuesta en emergencia.
+•	Realizar seguimiento ante la secretaria de educación de orden municipal y departamental para la ampliación de oferta académica secundaria en las comunidades. 
+•	Formalizar y consolidar herramientas y conocimientos de la Educación en Emergencias (EeE) al cuerpo docente a través de Acuerdos Escolares de Convivencia (AEC), para la implementación de estrategias lúdicas y pedagógicas que ayuden a prevenir y mitigar los riesgos asociados a la deserción de los NNAJ. 
+•	Gestionar de espacios de acompañamiento emocional, autoprotección y uso del tiempo libre con NNA en las tres comunidades. 
+•	Entregar material pedagógico y deportivo para la realización de estas acciones.
+•	Gestionar el transporte escolar para los NNA que desean continuar sus estudios. 
+•	Fortalecer los tiempos de implementación del inicio del Programa de Alimentación Escolar (PAE) y la contratación de los docentes.
+    [group_aa8xg30/BrechasInformacion] => Por confirmar
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 0
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por Actualizar
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Por Actualizar
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Por Actualizar
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => Por Actualizar
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:6cf72a3c-433e-4d89-92da-405d3732bbbd
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 6cf72a3c-433e-4d89-92da-405d3732bbbd
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-03T20:43:03
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

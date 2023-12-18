@@ -1,0 +1,85 @@
+stdClass Object
+(
+    [_id] => 347834676
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-10-14T12:12:44.319-05:00
+    [end] => 2022-10-14T12:44:26.395-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => LLORO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin Información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Consejo Comunitario Menor de La Playa y Boca de Capa
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2022-10-14
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM HOMICIDIOS PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Familias: 77
+Personas: 425
+Desde 09 de octubre de 2022, se desplazaron más de 77 familias de la comunidad La Playa y Bocas de Capa hacia la cabecera municipal de Lloró. Los hechos se presentaron ante la incursión, amenaza, intimidación, hurto de dinero y lancha del consejo comunitario, además del secuestro y homicidio del representante legal del Consejo Comunitario por parte de un actor armado sin identificar.
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/11102022_alerta_desplazamiento_masivo_del_municipio_lloro_2_comunidades_vf.pdf
+    [group_yv1ph08/time2] => 2022-10-09
+    [group_yv1ph08/time3] => 5
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 77
+    [group_cn9za51/personas] => 425
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => afro
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde el 9 de octubre la alcaldía activo el plan de contingencia, por lo tanto ha realizado entrega de alimentos y kits de aseo a las familias desplazadas. Así mismo, con el apoyo de la diócesis dispusieron un alojamiento temporal para las familias. La Defensa Civil realizó entrega de al menos 20 colchonetas para las familias desplazadas. El 10 de octubre Ministerio Público inicio a realizar la toma de declaración de los líderes/lideresas amenazados y del desplazamiento. Desde el 10 de octubre ICBF, ha realizado atención psicosocial y de nutrición a niños y niñas de 0 a 5 años a través de las Unidades Móviles
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3--https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/11102022_alerta_desplazamiento_masivo_del_municipio_lloro_2_comunidades_vf.pdf+ERN*FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:3f0f7b22-8aa7-4ed5-996c-b1615538d23a
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 3f0f7b22-8aa7-4ed5-996c-b1615538d23a
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-10-14T17:44:37
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

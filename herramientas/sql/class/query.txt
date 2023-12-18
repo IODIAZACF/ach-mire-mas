@@ -1,0 +1,2669 @@
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñaoqaa
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ñaoqaa
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ÑAÑO
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ÑAÑO
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => LUIS NUÑEZ
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => LUIS NUÑEZ
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñañito
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ñañito
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñañito2
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ?a?ito2
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñañitoeee
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ñañitoeee
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñaña xxx
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ñaña xxx
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñañañañaña
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ñañañañaña
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñoñoño
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ñoñoño
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => luis nuñez
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => luis nuñez
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => ñañe
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => ñañe
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => el ñemerito
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => el ñemerito
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_AREAS
+    [busca] => ID_M_AREA
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => la llùvia
+    [c_GRUPO_CSS] => 
+    [c_IMAGEN_LSS] => 
+    [c_CAMARA_IP_CSS] => 
+    [c_CAMARA_NUMERO_NSS] => 
+    [c_ESTATUS_CSS] => ACT
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => la llùvia
+        )
+
+    [1] => Array
+        (
+            [nombre] => GRUPO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => IMAGEN_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => CAMARA_IP_CSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => CAMARA_NUMERO_NSS
+            [valor] => 
+        )
+
+    [5] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => jose enrique
+    [c_APELLIDOS_CSS] => lopez
+    [c_FECHA_NAC_DSS] => 
+    [c_ID_M_GRUPOS_CSS] => XXXXGRUP0011
+    [c_ID_M_NIVELES_CSS] => 0011
+    [c_LOGIN_CSS] => pulsar
+    [c_CLAVE_5SS] => 123456
+    [r_ID_M_VENDEDORES_RSN] => 
+    [c_ID_M_VENDEDORES_RSN] => 
+    [b_ID_M_VENDEDORES_BSS] => 
+    [c_CORREO_LOGIN_LSS] => 
+    [c_CORREO_CLAVE_LSS] => 
+    [c_PBX_EXTENSION_CSS] => 
+    [c_PBX_PASSWORD_LSS] => 
+    [c_PBX_HOST_LSS] => 
+    [c_ESTATUS_CSS] => ACT
+    [c_ID_M_DEPARTAMENTOS_RSN] => 
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => jose enrique
+        )
+
+    [1] => Array
+        (
+            [nombre] => APELLIDOS_CSS
+            [valor] => lopez
+        )
+
+    [2] => Array
+        (
+            [nombre] => FECHA_NAC_DSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => ID_M_GRUPOS_CSS
+            [valor] => XXXXGRUP0011
+        )
+
+    [4] => Array
+        (
+            [nombre] => ID_M_NIVELES_CSS
+            [valor] => 0011
+        )
+
+    [5] => Array
+        (
+            [nombre] => LOGIN_CSS
+            [valor] => pulsar
+        )
+
+    [6] => Array
+        (
+            [nombre] => CLAVE_5SS
+            [valor] => 123456
+        )
+
+    [7] => Array
+        (
+            [nombre] => ID_M_VENDEDORES_RSN
+            [valor] => 
+        )
+
+    [8] => Array
+        (
+            [nombre] => CORREO_LOGIN_LSS
+            [valor] => 
+        )
+
+    [9] => Array
+        (
+            [nombre] => CORREO_CLAVE_LSS
+            [valor] => 
+        )
+
+    [10] => Array
+        (
+            [nombre] => PBX_EXTENSION_CSS
+            [valor] => 
+        )
+
+    [11] => Array
+        (
+            [nombre] => PBX_PASSWORD_LSS
+            [valor] => 
+        )
+
+    [12] => Array
+        (
+            [nombre] => PBX_HOST_LSS
+            [valor] => 
+        )
+
+    [13] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+    [14] => Array
+        (
+            [nombre] => ID_M_DEPARTAMENTOS_RSN
+            [valor] => 
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => D_ARCHIVOS
+    [busca] => ID_D_ARCHIVOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => cargar_plantilla_mis_documentos
+    [xfiltro] => 
+    [c_DESCRIPCION_CSS] => archivo excel de prueba
+    [c_TIPO_LSS] => xlsx
+    [c_COMENTARIOS_LSS] => 
+    [c_TABLA_CSN] => M_USUARIOS
+    [c_IDX_CSN] => 00182
+    [c_CANTIDAD_CSN] => 1
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => archivo excel de prueba
+        )
+
+    [1] => Array
+        (
+            [nombre] => TIPO_LSS
+            [valor] => xlsx
+        )
+
+    [2] => Array
+        (
+            [nombre] => COMENTARIOS_LSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => TABLA_CSN
+            [valor] => M_USUARIOS
+        )
+
+    [4] => Array
+        (
+            [nombre] => IDX_CSN
+            [valor] => 00182
+        )
+
+    [5] => Array
+        (
+            [nombre] => CANTIDAD_CSN
+            [valor] => 1
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => en modulo mis docuementos cuando se guarde el archivo evaluar campo fecha y hora ultimo cambio
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00113
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => en modulo mis docuementos cuando se guarde el archivo evaluar campo fecha y hora ultimo cambio
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00113
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => D_ARCHIVOS_USUARIOS
+    [busca] => ID_D_ARCHIVOS_USUARIOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => cargar_plantilla_mis_documentos
+    [xfiltro] => 
+    [r_ID_M_USUARIO_RSN] => EDSON
+    [c_ID_M_USUARIO_RSN] => 0013
+    [b_ID_M_USUARIO_BSS] => 
+    [c_ROL_CSN] => INVITADO
+    [c_ID_D_ARCHIVOS_CSN] => 001277
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ID_M_USUARIO_RSN
+            [valor] => 0013
+        )
+
+    [1] => Array
+        (
+            [nombre] => ROL_CSN
+            [valor] => INVITADO
+        )
+
+    [2] => Array
+        (
+            [nombre] => ID_D_ARCHIVOS_CSN
+            [valor] => 001277
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => en el modulo mis documentos el grid de la izquierda debe mostrar el propietario del archivo
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00113
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => en el modulo mis documentos el grid de la izquierda debe mostrar el propietario del archivo
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00113
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => D_ARCHIVOS_USUARIOS
+    [busca] => ID_D_ARCHIVOS_USUARIOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => cargar_plantilla_mis_documentos
+    [xfiltro] => 
+    [r_ID_M_USUARIO_RSN] => JESUS BENJAMIN
+    [c_ID_M_USUARIO_RSN] => 00150
+    [b_ID_M_USUARIO_BSS] => 
+    [c_ROL_CSN] => INVITADO
+    [c_PERMISO_CSS] => SOLO LECTURA
+    [c_ID_D_ARCHIVOS_CSN] => 001242
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ID_M_USUARIO_RSN
+            [valor] => 00150
+        )
+
+    [1] => Array
+        (
+            [nombre] => ROL_CSN
+            [valor] => INVITADO
+        )
+
+    [2] => Array
+        (
+            [nombre] => PERMISO_CSS
+            [valor] => SOLO LECTURA
+        )
+
+    [3] => Array
+        (
+            [nombre] => ID_D_ARCHIVOS_CSN
+            [valor] => 001242
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => CORREGIR EN AUTOTABLA EL ORDENAMIENTO
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 0017
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => CORREGIR EN AUTOTABLA EL ORDENAMIENTO
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 0017
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => CREAR TRIGGER PARA ORDENAMIENTO
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 0017
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => CREAR TRIGGER PARA ORDENAMIENTO
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 0017
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => evaluar colocar en class_modulo la opcion para confirmar salir
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 0017
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => evaluar colocar en class_modulo la opcion para confirmar salir
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 0017
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => Crear reporte matriz de riesgo en el modulo reporte aseguras
+    [c_DESCRIPCION_CSS] => tomar los registros del grid que tengan calificación ordenados en orden alfabetico por GRUPO, TIPO, ROTULO
+la grafica inferior
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00110
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => Crear reporte matriz de riesgo en el modulo reporte aseguras
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => tomar los registros del grid que tengan calificación ordenados en orden alfabetico por GRUPO, TIPO, ROTULO
+la grafica inferior
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00110
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => probar enlace simbolico para el modulo "reporte" de la raiz para colocarlo en herramientas
+    [c_DESCRIPCION_CSS] => probar con htacces
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 0017
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => probar enlace simbolico para el modulo "reporte" de la raiz para colocarlo en herramientas
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => probar con htacces
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 0017
+        )
+
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 001484
+    [ID_M_USUARIO] => 001484
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => D_ARCHIVOS_USUARIOS
+    [busca] => ID_D_ARCHIVOS_USUARIOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => cargar_plantilla_mis_documentos
+    [xfiltro] => 
+    [r_ID_M_USUARIO_RSN] => EDSON
+    [c_ID_M_USUARIO_RSN] => 0013
+    [b_ID_M_USUARIO_BSS] => 
+    [c_ROL_CSN] => INVITADO
+    [c_PERMISO_CSS] => ESCRITURA
+    [c_ID_D_ARCHIVOS_CSN] => 001278
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ID_M_USUARIO_RSN
+            [valor] => 0013
+        )
+
+    [1] => Array
+        (
+            [nombre] => ROL_CSN
+            [valor] => INVITADO
+        )
+
+    [2] => Array
+        (
+            [nombre] => PERMISO_CSS
+            [valor] => ESCRITURA
+        )
+
+    [3] => Array
+        (
+            [nombre] => ID_D_ARCHIVOS_CSN
+            [valor] => 001278
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => Crear calculadora para el sistema
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 0017
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => Crear calculadora para el sistema
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 0017
+        )
+
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 001484
+    [ID_M_USUARIO] => 001484
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 001484
+    [ID_M_USUARIO] => 001484
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES_GRUPOS
+    [busca] => ID_SUITE_ACTIVIDADES_GRUPOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => farmacia sistema
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => farmacia sistema
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => pasar el maestro de cajas a modulo  "maestro_cajas"
+    [c_DESCRIPCION_CSS] => crear campo fondo
+crear campo id_m_usuario (corresponde al usuario asignado a la caja)
+crear campo estatus_caja (abierta, cerrada)
+colocar boton (iniciar caja) que pida formulario, fondo de caja y coloque el estatuS_caja = "abierta"
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00118
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => pasar el maestro de cajas a modulo  "maestro_cajas"
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => crear campo fondo
+crear campo id_m_usuario (corresponde al usuario asignado a la caja)
+crear campo estatus_caja (abierta, cerrada)
+colocar boton (iniciar caja) que pida formulario, fondo de caja y coloque el estatuS_caja = "abierta"
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00118
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => modulo de caja
+    [c_DESCRIPCION_CSS] => colocar boton «dejar espera» Que solicite el formulario «datos del cliente» que cambie el estatus del documento de ABIERTO A «ESPERA»
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00118
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => modulo de caja
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => colocar boton «dejar espera» Que solicite el formulario «datos del cliente» que cambie el estatus del documento de ABIERTO A «ESPERA»
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00118
+        )
+
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [IDX] => 0016
+    [ID_M_USUARIO] => 0016
+    [TABLA] => M_USUARIOS
+    [SISTEMA] => protecseguros
+    [origen] => mis_documentos/upload_archivos
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES_GRUPOS
+    [busca] => ID_SUITE_ACTIVIDADES_GRUPOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => netcontrol
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => netcontrol
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => instalar wireguard en microtik
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00119
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => instalar wireguard en microtik
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00119
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => instalar wireguar en servidor cloud
+    [c_DESCRIPCION_CSS] => para poder conectar con cada mikrotic de cada cliente
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00119
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => instalar wireguar en servidor cloud
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => para poder conectar con cada mikrotic de cada cliente
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00119
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => manuel
+    [c_APELLIDOS_CSS] => celi
+    [c_FECHA_NAC_DSS] => 
+    [c_ID_M_GRUPOS_CSS] => XXXXGRUP0011
+    [c_ID_M_NIVELES_CSS] => 0015
+    [c_LOGIN_CSS] => manuel
+    [c_CLAVE_5SS] => 123456
+    [r_ID_M_VENDEDORES_RSN] => 
+    [c_ID_M_VENDEDORES_RSN] => 
+    [b_ID_M_VENDEDORES_BSS] => 
+    [c_CORREO_LOGIN_LSS] => 
+    [c_CORREO_CLAVE_LSS] => 
+    [c_PBX_EXTENSION_CSS] => 
+    [c_PBX_PASSWORD_LSS] => 
+    [c_PBX_HOST_LSS] => 
+    [c_ESTATUS_CSS] => ACT
+    [c_ID_M_DEPARTAMENTOS_RSN] => 
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => manuel
+        )
+
+    [1] => Array
+        (
+            [nombre] => APELLIDOS_CSS
+            [valor] => celi
+        )
+
+    [2] => Array
+        (
+            [nombre] => FECHA_NAC_DSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => ID_M_GRUPOS_CSS
+            [valor] => XXXXGRUP0011
+        )
+
+    [4] => Array
+        (
+            [nombre] => ID_M_NIVELES_CSS
+            [valor] => 0015
+        )
+
+    [5] => Array
+        (
+            [nombre] => LOGIN_CSS
+            [valor] => manuel
+        )
+
+    [6] => Array
+        (
+            [nombre] => CLAVE_5SS
+            [valor] => 123456
+        )
+
+    [7] => Array
+        (
+            [nombre] => ID_M_VENDEDORES_RSN
+            [valor] => 
+        )
+
+    [8] => Array
+        (
+            [nombre] => CORREO_LOGIN_LSS
+            [valor] => 
+        )
+
+    [9] => Array
+        (
+            [nombre] => CORREO_CLAVE_LSS
+            [valor] => 
+        )
+
+    [10] => Array
+        (
+            [nombre] => PBX_EXTENSION_CSS
+            [valor] => 
+        )
+
+    [11] => Array
+        (
+            [nombre] => PBX_PASSWORD_LSS
+            [valor] => 
+        )
+
+    [12] => Array
+        (
+            [nombre] => PBX_HOST_LSS
+            [valor] => 
+        )
+
+    [13] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+    [14] => Array
+        (
+            [nombre] => ID_M_DEPARTAMENTOS_RSN
+            [valor] => 
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => rosendo
+    [c_APELLIDOS_CSS] => celi
+    [c_FECHA_NAC_DSS] => 
+    [c_ID_M_GRUPOS_CSS] => XXXXGRUP0011
+    [c_ID_M_NIVELES_CSS] => 0011
+    [c_LOGIN_CSS] => rosendo
+    [c_CLAVE_5SS] => 12345
+    [r_ID_M_VENDEDORES_RSN] => 
+    [c_ID_M_VENDEDORES_RSN] => 
+    [b_ID_M_VENDEDORES_BSS] => 
+    [c_CORREO_LOGIN_LSS] => 
+    [c_CORREO_CLAVE_LSS] => 
+    [c_PBX_EXTENSION_CSS] => 
+    [c_PBX_PASSWORD_LSS] => 
+    [c_PBX_HOST_LSS] => 
+    [c_ESTATUS_CSS] => ACT
+    [c_ID_M_DEPARTAMENTOS_RSN] => 
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => rosendo
+        )
+
+    [1] => Array
+        (
+            [nombre] => APELLIDOS_CSS
+            [valor] => celi
+        )
+
+    [2] => Array
+        (
+            [nombre] => FECHA_NAC_DSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => ID_M_GRUPOS_CSS
+            [valor] => XXXXGRUP0011
+        )
+
+    [4] => Array
+        (
+            [nombre] => ID_M_NIVELES_CSS
+            [valor] => 0011
+        )
+
+    [5] => Array
+        (
+            [nombre] => LOGIN_CSS
+            [valor] => rosendo
+        )
+
+    [6] => Array
+        (
+            [nombre] => CLAVE_5SS
+            [valor] => 12345
+        )
+
+    [7] => Array
+        (
+            [nombre] => ID_M_VENDEDORES_RSN
+            [valor] => 
+        )
+
+    [8] => Array
+        (
+            [nombre] => CORREO_LOGIN_LSS
+            [valor] => 
+        )
+
+    [9] => Array
+        (
+            [nombre] => CORREO_CLAVE_LSS
+            [valor] => 
+        )
+
+    [10] => Array
+        (
+            [nombre] => PBX_EXTENSION_CSS
+            [valor] => 
+        )
+
+    [11] => Array
+        (
+            [nombre] => PBX_PASSWORD_LSS
+            [valor] => 
+        )
+
+    [12] => Array
+        (
+            [nombre] => PBX_HOST_LSS
+            [valor] => 
+        )
+
+    [13] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => ACT
+        )
+
+    [14] => Array
+        (
+            [nombre] => ID_M_DEPARTAMENTOS_RSN
+            [valor] => 
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES_GRUPOS
+    [busca] => ID_SUITE_ACTIVIDADES_GRUPOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => hacer que el reporteador borre los archivos temporales
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => hacer que el reporteador borre los archivos temporales
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => hacer que el reporteador elimine los archivos temporales una vez genere el pdf
+    [c_DESCRIPCION_CSS] => 
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 0017
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => hacer que el reporteador elimine los archivos temporales una vez genere el pdf
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 0017
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_RSS] => 00116
+    [c_ASUNTO_CSS] => 
+    [c_DESCRIPCION_CSS] => Se reporto que el reporte de cierre de nomina 
+
+La fecha de las coutas de los contratos se ha reportado varias veces y sigue igual, se ha probado con nuevos contratos ( fly travel ) y siguel igual 
+01.08.2022 - 01.11.2022 deberia ser 01.08.2022 - 31.10.2022
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_M_USUARIO_CSN] => 0013
+    [url_modulo] => /protecseguros/suite/mis_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_RSS
+            [valor] => 00116
+        )
+
+    [1] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => Se reporto que el reporte de cierre de nomina 
+
+La fecha de las coutas de los contratos se ha reportado varias veces y sigue igual, se ha probado con nuevos contratos ( fly travel ) y siguel igual 
+01.08.2022 - 01.11.2022 deberia ser 01.08.2022 - 31.10.2022
+        )
+
+    [3] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [4] => Array
+        (
+            [nombre] => ID_M_USUARIO_CSN
+            [valor] => 0013
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => D_ARCHIVOS_USUARIOS
+    [busca] => ID_D_ARCHIVOS_USUARIOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => cargar_plantilla_mis_documentos
+    [xfiltro] => 
+    [r_ID_M_USUARIO_RSN] => LUIS MANUEL
+    [c_ID_M_USUARIO_RSN] => 0016
+    [b_ID_M_USUARIO_BSS] => 
+    [c_ROL_CSN] => INVITADO
+    [c_PERMISO_CSS] => ESCRITURA
+    [c_ID_D_ARCHIVOS_CSN] => 001278
+    [url_modulo] => /protecseguros/suite/mis_documentos/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ID_M_USUARIO_RSN
+            [valor] => 0016
+        )
+
+    [1] => Array
+        (
+            [nombre] => ROL_CSN
+            [valor] => INVITADO
+        )
+
+    [2] => Array
+        (
+            [nombre] => PERMISO_CSS
+            [valor] => ESCRITURA
+        )
+
+    [3] => Array
+        (
+            [nombre] => ID_D_ARCHIVOS_CSN
+            [valor] => 001278
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES_GRUPOS
+    [busca] => ID_SUITE_ACTIVIDADES_GRUPOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => lumar
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => lumar
+        )
+
+)
+Array
+(
+    [p] => filepond/class/process.php
+    [filepond] => Array
+        (
+            [0] => {}
+        )
+
+    [SISTEMA] => protecseguros
+    [ID_SUITE_ACTIVIDADES] => 00121
+    [TABLA] => SUITE_ACTIVIDADES
+    [origen] => mis_actividades/upload_actividades
+    [maxsize] => 3
+    [db] => protecseguros
+    [url_modulo] => /protecseguros/suite/mis_actividades/index.php
+    [ID_D_ARCHIVOS] => -1
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => D_CHAT
+    [busca] => ID_D_CHAT
+    [xbusca] => -1
+    [c_ID_M_CHAT_CSS] => 001271
+    [c_ORIGEN_CSS] => 102857835774976
+    [c_IDENTIFICADOR_CSS] => 584144249429
+    [c_CANAL_CSS] => WHATSAPP
+    [c_VIA_CSS] => OUT
+    [c_MENSAJE_LSS] => Buenos dias
+    [url_modulo] => /protecseguros/suite/chat_omnicanal/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ID_M_CHAT_CSS
+            [valor] => 001271
+        )
+
+    [1] => Array
+        (
+            [nombre] => ORIGEN_CSS
+            [valor] => 102857835774976
+        )
+
+    [2] => Array
+        (
+            [nombre] => IDENTIFICADOR_CSS
+            [valor] => 584144249429
+        )
+
+    [3] => Array
+        (
+            [nombre] => CANAL_CSS
+            [valor] => WHATSAPP
+        )
+
+    [4] => Array
+        (
+            [nombre] => VIA_CSS
+            [valor] => OUT
+        )
+
+    [5] => Array
+        (
+            [nombre] => MENSAJE_LSS
+            [valor] => Buenos dias
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES_GRUPOS
+    [busca] => ID_SUITE_ACTIVIDADES_GRUPOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => farmacia lg
+    [r_ID_M_USUARIO_CONTACTO_RSN] => 
+    [c_ID_M_USUARIO_CONTACTO_RSN] => 
+    [b_ID_M_USUARIO_CONTACTO_BSS] => 
+    [r_ID_M_USUARIO_RESPONSABLE_RSN] => 
+    [c_ID_M_USUARIO_RESPONSABLE_RSN] => 
+    [b_ID_M_USUARIO_RESPONSABLE_BSS] => 
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => farmacia lg
+        )
+
+    [1] => Array
+        (
+            [nombre] => ID_M_USUARIO_CONTACTO_RSN
+            [valor] => 
+        )
+
+    [2] => Array
+        (
+            [nombre] => ID_M_USUARIO_RESPONSABLE_RSN
+            [valor] => 
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES_GRUPOS
+    [busca] => ID_SUITE_ACTIVIDADES_GRUPOS
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => Farmacia lg
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => NOMBRES_CSS
+            [valor] => Farmacia lg
+        )
+
+)
+Array
+(
+    [p] => utiles/actualizar_registro.php
+    [tabla] => SUITE_ACTIVIDADES
+    [busca] => ID_SUITE_ACTIVIDADES
+    [xbusca] => -1
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_ASUNTO_CSS] => pendientes reunion 04/10/2022
+    [c_DESCRIPCION_CSS] => En caso que la factura en el spooler no se imprima que vamos a hacer?  -->> debemos poder ir al modulo de auditoria de facturas para reimprimir.
+Colocar que el spooler imprima automaticamente.
+
+Ingreso de Compras no debe cambiar el modulo debe ser el mismo.
+En el modulo de compra en el detalle solicitar con un campo "PROMOCION"
+
+
+Crear modulo de analisis de compra (Tentativamente Jueves 06/10/2022)
+
+Crear modulo de "Pedido Sugerido"
+Dianora nos prersenta un excel de ejemplo de como seria el calculo.
+
+Cuentas por pagar
+Mañana 9am reunion notas de debitos y pago por lotes y retenciones y reporte de venta..
+Actualizar modulo de cuentas por pagar
+
+-> Corregir libro de ventas detallado
+    [c_TIEMPO_NSS] => 
+    [c_COSTO_NSS] => 
+    [c_ESTATUS_CSS] => PENDIENTE
+    [c_ID_SUITE_ACTIVIDADES_GRUPOS_CSN] => 00118
+    [url_modulo] => /protecseguros/suite/auditoria_actividades/index.php
+)
+Array
+(
+    [0] => Array
+        (
+            [nombre] => ASUNTO_CSS
+            [valor] => pendientes reunion 04/10/2022
+        )
+
+    [1] => Array
+        (
+            [nombre] => DESCRIPCION_CSS
+            [valor] => En caso que la factura en el spooler no se imprima que vamos a hacer?  -->> debemos poder ir al modulo de auditoria de facturas para reimprimir.
+Colocar que el spooler imprima automaticamente.
+
+Ingreso de Compras no debe cambiar el modulo debe ser el mismo.
+En el modulo de compra en el detalle solicitar con un campo "PROMOCION"
+
+
+Crear modulo de analisis de compra (Tentativamente Jueves 06/10/2022)
+
+Crear modulo de "Pedido Sugerido"
+Dianora nos prersenta un excel de ejemplo de como seria el calculo.
+
+Cuentas por pagar
+Mañana 9am reunion notas de debitos y pago por lotes y retenciones y reporte de venta..
+Actualizar modulo de cuentas por pagar
+
+-> Corregir libro de ventas detallado
+        )
+
+    [2] => Array
+        (
+            [nombre] => TIEMPO_NSS
+            [valor] => 
+        )
+
+    [3] => Array
+        (
+            [nombre] => COSTO_NSS
+            [valor] => 
+        )
+
+    [4] => Array
+        (
+            [nombre] => ESTATUS_CSS
+            [valor] => PENDIENTE
+        )
+
+    [5] => Array
+        (
+            [nombre] => ID_SUITE_ACTIVIDADES_GRUPOS_CSN
+            [valor] => 00118
+        )
+
+)

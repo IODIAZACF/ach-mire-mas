@@ -1,0 +1,57 @@
+stdClass Object
+(
+    [_id] => 442899289
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-06-21T15:48:16.985-05:00
+    [end] => 2023-06-21T15:51:26.197-05:00
+    [group_gener/departamento] => cordoba
+    [group_gener/municipio] => 23001_monteria
+    [group_gener/Point] => 4.580058 -74.043083 0 0
+    [group_gener/Vereda_Corregimiento] => no
+    [group_gener/Comunidad] => no
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => COTI-005.1
+    [group_gener/Consorcio] => mire_ii
+    [group_gener/Fase] => ern
+    [group_gener/Fecha_del_Evento_001] => 2021-06-24
+    [group_gener/Hora_del_Evento] => 07:45:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => Validación previa al ingreso del Consorcio: Operaciones militares Agamenón
+    [group_gu1lq88/CATEGOR_A] => presencia_de_ga incursi_n_armada
+    [group_gu1lq88/Autor] => Paola Garcés
+    [group_gu1lq88/Consecuencias] => ninguna
+    [group_gu1lq88/MEDIDAS_TOMADAS] => En seguimiento. Reunión extraordinaria PFS 24 de junio
+    [group_gu1lq88/Seguimiento] => no
+    [group_gu1lq88/Observaciones] => no
+    [group_gu1lq88_001/Caracter] => fuerza_p_blica
+    [group_gu1lq88_001/Existe_otro_grupo_armado_impli] => no
+    [__version__] => vGHdLMkYdZBviR9aFxJnDY
+    [meta/instanceID] => uuid:90dde5b9-90db-4a4c-9349-721e9ec5d113
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => 90dde5b9-90db-4a4c-9349-721e9ec5d113
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 4.580058
+            [1] => -74.043083
+        )
+
+    [_submission_time] => 2023-06-21T20:51:27
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

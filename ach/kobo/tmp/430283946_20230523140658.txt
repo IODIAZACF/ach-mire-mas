@@ -1,0 +1,87 @@
+stdClass Object
+(
+    [_id] => 430283946
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-05-23T13:31:06.600-05:00
+    [end] => 2023-05-23T14:06:54.286-05:00
+    [group_gu1lq88/Departamento] => BOGOTA
+    [group_gu1lq88/BOGOTA] => BOGOTA, D.C.
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Bogotá
+    [group_gu1lq88/Nombre_de_la_comunidad] => Bogotá
+    [group_gu1lq88/Urbano_Rural] => urbano
+    [group_gu1lq88/time1] => 2023-05-23
+    [group_gu1lq88/Nombre_de_quien_reporta] => ANGELICA PINO
+    [group_gu1lq88/Cargo] => NRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => SNARIV
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => OTRA_EMERGENCIA
+    [group_hl1yc96/_Cual] => VCITIMAS DE CONFLICTO DEPORTADOS DESDE EEUU
+    [group_hl1yc96/Problema] => OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => DEPORTACIÓN DE VICTIMAS DEL CONFLICTO ARMDO
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => En el mes de mayo, se han presentado con preocupación una alta afluencia de colombianos que son deportados desde las fronteras estadounidenses de vuelta a suelo nacional. 
+Este aumento repentino está relacionado con los flujos de personas tras la noticia de la expiración del Título 42, que es una orden de salud pública emitida en la pandemia por Covid 19, que estableció medidas para prohibir la entrada de personas que "potencialmente representan un riesgo para la salud", con la idea de poder ingresar al país norteamericano y solicitar asilo de forma más ágil, sin dicha prohibición.
+Se observa además que gran parte de la población deportada fue víctimas del conflicto armado colombiano y registran a su ingreso grandes necesidades de atención psicológica, acceso a alimentación, elementos de higiene y recursos para regresar a sus departamentos de origen.
+    [group_yv1ph08/time2] => 2023-05-11
+    [group_yv1ph08/time3] => 12
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Las necesidades urgentes son de alimentación, elementos de higiene, atención psicologica y acceso a recursos para trasladarse a sus zonas de origen
+    [group_cn9za51/familias] => 0
+    [group_cn9za51/personas] => 350
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Alcaldía distrital de Bogotá: apoyo para hospedaje de familias vulnerables
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Las familias están principalmente en la ciudad de Bogotá. 
+A las más vulnerables la Alcaldía Distrital de Bogotá les ha brindado atención con la disposición de lugares para albergarse/ hospedarse.
+    [group_mu9ho06/Seguridad] => .
+    [group_mu9ho06/Operativa] => Es necesario la coordinación con UARIV y con las autoridades migratorias para la atención de las personas y familias deportadas.
+    [group_mu9ho06/Observaciones] => -
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:1ff39f42-a3c5-48c4-beb4-5461602e4282
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 1ff39f42-a3c5-48c4-beb4-5461602e4282
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-23T19:06:57
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,39 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 460
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 982923085
+                    [first_name] => Pagotoday
+                    [type] => private
+                )
+
+            [date] => 1595021339
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBzF8SGBuBV6mFtdttE3vvD8_9xK-gAAKMqDEbjCowROymRhhmvabfy7duBgAEAQADAgADbQADwrYDAAEaBA
+                            [file_unique_id] => AQADy7duBgAEwrYDAAE
+                            [file_size] => 9403
+                            [width] => 160
+                            [height] => 129
+                        )
+
+                )
+
+            [caption] => Comando no encontrado, por favor intente de nuevo
+        )
+
+)

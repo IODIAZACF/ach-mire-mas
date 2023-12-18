@@ -1,0 +1,16 @@
+stdClass Object
+(
+    [error] => 
+    [r] => 
+    [msg] => stdClass Object
+        (
+            [id] => 138
+            [msg] => hola
+            [meta_msg] => 
+            [time] => 1594334308
+            [chat_id] => 32
+            [user_id] => 1
+            [name_support] => Administrador Administrador
+        )
+
+)

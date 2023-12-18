@@ -1,0 +1,1296 @@
+date/time         : 2022-08-12, 18:43:17, 145ms
+computer name     : MAQUINA10
+wts client name   : DESKTOP-F3U8MGH
+user name         : soporte
+operating system  : Windows NT New x64 build 9200
+system language   : Spanish
+system up time    : 16 days 22 hours 
+program up time   : 9 hours 22 minutes 
+processors        : 2x Common KVM processor
+physical memory   : 13154/19999 MB (free/total)
+free disk space   : (C:) 2,74 GB 
+display mode      : 1920x1080, 32 bit
+process id        : $a104
+allocated memory  : 82,24 MB
+executable        : ReportEditor.exe
+exec. date/time   : 2022-03-14 03:16
+version           : 1.1.0.11
+madExcept version : 2.7k
+exception class   : EInvalidOp
+exception message : Invalid floating point operation.
+
+main thread ($8080):
+005b2cb3 +0000 ReportEditor.exe          
+751c3592 +0122 USER32.dll                GetWindowLongW
+777641cb +004b ntdll.dll                 KiUserCallbackDispatcher
+765e2efa +000a win32u.dll                NtUserDispatchMessage
+751de7ab +000b USER32.dll                DispatchMessageA
+0076abcb +017f ReportEditor.exe StdCtrls initialization
+756b6faf +008f msvcrt.dll                _vsnwprintf_l
+74efe8bc +003c oleaut32.dll              SysFreeString
+751de7ab +000b USER32.dll                DispatchMessageA
+00770369 +591d ReportEditor.exe StdCtrls initialization
+75f56357 +0017 KERNEL32.DLL              BaseThreadInitThunk
+
+thread $5aa4:
+765e708c +0c win32u.dll    NtUserMsgWaitForMultipleObjectsEx
+751cb939 +39 USER32.dll    MsgWaitForMultipleObjects
+75f56357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $80b4:
+77761d9c +0c ntdll.dll       NtWaitForSingleObject
+7747e2c3 +93 KERNELBASE.dll  WaitForSingleObjectEx
+7747e21d +0d KERNELBASE.dll  WaitForSingleObject
+75f56357 +17 KERNEL32.DLL    BaseThreadInitThunk
+>> created by main thread ($8080) at:
+7484122f +00 winspool.drv    
+
+thread $6c3c:
+77763a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75f56357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $8b48:
+77763a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75f56357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+modules:
+00400000 ReportEditor.exe              1.1.0.11            \\192.168.1.150\opt\lampp\htdocs\herramientas\impresora
+70130000 OLEACC.dll                    7.2.18362.1         C:\Windows\SYSTEM32
+71460000 msxml3.dll                    8.110.18362.239     C:\Windows\System32
+71690000 fwpuclnt.dll                  6.2.18362.113       C:\Windows\System32
+716f0000 DNSAPI.dll                    6.2.18362.267       C:\Windows\SYSTEM32
+718b0000 winhttp.dll                   6.2.18362.449       C:\Windows\SYSTEM32
+71d40000 urlmon.dll                    11.0.18362.449      C:\Windows\SYSTEM32
+71f10000 rasadhlp.dll                  6.2.18362.1         C:\Windows\System32
+71f20000 wshbth.dll                    6.2.18362.1         C:\Windows\system32
+71f30000 NLAapi.dll                    6.2.18362.1         C:\Windows\system32
+71f50000 WINNSI.DLL                    6.2.18362.449       C:\Windows\SYSTEM32
+71f60000 ondemandconnroutehelper.dll   6.2.18362.1         C:\Windows\SYSTEM32
+72090000 winrnr.dll                    6.2.18362.1         C:\Windows\System32
+720a0000 pnrpnsp.dll                   6.2.18362.1         C:\Windows\system32
+720c0000 napinsp.dll                   6.2.18362.1         C:\Windows\system32
+721b0000 CLDAPI.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+721d0000 msi.dll                       5.0.18362.476       C:\Windows\SYSTEM32
+72530000 gdiplus.dll                   6.2.18362.592       C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.592_none_5f58db4d822160d6
+726a0000 ashShell.dll                  22.6.7355.0         C:\Program Files\Avast Software\Avast\x86
+72990000 Windows.Storage.Search.dll    6.2.18362.387       C:\Windows\system32
+72a30000 Windows.StateRepositoryPS.dll 6.2.18362.1         C:\Windows\System32
+72ac0000 RMCLIENT.dll                  6.2.18362.267       C:\Windows\system32
+72ae0000 twinapi.appcore.dll           6.2.18362.592       C:\Windows\system32
+72cd0000 dxgi.dll                      6.2.18362.387       C:\Windows\system32
+72da0000 dcomp.dll                     6.2.18362.387       C:\Windows\system32
+72f10000 d3d11.dll                     6.2.18362.387       C:\Windows\system32
+730f0000 dataexchange.dll              6.2.18362.1         C:\Windows\system32
+73130000 StructuredQuery.dll           7.0.18362.592       C:\Windows\System32
+731c0000 WindowsCodecs.dll             6.2.18362.1         C:\Windows\SYSTEM32
+73330000 iertutil.dll                  11.0.18362.449      C:\Windows\SYSTEM32
+73590000 mswsock.dll                   6.2.18362.1         C:\Windows\system32
+735f0000 comctl32.dll                  5.82.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.592_none_71d995095ae1acb5
+737b0000 winmmbase.dll                 6.2.18362.1         C:\Windows\SYSTEM32
+737e0000 WININET.dll                   11.0.18362.418      C:\Windows\System32
+73cd0000 FLTLIB.DLL                    6.2.18362.1         C:\Windows\SYSTEM32
+73ce0000 dxcore.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+73d00000 thumbcache.dll                6.2.18362.1         C:\Windows\System32
+73d50000 WTSAPI32.dll                  6.2.18362.1         C:\Windows\System32
+73d60000 cscobj.dll                    6.2.18362.207       C:\Windows\System32
+73da0000 ntshrui.dll                   6.2.18362.329       C:\Windows\SYSTEM32
+73e10000 edputil.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+73e30000 tiptsf.dll                    6.2.18362.1         C:\Program Files (x86)\Common Files\microsoft shared\ink
+73ec0000 CoreUIComponents.dll          6.2.18362.207       C:\Windows\SYSTEM32
+74120000 aswhook.dll                   22.6.7355.0         C:\Program Files\Avast Software\Avast\x86
+74140000 winmm.dll                     6.2.18362.1         C:\Windows\SYSTEM32
+74170000 dwmapi.dll                    6.2.18362.267       C:\Windows\SYSTEM32
+741a0000 srvcli.dll                    6.2.18362.1         C:\Windows\System32
+741c0000 DAVHLPR.dll                   6.2.18362.1         C:\Windows\System32
+741d0000 davclnt.dll                   6.2.18362.1         C:\Windows\System32
+741f0000 ntlanman.dll                  6.2.18362.1         C:\Windows\System32
+74210000 drprov.dll                    6.2.18362.1         C:\Windows\System32
+74220000 apphelp.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+742c0000 wintypes.dll                  6.2.18362.449       C:\Windows\SYSTEM32
+743a0000 ntmarta.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+743d0000 cscapi.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+743e0000 CoreMessaging.dll             6.2.18362.1         C:\Windows\SYSTEM32
+74470000 TextInputFramework.dll        6.2.18362.207       C:\Windows\SYSTEM32
+74500000 netutils.dll                  6.2.18362.1         C:\Windows\System32
+74520000 NetworkExplorer.dll           6.2.18362.1         C:\Windows\system32
+74540000 msls31.dll                    3.10.349.0          C:\Windows\SYSTEM32
+74580000 USP10.dll                     6.2.18362.476       C:\Windows\SYSTEM32
+745a0000 RICHED20.DLL                  5.31.23.1231        C:\Windows\SYSTEM32
+74620000 HHCtrl.OCX                    6.2.18362.1         C:\Windows\SYSTEM32
+746c0000 WINSTA.dll                    6.2.18362.53        C:\Windows\SYSTEM32
+74710000 IPHLPAPI.DLL                  6.2.18362.1         C:\Windows\SYSTEM32
+74750000 PROPSYS.dll                   7.0.18362.267       C:\Windows\SYSTEM32
+74820000 winspool.drv                  6.2.18362.267       C:\Windows\SYSTEM32
+74890000 comctl32.DLL                  6.10.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.592_none_2e6de868278ee708
+74c30000 USERENV.dll                   6.2.18362.387       C:\Windows\System32
+74c50000 version.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+74c80000 wsock32.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+74c90000 oledlg.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74cc0000 mpr.dll                       6.2.18362.1         C:\Windows\SYSTEM32
+74ce0000 uxtheme.dll                   6.2.18362.449       C:\Windows\system32
+74eb0000 CRYPTBASE.dll                 6.2.18362.1         C:\Windows\System32
+74ec0000 SspiCli.dll                   6.2.18362.1         C:\Windows\System32
+74ee0000 oleaut32.dll                  6.2.18362.535       C:\Windows\System32
+74fe0000 ucrtbase.dll                  6.2.18362.387       C:\Windows\System32
+75100000 SHLWAPI.dll                   6.2.18362.1         C:\Windows\System32
+75150000 profapi.dll                   6.2.18362.1         C:\Windows\System32
+75170000 GDI32.dll                     6.2.18362.1         C:\Windows\System32
+751a0000 USER32.dll                    6.2.18362.592       C:\Windows\System32
+75340000 sechost.dll                   6.2.18362.267       C:\Windows\System32
+75520000 ole32.dll                     6.2.18362.113       C:\Windows\System32
+75640000 msvcrt.dll                    7.0.18362.1         C:\Windows\System32
+75700000 UMPDC.dll                                         C:\Windows\System32
+75710000 imm32.dll                     6.2.18362.387       C:\Windows\System32
+75750000 shcore.dll                    6.2.18362.1         C:\Windows\System32
+757e0000 advapi32.dll                  6.2.18362.329       C:\Windows\System32
+75860000 powrprof.dll                  6.2.18362.1         C:\Windows\System32
+758b0000 bcryptPrimitives.dll          6.2.18362.295       C:\Windows\System32
+75970000 windows.storage.dll           6.2.18362.535       C:\Windows\System32
+75f40000 KERNEL32.DLL                  6.2.18362.329       C:\Windows\System32
+76190000 NSI.dll                       6.2.18362.449       C:\Windows\System32
+76240000 comdlg32.dll                  6.2.18362.418       C:\Windows\System32
+762f0000 combase.dll                   6.2.18362.449       C:\Windows\System32
+76580000 WS2_32.dll                    6.2.18362.387       C:\Windows\System32
+765e0000 win32u.dll                    6.2.18362.592       C:\Windows\System32
+76600000 gdi32full.dll                 6.2.18362.535       C:\Windows\System32
+76bb0000 clbcatq.dll                   2001.12.10941.16384 C:\Windows\System32
+76c30000 MSCTF.dll                     6.2.18362.535       C:\Windows\System32
+76d40000 msvcp_win.dll                 6.2.18362.387       C:\Windows\System32
+76dc0000 bcrypt.dll                    6.2.18362.267       C:\Windows\System32
+76de0000 cryptsp.dll                   6.2.18362.1         C:\Windows\System32
+76e00000 SHELL32.dll                   6.2.18362.535       C:\Windows\System32
+77380000 KERNELBASE.dll                6.2.18362.535       C:\Windows\System32
+77580000 RPCRT4.dll                    6.2.18362.476       C:\Windows\System32
+77690000 kernel.appcore.dll            6.2.18362.1         C:\Windows\System32
+776a0000 cfgmgr32.dll                  6.2.18362.387       C:\Windows\System32
+776f0000 ntdll.dll                     6.2.18362.387       C:\Windows\SYSTEM32
+
+hardware:
++ {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+  - Cola de impresión raíz
+  - Fax
+  - Fax (2 redireccionado(s))
+  - Microsoft Print to PDF
+  - Microsoft Print to PDF (2 redireccionado(s))
+  - Microsoft XPS Document Writer
+  - Microsoft XPS Document Writer (2 redireccionado(s))
+  - OneNote for Windows 10 (2 redireccionado(s))
++ {36fc9e60-c465-11cf-8056-444553540000}
+  - Concentrador raíz USB
+  - Controladora de host universal de PCI a USB Intel(R) 82371SB
++ {4d36e965-e325-11ce-bfc1-08002be10318}
+  - DVD-ROM virtual de Microsoft
+  - QEMU QEMU DVD-ROM ATA Device
++ {4d36e966-e325-11ce-bfc1-08002be10318}
+  - Equipo basado en x64 ACPI
++ {4d36e967-e325-11ce-bfc1-08002be10318}
+  - QEMU HARDDISK ATA Device
++ {4d36e968-e325-11ce-bfc1-08002be10318}
+  - Adaptador de pantalla básico de Microsoft
+  - Microsoft Remote Display Adapter
++ {4d36e969-e325-11ce-bfc1-08002be10318}
+  - Controlador estándar de disquetes
++ {4d36e96a-e325-11ce-bfc1-08002be10318}
+  - ATA Channel 0
+  - ATA Channel 1
+  - Controladora IDE principal de bus PCI Intel(R) 82371SB
++ {4d36e96b-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de teclado de Escritorio remoto
+  - Teclado PS/2 estándar
++ {4d36e96e-e325-11ce-bfc1-08002be10318}
+  - Monitor genérico que no es PnP
+  - Monitor genérico que no es PnP
++ {4d36e96f-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de mouse de Escritorio remoto
+  - Mouse compatible con HID
+  - Mouse compatible PS/2
++ {4d36e972-e325-11ce-bfc1-08002be10318}
+  - Intel(R) PRO/1000 MT Network Connection
++ {4d36e97b-e325-11ce-bfc1-08002be10318}
+  - Controlador de bucle invertido VHD de Microsoft
+  - Controladora de espacios de almacenamiento de Microsoft
++ {4d36e97d-e325-11ce-bfc1-08002be10318}
+  - Administrador de volúmenes
+  - Botón de característica fija ACPI
+  - Bus de cámara de escritorio remoto
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus del Redirector de dispositivos de Escritorio remoto
+  - Bus PCI
+  - Contador de generación de Microsoft Hyper-V
+  - Controlador BIOS de Microsoft System Management
+  - Controlador de infraestructura de virtualización de Microsoft Hyper-V
+  - Controlador de pantalla básica de Microsoft
+  - Controlador de representación básica de Microsoft
+  - Dispositivo contenedor de procesador ACPI
+  - Enumerador de adaptador de red virtual NDIS
+  - Enumerador de bus compuesto
+  - Enumerador de bus raíz de UMBus
+  - Enumerador de dispositivos de software Plug and Play
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de unidades virtuales de Microsoft
+  - Puente de CPU a PCI
+  - Puente de PCI a ISA
+  - Puente PCI a PCI
+  - Puente PCI a PCI
+  - Remote Desktop USB Hub
+  - Sistema CMOS/reloj en tiempo real
+  - Sistema Microsoft compatible con ACPI
+  - VirtIO Serial Driver (driver 100.80.104.17300)
++ {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+  - Common KVM processor
+  - Common KVM processor
++ {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+  - Microsoft Device Association Root Enumerator
+  - Microsoft Passport Container Enumeration Bus
+  - Microsoft Radio Device Enumeration Bus
+  - Microsoft RRAS Root Enumerator
+  - Sintetizador por software GS de tabla de onda de 
+  - Smart Card Device Enumeration Bus
++ {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+  - Dispositivo de entrada USB
++ {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+  - Audio remoto
+
+disassembling:
+005b2cb3 sub_5b2cb3:                      ; function entry point
+005b2cb3 > fstp    tbyte ptr [esp]
+005b2cb6   wait
+005b2cb7   jmp     loc_5b2ccf
+005b2ccf   fld     tbyte ptr [esp]
+005b2cd2   add     esp, $c
+[...]
+
+date/time         : 2022-09-28, 15:12:31, 259ms
+computer name     : MAQUINA10
+wts client name   : EDSON-NUC
+user name         : sistemas24
+operating system  : Windows NT New x64 build 9200
+system language   : Spanish
+system up time    : 15 days 21 hours 
+program up time   : 16 minutes 55 seconds 
+processors        : 4x Common KVM processor
+physical memory   : 11467/19999 MB (free/total)
+free disk space   : (C:) 6,24 GB 
+display mode      : 1920x1080, 32 bit
+process id        : $7f5c
+allocated memory  : 71,95 MB
+executable        : ReportEditor.exe
+exec. date/time   : 2022-03-14 03:16
+version           : 1.1.0.11
+madExcept version : 2.7k
+exception class   : EConvertError
+exception message : '8.5' is not a valid integer value.
+
+main thread ($734c):
+004345ae +0000 ReportEditor.exe          
+75a4e7ab +000b USER32.dll                DispatchMessageA
+0076abcb +017f ReportEditor.exe StdCtrls initialization
+77366faf +008f msvcrt.dll                _vsnwprintf_l
+762ae8bc +003c oleaut32.dll              SysFreeString
+75a4e7ab +000b USER32.dll                DispatchMessageA
+00770369 +591d ReportEditor.exe StdCtrls initialization
+75d86357 +0017 KERNEL32.DLL              BaseThreadInitThunk
+
+thread $658c:
+75d5708c +0c win32u.dll    NtUserMsgWaitForMultipleObjectsEx
+75a3b939 +39 USER32.dll    MsgWaitForMultipleObjects
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $85a8:
+77cd1d9c +0c ntdll.dll       NtWaitForSingleObject
+760be2c3 +93 KERNELBASE.dll  WaitForSingleObjectEx
+760be21d +0d KERNELBASE.dll  WaitForSingleObject
+75d86357 +17 KERNEL32.DLL    BaseThreadInitThunk
+>> created by main thread ($734c) at:
+7534122f +00 winspool.drv    
+
+modules:
+00400000 ReportEditor.exe              1.1.0.11            \\192.168.1.150\opt\lampp\htdocs\herramientas\impresora
+06ef0000 gdiplus.dll                   6.2.18362.592       C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.592_none_5f58db4d822160d6
+707a0000 msxml3.dll                    8.110.18362.239     C:\Windows\System32
+708f0000 msi.dll                       5.0.18362.476       C:\Windows\SYSTEM32
+712c0000 ashShell.dll                  22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+715b0000 winhttp.dll                   6.2.18362.449       C:\Windows\SYSTEM32
+71760000 WINNSI.DLL                    6.2.18362.449       C:\Windows\SYSTEM32
+71770000 ondemandconnroutehelper.dll   6.2.18362.1         C:\Windows\SYSTEM32
+71790000 cscobj.dll                    6.2.18362.207       C:\Windows\System32
+71820000 Windows.Storage.Search.dll    6.2.18362.387       C:\Windows\system32
+718c0000 StructuredQuery.dll           7.0.18362.592       C:\Windows\System32
+71fd0000 WTSAPI32.dll                  6.2.18362.1         C:\Windows\SYSTEM32
+72150000 apphelp.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+72380000 thumbcache.dll                6.2.18362.1         C:\Windows\System32
+723d0000 dwmapi.dll                    6.2.18362.267       C:\Windows\SYSTEM32
+72400000 ntshrui.dll                   6.2.18362.329       C:\Windows\SYSTEM32
+725d0000 NetworkExplorer.dll           6.2.18362.1         C:\Windows\system32
+72bc0000 WININET.dll                   11.0.18362.418      C:\Windows\System32
+730b0000 srvcli.dll                    6.2.18362.1         C:\Windows\System32
+730f0000 tiptsf.dll                    6.2.18362.1         C:\Program Files (x86)\Common Files\microsoft shared\ink
+73300000 FLTLIB.DLL                    6.2.18362.1         C:\Windows\SYSTEM32
+73310000 CLDAPI.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+73330000 urlmon.dll                    11.0.18362.449      C:\Windows\System32
+734e0000 Windows.StateRepositoryPS.dll 6.2.18362.1         C:\Windows\System32
+73570000 edputil.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+73590000 DAVHLPR.dll                   6.2.18362.1         C:\Windows\System32
+735a0000 davclnt.dll                   6.2.18362.1         C:\Windows\System32
+735c0000 ntlanman.dll                  6.2.18362.1         C:\Windows\System32
+735e0000 drprov.dll                    6.2.18362.1         C:\Windows\System32
+736b0000 WindowsCodecs.dll             6.2.18362.1         C:\Windows\SYSTEM32
+73980000 mswsock.dll                   6.2.18362.1         C:\Windows\system32
+73ac0000 iertutil.dll                  11.0.18362.449      C:\Windows\SYSTEM32
+73cf0000 wintypes.dll                  6.2.18362.449       C:\Windows\SYSTEM32
+73dd0000 CoreUIComponents.dll          6.2.18362.207       C:\Windows\SYSTEM32
+74030000 CoreMessaging.dll             6.2.18362.1         C:\Windows\SYSTEM32
+740c0000 TextInputFramework.dll        6.2.18362.207       C:\Windows\SYSTEM32
+741f0000 twinapi.appcore.dll           6.2.18362.592       C:\Windows\system32
+743e0000 dxgi.dll                      6.2.18362.387       C:\Windows\system32
+744b0000 d3d11.dll                     6.2.18362.387       C:\Windows\system32
+74690000 aswhook.dll                   22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+746b0000 mpr.dll                       6.2.18362.1         C:\Windows\SYSTEM32
+74910000 ntmarta.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+74940000 cscapi.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74a70000 netutils.dll                  6.2.18362.1         C:\Windows\System32
+74ab0000 RMCLIENT.dll                  6.2.18362.267       C:\Windows\system32
+74ad0000 dxcore.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74af0000 dcomp.dll                     6.2.18362.387       C:\Windows\system32
+74c60000 dataexchange.dll              6.2.18362.1         C:\Windows\system32
+74ca0000 msls31.dll                    3.10.349.0          C:\Windows\SYSTEM32
+74ce0000 USP10.dll                     6.2.18362.476       C:\Windows\SYSTEM32
+74d00000 RICHED20.DLL                  5.31.23.1231        C:\Windows\SYSTEM32
+74d90000 comctl32.DLL                  6.10.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.592_none_2e6de868278ee708
+74fa0000 HHCtrl.OCX                    6.2.18362.1         C:\Windows\SYSTEM32
+75040000 uxtheme.dll                   6.2.18362.449       C:\Windows\system32
+750c0000 WINSTA.dll                    6.2.18362.53        C:\Windows\SYSTEM32
+75110000 winmmbase.dll                 6.2.18362.1         C:\Windows\SYSTEM32
+75140000 oledlg.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+75170000 winmm.dll                     6.2.18362.1         C:\Windows\SYSTEM32
+751a0000 USERENV.dll                   6.2.18362.387       C:\Windows\System32
+751c0000 version.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75200000 wsock32.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75210000 IPHLPAPI.DLL                  6.2.18362.1         C:\Windows\SYSTEM32
+75250000 PROPSYS.dll                   7.0.18362.267       C:\Windows\SYSTEM32
+75320000 winspool.drv                  6.2.18362.267       C:\Windows\SYSTEM32
+75390000 comctl32.dll                  5.82.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.592_none_71d995095ae1acb5
+75420000 CRYPTBASE.dll                 6.2.18362.1         C:\Windows\System32
+75430000 SspiCli.dll                   6.2.18362.1         C:\Windows\System32
+75450000 GDI32.dll                     6.2.18362.1         C:\Windows\System32
+75480000 SHELL32.dll                   6.2.18362.535       C:\Windows\System32
+75a00000 NSI.dll                       6.2.18362.449       C:\Windows\System32
+75a10000 USER32.dll                    6.2.18362.592       C:\Windows\System32
+75c40000 MSCTF.dll                     6.2.18362.535       C:\Windows\System32
+75d50000 win32u.dll                    6.2.18362.592       C:\Windows\System32
+75d70000 KERNEL32.DLL                  6.2.18362.329       C:\Windows\System32
+75e50000 sechost.dll                   6.2.18362.267       C:\Windows\System32
+75ed0000 bcryptPrimitives.dll          6.2.18362.295       C:\Windows\System32
+75f30000 msvcp_win.dll                 6.2.18362.387       C:\Windows\System32
+75fc0000 KERNELBASE.dll                6.2.18362.535       C:\Windows\System32
+761e0000 powrprof.dll                  6.2.18362.1         C:\Windows\System32
+76290000 oleaut32.dll                  6.2.18362.535       C:\Windows\System32
+76380000 UMPDC.dll                                         C:\Windows\System32
+76390000 SHLWAPI.dll                   6.2.18362.1         C:\Windows\System32
+76830000 clbcatq.dll                   2001.12.10941.16384 C:\Windows\System32
+768b0000 profapi.dll                   6.2.18362.1         C:\Windows\System32
+76930000 comdlg32.dll                  6.2.18362.418       C:\Windows\System32
+769e0000 gdi32full.dll                 6.2.18362.535       C:\Windows\System32
+76ba0000 windows.storage.dll           6.2.18362.535       C:\Windows\System32
+77170000 RPCRT4.dll                    6.2.18362.476       C:\Windows\System32
+77240000 shcore.dll                    6.2.18362.1         C:\Windows\System32
+772d0000 cryptsp.dll                   6.2.18362.1         C:\Windows\System32
+772f0000 msvcrt.dll                    7.0.18362.1         C:\Windows\System32
+773b0000 bcrypt.dll                    6.2.18362.267       C:\Windows\System32
+773d0000 cfgmgr32.dll                  6.2.18362.387       C:\Windows\System32
+77410000 combase.dll                   6.2.18362.449       C:\Windows\System32
+77690000 kernel.appcore.dll            6.2.18362.1         C:\Windows\System32
+777a0000 ole32.dll                     6.2.18362.113       C:\Windows\System32
+778a0000 imm32.dll                     6.2.18362.387       C:\Windows\System32
+778d0000 ucrtbase.dll                  6.2.18362.387       C:\Windows\System32
+77b70000 WS2_32.dll                    6.2.18362.387       C:\Windows\System32
+77bd0000 advapi32.dll                  6.2.18362.329       C:\Windows\System32
+77c60000 ntdll.dll                     6.2.18362.387       C:\Windows\SYSTEM32
+
+hardware:
++ {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+  - Cola de impresión raíz
+  - Fax
+  - Microsoft Print to PDF
+  - Microsoft Print to PDF (3 redireccionado(s))
+  - Microsoft XPS Document Writer
++ {36fc9e60-c465-11cf-8056-444553540000}
+  - Concentrador raíz USB
+  - Controladora de host universal de PCI a USB Intel(R) 82371SB
++ {4d36e965-e325-11ce-bfc1-08002be10318}
+  - QEMU QEMU DVD-ROM ATA Device
++ {4d36e966-e325-11ce-bfc1-08002be10318}
+  - Equipo basado en x64 ACPI
++ {4d36e967-e325-11ce-bfc1-08002be10318}
+  - QEMU HARDDISK ATA Device
++ {4d36e968-e325-11ce-bfc1-08002be10318}
+  - Adaptador de pantalla básico de Microsoft
+  - Microsoft Remote Display Adapter
++ {4d36e969-e325-11ce-bfc1-08002be10318}
+  - Controlador estándar de disquetes
++ {4d36e96a-e325-11ce-bfc1-08002be10318}
+  - ATA Channel 0
+  - ATA Channel 1
+  - Controladora IDE principal de bus PCI Intel(R) 82371SB
++ {4d36e96b-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de teclado de Escritorio remoto
+  - Teclado PS/2 estándar
++ {4d36e96e-e325-11ce-bfc1-08002be10318}
+  - Monitor genérico que no es PnP
+  - Monitor genérico que no es PnP
++ {4d36e96f-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de mouse de Escritorio remoto
+  - Mouse compatible con HID
+  - Mouse compatible PS/2
++ {4d36e972-e325-11ce-bfc1-08002be10318}
+  - Intel(R) PRO/1000 MT Network Connection
++ {4d36e97b-e325-11ce-bfc1-08002be10318}
+  - Controladora de espacios de almacenamiento de Microsoft
++ {4d36e97d-e325-11ce-bfc1-08002be10318}
+  - Administrador de volúmenes
+  - Botón de característica fija ACPI
+  - Bus de cámara de escritorio remoto
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus del Redirector de dispositivos de Escritorio remoto
+  - Bus PCI
+  - Contador de generación de Microsoft Hyper-V
+  - Controlador BIOS de Microsoft System Management
+  - Controlador de infraestructura de virtualización de Microsoft Hyper-V
+  - Controlador de pantalla básica de Microsoft
+  - Controlador de representación básica de Microsoft
+  - Dispositivo contenedor de procesador ACPI
+  - Enumerador de adaptador de red virtual NDIS
+  - Enumerador de bus compuesto
+  - Enumerador de bus raíz de UMBus
+  - Enumerador de dispositivos de software Plug and Play
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de unidades virtuales de Microsoft
+  - Puente de CPU a PCI
+  - Puente de PCI a ISA
+  - Puente PCI a PCI
+  - Puente PCI a PCI
+  - Remote Desktop USB Hub
+  - Sistema CMOS/reloj en tiempo real
+  - Sistema Microsoft compatible con ACPI
+  - VirtIO Serial Driver (driver 100.80.104.17300)
++ {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
++ {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+  - Microsoft Device Association Root Enumerator
+  - Microsoft Passport Container Enumeration Bus
+  - Microsoft Radio Device Enumeration Bus
+  - Microsoft RRAS Root Enumerator
+  - Sintetizador por software GS de tabla de onda de 
+  - Smart Card Device Enumeration Bus
++ {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+  - Dispositivo de entrada USB
++ {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+  - Audio remoto
+
+disassembling:
+004345ae sub_4345ae:                      ; function entry point
+004345ae > pop     edi
+004345af   pop     esi
+004345b0   pop     ebx
+004345b1   ret
+
+date/time         : 2022-09-28, 15:12:37, 869ms
+computer name     : MAQUINA10
+wts client name   : EDSON-NUC
+user name         : sistemas24
+operating system  : Windows NT New x64 build 9200
+system language   : Spanish
+system up time    : 15 days 21 hours 
+program up time   : 17 minutes 1 second 
+processors        : 4x Common KVM processor
+physical memory   : 11426/19999 MB (free/total)
+free disk space   : (C:) 6,24 GB 
+display mode      : 1920x1080, 32 bit
+process id        : $7f5c
+allocated memory  : 74,61 MB
+executable        : ReportEditor.exe
+exec. date/time   : 2022-03-14 03:16
+version           : 1.1.0.11
+madExcept version : 2.7k
+exception class   : EConvertError
+exception message : '8,5' is not a valid integer value.
+
+main thread ($734c):
+004345ae +0000 ReportEditor.exe          
+75a4e7ab +000b USER32.dll                DispatchMessageA
+0076abcb +017f ReportEditor.exe StdCtrls initialization
+77366faf +008f msvcrt.dll                _vsnwprintf_l
+762ae8bc +003c oleaut32.dll              SysFreeString
+75a4e7ab +000b USER32.dll                DispatchMessageA
+00770369 +591d ReportEditor.exe StdCtrls initialization
+75d86357 +0017 KERNEL32.DLL              BaseThreadInitThunk
+
+thread $658c:
+75d5708c +0c win32u.dll    NtUserMsgWaitForMultipleObjectsEx
+75a3b939 +39 USER32.dll    MsgWaitForMultipleObjects
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $85a8:
+77cd1d9c +0c ntdll.dll       NtWaitForSingleObject
+760be2c3 +93 KERNELBASE.dll  WaitForSingleObjectEx
+760be21d +0d KERNELBASE.dll  WaitForSingleObject
+75d86357 +17 KERNEL32.DLL    BaseThreadInitThunk
+>> created by main thread ($734c) at:
+7534122f +00 winspool.drv    
+
+thread $8324:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $80b8:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $60fc:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $776c:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+modules:
+00400000 ReportEditor.exe              1.1.0.11            \\192.168.1.150\opt\lampp\htdocs\herramientas\impresora
+06ef0000 gdiplus.dll                   6.2.18362.592       C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.592_none_5f58db4d822160d6
+707a0000 msxml3.dll                    8.110.18362.239     C:\Windows\System32
+708f0000 msi.dll                       5.0.18362.476       C:\Windows\SYSTEM32
+712c0000 ashShell.dll                  22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+715b0000 winhttp.dll                   6.2.18362.449       C:\Windows\SYSTEM32
+71760000 WINNSI.DLL                    6.2.18362.449       C:\Windows\SYSTEM32
+71770000 ondemandconnroutehelper.dll   6.2.18362.1         C:\Windows\SYSTEM32
+71790000 cscobj.dll                    6.2.18362.207       C:\Windows\System32
+71820000 Windows.Storage.Search.dll    6.2.18362.387       C:\Windows\system32
+718c0000 StructuredQuery.dll           7.0.18362.592       C:\Windows\System32
+71fd0000 WTSAPI32.dll                  6.2.18362.1         C:\Windows\SYSTEM32
+72150000 apphelp.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+72380000 thumbcache.dll                6.2.18362.1         C:\Windows\System32
+723d0000 dwmapi.dll                    6.2.18362.267       C:\Windows\SYSTEM32
+72400000 ntshrui.dll                   6.2.18362.329       C:\Windows\SYSTEM32
+725d0000 NetworkExplorer.dll           6.2.18362.1         C:\Windows\system32
+72bc0000 WININET.dll                   11.0.18362.418      C:\Windows\System32
+730b0000 srvcli.dll                    6.2.18362.1         C:\Windows\System32
+730f0000 tiptsf.dll                    6.2.18362.1         C:\Program Files (x86)\Common Files\microsoft shared\ink
+73300000 FLTLIB.DLL                    6.2.18362.1         C:\Windows\SYSTEM32
+73310000 CLDAPI.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+73330000 urlmon.dll                    11.0.18362.449      C:\Windows\System32
+734e0000 Windows.StateRepositoryPS.dll 6.2.18362.1         C:\Windows\System32
+73570000 edputil.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+73590000 DAVHLPR.dll                   6.2.18362.1         C:\Windows\System32
+735a0000 davclnt.dll                   6.2.18362.1         C:\Windows\System32
+735c0000 ntlanman.dll                  6.2.18362.1         C:\Windows\System32
+735e0000 drprov.dll                    6.2.18362.1         C:\Windows\System32
+736b0000 WindowsCodecs.dll             6.2.18362.1         C:\Windows\SYSTEM32
+73980000 mswsock.dll                   6.2.18362.1         C:\Windows\system32
+73ac0000 iertutil.dll                  11.0.18362.449      C:\Windows\SYSTEM32
+73cf0000 wintypes.dll                  6.2.18362.449       C:\Windows\SYSTEM32
+73dd0000 CoreUIComponents.dll          6.2.18362.207       C:\Windows\SYSTEM32
+74030000 CoreMessaging.dll             6.2.18362.1         C:\Windows\SYSTEM32
+740c0000 TextInputFramework.dll        6.2.18362.207       C:\Windows\SYSTEM32
+741f0000 twinapi.appcore.dll           6.2.18362.592       C:\Windows\system32
+743e0000 dxgi.dll                      6.2.18362.387       C:\Windows\system32
+744b0000 d3d11.dll                     6.2.18362.387       C:\Windows\system32
+74690000 aswhook.dll                   22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+746b0000 mpr.dll                       6.2.18362.1         C:\Windows\SYSTEM32
+74910000 ntmarta.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+74940000 cscapi.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74a70000 netutils.dll                  6.2.18362.1         C:\Windows\System32
+74ab0000 RMCLIENT.dll                  6.2.18362.267       C:\Windows\system32
+74ad0000 dxcore.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74af0000 dcomp.dll                     6.2.18362.387       C:\Windows\system32
+74c60000 dataexchange.dll              6.2.18362.1         C:\Windows\system32
+74ca0000 msls31.dll                    3.10.349.0          C:\Windows\SYSTEM32
+74ce0000 USP10.dll                     6.2.18362.476       C:\Windows\SYSTEM32
+74d00000 RICHED20.DLL                  5.31.23.1231        C:\Windows\SYSTEM32
+74d90000 comctl32.DLL                  6.10.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.592_none_2e6de868278ee708
+74fa0000 HHCtrl.OCX                    6.2.18362.1         C:\Windows\SYSTEM32
+75040000 uxtheme.dll                   6.2.18362.449       C:\Windows\system32
+750c0000 WINSTA.dll                    6.2.18362.53        C:\Windows\SYSTEM32
+75110000 winmmbase.dll                 6.2.18362.1         C:\Windows\SYSTEM32
+75140000 oledlg.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+75170000 winmm.dll                     6.2.18362.1         C:\Windows\SYSTEM32
+751a0000 USERENV.dll                   6.2.18362.387       C:\Windows\System32
+751c0000 version.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75200000 wsock32.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75210000 IPHLPAPI.DLL                  6.2.18362.1         C:\Windows\SYSTEM32
+75250000 PROPSYS.dll                   7.0.18362.267       C:\Windows\SYSTEM32
+75320000 winspool.drv                  6.2.18362.267       C:\Windows\SYSTEM32
+75390000 comctl32.dll                  5.82.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.592_none_71d995095ae1acb5
+75420000 CRYPTBASE.dll                 6.2.18362.1         C:\Windows\System32
+75430000 SspiCli.dll                   6.2.18362.1         C:\Windows\System32
+75450000 GDI32.dll                     6.2.18362.1         C:\Windows\System32
+75480000 SHELL32.dll                   6.2.18362.535       C:\Windows\System32
+75a00000 NSI.dll                       6.2.18362.449       C:\Windows\System32
+75a10000 USER32.dll                    6.2.18362.592       C:\Windows\System32
+75c40000 MSCTF.dll                     6.2.18362.535       C:\Windows\System32
+75d50000 win32u.dll                    6.2.18362.592       C:\Windows\System32
+75d70000 KERNEL32.DLL                  6.2.18362.329       C:\Windows\System32
+75e50000 sechost.dll                   6.2.18362.267       C:\Windows\System32
+75ed0000 bcryptPrimitives.dll          6.2.18362.295       C:\Windows\System32
+75f30000 msvcp_win.dll                 6.2.18362.387       C:\Windows\System32
+75fc0000 KERNELBASE.dll                6.2.18362.535       C:\Windows\System32
+761e0000 powrprof.dll                  6.2.18362.1         C:\Windows\System32
+76290000 oleaut32.dll                  6.2.18362.535       C:\Windows\System32
+76380000 UMPDC.dll                                         C:\Windows\System32
+76390000 SHLWAPI.dll                   6.2.18362.1         C:\Windows\System32
+76830000 clbcatq.dll                   2001.12.10941.16384 C:\Windows\System32
+768b0000 profapi.dll                   6.2.18362.1         C:\Windows\System32
+76930000 comdlg32.dll                  6.2.18362.418       C:\Windows\System32
+769e0000 gdi32full.dll                 6.2.18362.535       C:\Windows\System32
+76ba0000 windows.storage.dll           6.2.18362.535       C:\Windows\System32
+77170000 RPCRT4.dll                    6.2.18362.476       C:\Windows\System32
+77240000 shcore.dll                    6.2.18362.1         C:\Windows\System32
+772d0000 cryptsp.dll                   6.2.18362.1         C:\Windows\System32
+772f0000 msvcrt.dll                    7.0.18362.1         C:\Windows\System32
+773b0000 bcrypt.dll                    6.2.18362.267       C:\Windows\System32
+773d0000 cfgmgr32.dll                  6.2.18362.387       C:\Windows\System32
+77410000 combase.dll                   6.2.18362.449       C:\Windows\System32
+77690000 kernel.appcore.dll            6.2.18362.1         C:\Windows\System32
+777a0000 ole32.dll                     6.2.18362.113       C:\Windows\System32
+778a0000 imm32.dll                     6.2.18362.387       C:\Windows\System32
+778d0000 ucrtbase.dll                  6.2.18362.387       C:\Windows\System32
+77b70000 WS2_32.dll                    6.2.18362.387       C:\Windows\System32
+77bd0000 advapi32.dll                  6.2.18362.329       C:\Windows\System32
+77c60000 ntdll.dll                     6.2.18362.387       C:\Windows\SYSTEM32
+
+hardware:
++ {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+  - Cola de impresión raíz
+  - Fax
+  - Microsoft Print to PDF
+  - Microsoft Print to PDF (3 redireccionado(s))
+  - Microsoft XPS Document Writer
++ {36fc9e60-c465-11cf-8056-444553540000}
+  - Concentrador raíz USB
+  - Controladora de host universal de PCI a USB Intel(R) 82371SB
++ {4d36e965-e325-11ce-bfc1-08002be10318}
+  - QEMU QEMU DVD-ROM ATA Device
++ {4d36e966-e325-11ce-bfc1-08002be10318}
+  - Equipo basado en x64 ACPI
++ {4d36e967-e325-11ce-bfc1-08002be10318}
+  - QEMU HARDDISK ATA Device
++ {4d36e968-e325-11ce-bfc1-08002be10318}
+  - Adaptador de pantalla básico de Microsoft
+  - Microsoft Remote Display Adapter
++ {4d36e969-e325-11ce-bfc1-08002be10318}
+  - Controlador estándar de disquetes
++ {4d36e96a-e325-11ce-bfc1-08002be10318}
+  - ATA Channel 0
+  - ATA Channel 1
+  - Controladora IDE principal de bus PCI Intel(R) 82371SB
++ {4d36e96b-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de teclado de Escritorio remoto
+  - Teclado PS/2 estándar
++ {4d36e96e-e325-11ce-bfc1-08002be10318}
+  - Monitor genérico que no es PnP
+  - Monitor genérico que no es PnP
++ {4d36e96f-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de mouse de Escritorio remoto
+  - Mouse compatible con HID
+  - Mouse compatible PS/2
++ {4d36e972-e325-11ce-bfc1-08002be10318}
+  - Intel(R) PRO/1000 MT Network Connection
++ {4d36e97b-e325-11ce-bfc1-08002be10318}
+  - Controladora de espacios de almacenamiento de Microsoft
++ {4d36e97d-e325-11ce-bfc1-08002be10318}
+  - Administrador de volúmenes
+  - Botón de característica fija ACPI
+  - Bus de cámara de escritorio remoto
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus del Redirector de dispositivos de Escritorio remoto
+  - Bus PCI
+  - Contador de generación de Microsoft Hyper-V
+  - Controlador BIOS de Microsoft System Management
+  - Controlador de infraestructura de virtualización de Microsoft Hyper-V
+  - Controlador de pantalla básica de Microsoft
+  - Controlador de representación básica de Microsoft
+  - Dispositivo contenedor de procesador ACPI
+  - Enumerador de adaptador de red virtual NDIS
+  - Enumerador de bus compuesto
+  - Enumerador de bus raíz de UMBus
+  - Enumerador de dispositivos de software Plug and Play
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de unidades virtuales de Microsoft
+  - Puente de CPU a PCI
+  - Puente de PCI a ISA
+  - Puente PCI a PCI
+  - Puente PCI a PCI
+  - Remote Desktop USB Hub
+  - Sistema CMOS/reloj en tiempo real
+  - Sistema Microsoft compatible con ACPI
+  - VirtIO Serial Driver (driver 100.80.104.17300)
++ {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
++ {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+  - Microsoft Device Association Root Enumerator
+  - Microsoft Passport Container Enumeration Bus
+  - Microsoft Radio Device Enumeration Bus
+  - Microsoft RRAS Root Enumerator
+  - Sintetizador por software GS de tabla de onda de 
+  - Smart Card Device Enumeration Bus
++ {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+  - Dispositivo de entrada USB
++ {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+  - Audio remoto
+
+disassembling:
+004345ae sub_4345ae:                      ; function entry point
+004345ae > pop     edi
+004345af   pop     esi
+004345b0   pop     ebx
+004345b1   ret
+
+date/time         : 2022-09-28, 15:14:11, 603ms
+computer name     : MAQUINA10
+wts client name   : EDSON-NUC
+user name         : sistemas24
+operating system  : Windows NT New x64 build 9200
+system language   : Spanish
+system up time    : 15 days 21 hours 
+program up time   : 1 minute 24 seconds 
+processors        : 4x Common KVM processor
+physical memory   : 11407/19999 MB (free/total)
+free disk space   : (C:) 6,24 GB 
+display mode      : 1920x1080, 32 bit
+process id        : $2e90
+allocated memory  : 72,55 MB
+executable        : ReportEditor.exe
+exec. date/time   : 2022-03-14 03:16
+version           : 1.1.0.11
+madExcept version : 2.7k
+exception class   : EConvertError
+exception message : '9,5' is not a valid integer value.
+
+main thread ($2ce8):
+004345ae +0000 ReportEditor.exe          
+75a4e7ab +000b USER32.dll                DispatchMessageA
+0076abcb +017f ReportEditor.exe StdCtrls initialization
+77366faf +008f msvcrt.dll                _vsnwprintf_l
+762ae8bc +003c oleaut32.dll              SysFreeString
+75a4e7ab +000b USER32.dll                DispatchMessageA
+00770369 +591d ReportEditor.exe StdCtrls initialization
+75d86357 +0017 KERNEL32.DLL              BaseThreadInitThunk
+
+thread $7868:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $7ba8:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $7914:
+77cd232c +00c ntdll.dll       NtWaitForMultipleObjects
+760cbacd +12d KERNELBASE.dll  WaitForMultipleObjectsEx
+75d86357 +017 KERNEL32.DLL    BaseThreadInitThunk
+>> created by main thread ($2ce8) at:
+77497b28 +000 combase.dll     
+
+thread $79e4:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $1bec:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $8114:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $5b84:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $3cd4:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $7470:
+75d5708c +0c win32u.dll    NtUserMsgWaitForMultipleObjectsEx
+75a3b939 +39 USER32.dll    MsgWaitForMultipleObjects
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $6c54:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $5798:
+77cd1d9c +0c ntdll.dll       NtWaitForSingleObject
+760be2c3 +93 KERNELBASE.dll  WaitForSingleObjectEx
+760be21d +0d KERNELBASE.dll  WaitForSingleObject
+75d86357 +17 KERNEL32.DLL    BaseThreadInitThunk
+>> created by main thread ($2ce8) at:
+7534122f +00 winspool.drv    
+
+thread $72d0:
+77cd3a4c +0c ntdll.dll     NtWaitForWorkViaWorkerFactory
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+modules:
+00400000 ReportEditor.exe              1.1.0.11            \\192.168.1.150\opt\lampp\htdocs\herramientas\impresora
+06ef0000 gdiplus.dll                   6.2.18362.592       C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.592_none_5f58db4d822160d6
+707a0000 msxml3.dll                    8.110.18362.239     C:\Windows\System32
+708f0000 msi.dll                       5.0.18362.476       C:\Windows\SYSTEM32
+712c0000 ashShell.dll                  22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+715b0000 winhttp.dll                   6.2.18362.449       C:\Windows\SYSTEM32
+71760000 WINNSI.DLL                    6.2.18362.449       C:\Windows\SYSTEM32
+71770000 ondemandconnroutehelper.dll   6.2.18362.1         C:\Windows\SYSTEM32
+71820000 Windows.Storage.Search.dll    6.2.18362.387       C:\Windows\system32
+718c0000 StructuredQuery.dll           7.0.18362.592       C:\Windows\System32
+71fd0000 WTSAPI32.dll                  6.2.18362.1         C:\Windows\SYSTEM32
+72150000 apphelp.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+72380000 thumbcache.dll                6.2.18362.1         C:\Windows\System32
+723d0000 dwmapi.dll                    6.2.18362.267       C:\Windows\SYSTEM32
+72400000 ntshrui.dll                   6.2.18362.329       C:\Windows\SYSTEM32
+725d0000 NetworkExplorer.dll           6.2.18362.1         C:\Windows\system32
+72bc0000 WININET.dll                   11.0.18362.418      C:\Windows\System32
+730b0000 srvcli.dll                    6.2.18362.1         C:\Windows\System32
+730f0000 tiptsf.dll                    6.2.18362.1         C:\Program Files (x86)\Common Files\microsoft shared\ink
+73300000 FLTLIB.DLL                    6.2.18362.1         C:\Windows\SYSTEM32
+73310000 CLDAPI.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+73330000 urlmon.dll                    11.0.18362.449      C:\Windows\System32
+734e0000 Windows.StateRepositoryPS.dll 6.2.18362.1         C:\Windows\System32
+73570000 edputil.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+73590000 DAVHLPR.dll                   6.2.18362.1         C:\Windows\System32
+735a0000 davclnt.dll                   6.2.18362.1         C:\Windows\System32
+735c0000 ntlanman.dll                  6.2.18362.1         C:\Windows\System32
+735e0000 drprov.dll                    6.2.18362.1         C:\Windows\System32
+736b0000 WindowsCodecs.dll             6.2.18362.1         C:\Windows\SYSTEM32
+73980000 mswsock.dll                   6.2.18362.1         C:\Windows\system32
+73ac0000 iertutil.dll                  11.0.18362.449      C:\Windows\SYSTEM32
+73cf0000 wintypes.dll                  6.2.18362.449       C:\Windows\SYSTEM32
+73dd0000 CoreUIComponents.dll          6.2.18362.207       C:\Windows\SYSTEM32
+74030000 CoreMessaging.dll             6.2.18362.1         C:\Windows\SYSTEM32
+740c0000 TextInputFramework.dll        6.2.18362.207       C:\Windows\SYSTEM32
+741f0000 twinapi.appcore.dll           6.2.18362.592       C:\Windows\system32
+743e0000 dxgi.dll                      6.2.18362.387       C:\Windows\system32
+744b0000 d3d11.dll                     6.2.18362.387       C:\Windows\system32
+74690000 aswhook.dll                   22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+746b0000 mpr.dll                       6.2.18362.1         C:\Windows\SYSTEM32
+74910000 ntmarta.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+74940000 cscapi.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74a70000 netutils.dll                  6.2.18362.1         C:\Windows\System32
+74ab0000 RMCLIENT.dll                  6.2.18362.267       C:\Windows\system32
+74ad0000 dxcore.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74af0000 dcomp.dll                     6.2.18362.387       C:\Windows\system32
+74c60000 dataexchange.dll              6.2.18362.1         C:\Windows\system32
+74ca0000 msls31.dll                    3.10.349.0          C:\Windows\SYSTEM32
+74ce0000 USP10.dll                     6.2.18362.476       C:\Windows\SYSTEM32
+74d00000 RICHED20.DLL                  5.31.23.1231        C:\Windows\SYSTEM32
+74d90000 comctl32.DLL                  6.10.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.592_none_2e6de868278ee708
+74fa0000 HHCtrl.OCX                    6.2.18362.1         C:\Windows\SYSTEM32
+75040000 uxtheme.dll                   6.2.18362.449       C:\Windows\system32
+750c0000 WINSTA.dll                    6.2.18362.53        C:\Windows\SYSTEM32
+75110000 winmmbase.dll                 6.2.18362.1         C:\Windows\SYSTEM32
+75140000 oledlg.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+75170000 winmm.dll                     6.2.18362.1         C:\Windows\SYSTEM32
+751c0000 version.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75200000 wsock32.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75210000 IPHLPAPI.DLL                  6.2.18362.1         C:\Windows\SYSTEM32
+75250000 PROPSYS.dll                   7.0.18362.267       C:\Windows\SYSTEM32
+75320000 winspool.drv                  6.2.18362.267       C:\Windows\SYSTEM32
+75390000 comctl32.dll                  5.82.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.592_none_71d995095ae1acb5
+75420000 CRYPTBASE.dll                 6.2.18362.1         C:\Windows\System32
+75430000 SspiCli.dll                   6.2.18362.1         C:\Windows\System32
+75450000 GDI32.dll                     6.2.18362.1         C:\Windows\System32
+75480000 SHELL32.dll                   6.2.18362.535       C:\Windows\System32
+75a00000 NSI.dll                       6.2.18362.449       C:\Windows\System32
+75a10000 USER32.dll                    6.2.18362.592       C:\Windows\System32
+75c40000 MSCTF.dll                     6.2.18362.535       C:\Windows\System32
+75d50000 win32u.dll                    6.2.18362.592       C:\Windows\System32
+75d70000 KERNEL32.DLL                  6.2.18362.329       C:\Windows\System32
+75e50000 sechost.dll                   6.2.18362.267       C:\Windows\System32
+75ed0000 bcryptPrimitives.dll          6.2.18362.295       C:\Windows\System32
+75f30000 msvcp_win.dll                 6.2.18362.387       C:\Windows\System32
+75fc0000 KERNELBASE.dll                6.2.18362.535       C:\Windows\System32
+761e0000 powrprof.dll                  6.2.18362.1         C:\Windows\System32
+76290000 oleaut32.dll                  6.2.18362.535       C:\Windows\System32
+76380000 UMPDC.dll                                         C:\Windows\System32
+76390000 SHLWAPI.dll                   6.2.18362.1         C:\Windows\System32
+76830000 clbcatq.dll                   2001.12.10941.16384 C:\Windows\System32
+768b0000 profapi.dll                   6.2.18362.1         C:\Windows\System32
+76930000 comdlg32.dll                  6.2.18362.418       C:\Windows\System32
+769e0000 gdi32full.dll                 6.2.18362.535       C:\Windows\System32
+76ba0000 windows.storage.dll           6.2.18362.535       C:\Windows\System32
+77170000 RPCRT4.dll                    6.2.18362.476       C:\Windows\System32
+77240000 shcore.dll                    6.2.18362.1         C:\Windows\System32
+772d0000 cryptsp.dll                   6.2.18362.1         C:\Windows\System32
+772f0000 msvcrt.dll                    7.0.18362.1         C:\Windows\System32
+773b0000 bcrypt.dll                    6.2.18362.267       C:\Windows\System32
+773d0000 cfgmgr32.dll                  6.2.18362.387       C:\Windows\System32
+77410000 combase.dll                   6.2.18362.449       C:\Windows\System32
+77690000 kernel.appcore.dll            6.2.18362.1         C:\Windows\System32
+777a0000 ole32.dll                     6.2.18362.113       C:\Windows\System32
+778a0000 imm32.dll                     6.2.18362.387       C:\Windows\System32
+778d0000 ucrtbase.dll                  6.2.18362.387       C:\Windows\System32
+77b70000 WS2_32.dll                    6.2.18362.387       C:\Windows\System32
+77bd0000 advapi32.dll                  6.2.18362.329       C:\Windows\System32
+77c60000 ntdll.dll                     6.2.18362.387       C:\Windows\SYSTEM32
+
+hardware:
++ {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+  - Cola de impresión raíz
+  - Fax
+  - Microsoft Print to PDF
+  - Microsoft Print to PDF (3 redireccionado(s))
+  - Microsoft XPS Document Writer
++ {36fc9e60-c465-11cf-8056-444553540000}
+  - Concentrador raíz USB
+  - Controladora de host universal de PCI a USB Intel(R) 82371SB
++ {4d36e965-e325-11ce-bfc1-08002be10318}
+  - QEMU QEMU DVD-ROM ATA Device
++ {4d36e966-e325-11ce-bfc1-08002be10318}
+  - Equipo basado en x64 ACPI
++ {4d36e967-e325-11ce-bfc1-08002be10318}
+  - QEMU HARDDISK ATA Device
++ {4d36e968-e325-11ce-bfc1-08002be10318}
+  - Adaptador de pantalla básico de Microsoft
+  - Microsoft Remote Display Adapter
++ {4d36e969-e325-11ce-bfc1-08002be10318}
+  - Controlador estándar de disquetes
++ {4d36e96a-e325-11ce-bfc1-08002be10318}
+  - ATA Channel 0
+  - ATA Channel 1
+  - Controladora IDE principal de bus PCI Intel(R) 82371SB
++ {4d36e96b-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de teclado de Escritorio remoto
+  - Teclado PS/2 estándar
++ {4d36e96e-e325-11ce-bfc1-08002be10318}
+  - Monitor genérico que no es PnP
+  - Monitor genérico que no es PnP
++ {4d36e96f-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de mouse de Escritorio remoto
+  - Mouse compatible con HID
+  - Mouse compatible PS/2
++ {4d36e972-e325-11ce-bfc1-08002be10318}
+  - Intel(R) PRO/1000 MT Network Connection
++ {4d36e97b-e325-11ce-bfc1-08002be10318}
+  - Controladora de espacios de almacenamiento de Microsoft
++ {4d36e97d-e325-11ce-bfc1-08002be10318}
+  - Administrador de volúmenes
+  - Botón de característica fija ACPI
+  - Bus de cámara de escritorio remoto
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus del Redirector de dispositivos de Escritorio remoto
+  - Bus PCI
+  - Contador de generación de Microsoft Hyper-V
+  - Controlador BIOS de Microsoft System Management
+  - Controlador de infraestructura de virtualización de Microsoft Hyper-V
+  - Controlador de pantalla básica de Microsoft
+  - Controlador de representación básica de Microsoft
+  - Dispositivo contenedor de procesador ACPI
+  - Enumerador de adaptador de red virtual NDIS
+  - Enumerador de bus compuesto
+  - Enumerador de bus raíz de UMBus
+  - Enumerador de dispositivos de software Plug and Play
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de unidades virtuales de Microsoft
+  - Puente de CPU a PCI
+  - Puente de PCI a ISA
+  - Puente PCI a PCI
+  - Puente PCI a PCI
+  - Remote Desktop USB Hub
+  - Sistema CMOS/reloj en tiempo real
+  - Sistema Microsoft compatible con ACPI
+  - VirtIO Serial Driver (driver 100.80.104.17300)
++ {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
++ {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+  - Microsoft Device Association Root Enumerator
+  - Microsoft Passport Container Enumeration Bus
+  - Microsoft Radio Device Enumeration Bus
+  - Microsoft RRAS Root Enumerator
+  - Sintetizador por software GS de tabla de onda de 
+  - Smart Card Device Enumeration Bus
++ {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+  - Dispositivo de entrada USB
++ {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+  - Audio remoto
+
+disassembling:
+004345ae sub_4345ae:                      ; function entry point
+004345ae > pop     edi
+004345af   pop     esi
+004345b0   pop     ebx
+004345b1   ret
+
+date/time         : 2022-09-29, 10:27:58, 25ms
+computer name     : MAQUINA10
+wts client name   : EDSON-NUC
+user name         : sistemas24
+operating system  : Windows NT New x64 build 9200
+system language   : Spanish
+system up time    : 16 days 16 hours 
+program up time   : 28 minutes 49 seconds 
+processors        : 4x Common KVM processor
+physical memory   : 10067/19999 MB (free/total)
+free disk space   : (C:) 5,92 GB 
+display mode      : 1920x1080, 32 bit
+process id        : $6e64
+allocated memory  : 90,75 MB
+executable        : ReportEditor.exe
+exec. date/time   : 2022-03-14 03:16
+version           : 1.1.0.11
+madExcept version : 2.7k
+exception class   : EConvertError
+exception message : '7/04/2021' is not a valid floating point value.
+
+main thread ($7c18):
+004345ae +000 ReportEditor.exe               
+006edb1e +1ee ReportEditor.exe madStackTrace AddStackItem
+75a33592 +122 USER32.dll                     GetWindowLongW
+77cd41cb +04b ntdll.dll                      KiUserCallbackDispatcher
+75a4e7ab +00b USER32.dll                     DispatchMessageA
+77366faf +08f msvcrt.dll                     _vsnwprintf_l
+762ae8bc +03c oleaut32.dll                   SysFreeString
+75a4e7ab +00b USER32.dll                     DispatchMessageA
+75d86357 +017 KERNEL32.DLL                   BaseThreadInitThunk
+
+thread $6214:
+75d5708c +0c win32u.dll    NtUserMsgWaitForMultipleObjectsEx
+75a3b939 +39 USER32.dll    MsgWaitForMultipleObjects
+75d86357 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+thread $1364:
+77cd1d9c +0c ntdll.dll       NtWaitForSingleObject
+760be2c3 +93 KERNELBASE.dll  WaitForSingleObjectEx
+760be21d +0d KERNELBASE.dll  WaitForSingleObject
+75d86357 +17 KERNEL32.DLL    BaseThreadInitThunk
+>> created by main thread ($7c18) at:
+7534122f +00 winspool.drv    
+
+modules:
+00400000 ReportEditor.exe              1.1.0.11            \\192.168.1.150\opt\lampp\htdocs\herramientas\impresora
+06f00000 gdiplus.dll                   6.2.18362.592       C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.592_none_5f58db4d822160d6
+707a0000 msxml3.dll                    8.110.18362.239     C:\Windows\System32
+708f0000 msi.dll                       5.0.18362.476       C:\Windows\SYSTEM32
+712c0000 ashShell.dll                  22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+715b0000 winhttp.dll                   6.2.18362.449       C:\Windows\SYSTEM32
+71760000 WINNSI.DLL                    6.2.18362.449       C:\Windows\SYSTEM32
+71770000 ondemandconnroutehelper.dll   6.2.18362.1         C:\Windows\SYSTEM32
+71790000 cscobj.dll                    6.2.18362.207       C:\Windows\System32
+71820000 Windows.Storage.Search.dll    6.2.18362.387       C:\Windows\system32
+718c0000 StructuredQuery.dll           7.0.18362.592       C:\Windows\System32
+71fd0000 WTSAPI32.dll                  6.2.18362.1         C:\Windows\System32
+72150000 apphelp.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+72380000 thumbcache.dll                6.2.18362.1         C:\Windows\System32
+723d0000 dwmapi.dll                    6.2.18362.267       C:\Windows\SYSTEM32
+72400000 ntshrui.dll                   6.2.18362.329       C:\Windows\SYSTEM32
+725d0000 NetworkExplorer.dll           6.2.18362.1         C:\Windows\system32
+72bc0000 WININET.dll                   11.0.18362.418      C:\Windows\System32
+730b0000 srvcli.dll                    6.2.18362.1         C:\Windows\System32
+730f0000 tiptsf.dll                    6.2.18362.1         C:\Program Files (x86)\Common Files\microsoft shared\ink
+73300000 FLTLIB.DLL                    6.2.18362.1         C:\Windows\SYSTEM32
+73310000 CLDAPI.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+73330000 urlmon.dll                    11.0.18362.449      C:\Windows\System32
+734e0000 Windows.StateRepositoryPS.dll 6.2.18362.1         C:\Windows\System32
+73570000 edputil.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+73590000 DAVHLPR.dll                   6.2.18362.1         C:\Windows\System32
+735a0000 davclnt.dll                   6.2.18362.1         C:\Windows\System32
+735c0000 ntlanman.dll                  6.2.18362.1         C:\Windows\System32
+735e0000 drprov.dll                    6.2.18362.1         C:\Windows\System32
+736b0000 WindowsCodecs.dll             6.2.18362.1         C:\Windows\SYSTEM32
+73820000 fwpuclnt.dll                  6.2.18362.113       C:\Windows\System32
+73930000 rasadhlp.dll                  6.2.18362.1         C:\Windows\System32
+73940000 wshbth.dll                    6.2.18362.1         C:\Windows\system32
+73950000 NLAapi.dll                    6.2.18362.1         C:\Windows\system32
+73970000 winrnr.dll                    6.2.18362.1         C:\Windows\System32
+73980000 mswsock.dll                   6.2.18362.1         C:\Windows\system32
+739e0000 pnrpnsp.dll                   6.2.18362.1         C:\Windows\system32
+73a00000 napinsp.dll                   6.2.18362.1         C:\Windows\system32
+73ac0000 iertutil.dll                  11.0.18362.449      C:\Windows\SYSTEM32
+73cf0000 wintypes.dll                  6.2.18362.449       C:\Windows\SYSTEM32
+73dd0000 CoreUIComponents.dll          6.2.18362.207       C:\Windows\SYSTEM32
+74030000 CoreMessaging.dll             6.2.18362.1         C:\Windows\SYSTEM32
+740c0000 TextInputFramework.dll        6.2.18362.207       C:\Windows\SYSTEM32
+74150000 DNSAPI.dll                    6.2.18362.267       C:\Windows\SYSTEM32
+741f0000 twinapi.appcore.dll           6.2.18362.592       C:\Windows\system32
+743e0000 dxgi.dll                      6.2.18362.387       C:\Windows\system32
+744b0000 d3d11.dll                     6.2.18362.387       C:\Windows\system32
+74690000 aswhook.dll                   22.8.7500.0         C:\Program Files\Avast Software\Avast\x86
+746b0000 mpr.dll                       6.2.18362.1         C:\Windows\SYSTEM32
+74910000 ntmarta.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+74940000 cscapi.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74a70000 netutils.dll                  6.2.18362.1         C:\Windows\System32
+74ab0000 RMCLIENT.dll                  6.2.18362.267       C:\Windows\system32
+74ad0000 dxcore.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+74af0000 dcomp.dll                     6.2.18362.387       C:\Windows\system32
+74c60000 dataexchange.dll              6.2.18362.1         C:\Windows\system32
+74ca0000 msls31.dll                    3.10.349.0          C:\Windows\SYSTEM32
+74ce0000 USP10.dll                     6.2.18362.476       C:\Windows\SYSTEM32
+74d00000 RICHED20.DLL                  5.31.23.1231        C:\Windows\SYSTEM32
+74d90000 comctl32.DLL                  6.10.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.592_none_2e6de868278ee708
+74fa0000 HHCtrl.OCX                    6.2.18362.1         C:\Windows\SYSTEM32
+75040000 uxtheme.dll                   6.2.18362.449       C:\Windows\system32
+750c0000 WINSTA.dll                    6.2.18362.53        C:\Windows\SYSTEM32
+75110000 winmmbase.dll                 6.2.18362.1         C:\Windows\SYSTEM32
+75140000 oledlg.dll                    6.2.18362.1         C:\Windows\SYSTEM32
+75170000 winmm.dll                     6.2.18362.1         C:\Windows\SYSTEM32
+751a0000 USERENV.dll                   6.2.18362.387       C:\Windows\System32
+751c0000 version.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75200000 wsock32.dll                   6.2.18362.1         C:\Windows\SYSTEM32
+75210000 IPHLPAPI.DLL                  6.2.18362.1         C:\Windows\SYSTEM32
+75250000 PROPSYS.dll                   7.0.18362.267       C:\Windows\SYSTEM32
+75320000 winspool.drv                  6.2.18362.267       C:\Windows\SYSTEM32
+75390000 comctl32.dll                  5.82.18362.592      C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.592_none_71d995095ae1acb5
+75420000 CRYPTBASE.dll                 6.2.18362.1         C:\Windows\System32
+75430000 SspiCli.dll                   6.2.18362.1         C:\Windows\System32
+75450000 GDI32.dll                     6.2.18362.1         C:\Windows\System32
+75480000 SHELL32.dll                   6.2.18362.535       C:\Windows\System32
+75a00000 NSI.dll                       6.2.18362.449       C:\Windows\System32
+75a10000 USER32.dll                    6.2.18362.592       C:\Windows\System32
+75c40000 MSCTF.dll                     6.2.18362.535       C:\Windows\System32
+75d50000 win32u.dll                    6.2.18362.592       C:\Windows\System32
+75d70000 KERNEL32.DLL                  6.2.18362.329       C:\Windows\System32
+75e50000 sechost.dll                   6.2.18362.267       C:\Windows\System32
+75ed0000 bcryptPrimitives.dll          6.2.18362.295       C:\Windows\System32
+75f30000 msvcp_win.dll                 6.2.18362.387       C:\Windows\System32
+75fc0000 KERNELBASE.dll                6.2.18362.535       C:\Windows\System32
+761e0000 powrprof.dll                  6.2.18362.1         C:\Windows\System32
+76290000 oleaut32.dll                  6.2.18362.535       C:\Windows\System32
+76380000 UMPDC.dll                                         C:\Windows\System32
+76390000 SHLWAPI.dll                   6.2.18362.1         C:\Windows\System32
+76830000 clbcatq.dll                   2001.12.10941.16384 C:\Windows\System32
+768b0000 profapi.dll                   6.2.18362.1         C:\Windows\System32
+76930000 comdlg32.dll                  6.2.18362.418       C:\Windows\System32
+769e0000 gdi32full.dll                 6.2.18362.535       C:\Windows\System32
+76ba0000 windows.storage.dll           6.2.18362.535       C:\Windows\System32
+77170000 RPCRT4.dll                    6.2.18362.476       C:\Windows\System32
+77240000 shcore.dll                    6.2.18362.1         C:\Windows\System32
+772d0000 cryptsp.dll                   6.2.18362.1         C:\Windows\System32
+772f0000 msvcrt.dll                    7.0.18362.1         C:\Windows\System32
+773b0000 bcrypt.dll                    6.2.18362.267       C:\Windows\System32
+773d0000 cfgmgr32.dll                  6.2.18362.387       C:\Windows\System32
+77410000 combase.dll                   6.2.18362.449       C:\Windows\System32
+77690000 kernel.appcore.dll            6.2.18362.1         C:\Windows\System32
+777a0000 ole32.dll                     6.2.18362.113       C:\Windows\System32
+778a0000 imm32.dll                     6.2.18362.387       C:\Windows\System32
+778d0000 ucrtbase.dll                  6.2.18362.387       C:\Windows\System32
+77b70000 WS2_32.dll                    6.2.18362.387       C:\Windows\System32
+77bd0000 advapi32.dll                  6.2.18362.329       C:\Windows\System32
+77c60000 ntdll.dll                     6.2.18362.387       C:\Windows\SYSTEM32
+
+hardware:
++ {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+  - Cola de impresión raíz
+  - Fax
+  - Microsoft Print to PDF
+  - Microsoft Print to PDF (3 redireccionado(s))
+  - Microsoft XPS Document Writer
++ {36fc9e60-c465-11cf-8056-444553540000}
+  - Concentrador raíz USB
+  - Controladora de host universal de PCI a USB Intel(R) 82371SB
++ {4d36e965-e325-11ce-bfc1-08002be10318}
+  - QEMU QEMU DVD-ROM ATA Device
++ {4d36e966-e325-11ce-bfc1-08002be10318}
+  - Equipo basado en x64 ACPI
++ {4d36e967-e325-11ce-bfc1-08002be10318}
+  - QEMU HARDDISK ATA Device
++ {4d36e968-e325-11ce-bfc1-08002be10318}
+  - Adaptador de pantalla básico de Microsoft
+  - Microsoft Remote Display Adapter
++ {4d36e969-e325-11ce-bfc1-08002be10318}
+  - Controlador estándar de disquetes
++ {4d36e96a-e325-11ce-bfc1-08002be10318}
+  - ATA Channel 0
+  - ATA Channel 1
+  - Controladora IDE principal de bus PCI Intel(R) 82371SB
++ {4d36e96b-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de teclado de Escritorio remoto
+  - Teclado PS/2 estándar
++ {4d36e96e-e325-11ce-bfc1-08002be10318}
+  - Monitor genérico que no es PnP
+  - Monitor genérico que no es PnP
++ {4d36e96f-e325-11ce-bfc1-08002be10318}
+  - Dispositivo de mouse de Escritorio remoto
+  - Mouse compatible con HID
+  - Mouse compatible PS/2
++ {4d36e972-e325-11ce-bfc1-08002be10318}
+  - Intel(R) PRO/1000 MT Network Connection
++ {4d36e97b-e325-11ce-bfc1-08002be10318}
+  - Controladora de espacios de almacenamiento de Microsoft
++ {4d36e97d-e325-11ce-bfc1-08002be10318}
+  - Administrador de volúmenes
+  - Botón de característica fija ACPI
+  - Bus de cámara de escritorio remoto
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus de ES extendido
+  - Bus del Redirector de dispositivos de Escritorio remoto
+  - Bus PCI
+  - Contador de generación de Microsoft Hyper-V
+  - Controlador BIOS de Microsoft System Management
+  - Controlador de infraestructura de virtualización de Microsoft Hyper-V
+  - Controlador de pantalla básica de Microsoft
+  - Controlador de representación básica de Microsoft
+  - Dispositivo contenedor de procesador ACPI
+  - Enumerador de adaptador de red virtual NDIS
+  - Enumerador de bus compuesto
+  - Enumerador de bus raíz de UMBus
+  - Enumerador de dispositivos de software Plug and Play
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de UMBus
+  - Enumerador de unidades virtuales de Microsoft
+  - Puente de CPU a PCI
+  - Puente de PCI a ISA
+  - Puente PCI a PCI
+  - Puente PCI a PCI
+  - Remote Desktop USB Hub
+  - Sistema CMOS/reloj en tiempo real
+  - Sistema Microsoft compatible con ACPI
+  - VirtIO Serial Driver (driver 100.80.104.17300)
++ {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
+  - Common KVM processor
++ {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+  - Microsoft Device Association Root Enumerator
+  - Microsoft Passport Container Enumeration Bus
+  - Microsoft Radio Device Enumeration Bus
+  - Microsoft RRAS Root Enumerator
+  - Sintetizador por software GS de tabla de onda de 
+  - Smart Card Device Enumeration Bus
++ {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+  - Dispositivo de entrada USB
++ {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+  - Audio remoto
+
+disassembling:
+004345ae sub_4345ae:                      ; function entry point
+004345ae > pop     edi
+004345af   pop     esi
+004345b0   pop     ebx
+004345b1   ret
+

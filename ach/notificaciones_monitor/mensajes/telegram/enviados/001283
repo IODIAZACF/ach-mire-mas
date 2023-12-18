@@ -1,0 +1,50 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 330
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263718
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBSl8GiKaov26hZlG-612DnXgVX8zVAAKDqDEbjCo4RAMI-sj6OXB6sfRrBgAEAQADAgADbQADr70EAAEaBA
+                            [file_unique_id] => AQADsfRrBgAEr70EAAE
+                            [file_size] => 8329
+                            [width] => 320
+                            [height] => 207
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBSl8GiKaov26hZlG-612DnXgVX8zVAAKDqDEbjCo4RAMI-sj6OXB6sfRrBgAEAQADAgADeAADsb0EAAEaBA
+                            [file_unique_id] => AQADsfRrBgAEsb0EAAE
+                            [file_size] => 37260
+                            [width] => 800
+                            [height] => 518
+                        )
+
+                )
+
+            [caption] => Broche redondo metalico bronce  personalizado con fondo rayas..
+Precio: 6.000000
+        )
+
+)

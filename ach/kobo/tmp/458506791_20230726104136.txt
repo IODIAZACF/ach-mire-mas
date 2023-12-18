@@ -1,0 +1,81 @@
+stdClass Object
+(
+    [_id] => 458506791
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-07-19T12:59:37.168-05:00
+    [end] => 2023-07-26T10:41:32.818-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => LA LLANADA
+    [group_gu1lq88/Otros_Municipios] => Samaniego, Los Andes y sus alrededores
+    [group_gu1lq88/Vereda] => EL VERGEL
+    [group_gu1lq88/Nombre_de_la_comunidad] => Población venezolana y colombiana
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-07-26
+    [group_gu1lq88/Nombre_de_quien_reporta] => Wendy Rubiano
+    [group_gu1lq88/Cargo] => Acción contra el hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Amenazas GANE
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Se ha identificado la circulación de un panfleto de amenaza del grupo GANE, dirigido a la población venezolana y colombiana en los municipios de Samaniego, La Llanada, Los Andes y áreas cercanas. El panfleto otorga un plazo de 72 horas para abandonar la región. Como resultado de esta situación, más de 300 personas, correspondientes a 100 familias venezolanas de los municipios de La Llanada y Samaniego, se han desplazado debido al temor a posibles afectaciones y retaliaciones por parte del GANE.
+
+Hasta la fecha, se ha registrado la llegada de 35 personas, pertenecientes a 8 familias, al municipio de Pasto (8 mujeres, 7 hombres, 8 niñas y 7 niños). Sin embargo, se desconoce el paradero de las 265 personas restantes, y se ha alertado que han continuado su camino caminando o utilizando transporte intermunicipal con recursos propios, con destino a otras áreas del interior de Colombia y hacia la frontera con Venezuela.
+
+De los 8 grupos familiares que llegaron a la ciudad de Pasto, tres han continuado su tránsito con recursos propios sin realizar declaración y activación de la ruta de atención, lo que requiere una atención y seguimiento especial por parte de las autoridades competentes.
+    [group_yv1ph08/time2] => 2023-07-18
+    [group_yv1ph08/time3] => 8
+    [group_yv1ph08/evidencia] => proteccion wash san shelter
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Alimentación
+    [group_cn9za51/familias] => 100
+    [group_cn9za51/personas] => 300
+    [group_cn9za51/comu] => 3
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por actualizar
+    [group_mu9ho06/Seguridad] => Amenazas
+    [group_mu9ho06/Operativa] => Por actualizar
+    [group_mu9ho06/Observaciones] => Por actualizar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:86d2f6f5-a514-4214-acc6-b2f30b4761ea
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 86d2f6f5-a514-4214-acc6-b2f30b4761ea
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-07-26T15:41:34
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

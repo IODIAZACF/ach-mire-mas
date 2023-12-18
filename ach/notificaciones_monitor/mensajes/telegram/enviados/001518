@@ -1,0 +1,49 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 446
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 931147895
+                    [first_name] => eduardo
+                    [last_name] => gonzalez
+                    [type] => private
+                )
+
+            [date] => 1594586423
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBvl8LdTfan-ZJ6M8lxnaOsg7BiXrAAAKeqDEbgDcwROZJ3pqAhfgbb9JuBgAEAQADAgADbQADggoDAAEaBA
+                            [file_unique_id] => AQADb9JuBgAEggoDAAE
+                            [file_size] => 10586
+                            [width] => 320
+                            [height] => 218
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBvl8LdTfan-ZJ6M8lxnaOsg7BiXrAAAKeqDEbgDcwROZJ3pqAhfgbb9JuBgAEAQADAgADeAADgwoDAAEaBA
+                            [file_unique_id] => AQADb9JuBgAEgwoDAAE
+                            [file_size] => 50838
+                            [width] => 800
+                            [height] => 545
+                        )
+
+                )
+
+            [caption] => Hebilla personalizada color dorado con detalle de dos circulos dorados  fondo negro------------------------------Especificaciones: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Precio: 10.00
+        )
+
+)

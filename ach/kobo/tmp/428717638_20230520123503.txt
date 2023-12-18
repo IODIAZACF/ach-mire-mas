@@ -1,0 +1,193 @@
+stdClass Object
+(
+    [_id] => 428717638
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-05-19T17:30:17.484-05:00
+    [end] => 2023-05-20T12:34:59.727-05:00
+    [group_kp1mu41/_1_C_digo] => CHAL-718.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-05-19
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-05-21
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-05-09
+    [group_kp1mu41/_4_Departamento] => CHOCO
+    [group_kp1mu41/CHOCO] => ALTO_BAUDO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => RESGUARDO JURUBIRA CHORI – COMUNIDADES:  FELICIA, DIVISA , MOHAMIA ,MIACORA CHIMIA, MIACORA CENTRAL, ENSENADA, SANTA MARIA DE CONDOTO , CRISTIANO, PUERTO MANZO, PLAYA BONITA, AJIDO, CHIVIGUIDO
+    [group_kp1mu41/num_comunidades] => 13
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => Aun se encuentran el diligenciamientos de los anexos y tomas de declaración
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Wendy Carabali Gonzalias
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3228809070
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R.2_EeE R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC 5-R1-1.1-2-2_Prestacion_de_apoyo_directo_a_las_autoridades__NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2023-03-21
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2023-05-09
+    [group_wo86e58/group_hc3sa85/vacios_icla] => Vacíos en la Respuesta: 
+
+1.La falta de activación temprana por parte de la institucionalidad en escenarios de riesgo principalmente de lideres y lideresas, se observa que no hay una claridad en cuanto al modo de proceder en estas situaciones de riesgo. 
+
+2. Se observo poca presencia institucional en las comunidades atendidas, lo que ocasiona obstáculos para el acceso a derechos de las comunidades. 
+
+3. Dificultades para acceder a los servicios de salud e instituciones publicas, debido a las largas distancias que deben recorrer las personas hasta llegar al municipio.
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => 1.	Promover la activación las rutas de atención de la población victima del conflicto armado y personas en riesgos, a la brevedad, puesto que, la tardanza en la activación retrasa la atención en momentos de emergencias de las comunidades y su acceso a derechos. 
+2. Promover espacios que garanticen el derecho a la identidad legal de las comunidad indígenas, pues se observo, un numero considerable de personas que requieren acceder a diferentes servicios para garantizar su identidad. 
+
+2.	Fortalecer los lazos de comunicación y cooperación de la institucionalidad con las comunidades con el ánimo de fomentar la recuperación psicosocial, la inclusión ciudadana.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2023-03-21
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2023-05-09
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => VACIOS EN LA RESPUESTA DE EDUCACIÓN EN EMERGENCIAS
+
+•	Se evidencia la falta de material pedagógico, mobiliario y deportivo en las escuelas atendidas, las condiciones de infraestructura están en pésimo estado y en gran parte de las comunidades el espacio de aprendizaje es prestado por las mismas al no contar con una escuela o espacio educativo, donde las condiciones de seguridad ponen en riesgo de sufrir accidentes a los estudiantes y docentes, pisos de madera con tablas partidas, acceso inseguro, sillas incompletas, etc.
+•	Contrataciones tardías del personal docente de hasta tres meses reduciendo aun más la prestación del servicio educativo en las diferentes comunidades, violando así el derecho a la educación y la igualdad de los NNA en este territorio.
+•	Demora y mala prestación del servicio de alimentación escolar PAE.
+•	Ocupación de los espacios de aprendizaje de parte de los GANE en su paso por las comunidades lo que es una violación al DIH.
+•	Espacios de alojamiento inadecuados, carentes de comodidades mínimas, para los docentes afrodescendientes que llegan a prestar su servicio en las sedes principales.
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => RECOMENDACIONES PARA EL SECTOR DE EeE
+•	Mayor incidencia en el seguimiento de las condiciones estructurales de prestación del servicio en las sedes intervenidas, para que se cumplan las mínimas condiciones de dignidad en los establecimientos educativos.
+•	Dotación de suministro eléctrico a través de paneles solares a las escuelas y servicio de internet con computadores para el aprendizaje de nuevas tecnologías.
+•	Visibilizar las sedes educativas de manera adecuada, para que sean reconocibles y respetadas como lo dicta el DHI.
+•	Diseño e implementación de estrategias de modelos educativos flexibles, que permitan a la gran cantidad de jóvenes que no han logrado terminar sus estudios, en especial mujeres, hacerlo.
+•	Avanzar en los procesos de contratación de los docentes de manera rápida al iniciar cada año escolar.
+•	Hacer seguimiento de los PAE.
+•	Realización de jornadas de atención psicológica para NNA, de manera periódica y programada para dar atención a los casos mencionados en tema de consumo de sustancias, baja autoestima y prevención de suicidios. Igualmente, para motivar la realización de proyectos de vida y continuidad de estudios, ya que principalmente las menores de edad suelen abandonar sus estudios al ser llevadas a buscar pareja desde muy niñas.
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2023-04-25
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2023-04-26
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => N.A
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => N.A
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.3-27-5/Identificación_y_asistenci
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-04-26
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-05-08
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => 1. Ausencia de agentes comunitarios de salud (actualmente en formación temprana) para la gestión de casos y capacidad instalada, exceptuando SM de Condoto.
+2. Limitación para el acceso a servicios de salud de forma crónica, agravada por factores económicos asociados a la situación actual de orden público.
+2. Pobre red de apoyo entre las comunidades y al interior de las mismas.
+3. Desinterés y desinformación en temas de SSR influenciada por el contexto y los gobiernos comunitarios. Presentación de embarazos no deseados.
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => Manifestamos preocupación por el deterioro de la salud mental en los embera, y la implementación de la conducta suicida como mecanismo de afrontamiento lo cual ya se esperaba en estudios realizados a la cultura. Profundizar nuestros ejercicios en enfoque diferencial sin olvidar el enfoque psicosocial de nuestras acciones es clave para crear e implementar nuevas herramientas para abordar la que hasta ahora se percibe como la consecuencia más dura del conflicto armado en esta cultura.
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de atención de emergencia por confinamiento en 13 comunidades ubicadas en el resguardo indígena Jurabira Chiri desde la competencia ICLA se realizó estrategia jurídico pedagógica para el conocimiento, acceso, exigibilidad derechos, activación de rutas de atención administrativa de reparación y atención a población víctima del conflicto armado, así como asistencia y orientación a la población víctima del conflicto con necesidades jurídicas. 
+
+●	Estrategia Jurídico pedagógica para el conocimiento, acceso y exigibilidad de derechos de población víctima del conflicto armado. 
+
+Se realizaron talleres formativos sobre mecanismos de exigibilidad derechos fundamentales, orientados a la identificación de riesgos en el marco del conflicto armado, rutas de atención e instituciones responsables de la asistencia y atención de la población. Dichos talleres contaron con la asistencia de 356 personas (186 hombres-179 mujeres).
+
+Los talleres formativos se desarrollaron bajo la temática de la ley 1448 de 2011 y el decreto étnico 4633 de 2011, esto con el objetivo de fomentar el conocimiento y acceso a derechos de la población víctima del conflicto armado, así como la identificación de posibles riesgos y los ya materializados. Espacios que tienen como objetivo empoderar y fortalecen los roles de liderazgo de las comunidades, el afrontamiento de crisis agudas en situaciones de emergencias, la capacidad de resiliencia y recuperación de la población. 
+
+●	Asistencia y Orientación Legal
+
+En respuesta esta respuesta se identificaron personas con necesidades jurídicas, a las que se les ha brindado asistencia y orientación legal conforme a los riesgos y necesidades de protección identificadas, orientaciones brindadas a 365 personas.  
+
+Es importante resaltar que las acciones de asistencia y orientación desarrolladas a la fecha se reportan de manera parcial, puesto que son actividades que se encuentran desarrollando hasta la actualidad. 
+
+Se destacaba que en el desarrollo de esta atención se identificaron  (12) menores de edad sin identidad legal y más de 30 personas con necesidades de cambio de documentación (Por deterioro de su documento de identidad, cambio de documento en razón a su edad, perdida e documentos, entre otras), por ellos, desde la competencia ICLA se ha brindado las herramientas técnicas para el acceso a este derecho y se realizo incidencia ante la registraduría nacional, que tuvo como objetivo la solicitud de jornada de registro en el resguardo Indígena Jurubira Chori.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => Se brindo Apoyo a la Personería municipal de Alto Baudó, con el objetivo de fortalecer la capacidad de respuesta de las autoridades locales, donde se superó los obstáculos para la verificación acceso a derechos y activación de ruta administrativa de atención a población víctima del conflicto armado, donde se beneficiaron 487 de las comunidades Puesto indio y La Felicia.
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Se entregaron 900 kits tiempo libre a NNAJ de las 13 comunidades con el objetivo que pudieran contar con materiales y elementos de apoyo para la realización de actividades extracurriculares, motivando así el buen uso del tiempo libre. Contenidos del kit como la cartilla leo y escribo y cuidándonos en la emergencia buscó reforzar y complementar temáticas escolares. Entrega de kits que se distribuyó así: 
+
+Mohamia: 24 
+Miacora Chimia: 146
+ Miacora Central: 119
+Ensenada: Ensenada
+Santa Maria Condoto: 258
+Cristiano: 23
+ Puerto Manso: 11
+ Playa Bonita: 21
+Ajido: 21
+Cogucho: 140
+Chiviguido: 18
+Felicia: 42
+Divisa: 64
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Cantidad: 877
+En todas las comunidades, excepto Cristiano a la cual no se pude llegar por riesgos de seguridad, se realizaron jornadas de trabajo con los NNA, donde las principales temáticas trabajadas se relacionaron con riesgos de protección por la presencia de artefactos explosivos (Minas antipersonal, municiones sin explosionar y trampas explosivas) alrededor de las comunidades y promoción del autocuidado con la prevención de la explotación y el abuso infantil con temas como “Mi cuerpo es territorio sagrado” y ejercicios para trabajar la recuperación emocional para contar con herramientas claves para la gestión de emociones durante las emergencias.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Cantidad: 74
+Se realizó formación de Educación en Emergencias en primera fase a 74 docentes y Agentes Educativos comunitarios (AEC), de las 13 comunidades focalizadas, en algunas se les apoyo con el transporte para concentrarles en la sede principal de la Institución o Centro educativo. Estas se llevaron a cabo en jornadas acordes a los tiempos definidos con los docentes y AEC.
+aun en situaciones de emergencia y actividades que, desde el enfoque étnico, cultural y lúdico, permitieran la atención emocional ligada a las actividades escolares, conformándose alrededor de la escuela, un espacio protector y sanador de malas experiencias vividas por los riesgos relacionados con el conflicto armado y el confinamiento que atraviesan las comunidades.
+Con estas acciones se desea dejar capacidad instalada que permita dar respuesta a las afectaciones causadas en los niños, niñas, adolescentes (NNA) al igual que al personal docente y AEC, que les permita tener herramientas de afrontamiento para una mejor resiliencia, a través de una metodología práctica, que busca rescatar los conocimientos propios de las comunidades desde sus prácticas tradicionales culturales como la utilización de artesanía, danzas y juegos tradicionales.
+De la mano con los participantes, se construyo un plan de respuesta educativo en la emergencia para desarrollar en las sedes educativas y al interior de las comunidades, como estrategia de respuesta a los riesgos de protección que enfrentan los estudiantes debido al contexto de conflicto armado en la zona.
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => Cantidad: 7 
+Se entregaron 7 maletas pedagógicas a los centros educativos de Mohamia, Miacora Central, Miacora Chimia, Santa María de Condoto, Divisa Baudó, Felicia y cristiano, que contenían elementos deportivos, musicales y material fungible para el apoyo a actividades escolares y el desarrollo de las estrategias educativas y comunitarias planteadas en el plan de respuesta educativo.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => Se brindo a la Unidad para la atención y reparación integral a las víctimas apoyo para el transporte de Kits alimentarios a 26 comunidades de Alto Baudó.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => •	La misión se efectuó en 3 puntos de atención del municipio de Alto Baudó, tenía como propósito atención médica de emergencia para 7 comunidades indígenas (Santa María de Condoto, Cristiano, Miacora Chimia, Miacora Central, Miacora Mohamia, Felicia y Divisa).
+•	En el desarrollo de las acciones desarrolladas por MdM en las comunidades referidas se realizó atención de emergencias, por tanto, fue fundamental el diálogo con la comunidad, lideres y autoridades indígenas de las mismas para dejar claro el tipo de atención que se iba a realizar basándonos en el modelo hospitalario de triage.
+•	El grupo étnico principalmente atendido fue indígena Embera Dobida con más del 99%. No se identificaron pacientes con identidad u orientación sexual diversa.
+•	En total se realizaron 139 consultas de triage, de las cuales 91 correspondieron a casos que requerían atención de urgencia y 11 consultas de planificación familiar
+•	Se atendieron un total de 6 pacientes gestantes, todas ellas con deseo de continuar su embarazo y acceder a control prenatal. Todas las pacientes atendidas no contaban con ningún control prenatal, se brindó servicio de toma de pruebas rápidas, consulta médica y entrega de micronutrientes, además se realizó remisión a servicio de ginecología, por tratarse de embarazos de alto riesgo, la cual debe de hacerse por medio de la EPS correspondiente.
+•	Los principales diagnósticos encontrados fueron: Gastroenteritis, Infección Respiratoria Aguda, Infección de vías urinarias y parasitosis intestinal; muchas de estas patologías son reflejo de las dificultades que presentan estas comunidades para acceso a agua segura y saneamiento, es de resaltar que durante la atención realizada en la comunidad de Felicia fue evidente el pico respiratorio por el cual estaban pasando. 
+•	Se realizaron 14 remisiones a centros de salud para valoración especializada, de estas 6 corresponden a gestantes atendidas con alto riesgo obstétrico que fuera de la valoración por ginecología requiere ingresar al programa de control prenatal según Resolución 3280 de 2018. 
+•	No se realizaron evacuaciones médicas de emergencia para esta misión.
+•	Se destaca el caso de una gestante de 5 semanas quien accede a IVE farmacológico, previa asesoría psicológica y médica la cual fue acompañada con traductora de modo que quedara de manera clara y explicita la naturaleza del procedimiento, forma de administración y posibles efectos adversos.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => Entrega de Medicamentos	99
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => •	Se llevaron a cabo talleres por parte de psicología con 227 asistentes en 4 días efectivos de atención buscando promocionar la salud mental en el contexto y generar elementos para el manejo efectivo de problemas dejando algunas capacidades instaladas en la zona con relación a este aspecto. De igual forma se buscó realizar fortalecimiento cultural como una estrategia de afrontamiento de problemas alternativa a la ideación suicida que se ha venido presentando.
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => 2 casos identificados
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => Sin disponibilidad
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => Sin disponibilidad
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => Sin disponibilidad
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => No se observo necesidad
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => Sin disponibilidad
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => Sin disponibilidad
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => UARIV
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => ALIMENTACION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Se realizo apoyo de transporte para entrega de paquetes alimentarios.
+    [group_ob0im32/b_Nombre_de_la_entidad] => Medicos sin forntera
+    [group_ob0im32/a_Sector_en_el_que_se_intervino_001] => SALUD
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_001] => Remisión de casos identificados, teniendo en cuenta el proyecto que llevan en el territorio.
+    [group_ob0im32/c_Nombre_de_la_entidad] => Personeria Municipal
+    [group_ob0im32/c_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_002] => Remisión de caso de persona en riesgo.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => ACCESIBILIDAD OTRAS
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Las comunidades se encuentran ubicadas a más de siete horas del municipio lo que dificulto el acceso del staff, kits y material necesario para el desarrollo de las actividades.
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Disponer de tres días para el ingreso a las comunidades.
+    [group_zj0tq00/_Cu_les_Otras] => Dificultades climáticas
+    [group_zj0tq00/Dificultades_encontradas_Otras] => La sequia provoco que el ingreso del material fuese complejo.
+    [group_zj0tq00/Medidas_adoptadas_Otras] => Ajustar la agenda conforme el caudal del río
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 1
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 1
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 1
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 1
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1
+    [group_kq5co41/group_wc9ei25/c_Virtual_Individual] => 0
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => CRISTIAN TAPI CONDE
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3135108867
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Organización Indigena ACIACOT
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Tatiana Jaramillo
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 3137000708
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Alcaldía Municipal
+    [group_ek1nq87/Observaciones] => Se destaca que, en el desarrollo de la atención el sector de educación en articulación con Shelter realizaron diseño y construcción de espacio temporal para el aprendizaje seguro en la comunidad de Mahomía, con el animo de garantizar espacios seguros y dignos a 23 estudiantes de esta comunidad.
+ Es de resaltar que este espacio fue dotado con mobiliario escolar y fue construido con el apoyo de la minga comunitaria.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:82506621-3d72-41fe-a154-0e618e1e7f58
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 82506621-3d72-41fe-a154-0e618e1e7f58
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-20T17:35:02
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

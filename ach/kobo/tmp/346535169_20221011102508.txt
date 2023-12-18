@@ -1,0 +1,178 @@
+stdClass Object
+(
+    [_id] => 346535169
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2022-10-10T08:22:08.715-05:00
+    [end] => 2022-10-11T10:23:21.857-05:00
+    [group_kp1mu41/_1_C_digo] => NASA-472.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2022-09-14
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-07-08
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-09-14
+    [group_kp1mu41/_4_Departamento] => NARIÑO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Roberto Payán
+    [group_kp1mu41/num_comunidades] => 17
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => TODAS
+    [group_kp1mu41/_8_Comunidad] => Cacagual (Sí FUD), Guacuco Mialo (Sí FUD), Gualpi Catalina (Sí FUD), Piri Espumero (Sí FUD), Piscaunde (Sí FUD), Piri Brisas (Sí FUD), Sirena (Sí FUD), Conquista 1 (Sí FUD), Conquista 2 (Sí FUD), Conquista 3 (Sí FUD), Negrito (Sí FUD), Piri Brisas (Sí FUD), Piri Delicias (Sí FUD), Piri Paraíso (Sí FUD), Piri Unión (Sí FUD), Vuelta Larga (Sí FUD) Y Yacun (Sí FUD)
+    [group_kp1mu41/Urbano_Rural] => urbano
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Raul Camilo Villate
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3102166465
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_VBG R1_Proteccion_PR R1_Proteccion_NNAJ R.2_EeE R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC 5-R1-1.1-2-2_Prestacion_de_apoyo_directo_a_las_autoridades__NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-07-08
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-07-17
+    [group_wo86e58/group_hc3sa85/vacios_icla] => N/A
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases 2-R1-1.2-4-7/Entrega_de_kits_de_dignidad
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2022-07-08
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2022-09-09
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => Es importante poder fortalecer la atención por parte de las entidades municipales sobre los tipos y rutas de VBG, para poder brindar una atención integral a las victimas
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-11/Evaluación_de_riesgos 2-R1-1.3-5-12/Asesoramiento_jurídico 2-R1-1.3-5-13/Apoyo_psicosocial_(individ 2-R1-1.3-5-14/Apoyo_logístico_y_financie 2-R1-1.3-5-15/Persona_en_Riesgo_-Efectiv
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2022-07-08
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2022-09-09
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => La institucionalidad encabezada por la personería municipal, solicitó un espacio de formación sobre normativa y rutas de victimas (L. 1448/11) para los funcionarios y poder fortalecer estrategias de atención y activaciones de rutas para que las comunidades victimas puedan conocer sus derechos y rutas de atención, sin embargo, cuando el consorcio estuvo en la cabecera municipal no se formalizó la jornada por disponibilidad de los funcionarios de la alcaldía. Por tal razón es importante poder articular los espacios con entidades del ministerio publico o entidades del orden nacional.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i4] => 2-R1-1.4-7-23/NNJ_con_acceso_a_los_servi
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_NNAJ] => 2022-07-08
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_NNAJ] => 2022-09-09
+    [group_wo86e58/group_hc3sa85/Vacios_NNAJ] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendaciones_NNAJ] => Se recomienda fortalecer temáticas y/o redes educativas de protección de NNAJ en los entornos educativos, en especial las escuelas veredales, fortalecer estos espacios con el sector de EeE permitió generar capacidades por parte de los docentes o AEC.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-07-08
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-09-16
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => N/A
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => 1. Continuidad en el desarrollo de las estrategias enmarcadas en el plan de respuesta educativo en emergencias con los NNA que aún se encuentran en condición de desplazamiento.
+
+2. Desarrollo de las estrategias del plan de respuesta educativo en las escuelas de las comunidades que retornaron voluntariamente.
+
+3.  Acompañamiento a docentes y agentes educativos comunitarios en el desarrollo del pan educativo en emergencias por parte de la coordinación de educación y enlace de víctimas.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.4-20-6d-Protocolos_manejo 2-R4-4.5-21-7a-Medidas_lavado_de_manos
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2022-07-08
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2022-07-19
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => Desde el sector de WASH de Alianza por la Solidaridad y el enlace de víctimas se realiza incidencia en con DRC por la obra de saneamiento en albergue municipal debido a que se presentan problemas de malos olores por tubería de descole de saneamiento expuesta. desde MIRE no fue posible realizar actividades debido a que la obra posee garantía por una póliza de estabilidad de la obra. Se hará monitoreo, pero la institucionalidad deberá hacer vigilancia también.
+El albergue municipal tiene problemas de inundación debido al ala derecha de la cubierta por dónde ingresa el agua lluvia, pero también por la vivienda aledaña. Posible solución hasta donde se pueda alargar la cubierta y en la casa contigua instalar canal de aguas lluvias.
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => Los residuos sólidos también son un problema para el municipio, pues el aumento de personas en el casco urbano trae aumento de estos residuos que no son evacuados a tiempo lo que ha generado un aumento en la proliferación de vectores (Ratas, Moscas, Zancudos)
+Desde la Institucionalidad se deben verificar continuamente las condiciones de los albergados en temas de hábitat e higiene, sobre todo en la disposición de los residuos sólidos que también está generando proliferación de vectores.
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2c/Paquete_alimentario_por_c 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2022-07-08
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2022-07-17
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => N/A
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => Las 17 comunidades manifestaron la necesidad de recibir alimentos perecederos, sin embargo, es importante que desde la institucionalidad municipal y departamental se puedan evaluar estrategias de retorno seguro al territorio, donde las comunidades poseen zonas de producción agropecuaria y podrán aumentar el acceso y disponibilidad de alimentos perecederos.
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.2-26-4/Asesoramiento_y_sesiones_a
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2022-07-08
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2022-07-15
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => N/A
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => N/A
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => Desde el sector de ICLA (información, orientación y asistencia legal) se realizaron atenciones en las 17 comunidades afectadas por el desplazamiento en:
+•	Formación en módulos de ley de víctimas, decretos étnicos, reparación colectiva y mecanismos de exigibilidad de derechos a 18 líderes/lideresas y 15 docentes/AEC, con una participación total de 33 personas con liderazgo en las 16 comunidades. 
+•	Espacios de información en normatividad de víctimas (L.1448/11 y Dto. 4635/11) a 180 personas pertenecientes a las comunidades desplazadas. 
+•	Orientación a 34 personas de la emergencia, de las cuales 18 fueron asistidas legalmente en asuntos relacionados con actualización de datos, asistencia humanitaria, indemnización.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => •	Apoyo directo a la personería municipal para remisión de declaración de 5 personas.
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => Se realiza identificación a casos de VBG mediante apoyo de líderes y lideresas que desarrollan acciones de protección, gestión y/o orientación ante las necesidades de mujeres y hombres de sus comunidades.
+    [group_of2sk15/group_cf63e32/_4_Provisi_n_de_respuesta_y_seguimiento_a_casos_de_riesgo_o_sobrevivientes_de_VBG_ApS] => Los casos de VBG identificados mediante apoyo de los líderes y lideresas contaron con el respaldo frente al seguimiento presencial del estado físico y emocional de las sobrevivientes, esto mediante sensibilización en PAP a líderes y lideresas
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => Del caso identificado de PR se brinda atención conforme a la dinámica emocional y familiar del afectado, permitiendo la identificación de redes de apoyo con el fin de fortalecer la respuesta inicialmente dada
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Entrega kit docente - 35
+Entrega de kit de ocupación del tiempo libre	- 300
+Maleta pedagógica - 1
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => A través de la agenda intersectorial que se montó y con apoyo de enlace de víctimas se convocó a todas las comunidades para que los NNA pudieran participar de manera organizada. Las actividades se realizaron durante 4 días, se convocaron 4 comunidades por día, 2 en la jornada de la mañana y 2 en la tarde con una duración de 4 horas por comunidad. 
+Los espacios seguros de aprendizaje se dividieron en 2 escenarios, la primera se basó en actividades propuestas por los docentes en el plan de respuesta educativo dinamizada por docentes y algunos AEC que hicieron parte de la formación, las cuales estuvieron focalizadas al componente de conexión comunitaria con el propósito de fortalecer la recuperación emocional y las redes comunitarias (Canto y música para la vida, rondas tradicionales), el segundo escenario se enfocó a actividades de protección y  aprendizaje seguro de acuerdo a los riesgos identificados en la ERN: Técnicas de visualización  para la recuperación emocional, expresión, manejo y gestión de emociones, riesgos de protección y comportamientos seguros, cuido mi cuerpo trabajado con la cartilla cuidándome en emergencia y lógica matemática a través del juego.
+ Estas actividades fortalecieron la recuperación emocional de los NNA afectados por la situación de desplazamiento, la comprensión de los riegos de protección y comportamientos seguros a tener en cuenta, promoción de la lógica matemática reconocimiento y fortalecimiento de sus tradiciones con las actividades planteadas en el plan educativo de respuesta.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => En articulación con la coordinación de educación, la institución Educativa San José del Telembi, enlace de víctimas, líderes y lideresas de las comunidades afectadas por la situación de desplazamiento, se realizó la convocatoria de docentes y AEC para el espacio de formación de educación en emergencias. Los docentes y AEC priorizados hacen parte de las escuelas y comunidades afectadas por la situación de desplazamiento.
+El espacio se realizó durante 2 días y medio, la mayoría de docentes de las comunidades afectadas no pudieron participar de la formación debido a que se encontraban inactivos por el calendario escolar, la formación estuvo enfocada a fortalecer conocimientos en EeE, teniendo en cuenta que la mayoría de los participantes hicieron parte de la formación realizada en la emergencia anterior del 2021. Los módulos que se fortalecieron fueron los siguientes: Introducción conceptual a la Educación en emergencias, Práctica Pedagógica y Comunitaria y Ruta Pedagógica para la Respuesta en la Emergencia aguda; en cada módulo se trabajaron varias temáticas sin embargo se hizo un especial énfasis en  temáticas relevantes de los tres módulos, por ejemplo en el primer módulo la importancia de garantizar el derecho a la educación a los NNA afectados por la situación de emergencia, en el módulo dos principalmente los temas de acompañamiento emocional, primeros auxilios emocionales y la resiliencia, en el tercero, los riesgos de protección y  el plan de respuesta educativo para NNAJ en la fase aguda de la emergencia, en este último tema se trabajó sobre el plan que ya se tenía construido en la emergencia anterior donde se hicieron algunos ajustes y pequeños cambios.  Durante la formación Se utilizó una metodología participativa, constructiva y practica en cada una de las temáticas desarrolladas, esta acción es socializada a la coordinación de educación y enlace de victimas para que pudieran acompañar el desarrollo de las actividades planteadas en el plan educativo de emergencia.
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Se entregaron 35 maletas pedagógicas a docentes y AEC, para el fortalecimiento de las herramientas pedagogicas que imparten los referentes educativos en entornos de emergencia, asi mismo, los materiales que conforman la maleta fueron acompañados de las sesiones de formación con docentes y AEC.
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => Teniendo en cuenta que desde la coordinación de educación aún se conservan los instrumentos musicales entregados en la emergencia anterior, se definió como URR-EeE entregar en la maleta pedagógica únicamente material fungible como apoyo a la implementación del plan educativo de respuesta en emergencia.
+El 10 de septiembre se entrego una maleta pedagógica que fue dividida en 2 partes, una para agentes educativos comunitarios y otra para docentes con el objetivo que pudieran contar con elementos de apoyo para las estrategias del plan de respuesta educativo en emergencias con los NNAJ
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => Se dona a la oficina de atención a víctimas una electrobomba y supresor de picos o breakermatic para captación de agua en los albergues.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_saneamiento_b_sico] => En el albergue de Sirena, se reemplazó de red hidráulica y se construyó una placa de piso en concreto para descole de aguas servidas de lavadero de ropas a fin de evitar malos olores y proliferación de vectores
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => En el sector de WASH, Fueron entregados:
+453 kits de higiene a las familias de las comunidades de Sirena, Cacagual, Guacuco Mialo, Gualpí Catalina, Pirí Brisas.
+Se realizaron jornadas de sensibilización en buenas prácticas de higiene a las 5 comunidades en temas de; Higiene personal y del entorno, agua segura, vectores y residuos sólidos.
+Se realizó encuesta inicial y final a fin de evaluar conocimiento de los hábitos de higiene de los asistentes.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Se realiza la elaboración de pintura mural en colegio San José del Telembí con mensajes claves de higiene, prácticas en la separación de residuos y prácticas de agua segura, en la cual se vincularon mensajes de protección de niños, niñas y adolescentes.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => La ERIN se realizó en la ERN del consorcio, identificando necesidades o vacíos en el acceso y disponibilidad de los alimentos en las familias de las 17 comunidades, si bien, las comunidades habían recibido atención en paquetes alimentarios familiares y comunitarios, las necesidades persistían, ya que, no habían garantías para un retorno seguro y las comunidades persistían en la cabecera municipal por la presencia constante de GANE.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => En el sector de seguridad alimentaria se desarrollaron actividades desde el 8 al 16 de julio 2022 realizando atenciones en las 17 comunidades desplazadas (Cacagual, Guacuco Mialo, Gualpi Catalina, Piri Espumero, Piscaunde, Piri Brisas, Sirena, Conquista 1, Conquista 2, Conquista 3, Negrito, Piri Brisas, Piri Delicias, Piri Paraíso, Piri Unión, Vuelta Larga Y Yacun), se desarrollaron actividades como:
+•	8 jornadas de taller de sensibilización sobre seguridad alimentaria, alimentación saludable, los colores de los alimentos, grupos alimenticios, plato saludable, buenas prácticas de higiene entorno a la preparación de los alimentos (Almacenamiento, preparación, distribución) y hábitos saludables en el marco de una alimentación saludable, en donde participaron líderes, jefes y jefas de hogar, docentes por cada una de las comunidades.
+•	Se entregaron 28 paquetes comunitarios a 17 comunidades de los cuatro desplazamientos diferenciando la entrega de uno, dos o tres paquetes alimentarios según el número de integrantes de la comunidad, esta entrega se realizó uno a uno en los puntos de concentración de las comunidades.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => •	Se realizaron 45 evaluaciones sobre conocimientos previos al taller y 45 evaluaciones conocimientos posteriores al taller para conocer la aceptación por parte de la comunidad.
+
+•	Se realizaron 30 encuestas base con jefes y jefas de hogar participantes a los talleres a los cuales se realizará una línea de salida o PDM para identificar impacto de la asistencia brindada por parte del sector SAN de Acción Contra el Hambre
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Desde el área de salud física se reportan 263 consultas médicas, de las cuales 262 corresponden a consulta de primera vez y 1 corresponde a una reconsulta. Con un promedio de atención de 44 pacientes al día y 22 pacientes por médico por día
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => se realizaron las actividades de suministro de medicamentos a la población atendida donde se brindó la información a cada familia sobre el manejo y administración adecuada de los medicamentos entregados para una óptima continuidad de los tratamientos en casa, en total se hicieron 281 entrega de medicamentos
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Se efectuaron 88 atenciones en salud mental, en donde la impresión diagnostica que más se presenta es ansiedad con un porcentaje equivalente al 35%, lo cual se explica por el temor que los recientes eventos han generado en la población, no solo por el desplazamiento en sí mismo, sino por las consecuencias de este en las áreas de ajuste de las personas atendidas. Como diagnóstico secundario se encuentra con un porcentaje de ocurrencia del 31% otros problemas psicosociales, derivados en su totalidad a la situación del conflicto armado. Muy vinculado a la ansiedad como una modalidad de este trastorno, se identifica sintomatología de TEPT con una presencia del 17% de la población consultante, así mismo, asociado al conflicto armado se identifica la experiencia de Duelo por muerte violenta en un 11% de la población participante. Finalmente se encuentra la depresión con un 6% de frecuencia, también derivada del conflicto armado, en donde se incluyen personas con apenas rasgos depresivos y también con criterios específicos para trastorno depresivo
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => Se realizaron 4 actividades grupales, dos enfocadas al tema de salud mental y emociones y dos en los temas de emociones y vinculación afectiva, este último con madres lactantes y gestantes. Se contó con la participación de 53 personas para las cuatro actividades
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Con respecto a las violencias basadas en género, de los 88 casos, el 15,84% (18) reportaron situaciones de violencia basada en género. De estas, el 78% (14) de las vbg identificadas corresponden a violencias de tipo emocional, seguidas de un 11% de violencia sexual (2 casos), y de violencia física y económica (1 caso respectivamente). Un aspecto cualitativo de relevancia identificado durante las consultas, hace referencia a la naturalización de las violencias basadas en género, de manera que el reconocimiento, visibilización y gestión de las situaciones, se mengua o minimiza generando dificultades para identificar y afrontar el impacto en la población afectada. En esto, el factor del conflicto armado, cumple también un papel de agudización y severidad en la problemática, contribuyendo a la legitimación y mantenimiento de estas violencias.
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => DRC tenia presencia en la emergencia, asi tambien habían recibido kits de albergue por parte de la UARIV. Las necesidades en el sector de Shelter eran de tipo estructurales.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => Es un sector que no se
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Save The Children
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => REFUGIO_ASENTAMIENTO
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Se realizó atención conjunta con la ONG para poder priorizar familias con características especificas y que las familias pudieran recibir kits de albergue e higiene familiar.
+    [group_ob0im32/b_Nombre_de_la_entidad] => PMA
+    [group_ob0im32/a_Sector_en_el_que_se_intervino_001] => ALIMENTACION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_001] => Se realiza articulación para que desde el ELC (PMA) pudieran brindar atención complementaria después del ingreso de ACH-MIRE
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => RESPONSABILIDAD OTRAS
+    [group_zj0tq00/Dificultades_encontr_das_Responsabilidad] => había familias de las comunidades desplazadas las cuales aunque estaban en el censo no se encontraban en la cabecera municipal, por lo cual se indaga con los lideres o lideresas de cada ONG, sin embargo, hay vacíos en los testimonios pero los lideres asumen la entrega de algunos kits de higiene y kits de ocupación del tiempo libre.
+    [group_zj0tq00/Medidas_adoptadas_Responsabilidad] => se deja constancia en las actas de entrega de la persona quien asume la entrega de esos elementos.
+    [group_zj0tq00/_Cu_les_Otras] => Politización de las entregas
+    [group_zj0tq00/Dificultades_encontradas_Otras] => se evidencia que una vez se entregaban los kits de higiene, kits de dignidad y los paquetes alimentarios comunitarios, regresaban unos paquetes a la oficina de enlace de victimas para una re distribución, lo cual generó incertidumbre y alerta por parte del Staff del consorcio
+    [group_zj0tq00/Medidas_adoptadas_Otras] => se convoca una reunión con los líderes, lideresas de las comunidades, el ministerio publico (Personería), institucionalidad del municipio y el equipo móvil del consorcio, en la cual se manifestó la inconformidad con las entregas regresaran a la oficina de enlace de victimas a lo cual las comunidades manifestaron que la distribución se hacía porque habían comunidades las cuales se habían mezclado por la recepción de las declaraciones y se habían unidos comunidades para las nuevas declaraciones. De esta reunión se le hace el llamado a la institucionalidad que las declaraciones sean por comunidad, así mismo los censos para que no se presten malos entendidos en las entregas.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 200
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 30
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 10
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 7
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 247
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 30
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Alex Godoy
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3143399212
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Personero municipal Roberto Payán
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Katherine Sinisterra
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 3104506380
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Enlace de Victimas
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => Jader Preciado
+    [group_kq5co41/group_wb3kr41/_3b_Tel_fono_1] => 3105132773
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => Líder Comunitario Piri Paraiso
+    [group_ek1nq87/Observaciones] => Las 17 comunidades en condición de desplazamiento fueron atendidas en el casco urbano del municipio de manera intersectorial y escalonada según la comunidad, solamente habían dos albergues destinados por la alcaldía municipal donde se encontraban las comunidades de Yacun, Piscaunde y La Sirena a las cuales se priorizó para visibilizar necesidades de alojamiento, higiene y saneamiento. Cabe resaltar que los vacíos o recomendaciones se realizan de manera general a las 17 comunidades, ya que, se evidenció que hay comunidades que fueron atendidas en el 2021 por el consorcio pero las necesidades persisten y el conflicto continua en la región del Telembí, destacando que son necesidades estructurales y haciendo un llamado a la institucionalidad y al ministerio publico para implementar acciones especificas para el retorno seguro con garantías de las comunidades y la no repetición de hechos violentos que sigan afectando las comunidades de la zona rural de Roberto Payán, Barbacoas y Magüi.                  
+
+                                                                                                                                 Las necesidades de las comunidades al ser en condición de desplazamiento se evidenciaron en la zona de acogida, por lo cual las necesidades estructurales en sus territorios o comunidades se visibilizaron hasta donde el equipo móvil pudo indagar.
+
+Los códigos de las actividades del sector de WASH están desactualizados por lo cual se consigna la información en los espacios y desde el área MEAL de APS se envía el correo con las necesidades.
+
+la información brindada sobre el incidente y la inconformidad por parte del equipo móvil con una posible "politización" de las entregas por parte de la oficina de enlace de victimas se debe manejar a nivel del consorcio y no divulgarla para no generar una acción con daño. Es importante resaltar que el equipo realizó la reunión donde se presentó la inconformidad, sin embargo, los lideres y la institucionalidad manifestaron que se hizo de esa manera para realizar una división equitativa entre las comunidades que quedaron censadas como una misma comunidad, por lo cual se hace un llamado a actualizar los censos y manifestarles que las agencias de cooperación tomamos de base en algunas ocasiones los censos de la UARIV, pero podemos actuar con los censos propios de las comunidades.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [meta/instanceID] => uuid:48172a54-67fa-40dd-8734-9bf8d60e8b39
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 48172a54-67fa-40dd-8734-9bf8d60e8b39
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-10-11T15:23:36
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

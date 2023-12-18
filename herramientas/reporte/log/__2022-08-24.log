@@ -1,0 +1,1153 @@
+2022-08-24 07:48:43|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-23&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-23&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-23
+    [FECHA_HASTA] => 2022-08-23
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 07:49:02|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/herramientas/seguro/&letras=1&FECHA_DESDE=2022-08-23&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-23&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-23
+    [FECHA_HASTA] => 2022-08-23
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 07:50:30|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-23&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-23&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-23
+    [FECHA_HASTA] => 2022-08-23
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 07:54:03|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-24
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 08:08:11|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-24
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 08:09:18|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-24
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 08:10:05|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-24
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 08:10:41|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 08:12:17|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 08:18:48|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 08:20:53|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 09:22:41|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:37:17|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:43:08|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:43:37|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:45:35|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:47:36|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:48:21|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:49:05|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:49:34|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:50:29|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:52:04|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:53:36|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:55:12|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:56:02|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 11:57:48|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 12:00:57|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 12:02:07|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 12:02:55|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 14:04:14|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-24
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 14:04:43|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-06-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-06-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-06-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 14:10:33|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-06-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-06-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-06-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 14:15:40|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-06-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-06-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-06-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)
+
+2022-08-24 14:19:51|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=COTIZACIONES%20REALIZADAS%20POR%20PERIDO&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=COTIZACIONES%20REALIZADAS%20POR%20PERIDO
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => COTIZACIONES REALIZADAS POR PERIDO
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => COTIZACIONES REALIZADAS POR PERIDO
+)
+
+2022-08-24 14:27:49|191.99.141.5|seguro|seguro|0016|NUNEZ1111 LUIS MANUEL|https://desarrollo.protecseguros.com/herramientas/reporte/?url=http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=COTIZACIONES%20REALIZADAS%20POR%20PERIDO&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=COTIZACIONES%20REALIZADAS%20POR%20PERIDO
+Array
+(
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-07-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 0017
+    [xconfig] => {$x_config}
+    [TITULO] => COTIZACIONES REALIZADAS POR PERIDO
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+    [title] => COTIZACIONES REALIZADAS POR PERIDO
+)
+
+2022-08-24 20:22:56|191.99.141.5|farmacia_bosqueserino|farmacia_bosqueserino|0016|NUÑEZ LUIS MANUEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0013733&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NU%D1EZ+LUIS+MANUEL&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0013733
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+)
+
+2022-08-24 20:24:01|191.99.141.5|yobel|yobel|0016|LUIS MANUEL NUÑEZ|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112084&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=LUIS+MANUEL+NU%D1EZ&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [letras] => 1
+    [ID_M_GUIAS] => 00112084
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [viewer] => 1
+)
+
+2022-08-24 20:39:13|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112085&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112085
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:41:13|190.110.215.74|yobel|yobel|001983|RAUL ALEJANDRO BOLANOS BAQUE|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112086&compress=1&id_m_usuario=001983&log_USER_ID=001983&log_USER_NAME=RAUL+ALEJANDRO+BOLANOS+BAQUE&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [letras] => 1
+    [ID_M_GUIAS] => 00112086
+    [compress] => 1
+    [id_m_usuario] => 001983
+    [viewer] => 1
+)
+
+2022-08-24 20:41:38|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112087&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112087
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:42:59|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112088&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112088
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:44:28|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112089&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112089
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:45:25|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112090&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112090
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:45:36|190.110.215.74|yobel|yobel|001983|RAUL ALEJANDRO BOLANOS BAQUE|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112091&compress=1&id_m_usuario=001983&log_USER_ID=001983&log_USER_NAME=RAUL+ALEJANDRO+BOLANOS+BAQUE&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [letras] => 1
+    [ID_M_GUIAS] => 00112091
+    [compress] => 1
+    [id_m_usuario] => 001983
+    [viewer] => 1
+)
+
+2022-08-24 20:47:10|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112092&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112092
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:47:26|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112092&FECHA_DESDE=undefined/undefined/24/08/2022&FECHA_HASTA=undefined/undefined/24/08/2022&fecha_desde=24/08/2022&fecha_hasta=24/08/2022&ID_D_CLIENTES=00178&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_guias_detalles
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112092
+    [FECHA_DESDE] => undefined/undefined/24/08/2022
+    [FECHA_HASTA] => undefined/undefined/24/08/2022
+    [fecha_desde] => 24/08/2022
+    [fecha_hasta] => 24/08/2022
+    [ID_D_CLIENTES] => 00178
+    [TITULO] => RELACION DE GUIAS
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:50:21|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112085&FECHA_DESDE=undefined/undefined/24/08/2022&FECHA_HASTA=undefined/undefined/24/08/2022&fecha_desde=24/08/2022&fecha_hasta=24/08/2022&ID_D_CLIENTES=00178&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112085
+    [FECHA_DESDE] => undefined/undefined/24/08/2022
+    [FECHA_HASTA] => undefined/undefined/24/08/2022
+    [fecha_desde] => 24/08/2022
+    [fecha_hasta] => 24/08/2022
+    [ID_D_CLIENTES] => 00178
+    [TITULO] => RELACION DE GUIAS
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:53:03|190.110.215.74|yobel|yobel|001983|RAUL ALEJANDRO BOLANOS BAQUE|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112086&compress=1&id_m_usuario=001983&log_USER_ID=001983&log_USER_NAME=RAUL+ALEJANDRO+BOLANOS+BAQUE&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [letras] => 1
+    [ID_M_GUIAS] => 00112086
+    [compress] => 1
+    [id_m_usuario] => 001983
+    [viewer] => 1
+)
+
+2022-08-24 20:53:30|190.110.215.74|yobel|yobel|001983|RAUL ALEJANDRO BOLANOS BAQUE|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112091&compress=1&id_m_usuario=001983&log_USER_ID=001983&log_USER_NAME=RAUL+ALEJANDRO+BOLANOS+BAQUE&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [letras] => 1
+    [ID_M_GUIAS] => 00112091
+    [compress] => 1
+    [id_m_usuario] => 001983
+    [viewer] => 1
+)
+
+2022-08-24 20:54:21|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112093&FECHA_DESDE=undefined/undefined/24/08/2022&FECHA_HASTA=undefined/undefined/24/08/2022&fecha_desde=24/08/2022&fecha_hasta=24/08/2022&ID_D_CLIENTES=00178&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112093
+    [FECHA_DESDE] => undefined/undefined/24/08/2022
+    [FECHA_HASTA] => undefined/undefined/24/08/2022
+    [fecha_desde] => 24/08/2022
+    [fecha_hasta] => 24/08/2022
+    [ID_D_CLIENTES] => 00178
+    [TITULO] => RELACION DE GUIAS
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:57:10|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112094&FECHA_DESDE=undefined/undefined/24/08/2022&FECHA_HASTA=undefined/undefined/24/08/2022&fecha_desde=24/08/2022&fecha_hasta=24/08/2022&ID_D_CLIENTES=00178&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112094
+    [FECHA_DESDE] => undefined/undefined/24/08/2022
+    [FECHA_HASTA] => undefined/undefined/24/08/2022
+    [fecha_desde] => 24/08/2022
+    [fecha_hasta] => 24/08/2022
+    [ID_D_CLIENTES] => 00178
+    [TITULO] => RELACION DE GUIAS
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:58:01|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112095&FECHA_DESDE=undefined/undefined/24/08/2022&FECHA_HASTA=undefined/undefined/24/08/2022&fecha_desde=24/08/2022&fecha_hasta=24/08/2022&ID_D_CLIENTES=00178&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112095
+    [FECHA_DESDE] => undefined/undefined/24/08/2022
+    [FECHA_HASTA] => undefined/undefined/24/08/2022
+    [fecha_desde] => 24/08/2022
+    [fecha_hasta] => 24/08/2022
+    [ID_D_CLIENTES] => 00178
+    [TITULO] => RELACION DE GUIAS
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:58:16|181.198.69.250|yobel|yobel|0011013|DIPASO CEDI|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112095&FECHA_DESDE=undefined/undefined/24/08/2022&FECHA_HASTA=undefined/undefined/24/08/2022&fecha_desde=24/08/2022&fecha_hasta=24/08/2022&ID_D_CLIENTES=00178&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011013&log_USER_ID=0011013&log_USER_NAME=DIPASO+CEDI&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_guias_detalles
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112095
+    [FECHA_DESDE] => undefined/undefined/24/08/2022
+    [FECHA_HASTA] => undefined/undefined/24/08/2022
+    [fecha_desde] => 24/08/2022
+    [fecha_hasta] => 24/08/2022
+    [ID_D_CLIENTES] => 00178
+    [TITULO] => RELACION DE GUIAS
+    [compress] => 1
+    [id_m_usuario] => 0011013
+    [viewer] => 1
+)
+
+2022-08-24 20:59:32|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_detalle_paquete&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_PAQUETES=00143&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_detalle_paquete
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_PAQUETES] => 00143
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+)
+
+2022-08-24 21:02:00|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00135&ID_M_CAJAS=0011&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_ARQUEOS] => 00135
+    [ID_M_CAJAS] => 0011
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+)
+
+2022-08-24 21:06:37|190.110.215.74|yobel|yobel|001922|ESTRADA SANCHEZ RICARDO FREDDY YOBEL|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112095&compress=1&id_m_usuario=001922&log_USER_ID=001922&log_USER_NAME=ESTRADA+SANCHEZ+RICARDO+FREDDY+YOBEL&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [letras] => 1
+    [ID_M_GUIAS] => 00112095
+    [compress] => 1
+    [id_m_usuario] => 001922
+    [viewer] => 1
+)
+
+2022-08-24 23:07:59|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 0032537
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:10:22|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 0032537
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:11:32|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 0032537
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:15:56|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-25&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-25&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=0032537&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-25
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 0032537
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:18:01|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-25&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=003235&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-25&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=003235&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-25
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 003235
+    [ID_M_REFERIDOS_CLIENTES] => 
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:20:11|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=003235&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=003235&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 003235
+    [ID_M_REFERIDOS_CLIENTES] => 
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:21:19|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=00318&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=00318&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 00318
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:22:26|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=00318&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=00318&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 00318
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:22:54|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:25:45|190.120.253.202|inventario|inventario|003121|CONTRERAS SIRIT EDUARDO JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_resumen_venta_centro_modelo_referidos&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=00318&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/inventario/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS&FECHA_HASTA=2022-08-24&ID_M_CENTROS_CLIENTES=&ID_M_MODELOS=&ID_M_REFERIDOS_CLIENTES=00318&TIPO_ORDEN=TOTAL_CENTRO_DOLAR%20DESC%20,TOTAL_MODELO_DOLAR%20DESC,TOTAL_DOLAR%20DESC,TOTAL_BS,TOTAL_CANTIDAD%20DESC&compress=1&id_m_usuario=003121&log_USER_ID=003121&log_USER_NAME=CONTRERAS+SIRIT+EDUARDO+JOSE&log_SISTEMA=inventario&log_SISTEMA_DB=inventario&viewer=1&title=RESUMEN%20VENTAS%20POR%20CENTROS,%20MODELOS%20Y%20REFERIDOS
+Array
+(
+    [origen] => reportes/r_resumen_venta_centro_modelo_referidos
+    [db] => inventario
+    [SERVERPATH] => https://desarrollo.sistemas24.com/inventario/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-01-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_CENTROS_CLIENTES] => 
+    [ID_M_MODELOS] => 
+    [ID_M_REFERIDOS_CLIENTES] => 00318
+    [TIPO_ORDEN] => TOTAL_CENTRO_DOLAR DESC ,TOTAL_MODELO_DOLAR DESC,TOTAL_DOLAR DESC,TOTAL_BS,TOTAL_CANTIDAD DESC
+    [xconfig] => {$x_config}
+    [TITULO] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+    [compress] => 1
+    [id_m_usuario] => 003121
+    [viewer] => 1
+    [title] => RESUMEN VENTAS POR CENTROS, MODELOS Y REFERIDOS
+)
+
+2022-08-24 23:57:28|157.100.197.94|yobel|yobel|001922|ESTRADA SANCHEZ RICARDO FREDDY YOBEL|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_D_CLIENTES=&xconfig={$x_config}&SERVERPATH=https://yobel.sistemas24.com/yobel/&FECHA_DESDE=2022-08-24&TITULO=REPORTE%20DE%20GUIAS%20CON%20DETALLE%20DE%20CARGA&FECHA_HASTA=2022-08-24&ID_D_CLIENTES=&compress=1&id_m_usuario=001922&log_USER_ID=001922&log_USER_NAME=ESTRADA+SANCHEZ+RICARDO+FREDDY+YOBEL&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1&title=REPORTE%20DE%20GUIAS%20CON%20DETALLE%20DE%20CARGA
+Array
+(
+    [origen] => reportes/r_guias_detalles
+    [db] => yobel
+    [SERVERPATH] => https://yobel.sistemas24.com/yobel/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-24
+    [FECHA_HASTA] => 2022-08-24
+    [ID_D_CLIENTES] => 
+    [xconfig] => {$x_config}
+    [TITULO] => REPORTE DE GUIAS CON DETALLE DE CARGA
+    [compress] => 1
+    [id_m_usuario] => 001922
+    [viewer] => 1
+    [title] => REPORTE DE GUIAS CON DETALLE DE CARGA
+)
+

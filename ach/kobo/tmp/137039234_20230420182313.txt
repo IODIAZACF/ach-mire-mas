@@ -1,0 +1,142 @@
+stdClass Object
+(
+    [_id] => 137039234
+    [_notes] => Array
+        (
+        )
+
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [group_gu1lq88/Vereda] => Boca de prieta - vuelta larga
+    [group_mu9ho06/Gesti_n] => El consorio MIRE participó el 12 de noviembre en dos reuniones (9am y 1pm) para dialogar con delegados de La Alcaldía Municipal de Olaya Herrera y Roberto Payán (éste ultimo a razón que algunas personas afectadas por el evento se han ido desplazando hacia ese municipio).
+Se inicia recolección de datos y revisión de capacidades con socios del ELC para coordinar respuesta.
+    [group_xz4hy76/respuestas] => si
+    [group_mu9ho06/Subir_el_Anexo] => Acta CTJT cierre del censo-15_42_57.pdf
+    [group_yv1ph08/c4] => 0
+    [group_yv1ph08/d4] => 1
+    [group_gu1lq88/Departamento] => nari_o
+    [group_yv1ph08/pertinencia] => 15
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [group_yv1ph08/d9] => 1
+    [group_yv1ph08/evidencia] => _la_poblaci_n _existe_alguna _existe_alguna_1 _se_esta_prese _se_esta_afect _existe_necesi alber _existe_dispon _se_han_presen _existen_dific higi _tiene_afectad cub _cuenta_con_un
+    [group_yv1ph08/d8] => 1
+    [group_hl1yc96/La_alerta_corresponde_a_] => emergencia
+    [group_hl1yc96/tipo] => desplazamiento
+    [start] => 2020-11-12T13:25:25.650-05:00
+    [group_hl1yc96/b9_001] => 0
+    [group_yv1ph08/c5] => 0
+    [group_yv1ph08/oportunidad] => 7
+    [group_xz4hy76/suma1] => 1
+    [_status] => submitted_via_web
+    [group_yv1ph08/d7] => 0
+    [group_xz4hy76/exclusividad] => 4
+    [group_xz4hy76/presentese] => no
+    [group_yv1ph08/time3] => 12
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => En el marco de los enfrentamientos registrado entre el 31 de octubre y 01 de noviembre entre dos grupos armados delictivos (GAD) en zona rural del municipio de Olaya Herrera, veredas Vuelta Larga y Boca Prieta, murieron una mujer de nacionalidad venezolana y un hombre sin identificar. 
+A raíz de estos hechos se desplazaron 223 familias frocolombianas (543 personas), de las cuales 186 son mujeres, 141 hombres y 216 niños y niñas quienes llegaron a casas de familiares y amigos en la cabecera municipal de Olaya Herrera y en veredas cercanas como Sanquianguita, Gómez, Soledad y Herradura del mismo municipio.
+    [_tags] => Array
+        (
+        )
+
+    [_submitted_by] => 
+    [_version_] => vm57zMtP6H2cFDvi7TaecN
+    [group_xz4hy76/orga] => si
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [mimetype] => application/pdf
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F659876fc-ff72-4d35-8512-995f41c9093a%2FActa+CTJT+cierre+del+censo-15_42_57.pdf
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F659876fc-ff72-4d35-8512-995f41c9093a%2FActa+CTJT+cierre+del+censo-15_42_57.pdf
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F659876fc-ff72-4d35-8512-995f41c9093a%2FActa+CTJT+cierre+del+censo-15_42_57.pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/659876fc-ff72-4d35-8512-995f41c9093a/Acta CTJT cierre del censo-15_42_57.pdf
+                    [instance] => 137039234
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F659876fc-ff72-4d35-8512-995f41c9093a%2FActa+CTJT+cierre+del+censo-15_42_57.pdf
+                    [id] => 46335352
+                    [xform] => 572478
+                )
+
+        )
+
+    [group_cn9za51/per] => 543
+    [_submission_time] => 2020-11-12T20:42:37
+    [group_gu1lq88/Nombre_de_la_comunidad] => boca de prieta - vuelta larga
+    [group_hl1yc96/Problema] => contro crisis homicidios presencia reclu
+    [group_cn9za51/fami] => 223
+    [group_gu1lq88/_Cu_l] => Flash de OCHA, Comité de justicia transicional y alcaldías locales.
+    [group_gu1lq88/Cargo] => Enlace Territorial
+    [group_yv1ph08/d30] => 1
+    [group_cn9za51/incidencia] => 1214
+    [group_hl1yc96/b1] => 0
+    [group_hl1yc96/b3] => 0
+    [group_hl1yc96/b2] => 0
+    [group_hl1yc96/b5] => 0
+    [group_hl1yc96/b4] => 0
+    [group_hl1yc96/b7] => 0
+    [group_hl1yc96/b6] => 0
+    [group_hl1yc96/b9] => 0
+    [group_hl1yc96/b8] => 0
+    [group_xz4hy76/suma2] => 1
+    [group_yv1ph08/d6] => 1
+    [group_yv1ph08/d1] => 0
+    [group_yv1ph08/d23] => 0
+    [group_yv1ph08/d3] => 1
+    [group_yv1ph08/d2] => 0
+    [group_yv1ph08/time2] => 2020-10-31
+    [group_hl1yc96/alcance] => 1
+    [group_yv1ph08/Tiempo] => dosemanas
+    [meta/instanceID] => uuid:9601f716-e769-4814-b198-4a2b0dbc7ced
+    [group_xz4hy76/suma3] => 2
+    [group_yv1ph08/zona] => min comba zona aten
+    [end] => 2020-11-14T12:10:27.427-05:00
+    [group_gu1lq88/group_gb2hi57/NARI_O] => OLAYA HERRERA
+    [group_yv1ph08/d17] => 0
+    [group_cn9za51/comu] => 2
+    [group_yv1ph08/d28] => 0
+    [group_yv1ph08/d29] => 1
+    [group_gu1lq88/time1] => 2020-11-12
+    [group_yv1ph08/d24] => 0
+    [group_yv1ph08/d25] => 0
+    [group_yv1ph08/d26] => 1
+    [group_yv1ph08/d27] => 1
+    [group_yv1ph08/d20] => 0
+    [group_yv1ph08/d21] => 0
+    [group_yv1ph08/d22] => 0
+    [meta/deprecatedID] => uuid:659876fc-ff72-4d35-8512-995f41c9093a
+    [group_hl1yc96/a6] => 0
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_uuid] => 9601f716-e769-4814-b198-4a2b0dbc7ced
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => SAN, Protección, Salud, WASH y shelter
+    [group_gu1lq88/Origen_de_la_informaci_n] => otra
+    [group_xz4hy76/_Cuales] => ANUR, OCHA, PMA, MSF, NRC, PLAN, HAI, FUPAD, CICR, APS
+    [group_yv1ph08/c2] => 7
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [group_yv1ph08/c3] => 0
+    [group_xz4hy76/_Cuales_001] => A la fecha no se ha activado formalmente una respuesta.
+    [group_yv1ph08/d19] => 1
+    [group_yv1ph08/d18] => 1
+    [group_yv1ph08/d15] => 0
+    [group_yv1ph08/d14] => 0
+    [group_yv1ph08/d5] => 1
+    [group_yv1ph08/d16] => 1
+    [group_yv1ph08/d11] => 1
+    [group_yv1ph08/d10] => 0
+    [group_yv1ph08/d13] => 0
+    [group_yv1ph08/d12] => 1
+    [group_hl1yc96/a0] => 0
+    [group_yv1ph08/c1] => 0
+    [group_hl1yc96/a2] => 0
+    [group_hl1yc96/a3] => 0
+    [group_hl1yc96/a4] => 1
+    [group_hl1yc96/a5] => 0
+    [group_gu1lq88/Nombre_de_quien_reporta] => Silvia Sastoque Medina
+    [group_hl1yc96/a7] => 0
+)

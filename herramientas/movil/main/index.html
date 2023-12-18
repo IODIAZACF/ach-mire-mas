@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link   rel="manifest"   href="../../manifest.json">
+
+	<link 	rel="stylesheet" href="../css/bulma/bulma.min.css">
+	<link 	rel="stylesheet" href="../css/onsenui.min.css">
+	<link 	rel="stylesheet" href="../css/onsen-css-components.min.css">
+	<link 	rel="stylesheet" href="../../../variables.css">
+	<link 	rel="stylesheet" href="../css/estilo.css">
+
+	<link   rel="icon" type="image/x-icon" href="../../favicon/favicon.ico" >
+	<link   rel="icon" type="image/png"    href="../../favicon/favicon-32x32.png" sizes="32x32">
+	<link   rel="icon" type="image/png"    href="../../favicon/favicon-16x16.png" sizes="16x16">
+	<link   rel="apple-touch-icon"         href="../../favicon/apple-touch-icon.png" sizes="180x180">
+	
+	<script type="text/javascript" src="../js/onsenui.min.js"></script>
+
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/utiles.js"></script>
+	<script type="text/javascript" src="../js/movil_auto_tabla.js"></script>
+	<script type="text/javascript" src="../js/movil_formulario.js"></script>
+	<script type="text/javascript" src="../js/movil_pagina.js"></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+	<meta name="theme-color" content="white"/>
+
+	<script>
+		
+		if('serviceWorker' in navigator) {
+			navigator.serviceWorker.register(server_path + 'movil/sw.js')
+			  .then(() => console.log("Service Worker Registered"))
+			  .catch(e => console.log(e));
+		}
+	</script>
+
+
+	<title>Móvil 24</title>
+</head>
+
+<body >
+<style>
+html, body {margin: 0; height: 100%; overflow: hidden}
+</style>
+<script type="text/javascript" src="../../../movil/menu_principal.js"></script> 
+
+<ons-navigator id="app" swipeable swipe-target-width="80px">
+	<ons-page>
+		<ons-splitter id="appSplitter">
+			<!--ons-splitter-side id="sidemenu" page="sidemenu.html" swipeable side="right" collapse="" width="260px"></ons-splitter-side-->
+			<!--ons-splitter-content page="login.html"></ons-splitter-content-->
+			<ons-splitter-content></ons-splitter-content>
+		</ons-splitter>
+	</onsp-page>
+</ons-navigator>
+
+
+
+<script type="text/javascript">
+
+var xid_m_usuario;
+var xnombre_usuario;
+var xid_m_grupos;
+var xnombre_grupo;
+
+var inis = [];
+
+var modulo = '';
+myNavigator = document.getElementById('app');
+
+$( document ).ready(function() {
+
+	if (ons.platform.isIPhoneX()) { // Utility function
+		// Add empty attribute to the <html> element
+		//document.documentElement.setAttribute('onsflag-iphonex-portrait', '');
+		//document.documentElement.removeAttribute('onsflag-iphonex-portrait');
+	}
+
+	if( getvar('id_m_usuario')  ) {
+		var url = server_path + 'herramientas/genera_json/genera_json.php';
+		var params  = '';
+			params += 'tabla=V_M_USUARIOS';
+			params += '&campos=*';
+			params += '&filtro=ID_M_USUARIO';
+			params += '&xfiltro=' + getvar('id_m_usuario');
+		
+		enviar2( url, params, 'GET', function( data ){
+			
+			if(!data.tabla) return;
+			
+			var registro = data.tabla.registro;
+		
+			xid_m_usuario   = registro[0].ID_M_USUARIO;
+			xnombre_usuario = registro[0].NOMBRE_USUARIO;
+			
+			xid_m_grupos    = registro[0].ID_M_GRUPOS;
+			xnombre_grupo   = registro[0].NOMBRE_GRUPO;			
+		});
+
+		construir_menu();	
+	} else {
+		myNavigator.pushPage('login.html', {animation: 'fade' });
+	}
+
+});
+
+
+
+function login(){
+
+	
+	var login    = $("#login"   ).val();
+	var password = $("#password").val();
+	
+	if(!login || !password) return;
+	
+	if( !db || db == '')  {
+		ons.notification.alert('Debe especificar una base de datos!');
+		return;
+	}
+
+	
+	var url = server_path + 'herramientas/password/seguridad.php';
+	var params  = '';
+		params += 'login='    + login;
+		params += '&password=' + password;
+		params += '&db=' + db;
+
+	
+	enviar2( url, params, 'GET', function( data ){
+		
+		parser = new DOMParser();
+		xmlDoc = parser.parseFromString(data,"text/xml");
+		
+		var mensaje       =  xmlDoc.getElementsByTagName("MENSAJE")[0].childNodes[0].nodeValue ;
+		
+		if(mensaje != "OK"){
+		
+			$("#login").val("");
+			$("#password").val("");
+			
+			ons.notification.toast(mensaje, {
+				timeout: 2000
+			});
+			return;
+			
+		} else {
+			
+			xid_m_usuario 	= xmlDoc.getElementsByTagName("ID_M_USUARIO")[0].childNodes[0].nodeValue ;
+			xnombre_usuario = xmlDoc.getElementsByTagName("NOMBRE_USUARIO")[0].childNodes[0].nodeValue ;
+
+			xid_m_grupos  	= xmlDoc.getElementsByTagName("ID_M_GRUPOS")[0].childNodes[0].nodeValue ;
+			xnombre_grupo 	= xmlDoc.getElementsByTagName("NOMBRE_GRUPO")[0].childNodes[0].nodeValue ;
+
+			menu_principal();		
+		
+		} 
+
+	});	
+	
+}
+
+
+function ocultar_opciones(){
+		
+	//console.log( $('.page__content').find('ons-list-item') );
+	console.log( document.querySelector('.list') );
+	setTimeout( function(){console.log( document.querySelector('ons-list.list') )}, 200);
+	
+	$('ons-list-item').each( function(){
+		console.log( $(this) );
+	
+	}); 
+
+}
+
+function t_m_menu_principal( obj, valor){
+
+	modulo = '../../' + valor + '/';
+	$.when(
+		$.getScript( modulo + "inis.js" ),
+		$.getScript( modulo + "index.js"),
+		$.Deferred(function( deferred ){
+			$( deferred.resolve );
+		})
+	).done(function(){
+		
+		//place your code here, the scripts are all loaded
+		
+	});	
+
+	
+}
+
+function menu_principal(){
+	//myNavigator.bringPageTop('../../menu_principal.html', {animation: 'lift' }  );
+	inis = [];
+	//app.resetToPage('../../menu_principal.html', {animation: 'lift' } );
+	app.resetToPage('../../menu_principal.html', {animation: 'lift' }  ).then(function() {
+		//var lista = document.querySelector('ons-list-item');
+		
+		var xHtml  = '';
+			xHtml += '<ons-list modifier="menu_principal24">';
+
+		$.each( ini_menu, function( xsec, xvar){
+			
+			if( xsec.substring(0,6) == 'OPCION' ){
+
+				var icono = xvar['ICONO'];
+				icono = icono.replaceAll( 'fa-solid', '');
+				icono = icono.replaceAll( ' ', '' );
+				
+				var grupos = xvar['GRUPOS'].split(',');
+				var bandera = 0;
+				
+				grupos.forEach( function( xgrupo, registro){
+					if( xid_m_grupos == xgrupo ) bandera = 1;
+				});
+
+				if( bandera == 1 || xid_m_grupos == 'XXXXGRUP0011') {
+					xHtml += '		<ons-list-item data-funcion="' + xvar['FUNCION'] + '" data-valor="' + xvar['VALOR'] + '" data-grupos="' + xvar['GRUPOS'] +  '">';
+					xHtml += '			<div class="left">';
+					xHtml += '  			<ons-icon icon="' + icono + '" class="list-item__icon"></ons-icon>';
+					xHtml += '			</div>';
+					xHtml += '			<div class="center">';
+					xHtml += '  			<span class="list-item__title">' + xvar['TITULO'] +'</span>';
+					xHtml += '  			<span class="list-item__subtitle">' + xvar['SUBTITULO'] + '</span>';
+					xHtml += '			</div>';
+					xHtml += '		</ons-list-item>';
+				}
+				
+			}
+			
+		
+		});
+		
+		xHtml += '<ons-list>';
+		$('.page__content').html(xHtml);
+	});
+	
+
+}
+
+function logout(){
+	//myNavigator.bringPageTop('login.html', {animation: 'fade' });
+	app.resetToPage('login.html', {animation: 'lift' } );
+}
+
+
+
+</script>
+
+
+
+
+
+</body>
+</html>
+

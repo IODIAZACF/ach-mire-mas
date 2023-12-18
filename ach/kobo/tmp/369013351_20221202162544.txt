@@ -1,0 +1,99 @@
+stdClass Object
+(
+    [_id] => 369013351
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-12-02T16:10:59.034-05:00
+    [end] => 2022-12-02T16:25:32.177-05:00
+    [group_gu1lq88/Departamento] => VALLE_DEL_CAUCA
+    [group_gu1lq88/VALLE_DEL_CAUCA] => BUENAVENTURA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin Información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Comunidades del río Cajambre
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2022-12-02
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => ONG
+    [group_gu1lq88/Nombre_de_la_ONG] => APS
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM HOMICIDIOS PRESENCIA_GAI RECLUTAMIENTO
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => El 30 de octubre en la comunidad de San Isidro se presentó un enfrentamiento entre estos actores armados, lo cual la población quedo entre el fuego cruzado. Este evento dejo como victimas 4 personas cuyos cuerpos quedaron en la institución educativa, estos hechos originaron el desplazamiento de 35 familias junto con los profesores los cuales fueron presionados para que salieran. Estas familias llegaron al Puente Nayero y luego se dispersaron a casas de familiares.
+El día 1 de noviembre llega un comunicado a la comunidad de Punta Bonita en el cual informan que todos los auxiliadores del ELN deben salir a las 4 A.M, razón por las cual las familias salen ese mismo día a las 2 AM.
+La información en este momento es de 257 familias desplazadas al núcleo urbano de Buenaventura por la situación presentada en las comunidades del rio Cajambre. No hay cifras sobre el total de familias que quedaron confinadas en las comunidades por la falta de acceso e informaciones claras sobre la zona por la presencia y control que está realizando el actor armado.
+    [group_yv1ph08/time2] => 2022-11-09
+    [group_yv1ph08/time3] => 23
+    [group_yv1ph08/evidencia] => proteccion san
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 162
+    [group_cn9za51/personas] => 528
+    [group_cn9za51/comu] => 3
+    [group_cn9za51/Grupo_tnico] => afro mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_mu9ho06/Subir_el_Anexo] => Situacion Buenaventura; Cajambre-16_25_18.docx
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:b351e715-4d84-4267-9a6b-48f3e6771541
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => b351e715-4d84-4267-9a6b-48f3e6771541
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fb351e715-4d84-4267-9a6b-48f3e6771541%2FSituacion_Buenaventura_Cajambre-16_25_18.docx
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fb351e715-4d84-4267-9a6b-48f3e6771541%2FSituacion_Buenaventura_Cajambre-16_25_18.docx
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fb351e715-4d84-4267-9a6b-48f3e6771541%2FSituacion_Buenaventura_Cajambre-16_25_18.docx
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fb351e715-4d84-4267-9a6b-48f3e6771541%2FSituacion_Buenaventura_Cajambre-16_25_18.docx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.wordprocessingml.document
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/b351e715-4d84-4267-9a6b-48f3e6771541/Situacion_Buenaventura_Cajambre-16_25_18.docx
+                    [instance] => 369013351
+                    [xform] => 572478
+                    [id] => 152156670
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-12-02T21:25:43
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

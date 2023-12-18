@@ -1,0 +1,70 @@
+stdClass Object
+(
+    [_id] => 346653005
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-10-11T15:08:06.474-05:00
+    [end] => 2022-10-11T16:12:21.708-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => ALTO BAUDO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Comunidad indígena Sarú
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2022-09-23
+    [group_gu1lq88/Nombre_de_quien_reporta] => Laura Blanco Camacho
+    [group_gu1lq88/Cargo] => Alianza por la Solidaridad APS
+    [group_gu1lq88/Origen_de_la_informaci_n] => LiderComunitario
+    [group_hl1yc96/La_alerta_corresponde_a_] => PR
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => -
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2022-09-11
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSCHAL_R_JOPE358PR - El ciudadano es esposo de la gobernadora de Sarú.  El día 11 de septiembre, través de WhatsApp les indican que su hijo fue atacado con arma de fuego en otra comunidad en la que estudia, sin embargo, (y aún) se desconocen motivos del ataque. Debido a que en la zona no cuentan con un centro de salud que permita la atención de estos casos, el hijo de los ciudadanos fue remitido a Quibdó y posteriormente lo trasladaron a Medellín hasta donde lo acompañó un tío, sin embargo, una semana después dicho familiar se regresó a Quibdó sin comunicar la situación, por lo anterior,  el señor tuvo que salir del resguardo a cuidar de su hijo quien sigue hospitalizado en Medellín hace más de 20 días. No cuentan con red de apoyo y al señor se le dificulta hablar claramente el español.
+    [group_mu9ho06/Logisitica] => Sin información
+    [group_mu9ho06/Seguridad] => Sin información
+    [group_mu9ho06/Operativa] => Sin información
+    [group_mu9ho06/Observaciones] => Desde el área jurídica, se interpuso una queja a la superintendencia de salud por los retrasos en la remisión del afectado hacia Medellín. No se tiene acceso a la respuesta ya que los datos proporcionados fueron los del tío que dejó a joven en el hospital, quien no ha vuelto a responder en los números telefónicos.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => APSCHAL_R_JOPE358PR
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:2a2ed8d0-b373-4f6a-8f33-fa96366017f6
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 2a2ed8d0-b373-4f6a-8f33-fa96366017f6
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-10-11T21:12:33
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

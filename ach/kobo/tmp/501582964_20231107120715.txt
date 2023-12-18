@@ -1,0 +1,89 @@
+stdClass Object
+(
+    [_id] => 501582964
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-11-07T10:41:28.512-05:00
+    [end] => 2023-11-07T12:07:13.572-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => BARBACOAS
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Resguardo indígena Awá Guelmambí El Bombo; Resguardo indígena Awá de Tortugaña Telembí; Resguardo indígena Awá Pulgande Tronquería.
+    [group_gu1lq88/Nombre_de_la_comunidad] => Resguardo indígena Awá de Tortugaña Telembí (comunidades de Cerro Frío, Chapilar, Guagaipi, Madroño, Naya, Palí, Pitadero, Sindawa, Misael (Los Valcanes), Alto Telembí, Bolteadero y Bravo). Resguardo indígena Awá Pulgande Tronquería (comunidades El Tigre, Loma de Caucho, Sabaleta, Tangaral, Pulgande Tronquería).
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-11-03
+    [group_gu1lq88/Nombre_de_quien_reporta] => María Fernanda Gómez
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Contaminación de fuente hídrica de abastecimiento de agua por derrame de crudo (Alerta previa de OCHA)
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Entre los meses de agosto y septiembre, en total al menos 1.341 personas (395 familias) de comunidades indígenas Awá del municipio de Barbacoas se desplazaron y otras están en
+confinamiento a causa de la presencia y accionar de Grupos Armados No Estatales (GANE) en el territorio.
+
+Desde finales del mes de julio, más de 475 personas (161 familias) de las comunidades de Cerro Frío, Chapilar, Guagaipi, Madroño, Naya, Palí, Pitadero, Sindawa, Misael (Los Valcanes), Alto Telembí, Bolteadero y Bravo del Resguardo indígena Awá de Tortugaña Telembí se encuentran en confinamiento debido a enfrentamientos y amenazas por parte de los GANE.
+
+En la misma fecha, más de 789 personas (202 familias) de las comunidades de El Tigre, Loma de Caucho, Sabaleta, Tangaral, Pulgande Tronquería del Resguardo indígena Awá Pulgande Tronquería, se encuentran en confinamiento por amenazas y enfrentamientos entre GANE.
+
+El pasado 25 de septiembre, más de 26 personas (15 familias) se desplazaron y más de 51 personas (17 familias) se confinaron en el resguardo indígena Awá Guelmambí El Bombo por amenazas y enfrentamientos entre GANE.
+
+Este resguardo ha tenido doble afectación, tras la emergencia antrópica (ver Alerta 1). El desplazamiento masivo y los tres confinamientos aún no cuentan con declaración, lo que indicaría retrasos en la respuesta y activación de la ruta de atención institucional. El número de afectados podría aumentar, una vez se consoliden los censos. Se está presentando una tendencia y estrategia de invisibilización de los confinamientos por parte de los GANE.
+
+En los tres resguardos mencionados, se presentó un alto número de desplazamientos individuales sin registro, y contaminación de los territorios con minas antipersonales, amenazas a líderes y autoridades étnicas, y restricciones a la movilidad. Lo anterior, pone en riesgo la seguridad alimentaria de la población y dificultan el acceso a los servicios de salud, educación y protección.
+    [group_yv1ph08/time2] => 2023-09-01
+    [group_yv1ph08/time3] => 63
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 395
+    [group_cn9za51/personas] => 1341
+    [group_cn9za51/comu] => 18
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vQ42okMMCzm2zggHw89X3L
+    [meta/instanceID] => uuid:0b26f24f-7e72-45c5-95b8-f69fa5f8a659
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 0b26f24f-7e72-45c5-95b8-f69fa5f8a659
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-11-07T17:07:13
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

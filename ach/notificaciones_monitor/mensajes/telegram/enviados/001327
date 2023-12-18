@@ -1,0 +1,42 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 370
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594265663
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBcl8GkD_zoITSqNSRMCLwUt26RhJQAAKMqDEbjCowROymRhhmvabfy7duBgAEAQADAgADbQADwrYDAAEaBA
+                            [file_unique_id] => AQADy7duBgAEwrYDAAE
+                            [file_size] => 9403
+                            [width] => 160
+                            [height] => 129
+                        )
+
+                )
+
+            [caption] => AYUDA
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat porta suscipit. Proin lobortis sem vel tellus condimentum hendrerit. Cras sodales est et efficitur tincidunt. Nulla facilisi. Praesent odio ex, semper vel porttitor ut, dictum a sapien.
+        )
+
+)

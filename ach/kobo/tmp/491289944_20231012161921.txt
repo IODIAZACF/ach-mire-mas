@@ -1,0 +1,81 @@
+stdClass Object
+(
+    [_id] => 491289944
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-10-12T11:54:16.355-05:00
+    [end] => 2023-10-12T16:19:19.243-05:00
+    [group_gu1lq88/Departamento] => BOLIVAR
+    [group_gu1lq88/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_gu1lq88/Otros_Municipios] => Municipios de Segovia, El Bagre y Remedios en el Departamento de Antioquía.
+    [group_gu1lq88/Vereda] => Municipio de Santa Rosa del Sur (Vereda Cañaveral de Chicamoqué y Vereda Mina Nueva). Municipio de Segovia (Vereda Bocas de Chicamoqué y Vereda Altos de Manila). Municipio El Bagre (Corregimiento Puerto López). Municipio de Remedios (Corregimiento de Carrizal)
+    [group_gu1lq88/Nombre_de_la_comunidad] => No indica
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-10-11
+    [group_gu1lq88/Nombre_de_quien_reporta] => María Fernanda Gómez. UGI-C
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => OTRA_EMERGENCIA
+    [group_hl1yc96/_Cual] => Confinamiento y Desplazamiento masivo
+    [group_hl1yc96/Problema] => HOMICIDIOS MINAS PRESENCIA_GAI VBG OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Ataques a bienes civiles (incineración de viviendas, vehículos y cultivos, hurto de documentos de identidad, vehículos, animales y enseres).
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 22 de septiembre por lo menos 479 personas (127 familias) se desplazaron desde las veredas Bocas de Chicamoqué (Segovia), Cañaveral de Chicamoqué y Mina Nueva (Santa Rosa del Sur) hacia el corregimiento de Puerto López (El Bagre), la vereda Altos de Manila (Segovia) y el corregimiento de Carrizal (Remedios), en Antioquia. La población desplazada ha retornado paulatinamente a las veredas de origen. Sin embargo, actualmente, aproximadamente 311 personas (128 familias) se encuentran confinadas en la vereda Cañaveral de Chicamoqué (Santa Rosa del Sur). Dentro de la población confinada hay por lo menos 33 niños (10 entre 0 y 5 años), 36 niñas (14 entre 0 y 5 años), 110 hombres y 96 mujeres. 
+
+La emergencia se produjo debido a una incursión armada de un Grupo Armado No Estatal (GANE) en Cañaveral de Chicamoqué, en la que se realizaron ataques contra la población civil como el homicidio de dos personas, amenazas y violencia sexual, así como ataques a bienes civiles que incluyeron incineración de viviendas, vehículos y cultivos, hurto de documentos de identidad, vehículos, animales y enseres. Además, el 22 de septiembre este GANE sostuvo enfrentamientos con otros dos que hacen presencia en el territorio y el 09 de octubre se presentó un combate entre un GANE y el Ejército Nacional en la vereda Mina Nueva.
+    [group_yv1ph08/time2] => 2023-10-11
+    [group_yv1ph08/time3] => 0
+    [group_yv1ph08/evidencia] => proteccion san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 255
+    [group_cn9za51/personas] => 790
+    [group_cn9za51/comu] => 6
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => En articulación entre las alcaldías de Segovia y Remedios, se ha hecho entrega en Carrizal, Altos de Manila, Cañaveral de Chicamoqué y Mina Nueva de insumos médicos, kits de aseo y alimentación para olla comunitaria hasta el 24 de septiembre. El 26 de septiembre, la Gobernación de Antioquia entregó alimentos para olla comunitaria hasta el 01 de octubre en Carrizal y Altos de Manila. Entre el 28 y el 30 de septiembre se realizó una brigada de atención en salud y acompañamiento de diferentes instituciones estatales y la Oficina del Alto Comisionado de las Naciones Unidas para los DerechosHumanos en Altos de Manila y Carrizal. Entre el 01 y el 02 de octubre la Gobernación de Antioquia entregó alimentos en Puerto López para realizar olla comunitaria hasta el 05 de octubre. El 03 de octubre la Unidad para la Atención a las Víctimas entregó 4 toneladas de Kits de alimentos, de aseo y de albergue a población retornada y confinada en Cañaveral de Chicamoqué y Mina Nueva.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar.
+    [group_mu9ho06/Seguridad] => Por completar.
+    [group_mu9ho06/Operativa] => Por completar.
+    [group_mu9ho06/Observaciones] => Por completar.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:55616860-51a3-4384-b20d-ff02bb996a52
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 55616860-51a3-4384-b20d-ff02bb996a52
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-10-12T21:19:20
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

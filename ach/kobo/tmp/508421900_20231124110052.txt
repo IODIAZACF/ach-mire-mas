@@ -1,0 +1,96 @@
+stdClass Object
+(
+    [_id] => 508421900
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-11-24T09:39:14.024-05:00
+    [end] => 2023-11-24T11:00:48.132-05:00
+    [group_gu1lq88/Departamento] => BOLIVAR
+    [group_gu1lq88/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_gu1lq88/Otros_Municipios] => Morales y  Arenal
+    [group_gu1lq88/Vereda] => Mina Repollo, Mina Café, Mina Viejito, Mina Guarpería, Mina Sinaí, Repollo, Mina Café, El Filo del Bolivador, Bolivador y Sinaí, Mina Argentina-Mina Sinaí,
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sector de la Guarapería
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-11-24
+    [group_gu1lq88/Nombre_de_quien_reporta] => Keidy Zoraida Pérez García
+    [group_gu1lq88/Cargo] => Consejo Noruego para Refugiados- NRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => OrganismoPublico CTJT
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Entre el lunes 20 y el martes 21 de noviembre se presentaron enfrentamientos entre el Ejército de Liberación Nacional (ELN) y las Autodefensas Gaitanistas de Colombia (AGC) en la vereda Mina Guarapería del municipio de Arenal, Bolívar. Posteriormente, el miércoles 22 de noviembre se registraron combates entre la Fuerza de Tarea Conjunta Marte y las AGC en el mismo sector. 
+
+Durante los enfrentamientos algunas viviendas y establecimientos comerciales de Mina Guarapería fueron saqueados y destruidos. Desde el lunes 20 de noviembre, se han desplazado desde el Sector de la Guaraperpia y veredas aledañas  al casco Urbano de Santa Rosa, 182 nucleos familias correspondiente a 454 personas .
+
+De igual manera, en Comité de Justicia Transicional extraordinario se hablo de un aproximado de 250 personas  se han desplazado a la Y de San Luquitas (Morales). De igual manera,  se formaliza en este espacio que 25 docentes de la zona que se han desplazado hacia el corregimiento de San Lucas y se encuentran alojados en el aula de la institución educativa de dicha comunidad. Se espera que el número total de desplazados aumente con el pasar de las horas. Por su parte, líderes de la región, la Personería y la Alcaldía de Santa Rosa del Sur, informan de estrictas restricciones a la movilidad que están sufriendo habitantes del sector minero desde el inicio de las hostilidades. 
+
+Por su parte, la empresa de transporte público que cubre gran parte de la Serranía de San Lucas anuncia la imposibilidad de seguir operando por los riesgos en protección que afrontan sus transportadores, lo que provocaría desabastecimiento de bienes esenciales. 
+
+Desde el domingo está interrupido totalmente el abastecimiento de bienes en el sector. Esta situación, sumada a la recurrencia de los hechos, mantiene en riesgo de desplazamiento masivo a aproximadamente 10 mil personas de la zona alta de la Serranía, según manifiesta la comunidad y la Alcaldía de Santa Rosa del Sur.
+
+Se activó el plan de contingencia para la atención humanitaria de la población desplazada alojada en la cabecera municipal de Santa Rosa del Sur, inicialmente se habilitó el albergue temporal habitual en el Centro del Menor Infractor con capacidad para 60 personas. Se piensa habilitar la Escuela #3 del municipio como segundo albergue en caso de ser requerido. La Alcaldía tiene recursos para solo 80 kits de alimentos que cubrirían parcialmente las necesidades en seguridad alimentaria del mismo número de familias durante aproximadamente 8 días, por lo que ha solicitado respuesta complementaria de la Gobernación de Bolívar, de la UARIV y de la Cooperación Internacional. El censo de este evento se cerrará el 27 de noviembre, a partir de allí, la Alcaldía elevaría las solicitudes de complementariedad a los otros niveles.
+    [group_yv1ph08/time2] => 2023-11-20
+    [group_yv1ph08/time3] => 4
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Albergue, alimentos y elementos de higiene
+    [group_cn9za51/familias] => 305
+    [group_cn9za51/personas] => 704
+    [group_cn9za51/comu] => 12
+    [group_cn9za51/Grupo_tnico] => afro mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde la Administración municipal se esta brindando una respuesta en terminos de albergue y alimentos para olla comunitaria con capacidad en términos de duración  de una semana.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => El ingreso a territorio se puede hacer vía aérea desde Bogotá a  Bucaramanga,  desde allí, se accede a transporte terrestre  con un recorrido entre 5 a 6 horas hasta el municipio de Santa Rosa del Sur, donde se cuenta con una vía pavimentada pasando por  Puerto Wilches /Paso del Ferry /hasta Canta Gallo.
+
+En el caso urbano de Santa Rosa se evidencian condiciones de acceso seguro para garantizar la atención humanitaria de emergencia.
+    [group_mu9ho06/Seguridad] => Los enfrentamientos se presentan entre el  Ejército de Liberación Nacional (ELN) y las Autodenfensas Gaitanistas de Colombia (AGC).
+
+Riesgos
+- Desplazamiento intraveredal / No a ceso ghumanitario por combates y enfrentamientos
+- Desplazamiento masivo hacia el el casco urbano del municipio
+- MUSE y presencia de artefactos explosivos.
+- Saqueos y destrucción de bienes.
+    [group_mu9ho06/Operativa] => Autoridades Locales del Municipio.
+OCHA
+    [group_mu9ho06/Observaciones] => Es importante mencionar que a a fecha las personas se continúan desplazando de las veredas aledañas al sector de la Guarapería donde se estáan presentando los enfrentamientos.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:e702c6c6-eae6-4011-acbb-6ee471b00854
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => e702c6c6-eae6-4011-acbb-6ee471b00854
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-11-24T16:00:50
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

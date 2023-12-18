@@ -1,0 +1,42 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 202
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 7341445
+                    [first_name] => Oswaldo
+                    [last_name] => Zerpa
+                    [username] => OswaldoZerpa
+                    [type] => private
+                )
+
+            [date] => 1593725770
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAPKXv5TSmKHDb9RMGU19cVL0ER7hBIAApuoMRuC3ZBHzP1Sd7uoOHIKoRIwAAQBAAMCAANtAAOcJQEAARoE
+                            [file_unique_id] => AQADCqESMAAEnCUBAAE
+                            [file_size] => 9403
+                            [width] => 160
+                            [height] => 129
+                        )
+
+                )
+
+            [caption] => Respueta de comando 
+START
+        )
+
+)

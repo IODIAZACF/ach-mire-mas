@@ -1,0 +1,85 @@
+stdClass Object
+(
+    [_id] => 445098933
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-06-26T09:52:12.932-05:00
+    [end] => 2023-06-26T10:09:35.934-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => SIPI
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Por Confirmar
+    [group_gu1lq88/Nombre_de_la_comunidad] => San Agustín, Las Brisas, Barranconcito y Cañaveral
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-06-26
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el ham
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM MINAS PRESENCIA_GAI RECLUTAMIENTO VBG OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Amenazas individuales y colectivas
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 18 de junio, al menos 337 personas (116 familias) afrodescendientes, -entre ellas más de 242 niños, niñas y adolescentes-, de las comunidades de San Agustín, Las Brisas, Barranconcito y Cañaveral del Consejo Comunitario General de San Juan (ACADESAN) del municipio de Sipí se han desplazado hacia la comunidad de San Miguel en Medio San Juan, a las comunidades de Dipurdú, La Marqueza, Isla de la cruz y Negría de los municipios de Medio San Juan e Istmina, y hacia las cabeceras municipales de Istmina y Sipi, debido a enfrentamientos entre Grupos Armados No Estatales (GANE). La mayoría de las familias huyeron de sus hogares sin sus pertenencias e identificación y se encuentran en casas de redes de apoyo (amigos y/o familia).
+Asimismo, más de 1.389 personas (514 familias apróx.) se encuentran confinadas en las comunidades de San Agustín, Sanandocito, La Marqueza, Lomas de Chupey, Cañaveral, Tanando, Santa Rosa, Teatino y en la cabecera municipal de Sipí con múltiples restricciones para el acceso a bienes y servicios indispensables para su supervivencia por el riesgo de enfrentamientos entre los GANE y restricción de movilidad sobre el río Sipí. A estos hechos se suman múltiples ataques contra la población civil, como amenazas individuales/colectivas, instalación de minas antipersonal y riesgo de reclutamiento, uso y utilización de niños, niñas y adolescentes.
+Enlace: https://drive.google.com/file/d/1YBMunDK9tmgZ8vXNaY68-x0ZHUrDOjeG/view
+    [group_yv1ph08/time2] => 2023-06-18
+    [group_yv1ph08/time3] => 8
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 630
+    [group_cn9za51/personas] => 1726
+    [group_cn9za51/comu] => 4
+    [group_cn9za51/Grupo_tnico] => afro
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => El 19 y 20 de junio, la Administración Municipal de Medio San Juan entregó alimentos para ollas comunitarias con duración de 5 días apróx. para 116 familias desplazadas en San Miguel. La Diócesis de Istmina y ACADESAN entregaron prendas de vestir para las familias desplazadas. El 20 de junio, las Administraciones Municipales de Medio San Juan, Sipí y el Ministerio Público realizaron una misión de verificación y toma de declaración y censos. La Diócesis de Istmina y ACNUR apoyaron con cinco personas para la realización de los censos y el diligenciamiento de anexo 13 de las familias desplazadas.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 19 de junio, la Administración Municipal de Medio San Juan realizó Comité Territorial de Justicia Transicional (CTJT) en el que declaró la ocurrencia de los hechos victimizantes, y se comprometió a realizar una misión de verificación el 20 de junio con el acompañamiento de las entidades competentes de los municipios receptores y, programar una reunión entre las Administraciones Municipales de Medio San Juan y Sipí para coordinar una acción conjunta en el sector de alimentación. El 21 de junio, la Administración Municipal de Sipí realizó CTJT en el que declaró los hechos victimizantes por confinamiento y desplazamiento, acordó la realización del censo y la toma declaración de los hechos victimizantes, así como solicitar apoyo en subsidiariedad a la Gobernación y la UARIV y, a la Defensoría del Pueblo para la activación de un corredor humanitario que permita asistir a las comunidades confinadas. El Equipo Local de Coordinación (ELC) de Chocó realiza seguimiento a la situación humanitaria de los municipios. OCHA ha coordinado la respuesta a través de los Standard Operating Procedures (SOP). El Foro Interétnico Solidaridad Chocó (FISCH) hará entrega de alimentos para 2 ollas comunitarias para las 116 familias desplazadas en la comunidad de San Miguel y la Diócesis de Istmina ingresará con algunos kits de higiene. Así mismo, HAI tiene previsto entrega en los sectores de protección, salud mental, alimentación y WASH para la semana de julio para familias desplazadas.
+    [group_mu9ho06/Logisitica] => Por Confirmar
+    [group_mu9ho06/Seguridad] => Por Confirmar
+    [group_mu9ho06/Operativa] => Por Confirmar
+    [group_mu9ho06/Observaciones] => Vacios:
+La capacidad operativa y presupuestal de las entidades competentes para asistir a las poblaciones afectadas se encuentra limitada debido a la persistencia y recurrencia de las emergencias humanitarias.
+La falta de documentación de identidad de las personas afectadas obstaculiza el levantamiento del censo y la declaración, limitando el restablecimiento de sus derechos y la ayuda humanitaria en la inmediatez.
+Las restricciones de movilidad sobre el río Sipí limita obstaculizan acceso de información sobre la situación humanitaria de las personas confinadas, la activación de las rutas de atención, la verificación de los hechos y la asistencia humanitaria. Además, ante el fenómeno del niño en el río San Juan, se ha presentado un bajo nivel de agua lo que limita la navegabilidad evitando el acceso a las comunidades.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/1YBMunDK9tmgZ8vXNaY68-x0ZHUrDOjeG/view+Por Confirmar+¿FCE?
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:ede41cf2-b36d-4cde-a853-b4b07c80c29f
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => ede41cf2-b36d-4cde-a853-b4b07c80c29f
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-06-26T15:09:35
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

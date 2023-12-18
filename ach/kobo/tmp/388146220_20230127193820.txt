@@ -1,0 +1,129 @@
+stdClass Object
+(
+    [_id] => 388146220
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-01-27T14:39:00.050-05:00
+    [end] => 2023-01-27T19:36:33.760-05:00
+    [group_pl6la06/_1_C_digo] => COTI-
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2022-09-29
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2022-09-29
+    [group_pl6la06/_4_Departamento] => CORDOBA
+    [group_pl6la06/CORDOBA] => TIERRALTA
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => RESGUARDO EMBERA KATÍO DEL ALTO SINÚ
+    [group_pl6la06/_8_Comunidad] => COMUNIDADES INDÍGENAS NEJONDÓ, KOREDO,KAPUPUDO, WIMA, CHANGARRA
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA
+    [group_mb5pt53/_1a_Evaluador] => Erika Torres
+    [group_mb5pt53/_1b_Celular] => 3213260846
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2022-09-25
+    [group_rq63s60/_1c_Descripci_n_del_evento] => El día 25 de septiembre de 2022 en el resguardo indígena Embera Katio del Alto Sinú que se encuentra en el municipio de Tierralta en el departamento de Córdoba, específicamente en jurisdicción de las comunidades de Koredo y kapupudó ubicadas en el rio Sinú, helicópteros del ejército realizaron sobrevuelos y descendieron dentro de las comunidades que conforman el resguardo sin previo aviso, acausando afectaciones y daños a cultivos de pancoger así como viviendas, por lo que los pobladores de las comunidades de Koredo,Kapupudo, Wima y changarra al ver el despliegue militar y ante el temor de quedar en el medio de un combate por la fuerte presencia de GANE en la zona, decidieron desplazarse forzosamente hacia la comunidad anfitriona de Nejondó, se prevé que la emergencia abarca un aproximado de 1.102 personas que conforman 277 familias desplazadas.
+
+Las comunidades de Kapupudó, Koredó y zona dispersa de Nejondó se encuentran asentadas en alojamientos temporales improvisados sin condiciones de habitabilidad dado que no cuentan con suficientes materiales para sus albergues, algunas familias duermen sobre el suelo
+    [group_rq63s60/group_lm6cx76/a_Social] => Prolongación de las situaciones de conflicto por la fuerte presencia de GANE  pues estos pretenden la potenciación de rutas estrategicas para su libre movilización ya que el resguardo se encuentra estrategicamente ubicado en carcanías al golfo de morrosquillo y el Parque Nacional Natural Paramillo  y los sobrevuelos que se han seguido presentando sin realización de consulta previa a las comunidades que han desembocado en agudización  de violencias basadas en género ante la permanencia de las comunidades en alojamientos temporales. Institucionalidad que no cuenta con los recursos para brindar respuesta a la emergencia pues esta desborda su capacidad. Comunidades que pese a que cuentan conprotección especial constitucional sientes que sus derechos al territorio y fundamentales no se encuentran garantizados.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Se trata de comunidades pertenecientes al resguardo indígena Embera Katío del Alto Sinú con un aproximado de 835 NNA y 229 mujeres afectados, quienes se asientan en caseríos normalmente a las orillas de los ríos al rededor de los  cuales construyen sus tambos o viviendas siendo éstos una parte importante de su razón de ser al igual que la tierra, como medio de vida y desarrollo de su cultura, la cual se ha visto desmejorada por las afectacciones que padecieron producto de los sobrevuelos sin consulta previa.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Está basada principalmente en la actividad agrícola (limpieza, siembra y recolección), tanto hombres como mujeres cultivan principalmente maíz, seguido por el plátano, la yuca y arroz para el sustento diario,, sin tener otras fuentes de ingresos constantes y ante la destrucción total o parcial de cultivos por los sobrevuelos así como el desplazamiento hacia Nejondó se encuentran sin acceso a sus cultivos para su alimentación básica. La extracción de madera hace parte también de su haber, población afectada en sus dinámicas económicas producto de la construcción de la hidroeléctrica de Urrá.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Desde Tierralta se realiza un traslado terrestre hacia puerto Frasquillo tiempo de duración son aproximadamente 2 horas, del Puerto hacia las comunidades es un ingreso Fluvial por el rio Sinú, la población principalmente afectada se encuentran ubicadas en el centro poblado de Nejondó.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Se han visto obligados a instalarse en asentamientos temporales improvisados sin condiciones de habiltabilidad por lo que muchas familias duermen en el suelo, sin acceso a agua seguro o suficiente iluminación/ energía que puede exacerbar los riesgos especialmente en NNA y mujeres, apoyo psicosocial por el fuerte temor ante la presencia de GANE, atención primaria en salud y entrega de medicamentos especialmente a NNA, gestantes y adultos mayores.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Ante el alojamiento temporal improvisado en los espacios reducidos y al no existir estandares minimos de  WASH puede presentarse hacinamiento que desemboca en problematicas de salud públicas y ambiental, manejo de residuos que se producen.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/Riesgos_para_respuesta] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO LOS_CAPARROS_O_CAPARRAPOS
+    [group_fm93i53/_1i_Descripci_n_VBG] => MARGINACION RESTRICCION_ACTIVIDADES_DOMESTICAS LIMITADO_ACCESO_A_EDUCACION VIOLENCIA_SEXUAL ECONOMICA_Y_PATRIMONIAL
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => Apoyo para transporte aereo para llegar hasta la Capital de Córdoba, desde Montería se realiza traslado terrestre hasta tierralta el tiempo aproximado es de 1 hora y 30 minutos. Desde tierralta se realiza un traslado terrestre hacia Puerto Frasquillo tiempo de duración son aproximadamente 2 horas, del Puerto hacia las comunidades es un ingreso Fluvial por el rio Sinu.
+    [group_fm93i53/seguridad] => Fuerte presencia de GANE, poca señeal o conectividad para establecer comunicaciones frecuentes. Ante las lluvias pueden presentarse destrucción o inundación de vías de acceso o desbordamiento de ríos
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 277
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 1102
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 3
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-01-27
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => Censo masivo Nejondo Tierralta-18_57_45.xlsx
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 1102
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => La Alcaldía y el Ministerio Público realizaron la toma de declaración por desplazamiento y levantaron el censo. Cruz Roja Colombiana en articulación con el Hospital de Tierralta realizaron una brigada de salud con 599 beneficiarios en medicina general, entrega de medicamentos, odontología, psicología, salud sexual y reproductiva, implantes subdérmicos, tratamiento de malaria y pedagogía de acceso a agua segura.  Blumont entregó alimentos para olla comunitaria.  Heartland Alliance International realizó misión con actividades en psicoeducación, salud mental, orientación legal.
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Alcaldía, ELC
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION_-VBG PROTECCION-PR EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => Es necesario implementar medidas de prevención y
+protección, apoyo jurídico a las instituciones estatales para brindar acompañamiento y garantizar que las víctimas por desplazamiento
+accedan a las rutas de atención, jornadas de orientación legal en ley de víctimas y restitución de tierras, acceso efectivo a servicios de salud estatal, responsabilidad de la institucionalidad ante las víctimas del conflicto, fortalecimiento de la guardia indígena y derecho propio.
+    [group_aa8xg30/group_ow1dy59/VBG] => Se ha consumado el riesgo de violencias basadas en género con al menos dos casos, acciones de prevención de violencias- e identificación de las mismas, activación en rutas de atención y primeros auxilios psicológicos, acompañamiento y asistencias a las mujeres en riesgo, puesto que, la desconfianza que existe hacia la institucionalidad limita que las mujeres denuncien y tengan acceso a servicios y temas de protección, kits de dignidad para las mujeres con enfoque diferencial étnico
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => Auxilios psicológicos por el temor ante la presencia de GANE y respecto a líderes acciones legales así como activación de rutas de protección ante los riesgos latentes en los que se encuentran.
+    [group_aa8xg30/group_lg2ro37/Shelter] => kits de habitat y adecuación de albergue
+    [group_aa8xg30/group_fv0ct51/Agua] => Existe la necesidad latente de  277 filtros para las familias afectadas,
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Actividades para garantizar los estándares mínimos de WASH en los alojamientos temporales.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Se necesitan más de 277 kits de aseo
+    [group_aa8xg30/group_jn0nm53/san] => Se requiere asistencia alimentaria para las 1.102 personas desplazadas que cubran sus requerimientos nutricionales mínimos, considerando las necesidades específicas de grupos vulnerables (niños, niñas, mujeres gestantes, mujeres lactantes y adultos mayores) con enfoque diferencial étnico
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Igualmente, se requieren jornadas de atención
+primaria en salud y entrega de medicamentos para niños, niñas,
+mujeres gestantes y adultos mayores con enfoque diferencial étnico.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Se requiere brindar apoyo psicosocial debido al temor por la
+presencia de GANE y ante la imposibilidad de retornar al territorio debido a la continuidad de los sobrevuelos.
+    [group_aa8xg30/group_tb5de96/EIE] => Se requieren 664 kits escolares y actividades lúdicas para garantizar la continuidad del ciclo escolar de los niños, niñas y adolescentes con enfoque diferencial étnico y formación a profesores y agentes educativos.
+    [group_aa8xg30/BrechasInformacion] => NA
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 227
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 3
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_ys9jk69/_0_Personas_que_participaron_e] => 0
+    [group_aa0qz67/group_ys9jk69/_Cual_001] => NA
+    [group_sp7cc00/Observaciones_adicionales] => Ncesidades que se han agudizado debido a lo prolongado del desplazamiento ocasionado por la imposibilidad de las comunidades de retornar a sus territorios ante la continuidad de los sobrevuelos de helicopteros, la presencia de GANE y el temor y la posiblidad de combates que lleguen a afectar sus comunidades.
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:90111027-b709-4bd4-b04e-090009635666
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 90111027-b709-4bd4-b04e-090009635666
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F90111027-b709-4bd4-b04e-090009635666%2FCenso_masivo_Nejondo_Tierralta-18_57_45.xlsx
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F90111027-b709-4bd4-b04e-090009635666%2FCenso_masivo_Nejondo_Tierralta-18_57_45.xlsx
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F90111027-b709-4bd4-b04e-090009635666%2FCenso_masivo_Nejondo_Tierralta-18_57_45.xlsx
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F90111027-b709-4bd4-b04e-090009635666%2FCenso_masivo_Nejondo_Tierralta-18_57_45.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/90111027-b709-4bd4-b04e-090009635666/Censo_masivo_Nejondo_Tierralta-18_57_45.xlsx
+                    [instance] => 388146220
+                    [xform] => 638464
+                    [id] => 160604831
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-01-28T00:36:48
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

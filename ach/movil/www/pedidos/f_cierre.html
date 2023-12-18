@@ -1,0 +1,52 @@
+    <div class="toolbar">
+		<div class="toolbar-inner">
+			<div class="left"></div>
+			<div class="title">
+				Cierre de Pedido
+
+			</div>
+			<div class="right"><a class="link sheet-close" href="#">x</a></div>
+		</div>
+    </div>
+    <div class="sheet-modal-inner">
+		<div class="block" style="margin: 0px 0px;">		
+			<div class="list" style="margin: 0px 0px; font-size:14px;">			
+				<ul>			
+					<li class="item-input-wrap">
+						<div class="row">
+							<div class="col-33  tablet-33 derecha"> Sub Total </div>
+							<div class="col-33  tablet-33 derecha"> Impuesto </div>
+							<div class="col-33  tablet-33 derecha"> Total </div>
+						</div>
+						<div class="row">
+							<div class="col-33  tablet-33 derecha" id="MONTO_BRUTO"> 0</div>
+							<div class="col-33  tablet-33 derecha" id="MONTO_IMPUESTO"> 0 </div>
+							<div class="col-33  tablet-33 derecha" id="NETO"> 0 </div>
+						</div>
+					</li>			
+					<li>
+						<div class="item-input-wrap" style="margin:5px 0px;">
+							<select id="CAMPO1" name="gender">
+							  <option value="NOTA DE VENTA" selected>NOTA DE VENTA</option>
+							  <option value="FACTURA">FACTURA</option>
+							</select>
+						</div>
+					</li>			
+					<li>
+						<div class="item-input-wrap">
+							<input id="COMENTARIOS" type="text" name="name" placeholder="Comentarios">
+						</div>
+					</li>			
+					<li>
+						<div class="row" style="padding: 8px;">
+							<button class="col button button-fill color-green opciones" data-funcion="t_f_cierre" data-opcion="f12">Aceptar</button>
+							<button class="col button button-fill color-blue opciones"  data-funcion="t_f_cierre" data-opcion="esc" >Cancelar</button>
+						</div>
+
+					</li>
+					
+				</ul>			
+			</div>			
+		</div>
+    </div>
+	

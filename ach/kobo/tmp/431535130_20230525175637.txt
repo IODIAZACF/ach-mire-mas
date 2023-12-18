@@ -1,0 +1,86 @@
+stdClass Object
+(
+    [_id] => 431535130
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-05-23T14:06:54.383-05:00
+    [end] => 2023-05-25T17:56:36.173-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => SIPI
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => 0
+    [group_gu1lq88/Nombre_de_la_comunidad] => Charco Largo, Charco Largo y Barrancon
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-05-25
+    [group_gu1lq88/Nombre_de_quien_reporta] => ANGELICA PINO
+    [group_gu1lq88/Cargo] => NRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => ENFRENTAMIENTOS
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Se presentan enfrentamientos entre los actores armados en disputa del territorio en el municipio se Sipi, los cuales se registraron durante el fin de semana del 19 de mayo en la zona rural de Torrá, Cajón, Charco Largo, Charco Hondo y Barracón en los municipios de Nóvita y Sipí, dejando además una civil herida. 
+Así mismo, desde 25 de mayo se emitio un comunicado dando a conocer que desde el 27 de mayo se empieza un paro armado por parte de uno de los GANE, lo que, generando temor y zozobra en las comunidades, porque, además, se comunica el aumento de las acciones armadas (enfrentamientos) y recomiendan el desplazamiento de las comunidades.
+
+Es por esta situación que las comunidades de Charco Largo, Charco Hondo y Barracón del municipio de Sipí, se desplazaron masivamente hacia diferentes municipios de la zona del San Juan, (Istmina y Medio San Juan).
+    [group_yv1ph08/time2] => 2023-05-25
+    [group_yv1ph08/time3] => 0
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Se evidencian necesidades de alimentación, elementos de higiene y adecuación de lugares de albergue
+    [group_cn9za51/familias] => 469
+    [group_cn9za51/personas] => 1148
+    [group_cn9za51/comu] => 3
+    [group_cn9za51/Grupo_tnico] => afro
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => El acceso a Istmina se realiza desde Quibdó, en un traslado de dos horas de forma terrestres.
+Desde Istmina por vía terrestre se llega a Andagoya - Medio San Juan en un recorrido de 1 hora.
+    [group_mu9ho06/Seguridad] => Las familias están llegando hasta los cascos urbanos de los municipios de Istmina y Medio San Juan por lo que se no cuentan por ahora con riesgos de seguridad para la atención o el desarrollo de acciones.
+    [group_mu9ho06/Operativa] => .
+    [group_mu9ho06/Observaciones] => ´
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:0d108154-b5c4-49d4-9d23-69096beeab62
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 0d108154-b5c4-49d4-9d23-69096beeab62
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-25T22:56:36
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

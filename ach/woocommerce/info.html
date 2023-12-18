@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<script>
+if (!!window.EventSource) {
+  var source = new EventSource('actualizar_productos.php');
+  
+	source.addEventListener('message', function(e) {
+	  console.log(e.data);
+	  if(e.data=='--fin--'){
+		console.log('cerrando conexion');
+		source.close();
+		}
+	}, false);
+
+	source.addEventListener('open', function(e) {
+	  // Connection was opened.
+	  console.log('???????inicio conexion ??????');
+	}, false);
+
+	source.addEventListener('error', function(e) {
+	  if (e.readyState == EventSource.CLOSED) {
+		// Connection was closed.
+		console.log('******fin conexion*****');
+	  }
+	}, false);
+
+  
+} else {
+  // Result to xhr polling :(
+}
+
+</script>
+</body>
+</html>

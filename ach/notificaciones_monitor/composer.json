@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twilio/sdk": "^5.42",
+        "messagebird/php-rest-api": "^1.16",
+        "eleirbag89/telegrambotphp": "^1.3",
+        "pimax/fb-messenger-php": "dev-master",
+        "dg/twitter-php": "^4.1"
+    }
+}

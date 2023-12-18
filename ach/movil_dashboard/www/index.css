@@ -1,0 +1,71 @@
+/* Your app styles here */
+
+.xbody{
+
+  position: fixed;
+  overflow: hidden;
+
+}
+
+.xpage{
+
+  position: fixed;
+  overflow: hidden;
+
+}
+
+a.link{
+	color : white;
+	
+}
+
+.navbar{
+    background-color : #13138f;
+	color : white;
+}
+
+.toolbar{
+    background-color : #13138f;
+}
+
+a.tab-link{
+	color: white;
+}
+
+.negrita{
+	font-weight: bold;
+}
+
+.derecha{
+	text-align : right;
+}
+
+.centrado{
+	text-align : center;
+}
+
+.oscuro{
+	background-color : #e3eaf4;
+
+}
+
+.blink {
+    animation-duration: 1s;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+.xpanel {
+  width: 40%;
+}
+
+@keyframes blink {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}

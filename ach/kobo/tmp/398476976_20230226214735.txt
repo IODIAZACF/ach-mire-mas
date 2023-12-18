@@ -1,0 +1,138 @@
+stdClass Object
+(
+    [_id] => 398476976
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-09-26T14:14:09.895-05:00
+    [end] => 2023-02-26T21:47:20.968-05:00
+    [group_gu1lq88/Departamento] => META
+    [group_gu1lq88/META] => LEJANIAS
+    [group_gu1lq88/Otros_Municipios] => CUBARRAL, EL CASTILLO
+    [group_gu1lq88/Vereda] => Agua Bonita, Agua Linda, Alta Cristalina, Alto El Tigre, Alto Lejanías, Alto Yucapé,Alta Cal, Alto Yucate, Bajo Yucate, Benjamín Herrera, Brisas de Yamanes, Brisas del Jordán, Campo Alegre, Caño Brasil, Caño Claro, Caño Dulce, Caño Embarrado, Caño Leche, Caño Lindo, Caño Tigre, Carmén Uno, Cumaral Bajo, El Cable, El Delirio, El Encanto, El Jardín, El Reflejo, El Reposo, El Retiro, La Argelia, La Cima, La Cumbre, La Esmeralda, La Esperanza, La Floresta, La Gloria, La Macarena, Los Alpes, Malavar, Medellín del Ariari, Miravalles, Playa Rica, Puerto Esperanza, Rio Viejo, San Antonio, San Luis de Yamanes, Santa Cruz, Unión de la Cal. Cubarral Aguas Claras, Arrayanes, Bellavista, Brisas del Tonoa, El Central, El Vergel, Jujuaro, La Amistad, La Unión, Libertad, Libertad Alta, Los Alpes, Marayal, Mesa Redonda, Monserrate, Palomas, Puerto Ariari, Retiro, Río Azul, Santa Barbara, San Miguel, Vergel Alto, Citas. Angosturas del Guape, Baja Cristalina, Bajo Yucapé, Bellavista, Buenos Aires, Cafetales, Caño Rojo, El Brillante, El Convenio, El Diamante, El Jardín, El Paraíso, El Roble, El Topacio, El Triunfo, Guarumal, La Albania, La Aurora, La Cabaña, La Española, La Floresta, La Veinticuatro, Las Camelias, Las Delicias, Las Margaritas, Los Laureles, Lusitania, Mira Valles del Güéjar, Naranjal, San Ignacio y Tres Estrellas.
+    [group_gu1lq88/Nombre_de_la_comunidad] => Resguardo Doquera Caño Rojo - Lejanias
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-02-24
+    [group_gu1lq88/Nombre_de_quien_reporta] => Marcela Vera
+    [group_gu1lq88/Cargo] => Medicos del Mundo - Francia
+    [group_gu1lq88/Origen_de_la_informaci_n] => OrganismoPublico
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => RESTRICC_MOV
+    [group_hl1yc96/Problema] => NARCOTRAF PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => La reconfiguración del escenario de riesgo para la población de estos tres municipios del Meta, comienza luego de los acuerdos de Paz en noviembre de 2016, que permitió temporalmente la salida de los frentes 26, 40 y 53 de las partes altas de la región del Sumapaz, territorios que eran considerados en su momento como
+vedados para la población civil y el propio Estado. En la actualidad, la presencia del frente 40 de las facciones disidentes de las FARC (FD Farc), con incursiones esporádicas del frente 53 de esta misma organización, evidencian nuevos episodios de terror y control social y territorial, con especial gravedad en las zonas rurales
+montañosas y más apartadas y dispersas de las respectivas jurisdicciones municipales, donde la población es más vulnerable. El creciente fortalecimiento de las estructuras de los frentes 40 y 53 (que se estima en más de un centenar), utilizan como corredor de movilidad las veredas colindantes entre El Castillo y Lejanías.
+En este escenario también se debe considerar la probable incursión a la zona, de integrantes de la otra facción de las FARC, denominados facción disidente de la Nueva Marquetalia, con cabecillas emblemáticos y curtidos en la guerra de guerrillas, como alias “Aldinever”. De consolidar su presencia en este territorio,
+eventualmente conllevaría enfrentamientos armados entre uno y otro bando, para hacerse hegemónicamente del control territorial del corredor natural hacia el Sumapaz, a través de algunas veredas de los municipios de Uribe y Mesetas, y de los municipios de Lejanías y El castillo, tal como se describió en la AT 026-20 para
+Uribe y Mesetas.
+Otra circunstancia que también afecta reiterada y sostenidamente a la población civil de ambos municipios, son las acciones de algunos individuos de la misma región, que al parecer, en el pasado hicieron parte o tuvieron que ver directa o indirectamente con las FARC EP, y que actualmente pretenden conformar bandas
+delincuenciales dedicadas a la extorsión, al microtráfico y hurtos sin distinción de condición o calidad social de sus víctimas, circunstancia cuyo efecto es que el Frente 40 de las FD de las FARC, al no reconocerlos dentro de su organización,
+amenazan en tomar represalias violentas contra ellos, con lo cual se exacerba aún más el escenario de riesgo, contribuyendo a mayor zozobra y terror en la población civil.
+A los anteriores GAO se suma la eventual incursión de Grupos Armados Sucesores del Paramilitarismo (GASP), entre las que se identifican las A.G.C. o Clan del Golfo y el Bloque Meta, que contribuye a agravar el riesgo para la población de estas
+zonas rurales descritas. Las A.G.C. son la estructura criminal de mayor consolidación, proveniente de Granada y San Martín de los Llanos. Dichos GASP utilizan personas jóvenes, algunos menores de edad, vinculados a combos o pandillas o bandas delincuenciales en proceso de fortalecimiento, para llevar a
+cabo los cobros extorsivos y realizar llamadas y mensajes amenazantes para intimidar a sus víctimas, o en su defecto, perpetrar homicidios selectivos. Una modalidad que se puede considerar “tercerizada”, para evadir la responsabilidad
+directa y evitar su visibilización en la zona de influencia ante las autoridades policiales y de la fiscalía general de la nación.
+Muchos de los jóvenes vinculados a los GASP son reclutados principalmente en los municipios de Granada y San Martín, con el propósito de trasladarlos a otros municipios, como Lejanías, El castillo y Cubarral, donde seleccionan sus víctimas entre la población campesina, productores agropecuarios y comerciantes.
+Según lo expresado el territorio de los municipios de El Castillo, Lejanías y Cubarral
+con enfoque especial hacia la zona de influencia del Parque Natural Nacional
+Sumapaz es factible que el frente 40, 53 y 27 de las facciones disidentes de las
+FARC, además de La Nueva Marquetalia, el frente bloque comandante Jorge
+Briceño, realicen eventuales incursiones en dicho territorio, así como también los
+grupos sucesores del paramilitarismo consolidados como las A.G.C. y el Bloque
+Meta, como los emergentes que provienen de la altillanura colombiana y del sur el
+Meta, junto con los que están germinando en las veredas la Esperanza, El Retiro y
+La Esmeralda de El Castillo.
+Lo anterior podría desencadenar en una serie de confrontaciones armadas por la
+disputa territorial, desencadenando infracciones al DIH y sendas afectaciones a los
+derechos fundamentales a la vida, integridad y libertad personal de la población
+civil de los municipios de El Castillo, Lejanías y Cubarral. Se estima la ocurrencia
+de homicidios (selectivos y múltiples), desapariciones forzadas, afectaciones como
+consecuencia de las acciones bélicas (accidentes por minas y/o armas trampa y
+MUSE, enfrentamientos con interposición de población civil), utilización de
+métodos para generar terror e intimidación en la población civil (amenazas
+mediante panfletos, mensajes de texto, y verbales), destrucción de bienes civiles,
+desplazamientos forzados y reclutamientos forzados de niños, niñas, adolescentes
+y jóvenes y utilización ilícita de los niños en el conflicto armado.
+El escenario de riesgo está dado por el interés de los grupos armados organizados
+en perpetuar prácticas como el despojo de tierras y fomentar el abandono forzado
+de las mismas, con el objeto de interferir con la implementación de la figura de
+restitución de tierras, se advierte que continúe la imposición violenta de pautas y
+patrones de conducta individuales o colectivos con el fin de fomentar episodios
+cíclicos de prácticas violentas propias del conflicto armado interno, prácticas que
+focalizan principalmente población campesina dispersa, comunidades indígenas,
+líderes sociales, comunales y ambientales, sin dejar de lado a la población
+socialmente estigmatizada, niños, niñas adolescentes y funcionarios y servidores
+públicos.
+    [group_yv1ph08/time2] => 2023-02-16
+    [group_yv1ph08/time3] => 8
+    [group_yv1ph08/evidencia] => proteccion educacion salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => PROTECCION , SALUD
+    [group_cn9za51/familias] => 0
+    [group_cn9za51/personas] => 7527
+    [group_cn9za51/comu] => 70
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Las Veredas pertenecientes a estos 3 municipios tienen acceso terrestre
+    [group_mu9ho06/Seguridad] => Se observa en la alerta la presencia de grupos pertenecientes a disidencias de los frentes 40 y 53.  Probable incursión a la zona, de integrantes de la otra facción de las FARC, denominados facción disidente de la Nueva Marquetalia, con cabecillas emblemáticos y curtidos en la guerra de guerrillas, como alias “Aldinever”, se suma la eventual incursión de Grupos Armados Sucesores del Paramilitarismo (GASP), entre las que se identifican las A.G.C. o Clan del Golfo y el Bloque Meta, que contribuye a agravar el riesgo para la población
+    [group_mu9ho06/Operativa] => Defensoría del Pueblo
+    [group_mu9ho06/Observaciones] => Se esta haciendo seguimiento de las zonas o veredas mas afectadas, tras el reporte y actualización de la alerta temprana emitida por la Defensoria del Pueblo
+    [group_mu9ho06/Subir_el_Anexo] => AT N° 004-2023 MET-Cubarral, El Castillo y Lejanías of_share(1) (1)-21_39_6.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:f68d8900-9b9c-4373-9aa2-a21e7cd752b3
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => f68d8900-9b9c-4373-9aa2-a21e7cd752b3
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Ff68d8900-9b9c-4373-9aa2-a21e7cd752b3%2FAT_N_004-2023_MET-Cubarral_El_Castillo_y_Lejan%C3%ADas_of_share1_1-21_39_6.pdf
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Ff68d8900-9b9c-4373-9aa2-a21e7cd752b3%2FAT_N_004-2023_MET-Cubarral_El_Castillo_y_Lejan%C3%ADas_of_share1_1-21_39_6.pdf
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Ff68d8900-9b9c-4373-9aa2-a21e7cd752b3%2FAT_N_004-2023_MET-Cubarral_El_Castillo_y_Lejan%C3%ADas_of_share1_1-21_39_6.pdf
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Ff68d8900-9b9c-4373-9aa2-a21e7cd752b3%2FAT_N_004-2023_MET-Cubarral_El_Castillo_y_Lejan%C3%ADas_of_share1_1-21_39_6.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/f68d8900-9b9c-4373-9aa2-a21e7cd752b3/AT_N_004-2023_MET-Cubarral_El_Castillo_y_Lejanías_of_share1_1-21_39_6.pdf
+                    [instance] => 398476976
+                    [xform] => 572478
+                    [id] => 165146743
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-27T02:47:34
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

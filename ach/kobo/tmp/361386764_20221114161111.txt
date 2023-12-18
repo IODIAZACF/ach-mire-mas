@@ -1,0 +1,225 @@
+stdClass Object
+(
+    [_id] => 361386764
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2022-11-01T19:17:05.865-05:00
+    [end] => 2022-11-14T16:10:55.343-05:00
+    [group_kp1mu41/_1_C_digo] => PULE-465.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2022-11-11
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-08-11
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-08-23
+    [group_kp1mu41/_4_Departamento] => PUTUMAYO
+    [group_kp1mu41/PUTUMAYO] => LEGUIZAMO
+    [group_kp1mu41/num_comunidades] => 4
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => Guaquirá, Becocha Guajira, Bellavista, Monaide Jitoma
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Angie Lorena Carvajal López
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3102166477
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_VBG R.2_EeE R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-08-13
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-08-23
+    [group_wo86e58/group_hc3sa85/vacios_icla] => No existe una caracterización actualizada de la información demográfica de las comunidades que habitan en el territorio. Las dinámicas del conflicto armado generan la fluctuación de las familias ocasionando que algunas salgan y otras lleguen a la zona en busca de mejores oportunidades a través de las economías ilícitas.
+
+La desconfianza que existe hacía la institucionalidad y los organismos de control por parte de las comunidades genera que estas no denuncien y por lo tanto no se activen las rutas de protección.
+
+No se visibiliza las problemáticas, amenazas y riesgos que padecen estas comunidades, lo que aumentan las barreras de acceso para el conocimiento de los derechos y rutas de activación.
+
+Fragmentación del tejido social por la desconfianza que existe entre las familias de las diferentes comunidades, lo que genera que se pierdan tradiciones y prácticas ancestrales como pueblos indígenas.
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => Apoyar a las comunidades en la toma o actualización de censos y caracterización de la población, con el objetivo de identificar las necesidades y vulnerabilidades a las que se enfrentan, visibilizando las condiciones de riesgo e incentivar así la respuesta institucional y la cooperación internacional.
+
+Promover la activación y conocimiento sobre las rutas de atención y acceso a derechos de la población víctima del conflicto armado y personas en riesgo.
+
+Fortalecer los lazos de comunicación y cooperación con las comunidades con el ánimo de fomentar la recuperación psicosocial, la inclusión ciudadana, la reconstrucción del tejido social y la devolución de la confianza en las instituciones.
+
+Generar estrategias jurídico-pedagógicas que promuevan el derecho propio, la exigibilidad de derechos y participación de los pueblos indígenas, comunidades campesinas y afrodescendientes del territorio.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases 2-R1-1.2-4-7/Entrega_de_kits_de_dignidad 2-R1-1.2-4-9/Remisión_a_otras_institucio
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2022-08-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2022-08-23
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => Pese a que se realizaron actividades orientadas a fortalecer los mecanismos de autoprotección y protección comunitaria, se evidenció que la ruptura del tejido social dadas las dinámicas de los grupos armados, las cuales tienen como finalidad someter a las comunidades, controlarlas y disminuir su capacidad de resistencia, poniendo en riesgo el proyecto colectivo a futuro. Por lo anterior, es necesario una respuesta adecuada por medio de un trabajo conjunto de largo alcance, orientado a fortalecer las dinámicas propias y recuperar el tejido social.
+
+Aunque se socializaron las rutas de protección, en las reuniones sostenidas con la institucionalidad, se evidenció ausencia total de parte de las mismas en los territorios y las comunidades atendidas. Adicionalmente, no hay un correcto direccionamiento y orientación por parte de las entidades con capacidad de protección para que las personas afectadas accedan a las rutas.
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => Hacer seguimiento por parte de autoridades locales a la situación de riesgo de las comunidades y los grupos vulnerables, afectados por la presencia de los GANE.
+
+Si bien desde el MIRE se tienen presentes los enfoques diferenciales, vale la pena resaltar que para las intervenciones es necesario no perder de vista dichos enfoques también respecto a las dietas de las comunidades y las necesidades por grupos etarios.
+
+Generar incidencia con las respectivas autoridades desde el nivel nacional, departamental y municipal con el fin de establecer diálogos de sensibilización frente a las afectaciones por restricciones a la movilidad, vulneración a los derechos fundamentales de la vida, la integridad personal, la libertad, la seguridad con un alto impacto en las garantías de las mujeres, niños, niñas, adolescentes y jóvenes quienes se encuentran más expuestos a la violación de sus DDHH. 
+
+Fortalecer la oferta educativa en las comunidades afectadas con estrategias de permanencia, acceso y calidad, junto con la ampliación de los grados escolares para la continuidad educativa, entrega de útiles escolares y material educativo y mejoramiento de la infraestructura educativa.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-08-13
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-08-23
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => N/A
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => Es importante continuar con el seguimiento a casos de deserción a causa de practicas de reclutamiento en NNA , en ese mismo sentido es clave promover practicas para la ocupación del tiempo libre de los jóvenes y alternativas educativas especiales que les permitan la continuidad en la educación en todos los niveles.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.5-21-7a-Medidas_lavado_de_manos 3-R5-4.6-22-7b-Distribución_de_KIT_WASH_
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2022-08-11
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2022-08-23
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => En las escuelas de las cuatro comunidades atendidas (Guaquirá, Becocha Guajira, Bellavista y Monaide Jitoma) hay unidades sanitarias, sin embargo, estas no reciben ningún tipo de mantenimiento generando que las baterías, los tanques e infraestructura presente graves afectaciones y no puedan ser utilizadas por las personas.
+
+Dificultades de acceso a elementos de primera necesidad para la higiene y aseo del hogar, principalmente por grandes distancias, elevados costos de transporte, y riesgos en los trayectos.
+
+En las comunidades de Guaquirá y Becocha Guajira aproximadamente el 98% de las familias no hacen correcto uso de los filtros entregados. La principal falencia se da en el mantenimiento de estos, algunas incluso no sabían cómo se instalaba.
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => Generar capacidades en las familias para el mantenimiento de las unidades sanitarias, con el fin de extender la vida útil de estas y darle uso correcto.
+
+Promover la importancia de tratar el agua de consumo para evitar enfermedades gastrointestinales, especialmente en niños, mujeres lactantes y gestantes.
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2022-08-11
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2022-08-23
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => No se activa la respuesta local para atender las necesidades de las comunidades producto del conflicto armado; principalmente por las largas distancias que hay entre la cabecera municipal y las comunidades, y por las condiciones de seguridad que implican un riesgo para la institucionalidad.
+
+En las comunidades no hay actividades de ingresos estables y seguras para que las familias puedan acceder a los alimentos que no pueden producir; además, adquirir estos implica un elevado costo teniendo en cuenta las largas distancia que hay entre las comunidades y el punto de abastecimiento más cercano.
+
+No existen estrategias locales para la comercialización de los productos agropecuarios, por ejemplo, las familias que asumen el riesgo de sembrar especies nativas pierden sus cosechas pues no encuentran apoyo para comercializar los alimentos.
+
+Perdida de la agrobiodiversidad y material vegetal nativo por la presencia y expansión de cultivos de uso ilícito. 
+
+Perdida del relevo generacional para la continuación de prácticas, tradiciones y formas de trabajar la tierra que garantizan la estabilidad de la seguridad alimentaria de las comunidades.
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => Identificar, hacer seguimiento y fortalecer las iniciativas locales que nacen del establecimiento de chagras, en la cuales se siembran alimentos nativos que tienen relación con el territorio, son fuente de supervivencia y adaptación de las comunidades.
+
+Apoyar proyectos productivos agropecuarios en las comunidades, sin importar las grandes distancias, los retos y complejidades de la zona, buscando rescatar la identidad del territorio y reconstruyendo la confianza de las comunidades en la institucionalidad.
+
+Generar alianzas estratégicas con las organizaciones humanitarios que hacen presencia en la zona para que los proyectos que estás desarrollan tengan sostenibilidad y efecto a largo plazo.
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de la atención de la emergencia por confinamiento en cuatro comunidades de Puerto Leguízamo-Putumayo, se realizó una estrategia jurídico-pedagógica para el conocimiento, acceso exigibilidad derechos y activación de rutas de atención administrativa de reparación y atención de población víctima del conflicto armado, así mismo se realizó asistencia y orientación a la población víctima del conflicto. 
+
+Por medio de talleres formativos se socializó con las comunidades sobre los mecanismos de exigibilidad derechos fundamentales, orientado a la identificación de riesgos en el marco del conflicto armado, rutas de atención e instituciones responsables de la asistencia y atención de la población. Dicho taller contó con la asistencia de 31 personas. (14 hombres-17 mujeres) en la comunidad de Guaquirá.
+
+En las comunidades de Bekocha Guajira, Bellavista y Monaide Jitoma se trabajó sobre la ruta de atención, mecanismos de exigibilidad de derechos, decretos étnicos y La Ley 1448 de 2011, esto con el objetivo de fomentar el conocimiento y acceso a derechos de la población víctima del conflicto armado, así como la identificación de posibles riesgos y los ya materializados. 
+
+A través de los Talleres de formación se brindan herramientas y estrategias que empoderan y fortalecen los roles de liderazgo de las comunidades, el afrontamiento de crisis agudas en situaciones de emergencias y capacidad de resiliencia y recuperación de la población. 
+
+En la comunidad de Bekocha Guajira, se contó con la participación de 41 personas (20 mujeres y 21 hombres), en Bellavista  con 36 personas (16 hombres y 20 hombres) y en Monaide Jitoma 25 personas ( 15 hombres y 10 mujeres), para un total de 133 participantes. 
+
+●	Asistencia y Orientación Legal
+
+En respuesta a emergencia por confinamiento se identificaron personas con necesidades jurídicas, a las que se les ha brindado asistencia y orientación legal conforme los riesgos y necesidades de protección identificadas. 
+
+En la comunidad de Guaquira se realizó la orientación de cuatro personas afectadas en el marco del conflicto armado por hechos victimizantes como: la amenaza, desplazamiento y desaparición forzados. De igual manera, víctimas con necesidades de protección identificadas a las que se ha brindado información y acompañamiento legal para la activación de la ruta administrativa de población víctima del conflicto armado, gestión de riesgos, acceso a derechos y asistencia humanitaria en etapa inmediatez. 
+
+En la comunidad Bekocha Guajira se prestó asistencia a dos adultos mayores víctimas del conflicto armado por los hechos de desplazamiento forzado, amenazas y despojo forzado, quienes se encuentran con la necesidad de ser asistidos e informados sobre las rutas para enfrentar y reducir los riesgos a los que se enfrentan e indemnización. 
+
+En la comunidad de Bellavista se generó asistencia y orientación a tres personas víctimas desplazamiento forzado, amenazas con necesidades de protección y prevención de riesgos.
+Finalmente, en la comunidad de Moinade Jitoma se dio acompañamiento en la activación de rutas de protección para el líder de la comunidad víctima de amenazas e intimaciones en el marco del conflicto armado. 
+
+Cabe resalta que, para el desarrollo del proceso de asistencias y orientación a la población se realizó la articulación y consolidación del comité de protección del consorcio MIRE desde las competencias de ICLA y Protección APS, así como la articulación con la Personería Municipal de Puerto Leguízamo Putumayo.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => La entrega de 135 kits de dignidad permitió reconocer, hacer consciente y mencionar algunas de las dificultades que atraviesan las mujeres indígenas y mestizas que se encuentran en lugares con difícil acceso o que por situaciones propias del contexto no pueden comprar elementos que les permiten una menstruación en condiciones dignas.
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => A partir de las asesorías colectivas desarrolladas en las 4 comunidades priorizadas para la respuesta, junto con el sector de ICLA se realizó una evaluación de riesgo individual para 3 casos de personas en situación de riesgo, así como, la orientación y asesoría jurídica pertinente conforme a las necesidades evidenciadas. Finalmente, se realizó un plan de acción, estableciendo canales de comunicación segura para realizar el seguimiento y la implementación de acciones necesarias para el acceso a las rutas institucionales de protección de sus derechos.
+    [group_of2sk15/group_cf63e32/_4_Provisi_n_de_respuesta_y_seguimiento_a_casos_de_riesgo_o_sobrevivientes_de_VBG_ApS] => 130 personas recibieron Asesoramiento jurídico colectivo y 127 personas recibieron Apoyo psicosocial colectivo
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Se entregaron 100 kits para uso de tiempo libre a NNA con material lúdico y educativo (cuadernos , colores , lápices , esferos , borradores, tajalápiz, libros para colorear y termo para agua).
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Se realizaron sensibilizaciones frente a cuidado y autocuidado del cuerpo, mensajes de protección enfocados a prevención del reclutamiento y la explotación infantil y practicas lúdicas para fomentar la recuperación emocional.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Se desarrollaron 4 módulos de formación en educación en emergencias y estrategias de protección comunitaria con enfoque educativo, que a la vez dieron forma a la construcción de un plan de respuesta en educación para situaciones de emergencias. Se entregaron 20 kits docentes a los participantes .
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => Se entregaron 3 maletas lúdico deportivas a las comunidades de Bella Vista, Becocha Guajira y Guaquira, con la intensión de fortalecer la aplicación de los planes de respuesta en educación para emergencias , este material contiene elementos deportivos de diversa índole , material fungible y papeleria diversa y algunos elementos para el desarrollo de actividades étnico educativas , chaquiras , instrumentos musicales típicos entre otros , la conformación de estos se hizo en concertación con las comunidades mencionadas y se esta haciendo seguimiento remoto al uso y desarrollo de las actividades.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => Sensibilización a las mujeres en buenas prácticas en el uso del agua. 
+La entrega de 63 kits de agua permitió que la totalidad de población de las comunidades Bellavista y Monaide Jitoma tuvieran acceso a agua segura.
+
+En las comunidades de Guaquirá y Becocha Guajira se tuvo un espacio con las familias para fortalecer y promover el uso de los filtros que Acción Contra El Hambre les entregó, con el objetivo de garantizar el tratamiento y consumo de agua segura a través del correcto uso de los insumos.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Entrega de 124 Kits de Higiene personal y familiar.
+
+Los Kits de higiene familiar entregados, fueron adaptados al contexto de la emergencia estableciendo 3 configuraciones diferentes según los censos y necesidades. Se incluyeron productos de aseo personal Ecofriendly que permiten disminuir el impacto negativo que algunos insumos dejan en territorio en emergencia.
+
+La entrega de los 124 Kits de higiene logro garantizar que la totalidad de las personas en las 4 comunidades tuvieran acceso seguro a elementos básicos de higiene personal y familiar. Es importante resaltar que el contexto en el que se encuentran estas personas dificulta la adquisición de la mayoría de los insumos de limpieza. Por tal razón, la configuración de los Kits entregados se adapta a las necesidades y preferencias de niños, mujeres y hombres.
+
+En esta ocasión, se entregaron elementos de aseo personal de origen no plástico que pretenden contribuir a la disminución de contaminación dentro de los territorios. Se ratifica el compromiso que tiene Alianza por la solidaridad en el cuidado del medio ambiente.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Sensibilización en buenos hábitos de higiene; sensibilización en higiene respiratoria; sensibilización en manejo de residuos sólidos.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => La ERIN permitió identificar las comunidades más vulnerables y priorizarlas para dar respuesta a la crisis humanitaria. Aspectos como: alta presencia de Grupos Armados Organizadas, dificultades de acceso, restricciones a la movilidad, presencia de minas antipersona cerca a las zonas de pancoger, demás hechos generan como consecuencia inseguridad alimentaria.
+
+En este espacio se indaga sobre las preferencias alimentarias de las comunidades indígenas con el objetivo de entregar paquetes alimentarios diferenciales y pertinentes con las costumbres y tradiciones alimentarias de las comunidades, que son importantes para completar el ciclo de la seguridad alimentaria.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => La asistencia alimentaria se entregó a tres comunidades del pueblo indígena Murui Muina, de las cuales dos se ubican sobre el río Putumayo y una sobre el río Caquetá. La cuarta comunidad en ser atendida pertenece al pueblo Indígena Coreguaje.
+
+Comunidades Río Putumayo:
+En la comunidad de Monaide Jitoma se entregaron 34 paquetes alimentarios que aportaron a la seguridad alimentaria de 28 familias, es decir 79 beneficiarios.
+En la comunidad de Bellavista se hizo entrega de 45 paquetes alimentarios que subsanan la seguridad alimentaria de 38 familias, es decir 105 beneficiarios.
+
+Comunidades Río Caquetá:
+Del Pueblo Murui Muina se atendió a la comunidad de Guaquirá con la entrega de 40 paquetes alimentarios, los cuales aportaron a la seguridad alimentaria de 35 familias, en total 129 personas.
+En la comunidad de Becocha Guajira se aportó a la seguridad alimentaria de 30 familias, en total 122 beneficiarios con la entrega de 36 paquetes alimentarios.
+
+Los paquetes alimentarios estaban conformados por 6 grupos de alimentos, en los que se destaca: las grasas, cereales y harinas fortificadas, alimentos proteicos pescado, alimentos proteicos leguminosas, azúcares y condimentos. 
+
+La entrega de la asistencia alimentaria se realizó teniendo en cuenta la conformación de los núcleos familiares, donde los hogares conformados por 1 a 5 integrantes recibían un paquete alimentario y a las familias compuestas por 6 a 10 se les entregó dos paquetes alimentarios. La entrega se desarrollo en el marco de un taller de sensibilización entre los sectores de seguridad alimentaria, agua y saneamiento, donde los beneficiarios participaron activamente de las temáticas impartidas por los dos sectores
+
+Se trabajo sobre conceptos básicos de seguridad alimentaria, prácticas de higiene, conservación de los alimentos, nutrición y utilización biológica de los alimentos.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => Por temas de conectividad no fue posible realizar PDM. En las comunidades no hay internet, servicio de telefonía móvil, ni señal de operadores locales.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => No se identificaron casos. Las familias no se sienten en confianza y temen ser expuestas y/o señaladas.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => No se identificaron casos. Las familias no se sienten en confianza y temen ser expuestas y/o señaladas.
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => N/A
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => N/A
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => Según los resultados de MDM había capacidad de respuesta local.
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Fundación Tejedoras de Vida del Putumayo.
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Se dieron a conocer las acciones implementadas desde el equipo de Protección APS, señalando las necesidades y vulnerabilidades evidenciadas que afectan de forma diferencial a las mujeres, niñas y adolescentes.
+   
+Adicionalmente, se conocieron las acciones que desde la Asociación desarrollan en el departamento del Putumayo en los ejes de: 1) derechos humanos y construcción de paz; 2) mujer, desarrollo y medio ambiente y 3) campaña “No estás sola”.   
+Se establecieron canales seguros de remisión de casos individuales conforme a las líneas de atención del sector. Adicionalmente, se observaron reuniones posteriores para poder apoyar la ruta de protección colectiva de la Asociación con la UNP
+    [group_ob0im32/b_Nombre_de_la_entidad] => Personería Municipal
+    [group_ob0im32/a_Sector_en_el_que_se_intervino_001] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_001] => Desde el sector de protección (APS-NRC) se realizó una articulación para la remisión de casos de personas víctimas del conflicto armado a fin de que logren acceder a la declaración, en virtud de las funciones como Ministerio Público que cumple la Personería Municipal. 
+  
+De igual forma, se dieron a conocer las necesidades evidenciadas así como los factores de riesgo para las comunidades atendidas. Por su parte la Personería socializó las rutas de atención municipales y los hechos victimizantes más frecuentes evidenciados en el contexto del conflicto armado.
+    [group_ob0im32/c_Nombre_de_la_entidad] => ACILAPP
+    [group_ob0im32/c_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_002] => Contribuir al fortalecimiento de ACILAPP como organización con presencia en el territorio, en el apoyo para la solicitud en la ruta de protección colectiva con la Unidad Nacional de Protección. Así también, las sensibilizaciones sobre los mecanismos de protección y autoprotección.  
+
+De igual forma, se establecieron canales confidenciales y seguros para la remisión de casos identificados de personas en riesgo, NNAJ en riesgo de reclutamiento y personas víctimas de VBG.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD PARTICIPACION
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => Dadas las dinámicas de las comunidades y la permeabilidad del control social de los actores armados, existen limitaciones y restricciones para tratar directamente las temáticas de protección individual y comunitaria.
+
+Las condiciones de seguridad dificultaban el ingreso del equipo móvil para atender las necesidades básicas insatisfechas producto de la emergencia por confinamiento en las comunidades que se ubican sobre la ribera del río Caquetá, especialmente en la comunidad de Guaquirá.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => Se adoptaron metodologías que permitieron la identificación de riesgos, amenazas y vulnerabilidades de manera indirecta a fin de disminuir los riesgos para las personas participantes. 
+
+Se logra comunicación con el Gobernador de la Comunidad de Guaquirá quien solicita que por medio de un oficio se relacionen las acciones, las organizaciones y la fecha de ingreso de la atención en la comunidad. Esto con el objetivo de que el representante comunitario tenga la información clara y pudiera dialogar con las personas necesarias para garantizar las condiciones de seguridad de la respuesta.
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Poca oferta de transportadores para movilizar al equipo de respuesta por el río caquetá, esto teniendo en cuenta las comunidades las grandes distancias para atender a las comunidades priorizadas.
+
+Coordinar el ingreso de la carga, dado que las comunidades priorizadas se ubican sobre cada extremo del municipio, tanto por el río Caquetá como por el río Putumayo.
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Mapeo de la zona y contactos que referenciaran proveedores de confianza sobre e río Caquetá.
+
+Trabajo articulado entre los logistas del Consorcio, Equipo de respuesta y proveedores.
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => En los encuentros de formación y entrega de la ayuda humanitaria asistió un número importante de familias de las comunidades priorizadas; sin embargo, algunas no pudieron asistir, lo que incomodo a aquellas que si participaron. Esta situación se da principalmente, por conflictos internos entre las familias.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => Dialogo con los representantes comunitarios para generar calma y tranquilidad en las comunidades.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 435
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 435
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 435
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 4
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Monica Vega
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3203893694
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => ACILAPP/ Secretaria General
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [meta/instanceID] => uuid:fd21f560-3719-46ab-b5d1-ca1b04a5aa0d
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => fd21f560-3719-46ab-b5d1-ca1b04a5aa0d
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-11-14T21:11:10
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

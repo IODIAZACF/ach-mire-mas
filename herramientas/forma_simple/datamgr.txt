@@ -1,0 +1,61 @@
+El datamgr lee y escribe información a través del uso de ini's
+La estructura del INI es similar a la de informulario pero más sintetizada.
+
+Ejemplo:
+
+<archivo_ini.ini>
+
+[TABLA]
+TABLA=X_TABLA1
+INDICE=ID_X_TABLA1
+
+[CAMPO1]
+CAMPO=NOMBRES
+TIPO=C
+
+[CAMPO2]
+CAMPO=FECHA
+TIPO=D
+
+[CAMPO3]
+CAMPO=NUMERO
+TIPO=N
+
+[CAMPO4]
+CAMPO=ENTERO
+TIPO=I
+
+:
+
+
+Modo de uso:
+
+	var dm = new datamgr(server_path + 'modulo/archivo_ini');
+
+// para leer:
+
+	if (dm.buscar('0012465'))
+	{
+	  alert(dm.getValue('NOMBRE'));
+	}
+
+// para escribir (modificar):
+
+	dm.setValue('NOMBRES','MARCO PIÑERO');
+	if (dm.guardar('0012465'))
+	{
+	  alert('registro modificado');
+	}
+
+// para escribir: (insertar):
+
+	dm.setValue('NOMBRES','MARCO PIÑERO');
+	if (dm.guardar())
+	{
+	  alert('registro insertado');
+	}
+
+
+El origen puede ser cambiado en cualquier momento:
+
+  dm.origen = server_path + 'otro_modulo/archivo_ini';

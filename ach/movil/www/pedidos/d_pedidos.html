@@ -1,0 +1,96 @@
+<div class="page" data-name="d_pedidos">
+	<div class="navbar">
+		<div class="navbar-inner sliding">
+			<div class="left">
+				<a href="#" class="link opciones" data-funcion="t_d_pedidos" data-opcion="esc" >
+					<i class="icon icon-back"></i>
+				</a>
+			</div>
+			<div class="title">
+				<span class="subtitle"><span class="negrita">Cliente: &nbsp; </span><span id="RAZON"             ></span></span>
+				<span class="subtitle"><span class="negrita">Pedido # &nbsp; </span><span id="ID_X_M_DOCUMENTOS" ></span></span>
+			</div>
+			<!--div class="right">
+				<a href="#"></a>
+			</div-->
+		</div>
+		
+	</div>
+
+	<div class="toolbar tabbar-labels toolbar-bottom-md">
+	
+		<div class="toolbar-inner">
+
+			<a href="#" class="tab-link opciones" data-funcion="t_d_pedidos" data-opcion="productos">
+				<i class="f7-icons ">add</i>
+				<span class="tabbar-label">Productos</span>
+			</a>
+			<a href="#" class="tab-link opciones" data-funcion="t_d_pedidos" data-opcion="servicios">
+				<i class="f7-icons ">add</i>
+				<span class="tabbar-label">Servicios</span>
+			</a>			
+			<!--a href="#" class="tab-link opciones" data-funcion="t_d_pedidos" data-opcion="esc">
+				<i class="icon f7-icons">logout</i>
+				<span class="tabbar-label">Atrás</span>
+			</a-->
+			<a href="#" class="tab-link opciones" data-funcion="t_d_pedidos" data-opcion="f10">
+				<i class="icon f7-icons">check_round</i>
+				<span class="tabbar-label">Procesar <br> Pedido</span>
+			</a>
+<!-- 			<a href="#" class="tab-link opciones" data-funcion="t_d_pedidos" data-opcion="editar_pedido">
+				<i class="icon f7-icons">check_round</i>
+				<span class="tabbar-label">Editar  Pedido</span>
+			</a> -->
+		</div>
+	</div>
+
+	
+	<div class="searchbar-backdrop"></div>
+	<form class="searchbar searchbar-init">
+		<div class="searchbar-inner">
+			<div class="searchbar-input-wrap">
+				<input id="d_pedidos-buscador" data-grid="X_DOCUMENTOS" type="search" placeholder="Buscar" onkeypress="tecla_grid(event,this.id)">
+				<i class="searchbar-icon"></i>
+				<span class="input-clear-button"></span>
+			</div>
+			<span class="searchbar-disable-button">Cancel</span>
+		</div>
+	</form>
+	<div class="page-content">
+		<div class="searchbar-backdrop"></div>
+		<div class="block-title">
+			<div class="row">
+				<div class="col-40  tablet-40 "> Descripción </div>
+				<div class="col-10  tablet-15 "> Cantidad </div>
+				<div class="col-25  tablet-15 derecha"> Precio </div>
+				<div class="col-25  tablet-15 derecha"> Neto </div>
+			</div>
+		</div>
+		
+		<div class="list media-list">
+			<ul id="d_pedidos" data-tabla="V_X_DOCUMENTOS" data-indice="ID_X_DOCUMENTOS" data-campos="*" data-busca="ID_D_DOCUMENTOS,DESCRIPCION" data-orden="ID" data-filtro="ID_X_M_DOCUMENTOS" data-xfiltro="" data-limite="50"  data-onselect="t_d_pedidos" data-debug="">
+			</ul>
+			<script id="d_pedidos-template" type="text/template7">
+				<li>
+					<a REGISTRO href="#" class=" item-inner item-content item-link registro" style="font-size:13px">
+						<div class="item-text" style="font-size:12px; font-weight:bold;">
+							{{DESCRIPCION}}
+						</div>
+						<div class="row no-gap" style="font-size:12px; font-weight:bold;">
+							<div class="col-40  tablet-40 derecha"> {{CODIGO1}} </div>
+							<div class="col-10  tablet-15 derecha"> {{format CANTIDAD 3}} </div>
+							<div class="col-25  tablet-15 derecha"> {{format PRECIO 3}} </div>
+							<div class="col-25  tablet-15 derecha"> {{format MONTO_BRUTO 3}} </div>
+						</div>
+					</a>
+				</li>
+			</script>
+			
+
+		</div>
+	</div>
+	<javascript src="pedidos/d_pedidos.js"></javascript>
+	
+	
+</div>
+

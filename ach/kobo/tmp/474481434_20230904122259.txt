@@ -1,0 +1,94 @@
+stdClass Object
+(
+    [_id] => 474481434
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-15T19:11:49.567-05:00
+    [end] => 2023-09-01T16:03:51.974-05:00
+    [group_gu1lq88/Departamento] => BOLIVAR
+    [group_gu1lq88/BOLIVAR] => MONTECRISTO
+    [group_gu1lq88/Otros_Municipios] => Santa Rosa del Sur
+    [group_gu1lq88/Vereda] => Las Vegas y Altos de las brisas
+    [group_gu1lq88/Nombre_de_la_comunidad] => Alto de las Brisas / La Vega
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-09-01
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diana Marcela Holguin
+    [group_gu1lq88/Cargo] => Consejo Noruego para Refugiados
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC CTJT
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO Restric_movilidad
+    [group_hl1yc96/Problema] => PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Domingo 27 de agosto llega GANE a la vereda de Palma Chica a pintar casas y bajar banderas distintivas de otro GANE que este había situado en la vereda. El 31 de agosto se presentan enfrentamientos en inmediciones de las veredas de Palma chica y la Vega (esta última jurisdicción del municipio de Montecristo), se presentan amenazas para que las personas abandonen las viviendas, por lo que 12 personas de la vereda Palma Chica se desplazan hacia la vereda de Alto de las brisas (más conocida como Brujas). El día 1 de agosto los presidentes de JAC reciben mensajes de texto que debían abandonar las veredas, por lo que han llegado a la vereda de Alto de brisas un aproximado de 26 familias conformados por 60 personas, los presidentes manifiestan que estan haciendo censo de las personas que van llegando.
+El Líder vereda Alto las brisas (Vereda conocida como las brujas)expone que esta vereda han arribado familias completas desplazadas desde la vereda Palma Chica, se han presentado amenazas a líderes de las diferentes JAC de la zona, un líder debió desplazarse. Presidente de JAC la vereda la Vega fue amenazado. Aproximadamente en Alto las brisas han arribado cerca de 100 personas (es lo que el líder manifiesta sin conocer exactamente el número ya que estan realizando el censo y siguen llegando las familias) desde la Vega y Palma chica. Los líderes amenazados se encuentran en esta vereda.
+Líder de La vereda La Vega: Expone que la población está en riesgo, a las personas se les ha prohibido salir del territorio por parte del GANE, hace mas de 8 días no ingresa línea de transporte por lo que hay escases de comida y los pobladores no han podido acceder a servicios o movilizarse. No se había conocido la situación de la vereda ya que el GANE ordenó apagar el internet, sólo hasta el día 31 de agosto la población pudo encender el servicio y comunicar la situacion, por lo anterior posiblemente también se desplazaran hacia la vereda Alto de las brisas y Alto de Ventarron. Manifiestan el secuestro de una persona de la vereda la Vega sin tener a la fecha conocimiento cierto de su liberación. La Vega cuenta con 50 familias aproximadamente 100 personas que estan confinadas. Adicionalmente exponen la sospecha de presencia de MAP en la Vega y Palma Chica.
+El líder Vereda Alto Ventarrón manifiesta que en su comunidad no se han presentado afectaciones en el marco del conflicto armado interno y cuentan con un espacio destinado como albergue para recepcionar personas que se vean obligadas a desplazarse.
+Los líderes han manifestado que se ha impartido por parte de los GANE a las personas la orden de no salir de las veredas y territorios, orden que se ha impartido de manera especial a los líderes.
+Fuerza Publica manifiesta que no hay condiciones de seguridad para ingresar al territorio por la institucionalidad. Exponen que en 8 días posiblemente habría seguridad para el ingreso.
+    [group_yv1ph08/time2] => 2023-08-31
+    [group_yv1ph08/time3] => 1
+    [group_yv1ph08/evidencia] => proteccion educacion san shelter wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 76
+    [group_cn9za51/personas] => 163
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => CICR
+    [group_mu9ho06/Logisitica] => Desde el casco urbano de Santa Rosa hasta alto de brisas Son 5 horas en terreno destapado. 
+
+Desde el casco urbano de Santa Rosa hasta la Vega son 3 horas en terreno destapado. 
+
+Se requiere para el ingreso Camionetas 4x4 y hay paso por un rio.
+    [group_mu9ho06/Seguridad] => Disidencias de las FARC presentes.
+Riesgos:
+Combates, Presencia de Artefactos explosivos.
+    [group_mu9ho06/Operativa] => Coordinación con OCHA
+    [group_mu9ho06/Observaciones] => Fuerza Publica manifiesta que no hay condicions de seguridad para ingresar al territorio por la institucionalidad. Exponen que en 8 días posiblemente habria seguridad para el ingreso.
+Fecha de cierre de censo estipulado por la administración: 12 de septiembre.
+Próximo CTJ: 12 de septiembre.
+
+
+Adicionalmente la administración comparte una situación reciente en enfrentamiento en el sector conocido como Río Amarillo Alto en límites con el municipio de Simití, de la cual están corroborando las afectaciones a las comunidades.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:009208bc-b8bb-445c-8911-aae00a4154af
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 009208bc-b8bb-445c-8911-aae00a4154af
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-01T21:03:54
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,480 @@
+Array
+(
+    [nick] => luis manuel nuÃ±ez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"},{"h":false,"identifier":"EDAD","key":"edad","value":"40"}]
+    [id] => 132
+    [time] => 1594333956
+    [chat_id] => 30
+    [user_id] => 0
+    [name_support] => 
+    [msg] => demo
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 134
+    [time] => 1594334208
+    [chat_id] => 31
+    [user_id] => 0
+    [name_support] => 
+    [msg] => demo
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 136
+    [time] => 1594334293
+    [chat_id] => 32
+    [user_id] => 0
+    [name_support] => 
+    [msg] => demo de sistemas
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 139
+    [time] => 1594334409
+    [chat_id] => 32
+    [user_id] => 0
+    [name_support] => 
+    [msg] => ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 140
+    [time] => 1594334428
+    [chat_id] => 32
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 142
+    [time] => 1594337035
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => sistemas24.com
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 144
+    [time] => 1594337042
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 146
+    [time] => 1594337577
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 147
+    [time] => 1594337588
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 149
+    [time] => 1594337828
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 151
+    [time] => 1594338039
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 153
+    [time] => 1594338094
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /producto
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 156
+    [time] => 1594338296
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /hola
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 158
+    [time] => 1594338304
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /9
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 160
+    [time] => 1594339567
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /o
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 162
+    [time] => 1594339825
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /hola
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 164
+    [time] => 1594340705
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => *9
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 165
+    [time] => 1594340748
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /8
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 167
+    [time] => 1594341094
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /7
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 169
+    [time] => 1594341452
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /hola
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 171
+    [time] => 1594341714
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /hola
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 173
+    [time] => 1594341769
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /hola
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 175
+    [time] => 1594341843
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /test
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 177
+    [time] => 1594342053
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 179
+    [time] => 1594342218
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda22
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 181
+    [time] => 1594342347
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 183
+    [time] => 1594342411
+    [chat_id] => 33
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /producto he01
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 186
+    [time] => 1594342652
+    [chat_id] => 34
+    [user_id] => 0
+    [name_support] => 
+    [msg] => demostracion
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 188
+    [time] => 1594342664
+    [chat_id] => 34
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /producto eh01
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => luis manuel nuñez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"luis manuel nu\u00f1ez"}]
+    [id] => 191
+    [time] => 1594342679
+    [chat_id] => 34
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /ayuda
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Visitor
+    [additional_data] => [{"h":false,"identifier":"","key":"nick","value":"gabriel"}]
+    [id] => 193
+    [time] => 1594383788
+    [chat_id] => 16
+    [user_id] => 0
+    [name_support] => 
+    [msg] => /producto br01
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Albert
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"Albert"}]
+    [id] => 196
+    [time] => 1594464649
+    [chat_id] => 35
+    [user_id] => 0
+    [name_support] => 
+    [msg] => Hola! Hace ya mas de 2 semanas que estamos esperando una cortina, en Figuerola dâOrcau
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Albert
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"Albert"}]
+    [id] => 198
+    [time] => 1594464661
+    [chat_id] => 35
+    [user_id] => 0
+    [name_support] => 
+    [msg] => Hola?
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Albert
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"Albert"}]
+    [id] => 199
+    [time] => 1594464672
+    [chat_id] => 35
+    [user_id] => 0
+    [name_support] => 
+    [msg] => Hola??
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Eduardo Gonzalez
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"Eduardo Gonzalez"}]
+    [id] => 200
+    [time] => 1594499123
+    [chat_id] => 36
+    [user_id] => 0
+    [name_support] => 
+    [msg] => Prueba
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Albert
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"Albert"}]
+    [id] => 203
+    [time] => 1594621635
+    [chat_id] => 37
+    [user_id] => 0
+    [name_support] => 
+    [msg] => hol
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Albert
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"Albert"}]
+    [id] => 205
+    [time] => 1594621642
+    [chat_id] => 37
+    [user_id] => 0
+    [name_support] => 
+    [msg] => hay alguen?
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => Edson
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"Edson"}]
+    [id] => 206
+    [time] => 1595968664
+    [chat_id] => 38
+    [user_id] => 0
+    [name_support] => 
+    [msg] => Hola
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => FRANK RODRIGUEZ
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"FRANK RODRIGUEZ"}]
+    [id] => 209
+    [time] => 1596055023
+    [chat_id] => 39
+    [user_id] => 0
+    [name_support] => 
+    [msg] => Para conocer su catalogo de prductos y servicios y un presupuesto
+    [meta_msg] => 
+)
+Array
+(
+    [nick] => FRANK RODRIGUEZ
+    [additional_data] => [{"h":false,"identifier":"NICK","key":"Nombre","value":"FRANK RODRIGUEZ"}]
+    [id] => 214
+    [time] => 1596057012
+    [chat_id] => 39
+    [user_id] => 0
+    [name_support] => 
+    [msg] => HOLA
+    [meta_msg] => 
+)

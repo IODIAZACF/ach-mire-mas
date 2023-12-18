@@ -1,0 +1,115 @@
+stdClass Object
+(
+    [_id] => 387274288
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-01-25T14:50:21.401-05:00
+    [end] => 2023-01-25T18:28:40.576-05:00
+    [group_kp1mu41/_1_C_digo] => ANUR-480.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-01-25
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-07-21
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-07-31
+    [group_kp1mu41/_4_Departamento] => ANTIOQUIA
+    [group_kp1mu41/ANTIOQUIA] => URRAO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Nocondó, Puntas de Ocaido,  Playón Arriba y Playón Abajo,Urado, San Miguel, Zabaleta
+    [group_kp1mu41/num_comunidades] => 7
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => Nocondó, Puntas de Ocaido,  Playón Arriba y Playón Abajo,Urado, San Miguel, Zabaleta, en tres puntos de atención: Puntas de Ocaidó, Nocondó y Playón Abajo
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Erika Torres
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3213260846
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R.2_EeE R3_Shelter
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC 5-R1-1.1-2-2_Prestacion_de_apoyo_directo_a_las_autoridades__NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-07-22
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-07-31
+    [group_wo86e58/group_hc3sa85/vacios_icla] => N/A
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => N/A
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-07-22
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-07-31
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => N/A
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => N/A
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-12-1/Provisión_de_soluciones_de
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2022-07-22
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2022-07-31
+    [group_wo86e58/group_zh0iq17/Vacios_SHELTER] => N/A
+    [group_wo86e58/group_zh0iq17/Recomendaciones_SHELTER] => N/A
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de la atención a la  emergencia derivada de las afectaciones por confinamiento y desplazamiento ocasionados por el conflicto armado interno, se brindaron talleres dinámicos de formación en información y la debida orientación legal en casos individuales a 238 personas para que las mismas conozcan las rutas para acceder a sus derechos como víctimas del conflicto entre las tamáticas facilitadas se encuentran:  conceptos, rutas y esponsables institucionales que define La  Ley de víctimas y restitución de Tierras 1448 de 2011 así como sus respectivos decretos étnicos, ruta de acceso a la declaración ante Ministerio Público por hechos individuales o masivos/colectivos,ruta de solicitud ayuda humanitaria, ruta general y priorizada de indemnización administrativa ante UARIV, solicitud de atención y responsabilidades hacia las víctimas de conflicto de entidades como UBPDD, URT, ICBF, Fiscalía,SGSSS.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => Se desarrolló articulación con la administración municipal para el desarrollo adecuado de las acciones.
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => 280 kits de uso del tiempo libre
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Formación de 280 Niños, niñas jóves y adolescentes en acciones  de repaso deactiviades que implemetarían en el tiempoque cesan sus clases debido a las emergencias para fementar la continuidad educativa y el autocuidado.Prevención en fuego cruzado, Comportamientos seguros frente a riesgos por artefactos explosivos.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Formación de 19 Docentes y agentes educativos comunitarios en EeE, entrega de igual numero de kits y construcción de Plan educativo de respuesta para seguimiento de las actividades que realizan con los estudiantes
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Entrega de 19 kits educativos
+    [group_of2sk15/group_qw7se20/_11_Provisi_n_de_soluciones_de_refugio_temporal_colectivo_o_individual_NRC] => Construcción de Aula escolar segura en comunidad de Nocondó, que permita la .continuidad escolar bajo parámetros de seguridad e inclusión a los NNA
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => No se evidenciaron necesidades en el sector que demandaran atención
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => En el  sector no se vislumbraron necesidades que demandaran atención
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => No se evidenciaron necesidades en el sector que demandaran atención
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => No se evidenciaron necesidades en el sector que demandaran atención
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No se evidenciaron necesidades en el sector que demandaran atención
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => No se evidenciaron necesidades en el sector que demandaran atención
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => No se evidenciaron necesidades en el sector que demandaran atención
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Alcaldía municipal
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Articulación con enlace de víctimas para conocer acciones y necesidades así como para las comunicaciones extras hacia las comunidades además de sinergia  para manejo de casos.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => ACCESIBILIDAD OTRAS
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Zonas de dificil acceso que complica la llegada de pesonal y entregables
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Adaptación a los medios de transporte y de terreno
+    [group_zj0tq00/_Cu_les_Otras] => Conectividad
+    [group_zj0tq00/Dificultades_encontradas_Otras] => Bajo o poco acceso a conectividad telefónica
+    [group_zj0tq00/Medidas_adoptadas_Otras] => Utilizar los recursos y medios disponibles, seguros y de facil acceso con los que cuenta el personal  como spot,radio.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 1049
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 0
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 1
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 1
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 0
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1049
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 0
+    [group_kq5co41/group_wc9ei25/c_Virtual_Individual] => 0
+    [group_kq5co41/group_wc9ei25/d_Virtual_Grupal] => 0
+    [group_kq5co41/group_wc9ei25/e_Telef_nica] => 0
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Luisa Enlace
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3022257051
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Alcaldía municipal/ Secretría de gobierno/enlace de víctimas
+    [group_ek1nq87/Observaciones] => Acciones integradas mediante las cuales se brindó respuesta articulada a las necesidades apremiantes y urgentes evidenciadas de la población con ocasión al conflicto armado interno.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:90077cf6-7fba-49df-b489-10df81fba4ee
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 90077cf6-7fba-49df-b489-10df81fba4ee
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-01-25T23:28:52
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

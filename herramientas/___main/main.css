@@ -1,0 +1,233 @@
+#sub_container__cprt{
+	width:100%!important;
+	height:100%!important;
+	position:absolute;
+	border:none;
+	padding: 2px;
+}
+
+#_cprt_cuadro{
+	flex:1;
+	display:flex;
+	background-color:#fff!important;
+}
+
+#sub_container__cprt button{
+	padding: 6px 12px !important;
+	font-size: 12px!important;
+	border:none;
+
+}
+
+#sub_container__cprt button:hover{
+	background-color: #0033cc;
+}
+
+#_cprt_iframe{
+	flex:1;
+	border:none;
+	top:0;
+	left:0;
+}
+
+
+#sub_container_cliente_correo{
+	width:100%!important;
+	height:100%!important;
+	position:absolute;
+	border:none;
+	padding: 2px;
+	z-index: 0;
+
+
+}
+
+#cliente_correo_cuadro{
+	flex:1;
+	display:flex;
+	background-color:#fff!important;
+}
+
+
+#cliente_correo_iframe{
+	flex:1;
+	border:none;
+	top:0;
+	left:0;
+}
+
+#sub_container_conference{
+	width:100%!important;
+	height:100%!important;
+	position:absolute;
+	border:none;
+	padding: 2px;
+	z-index: 0;
+
+}
+
+#conference_cuadro{
+	flex:1;
+	display:flex;
+	background-color:#fff!important;
+}
+
+#sub_container_chat_omnicanal{
+	width:100%!important;
+	height:100%!important;
+	position:absolute;
+	border:none;
+	padding: 2px;
+	z-index: 0;
+
+
+}
+
+#chat_omnicanal_cuadro{
+	flex:1;
+	display:flex;
+	background-color:#fff!important;
+}
+
+/***********************/
+/*  BARRA LATERAL      */
+/***********************/
+
+.sidenav {
+	width: 100px;
+	position: absolute;
+	top: 2px;
+	z-index: 1;
+	background-color: #222;
+	overflow-x: hidden;
+	transition : 0.2s;
+	opacity : 0.7;
+	cursor: pointer;
+	border-radius: 5px 5px 5px 5px;
+	right: 2px;
+	overflow : hidden;
+	display : none;
+    font-family: var(--tipo-fuente); 
+    font-size: var(--tamano-fuente);
+	
+}
+
+.sidenav .separator {
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	transition: 0.3s;
+	border-bottom : solid 1px #fff;
+	text-align : center;
+	padding : 8px;
+	display : none;
+}
+
+.sidenav .separador:hover {
+	color: #111;
+	opacity : 0;
+}
+
+.sidenav .icon {
+	text-decoration: none;
+	color: #fff;
+}
+
+.sidenav .label {
+	text-decoration: none;
+	color: #fff;
+    font-family: var(--tipo-fuente); 
+    font-size: var(--tamano-fuente);
+	font-weight : normal;	
+}
+
+@media screen and (max-height: 450px) {
+	.sidenav {padding-top: 15px;}
+	.sidenav a {font-size: 18px;}
+}
+
+
+
+/***********************
+Editor
+***********************/
+#editor{
+    background-image:none!important;
+    flex: 1;
+	margin: 0px;
+}
+
+.EDITOR{
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction: column;
+	top: 0;
+	left:0;
+	z-index: 10;
+}
+
+.EDITOR .edit{
+    flex:1;
+    display:flex;
+	height: 100%;
+}
+
+.EDITOR .edit{
+    flex:1;
+    display:flex;
+}
+
+.EDITOR .edit iframe{
+    flex:1;
+}
+
+.EDITOR iframe{
+    width:100%;
+}
+
+.EDITOR .editor-close:hover{
+	opacity: 1;
+}
+
+.EDITOR .editor-close:active{
+	opacity: 0.4;
+}
+
+.EDITOR .editor-close{
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    color: #ccc;
+    font-size: 17px;
+	opacity: 0.6;
+}
+
+
+/***********************/
+/*  DEBUG		       */
+/***********************/
+
+.DEBUG {
+	width: 100%;
+	height: 15px;
+	position: absolute;
+	z-index: 1;
+	transition : 0.3s;
+	cursor: pointer;
+	border-radius: 10px 10px 0px 0px;
+	overflow-x: hidden;
+	overflow : hidden;
+	display : block;
+	bottom:0;
+	opacity : 0.95;
+	background-color : #000;
+	display: none;
+    font-family: var(--tipo-fuente); 
+    font-size: var(--tamano-fuente);
+	
+}
+

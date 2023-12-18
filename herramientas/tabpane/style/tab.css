@@ -1,0 +1,67 @@
+.dynamic-tab-pane-control.tab-pane {
+	position:	relative;
+	width:		100%;
+}
+
+.dynamic-tab-pane-control .tab-row .tab {
+	font:			Menu;
+	cursor:			Default;
+	display:		inline;
+	margin:			1px -1px 1px 2px;
+	float:			left;
+	padding:		2px 5px 3px 5px;
+	background:		#F3F3F3;
+/*	background-image: url(fondo.gif);*/
+	border:			1px solid;
+	border-color:	#000000;
+	border-bottom:	0;
+	z-index:		1;
+	white-space:	nowrap;
+	position:		relative;
+	top:			0;
+}
+
+/****** PESTAÑA SELECCIONADA *******/
+.dynamic-tab-pane-control .tab-row .tab.selected {
+    background:		#FFFFFF;
+	border:			1px solid ;
+	border-color:	#000000;
+
+	border-bottom:	0;
+	z-index:		2;
+	padding:		2px 6px 4px 6px;
+	margin:			1px -3px -3px 0px;
+	top:			0px;
+}
+
+.dynamic-tab-pane-control .tab-row .tab a {
+	font:				Menu;
+	color:				WindowText;
+	text-decoration:	none;
+	cursor:				default;
+}
+
+/*********PESTAÑA DONDE PASA EL MOUSE************/
+.dynamic-tab-pane-control .tab-row .tab.hover {
+	background:	#94A6EF;
+}
+
+/*************PANEL SELECCIONADO***************/
+.dynamic-tab-pane-control .tab-page {
+	clear:			both;
+	border:			1px solid ThreeDDarkShadow;
+	background:		#FC87A7;
+	z-index:		2;
+	position:		relative;
+	top:			-2px;
+	color:			WindowText;
+	font:			Message-Box;
+	padding:		10px;
+
+	height:			200px;
+}
+
+.dynamic-tab-pane-control .tab-row {
+	z-index:		1;
+	white-space:	nowrap;
+}

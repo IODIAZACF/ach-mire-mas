@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Name="Xameleon protocols specificationl" ReportInfo.Author="Aleksey Mandrykin" ReportInfo.Version="0.3.0.1" ReportInfo.Description="Describes Xameleon protocols&#13;&#10;" ReportInfo.Created="09/14/2011 16:00:52" ReportInfo.Modified="09/23/2011 17:16:37" ReportInfo.CreatorVersion="1.0.0.0">
+  <Dictionary>
+    <MsAccessDataConnection Name="Connection" ConnectionString="rijcmlqoDWEBRlB24atBGpA/h9/NbwdWKfjN0xexwR499WDO0xXhxoaSeCJKKiDczuXAvZVN6/g7Nu0FxEXJgOp0LNgrz54F+hokSx6G5LmiqWXCMIHgAYeTFSw+PAgA+fv7QauTqjCarlvBEN43DEbEI04rg==">
+      <TableDataSource Name="Arguments" DataType="System.Int32" Enabled="true" TableName="Arguments" SelectCommand="SELECT A.ID, A.InOutFlag, A.Index, A.TypedUntypedFlag, A1.Name, A.Name, A.Description&#13;&#10;FROM&#13;&#10;    Arguments A&#13;&#10;    INNER JOIN ArgType A1 ON (A.TypedUntypedFlag=A1.ID)&#13;&#10;ORDER BY A.ID , A.InOutFlag DESC, A.Index">
+        <Column Name="ID" DataType="System.Int32"/>
+        <Column Name="Index" DataType="System.String"/>
+        <Column Name="InOutFlag" DataType="System.Boolean" BindableControl="CheckBox"/>
+        <Column Name="TypedUntypedFlag" DataType="System.Int32"/>
+        <Column Name="Description" DataType="System.String"/>
+        <Column Name="A1.Name" DataType="System.String"/>
+        <Column Name="A.Name" DataType="System.String"/>
+        <Column Name="Column" Enabled="false" DataType="System.Int32" Calculated="true" Expression=""/>
+      </TableDataSource>
+      <TableDataSource Name="Methods" DataType="System.Int32" Enabled="true" TableName="Methods" SelectCommand="SELECT S.ProtocolID, S.Label, S.Name, S.Description, S.Description_Rus, S.ID&#13;&#10;FROM&#13;&#10;    Methods S&#13;&#10;ORDER BY&#13;&#10;    S.Label&#13;&#10;">
+        <Column Name="ID" DataType="System.Int32"/>
+        <Column Name="ProtocolID" DataType="System.Int32"/>
+        <Column Name="Label" DataType="System.Int32"/>
+        <Column Name="Name" DataType="System.String"/>
+        <Column Name="Description" DataType="System.String"/>
+        <Column Name="Description_Rus" DataType="System.String"/>
+      </TableDataSource>
+      <TableDataSource Name="Protocols" DataType="System.Int32" Enabled="true" TableName="Protocols" SelectCommand="SELECT P.Name, P.Description, P.ProtocolID, P.Description_Rus&#13;&#10;FROM&#13;&#10;    Protocols P">
+        <Column Name="ProtocolID" DataType="System.Int32"/>
+        <Column Name="Name" DataType="System.String"/>
+        <Column Name="Description" DataType="System.String"/>
+        <Column Name="Description_Rus" DataType="System.String"/>
+      </TableDataSource>
+      <TableDataSource Name="RevisionHistory" DataType="System.Int32" Enabled="true" TableName="RevisionHistory" SelectCommand="SELECT R.RevNo, R.Date, R.Revision&#13;&#10;FROM&#13;&#10;    RevisionHistory R&#13;&#10;ORDER BY R.Date">
+        <Column Name="RevNo" DataType="System.Int32"/>
+        <Column Name="Date" DataType="System.DateTime"/>
+        <Column Name="Revision" DataType="System.String"/>
+      </TableDataSource>
+      <TableDataSource Name="Typedefs" Alias="Types" DataType="System.Int32" Enabled="true" TableName="Typedefs" SelectCommand="SELECT A.ID, A.Name, A.Description, A.Description_Rus&#13;&#10;FROM&#13;&#10;    ArgType A&#13;&#10;ORDER BY A.ID">
+        <Column Name="ID" DataType="System.Int32"/>
+        <Column Name="Name" DataType="System.String"/>
+        <Column Name="Description" DataType="System.String"/>
+        <Column Name="Description_Rus" DataType="System.String"/>
+      </TableDataSource>
+      <TableDataSource Name="Table" Alias="Format" DataType="System.Int32" Enabled="true" SelectCommand="SELECT T.Name, T.Description, A.Name, T.Description_Rus&#13;&#10;FROM&#13;&#10;    Typedefs T&#13;&#10;    INNER JOIN ArgType A ON (T.Type=A.ID)&#13;&#10;WHERE&#13;&#10;    T.ParentType =?">
+        <Column Name="T.Name" DataType="System.String"/>
+        <Column Name="Description" DataType="System.String"/>
+        <Column Name="A.Name" DataType="System.String"/>
+        <Column Name="Description_Rus" DataType="System.String"/>
+        <CommandParameter Name="Parameter" DataType="3" Expression="[Types.ID]" DefaultValue="0"/>
+      </TableDataSource>
+    </MsAccessDataConnection>
+    <Relation Name="Methods_Arguments" ParentDataSource="Methods" ChildDataSource="Arguments" ParentColumns="ID" ChildColumns="ID" Enabled="true"/>
+    <Relation Name="Protocols_Methods" ParentDataSource="Protocols" ChildDataSource="Methods" ParentColumns="ProtocolID" ChildColumns="ProtocolID" Enabled="true"/>
+  </Dictionary>
+  <ReportPage Name="TitlePage" OutlineExpression="&quot;Title&quot;">
+    <ReportTitleBand Name="Band2" Width="718.2" Height="1009.13">
+      <RichObject Name="Rich1" Left="3.78" Top="510.24" Width="714.33" Height="449.76" Text="{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset204 Tahoma;}{\f1\fnil\fcharset0 Tahoma;}{\f2\fnil Tahoma;}{\f3\fnil\fcharset2 Symbol;}}&#13;&#10;{\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-200\li200\f0\fs20\'dd\'f2\'ee\'f2 \'e4\'ee\'ea\'f3\'ec\'e5\'ed\'f2 \'ed\'e5 \'ff\'e2\'eb\'ff\'e5\'f2\'f1\'ff \'ee\'e1\'f9\'e5\'f1\'f2\'e2\'e5\'ed\'ed\'fb\'ec \'e4\'ee\'f1\'f2\'ee\'ff\'ed\'e8\'e5\'ec \'e8 \'ef\'f0\'e8\'ed\'e0\'e4\'eb\'e5\'e6\'e8\'f2 \'e5\'e3\'ee \'f0\'e0\'e7\'f0\'e0\'e1\'ee\'f2\'f7\'e8\'ea\'e0\'ec\lang1033\f1  (http://l4os.ru)\lang1049\f0 .\lang1033\f1\par&#13;&#10;\pard\qc  \par&#13;&#10;\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-200\li200\lang1049\f0\'c4\'ee\'ea\'f3\'ec\'e5\'ed\'f2 \'e8\'ec\'e5\'e5\'f2 \'f1\'f2\'e0\'f2\'f3\'f1 \'f7\'e5\'f0\'ed\'ee\'e2\'e8\'ea\'e0 \'e8 \'ec\'ee\'e6\'e5\'f2 \'e1\'fb\'f2\'fc \'e8\'e7\'ec\'e5\'ed\'b8\'ed \'e2 \'eb\'fe\'e1\'ee\'e5 \'e2\'f0\'e5\'ec\'ff \'e1\'e5\'e7 \'ef\'f0\'e5\'e4\'e2\'e0\'f0\'e8\'f2\'e5\'eb\'fc\'ed\'ee\'e3\'ee \'f3\'e2\'e5\'e4\'ee\'ec\'eb\'e5\'ed\'e8\'ff\lang1033\f1 .\par&#13;&#10;\pard\qc\par&#13;&#10;\pard{\pntext\f3\'B7\tab}{\*\pn\pnlvlblt\pnf3\pnindent0{\pntxtb\'B7}}\fi-200\li200\qj\lang1049\f0\'dd\'f2\'ee\'f2 \'e4\'ee\'ea\'f3\'ec\'e5\'ed\'f2 \'ee\'f1\'ed\'ee\'e2\'e0\'ed \'ed\'e0 \lang1033\f1 L4 Specification Revision X2\lang1049\f0  (http://www.l4ka.org/pistachio).\lang1033\f1\par&#13;&#10;\pard\qc\par&#13;&#10;\lang1049\f2\par&#13;&#10;}&#13;&#10;" Padding="2, 1, 2, 1"/>
+      <TextObject Name="Memo18" Left="3.78" Top="977" Width="718.11" Height="18.9" Hyperlink.Value=" http://www.fast-report.com." Text="Документ создан генератором отчётов FastReport: http://www.fast-report.com" Padding="2, 1, 2, 1" Font="Tahoma, 8pt"/>
+      <TextObject Name="Memo19" Top="359.06" Width="718.11" Height="75.59" Text="Xameleon &#13;&#10;спецификация семейства протоколов" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Tahoma, 20pt"/>
+      <TextObject Name="Memo6" Top="442.21" Width="718.11" Height="18.9" Text="Draft v7" Padding="2, 1, 2, 1" HorzAlign="Center" Font="Arial, 10pt, style=Bold"/>
+    </ReportTitleBand>
+  </ReportPage>
+  <ReportPage Name="History">
+    <PageHeaderBand Name="PageHeader1" Width="718.2" Height="22.68">
+      <TextObject Name="Memo25" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Bottom" Border.Width="2" Text="Document creation date: [Date]" Padding="2, 1, 2, 1" Font="Arial, 7pt"/>
+    </PageHeaderBand>
+    <DataBand Name="MasterData2" Top="64.7" Width="718.2" Height="55.26" OutlineExpression="&quot;Document revision history&quot;">
+      <TextObject Name="Memo20" Left="3.37" Top="5.52" Width="737.01" Height="30.24" Text="История ревизий документа" Padding="2, 1, 2, 1" HorzAlign="Center" Font="Tahoma, 16pt"/>
+      <DataHeaderBand Name="Header1" Top="26.68" Width="718.2" Height="34.02" KeepChild="true"/>
+    </DataBand>
+    <GroupHeaderBand Name="GroupHeader2" Top="123.96" Width="718.2" Height="22.68" Condition="[RevisionHistory.RevNo]">
+      <TextObject Name="Memo87" Left="8.68" Width="94.49" Height="18.9" Text="Revision [RevisionHistory.RevNo]" Padding="2, 1, 2, 1"/>
+      <DataBand Name="MasterData1" Top="150.64" Width="718.2" Height="18.9" DataSource="RevisionHistory">
+        <TextObject Name="Memo21" Left="3.78" Width="109.61" Height="18.9" Text="[RevisionHistory.Date]" Padding="2, 1, 2, 1" Format="Date" Format.Format="d" HorzAlign="Center" Font="Tahoma, 10pt"/>
+        <TextObject Name="Memo23" Left="113.39" Width="604.72" Height="18.9" Text="[RevisionHistory.Revision]" Padding="2, 1, 2, 1" Font="Tahoma, 10pt"/>
+        <DataFooterBand Name="Footer1" Top="173.54" Width="718.2" Height="22.68">
+          <TextObject Name="Memo24" Left="563.15" Top="3.78" Width="185.2" Height="18.9" Text="Total [Line#] entries" Padding="2, 1, 2, 1" AllowExpressions="false" HorzAlign="Center" Font="Tahoma, 10pt"/>
+        </DataFooterBand>
+      </DataBand>
+    </GroupHeaderBand>
+    <PageFooterBand Name="PageFooter1" Top="200.22" Width="718.2" Height="22.68">
+      <TextObject Name="Memo26" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Top" Border.Width="2" Text="[Page#] of [TotalPages#]" Padding="2, 1, 2, 1" HorzAlign="Right" Font="Arial, 8pt"/>
+    </PageFooterBand>
+  </ReportPage>
+  <ReportPage Name="Layers">
+    <PageHeaderBand Name="PageHeader2" Width="718.2" Height="22.68">
+      <TextObject Name="Memo71" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Bottom" Border.Width="2" Text="Document creation date: [Date]" Padding="2, 1, 2, 1" Font="Arial, 7pt"/>
+    </PageHeaderBand>
+    <DataBand Name="MasterData3" Top="26.68" Width="718.2" Height="861.73" OutlineExpression="&quot;Protocol layering model&quot;">
+      <TextObject Name="Memo15" Left="37.8" Top="372.38" Width="355.28" Height="37.8" Border.Lines="All" Fill.Color="Lime" Text="File System service" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 16pt"/>
+      <TextObject Name="Memo28" Left="37.8" Top="654.54" Width="661.42" Height="37.8" Border.Lines="All" Fill.Color="255, 255, 152" Text="Supervisor" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 16pt"/>
+      <TextObject Name="Memo32" Left="91.77" Top="447.97" Width="170.08" Height="37.8" Border.Lines="All" Fill.Color="255, 204, 0" Text="Block devices" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo36" Left="261.85" Top="447.97" Width="132.28" Height="37.8" Border.Lines="All" Fill.Color="255, 204, 0" Text="Character devices" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo37" Left="453.54" Top="447.97" Width="245.67" Height="37.8" Border.Lines="All" Fill.Color="255, 204, 0" Text="Sockets" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo38" Left="186.26" Top="485.76" Width="37.8" Height="132.28" Border.Lines="All" Fill.Color="240, 240, 240" Text="Floppy disk" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo39" Left="224.06" Top="485.76" Width="37.8" Height="132.28" Border.Lines="All" Fill.Color="240, 240, 240" Text="ATA/ATAPI&#13;&#10;device driver" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo40" Left="318.54" Top="485.76" Width="37.8" Height="132.28" Border.Lines="All" Fill.Color="240, 240, 240" Text="Virtual terminals" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo41" Left="356.34" Top="485.76" Width="37.8" Height="132.28" Border.Lines="All" Fill.Color="240, 240, 240" Text="Serail port&#13;&#10;driver" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo42" Left="37.8" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo43" Left="37.8" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo44" Left="37.8" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application 1" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo45" Left="113.39" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application 2" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo46" Left="188.98" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application 3" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo47" Left="264.57" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application ..." Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo48" Left="340.16" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application ..." Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo49" Left="415.75" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application ..." Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo50" Left="491.34" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application ..." Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo51" Left="566.93" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application ..." Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo52" Left="646.3" Top="86.93" Width="52.91" Height="170.08" Border.Lines="All" Fill.Color="Green" Text="Application N" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="255, 235, 155"/>
+      <TextObject Name="Memo53" Top="11.34" Width="740.79" Height="34.02" Text="Модель слоения протоколов" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Tahoma, 16pt"/>
+      <TextObject Name="Memo54" Left="37.8" Top="749.65" Width="468.66" Height="75.59" Border.Lines="All" Fill.Color="220, 255, 255" Text="L4 Pistachio&#13;&#10;microkernel" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Tahoma, 16pt"/>
+      <LineObject Name="Line3" Left="15.12" Top="332.8" Width="699.21" Printable="false" Border.Style="DashDot" ShiftMode="WhenOverlapped"/>
+      <LineObject Name="Line5" Left="18.9" Top="710.76" Width="691.65" Printable="false" Border.Style="DashDot" ShiftMode="Never"/>
+      <LineObject Name="Line6" Left="18.9" Top="844.14" Width="699.21" Printable="false" Border.Style="DashDot"/>
+      <LineObject Name="Line7" Left="64.25" Top="293.7" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line8" Left="139.84" Top="294.8" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line9" Left="215.43" Top="294.8" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line10" Left="291.02" Top="294.8" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line11" Left="366.61" Top="294.8" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line12" Left="445.98" Top="294.8" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line13" Left="517.8" Top="294.8" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line14" Left="593.39" Top="294.8" Height="75.59" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line15" Left="672.76" Top="294.8" Height="75.59" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line17" Left="212.72" Top="410.17" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line18" Left="337.44" Top="410.17" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line19" Left="563.84" Top="410.17" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line20" Left="205.16" Top="618.05" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line21" Left="375.24" Top="618.05" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line22" Left="434.65" Top="410.17" Height="245.67" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line23" Left="78.08" Top="410.17" Height="245.67" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line24" Left="264.57" Top="690.55" Height="60.47" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <TextObject Name="Memo55" Left="113.39" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo56" Left="113.39" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo57" Left="188.98" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo58" Left="188.98" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo59" Left="264.57" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo60" Left="264.57" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo61" Left="340.16" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo62" Left="340.16" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo63" Left="415.75" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo64" Left="415.75" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo65" Left="491.34" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo66" Left="491.34" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo67" Left="566.93" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo68" Left="566.93" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo69" Left="646.3" Top="257.01" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="crt" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo70" Left="646.3" Top="275.91" Width="52.91" Height="18.9" Border.Lines="All" Fill.Color="204, 244, 255" Text="libc" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <LineObject Name="Line16" Left="242.95" Top="618.05" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line25" Left="337.44" Top="618.05" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line1" Left="18.9" Top="68.03" Width="699.21" Border.Style="DashDot"/>
+      <TextObject Name="Memo73" Left="544.25" Top="749.65" Width="154.96" Height="75.59" Border.Lines="All" Fill.Color="220, 255, 255" Text="L4 Sigma0" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Tahoma, 16pt"/>
+      <LineObject Name="Line26" Left="506.46" Top="787.45" Width="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line27" Left="619.84" Top="690.55" Height="60.47" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <TextObject Name="Memo88" Left="148.46" Top="485.76" Width="37.8" Height="132.28" Border.Lines="All" Fill.Color="240, 240, 240" Text="Virtual disk" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold"/>
+      <LineObject Name="Line28" Left="167.36" Top="619.05" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <TextObject Name="Memo80" Left="415.75" Top="372.6" Width="283.46" Height="37.8" Border.Lines="All" Fill.Color="Lime" Text="Network service" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 16pt"/>
+      <TextObject Name="Memo98" Left="453.54" Top="485.76" Width="245.67" Height="37.8" Border.Lines="All" Fill.Color="204, 255, 204" Text="UDP/TCP" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo99" Left="453.54" Top="516" Width="245.67" Height="37.8" Border.Lines="All" Fill.Color="204, 255, 204" Text="IPv4/IPv6" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo100" Left="453.54" Top="580.25" Width="245.67" Height="37.8" Border.Lines="All" Fill.Color="240, 240, 240" Text="Network device drivers" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <LineObject Name="Line29" Left="566.93" Top="542.46" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line30" Left="566.93" Top="618.74" Height="37.8" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line31" Left="380.14" Top="294.8" Width="56.69" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <LineObject Name="Line32" Left="427.09" Top="294.8" Width="-49.13" Height="79.37" Diagonal="true" StartCap.Width="5" StartCap.Height="10" StartCap.Style="Arrow" EndCap.Width="5" EndCap.Height="10" EndCap.Style="Arrow"/>
+      <TextObject Name="Memo102" Left="3.78" Top="86.93" Width="23.99" Height="241.31" Fill.Color="Black" Text="User space" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="Yellow"/>
+      <TextObject Name="Memo103" Left="3.78" Top="340.16" Width="23.99" Height="366.03" Fill.Color="Black" Text="Xameleon kernel" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="Yellow"/>
+      <TextObject Name="Memo101" Left="3.78" Top="714.33" Width="23.99" Height="124.14" Fill.Color="Black" Text="Micro kernel" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Angle="90" Font="Arial, 10pt, style=Bold" TextFill.Color="Yellow"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter2" Top="892.41" Width="718.2" Height="22.68">
+      <TextObject Name="Memo72" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Top" Border.Width="2" Text="[Page#] of [TotalPages#]" Padding="2, 1, 2, 1" HorzAlign="Right" Font="Arial, 8pt"/>
+    </PageFooterBand>
+  </ReportPage>
+  <ReportPage Name="DataTypes">
+    <PageHeaderBand Name="PageHeader3" Width="718.2" Height="22.68">
+      <TextObject Name="Memo83" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Bottom" Border.Width="2" Text="Document creation date: [Date]" Padding="2, 1, 2, 1" Font="Arial, 7pt"/>
+    </PageHeaderBand>
+    <DataBand Name="MasterData5" Top="26.68" Width="718.2" Height="30.24" OutlineExpression="&quot;Data types information&quot;">
+      <TextObject Name="Memo86" Left="3.78" Width="706.77" Height="30.24" Text="Информация о типах данных" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Tahoma, 16pt"/>
+    </DataBand>
+    <DataBand Name="MasterData4" Top="140.51" Width="718.2" Height="26.46" CanGrow="true" CanShrink="true" DataSource="Typedefs">
+      <TextObject Name="Memo79" Left="79.37" Width="128.5" Height="26.46" Border.Lines="All" GrowToBottom="true" Text="[Types.Name]" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+      <TextObject Name="Memo97" Left="207.87" Width="506.46" Height="26.46" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[Types.Description_Rus]" Padding="2, 1, 2, 1" VertAlign="Center"/>
+      <DataHeaderBand Name="Header4" Top="60.92" Width="718.2" Height="75.59">
+        <TextObject Name="Memo81" Left="79.37" Top="49.13" Width="128.5" Height="26.46" Border.Lines="All" Fill.Color="Cyan" GrowToBottom="true" Text="Type" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+        <TextObject Name="Memo82" Left="207.87" Top="49.13" Width="506.46" Height="26.46" Border.Lines="All" Fill.Color="Cyan" CanGrow="true" Text="Description" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+        <TextObject Name="Memo85" Left="79.37" Width="533.01" Height="34.02" Text="Данная информация предоставлена в справочных целях. &#13;&#10;Для подробного описания форматов данных обращайтесь к спецификации L4x2." Padding="2, 1, 2, 1"/>
+      </DataHeaderBand>
+      <DataFooterBand Name="Footer2" Top="170.97" Width="718.2" Height="34.02" CanGrow="true" CanShrink="true" KeepChild="true">
+        <TextObject Name="Memo90" Left="79.37" Width="128.5" Height="3.78" Border.Lines="All" Fill.Color="Cyan" Padding="2, 1, 2, 1" AllowExpressions="false" HorzAlign="Center" VertAlign="Center"/>
+        <TextObject Name="Memo91" Left="207.87" Width="506.46" Height="3.78" Border.Lines="All" Fill.Color="Cyan" Padding="2, 1, 2, 1" AllowExpressions="false" HorzAlign="Center" VertAlign="Center"/>
+      </DataFooterBand>
+    </DataBand>
+    <PageFooterBand Name="PageFooter3" Top="208.99" Width="718.2" Height="22.68">
+      <TextObject Name="Memo84" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Top" Border.Width="2" Text="[Page#] of [TotalPages#]" Padding="2, 1, 2, 1" HorzAlign="Right" Font="Arial, 8pt"/>
+    </PageFooterBand>
+  </ReportPage>
+  <ReportPage Name="BodyPage" LeftMargin="5" TopMargin="5" RightMargin="5" BottomMargin="5" MirrorMargins="true">
+    <PageHeaderBand Name="Band3" Width="756" Height="22.68">
+      <TextObject Name="Memo22" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Bottom" Border.Width="2" Text="Document creation date: [Date]" Padding="2, 1, 2, 1" Font="Arial, 7pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Band4" Top="26.68" Width="756" Height="90.71" CanGrow="true" CanShrink="true" StartNewPage="true" OutlineExpression="[Protocols.Name]" DataSource="Protocols" PrintIfDetailEmpty="true">
+      <TextObject Name="Memo16" Left="3.78" Top="15.12" Width="755.91" Height="30.24" Text="[Protocols.Name]" Padding="2, 1, 2, 1" HorzAlign="Center" Font="Tahoma, 16pt"/>
+      <TextObject Name="Memo14" Left="34.02" Top="52.91" Width="684.09" Height="18.9" CanGrow="true" CanShrink="true" Text="[Protocols.Description_Rus]" Padding="2, 1, 2, 1" HorzAlign="Justify"/>
+      <TextObject Name="Memo77" Left="34.02" Top="71.81" Width="684.09" Height="18.9" Padding="2, 1, 2, 1"/>
+      <DataBand Name="DetailData1" Top="144.29" Width="756" Height="18.9" CanGrow="true" CanShrink="true" DataSource="Methods">
+        <TextObject Name="Memo75" Left="34.02" Width="154.96" Height="18.9" Border.Lines="Right" GrowToBottom="true" Text="[Methods.Name]" Padding="4, 8, 4, 8" Font="Arial, 10pt, style=Bold"/>
+        <TextObject Name="Memo74" Left="188.98" Width="529.13" Height="18.9" CanGrow="true" CanShrink="true" Text="[Methods.Description_Rus]" Padding="4, 8, 4, 8" Font="Tahoma, 10pt"/>
+        <DataHeaderBand Name="Header3" Top="121.39" Width="756" Height="18.9">
+          <TextObject Name="Memo76" Left="34.02" Width="154.96" Height="18.9" Border.Lines="All" Fill.Color="Cyan" GrowToBottom="true" Text="Method" Padding="4, 2, 4, 2" HorzAlign="Center" VertAlign="Center"/>
+          <TextObject Name="Memo78" Left="188.98" Width="529.13" Height="18.9" Border.Lines="All" Fill.Color="Cyan" CanGrow="true" CanShrink="true" Text="Description" Padding="4, 2, 4, 2" HorzAlign="Center" VertAlign="Center"/>
+        </DataHeaderBand>
+      </DataBand>
+      <DataBand Name="Band5" Top="193.87" Width="756" Height="143.62" CanGrow="true" CanShrink="true" StartNewPage="true" OutlineExpression="[Methods.Name]" DataSource="Methods" PrintIfDetailEmpty="true">
+        <TextObject Name="Memo1" Width="226.77" Height="37.8" Border.Lines="All" Fill.Color="204, 204, 204" Text="[Methods.Name]" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+        <TextObject Name="Memo7" Left="150.06" Top="44.23" Width="566.93" Height="30.24" CanGrow="true" CanShrink="true" Text="[Methods.Description_Rus]" Padding="10, 5, 10, 5" HorzAlign="Justify"/>
+        <TextObject Name="Memo29" Top="94.49" Width="75.59" Height="30.24" Border.Lines="All" Fill.Color="Cyan" Text="Message register" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 8pt"/>
+        <TextObject Name="Memo30" Left="75.59" Top="94.49" Width="75.59" Height="30.24" Border.Lines="All" Fill.Color="Cyan" Text="Type" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+        <TextObject Name="Memo31" Left="151.18" Top="94.49" Width="113.39" Height="30.24" Border.Lines="All" Fill.Color="Cyan" Text="Label" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+        <TextObject Name="Memo33" Top="124.72" Width="75.59" Height="18.9" Border.Lines="All" Text="MR0" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+        <TextObject Name="Memo34" Left="75.59" Top="124.72" Width="75.59" Height="18.9" Border.Lines="All" Text="MsgTag" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+        <TextObject Name="Memo35" Left="151.18" Top="124.72" Width="113.39" Height="18.9" Border.Lines="All" Text="[Methods.Label]" Padding="10, 1, 10, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 10pt, style=Bold"/>
+        <TextObject Name="Memo27" Top="75.59" Width="718.11" Height="18.9" Padding="2, 1, 2, 1" VertAlign="Center"/>
+        <DataHeaderBand Name="Header2" Top="167.19" Width="756" Height="22.68" StartNewPage="true">
+          <TextObject Name="Memo17" Left="245.67" Width="472.44" Height="18.9" Text="[Protocols.Name]" Padding="2, 1, 2, 1" HorzAlign="Right" Font="Arial, 8pt"/>
+        </DataHeaderBand>
+        <GroupHeaderBand Name="GroupHeader1" Top="341.49" Width="756" Height="79.37" Condition="[Arguments.InOutFlag]">
+          <TextObject Name="Memo3" Top="30.24" Width="718.11" Height="18.9" Border.Lines="All" Fill.Color="Teal" Text="Формат регистров [[Arguments.InOutFlag] ? &quot;исходящего&quot; : &quot;входящего&quot;] сообщения" Padding="2, 1, 2, 1" HorzAlign="Center" Font="Arial, 10pt, style=Italic" TextFill.Color="Lime"/>
+          <TextObject Name="Memo10" Left="151.18" Top="49.13" Width="113.39" Height="30.24" Border.Lines="All" Fill.Color="Cyan" Text="Name" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+          <TextObject Name="Memo11" Left="264.57" Top="49.13" Width="453.54" Height="30.24" Border.Lines="All" Fill.Color="Cyan" Text="Description" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+          <TextObject Name="Memo12" Left="75.59" Top="49.13" Width="75.59" Height="30.24" Border.Lines="All" Fill.Color="Cyan" Text="Type" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+          <TextObject Name="Memo13" Top="49.13" Width="75.59" Height="30.24" Border.Lines="All" Fill.Color="Cyan" Text="Message registers" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center" Font="Arial, 8pt"/>
+          <DataBand Name="SubdetailData1" Top="424.86" Width="756" Height="26.46" CanGrow="true" CanShrink="true" DataSource="Arguments">
+            <TextObject Name="Memo2" Left="151.18" Width="113.39" Height="22.68" Border.Lines="All" GrowToBottom="true" Text="[Arguments.A.Name]" Padding="10, 1, 10, 1" VertAlign="Center"/>
+            <TextObject Name="Memo4" Left="264.57" Width="453.54" Height="22.68" Border.Lines="All" CanGrow="true" GrowToBottom="true" Text="[Arguments.Description]" Padding="10, 1, 10, 1" VertAlign="Center"/>
+            <TextObject Name="Memo8" Left="75.59" Width="75.59" Height="22.68" Border.Lines="All" GrowToBottom="true" Text="[Arguments.A1.Name]" Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+            <TextObject Name="Memo9" Width="75.59" Height="22.68" Border.Lines="All" GrowToBottom="true" Text="MR[Arguments.Index] " Padding="2, 1, 2, 1" HorzAlign="Center" VertAlign="Center"/>
+            <DataFooterBand Name="Band6" Top="455.32" Width="756" Height="26.46"/>
+          </DataBand>
+          <GroupFooterBand Name="GroupFooter1" Top="485.78" Width="756" Height="22.68"/>
+        </GroupHeaderBand>
+      </DataBand>
+    </DataBand>
+    <PageFooterBand Name="Band1" Top="512.46" Width="756" Height="22.68">
+      <TextObject Name="Memo5" Left="3.78" Top="3.78" Width="706.77" Height="15.12" Border.Lines="Top" Border.Width="2" Text="[Page#] of [TotalPages#]" Padding="2, 1, 2, 1" HorzAlign="Right" Font="Arial, 8pt"/>
+    </PageFooterBand>
+  </ReportPage>
+  <ReportPage Name="Appendix_I" OutlineExpression="&quot;Appendix I&quot;">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="146.28">
+      <TextObject Name="Memo92" Left="112.26" Top="127.38" Width="147.4" Height="18.9" GrowToBottom="true" Text="[Format.T.Name];" Padding="2, 1, 2, 1" Font="Courier New, 10pt"/>
+    </ReportTitleBand>
+    <DataBand Name="MasterData6" Top="150.28" Width="718.2" Height="11.34" DataSource="Typedefs" PrintIfDetailEmpty="true">
+      <DataBand Name="DetailData2" Top="222.54" Width="718.2" Height="18.9" CanGrow="true" CanShrink="true" DataSource="Table">
+        <TextObject Name="Memo93" Left="260.79" Width="453.54" Height="18.9" CanGrow="true" CanShrink="true" Text="// [Format.Description_Rus]" Padding="2, 1, 2, 1" Font="Courier New, 10pt" TextFill.Color="123, 164, 0"/>
+        <TextObject Name="Memo94" Left="18.9" Width="94.49" Height="18.9" GrowToBottom="true" Text="[Format.A.Name]" Padding="2, 1, 2, 1" Font="Courier New, 10pt" TextFill.Color="Green"/>
+        <DataHeaderBand Name="Header5" Top="165.62" Width="718.2" Height="52.92" CanGrow="true" CanShrink="true">
+          <TextObject Name="Memo89" Left="3.78" Top="34.02" Width="302.36" Height="18.9" Text="typedef struct [Types.Name] {" Padding="2, 1, 2, 1" VertAlign="Center" Font="Courier New, 10pt"/>
+          <TextObject Name="Memo96" Left="79.37" Width="563.15" Height="26.46" Border.Lines="All" Fill.Color="240, 240, 240" CanGrow="true" CanShrink="true" Text="[Types.Description_Rus]" Padding="2, 2, 2, 2" HorzAlign="Center" VertAlign="Center" Font="Courier New, 10pt" TextFill.Color="White"/>
+        </DataHeaderBand>
+        <DataFooterBand Name="Footer3" Top="245.44" Width="718.2" Height="18.9">
+          <TextObject Name="Memo95" Left="3.78" Width="177.64" Height="18.9" Text="} [Types.Name];" Padding="2, 1, 2, 1" Font="Courier New, 10pt"/>
+        </DataFooterBand>
+      </DataBand>
+    </DataBand>
+  </ReportPage>
+</Report>

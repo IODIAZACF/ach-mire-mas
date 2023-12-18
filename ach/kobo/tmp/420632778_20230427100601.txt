@@ -1,0 +1,283 @@
+stdClass Object
+(
+    [_id] => 420632778
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-04-25T18:24:58.285-05:00
+    [end] => 2023-04-27T10:04:19.105-05:00
+    [group_pl6la06/_1_C_digo] => CHAL-718.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-03-09
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-04-19
+    [group_pl6la06/_4_Departamento] => CHOCO
+    [group_pl6la06/CHOCO] => ALTO BAUDO
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Sin Información
+    [group_pl6la06/_8_Comunidad] => Felicia, Divisa, Mohamia, Miacora Chimia, Miacora Central, Santa Maria de Condoto, Cristiano, Chivirido, Ensenada, Ajido, Puerto Manzo y Playa Bonita.
+    [group_pl6la06/_9_Tipo_de_emergencia] => CONFINAMIENTO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA
+    [group_mb5pt53/_1a_Evaluador] => Sin Información
+    [group_mb5pt53/_1b_Celular] => Sin Información
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Sin Información
+    [group_mb5pt53/_2b_Celular] => Sin Información
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-01-25
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde el 25 de enero del 2023, aproximadamente 2.142 personas (529 familias) de 11 comunidades pertenecientes al Resguardo Indígena Emberá Dóbida Jurubira Chori, se encuentran en continuos confinamientos y algunos desplazamientos en la población. Esta situación se está generando desde la incursión de un nuevo Grupo Armado No Estatal (GANE) en la comunidad. 
+La presencia de dos GANE en las comunidades y en el resguardo está ocasionando que la población realicé acciones como medida de autoprotección como: limitaciones para realizar actividades de pesca, caza, recolección de alimentos en cultivos de pan coger, recolección de agua y el desarrollo de actividades culturales. 
+El 3 de febrero de 2023 OCHA emite la alerta sobre las necesidades identificadas en el Resguardo Indígena Emberá Dóbida Jurubira Chori.
+
+Desde el 25 de enero del 2023, al menos 2.142 personas (529 familias aproximadamente, 752 niñas, niños y adolescentes) de 11 comunidades pertenecientes al Resguardo Indígena Embera Dóbida Jurubira Chori, se encuentran en continúo confinamiento. Esta emergencia en particular se genera tras la incursión de un Grupo Armado No Estatal (GANE) en la comunidad de Santa María de Condoto, donde además se registraron amenazas, riesgo de reclutamiento, uso y utilización de jóvenes indígenas, ataques contra la población y hurto a bienes civiles como cultivos de pan coger, animales de corral y aves. La presencia de un segundo GANE cerca a las comunidades podría desencadenar nuevas confrontaciones armadas y riesgos de protección. Como resultado, la población ha afrontado limitaciones para realizar actividades de pesca, caza, recolección de alimentos en cultivos de pan coger, recolección de agua y el desarrollo de actividades cultural.
+    [group_rq63s60/group_lm6cx76/a_Social] => El municipio de Alto Baudó se encuentra ubicado en un clima cálido con temperatura promedio anual de 27.7°C, en su territorio se encuentran; 1 Parque Nacional Natural, con el nombre de Utría; 7 Resguardos Indígenas (13.138 indígenas); 4 Títulos Colectivos de Comunidades Negras (7.779 negros). limita al norte con Bahía Solano (Mutis) y Bojayá (Bellavista), al este con Quibdó, Río Quito (Paimadó) y El Cantón del San Pablo (Managrú), al sur con Medio Baudó (Boca de Pepé) y Bajo Baudó (Pizarro) y al oeste con Bajo Baudó (Pizarro) y Nuquí. Se caracteriza por ser un municipio con vocación rural .
+Las Alertas Tempranas N° 041-2019 (Inminencia) y N° 034-2022 (Estructural) evidencian una situación de riesgo debido a la grave situación que enfrentan los habitantes del Alto Baudó. El escenario de riesgo se presenta por cuenta de la disputa territorial que sostiene dos grupos armados no estatales (GANE).
+Según la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV) durante el año 2022 se han presentado declaraciones por desplazamiento individual (101 eventos) y Masivos (3 eventos) afectando a 618 mujeres y hombres, con respecto al confinamiento se reportan 994 personas confinadas en 7 sucesos .
+En los últimos años un Grupo Armado No Estatal (GANE) ha buscado su expansión hacia comunidades situadas en la zona rural (indígenas, afrocolombianas, campesinas) con la intención de obtener el control territorial de estos espacios geográficos que son del dominio de otro GA. Actualmente en el territorio se encuentran dos GANE con fuerte presencia que han conllevado a un escenario grave de riesgo para la población.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Las doce comunidades confinadas se reconocen como indígenas Emberá Dóbida del resguardo indígena Jurubira Chori, estas hacen uso y ejercicio de su cosmovisión, prácticas tradicionales, lenguaje, autonomía y derecho propio. Por esta razón, es indispensable hacer uso de traductores que faciliten la interlocución y comprensión de los mensajes brindados, del mismo modo, se debe hacer uso de un lenguaje simple que facilite la interpretación y trasmisión de conocimientos, así mismo, se debe tener en cuenta sus costumbres y tradiciones para el desarrollo de actividades. Es indispensable, adoptar un enfoque diferencial para la atención de niños y adultos con capacidad diversa y mujeres embarazadas.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Los medios de vida de las comunidades están relacionados con la agricultura, la caza y la pesca, estas actividades no representan ingresos significativos, ya que son economías de pan coger. Otra fuente de ingresos para las comunidades es la elaboración de artesanías, no obstante, se evidencia la imposibilidad de comprar materiales para la elaboración de estas, que son comercializadas en el municipio de Nuquí, sin embargo, el estado de confinamiento y la posible presencia de minas antipersonales y municiones sin explotar en el territorio, ha impedido la comercialización y elaboración de estas, quedando las mujeres y familias sin fuentes de ingresos económicos.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El resguardo Dobida Jurubira Chori se encuentra ubicado en el municipio de Alto Baudó, en la rivera de los ríos Baudó, Catru y Jurubira Chori. Las comunidades se caracterizan por tener un entorno de selva tropical del Chocó biogeográfico y la temperatura oscila entre los 27° C y los 32° C con una humedad promedio del 80%.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las comunidades del resguardo indígena Jurubida Chorri no cuentan con acceso a servicios básicos, como lo son el agua potable, electricidad continua, red de saneamiento, espacios de disposición final de residuos, espacios para la preparación y almacenamiento de alimentos.  Las comunidades de Divisa, Mohamia y Santa María de Condoto cuentan con servicio de electricidad intermitente a través de plantas eléctricas, que funcionan de acuerdo con la disponibilidad de combustible. 
+En las comunidades de Miacora Central y Miacora Chimia, cuentan con sistema de acueducto, sin embargo, refiere la comunidad que aproximadamente hace dos años no se encuentra en funcionamiento, en la comunidad de Santa María de Condoto se encuentra este sistema, sin embargo, el agua no es potabilizada y proviene de una quebrada. 
+En cuanto a servicios de comunicación, en Miacora Chimia y Santa María de Condoto se cuenta con acceso a internet a través de pines de conectividad; hay señal telefónica de un operador en la comunidad de Santa María y en algunos puntos territoriales de cada comunidad.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Sin Información
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/Riesgos_para_respuesta] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => El ingreso a las comunidades desde Bogotá es por vía aérea hasta el municipio Quibdó y luego vía terrestre se desplazada desde Quibdó hasta el municipio de Puerto Meluk (4 horas aproximadamente) y desde puerto Meluk se accede vía fluvial a las comunidades a Pie de Pató, Cugucho, Felicia, Divisa, Mohamía, Miácora Central.
+    [group_fm93i53/seguridad] => Existe presencia de un Grupo Armado en las comunidades, este ejerce presencia y control territorial.  Debido a esta situación, es necesaria la coordinación con las comunidades para el ingreso, así como utilizar visibilidad en los medios de transporte por parte del personal humanitario. Históricamente se han presentado activación de artefactos explosivos en Santa María de Condoto y en Divisa Nauca.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 577
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 2142
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 12
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-04-24
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Alcaldía
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION-PR EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => Indicadores Clave
+•	Las comunidades desconocen las rutas de atención y activación. Principalmente, las familias desconocen la ley 1448 de 2011.
+•	Existe baja presencia institucional y desconocimiento por parte de las comunidades afectadas sobre  las rutas de acceso a la asistencia y atención de víctimas.
+•	Las mujeres y hombres manifiestan que no han contado con espacios de fortalecimiento para el acceso a derechos. 
+ Hallazgos
+
+•	Existe limitación de acceso a derechos fundamentales, libertades y bienes indispensables de las comunidades como lo son la alimentación, la educación, la libre circulación, la salud y otros. 
+•	Antecedentes y riesgos de ocurrencias de otros hechos victimizantes como: homicidio, amenazas e intimidaciones, delitos en contra de la libertad y la integridad sexual, presencia de Minas Antipersonal (MAP), Municiones Sin Explotar (MSE) y Trampa Explosiva (TE). 
+•	Imposición de normas de conducta por parte de los Grupos Armados No Estatales (GANE) en las comunidades Mohamia, Santa María de Condoto, Miacora Chimia, limitando el desarrollo de sus actividades culturales, ancestrales, religiosas, educativas y agrícolas.
+•	Existen dificultades para acceder a los servicios de salud e instituciones públicas. 
+Recomendaciones
+•	Fortalecer a gobernadores y otras figuras de liderazgo (hombres y mujeres) dentro del resguardo indígena, hombres y mujeres sobre mecanismos de exigibilidad de derechos.
+•	Identificar y brindar acompañamiento a menores de edad y personas sin identidad legal. 
+•	Hacer incidencia y seguimiento sobre la activación de la ruta administrativa de población víctima del conflicto armado. 
+•	Fortalecimiento a las mujeres y hombres en derecho propio, nuevos liderazgos y herramientas jurídicas de acceso a derechos. 
+•	Identificación de hechos individuales no declarados e invisibilizados por las víctimas directas e indirectas.
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => Indicadores Clave
+•	Desconocimiento sobre las rutas de atención, instituciones protectoras de sus derechos y tipos de violencias a las que pueden enfrentarse, además de tener arraigados mitos sobre los métodos de planificación.
+•	Las comunidades manifiestan riesgos de vinculación y utilización de niños, niñas y adolescentes (NNA), además, pensamientos o conductas suicidas que se relacionan con el entorno educativo.
+•	Poca participación de las mujeres en espacios de tomas de decisiones individuales y comunitarias.
+Hallazgos
+•	Se evidencian riesgos de amenazas e intimidaciones a personas con roles de liderazgos. 
+•	Se evidencian prácticas relacionadas con violencias basadas en género. 
+•	El confinamiento, la carencia de alimentos y los hechos victimizantes a los que se enfrentan las comunidades incrementan los riesgos de violencia intrafamiliar. 
+•	Se evidencia conformación de gobiernos propios que promueven las desigualdades entre hombres y mujeres, un claro ejemplo es la carga doméstica exclusiva a cargo de las mujeres y su poca participación en la toma de decisiones familiares y comunitarias. 
+•	Las comunidades manifiestan riesgos de utilización, vinculación y utilización de NNAJ por parte de los Grupos Armados No Estatales (GANE)
+•	En las comunidades de Santa Maria de Condoto y Cristiano se logró identificar que los pensamientos y conductas suicidas están relacionadas a los riesgos de uso y vinculación de NNAJ.
+Recomendaciones 
+•	Fortalecer procesos de autoprotección individual y colectiva frente a riesgos en los territorios. 
+•	Fortalecer espacios de información sobre rutas de protección para la salvaguarda de sus derechos. 
+•	Incentivar y promover estrategias comunitarias para la prevención de utilización y uso de los NNAJ en el conflicto armado. 
+•	Fortalecer los conocimientos sobre la menstruación, métodos de planificación familiar y sexualidad. 
+Descripción de las necesidades:
+Se identificó la necesidad de fortalecer las estrategias de autoprotección y protección colectiva, socialización de las rutas colectivas e individuales de protección. También se identificaron dificultades de acceso a las instituciones estatales protectoras de sus derechos.  Además, en todas las comunidades se evidenciaron prácticas relacionadas las violencias basadas en género.
+    [group_aa8xg30/group_lg2ro37/Shelter] => Indicadores Clave: 
+•	Las condiciones de infraestructura de las viviendas no son adecuadas, en algunas comunidades se evidenció hacinamiento al interior de los hogares. No se identificaron albergues y centros colectivos. 
+•	Las familias no cuentan con los elementos adecuados de hábitat, los que hay no son suficientes y se encuentran en mal estado. 
+•	Se identifica la necesidad de distribuir mobiliario escolar para las primeras fases de emergencia.
+Hallazgos: 
+•	Las comunidades cuentan con elementos de hábitat, pero manifiestan que no están en buenas condiciones por el tiempo de uso.
+•	En las comunidades visitadas se identificaron lugares comunitarios, pero estos no se encuentran en condiciones físicas adecuadas. 
+•	Se identificó hacinamiento en algunas viviendas, ya que son compartidas por varias familias y no existen divisiones internas físicas.
+•	Las familias realizan sus prácticas de preparación de alimentos dentro del hogar, utilizando estufas artesanales con leña, no se identificaron demarcaciones en los hogares que garanticen condiciones de privacidad y seguridad.
+•	Se identifica la necesidad de construcción de un aula temporal para la promoción del servicio educativo en la comunidad de Mohamia.
+Recomendaciones
+•	Construcción de un espacio seguro para mejorar el acceso al servicio educativo en la comunidad de Mohamia.
+•	Vincular a la comunidad en el proceso de construcción, dado que cuentan con la experiencia y conocimiento necesario para realizarla. 
+•	Suministrar mobiliario escolar en la comunidad de Mohamia. 
+•	Brindar orientación respecto a los aspectos técnicos en el proceso constructivo. 
+Descripción de las necesidades:
+En la infraestructura familiar de todas las comunidades se identifica que las familias viven en hacinamiento, se evidenció que las familias comparten viviendas hasta para 4 familias y estas no cumplen con algunos de los estándares de los 7 elementos de vivienda adecuada, seguridad de la tenencia, disponibilidad de servicios, asequibilidad, habitabilidad, accesibilidad, ubicación y adecuación cultural. 
+Las familias realizan sus prácticas de preparación de alimentos dentro del hogar, utilizando estufas artesanales con leña, no se identifican demarcaciones en los hogares para actividades íntimas con privacidad; los animales como los perros, cerdos, gallinas y demás, tienen accesos a estos espacios sin ninguna restricción para la higiene del hogar.
+·	Infraestructura educativa: 
+Felicia: Cuenta con una sede educativa llamada Felicia, con matrícula de 43 estudiantes, presta servicio de educación primaria de cero a quinto grado, con un área aproximada de 50 metros cuadrados, estructura palafítica en madera, cerramiento y piso en tabla y teja de zinc, con 3 aulas de 17 metros cuadrados aproximadamente cada una, se identifica mala higiene del lugar y estructuralmente está en buen estado; se identifican necesidades de aseo y pintura interna y externa; el mobiliario utilizado es en madera y no está en buenas condiciones físicas, además no es suficiente para todos los estudiantes.
+Divisa: La sede educativa de Divisa, oferta los grados de cero a quinto y cuenta con 62 estudiantes, tiene tres aulas en madera, teja en zinc, con área general aproximadamente de 120 metros cuadrados, se encuentra en mal estado el cerramiento y la cubierta, y se logra evidenciar una mala higiene del lugar, además no cuentan con mobiliario suficiente para la totalidad de estudiantes. 
+Mohamia: La sede educativa de Mohamia, tiene en la actualidad 20 estudiantes, en los grados de cero a quinto, la infraestructura existente se encuentra en pésimas condiciones físicas, incluso con riesgo de colapso en cualquier momento, debido a que la madera ya cumplió su vida útil, la cubierta esta fisurada y esto hace que se inunde al momento de que se presenten fuertes lluvias, es una aula de aproximadamente 24 metros cuadrados, la cual tiene unas divisiones internas con columnas de madera de 5x5 cm y tablas, para así poder ver todos los grados de estudio, los NNA tienen un riesgo alto de cualquier accidente debido a que dentro del aula hay tablas rotas y palos partidos, que pueden lastimar a los estudiantes, esta sede educativa no cuenta con mobiliario escolar, los NNA reciben sus clases en el piso. 
+Miacora Central: La sede educativa Miacora cuenta con 141 estudiantes, con 5 aulas educativas, una principal aproximadamente de 40 metros cuadrados y las cuatro restantes de 20 metros cuadrados aproximadamente, estructura palafítica en madera, piso y cerramiento en tabla y teja en zinc, esta infraestructura se encuentra en buen estado físico igual que el estado del mobiliario existente. 
+Miacora Chimia: La sede educativa Miacora Chimia tiene 360 estudiantes, en los grados de cero a once, cuentan con aulas en madera, teja en zinc, pisos en tabla, estructuras palafíticas, cuanta con mobiliario escolar y se identifican necesidades de pintura para interiores y exteriores. 
+Santa María de Condoto: En la sede de Santa María de Condoto tienen 230 estudiantes, con aula palafítica en madera, teja de zinc, piso y cerramiento en tabla, con 4 aulas educativas, cuentan con mobiliario educativo.
+    [group_aa8xg30/group_fv0ct51/Agua] => Indicadores clave
+•	En las doce comunidades el 100% de la población NO usa agua segura.
+•	En todas las comunidades el 80% de la población NO tiene acceso a jabón para realizar los procesos de higiene.
+•	El 70% infraestructura total que se encuentra en las comunidades cumple con los estándares esfera.
+Hallazgos
+Agua
+•	En la mayoría de las comunidades el uso diario de agua proviene de la lluvia, la cual recolectan en tanques dedicados o improvisados.
+•	Existe acueducto en las comunidades Santa Maria de Condoto y Miácora, sin embargo, en esta última no funciona actualmente.
+•	Todas las comunidades realizan recolección alternativa de agua en quebradas cercanas.
+•	En las doce comunidades es frecuente el consumo de agua directamente del río, adicionalmente, existe poca adherencia al uso de métodos de tratamiento de aguas.
+AGUA SEGURA: La mayoría del agua de las comunidades proviene de la lluvia, la cual recolectan en tanques dedicados, exceptuando la comunidad de Mohamía y Felicia, en donde recolectan en recipientes durante las precipitaciones; en las comunidades de Miácora, cuentan con acueducto, el cual no funciona desde hace dos años, poco tiempo después de haber sido instalado. Durante las temporadas menos lluviosas o en caso de no funcionar el acueducto, los habitantes buscan agua en quebradas cercanas a cada comunidad, lo que puede suponer cruzar el río o desplazarse solos, esta recolección es realizada por hombres y mujeres indistintamente. Es frecuente el consumo de agua directamente del río, y muy pocas personas utilizan métodos de tratamiento de aguas.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Saneamiento
+•	En cada comunidad la disposición de excretas se realiza directamente en el río o quebradas.
+•	El manejo de basuras se realiza arrojando directamente los desechos al río, exceptuando las comunidades de Divisa y Felicia.
+•	Algunas comunidades fueron candidatas a instalación de batería sanitaria, cancelada por preferencias de la comunidad por las maneras tradicionales.
+SANEAMIENTO: En las comunidades se manejan las excretas directamente con deposiciones al río o en quebradas que desembocan después de cada comunidad, solo las comunidades de Divisa y Felicia cuentan con espacios para el manejo de basuras, las demás comunidades arrojan al río independientemente de la cantidad o tipo de desecho. Algunas comunidades fueron candidatas a instalación de elementos de saneamiento con batería sanitaria, sin embargo, algunos manifestaron que no hubo acogida en la comunidad y finalmente las entidades encargadas desistieron de realizarlo.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Higiene
+•	El lavado de manos es de forma irregular, variable de 0 a 3 veces al día, principalmente después de las comidas.
+•	El acceso a insumos de higiene es limitado casi nulo y no prioritario.
+•	Las actividades de almacenamiento y manipulación de los alimentos son realizadas sin precauciones.
+•	Existe alta presencia de animales como cucarachas, ratones y ratas.
+Recomendaciones
+Reforzar en todas las comunidades los conocimientos sobre métodos de tratamiento para consumo y almacenamiento de agua segura familiar y comunitaria, junto a la estrategia de sensibilizaciones y cápsulas informativas. 
+Las formaciones en buenas Prácticas de higiene deberán enfocarse en el aseo, limpieza y desinfección de la vivienda, saneamiento y el entorno.
+Las sensibilizaciones tendrán énfasis en la clasificación y correcta disposición de los residuos sólidos. 
+Se recomienda realizar formaciones sobre el adecuado uso de los elementos de higiene en el entorno familiar. 
+Realizar entregas de kit de higiene con enfoque menstrual. 
+Realizar sensibilizaciones sobre la salud menstrual de las mujeres. 
+Se recomienda realizar incidencia para mantenimiento y reparación de los dos acueductos existentes, uno que suministra agua a la comunidad de Miacora Chimia y Miacora Central, el otro a la comunidad de Santa María de Condoto.  
+Se recomienda brindar un refuerzo sobre mantenimiento de filtros y tanques de almacenamiento de agua. 
+HIGIENE: Las costumbres y hábitos de higiene están marcadas por la poca relevancia que tiene en cada comunidad. Se presenta el lavado de manos de forma variable de 0 a 3 veces al día, principalmente después de las comidas; Cuando cuentan con los insumos adecuados, el baño y lavado de manos y utensilios de cocina se realiza con jabón, sin embargo, el acceso limitado a los elementos de aseo personal condiciona que la higiene sea percibida como un lujo. El almacenamiento y manipulación de los alimentos se realiza sin mayores cuidados, lo cual está en relación cíclica con la presencia de animales como cucarachas, ratones y ratas, que son evidentes en las viviendas y espacios de tránsito de las comunidades. 
+La higiene femenina adopta un papel secundario asociado a las molestias que se generan individualmente, por lo general, se utilizan elementos comunes como trapos para la higiene menstrual; hay interés de acceder a elementos de higiene femenina, aunque por la falta de ingresos no se destina dinero para la adquisición de estos.
+    [group_aa8xg30/group_jn0nm53/san] => Indicadores Clave:
+•	Se evidenció que las comunidades no pueden acceder a los cultivos y han dejado de sembrar por las limitaciones de acceso a los cultivos y las restricciones a la movilidad derivadas de la situación de confinamiento.
+•	Al interior de la comunidades afectadas por confinamiento no hay tiendas para el abastecimiento de alimentos y otros productos básicos esenciales. Sólo en la comunidades Cugucho pueden conseguir algunas provisiones, pero los costos son muy elevados. Para acceder a alimentos y otros insumos, las familias deben trasladarse hacia la cabecera municipal, pero las grandes distancias, los costos de movilización y las restricciones a la movilidad reducen el acceso a alimentos.
+•	Las actividades productivas como los cultivos de pancoger, la caza y la pesca están restringidas debido a la situación de confinamiento.
+•	En general la dieta de las comunidades se basa en: el plátano y sus diversas especies; el consumo de proteínas es mínimo; sobre los demás grupos alimentarios el acceso es limitado.
+•	Las familias han reducido la ingesta de alimentos y en general comen entre 1 y 2 veces al día.
+•	El equipo móvil evidenció que riesgos asociados a casos de desnutrición, principalmente en niños y niñas menores de 5 años.
+•	No se evidencia conocimientos sobre seguridad alimentaria y las comunidades manifiestan no haber recibido ningún tipo de información sobre el tema.
+Hallazgos
+•	La mayoría de las familias no cuentan con fuentes estables de ingresos.  
+•	No existen comercios con abastecimiento para suplir las necesidades de la población.
+•	Las familias deben trasladarse hacia la cabecera municipal de Alto Baudó para conseguir elementos básicos y alimentos.
+•	El consumo de comidas es una a dos diarias, usualmente con 2 o 3 grupos alimenticios. 
+•	Las raciones diarias de alimentos para los niños, niñas y adolescentes son insuficientes. 
+•	Se identificó que al interior de las comunidades hay abandono temprano de hábitos de lactancia materna.
+Descripción de necesidades:
+Ingresos: Las familias no cuentan con fuentes estables de ingresos y los ingresos que reciben son muy bajos. En algunas comunidades se realizan trabajos de jornal, contratados principalmente por los docentes de cada lugar, quienes sí tienen ingresos estables. Algunos hogares cuentan con ingresos temporales por regalías, subsidios del Gobierno Nacional como familias en acción e ingreso solidario, sin embargo, estos ingresos para subsistir se ven drásticamente reducidos por los altos costos de transporte.
+Acceso a Alimentos: Las comunidades manifestaron que las condiciones de fertilidad del suelo facilitan la variedad de cultivo alimentos, no obstante, desde que comenzaron las restricciones a la movilidad, la presencia de minas antipersonales y la presencia de los GANE, han estado ocasionando que la práctica de la agricultura y caza sea insostenible generando una disminución drástica en la obtención de los alimentos.
+Diversidad Dietaría: Las comunidades manifestaron consumir de una a dos comidas diarias, la mayoría solamente con 2 o 3 grupos alimenticios que pueden incluir usualmente y de forma variable alguna proteína animal, legumbres, cereales o fruta.
+Alimentación en Menores: Las condiciones alimentarias de las comunidades hacen insuficientes las raciones diarias para los menores, quienes desde temprana edad comienzan a recibir golosinas y pasabocas procesados en reemplazo de las comidas.
+Comercio Local: En las comunidades de Miácora Central y Santa María de Condoto existen dos pequeñas tiendas caseras donde se consiguen algunos elementos básicos ocasionalmente, en las demás comunidades no existen comercios con abastecimiento para suplir las necesidades de la población. Las mujeres y hombres manifiestan que los elementos se deben conseguir en la cabecera municipal desplazándose hasta el sitio, o consiguiendo que lo lleven a cada comunidad.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Indicadores clave: 
+•	1.950 personas con limitaciones de algún tipo para acceso a salud.
+•	El confinamiento y la ubicación geográfica del resguardo limita significativamente el acceso a servicios de salud.
+•	Existen casos de Desnutrición Aguda Severa (DNT) recientes en la mayoría de las comunidades de hasta 6 meses de antigüedad, de los cuales uno está en proceso de referencia.
+•	La afectación en salud mental es sobresaliente, reportes de múltiples suicidios y conducta autolítica en diferentes comunidades. Es muy probable que existan subregistro de casos.
+Hallazgos
+•	Presencia e incidencia de enfermedades agudas transmisibles en todos los grupos de edad.
+•	Ausencia de agentes comunitarios de salud (actualmente en formación temprana) para la gestión de casos y capacidad instalada, exceptuando Santa Maria de Condoto.
+•	Presencia de casos recientes de Desnutrición Aguda en varias de las comunidades.
+•	Limitación para el acceso a servicios de salud de forma crónica, agravada por factores como: el confinamiento, situación económica, el idioma y las largas distancias para llegar a las Instituciones Prestadoras de Servicios de Salud.
+•	La red de apoyo entre las comunidades y al interior de estas es casi nula.
+•	Desinterés y desinformación en temas de salud sexual y reproductiva (SSR) influenciada por el contexto y los gobiernos comunitarios. 
+•	Presentación de embarazos no deseados.
+Recomendaciones
+•	Realizar actividades de seguimientos para los niños con riesgo de desnutrición
+•	Ejecutar una jornada de atención médica en las comunidades. 
+•	Acompañar la jornada con un traductor, especialmente cuando se hablen de temas de SSR
+•	Desarrollar talleres sobre madres gestantes.
+Descripción de necesidades:
+Si bien las necesidades identificadas en salud física no son significativamente afectadas por la emergencia, estos hechos victimizantes si son un factor agravante para aliviar el impacto de la situación de salud en la comunidad, asimismo, son evidentes los efectos crónicos de las carencias respecto a los determinantes sociales de la salud. 
+Adicionalmente, factores y conductas como: hábitos de higiene sin cuidados, preparación y manipulación inadecuada de los alimentos, ausencia de letrinas, ausencia de estructuras internas de apoyo social, son catalizadores de condiciones agudas que vive constantemente la comunidad.
+Con respecto a salud sexual y reproductiva existe desinformación y creencias populares sobre el uso de métodos anticonceptivos y sobre la planificación familiar que no permiten un correcto uso de estas, ahora bien, a pesar de que hay algún interés y consideración sobre el momento adecuado para concebir, no hay acceso sólido a programas de salud sexual y reproductiva.
+A pesar de la presencia de promotores y agentes comunitarios de salud, hay carencia de un sistema sólido de referencia y apoyo para el acceso a la atención en salud, primaria o especializada.
+En los casos de urgencia, los habitantes deben pagar cantidades de dinero desde los 500.000 pesos para alquilar una lancha para desplazarse a la cabecera municipal, en ocasiones, utilizan el sistema de referencia gestionado por los agentes comunitarios de Médicos Sin Fronteras (MSF), que les garantiza el combustible para los desplazamientos, lo que supone asumir los gastos de alimentación y hospedaje para acompañantes (de ser necesario).
+La barrera lingüística es un obstáculo para la atención médica en la cabecera municipal o comunitaria, a esta situación se le suma al desconocimiento generalizado sobre afiliación en salud, ocasionando frustración y abandono en la búsqueda de atención sanitaria. Es indispensable tener el apoyo por parte de agentes comunitarios para la traducción durante las atenciones, especialmente para la población femenina.
+El equipo móvil identificó que en todas las comunidades se encontró un patrón similar de presentación de enfermedades o síntomas por grupos donde sobresalen:
+•	Primera infancia y NNAJ: afecciones de la piel, desnutrición Aguda, enfermedades diarreicas, infecciones y afecciones respiratorias, inapetencia.
+•	Mujeres (edad reproductiva y mayores): síndromes de flujo vaginal, dolor pélvico, disuria (sospecha de infección del tracto urinario (ITU)).
+•	Adultos: dolor lumbar, dolor osteomuscular, enfermedades diarreicas, Malaria, infecciones y afecciones respiratorias, afecciones de la piel.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Hallazgos
+•	Existe presencia marcada de síntomas y trastornos mentales como estrés postraumático, ansiedad, depresión, conducta suicida, ataques de pánico, consumo de sustancias alcohol, trastornos del sueño y del estado de ánimo.
+•	Se evidenció disrupción de redes colectivas y evidente desarraigo cultural.
+•	Ausencia de personal para atención psicológica en las comunidades, personal insuficiente en la cabecera municipal.
+•	Agentes comunitarios en proceso de formación en algunas de las comunidades por parte de una ONG. 
+•	La barrera lingüística supone la necesidad de utilizar el apoyo de traductoras para la atención de la población.
+•	Las comunidades presentan necesidades crónicas, agudizadas por condiciones relacionadas con el confinamiento.  
+Recomendaciones:
+•	Realizar brigadas sobre atención psicosocial en las comunidades del resguardo
+•	Acompañar la jornada con un traductor.
+•	Reforzar los conocimientos en salud mental.
+Descripción de las necesidades:
+El conflicto armado ha causado consecuencias evidentes en la salud mental de la población, la exposición constante a las diversas formas de violencia ha dejado vulneraciones a sus derechos humanos, sino que también producen un sufrimiento psíquico que se ve reflejado en las complejas dinámicas familiares, sociales, y personales.
+La presencia de síntomas emocionales y trastornos mentales es alta, los que más se identifican son; estrés postraumático, ansiedad, depresión, conducta suicida, ataques de pánico, consumo de sustancias psicoactivas, trastornos del sueño, trastornos del estado de ánimo, y en general la disminución en los niveles de la calidad de vida, la ruptura de redes colectivas y un evidente desarraigo cultural, todo esto ha ocasionado una alta vulnerabilidad psicosocial.
+Las comunidades expresan que no reciben atención por psicología o de manera individual o grupal, esta situación se presenta por, la no existencia de profesionales en campo que cumplan esta función, el municipio cuenta con una profesional psicosocial adscrita a la coordinación de salud, otro profesional que hace parte de una de las EPS presentes en el municipio, ambas ejecutan sus acciones desde la cabecera municipal, sin mayor incidencia en el área rural. Por otro lado, en términos de salud mental la organización Médicos Sin Fronteras (MSF) hace un acompañamiento de fortalecimiento institucional y formación a agentes comunitarios que son los encargados de identificar las señales de alarma en las comunidades, realizar seguimiento a los casos en campo y dado el caso solicitar la respectiva remisión
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Sin Información
+    [group_aa8xg30/group_tb5de96/EIE] => Indicadores Clave
+•	El 15% de niños, niñas y adolescentes están desescolarizados de la matrícula formal de la Institución educativa, de acuerdo con el censo de las comunidades afectadas durante la emergencia.
+•	Se identificó intermitencia en la prestación del servicio educativo debido a la situación de confinamiento que enfrentan las comunidades.
+•	Se evidenció la necesidad de una estrategia de adaptación curricular y entrega de material educativo a la institución educativa afectada. 
+•	Se identificó en la comunidad afectada y/o de acogida personal docente o agentes educativos comunitarios con quienes se pueda construir un plan de trabajo en el marco de la emergencia.
+Hallazgos:
+•	Se evidenciaron necesidades de capacitación en educación en emergencias a docentes y agentes educativos comunitarios (AEC) enfatizando en apoyo psicosocial y de recuperación emocional con niños, niñas y adolescentes. 
+•	Las instalaciones de las instituciones educativas se encuentran en alto grado de deterioro, no cuentan con mobiliario suficiente y se han construido de forma autogestionada, con materiales rústicos como madera y paja.
+•	Las instituciones no cuentan con instalaciones sanitarias ni acceso a alternativas de agua y saneamiento.
+•	Las instituciones no cuentan con material didáctico, lúdico o deportivo lo que limita las actividades escolares a la recepción de clases y contenidos disciplinares, esto aunado a la imposibilidad de las familias para la compra de útiles escolares a causa de la emergencia por confinamiento.
+•	Toda la infraestructura escolar se encuentra ubicada en la periferia de los centros poblados, lo que hace que sean mucho más sensibles a afectaciones por la presencia del Grupo Armado No Estatal. 
+Recomendaciones
+•	Formación en el desarrollo de una estrategia de recuperación de aprendizaje desde un enfoque étnico y educativo, actividades de protección con niños, niñas y adolescentes, comportamientos seguros, educación en riesgo de minas y estrategia de acceso educativo de población desescolarizada.
+•	Formación de personal docente y agentes educativos comunitarios en Educación en Emergencias y consolidación de plan educativo de respuesta en emergencia.
+Descripción de las necesidades:
+La emergencia por confinamiento ha provocado que la normalidad escolar se vea alterada, ocasionando que no exista un acceso continuo al servicio educativo para los niños, niñas y adolescentes. Además, se evidenció que el Grupo Armado No Estatal, que tiene presencia en la zona, utiliza constantemente las instalaciones educativas para sus fines. esto en particular ha generado afectaciones a la infraestructura escolar y el inmobiliario y constituye una infracción al Derecho Internacional Humanitario. 
+La oferta académica es reducida, ya que, en las comunidades afectadas por la emergencia, el servicio educativo oferta básica primaria, a excepción de las comunidades de Miacora Central y Santa María de Condoto que ofrecen el servicio educativo de secundaria, hasta grado once. Esta falta de acceso ha generado que algunos estudiantes no culminen el periodo escolar.
+    [group_aa8xg30/BrechasInformacion] => Por Actualizar
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 0
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_ys9jk69/_0_Personas_que_participaron_e] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por confirmar
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Por confirmar
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Por confirmar
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => Por confirmar
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:ba15e155-7946-43b3-9ab3-cce41cc02cd5
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => ba15e155-7946-43b3-9ab3-cce41cc02cd5
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-27T15:04:29
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

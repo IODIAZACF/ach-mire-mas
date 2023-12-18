@@ -1,0 +1,728 @@
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "location": { "degreesLatitude": "", "degreesLongitude": "" }}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"location\": { \"degreesLatitude\": \"\", \"degreesLongitude\": \"\" }}"}
+Array
+(
+    [identificador] => 584124114981
+    [numero] => 593979000333
+    [mensaje] => { "text": "RESPUESTA"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 584144249429
+    [numero] => 593979000333
+    [mensaje] => { "text": "HOLA EDSON COM OESTAS"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 584144249429
+    [numero] => 593979000333
+    [mensaje] => { "text": "<I CLASS="FA-SOLID FA-SQUARE-PLUS"></I>"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 584124114981
+    [numero] => 593979000333
+    [mensaje] => { "text": "EPALE"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "PRUEBA DE MENSAJE SALIENTE"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "OTRA PRUEBA DE MENSAJE SALIENTE"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "NO SALEN LOS MENSAJES"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 584124870222
+    [numero] => 593979000333
+    [mensaje] => { "text": "HELLO"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "HOLA LUIS"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"HOLA LUIS\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "HOLA LUIS"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"HOLA LUIS\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "HOLA LUIS"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"HOLA LUIS\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "HOLA LUIS"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"HOLA LUIS\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "HOLA LUIS"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"HOLA LUIS\"}"}
+Array
+(
+    [identificador] => 593939664263
+    [numero] => 593979000333
+    [mensaje] => { "text": "HOLA"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 593939664263
+    [numero] => 593979000333
+    [mensaje] => { "text": "HOLA"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "ENVIO"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"ENVIO\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "PRUEBA"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"PRUEBA\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "PRUEBA"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"PRUEBA\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "MENSAAJE"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"MENSAAJE\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "MENSAJE 2"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"MENSAJE 2\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "MENSAJE 3"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"MENSAJE 3\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "PRUEBA DE SALIDA DE MENSAJE"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"PRUEBA DE SALIDA DE MENSAJE\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "OTRO MENSAJE SALIENTE"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"OTRO MENSAJE SALIENTE\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "UNO MAS SALIENTE"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"UNO MAS SALIENTE\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "UN MENSAJE DE SALIDA DESDE EL SISTEMA"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"UN MENSAJE DE SALIDA DESDE EL SISTEMA\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "HOLA"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"HOLA\"}"}
+Array
+(
+    [identificador] => 593979000333
+    [numero] => 593960163222
+    [mensaje] => { "text": "HOLA LUIS"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "prueba en minusculas"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"prueba en minusculas\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "una prueba mas de mensajes salientes"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"una prueba mas de mensajes salientes\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que "no es la soluciÃ³n" y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ "encarecidamente" a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada "guerra contra las pandillas" que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que \"no es la soluci\u00c3\u00b3n\" y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 \"encarecidamente\" a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada \"guerra contra las pandillas\" que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que "no es la soluciÃ³n" y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ "encarecidamente" a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada "guerra contra las pandillas" que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que \"no es la soluci\u00c3\u00b3n\" y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 \"encarecidamente\" a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada \"guerra contra las pandillas\" que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que "no es la soluciÃ³n" y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ "encarecidamente" a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada "guerra contra las pandillas" que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que \"no es la soluci\u00c3\u00b3n\" y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 \"encarecidamente\" a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada \"guerra contra las pandillas\" que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que "no es la soluciÃ³n" y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ "encarecidamente" a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada "guerra contra las pandillas" que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que \"no es la soluci\u00c3\u00b3n\" y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 \"encarecidamente\" a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada \"guerra contra las pandillas\" que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que "no es la soluciÃ³n" y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ "encarecidamente" a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada "guerra contra las pandillas" que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que \"no es la soluci\u00c3\u00b3n\" y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 \"encarecidamente\" a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada \"guerra contra las pandillas\" que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que "no es la soluciÃ³n" y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ "encarecidamente" a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada "guerra contra las pandillas" que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que \"no es la soluci\u00c3\u00b3n\" y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.El Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 \"encarecidamente\" a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada \"guerra contra las pandillas\" que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 17869779348
+    [numero] => 593960163222
+    [mensaje] => { "text": "Frente a la actual crisis de violencia por la que atraviesa el paÃ­s centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emitiÃ³ un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluciÃ³n y que las disposiciones no condicen con lo establecido en la ConvenciÃ³n sobre los Derechos del NiÃ±o.
+
+El Fondo de las Naciones Unidas para la Infancia (Unicef) pidiÃ³ encarecidamente a las autoridades salvadoreÃ±as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele."}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"Frente a la actual crisis de violencia por la que atraviesa el pa\u00c3\u00ads centroamericano y que ha sido originada por las pandillas, conocidas como maras, Unicef emiti\u00c3\u00b3 un comunicado en el que pide al Gobierno de Nayib Bukele revisar las medidas que permiten el arresto y condena de menores de edad, argumentando que no es la soluci\u00c3\u00b3n y que las disposiciones no condicen con lo establecido en la Convenci\u00c3\u00b3n sobre los Derechos del Ni\u00c3\u00b1o.\n\nEl Fondo de las Naciones Unidas para la Infancia (Unicef) pidi\u00c3\u00b3 encarecidamente a las autoridades salvadore\u00c3\u00b1as evaluar las medidas establecidas que permiten el arresto y condena de menores de edad, en el contexto de la denominada guerra contra las pandillas que lidera el Gobierno de Nayib Bukele.\"}"}
+Array
+(
+    [identificador] => 50762133680
+    [numero] => 593979000333
+    [mensaje] => { "text": "hola"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"hola\"}"}
+Array
+(
+    [identificador] => 50762133680
+    [numero] => 593979000333
+    [mensaje] => { "text": "prueba de las pruebas "}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"prueba de las pruebas \"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 17869779348
+    [mensaje] => { "text": "hola llego"}
+    [accion] => enviar
+)
+
+{"numero":"17869779348","mensaje":"{ \"text\": \"hola llego\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "Epale Edson"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Epale Edson\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "AcÃ¡ probando la vaina esta"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Ac\u00c3\u00a1 probando la vaina esta\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593996957724
+    [mensaje] => { "text": "Muchas gracias por la informacion"}
+    [accion] => enviar
+)
+
+{"numero":"593996957724","mensaje":"{ \"text\": \"Muchas gracias por la informacion\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593996957724
+    [mensaje] => { "text": "esta es otra prueba de mensaje"}
+    [accion] => enviar
+)
+
+{"numero":"593996957724","mensaje":"{ \"text\": \"esta es otra prueba de mensaje\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584127632421
+    [mensaje] => { "text": "Hola, que tal"}
+    [accion] => enviar
+)
+
+{"numero":"584127632421","mensaje":"{ \"text\": \"Hola, que tal\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "Hola Sistemas Enlaza2"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"Hola Sistemas Enlaza2\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "En quÃ© te podemos ayudar ?"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"En qu\u00c3\u00a9 te podemos ayudar ?\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "En quÃ© te ayudo ?"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"En qu\u00c3\u00a9 te ayudo ?\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "Hay problemas con los acentos"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Hay problemas con los acentos\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "FÃ­jate"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"F\u00c3\u00adjate\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "EscribÃ­ Fijate, con acento"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Escrib\u00c3\u00ad Fijate, con acento\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "Sorry"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Sorry\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584127632421
+    [mensaje] => { "text": "Buen dÃ­a"}
+    [accion] => enviar
+)
+
+{"numero":"584127632421","mensaje":"{ \"text\": \"Buen d\u00c3\u00ada\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593997604469
+    [mensaje] => { "text": "hola janet"}
+    [accion] => enviar
+)
+
+{"numero":"593997604469","mensaje":"{ \"text\": \"hola janet\"}"}
+Array
+(
+    [identificador] => 51920087295
+    [numero] => 593960163222
+    [mensaje] => { "text": "vvv"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584244977549
+    [mensaje] => { "text": "Hola buenos doas"}
+    [accion] => enviar
+)
+
+{"numero":"584244977549","mensaje":"{ \"text\": \"Hola buenos doas\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584244977549
+    [mensaje] => { "text": "BUenos dias"}
+    [accion] => enviar
+)
+
+{"numero":"584244977549","mensaje":"{ \"text\": \"BUenos dias\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "llego"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"llego\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593960163222
+    [mensaje] => { "text": "https://voip-sip-sdk.com/p_7179-how-to-develop-windows-forms-voip-sip-softphone-using-visual-basic-net.html"}
+    [accion] => enviar
+)
+
+{"numero":"593960163222","mensaje":"{ \"text\": \"https:\/\/voip-sip-sdk.com\/p_7179-how-to-develop-windows-forms-voip-sip-softphone-using-visual-basic-net.html\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "No hay visualizaciÃ³n"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"No hay visualizaci\u00c3\u00b3n\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "Voy"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"Voy\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "DescripciÃ³n"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"Descripci\u00c3\u00b3n\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "DescripciÃ³n"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"Descripci\u00c3\u00b3n\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 584124114981
+    [mensaje] => { "text": "DescripciÃ³n"}
+    [accion] => enviar
+)
+
+{"numero":"584124114981","mensaje":"{ \"text\": \"Descripci\u00c3\u00b3n\"}"}
+Array
+(
+    [identificador] => 34611020034
+    [numero] => 593979000333
+    [mensaje] => { "text": "Hola Edson"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Hola Edson\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "Hola"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Hola\"}"}
+Array
+(
+    [identificador] => 593962184978
+    [numero] => 593979000333
+    [mensaje] => { "text": "Prueba de mensaje saliente"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"Prueba de mensaje saliente\"}"}
+Array
+(
+    [identificador] => 593960151546
+    [numero] => 593979000333
+    [mensaje] => { "text": "prueba de salida"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"prueba de salida\"}"}
+Array
+(
+    [identificador] => 593960151546
+    [numero] => 593979000333
+    [mensaje] => { "text": "otra prueba de salida"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"otra prueba de salida\"}"}
+Array
+(
+    [identificador] => 593960151546
+    [numero] => 593979000333
+    [mensaje] => { "text": "una prueba mas"}
+    [accion] => enviar
+)
+
+{"numero":"593979000333","mensaje":"{ \"text\": \"una prueba mas\"}"}
+Array
+(
+    [identificador] => 102857835774976
+    [numero] => 593960163222
+    [mensaje] => { "text": "buenos dias sr nuÃ±ez"}
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 102857835774976
+    [numero] => 593979000333
+    [mensaje] => 
+    [accion] => enviar
+)
+Array
+(
+    [identificador] => 102857835774976
+    [numero] => 593979000333
+    [mensaje] => 
+    [accion] => enviar
+)

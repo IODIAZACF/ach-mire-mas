@@ -1,0 +1,56 @@
+.navbar, .subtitle {
+    background-color :#003876;
+	color : white;
+}
+
+.toolbar{
+    background-color : #003876;
+	color : white;
+}
+
+
+a.tab-link{
+	color: white;
+}
+
+
+.negrita{
+	font-weight: bold;
+}
+
+.derecha{
+	text-align : right;
+}
+
+.centrado{
+	text-align : center;
+}
+
+.oscuro{
+	background-color : #e3eaf4 ;
+	
+}
+
+.size-10 { font-size: 10px }
+.size-15 { font-size: 15px }
+.size-20 { font-size: 20px }
+.size-25 { font-size: 25px }
+.size-29 { font-size: 29px }
+.size-50 { font-size: 50px }
+
+.blink {
+    animation-duration: 1s;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes blink {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}

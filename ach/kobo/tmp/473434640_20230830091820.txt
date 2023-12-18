@@ -1,0 +1,82 @@
+stdClass Object
+(
+    [_id] => 473434640
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-09T18:28:21.921-05:00
+    [end] => 2023-08-30T09:18:18.044-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => BOJAYA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => -
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sampichi, Hoja Blanca, Buenavista, Wangano, Punto cedro, Jardin, Punto Alegre, Playa Bonita
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-08-30
+    [group_gu1lq88/Nombre_de_quien_reporta] => ANGELICA PINO MENA
+    [group_gu1lq88/Cargo] => NRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC OrganismoPrivado
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Combates, desaparición forzada
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => En el marco de la avanzada de los actores armados en la zona urbana y rural de municipio de Bojayá, se ha aumentado la presencia y control en los ríos Napipi, Opogadó y Cuía. 
+Esta situación género que entre el 16 y 21 de agosto se presentaron hostigamientos y combates entre las fuerzas militares y uno de los grupos presentes en la parte alta del rio Cuía.
+En el marco de los combates resulto una persona adulta resulto herida, lo ha conllevado en una grave afectación del ejercicio de gobierno propio, generando restricción de la movilidad y limitando la recolección de productos de pan coger, así como las faenas de caza y pesca. Por lo que se configuro el confinamiento de 8 comunidades indígenas de la zona alta del rio Cuía. 
+Sumado a lo anterior, se presentó el 22 de agosto de 2023 la desaparición de un miembro de la comunidad mientras transitaba el camino que conduce hacia Bahía Solano.
+    [group_yv1ph08/time2] => 2023-08-19
+    [group_yv1ph08/time3] => 11
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Existen necesidades de alimentación, elementos de higiene, protección y salud
+    [group_cn9za51/familias] => 224
+    [group_cn9za51/personas] => 1144
+    [group_cn9za51/comu] => 8
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => El acceso a las comunidades se realiza desde Quibdó, donde por medio de lancha rápida en un recorrido de 4 horas se llega hasta Bellavista o Vigía del fuerte. 
+El Rio Cuía es un afluente del rio Bojayá y desde Bellavista/Vigía del Fuerte el recorrido es de 6 horas hasta la comunidad más lejana, este tiempo depende de las condiciones del rio.
+    [group_mu9ho06/Seguridad] => Existe presencia de actores armados en la zona. 
+es importante la coordinación con las organizaciones indígenas para el ingreso a la zona.
+    [group_mu9ho06/Operativa] => -
+    [group_mu9ho06/Observaciones] => -
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:1fe57be3-d921-45db-87c8-23fc98902b90
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 1fe57be3-d921-45db-87c8-23fc98902b90
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-30T14:18:19
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

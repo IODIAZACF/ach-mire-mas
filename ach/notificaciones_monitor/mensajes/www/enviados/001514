@@ -1,0 +1,16 @@
+stdClass Object
+(
+    [error] => 
+    [r] => 
+    [msg] => stdClass Object
+        (
+            [id] => 201
+            [msg] => --BIENVENIDO--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat porta suscipit. Proin lobortis sem vel tellus condimentum hendrerit. Cras sodales est et efficitur tincidunt. Nulla facilisi. Praesent odio ex, semper vel porttitor ut, dictum a sapien.
+            [meta_msg] => 
+            [time] => 1594499126
+            [chat_id] => 36
+            [user_id] => 1
+            [name_support] => Administrador Administrador
+        )
+
+)

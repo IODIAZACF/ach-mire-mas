@@ -1,0 +1,86 @@
+stdClass Object
+(
+    [_id] => 424881952
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-05-10T12:08:10.385-05:00
+    [end] => 2023-05-10T12:19:55.847-05:00
+    [group_gu1lq88/Departamento] => CORDOBA
+    [group_gu1lq88/CORDOBA] => TIERRALTA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Por confirmar
+    [group_gu1lq88/Nombre_de_la_comunidad] => comunidad de Quebrada Seca
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-05-10
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Confrontaciones entre la población civil y las unidades de erradicación,
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 13 de febrero, más de 204 personas (76 familias) de la comunidad de Quebrada Seca en Tierralta, se desplazaron hacia Tierradentro (Montelíbano) tras confrontaciones entre la población civil y las unidades de erradicación, que dejaron tres civiles heridos y un muerto. Este escenario produjo temor en la comunidad a quedar en medio de nuevas confrontaciones en el marco de las operaciones por erradicación que se adelantan en la zona. Este desplazamiento masivo se conoció dos meses después en una jornada de atención interinstitucional que se realizó el 26 de abril en Tierradentro (Montelíbano), donde se identificó que había 10 declaraciones por desplazamiento individual que coincidían en tiempo, modo y lugar; por lo que se conversó con los líderes de la comunidad para conocer los hechos y activar la ruta de atención por desplazamiento masivo. Como resultado, se halló que más de 70 familias se encontraban alojadas en las viviendas de familiares o conocidos del centro poblado de Tierradentro. Sin embargo, es relevante mencionar que, a la fecha al menos 05 familias continúan en la zona de Quebrada Seca (Tierralta) con limitaciones a la movilidad a causa de extorsiones y control social por parte de los GANE.
+Enlace: https://drive.google.com/file/d/12hBGpOnyX8F64YfM-5MImm9z0GSTZqFp/view
+    [group_yv1ph08/time2] => 2023-02-13
+    [group_yv1ph08/time3] => 86
+    [group_yv1ph08/evidencia] => proteccion educacion salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 76
+    [group_cn9za51/personas] => 204
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Entre el 25 y 26 de abril, la Administración Municipal de Montelíbano realizó una jornada interinstitucional para la atención de víctimas en la comunidad de Tierradentro (Montelíbano), con la participación de Defensoría del Pueblo, Unidad para la Atención y Reparación Integral de Víctimas (UARIV), Heartland Alliance International, MAPP-OEA y OCHA.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 04 de mayo, se realizó Comité Territorial de Justicia Transicional Extraordinario donde se reconoció el desplazamiento masivo y se activó la ruta de atención, se instó a la articulación con el municipio de Tierralta para atender a las cinco familias que se encuentran en Quebrada Seca. Como compromisos, se activará la ruta directa con la UARIV, y se activará la ruta de la Secretaria de Salud para hacer seguimiento a los heridos de la confrontación y seguimiento al Programa Nacional Integral de Sustitución de Cultivos Ilícitos (PNIS) en articulación con la MAPP/OEA. El Equipo Local de Coordinación de Córdoba continúa haciendo seguimiento a la situación humanitaria con el fin de activar la respuesta complementaria a través de los Standard Operating Procedures (SOP).
+    [group_mu9ho06/Logisitica] => Por Actualizar
+    [group_mu9ho06/Seguridad] => Por Actualizar
+    [group_mu9ho06/Operativa] => Por Actualizar
+    [group_mu9ho06/Observaciones] => Vacíos: 
+El municipio de Montelíbano no tiene suficientes recursos para cubrir todos los componentes de respuesta humanitaria, ya que desde hace cuatro años no se presentaban desplazamientos masivos no se había contemplado en el plan de contingencia. El presupuesto para la atención de desplazamientos individuales continúa focalizado a las 10 familias que declararon., las cuales no fueron censadas en el desplazamiento masivo.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/12hBGpOnyX8F64YfM-5MImm9z0GSTZqFp/view+Por Confirmar+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:adab0ecc-5627-453a-bd57-2e3b6cc328ce
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => adab0ecc-5627-453a-bd57-2e3b6cc328ce
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-10T17:20:07
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

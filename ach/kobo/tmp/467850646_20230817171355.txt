@@ -1,0 +1,140 @@
+stdClass Object
+(
+    [_id] => 467850646
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-08-16T10:50:19.673-05:00
+    [end] => 2023-08-17T17:12:20.697-05:00
+    [group_kp1mu41/_1_C_digo] => MEGR 921.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-08-17
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-08-08
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-08-12
+    [group_kp1mu41/_4_Departamento] => META
+    [group_kp1mu41/META] => GRANADA
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Villa olímpica de Granada
+    [group_kp1mu41/num_comunidades] => 1
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => TODAS
+    [group_kp1mu41/_8_Comunidad] => AETCR Georgina Ortiz
+
+NOTA: si bien se hizo declaración como desplazamiento masivo no se tiene el FUD
+    [group_kp1mu41/Urbano_Rural] => urbano
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Alejandra Sanjuan
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3224080930
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_PR R3_Shelter R4_Wash
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2023-08-08
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2023-08-11
+    [group_wo86e58/group_hc3sa85/vacios_icla] => Debido a la poca participación y disposición de la comunidad no se logro abordar de forma más amplia temáticas relacionadas con mecanismo de exigibilidad de derechos
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => 1. Hacer seguimiento a la inclusión en el Registro Único de Victimas-RUV y fortalecimiento en el conocimiento de rutas de atención para la protección de los derechos fundamentales y  prevención de violencias. 
+2. Realización de espacios de información adaptados a las condiciones y características de la población que permita una la reciprocidad y motivación en las formaciones.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-13/Apoyo_psicosocial_(individ
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2023-08-08
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2023-08-11
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => Debido a la poca participación y disposición de la comunidad no se logro abordar de forma más amplia temáticas relacionadas con violencias basadas en género y un espacio propio para mujeres.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => 1. Fomentar estrategias enfocadas a la asistencia de la salud mental, desde un enfoque integral individual y colectivo para la recuperación emocional y reducción del estrés. 
+2. Promover espacios para el fortalecimiento y visibilidad de los roles femeninos y su importancia en los diversos espacios.
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-12-1/Provisión_de_soluciones_de 4-R3-3.1-15-4/Sesion/nes_de_información_
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2023-08-08
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2023-08-12
+    [group_wo86e58/group_zh0iq17/Vacios_SHELTER] => Dentro de las observaciones identificadas en el ámbito del refugio, se resalta la carencia de instalaciones educativas que permitan la realización de actividades en beneficio de los niños. La ausencia de espacios destinados a actividades recreativas y ocupación del tiempo libre genera una preocupación particular, ya que la situación actual podría estar generando niveles de estrés y ansiedad en los niños. En esta línea, se hace incidencia por la implementación de espacios adecuados que atiendan estas necesidades, incluyendo áreas educativas y recreativas, y promoviendo la creación de espacios para actividades comunitarias.
+
+Debido a las inundaciones del mes pasado se considera valiosa la provisión de colchonetas, cobijas y entre otros a aquellas familias que se vieron afectadas. Esta iniciativa no solo contribuiría a mejorar la calidad del descanso de estas familias, sino también a brindar un mayor nivel de confort en medio de las circunstancias desafiantes que están enfrentando.
+    [group_wo86e58/group_zh0iq17/Recomendaciones_SHELTER] => 1. Desde Shelter se recomienda que todas las acciones realizadas con la finalidad de adecuaciones y optimizaciones del alojamiento sean acompañadas por la ARN y personal técnico idóneo con conocimientos mínimos que mitiguen riesgos durante las actividades.
+2. La información de uso y mantenimiento del alojamiento temporal debe ser replicada a través de los participantes del espacio con el resto de la población del alojamiento con el objetivo de garantizar el buen uso y funcionamiento del alojamiento en responsabilidad de toda la población.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.1-16-1-Entrega_kits_agua 2-R4-4.2-17-3-Rehabilitaciones_saneamiento
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2023-08-08
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2023-08-11
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => Un vacío que podría quedar después de la atención realizada en la Villa Olímpica para las familias desplazadas del ETCR Georgina Ortiz es la falta de una solución sostenible y a largo plazo para el suministro de agua potable. Aunque se han implementado filtros comunitarios y se ha brindado asistencia en agua y saneamiento, es posible que persista la necesidad de garantizar un acceso continuo y seguro al agua potable a las familias. Los filtros comunitarios pueden proporcionar una solución temporal, pero podría ser esencial explorar opciones de suministro de agua a largo plazo, como la instalación de sistemas de purificación más permanentes o la conexión a fuentes de agua segura en el área. Esto aseguraría que las familias desplazadas tengan un acceso constante y confiable al agua potable, contribuyendo a su bienestar y salud a largo plazo.
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => 1. Se sugiere establecer un sistema de monitoreo regular de la calidad del agua en la Villa Olímpica para garantizar que el suministro cumpla con los estándares de seguridad. Esto puede incluir pruebas periódicas de agua para detectar la presencia de contaminantes y asegurar que el tratamiento sea efectivo.																		
+2. Se recomienda llevar a cabo campañas de sensibilización y capacitación sobre la importancia del tratamiento y consumo de agua segura, así como la correcta gestión de los sistemas de almacenamiento de agua en la comunidad.																		
+3. Las autoridades, lideres comunitarios y ARN deben prestar especial atención a las necesidades de las poblaciones más vulnerables, como las personas con movilidad reducida, mujeres embarazadas, lactantes y niños. Se deben tomar medidas adicionales para garantizar su acceso a agua segura y servicios de higiene.
+4.  Es fundamental que las autoridades y ARN continúen fomentando y educando a la comunidad sobre prácticas de higiene adecuadas, como el lavado de manos antes de preparar alimentos, después de ir al baño y después de toser. Esto puede reducir el riesgo de enfermedades transmitidas por el agua y mejorar la salud de la comunidad en general.
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de atención a emergencia por desplazamiento forzado y amenazas e intimidaciones en contra de los integrantes del  ETCR Georgina Ortiz, desde el sector de protección se desarrolló espacio de identificación de riesgos, amenazas y capacidades de la comunidad, mediante el cual se brindaron mensajes claves que pretenden fortalecer el trabajo comunitario, la cohesión social y la formación de nuevos liderazgos como mecanismos de autoprotección civil en escenarios relacionados con el conflicto armado y vida cotidiana de los comuneros.
+Se destaca que la atención se desarrollo bajo una perspectiva individual y otra colectiva. 
+Colectiva
+Se desarrollaron espacios de información con enfoque diferencial teniendo en cuenta su proceso de reincorporación y características comunitarias, que permitieron el análisis de riesgo, tales como amenazas e intimidaciones y estigmatización, homicidio y los riesgos sobrevinientes del desplazamiento forzado del que han sido víctimas, lo que podría conllevar al desarrollo de afectaciones emocionales más complejas que perturben la cohesión social, personal y familiar de los comuneros.
+Partiendo de la identificación de los riesgos y amenazas se brindaron socialización de las rutas de atención y mecanismos establecidos para la protección de personas y comunidades afectadas en el marco del conflicto armado, como lo es la ley 1448 de 2011, destacándose la ruta de atención de la población victima de desplazamiento forzado, amenazas e intimidaciones. 
+Así mismo, se orientó al fortalecimiento de mecanismo de auto protección existentes donde se visibilizaron estrategias comunitarias como la creación de comités para la defensa y protección de derechos, organización interna de convivencia para la asignación de tareas y comités diferenciales, como estrategias de autoprotección y mitigación de riesgos internos y externos relacionados con la emergencia por desplazamiento forzado. 
+Dichos espacios aportaron también a la identificación de capacidades individuales y colectivas que pueden ser potencializadas con el trabajo en equipo. 
+Se destaca que, en esta socialización se hizo énfasis en el proceso de reincorporación en el que se encuentran inmersos los comuneros y su identificación como población civil desde el momento en que dejaron las armas, el concepto de victimas en el marco de la ley 1448/2011 y las garantías de protección de los participantes como reincorporados, 
+
+Estos espacios contaron con la participación de 33 personas (7M-H26).
+
+Enfoque individual:
+se destaca siete (7) orientaciones sobre acceso a derechos esenciales, solicitud de medidas de protección, socialización de rutas de atención a población víctima de conflicto armado, principalmente sobre la declaración de hechos victimizantes ante el ministerio público y la asistencia humanitaria.
+Del mismo modo, se brindaron espacios de escucha activa, para la descarga de emociones, orientadas mediante mensajes claves para el bienestar psicosocial y se orientó ruta de atención para acceder a los servicios de salud mental a través de la E.PS.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => N/A
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => N/A
+    [group_of2sk15/group_qw7se20/_11_Provisi_n_de_soluciones_de_refugio_temporal_colectivo_o_individual_NRC] => Entrega de kit de alojamiento temporal que contiene materiales e insumos para las adecuaciones y optimización de los espacios como dormitorios y comunitarios del alojamiento ubicado en la Villa Olímpica, Granada en Meta.
+    [group_of2sk15/group_qw7se20/_12_Entrega_de_art_culos_dom_sticos_que_salvan_vidas_NRC] => N/A
+    [group_of2sk15/group_qw7se20/_13_Entrega_de_efectivo_para_alquiler_NRC] => N/A
+    [group_of2sk15/group_qw7se20/_14_Shelter_and_Settlements_information_and_awareness_raising_sessions_NRC] => Sensibilización de información sobre el buen uso y mantenimiento de las instalaciones de alojamiento temporal, identificación de riesgos y alojamientos saludables, con la participación de 7 personas pertenecientes a la comunidad y ARN como institución local.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => En el marco de la atención de la emergencia y con el propósito de abordar las necesidades cruciales de agua segura en la comunidad, se ha implementado la distribución de un filtro comunitario con una capacidad de 120 litros, capaz de proporcionar un volumen total de 1440 litros de agua filtrada diariamente. Este valioso recurso beneficia directamente a aproximadamente 200 personas, asegurando su acceso a agua potable. Para garantizar la efectividad de este enfoque, se ha llevado a cabo una prueba de agua de Petrifilm 3M, la cual ha validado la reducción significativa de la presencia de E. coli después del tratamiento del agua. La elección de un filtro de uso comunitario responde a las dinámicas propias de la población, y se espera que esta iniciativa contribuya a mejorar los malestares estomacales ocasionados por el consumo de agua no segura. Con esta entrega, se busca fortalecer la salud y el bienestar de la comunidad, abordando de manera integral una necesidad esencial.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => N/A
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_saneamiento_b_sico] => En el marco de la atención de la emergencia y en colaboración con la ARN (Agencia para la Reincorporación y Normalización), se ha llevado a cabo la entrega de materiales destinados a la rehabilitación y mejoramiento de las instalaciones sanitarias en la Villa Olímpica de Granada. Esta acción se ha realizado en respuesta a la identificación de daños en algunos puntos de las instalaciones, reafirmando el compromiso de garantizar condiciones adecuadas de saneamiento para las familias desplazadas. La coordinación con la ARN ha permitido implementar estas mejoras de manera eficaz y colaborativa, con el objetivo de asegurar un entorno más seguro y saludable para la comunidad en su conjunto.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => N/A
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => N/A
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => La limitada implicación y disponibilidad de la comunidad obstaculizó la posibilidad de abordar de manera más abarcadora asuntos vinculados a violencias de género, así como la creación de un espacio dedicado específicamente a las mujeres.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => N/A
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => No hay atención en EeE porque durante la emergencia han sido afectados aproximadamente 75 niños y niñas, la mayoría de ellos menores de 5 años, La comunidad cuenta con el servicio de Modalidad propia e Intercultural con una agente educativa que realiza actividades con 25 niños y niñas de 0 a 5.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No aplica
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => No hay atención en SAN porque la ARN continua con la entrega a los firmantes de la asignación mensual y alimentos como arroz, aceite, harina de maíz, leguminosas, proteína animal, panela y leche. Igualmente, los representantes comunitarios comentan que al estar en la cabecera municipal de Granada algunos alimentos son más económicos en comparación de Vista Hermosa. •	En los espacios de ERN se priorizan otras necesidades sobre el apoyo en alimentos, ejemplo, adecuaciones de las carpas en las que duermen y en las que cocinas, elementos para el acceso al agua segura, y espacios de sensibilización para la mitigación de riesgos.
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => El número de personas afectadas es menor a 500. No hay necesidad expresa de atención en salud física. No existen situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia. No existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida. No hay reportes y/o aumento de Violencia Basada en Género durante el último mes
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => PARTICIPACION OTRAS
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => Entre las dificultades encontradas, se destaca que previo al inicio de la atención, el líder comunitario compartió un comunicado en el que expresaba la oposición de algunas familias en establecer contacto y manifestaba que, aunque agradecían las ayudas brindadas, preferían evitar la realización de talleres y sensibilizaciones. 
+Adicionalmente, se identificó una intermitencia en la comunicación con la ARN antes de la implementación de las acciones.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => Para superar la barrera inicial en la comunidad con respecto a la recepción de talleres y sensibilizaciones, se implementó una estrategia de acción. Al llegar al territorio, se llevó a cabo una reunión con la participación de todo el equipo implementador, durante la cual se destacó la relevancia de la involucración activa de la comunidad en estos espacios. En esta misma instancia, se brindó la oportunidad a la comunidad de expresar sus comentarios y sugerencias para hacer que los talleres fueran más atractivos y adecuados a sus necesidades. Para fortalecer la comunicación con la ARN, se ampliaron los canales de contacto involucrando a otros funcionarios de la entidad, agilizando así la fluidez en la comunicación. En el primer día de intervención, se realizó una reunión conjunta con la ARN para planear acciones colaborativas, evitando duplicación de esfuerzos.
+    [group_zj0tq00/_Cu_les_Otras] => Monitoreo y Evaluación
+    [group_zj0tq00/Dificultades_encontradas_Otras] => En el marco de Monitoreo y Evaluación, surgieron desafíos significativos. Dada la condición de firmantes del proceso de paz y su etapa de reincorporación, los datos de la población se vuelven altamente sensibles, lo que dificultó la obtención de información individual detallada. Esta limitación conllevó a que solo pudiéramos recabar datos agregados por género (hombres, mujeres y niños), sin contar con desgloses específicos según rangos de edad, discapacidades o pertenencia étnica. Adicionalmente, el proceso de recopilación de información para el sector de WASH encontró obstáculos, ya que en las listas de asistencia se registraron únicamente nombres y números de teléfono, restringiendo el acceso a sus números de identificación.
+    [group_zj0tq00/Medidas_adoptadas_Otras] => Como parte de las estrategias implementadas para M&E, se ha desarrollado una metodología dirigida desde la UGC (Unidad de Gestión Del Consorcio) para la recopilación de información. Mediante la utilización de un acta de entrega, el líder comunitario emite un documento oficial que certifica los servicios proporcionados por el Consorcio MIRE. En dicha acta, se presenta un desglose de la caracterización de la población atendida, destacando únicamente el número total de personas beneficiadas, sin incluir detalles específicos de información individual. Esta iniciativa busca equilibrar la necesidad de obtener datos relevantes para el proceso de M&E con el respeto a la sensibilidad y privacidad de la población en proceso de reincorporación, al tiempo que promueve la rendición de cuentas y la transparencia en la prestación de servicios.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 33
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 1
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 3
+    [group_kq5co41/group_zo3ck85/_Cual] => ARN (Agencia para la Reincorporación y Normalización)
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 7
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 33
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => James Cometo
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3228118907
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Lider encargado ETCR Georgina Ortiz
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Silvia Diaz
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 314 3334346
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Agencia para la Reincorporación y Normalización
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:d20d2cf1-e787-4d82-b2c2-0d9a17231890
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => d20d2cf1-e787-4d82-b2c2-0d9a17231890
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-17T22:12:23
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

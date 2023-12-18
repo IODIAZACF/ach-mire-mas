@@ -1,0 +1,72 @@
+stdClass Object
+(
+    [_id] => 404118881
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-03-10T09:28:41.992-05:00
+    [end] => 2023-03-13T17:02:48.507-05:00
+    [group_gu1lq88/Departamento] => BOGOTA
+    [group_gu1lq88/BOGOTA] => BOGOTA, D.C.
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => No Aplica
+    [group_gu1lq88/Nombre_de_la_comunidad] => Rural
+    [group_gu1lq88/Urbano_Rural] => urbano
+    [group_gu1lq88/time1] => 2023-03-13
+    [group_gu1lq88/Nombre_de_quien_reporta] => MARIA LAURA LÁZARO GONZÁLEZ y DEYMIS JULIETH SOTO SÁNCHEZ
+    [group_gu1lq88/Cargo] => ALIANZA POR LA SOLIDARIDAD
+    [group_gu1lq88/Origen_de_la_informaci_n] => OtroOrigenInfo
+    [group_gu1lq88/_Cu_l] => Beneficiaria se acerca por sus propios medios a la Oficina de APS / Bogotá.
+    [group_hl1yc96/La_alerta_corresponde_a_] => VBG
+    [group_hl1yc96/_El_evento_ha_sucedido_antes_de_72_horas] => no
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => -No Aplica
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2023-02-13
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSVABU_U_ANGO044VBG: Mujer sobreviviente a múltiples tipos de VBG (Secuestro, Tortura, Amenazas, VSX.) por parte de un hombre actor del conflicto armado con intereses en que ella enliste las filas del GANE y sea su pareja sentimental. Así mismo informa múltiples desplazamientos ya que ha sido ubicada en varias oportunidades por parte del GANE. Actualmente se encuentra refugiada en la casa de la mujer en la ciudad de Bogotá en la cual recibe apoyo de dupla psicosocial especializadas en VBG (Atención Psicológica y Jurídica; únicamente en temas de VBG no en temas víctima del conflicto armado), sin embargo, refiere que las amenazas hacia ella y su familia no cesan, amenazas del GANE enfocadas a que no continúe con su proceso de denuncias a las instituciones estatales. Requiere apoyo para salir del país ya que cuenta con estatus de refugiada en Brasil.
+    [group_mu9ho06/Logisitica] => No Aplica
+    [group_mu9ho06/Seguridad] => No Aplica
+    [group_mu9ho06/Operativa] => No Aplica
+    [group_mu9ho06/Observaciones] => No Aplica
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:bf436931-5aff-4024-b9b2-3ba8485c8260
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => bf436931-5aff-4024-b9b2-3ba8485c8260
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-03-13T22:02:57
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,85 @@
+stdClass Object
+(
+    [_id] => 376117573
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-12-20T10:51:05.579-05:00
+    [end] => 2022-12-20T11:13:19.484-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => ISTMINA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin Información
+    [group_gu1lq88/Nombre_de_la_comunidad] => ACADESAN
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2022-12-20
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => HOMICIDIOS PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => l 13 de septiembre, al menos 159 personas (49 familias, más de 64 niños, niñas y adolescentes) la comunidad afrodescendiente de Negría se desplazaron masivamente hacia la comunidad de San Miguel; 99 personas (39 familias, 49 niños, niñas y adolescentes) se ubicaron en redes de apoyo y en un alojamiento temporal adecuado por el consejo comunitario de San Miguel; y 60 personas aproximadamente (10 familias, 15 niños, niñas y adolescentes) se desplazaron hacia la cabecera municipal de Istmina por cuenta de la incursión de un Grupo Armado No Estatal (GANE) en la comunidad, el homicidio de un joven durante los ataques con disparos hacia la población civil que también dejaron a una persona herida, y amenazas y hurtos de las pertenencias de la comunidad. Es importante mencionar que, el 25 de noviembre se registraron enfrentamientos entre los dos GANE que hacen presencia en la zona en cercanías de las comunidades de Doidó (Istmina), Puerto Murillo, Santa María La Loma, Isla de Cruz (Medio San Juan), Chambacú, San Agustín y Las Brisas (Sipí) generando miedo y zozobra en las comunidades, además del riesgo de nuevos desplazamientos.
+
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/alerta_desplazamiento_masivo_comunidad_de_negria_de_istmina_choco_vf.pdf
+    [group_yv1ph08/time2] => 2022-11-25
+    [group_yv1ph08/time3] => 25
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 49
+    [group_cn9za51/personas] => 159
+    [group_cn9za51/comu] => 7
+    [group_cn9za51/Grupo_tnico] => afro
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => ✓ El 13 de diciembre, el Consejo Comunitario de San Miguel (Medio San Juan), realizó la entrega de comida (almuerzo y cena) y coordinó la estancia de las familias en redes de apoyo y un alojamiento temporal.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 13 de diciembre, la Defensoría del Pueblo y la Diócesis de Istmina realizaron una misión de verificación en la comunidad de Negría y brindaron acompañamiento a las personas desplazadas.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3+https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/alerta_desplazamiento_masivo_comunidad_de_negria_de_istmina_choco_vf.pdf+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:36232da1-9d48-483b-b2b4-9be8122bd4d0
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 36232da1-9d48-483b-b2b4-9be8122bd4d0
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-12-20T16:13:29
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

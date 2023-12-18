@@ -1,0 +1,4 @@
+stdClass Object
+(
+    [ssh-public-key1] => fake-key
+)

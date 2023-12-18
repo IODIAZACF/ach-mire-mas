@@ -1,0 +1,111 @@
+stdClass Object
+(
+    [_id] => 452413197
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-07-14T10:44:43.672-05:00
+    [end] => 2023-07-14T11:50:37.359-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => BARBACOAS
+    [group_gu1lq88/Otros_Municipios] => Sin información
+    [group_gu1lq88/Vereda] => Cerca el rio Guelmambi entrando por el Pailón.
+    [group_gu1lq88/Nombre_de_la_comunidad] => Resguardo indígena Awa Nunalbi Alto Ulbi
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-07-14
+    [group_gu1lq88/Nombre_de_quien_reporta] => Wendy Rubiano
+    [group_gu1lq88/Cargo] => Acción Contra el hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => CTJT
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM MINAS PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Asesinato
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => El 1 de julio de 2023, a las 4 de la tarde, en el resguardo indígena Awa Nunalbi Alto Ulbi, se dio inicio a enfrentamientos por parte de grupos Armados ilegales, causando la muerte de Armando García, el cual fue alcanzado por los disparos . En el mismo incidente, su hermano resultó herido pero logró dirigirse a la vía panamericana en busca de ayuda, donde fue auxiliado por la Guardia Indígena y trasladado al hospital. Armando García, de aproximadamente 25 años, deja atrás a una esposa y un hijo de 2 años.
+
+Se ha recibido información de que los enfrentamientos aún persisten dentro del resguardo, lo cual ha dificultado el acceso a la comunidad para llevar a cabo el levantamiento del cuerpo del señor Armando García.
+
+Debido al Riesgo cerca de 27 familias con un aproximado de 93 personas de la comunidad Alto Ulbí, deciden desplazarse hacia la vereda Pailón del municipio de Barbacoas.  Una vez conocido los hechos, el Comité Municipal de Justicia Transicional, con una
+votación de doce (12) integrantes a favor, DECLARA el desplazamiento masivo de la comunidad Alto Ulbí del Resguardo indígena Awa Nunalbi Alto Ulbí el 5 de julio. 
+
+En	lo	corrido	del	2023,	no	han	cesado	las	acciones	de	violencia	en	nuestro	territorio,	
+reportando	 a	 julio	 57 hechos victimizantes,	 que	 afectan	 a	 752	 compañeros,	
+relacionados	 con	 enfrentamientos, homicidios,	 accidentes	 por	 Minas	 Antipersonal	 y	
+Municiones sin	 Explotar,	 amenazas	 colectivas,	 intimidación,	 amenazas	 individuales,	
+reclutamiento	 forzado,	desplazamientos	y	confinamientos.
+    [group_yv1ph08/time2] => 2023-07-01
+    [group_yv1ph08/time3] => 13
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Alimentación, Higiene
+    [group_cn9za51/familias] => 27
+    [group_cn9za51/personas] => 93
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Plan de Contingencia Municipal desde la Alcaldía de Barbacoas
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => Danish Refugee Council (DRC)
+    [group_mu9ho06/Logisitica] => Por actualizar
+    [group_mu9ho06/Seguridad] => Por actualizar
+    [group_mu9ho06/Operativa] => El municipio se compromete a entregar ayudas en: 
+ 
+- Componente de Educación en Emergencia: El coordinador de Educación se compromete a solicitar kits escolares para los niños, niñas y adolescentes que se encuentran en el censo. Además, verificara los NNA inscrito en las instituciones educativas del Resguardo. 
+
+ -Componente de Salud: Desde Dirección Local de Salud, manifiesta se garantizará el acceso a los servicios de salud inmediatos y atención Psicosocial, previa articulación con la IPS UNIPA. De manera complementaria desde secretaria de Gobierno, se remitirá solicitud de apoyo a ICBF, para la atención por parte de las Unidades Móviles.
+
+- Componente de Alimentación e higiene: Se procederá a brindar Ayuda Humanitaria Inmediata a las víctimas, para lo cual se requiere adelantar levantamiento de censo de las familias afectadas por el evento masivo. Se manifiesta además que se adelantará por escrito apoyo en concurrencia y subsidiariedad a la Unidad para la atención a las víctimas-UARIV y a la Gobernación de Nariño mediante oficio motivado el cual se soportará con el censo definitivo de la población desplazada y el acta correspondiente
+    [group_mu9ho06/Observaciones] => La comunidad cuenta con Censo.
+    [group_mu9ho06/Subir_el_Anexo] => ACTA CMJT N12 NUNALBI ALTO ULBI  (1)-11_47_13.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:2b2a6bb7-dc2d-4654-9937-3056f3f37537
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 2b2a6bb7-dc2d-4654-9937-3056f3f37537
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F2b2a6bb7-dc2d-4654-9937-3056f3f37537%2FACTA_CMJT_N12_NUNALBI_ALTO_ULBI__1-11_47_13.pdf
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F2b2a6bb7-dc2d-4654-9937-3056f3f37537%2FACTA_CMJT_N12_NUNALBI_ALTO_ULBI__1-11_47_13.pdf
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F2b2a6bb7-dc2d-4654-9937-3056f3f37537%2FACTA_CMJT_N12_NUNALBI_ALTO_ULBI__1-11_47_13.pdf
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F2b2a6bb7-dc2d-4654-9937-3056f3f37537%2FACTA_CMJT_N12_NUNALBI_ALTO_ULBI__1-11_47_13.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/2b2a6bb7-dc2d-4654-9937-3056f3f37537/ACTA_CMJT_N12_NUNALBI_ALTO_ULBI__1-11_47_13.pdf
+                    [instance] => 452413197
+                    [xform] => 572478
+                    [id] => 188992937
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-07-14T16:50:39
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

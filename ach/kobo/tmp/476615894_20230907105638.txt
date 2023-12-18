@@ -1,0 +1,85 @@
+stdClass Object
+(
+    [_id] => 476615894
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-09-07T09:01:18.037-05:00
+    [end] => 2023-09-07T10:56:37.111-05:00
+    [group_gu1lq88/Departamento] => ANTIOQUIA
+    [group_gu1lq88/municip_antioquia] => NECOCLI
+    [group_gu1lq88/Otros_Municipios] => Turbo, corregimiento de Zapata, Totumo, Mellitos, San Sebastián
+    [group_gu1lq88/Vereda] => La vereda del Vale
+    [group_gu1lq88/Nombre_de_la_comunidad] => Población Migrante y Local
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-09-07
+    [group_gu1lq88/Nombre_de_quien_reporta] => Wendy Rubiano
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => DESPLAZAMIENTO OTRA
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => El fenómeno de la migración en el Darién continua agudizándose, los corredores fronterizos entre Colombia y Panamá, a la altura de la región Pacífico, han sido utilizados durante años por los flujos migratorios mixtos que intentan acceder a América Central y del Norte. No obstante, esta ruta migratoria presenta los mayores desafíos para las personas en tránsito, debido al paso obligado por la selva del Darién, que se caracteriza por tener condiciones geográficas que dificultan el acceso. el tapón del Darién es lugar de tránsito de miles de refugiados y migrantes, la mayoría procedentes de Venezuela, Ecuador, Haití, Cuba, países africanos y del sur de Asia. De acuerdo con ACNUR, en los primeros 5 meses del 2023, 166.649 personas entraron a Panamá de manera irregular a través del tapón del Darién. Tan solo en el mes de mayo 38.962 personas hicieron esta travesía. El contraste de los flujos migratorios entre el 2022 y 2023 muestra un claro crecimiento exponencial en el periodo en estudio; en el 2023 hubo un incremento de más de 20.000 personas por mes atravesando la frontera entre Colombia y Panamá. 
+
+Las cifras de salidas de personas desde Necoclí en los primeros 6 meses del año del 2023 ya superan las del año anterior, incrementándose drásticamente en los 3 primeros meses del año comparado con los 3 años anteriores; mientras en marzo de 2021 salieron de Necoclí 1.600 personas y en marzo de 2022 salieron 4.300, durante el mes de marzo de 2023 el número de salidas aumentó a 34.000 personas.  La mayor parte de la población migrante en el municipio de Necoclí es población en tránsito. Actualmente, hay población con vocación de permanencia localizada en centros urbanos y zona rural, principalmente en el corregimiento de Zapata. También hay población asentada en el corregimiento del Totumo, la vereda del Vale, el corregimiento de Mellitos y en San Sebastián.  
+
+La población en tránsito asentada en playa (en situación de calle) y la población en tránsito en campamentos de la JAC está en necesidad de elementos de hábitat tales como carpas impermeables, mosquiteros, morrales de viaje, fulares para cargar los niños, pastillas potabilizadoras, termos con filtro de agua, hamacas, creolina, una cocina apropiada y elementos para preparar alimentos, entre otros. A pesar de la presencia y respuesta humanitaria de las ONGs, (OIM, Cruz Roja, Pastoral/ACNUR, NRC, IRC, HIAS, CARE. SJR) y de forma reciente en Turbo Mercy Corps. Esta población no tiene acceso constante a la ayuda humanitaria, debido a que pueden durar de 2 a 4 meses en el sector de la playa, lo cual representa una sobre carga para la capacidad para el corredor humanitario que además brindan a tención a la población migrante que se encuentra en tránsito.   
+
+La crisis humanitaria en este corredor se está dando en medio de un complejo triángulo diplomático entre Colombia, Panamá y Estados Unidos. Es así como a finales de agosto el ministro de seguridad Pública, Juan Manuel Pino señaló que “Panamá abordará el tema migratorio como problema de seguridad Nacional” y advierte que se estarán “tomando medidas contundentes tales como un posible cierre de frontera” Estas acciones exponen aún más a las poblaciones migrantes a una mayor vulnerabilidad. Como consecuencia, se observa un acceso limitado a servicios de salud, desplazamiento forzado interno, deterioro en la salud mental, desafíos en la educación de los niños migrantes, sobrecarga en la infraestructura local, una creciente demanda de alojamiento temporal y el agotamiento de los recursos locales, entre otras consecuencias sociales y humanitarias que enfrentan.
+    [group_yv1ph08/time2] => 2023-08-30
+    [group_yv1ph08/time3] => 8
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria, Refugio y Asentamientos, Salud,
+    [group_cn9za51/familias] => 0
+    [group_cn9za51/personas] => 51
+    [group_cn9za51/comu] => 0
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Migración Colombia está construyendo un Protocolo de Atención de Emergencia Humanitaria con entidades del nivel nacional, departamental, local, cooperación internacional y la sociedad civil
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => GIFMM, OIM, ACNUR, IRC, NRC, HIAS, CARE, SJR, Mercy Corps, MSF,
+    [group_mu9ho06/Logisitica] => Por actualizar
+    [group_mu9ho06/Seguridad] => Por actualizar
+    [group_mu9ho06/Operativa] => Por actualizar
+    [group_mu9ho06/Observaciones] => Sin Observaciones
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:260062a3-62e7-42a9-81ad-c7a6b289ae29
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 260062a3-62e7-42a9-81ad-c7a6b289ae29
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-07T15:56:37
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

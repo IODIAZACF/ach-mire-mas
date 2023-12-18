@@ -1,0 +1,60 @@
+stdClass Object
+(
+    [_id] => 442888991
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-06-21T14:58:54.259-05:00
+    [end] => 2023-06-21T15:14:46.236-05:00
+    [group_gener/departamento] => choco
+    [group_gener/municipio] => 27495_nuqui
+    [group_gener/Point] => 34.34457 -5.826588 0 0
+    [group_gener/Vereda_Corregimiento] => Por Confirmar
+    [group_gener/Comunidad] => Puerto Indio
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => CHNU -078.1
+    [group_gener/Consorcio] => mire_ii
+    [group_gener/Fase] => respuesta
+    [group_gener/Fecha_del_Evento_001] => 2021-09-19
+    [group_gener/Hora_del_Evento] => 17:58:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => El equipo APS que esta pernotanndo en puerto indio me reporta lo siguiente: Reportarte una situación que nos manifiestan hace poco, el representante legal de Aci-oquendo señala presencia en la loma. La guardia de aquí dice que ya están en alerta y refuerzan medidas, ya reforzamos demarcación del espacio humanitario.
+    [group_gu1lq88/CATEGOR_A] => presencia_de_ga
+    [group_gu1lq88/ONG_IMPLICADAS] => aps
+    [group_gu1lq88/Autor] => Juan Pablo Sarmiento
+    [group_gu1lq88/Consecuencias] => otra
+    [group_gu1lq88/_Cu_l] => Extremar medidas de seguridad
+    [group_gu1lq88/MEDIDAS_TOMADAS] => NRC igualmente tuvo desde ayer contacto con el GAI en La Jagua y hoy permanecían ahí. Nuestro equipo salió hasta Puerto Indio hoy. Anoche se le informó a Camilo Sarmiento y él informó al comité directivo del consorcio. Se solicita a PFS MDM compartir las conclusiones del diálogo con el gobernador quien está en monitoreo constante. MDM valida internamente con coordinación  y Central en Francia el ingreso a comunidad de Jagua. Paola Garcés: se recibió llamada del Sargento Morela de Nuquí haciendo seguimiento de la notificación a autoridades, se hizo énfasis en que no necesitamos acompañamiento durante el tiempo de misión. Están solicitando nuestra agenda y el número de teléfono del gobernador.El plan se lo voy a enviar pero el numero de teléfono no considero que seamos nosotros quienes seamos el canal.Con respecto a Nuquí y las solicitudes del Sargento les cuento que en días pasados se había enviado el correo electrónico con la notificación y hoy, una vez se recibió el requerimiento al equipo en terreno, se envió al WhatsApp directamente y confirmó recibido
+    [group_gu1lq88/Seguimiento] => No Aplica
+    [group_gu1lq88/Observaciones] => No Aplica
+    [group_gu1lq88_001/Caracter] => GAO
+    [group_gu1lq88_001/GAO] => Clan del Golfo- AGC
+    [group_gu1lq88_001/Existe_otro_grupo_armado_impli] => no
+    [__version__] => vMyq2zqdvygDy9tDck5MDS
+    [meta/instanceID] => uuid:3ed0118e-766a-402e-9b8b-debb6381ccda
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => 3ed0118e-766a-402e-9b8b-debb6381ccda
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 34.34457
+            [1] => -5.826588
+        )
+
+    [_submission_time] => 2023-06-21T20:14:47
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

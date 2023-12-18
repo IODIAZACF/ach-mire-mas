@@ -1,0 +1,1549 @@
+20:33:33 -> Conectado al puerto 80
+20:33:37 -> call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00151527&compress=0&compress=1&id_m_usuario=0016&viewer=1
+20:33:38 -> get report format
+20:33:38 -> init templates
+20:33:38 -> init main report format
+20:33:38 -> Trying to save...
+20:33:38 -> Saving to Z:\app\tmp\11793281\\opt\lampp\htdocs\globalcargo\reportes\r_guia.fr3
+20:33:38 -> loading report
+20:33:38 -> set variables
+20:33:38 -> building report file
+20:33:38 -> exporting to pdf file
+20:33:39 -> Report prepared
+20:33:39 -> Done! Z:\app\pdf\11793281.pdf
+20:33:47 -> call url: http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00151526&compress=0&compress=1&id_m_usuario=0016&viewer=1
+20:33:48 -> get report format
+20:33:48 -> init templates
+20:33:48 -> init main report format
+20:33:48 -> Trying to save...
+20:33:48 -> Saving to Z:\app\tmp\8d632cc7\\opt\lampp\htdocs\globalcargo\reportes\r_guia_etiqueta.fr3
+20:33:48 -> loading report
+20:33:48 -> set variables
+20:33:48 -> building report file
+20:33:48 -> exporting to pdf file
+20:33:48 -> Report prepared
+20:33:49 -> Done! Z:\app\pdf\8d632cc7.pdf
+20:35:12 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111013&compress=0&id_m_usuario=0011080&viewer=0
+20:35:12 -> get report format
+20:35:12 -> init templates
+20:35:12 -> init main report format
+20:35:12 -> Trying to save...
+20:35:12 -> Saving to Z:\app\tmp\576833aa\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+20:35:12 -> loading report
+20:35:12 -> set variables
+20:35:12 -> building report file
+20:35:12 -> exporting to pdf file
+20:35:12 -> Report prepared
+20:35:13 -> Done! Z:\app\pdf\576833aa.pdf
+20:35:22 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111013&compress=0&id_m_usuario=0011080&viewer=1
+20:35:23 -> get report format
+20:35:23 -> init templates
+20:35:23 -> init main report format
+20:35:23 -> Trying to save...
+20:35:23 -> Saving to Z:\app\tmp\4d892420\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+20:35:23 -> loading report
+20:35:23 -> set variables
+20:35:23 -> building report file
+20:35:23 -> exporting to pdf file
+20:35:23 -> Report prepared
+20:35:23 -> Done! Z:\app\pdf\4d892420.pdf
+20:40:02 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111014&compress=0&id_m_usuario=0011080&viewer=1
+20:40:03 -> get report format
+20:40:03 -> init templates
+20:40:03 -> init main report format
+20:40:03 -> Trying to save...
+20:40:03 -> Saving to Z:\app\tmp\cdac3c69\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+20:40:03 -> loading report
+20:40:03 -> set variables
+20:40:03 -> building report file
+20:40:03 -> exporting to pdf file
+20:40:03 -> Report prepared
+20:40:03 -> Done! Z:\app\pdf\cdac3c69.pdf
+20:41:23 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110734&letras=1&compress=0&id_m_usuario=001981&viewer=1
+20:41:23 -> get report format
+20:41:23 -> init templates
+20:41:23 -> init main report format
+20:41:23 -> Trying to save...
+20:41:23 -> Saving to Z:\app\tmp\ccb5d520\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+20:41:23 -> loading report
+20:41:23 -> set variables
+20:41:24 -> building report file
+20:41:24 -> exporting to pdf file
+20:41:24 -> Report prepared
+20:41:24 -> Done! Z:\app\pdf\ccb5d520.pdf
+20:47:00 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110737&letras=1&compress=0&id_m_usuario=001981&viewer=1
+20:47:01 -> get report format
+20:47:01 -> init templates
+20:47:01 -> init main report format
+20:47:01 -> Trying to save...
+20:47:01 -> Saving to Z:\app\tmp\90530d2b\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+20:47:01 -> loading report
+20:47:01 -> set variables
+20:47:01 -> building report file
+20:47:01 -> exporting to pdf file
+20:47:01 -> Report prepared
+20:47:01 -> Done! Z:\app\pdf\90530d2b.pdf
+20:49:01 -> call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra_dolar&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_DOCUMENTOS=00328916&compress=1&id_m_usuario=001117&viewer=1
+20:49:01 -> get report format
+20:49:01 -> init templates
+20:49:01 -> init main report format
+20:49:01 -> Trying to save...
+20:49:01 -> Saving to Z:\app\tmp\090766bd\\opt\lampp\htdocs\inventario\reportes\r_documento_fact_carta_gra_dolar.fr3
+20:49:01 -> loading report
+20:49:01 -> set variables
+20:49:02 -> building report file
+20:49:02 -> exporting to pdf file
+20:49:02 -> Report prepared
+20:49:02 -> Done! Z:\app\pdf\090766bd.pdf
+20:50:46 -> call url: http://172.17.0.1/amvtecnologia/herramientas/impresora/impresora_new.php?origen=reportes/r_anticipo_graf&db=amvtecnologia&SERVERPATH=http://172.17.0.1/amvtecnologia/&ID_M_ANTICIPOS=001290&letras=1&compress=1&id_m_usuario=001120&viewer=1
+20:50:46 -> get report format
+20:50:46 -> init templates
+20:50:46 -> init main report format
+20:50:46 -> Trying to save...
+20:50:46 -> Saving to Z:\app\tmp\c5957023\\opt\lampp\htdocs\amvtecnologia\reportes\r_anticipo_graf.fr3
+20:50:46 -> loading report
+20:50:46 -> set variables
+20:50:46 -> building report file
+20:50:46 -> exporting to pdf file
+20:50:46 -> Report prepared
+20:50:46 -> Done! Z:\app\pdf\c5957023.pdf
+20:51:39 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111015&compress=0&id_m_usuario=0011080&viewer=1
+20:51:39 -> get report format
+20:51:39 -> init templates
+20:51:39 -> init main report format
+20:51:39 -> Trying to save...
+20:51:39 -> Saving to Z:\app\tmp\51195b03\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+20:51:39 -> loading report
+20:51:39 -> set variables
+20:51:39 -> building report file
+20:51:39 -> exporting to pdf file
+20:51:40 -> Report prepared
+20:51:40 -> Done! Z:\app\pdf\51195b03.pdf
+20:55:58 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111017&compress=0&id_m_usuario=0011080&viewer=1
+20:55:59 -> get report format
+20:55:59 -> init templates
+20:55:59 -> init main report format
+20:55:59 -> Trying to save...
+20:55:59 -> Saving to Z:\app\tmp\06976489\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+20:55:59 -> loading report
+20:55:59 -> set variables
+20:55:59 -> building report file
+20:55:59 -> exporting to pdf file
+20:55:59 -> Report prepared
+20:55:59 -> Done! Z:\app\pdf\06976489.pdf
+20:56:01 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111016&compress=0&id_m_usuario=001950&viewer=0
+20:56:02 -> get report format
+20:56:02 -> init templates
+20:56:02 -> init main report format
+20:56:02 -> Trying to save...
+20:56:02 -> Saving to Z:\app\tmp\49210d82\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+20:56:02 -> loading report
+20:56:02 -> set variables
+20:56:02 -> building report file
+20:56:02 -> exporting to pdf file
+20:56:02 -> Report prepared
+20:56:02 -> Done! Z:\app\pdf\49210d82.pdf
+20:56:15 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111017&FECHA_DESDE=undefined/undefined/15/08/2022&FECHA_HASTA=undefined/undefined/15/08/2022&fecha_desde=15/08/2022&fecha_hasta=15/08/2022&ID_D_CLIENTES=001234&TITULO=RELACION%20DE%20GUIAS&compress=0&id_m_usuario=0011080&viewer=1
+20:56:16 -> get report format
+20:56:16 -> init templates
+20:56:16 -> init main report format
+20:56:16 -> Trying to save...
+20:56:16 -> Saving to Z:\app\tmp\a4d81761\\opt\lampp\htdocs\yobel\reportes\r_guias_detalles.fr3
+20:56:16 -> loading report
+20:56:16 -> set variables
+20:56:16 -> building report file
+20:56:16 -> exporting to pdf file
+20:56:16 -> Report prepared
+20:56:16 -> Done! Z:\app\pdf\a4d81761.pdf
+20:57:41 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111016&compress=0&id_m_usuario=001950&viewer=1
+20:57:42 -> get report format
+20:57:42 -> init templates
+20:57:42 -> init main report format
+20:57:42 -> Trying to save...
+20:57:42 -> Saving to Z:\app\tmp\cb80c363\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+20:57:42 -> loading report
+20:57:42 -> set variables
+20:57:42 -> building report file
+20:57:42 -> exporting to pdf file
+20:57:42 -> Report prepared
+20:57:42 -> Done! Z:\app\pdf\cb80c363.pdf
+20:58:24 -> call url: http://172.17.0.1/gran_caney/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=gran_caney&SERVERPATH=http://172.17.0.1/gran_caney/&ID_M_ARQUEOS=00115&ID_M_CAJAS=0011&compress=1&id_m_usuario=001230&viewer=1
+20:58:24 -> get report format
+20:58:24 -> init templates
+20:58:24 -> init main report format
+20:58:24 -> Trying to save...
+20:58:24 -> Saving to Z:\app\tmp\20030092\\opt\lampp\htdocs\gran_caney\reportes\r_arqueos.fr3
+20:58:24 -> loading report
+20:58:24 -> set variables
+20:58:24 -> building report file
+20:58:24 -> exporting to pdf file
+20:58:25 -> Report prepared
+20:58:25 -> Done! Z:\app\pdf\20030092.pdf
+21:04:32 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110853&compress=1&id_m_usuario=001981&viewer=1
+21:04:32 -> get report format
+21:04:32 -> init templates
+21:04:32 -> init main report format
+21:04:32 -> Trying to save...
+21:04:32 -> Saving to Z:\app\tmp\d8722717\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:04:32 -> loading report
+21:04:32 -> set variables
+21:04:32 -> building report file
+21:04:32 -> exporting to pdf file
+21:04:32 -> Report prepared
+21:04:32 -> Done! Z:\app\pdf\d8722717.pdf
+21:04:48 -> call url: http://172.17.0.1/guarico_bkp/herramientas/impresora/impresora_new.php?origen=reportes/r_conciliacion&db=guarico_bkp&SERVERPATH=http://172.17.0.1/guarico_bkp/&letras=1&FECHA_CONCILIACION=2022-07-01&ID_M_CUENTAS_BANCARIAS=0014&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/guarico_bkp/&FECHA_CONCILIACION=2022-07-01&TITULO=CONCILIACION%20BANCARIA&ID_M_CUENTAS_BANCARIAS=0014&compress=1&id_m_usuario=00187&viewer=1&title=CONCILIACION%20BANCARIA
+21:06:12 -> get report format
+21:06:12 -> init templates
+21:06:12 -> init main report format
+21:06:12 -> Trying to save...
+21:06:12 -> Saving to Z:\app\tmp\487c791d\\opt\lampp\htdocs\guarico_bkp\reportes\r_conciliacion.fr3
+21:06:12 -> loading report
+21:06:12 -> set variables
+21:06:12 -> building report file
+21:06:12 -> exporting to pdf file
+21:06:12 -> Report prepared
+21:06:12 -> Done! Z:\app\pdf\487c791d.pdf
+21:06:52 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110908&compress=1&id_m_usuario=0011094&viewer=1
+21:06:52 -> get report format
+21:06:52 -> init templates
+21:06:52 -> init main report format
+21:06:52 -> Trying to save...
+21:06:52 -> Saving to Z:\app\tmp\1190b315\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:06:52 -> loading report
+21:06:52 -> set variables
+21:06:52 -> building report file
+21:06:52 -> exporting to pdf file
+21:06:53 -> Report prepared
+21:06:53 -> Done! Z:\app\pdf\1190b315.pdf
+21:07:36 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012851&compress=0&id_m_usuario=001227&viewer=0
+21:07:36 -> get report format
+21:07:36 -> init templates
+21:07:36 -> init main report format
+21:07:36 -> Trying to save...
+21:07:36 -> Saving to Z:\app\tmp\d8573d79\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+21:07:36 -> loading report
+21:07:36 -> set variables
+21:07:37 -> building report file
+21:07:37 -> exporting to pdf file
+21:07:37 -> Report prepared
+21:07:37 -> Done! Z:\app\pdf\d8573d79.pdf
+21:09:25 -> call url: http://172.17.0.1/arimez/herramientas/impresora/impresora_new.php?origen=reportes/r_inspecciones_gantt&db=arimez&SERVERPATH=http://172.17.0.1/arimez/&ID_M_PROYECTOS=undefined&TITULO=Avance%20de%20la%20obra&compress=1&id_m_usuario=0013&viewer=1
+21:09:26 -> get report format
+21:09:26 -> init templates
+21:09:26 -> init main report format
+21:09:26 -> Trying to save...
+21:09:26 -> Saving to Z:\app\tmp\c478b6cd\\opt\lampp\htdocs\arimez\reportes\r_inspecciones_gantt.fr3
+21:09:26 -> loading report
+21:09:26 -> set variables
+21:09:26 -> building report file
+21:09:26 -> exporting to pdf file
+21:09:26 -> Report prepared
+21:09:26 -> Done! Z:\app\pdf\c478b6cd.pdf
+21:10:35 -> call url: http://172.17.0.1/gran_caney/herramientas/impresora/impresora_new.php?origen=reportes/r_cxc_ana_ven_detalle&db=gran_caney&SERVERPATH=http://172.17.0.1/gran_caney/&letras=1&ID_M_CLIENTES=00114&FECHA_HASTA=2022-08-15&P1=7&P2=15&P3=30&P4=45&P5=60&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/gran_caney/&ID_M_CLIENTES=00114&TITULO=ANALISIS%20DE%20VENCIMIENTO%20DE%20CUENTAS%20POR%20COBRAR%20DETALLADO&FECHA_HASTA=2022-08-15&P1=7&P2=15&P3=30&P4=45&P5=60&compress=1&id_m_usuario=001230&viewer=1&title=ANALISIS%20DE%20VENCIMIENTO%20DE%20CUENTAS%20POR%20COBRAR%20DETALLADO
+21:10:36 -> get report format
+21:10:36 -> init templates
+21:10:36 -> init main report format
+21:10:36 -> Trying to save...
+21:10:36 -> Saving to Z:\app\tmp\87706c75\\opt\lampp\htdocs\gran_caney\reportes\r_cxc_ana_ven_detalle.fr3
+21:10:36 -> loading report
+21:10:36 -> set variables
+21:10:36 -> building report file
+21:10:36 -> exporting to pdf file
+21:10:36 -> Report prepared
+21:10:36 -> Done! Z:\app\pdf\87706c75.pdf
+21:13:07 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111018&compress=1&id_m_usuario=001983&viewer=1
+21:13:07 -> get report format
+21:13:07 -> init templates
+21:13:07 -> init main report format
+21:13:07 -> Trying to save...
+21:13:07 -> Saving to Z:\app\tmp\3b0dd994\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:13:07 -> loading report
+21:13:07 -> set variables
+21:13:07 -> building report file
+21:13:07 -> exporting to pdf file
+21:13:08 -> Report prepared
+21:13:08 -> Done! Z:\app\pdf\3b0dd994.pdf
+21:13:25 -> call url: http://172.17.0.1/gran_caney/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=gran_caney&SERVERPATH=http://172.17.0.1/gran_caney/&ID_M_DOCUMENTOS=001136&compress=0&id_m_usuario=001230&viewer=0
+21:13:25 -> get report format
+21:13:25 -> init templates
+21:13:25 -> init main report format
+21:13:25 -> Trying to save...
+21:13:25 -> Saving to Z:\app\tmp\7b1ad065\\opt\lampp\htdocs\gran_caney\reportes\r_documento_fact_carta_gra.fr3
+21:13:25 -> loading report
+21:13:25 -> set variables
+21:13:25 -> building report file
+21:13:25 -> exporting to pdf file
+21:13:25 -> Report prepared
+21:13:25 -> Done! Z:\app\pdf\7b1ad065.pdf
+21:13:52 -> call url: http://172.17.0.1/gran_caney/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=gran_caney&SERVERPATH=http://172.17.0.1/gran_caney/&ID_M_ARQUEOS=00116&ID_M_CAJAS=0011&compress=1&id_m_usuario=001230&viewer=1
+21:13:52 -> get report format
+21:13:52 -> init templates
+21:13:52 -> init main report format
+21:13:52 -> Trying to save...
+21:13:52 -> Saving to Z:\app\tmp\40086098\\opt\lampp\htdocs\gran_caney\reportes\r_arqueos.fr3
+21:13:52 -> loading report
+21:13:52 -> set variables
+21:13:53 -> building report file
+21:13:53 -> exporting to pdf file
+21:13:53 -> Report prepared
+21:13:53 -> Done! Z:\app\pdf\40086098.pdf
+21:15:11 -> call url: http://172.17.0.1/guarico_bkp/herramientas/impresora/impresora_new.php?origen=reportes/r_conciliacion&db=guarico_bkp&SERVERPATH=http://172.17.0.1/guarico_bkp/&letras=1&FECHA_CONCILIACION=2022-07-01&ID_M_CUENTAS_BANCARIAS=0014&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/guarico_bkp/&FECHA_CONCILIACION=2022-07-01&TITULO=CONCILIACION%20BANCARIA&ID_M_CUENTAS_BANCARIAS=0014&compress=1&id_m_usuario=00187&viewer=1&title=CONCILIACION%20BANCARIA
+21:18:20 -> get report format
+21:18:20 -> init templates
+21:18:20 -> init main report format
+21:18:20 -> Trying to save...
+21:18:20 -> Saving to Z:\app\tmp\c75dc9c8\\opt\lampp\htdocs\guarico_bkp\reportes\r_conciliacion.fr3
+21:18:20 -> loading report
+21:18:20 -> set variables
+21:18:20 -> building report file
+21:18:20 -> exporting to pdf file
+21:18:20 -> Report prepared
+21:18:20 -> Done! Z:\app\pdf\c75dc9c8.pdf
+21:19:24 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111020&compress=1&id_m_usuario=001964&viewer=1
+21:19:24 -> get report format
+21:19:24 -> init templates
+21:19:24 -> init main report format
+21:19:24 -> Trying to save...
+21:19:24 -> Saving to Z:\app\tmp\969a3400\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:19:24 -> loading report
+21:19:24 -> set variables
+21:19:24 -> building report file
+21:19:24 -> exporting to pdf file
+21:19:25 -> Report prepared
+21:19:25 -> Done! Z:\app\pdf\969a3400.pdf
+21:21:06 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111019&compress=1&id_m_usuario=001961&viewer=1
+21:21:06 -> get report format
+21:21:06 -> init templates
+21:21:06 -> init main report format
+21:21:06 -> Trying to save...
+21:21:06 -> Saving to Z:\app\tmp\5ba60802\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:21:06 -> loading report
+21:21:06 -> set variables
+21:21:06 -> building report file
+21:21:06 -> exporting to pdf file
+21:21:07 -> Report prepared
+21:21:07 -> Done! Z:\app\pdf\5ba60802.pdf
+21:21:30 -> call url: http://172.17.0.1/guarico_bkp/herramientas/impresora/impresora_new.php?origen=reportes/r_estado_cuenta_banco&db=guarico_bkp&SERVERPATH=http://172.17.0.1/guarico_bkp/&letras=1&XFILTRO1=0011&XFILTRO2=0014&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-10&TABLA=V_ESTADO_CUENTA_BANCO&NOMBRE_FILTRO1=BANCO&NOMBRE_FILTRO2=CUENTA&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/guarico_bkp/&XFILTRO1=0011&TITULO=ESTADO%20DE%20CUENTA%20-%20BANCOS&XFILTRO2=0014&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-10&TABLA=V_ESTADO_CUENTA_BANCO&NOMBRE_FILTRO1=BANCO&NOMBRE_FILTRO2=CUENTA&compress=1&id_m_usuario=00187&viewer=1&title=ESTADO%20DE%20CUENTA%20-%20BANCOS
+21:21:30 -> get report format
+21:21:30 -> init templates
+21:21:30 -> init main report format
+21:21:30 -> Trying to save...
+21:21:30 -> Saving to Z:\app\tmp\b1267da2\\opt\lampp\htdocs\guarico_bkp\reportes\r_estado_cuenta_banco.fr3
+21:21:30 -> loading report
+21:21:30 -> set variables
+21:21:30 -> building report file
+21:21:30 -> exporting to pdf file
+21:21:31 -> Report prepared
+21:21:31 -> Done! Z:\app\pdf\b1267da2.pdf
+21:21:53 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111021&compress=1&id_m_usuario=001983&viewer=1
+21:21:53 -> get report format
+21:21:53 -> init templates
+21:21:53 -> init main report format
+21:21:53 -> Trying to save...
+21:21:53 -> Saving to Z:\app\tmp\a5adb2dd\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:21:53 -> loading report
+21:21:53 -> set variables
+21:21:53 -> building report file
+21:21:53 -> exporting to pdf file
+21:21:54 -> Report prepared
+21:21:54 -> Done! Z:\app\pdf\a5adb2dd.pdf
+21:23:08 -> call url: http://172.17.0.1/guarico_bkp/herramientas/impresora/impresora_new.php?origen=reportes/r_pagos&db=guarico_bkp&SERVERPATH=http://172.17.0.1/guarico_bkp/&letras=1&ID_M_AUXILIARES=0017&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-10&TIPO_PAGO=RECIBIDO&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/guarico_bkp/&ID_M_AUXILIARES=0017&TITULO=PAGOS%20POR%20BANCO,%20CUENTA%20Y%20FORMA%20DE%20PAGO&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-10&TIPO_PAGO=RECIBIDO&compress=1&id_m_usuario=00187&viewer=1&title=PAGOS%20POR%20BANCO,%20CUENTA%20Y%20FORMA%20DE%20PAGO
+21:23:09 -> get report format
+21:23:09 -> init templates
+21:23:09 -> init main report format
+21:23:09 -> Trying to save...
+21:23:09 -> Saving to Z:\app\tmp\d2c50875\\opt\lampp\htdocs\guarico_bkp\reportes\r_pagos.fr3
+21:23:09 -> loading report
+21:23:09 -> set variables
+21:23:09 -> building report file
+21:23:09 -> exporting to pdf file
+21:23:14 -> Report prepared
+21:23:18 -> Done! Z:\app\pdf\d2c50875.pdf
+21:25:06 -> call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra_dolar&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_DOCUMENTOS=00329237&compress=1&id_m_usuario=001117&viewer=1
+21:25:07 -> get report format
+21:25:07 -> init templates
+21:25:07 -> init main report format
+21:25:07 -> Trying to save...
+21:25:07 -> Saving to Z:\app\tmp\2d0804c0\\opt\lampp\htdocs\inventario\reportes\r_documento_fact_carta_gra_dolar.fr3
+21:25:07 -> loading report
+21:25:07 -> set variables
+21:25:07 -> building report file
+21:25:07 -> exporting to pdf file
+21:25:07 -> Report prepared
+21:25:07 -> Done! Z:\app\pdf\2d0804c0.pdf
+21:25:14 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111023&compress=1&id_m_usuario=001983&viewer=1
+21:25:14 -> get report format
+21:25:14 -> init templates
+21:25:14 -> init main report format
+21:25:14 -> Trying to save...
+21:25:14 -> Saving to Z:\app\tmp\04302d33\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:25:14 -> loading report
+21:25:14 -> set variables
+21:25:14 -> building report file
+21:25:14 -> exporting to pdf file
+21:25:14 -> Report prepared
+21:25:14 -> Done! Z:\app\pdf\04302d33.pdf
+21:25:27 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111018&compress=0&id_m_usuario=0011115&viewer=0
+21:25:28 -> get report format
+21:25:28 -> init templates
+21:25:28 -> init main report format
+21:25:28 -> Trying to save...
+21:25:28 -> Saving to Z:\app\tmp\c067c69d\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:25:28 -> loading report
+21:25:28 -> set variables
+21:25:28 -> building report file
+21:25:28 -> exporting to pdf file
+21:25:28 -> Report prepared
+21:25:28 -> Done! Z:\app\pdf\c067c69d.pdf
+21:26:36 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110970&compress=0&id_m_usuario=0011115&viewer=0
+21:26:37 -> get report format
+21:26:37 -> init templates
+21:26:37 -> init main report format
+21:26:37 -> Trying to save...
+21:26:37 -> Saving to Z:\app\tmp\c403bd80\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:26:37 -> loading report
+21:26:37 -> set variables
+21:26:37 -> building report file
+21:26:37 -> exporting to pdf file
+21:26:37 -> Report prepared
+21:26:37 -> Done! Z:\app\pdf\c403bd80.pdf
+21:26:51 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111024&compress=1&id_m_usuario=001965&viewer=1
+21:26:51 -> get report format
+21:26:51 -> init templates
+21:26:51 -> init main report format
+21:26:51 -> Trying to save...
+21:26:51 -> Saving to Z:\app\tmp\bc034c1d\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:26:51 -> loading report
+21:26:51 -> set variables
+21:26:51 -> building report file
+21:26:51 -> exporting to pdf file
+21:26:51 -> Report prepared
+21:26:51 -> Done! Z:\app\pdf\bc034c1d.pdf
+21:27:11 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111021&compress=0&id_m_usuario=0011115&viewer=0
+21:27:11 -> get report format
+21:27:11 -> init templates
+21:27:11 -> init main report format
+21:27:11 -> Trying to save...
+21:27:11 -> Saving to Z:\app\tmp\07c02300\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:27:11 -> loading report
+21:27:11 -> set variables
+21:27:11 -> building report file
+21:27:11 -> exporting to pdf file
+21:27:11 -> Report prepared
+21:27:11 -> Done! Z:\app\pdf\07c02300.pdf
+21:27:14 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111022&compress=1&id_m_usuario=001947&viewer=1
+21:27:14 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111024&compress=0&id_m_usuario=001965&viewer=0
+21:27:14 -> get report format
+21:27:14 -> init templates
+21:27:14 -> init main report format
+21:27:14 -> Trying to save...
+21:27:14 -> Saving to Z:\app\tmp\0d71d9bc\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:27:14 -> loading report
+21:27:14 -> set variables
+21:27:14 -> building report file
+21:27:14 -> exporting to pdf file
+21:27:15 -> get report format
+21:27:15 -> init templates
+21:27:15 -> init main report format
+21:27:15 -> Trying to save...
+21:27:15 -> Saving to Z:\app\tmp\94bb30d5\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:27:15 -> loading report
+21:27:15 -> Report prepared
+21:27:15 -> set variables
+21:27:15 -> Done! Z:\app\pdf\0d71d9bc.pdf
+21:27:15 -> building report file
+21:27:15 -> exporting to pdf file
+21:27:15 -> Report prepared
+21:27:15 -> Done! Z:\app\pdf\94bb30d5.pdf
+21:28:01 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111023&compress=0&id_m_usuario=0011115&viewer=0
+21:28:02 -> get report format
+21:28:02 -> init templates
+21:28:02 -> init main report format
+21:28:02 -> Trying to save...
+21:28:02 -> Saving to Z:\app\tmp\56cbc415\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:28:02 -> loading report
+21:28:02 -> set variables
+21:28:02 -> building report file
+21:28:02 -> exporting to pdf file
+21:28:02 -> Report prepared
+21:28:02 -> Done! Z:\app\pdf\56cbc415.pdf
+21:28:20 -> call url: http://172.17.0.1/inventario/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra_dolar&db=inventario&SERVERPATH=http://172.17.0.1/inventario/&ID_M_DOCUMENTOS=00329090&compress=1&id_m_usuario=001117&viewer=1
+21:28:20 -> get report format
+21:28:20 -> init templates
+21:28:20 -> init main report format
+21:28:20 -> Trying to save...
+21:28:20 -> Saving to Z:\app\tmp\dcbb52a7\\opt\lampp\htdocs\inventario\reportes\r_documento_fact_carta_gra_dolar.fr3
+21:28:20 -> loading report
+21:28:20 -> set variables
+21:28:20 -> building report file
+21:28:20 -> exporting to pdf file
+21:28:21 -> Report prepared
+21:28:21 -> Done! Z:\app\pdf\dcbb52a7.pdf
+21:30:23 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012857&compress=0&id_m_usuario=001226&viewer=0
+21:30:23 -> get report format
+21:30:23 -> init templates
+21:30:23 -> init main report format
+21:30:23 -> Trying to save...
+21:30:23 -> Saving to Z:\app\tmp\adc627a5\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+21:30:23 -> loading report
+21:30:23 -> set variables
+21:30:23 -> building report file
+21:30:23 -> exporting to pdf file
+21:30:24 -> Report prepared
+21:30:24 -> Done! Z:\app\pdf\adc627a5.pdf
+21:32:17 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128876&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001212&viewer=0
+21:32:18 -> get report format
+21:32:18 -> init templates
+21:32:18 -> init main report format
+21:32:18 -> Trying to save...
+21:32:18 -> Saving to Z:\app\tmp\802d6076\\opt\lampp\htdocs\karizmi\reportes\r_pedido_ticket.fr3
+21:32:18 -> loading report
+21:32:18 -> set variables
+21:32:18 -> building report file
+21:32:18 -> exporting to pdf file
+21:32:18 -> Report prepared
+21:32:18 -> Done! Z:\app\pdf\802d6076.pdf
+21:35:29 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128877&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001212&viewer=0
+21:35:31 -> get report format
+21:35:31 -> init templates
+21:35:31 -> init main report format
+21:35:31 -> Trying to save...
+21:35:31 -> Saving to Z:\app\tmp\6a2c8042\\opt\lampp\htdocs\karizmi\reportes\r_pedido_ticket.fr3
+21:35:31 -> loading report
+21:35:31 -> set variables
+21:35:31 -> building report file
+21:35:31 -> exporting to pdf file
+21:35:31 -> Report prepared
+21:35:31 -> Done! Z:\app\pdf\6a2c8042.pdf
+21:40:28 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128878&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001208&viewer=0
+21:40:30 -> get report format
+21:40:30 -> init templates
+21:40:30 -> init main report format
+21:40:30 -> Trying to save...
+21:40:30 -> Saving to Z:\app\tmp\3b2ad575\\opt\lampp\htdocs\karizmi\reportes\r_pedido_ticket.fr3
+21:40:30 -> loading report
+21:40:30 -> set variables
+21:40:30 -> building report file
+21:40:30 -> exporting to pdf file
+21:40:30 -> Report prepared
+21:40:30 -> Done! Z:\app\pdf\3b2ad575.pdf
+21:44:43 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111025&compress=1&id_m_usuario=001955&viewer=1
+21:44:43 -> get report format
+21:44:43 -> init templates
+21:44:43 -> init main report format
+21:44:43 -> Trying to save...
+21:44:43 -> Saving to Z:\app\tmp\35817d32\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:44:43 -> loading report
+21:44:43 -> set variables
+21:44:43 -> building report file
+21:44:43 -> exporting to pdf file
+21:44:44 -> Report prepared
+21:44:44 -> Done! Z:\app\pdf\35817d32.pdf
+21:46:50 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128880&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001212&viewer=0
+21:46:52 -> get report format
+21:46:52 -> init templates
+21:46:52 -> init main report format
+21:46:52 -> Trying to save...
+21:46:52 -> Saving to Z:\app\tmp\48588d94\\opt\lampp\htdocs\karizmi\reportes\r_pedido_ticket.fr3
+21:46:52 -> loading report
+21:46:52 -> set variables
+21:46:52 -> building report file
+21:46:52 -> exporting to pdf file
+21:46:52 -> Report prepared
+21:46:52 -> Done! Z:\app\pdf\48588d94.pdf
+21:53:51 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111026&compress=1&id_m_usuario=001953&viewer=1
+21:53:51 -> get report format
+21:53:51 -> init templates
+21:53:51 -> init main report format
+21:53:51 -> Trying to save...
+21:53:51 -> Saving to Z:\app\tmp\81b3d882\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:53:51 -> loading report
+21:53:51 -> set variables
+21:53:51 -> building report file
+21:53:51 -> exporting to pdf file
+21:53:52 -> Report prepared
+21:53:52 -> Done! Z:\app\pdf\81b3d882.pdf
+21:54:47 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110917&compress=0&id_m_usuario=0011115&viewer=0
+21:54:48 -> get report format
+21:54:48 -> init templates
+21:54:48 -> init main report format
+21:54:48 -> Trying to save...
+21:54:48 -> Saving to Z:\app\tmp\cd570ab5\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:54:48 -> loading report
+21:54:48 -> set variables
+21:54:48 -> building report file
+21:54:48 -> exporting to pdf file
+21:54:48 -> Report prepared
+21:54:48 -> Done! Z:\app\pdf\cd570ab5.pdf
+21:55:22 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110972&compress=0&id_m_usuario=0011115&viewer=0
+21:55:23 -> get report format
+21:55:23 -> init templates
+21:55:23 -> init main report format
+21:55:23 -> Trying to save...
+21:55:23 -> Saving to Z:\app\tmp\b0bb2466\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:55:23 -> loading report
+21:55:23 -> set variables
+21:55:23 -> building report file
+21:55:23 -> exporting to pdf file
+21:55:23 -> Report prepared
+21:55:23 -> Done! Z:\app\pdf\b0bb2466.pdf
+21:56:05 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111000&compress=0&id_m_usuario=0011115&viewer=0
+21:56:05 -> get report format
+21:56:05 -> init templates
+21:56:05 -> init main report format
+21:56:05 -> Trying to save...
+21:56:05 -> Saving to Z:\app\tmp\a1d226a5\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:56:05 -> loading report
+21:56:05 -> set variables
+21:56:05 -> building report file
+21:56:05 -> exporting to pdf file
+21:56:05 -> Report prepared
+21:56:05 -> Done! Z:\app\pdf\a1d226a5.pdf
+21:56:43 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111000&letras=1&compress=0&id_m_usuario=0011115&viewer=1
+21:56:43 -> get report format
+21:56:43 -> init templates
+21:56:43 -> init main report format
+21:56:43 -> Trying to save...
+21:56:43 -> Saving to Z:\app\tmp\b1905ad9\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:56:43 -> loading report
+21:56:43 -> set variables
+21:56:43 -> building report file
+21:56:43 -> exporting to pdf file
+21:56:43 -> Report prepared
+21:56:43 -> Done! Z:\app\pdf\b1905ad9.pdf
+21:57:11 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110972&letras=1&compress=0&id_m_usuario=0011115&viewer=1
+21:57:12 -> get report format
+21:57:12 -> init templates
+21:57:12 -> init main report format
+21:57:12 -> Trying to save...
+21:57:12 -> Saving to Z:\app\tmp\83007416\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:57:12 -> loading report
+21:57:12 -> set variables
+21:57:12 -> building report file
+21:57:12 -> exporting to pdf file
+21:57:12 -> Report prepared
+21:57:12 -> Done! Z:\app\pdf\83007416.pdf
+21:57:51 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111004&letras=1&compress=0&id_m_usuario=0011115&viewer=1
+21:57:51 -> get report format
+21:57:51 -> init templates
+21:57:51 -> init main report format
+21:57:51 -> Trying to save...
+21:57:51 -> Saving to Z:\app\tmp\5281c29d\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:57:51 -> loading report
+21:57:51 -> set variables
+21:57:51 -> building report file
+21:57:51 -> exporting to pdf file
+21:57:52 -> Report prepared
+21:57:52 -> Done! Z:\app\pdf\5281c29d.pdf
+21:58:08 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111004&letras=1&compress=0&id_m_usuario=0011115&viewer=0
+21:58:08 -> get report format
+21:58:08 -> init templates
+21:58:08 -> init main report format
+21:58:08 -> Trying to save...
+21:58:08 -> Saving to Z:\app\tmp\c3720273\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:58:08 -> loading report
+21:58:08 -> set variables
+21:58:08 -> building report file
+21:58:08 -> exporting to pdf file
+21:58:09 -> Report prepared
+21:58:09 -> Done! Z:\app\pdf\c3720273.pdf
+21:58:47 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110995&letras=1&compress=0&id_m_usuario=0011115&viewer=0
+21:58:47 -> get report format
+21:58:47 -> init templates
+21:58:47 -> init main report format
+21:58:47 -> Trying to save...
+21:58:47 -> Saving to Z:\app\tmp\1a0aa88d\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+21:58:47 -> loading report
+21:58:47 -> set variables
+21:58:47 -> building report file
+21:58:47 -> exporting to pdf file
+21:58:47 -> Report prepared
+21:58:47 -> Done! Z:\app\pdf\1a0aa88d.pdf
+21:59:07 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00110995&letras=1&compress=0&id_m_usuario=0011115&viewer=1
+21:59:08 -> get report format
+21:59:08 -> init templates
+21:59:08 -> init main report format
+21:59:08 -> Trying to save...
+21:59:08 -> Saving to Z:\app\tmp\aca6274c\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:59:08 -> loading report
+21:59:08 -> set variables
+21:59:08 -> building report file
+21:59:08 -> exporting to pdf file
+21:59:08 -> Report prepared
+21:59:08 -> Done! Z:\app\pdf\aca6274c.pdf
+21:59:42 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111023&letras=1&compress=0&id_m_usuario=0011115&viewer=1
+21:59:43 -> get report format
+21:59:43 -> init templates
+21:59:43 -> init main report format
+21:59:43 -> Trying to save...
+21:59:43 -> Saving to Z:\app\tmp\5363632a\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+21:59:43 -> loading report
+21:59:43 -> set variables
+21:59:43 -> building report file
+21:59:43 -> exporting to pdf file
+21:59:43 -> Report prepared
+21:59:43 -> Done! Z:\app\pdf\5363632a.pdf
+22:00:01 -> call url: http://172.17.0.1/guarico_bkp/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_carga&db=guarico_bkp&SERVERPATH=http://172.17.0.1/guarico_bkp/&ID_M_PEDIDOS=0013959&TITULO=ORDEN%20DE%20CARGA&letras=1&compress=1&id_m_usuario=00188&viewer=1
+22:00:01 -> get report format
+22:00:01 -> init templates
+22:00:01 -> init main report format
+22:00:01 -> Trying to save...
+22:00:01 -> Saving to Z:\app\tmp\1a0503dc\\opt\lampp\htdocs\guarico_bkp\reportes\r_orden_carga.fr3
+22:00:01 -> loading report
+22:00:01 -> set variables
+22:00:01 -> building report file
+22:00:01 -> exporting to pdf file
+22:00:02 -> Report prepared
+22:00:02 -> Done! Z:\app\pdf\1a0503dc.pdf
+22:01:25 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111028&compress=1&id_m_usuario=001981&viewer=1
+22:01:26 -> get report format
+22:01:26 -> init templates
+22:01:26 -> init main report format
+22:01:26 -> Trying to save...
+22:01:26 -> Saving to Z:\app\tmp\107c141b\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:01:26 -> loading report
+22:01:26 -> set variables
+22:01:26 -> building report file
+22:01:26 -> exporting to pdf file
+22:01:26 -> Report prepared
+22:01:26 -> Done! Z:\app\pdf\107c141b.pdf
+22:03:20 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111029&compress=1&id_m_usuario=0011094&viewer=1
+22:03:20 -> get report format
+22:03:20 -> init templates
+22:03:20 -> init main report format
+22:03:20 -> Trying to save...
+22:03:20 -> Saving to Z:\app\tmp\a3b31072\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:03:20 -> loading report
+22:03:20 -> set variables
+22:03:20 -> building report file
+22:03:20 -> exporting to pdf file
+22:03:21 -> Report prepared
+22:03:21 -> Done! Z:\app\pdf\a3b31072.pdf
+22:04:57 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128880&compress=1&id_m_usuario=001208&viewer=1
+22:04:57 -> get report format
+22:04:57 -> init templates
+22:04:57 -> init main report format
+22:04:57 -> Trying to save...
+22:04:57 -> Saving to Z:\app\tmp\30d425a1\\opt\lampp\htdocs\karizmi\reportes\r_orden_entrega.fr3
+22:04:57 -> loading report
+22:04:57 -> set variables
+22:04:57 -> building report file
+22:04:57 -> exporting to pdf file
+22:04:58 -> Report prepared
+22:04:58 -> Done! Z:\app\pdf\30d425a1.pdf
+22:06:53 -> call url: http://172.17.0.1/compumarket/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=compumarket&SERVERPATH=http://172.17.0.1/compumarket/&ID_M_ARQUEOS=0017&ID_M_CAJAS=0011&compress=1&id_m_usuario=001221&viewer=1
+22:06:54 -> get report format
+22:06:54 -> init templates
+22:06:54 -> init main report format
+22:06:54 -> Trying to save...
+22:06:54 -> Saving to Z:\app\tmp\099d6c33\\opt\lampp\htdocs\compumarket\reportes\r_arqueos.fr3
+22:06:54 -> loading report
+22:06:54 -> set variables
+22:06:54 -> building report file
+22:06:54 -> exporting to pdf file
+22:06:54 -> Report prepared
+22:06:54 -> Done! Z:\app\pdf\099d6c33.pdf
+22:09:19 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111031&compress=1&id_m_usuario=001947&viewer=1
+22:09:19 -> get report format
+22:09:19 -> init templates
+22:09:19 -> init main report format
+22:09:19 -> Trying to save...
+22:09:19 -> Saving to Z:\app\tmp\53b3b941\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:09:19 -> loading report
+22:09:19 -> set variables
+22:09:19 -> building report file
+22:09:19 -> exporting to pdf file
+22:09:20 -> Report prepared
+22:09:20 -> Done! Z:\app\pdf\53b3b941.pdf
+22:11:32 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012861&compress=0&id_m_usuario=001226&viewer=0
+22:11:32 -> get report format
+22:11:32 -> init templates
+22:11:32 -> init main report format
+22:11:32 -> Trying to save...
+22:11:32 -> Saving to Z:\app\tmp\5060a810\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+22:11:32 -> loading report
+22:11:32 -> set variables
+22:11:32 -> building report file
+22:11:32 -> exporting to pdf file
+22:11:32 -> Report prepared
+22:11:32 -> Done! Z:\app\pdf\5060a810.pdf
+22:12:23 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111033&compress=1&id_m_usuario=0011043&viewer=1
+22:12:24 -> get report format
+22:12:24 -> init templates
+22:12:24 -> init main report format
+22:12:24 -> Trying to save...
+22:12:24 -> Saving to Z:\app\tmp\d50c6c29\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:12:24 -> loading report
+22:12:24 -> set variables
+22:12:24 -> building report file
+22:12:24 -> exporting to pdf file
+22:12:24 -> Report prepared
+22:12:24 -> Done! Z:\app\pdf\d50c6c29.pdf
+22:16:19 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111035&compress=1&id_m_usuario=001983&viewer=1
+22:16:19 -> get report format
+22:16:19 -> init templates
+22:16:19 -> init main report format
+22:16:19 -> Trying to save...
+22:16:19 -> Saving to Z:\app\tmp\8300d70c\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:16:19 -> loading report
+22:16:19 -> set variables
+22:16:19 -> building report file
+22:16:19 -> exporting to pdf file
+22:16:20 -> Report prepared
+22:16:20 -> Done! Z:\app\pdf\8300d70c.pdf
+22:16:57 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111035&letras=1&compress=0&id_m_usuario=0011115&viewer=0
+22:16:57 -> get report format
+22:16:57 -> init templates
+22:16:57 -> init main report format
+22:16:57 -> Trying to save...
+22:16:57 -> Saving to Z:\app\tmp\c0c04430\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:16:57 -> loading report
+22:16:57 -> set variables
+22:16:57 -> building report file
+22:16:57 -> exporting to pdf file
+22:16:57 -> Report prepared
+22:16:57 -> Done! Z:\app\pdf\c0c04430.pdf
+22:17:46 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110480&compress=1&id_m_usuario=0011094&viewer=1
+22:17:46 -> get report format
+22:17:46 -> init templates
+22:17:46 -> init main report format
+22:17:46 -> Trying to save...
+22:17:46 -> Saving to Z:\app\tmp\814c9697\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:17:46 -> loading report
+22:17:46 -> set variables
+22:17:46 -> building report file
+22:17:46 -> exporting to pdf file
+22:17:46 -> Report prepared
+22:17:46 -> Done! Z:\app\pdf\814c9697.pdf
+22:18:17 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111027&compress=1&id_m_usuario=0011017&viewer=1
+22:18:17 -> get report format
+22:18:17 -> init templates
+22:18:17 -> init main report format
+22:18:17 -> Trying to save...
+22:18:17 -> Saving to Z:\app\tmp\39b80092\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:18:17 -> loading report
+22:18:17 -> set variables
+22:18:17 -> building report file
+22:18:17 -> exporting to pdf file
+22:18:18 -> Report prepared
+22:18:18 -> Done! Z:\app\pdf\39b80092.pdf
+22:19:09 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128877&compress=1&id_m_usuario=001208&viewer=1
+22:19:10 -> get report format
+22:19:10 -> init templates
+22:19:10 -> init main report format
+22:19:10 -> Trying to save...
+22:19:10 -> Saving to Z:\app\tmp\c2930cb3\\opt\lampp\htdocs\karizmi\reportes\r_orden_entrega.fr3
+22:19:10 -> loading report
+22:19:10 -> set variables
+22:19:10 -> building report file
+22:19:10 -> exporting to pdf file
+22:19:10 -> Report prepared
+22:19:10 -> Done! Z:\app\pdf\c2930cb3.pdf
+22:21:56 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111038&compress=1&id_m_usuario=001981&viewer=1
+22:21:56 -> get report format
+22:21:56 -> init templates
+22:21:56 -> init main report format
+22:21:56 -> Trying to save...
+22:21:56 -> Saving to Z:\app\tmp\a5198532\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:21:56 -> loading report
+22:21:56 -> set variables
+22:21:56 -> building report file
+22:21:56 -> exporting to pdf file
+22:21:57 -> Report prepared
+22:21:57 -> Done! Z:\app\pdf\a5198532.pdf
+22:24:13 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111030&compress=0&id_m_usuario=0011033&viewer=0
+22:24:13 -> get report format
+22:24:13 -> init templates
+22:24:13 -> init main report format
+22:24:13 -> Trying to save...
+22:24:13 -> Saving to Z:\app\tmp\9a3aacdc\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:24:13 -> loading report
+22:24:13 -> set variables
+22:24:13 -> building report file
+22:24:13 -> exporting to pdf file
+22:24:13 -> Report prepared
+22:24:13 -> Done! Z:\app\pdf\9a3aacdc.pdf
+22:25:02 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111034&compress=0&id_m_usuario=0011033&viewer=0
+22:25:02 -> get report format
+22:25:02 -> init templates
+22:25:02 -> init main report format
+22:25:02 -> Trying to save...
+22:25:02 -> Saving to Z:\app\tmp\a39697ab\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:25:02 -> loading report
+22:25:02 -> set variables
+22:25:02 -> building report file
+22:25:02 -> exporting to pdf file
+22:25:02 -> Report prepared
+22:25:02 -> Done! Z:\app\pdf\a39697ab.pdf
+22:25:04 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111041&compress=0&id_m_usuario=001943&viewer=0
+22:25:04 -> get report format
+22:25:04 -> init templates
+22:25:04 -> init main report format
+22:25:04 -> Trying to save...
+22:25:04 -> Saving to Z:\app\tmp\1195c095\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:25:04 -> loading report
+22:25:04 -> set variables
+22:25:04 -> building report file
+22:25:04 -> exporting to pdf file
+22:25:05 -> Report prepared
+22:25:05 -> Done! Z:\app\pdf\1195c095.pdf
+22:25:25 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111041&compress=0&id_m_usuario=001943&viewer=1
+22:25:25 -> get report format
+22:25:25 -> init templates
+22:25:25 -> init main report format
+22:25:25 -> Trying to save...
+22:25:25 -> Saving to Z:\app\tmp\530971a1\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:25:25 -> loading report
+22:25:25 -> set variables
+22:25:25 -> building report file
+22:25:25 -> exporting to pdf file
+22:25:25 -> Report prepared
+22:25:26 -> Done! Z:\app\pdf\530971a1.pdf
+22:25:38 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111036&compress=0&id_m_usuario=0011033&viewer=0
+22:25:39 -> get report format
+22:25:39 -> init templates
+22:25:39 -> init main report format
+22:25:39 -> Trying to save...
+22:25:39 -> Saving to Z:\app\tmp\03410728\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:25:39 -> loading report
+22:25:39 -> set variables
+22:25:39 -> building report file
+22:25:39 -> exporting to pdf file
+22:25:39 -> Report prepared
+22:25:39 -> Done! Z:\app\pdf\03410728.pdf
+22:26:13 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111042&compress=1&id_m_usuario=0011043&viewer=1
+22:26:13 -> get report format
+22:26:13 -> init templates
+22:26:13 -> init main report format
+22:26:13 -> Trying to save...
+22:26:13 -> Saving to Z:\app\tmp\b03ba5cb\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:26:13 -> loading report
+22:26:13 -> set variables
+22:26:13 -> building report file
+22:26:13 -> exporting to pdf file
+22:26:14 -> Report prepared
+22:26:14 -> Done! Z:\app\pdf\b03ba5cb.pdf
+22:26:19 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111037&compress=0&id_m_usuario=0011033&viewer=0
+22:26:20 -> get report format
+22:26:20 -> init templates
+22:26:20 -> init main report format
+22:26:20 -> Trying to save...
+22:26:20 -> Saving to Z:\app\tmp\011782b5\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:26:20 -> loading report
+22:26:20 -> set variables
+22:26:20 -> building report file
+22:26:20 -> exporting to pdf file
+22:26:20 -> Report prepared
+22:26:20 -> Done! Z:\app\pdf\011782b5.pdf
+22:26:47 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111039&compress=0&id_m_usuario=0011033&viewer=0
+22:26:47 -> get report format
+22:26:47 -> init templates
+22:26:47 -> init main report format
+22:26:47 -> Trying to save...
+22:26:47 -> Saving to Z:\app\tmp\704d717b\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:26:47 -> loading report
+22:26:47 -> set variables
+22:26:47 -> building report file
+22:26:47 -> exporting to pdf file
+22:26:47 -> Report prepared
+22:26:47 -> Done! Z:\app\pdf\704d717b.pdf
+22:27:49 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111040&compress=0&id_m_usuario=0011033&viewer=0
+22:27:49 -> get report format
+22:27:49 -> init templates
+22:27:49 -> init main report format
+22:27:49 -> Trying to save...
+22:27:49 -> Saving to Z:\app\tmp\74cb1395\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:27:49 -> loading report
+22:27:49 -> set variables
+22:27:49 -> building report file
+22:27:49 -> exporting to pdf file
+22:27:49 -> Report prepared
+22:27:49 -> Done! Z:\app\pdf\74cb1395.pdf
+22:28:47 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012833&compress=1&id_m_usuario=001226&viewer=1
+22:28:47 -> get report format
+22:28:47 -> init templates
+22:28:47 -> init main report format
+22:28:47 -> Trying to save...
+22:28:47 -> Saving to Z:\app\tmp\2a708b19\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+22:28:47 -> loading report
+22:28:47 -> set variables
+22:28:47 -> building report file
+22:28:47 -> exporting to pdf file
+22:28:47 -> Report prepared
+22:28:47 -> Done! Z:\app\pdf\2a708b19.pdf
+22:31:12 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111043&compress=1&id_m_usuario=001931&viewer=1
+22:31:13 -> get report format
+22:31:13 -> init templates
+22:31:13 -> init main report format
+22:31:13 -> Trying to save...
+22:31:13 -> Saving to Z:\app\tmp\777dcba7\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:31:13 -> loading report
+22:31:13 -> set variables
+22:31:13 -> building report file
+22:31:13 -> exporting to pdf file
+22:31:13 -> Report prepared
+22:31:13 -> Done! Z:\app\pdf\777dcba7.pdf
+22:31:48 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111044&compress=1&id_m_usuario=0011100&viewer=1
+22:31:49 -> get report format
+22:31:49 -> init templates
+22:31:49 -> init main report format
+22:31:49 -> Trying to save...
+22:31:49 -> Saving to Z:\app\tmp\040723a5\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:31:49 -> loading report
+22:31:49 -> set variables
+22:31:49 -> building report file
+22:31:49 -> exporting to pdf file
+22:31:50 -> Report prepared
+22:31:50 -> Done! Z:\app\pdf\040723a5.pdf
+22:34:31 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111045&compress=1&id_m_usuario=0011100&viewer=1
+22:34:32 -> get report format
+22:34:32 -> init templates
+22:34:32 -> init main report format
+22:34:32 -> Trying to save...
+22:34:32 -> Saving to Z:\app\tmp\0d586304\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:34:32 -> loading report
+22:34:32 -> set variables
+22:34:32 -> building report file
+22:34:32 -> exporting to pdf file
+22:34:32 -> Report prepared
+22:34:33 -> Done! Z:\app\pdf\0d586304.pdf
+22:37:49 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111046&compress=1&id_m_usuario=0011100&viewer=1
+22:37:50 -> get report format
+22:37:50 -> init templates
+22:37:50 -> init main report format
+22:37:50 -> Trying to save...
+22:37:50 -> Saving to Z:\app\tmp\1b7bd084\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:37:50 -> loading report
+22:37:50 -> set variables
+22:37:50 -> building report file
+22:37:50 -> exporting to pdf file
+22:37:51 -> Report prepared
+22:37:51 -> Done! Z:\app\pdf\1b7bd084.pdf
+22:39:56 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128877&compress=1&id_m_usuario=001208&viewer=1
+22:39:57 -> get report format
+22:39:57 -> init templates
+22:39:57 -> init main report format
+22:39:57 -> Trying to save...
+22:39:57 -> Saving to Z:\app\tmp\8b923a28\\opt\lampp\htdocs\karizmi\reportes\r_orden_entrega.fr3
+22:39:57 -> loading report
+22:39:57 -> set variables
+22:39:57 -> building report file
+22:39:57 -> exporting to pdf file
+22:39:57 -> Report prepared
+22:39:57 -> Done! Z:\app\pdf\8b923a28.pdf
+22:41:41 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111047&compress=1&id_m_usuario=0011100&viewer=1
+22:41:42 -> get report format
+22:41:42 -> init templates
+22:41:42 -> init main report format
+22:41:42 -> Trying to save...
+22:41:42 -> Saving to Z:\app\tmp\107c2685\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:41:42 -> loading report
+22:41:42 -> set variables
+22:41:42 -> building report file
+22:41:42 -> exporting to pdf file
+22:41:43 -> Report prepared
+22:41:43 -> Done! Z:\app\pdf\107c2685.pdf
+22:41:51 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128876&compress=1&id_m_usuario=001208&viewer=1
+22:41:52 -> get report format
+22:41:52 -> init templates
+22:41:52 -> init main report format
+22:41:52 -> Trying to save...
+22:41:52 -> Saving to Z:\app\tmp\a2ca0b09\\opt\lampp\htdocs\karizmi\reportes\r_orden_entrega.fr3
+22:41:52 -> loading report
+22:41:52 -> set variables
+22:41:52 -> building report file
+22:41:52 -> exporting to pdf file
+22:41:52 -> Report prepared
+22:41:52 -> Done! Z:\app\pdf\a2ca0b09.pdf
+22:45:23 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111048&compress=1&id_m_usuario=0011100&viewer=1
+22:45:24 -> get report format
+22:45:24 -> init templates
+22:45:24 -> init main report format
+22:45:24 -> Trying to save...
+22:45:24 -> Saving to Z:\app\tmp\a8b3a09c\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:45:24 -> loading report
+22:45:24 -> set variables
+22:45:24 -> building report file
+22:45:24 -> exporting to pdf file
+22:45:25 -> Report prepared
+22:45:25 -> Done! Z:\app\pdf\a8b3a09c.pdf
+22:48:03 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128881&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001208&viewer=0
+22:48:06 -> get report format
+22:48:06 -> init templates
+22:48:06 -> init main report format
+22:48:06 -> Trying to save...
+22:48:06 -> Saving to Z:\app\tmp\9c60cc14\\opt\lampp\htdocs\karizmi\reportes\r_pedido_ticket.fr3
+22:48:06 -> loading report
+22:48:06 -> set variables
+22:48:06 -> building report file
+22:48:06 -> exporting to pdf file
+22:48:06 -> Report prepared
+22:48:06 -> Done! Z:\app\pdf\9c60cc14.pdf
+22:48:13 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128881&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001208&viewer=0
+22:48:16 -> get report format
+22:48:16 -> init templates
+22:48:16 -> init main report format
+22:48:16 -> Trying to save...
+22:48:16 -> Saving to Z:\app\tmp\2236a196\\opt\lampp\htdocs\karizmi\reportes\r_pedido_ticket.fr3
+22:48:16 -> loading report
+22:48:16 -> set variables
+22:48:16 -> building report file
+22:48:16 -> exporting to pdf file
+22:48:16 -> Report prepared
+22:48:17 -> Done! Z:\app\pdf\2236a196.pdf
+22:48:56 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128881&compress=1&id_m_usuario=001208&viewer=1
+22:48:57 -> get report format
+22:48:57 -> init templates
+22:48:57 -> init main report format
+22:48:57 -> Trying to save...
+22:48:57 -> Saving to Z:\app\tmp\3639a8cb\\opt\lampp\htdocs\karizmi\reportes\r_orden_entrega.fr3
+22:48:57 -> loading report
+22:48:57 -> set variables
+22:48:57 -> building report file
+22:48:57 -> exporting to pdf file
+22:48:57 -> Report prepared
+22:48:57 -> Done! Z:\app\pdf\3639a8cb.pdf
+22:51:19 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111049&compress=1&id_m_usuario=0011100&viewer=1
+22:51:20 -> get report format
+22:51:20 -> init templates
+22:51:20 -> init main report format
+22:51:20 -> Trying to save...
+22:51:20 -> Saving to Z:\app\tmp\9dc81716\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:51:20 -> loading report
+22:51:20 -> set variables
+22:51:20 -> building report file
+22:51:20 -> exporting to pdf file
+22:51:21 -> Report prepared
+22:51:21 -> Done! Z:\app\pdf\9dc81716.pdf
+22:53:40 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128877&compress=1&id_m_usuario=001208&viewer=1
+22:53:41 -> get report format
+22:53:41 -> init templates
+22:53:41 -> init main report format
+22:53:41 -> Trying to save...
+22:53:41 -> Saving to Z:\app\tmp\3818d6ac\\opt\lampp\htdocs\karizmi\reportes\r_orden_entrega.fr3
+22:53:41 -> loading report
+22:53:41 -> set variables
+22:53:41 -> building report file
+22:53:41 -> exporting to pdf file
+22:53:41 -> Report prepared
+22:53:42 -> Done! Z:\app\pdf\3818d6ac.pdf
+22:55:00 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111050&compress=1&id_m_usuario=0011100&viewer=1
+22:55:01 -> get report format
+22:55:01 -> init templates
+22:55:01 -> init main report format
+22:55:01 -> Trying to save...
+22:55:01 -> Saving to Z:\app\tmp\d1d41a97\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:55:01 -> loading report
+22:55:01 -> set variables
+22:55:01 -> building report file
+22:55:01 -> exporting to pdf file
+22:55:02 -> Report prepared
+22:55:02 -> Done! Z:\app\pdf\d1d41a97.pdf
+22:57:56 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111051&compress=1&id_m_usuario=0011100&viewer=1
+22:57:57 -> get report format
+22:57:57 -> init templates
+22:57:57 -> init main report format
+22:57:57 -> Trying to save...
+22:57:57 -> Saving to Z:\app\tmp\370d25c9\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:57:57 -> loading report
+22:57:57 -> set variables
+22:57:57 -> building report file
+22:57:57 -> exporting to pdf file
+22:57:57 -> Report prepared
+22:57:57 -> Done! Z:\app\pdf\370d25c9.pdf
+22:58:03 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111052&compress=1&id_m_usuario=001951&viewer=1
+22:58:04 -> get report format
+22:58:04 -> init templates
+22:58:04 -> init main report format
+22:58:04 -> Trying to save...
+22:58:04 -> Saving to Z:\app\tmp\9ba37baa\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:58:04 -> loading report
+22:58:04 -> set variables
+22:58:04 -> building report file
+22:58:04 -> exporting to pdf file
+22:58:05 -> Report prepared
+22:58:05 -> Done! Z:\app\pdf\9ba37baa.pdf
+22:58:06 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110988&compress=1&id_m_usuario=0011115&viewer=1
+22:58:07 -> get report format
+22:58:07 -> init templates
+22:58:07 -> init main report format
+22:58:07 -> Trying to save...
+22:58:07 -> Saving to Z:\app\tmp\4601d079\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:58:07 -> loading report
+22:58:07 -> set variables
+22:58:07 -> building report file
+22:58:07 -> exporting to pdf file
+22:58:07 -> Report prepared
+22:58:07 -> Done! Z:\app\pdf\4601d079.pdf
+22:58:38 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111052&compress=0&id_m_usuario=001951&viewer=0
+22:58:39 -> get report format
+22:58:39 -> init templates
+22:58:39 -> init main report format
+22:58:39 -> Trying to save...
+22:58:39 -> Saving to Z:\app\tmp\2897b2ab\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+22:58:39 -> loading report
+22:58:39 -> set variables
+22:58:39 -> building report file
+22:58:39 -> exporting to pdf file
+22:58:39 -> Report prepared
+22:58:39 -> Done! Z:\app\pdf\2897b2ab.pdf
+22:58:57 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110985&compress=1&id_m_usuario=0011115&viewer=1
+22:58:58 -> get report format
+22:58:58 -> init templates
+22:58:58 -> init main report format
+22:58:58 -> Trying to save...
+22:58:58 -> Saving to Z:\app\tmp\9388d680\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:58:58 -> loading report
+22:58:58 -> set variables
+22:58:58 -> building report file
+22:58:58 -> exporting to pdf file
+22:58:58 -> Report prepared
+22:58:59 -> Done! Z:\app\pdf\9388d680.pdf
+22:59:26 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110990&compress=1&id_m_usuario=0011115&viewer=1
+22:59:27 -> get report format
+22:59:27 -> init templates
+22:59:27 -> init main report format
+22:59:27 -> Trying to save...
+22:59:27 -> Saving to Z:\app\tmp\b360a2a8\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:59:27 -> loading report
+22:59:27 -> set variables
+22:59:27 -> building report file
+22:59:27 -> exporting to pdf file
+22:59:27 -> Report prepared
+22:59:27 -> Done! Z:\app\pdf\b360a2a8.pdf
+22:59:28 -> call url: http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128882&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001212&viewer=0
+22:59:31 -> get report format
+22:59:31 -> init templates
+22:59:31 -> init main report format
+22:59:31 -> Trying to save...
+22:59:31 -> Saving to Z:\app\tmp\0c029524\\opt\lampp\htdocs\karizmi\reportes\r_pedido_ticket.fr3
+22:59:31 -> loading report
+22:59:31 -> set variables
+22:59:31 -> building report file
+22:59:31 -> exporting to pdf file
+22:59:31 -> Report prepared
+22:59:31 -> Done! Z:\app\pdf\0c029524.pdf
+22:59:45 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110987&compress=1&id_m_usuario=0011115&viewer=1
+22:59:46 -> get report format
+22:59:46 -> init templates
+22:59:46 -> init main report format
+22:59:46 -> Trying to save...
+22:59:46 -> Saving to Z:\app\tmp\34a59609\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+22:59:46 -> loading report
+22:59:46 -> set variables
+22:59:46 -> building report file
+22:59:46 -> exporting to pdf file
+22:59:46 -> Report prepared
+22:59:47 -> Done! Z:\app\pdf\34a59609.pdf
+23:00:23 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012866&compress=0&id_m_usuario=001226&viewer=0
+23:00:24 -> get report format
+23:00:24 -> init templates
+23:00:24 -> init main report format
+23:00:24 -> Trying to save...
+23:00:24 -> Saving to Z:\app\tmp\cbdac005\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+23:00:24 -> loading report
+23:00:24 -> set variables
+23:00:24 -> building report file
+23:00:24 -> exporting to pdf file
+23:00:24 -> Report prepared
+23:00:25 -> Done! Z:\app\pdf\cbdac005.pdf
+23:00:30 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110973&compress=1&id_m_usuario=0011115&viewer=1
+23:00:31 -> get report format
+23:00:31 -> init templates
+23:00:31 -> init main report format
+23:00:31 -> Trying to save...
+23:00:31 -> Saving to Z:\app\tmp\406c7680\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:00:31 -> loading report
+23:00:31 -> set variables
+23:00:31 -> building report file
+23:00:31 -> exporting to pdf file
+23:00:33 -> Report prepared
+23:00:33 -> Done! Z:\app\pdf\406c7680.pdf
+23:01:54 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110982&compress=0&id_m_usuario=0011115&viewer=0
+23:01:55 -> get report format
+23:01:55 -> init templates
+23:01:55 -> init main report format
+23:01:55 -> Trying to save...
+23:01:55 -> Saving to Z:\app\tmp\790805aa\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:01:55 -> loading report
+23:01:55 -> set variables
+23:01:55 -> building report file
+23:01:55 -> exporting to pdf file
+23:01:55 -> Report prepared
+23:01:55 -> Done! Z:\app\pdf\790805aa.pdf
+23:02:22 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012865&compress=1&id_m_usuario=001226&viewer=1
+23:02:23 -> get report format
+23:02:23 -> init templates
+23:02:23 -> init main report format
+23:02:23 -> Trying to save...
+23:02:23 -> Saving to Z:\app\tmp\6687ad3d\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+23:02:23 -> loading report
+23:02:23 -> set variables
+23:02:23 -> building report file
+23:02:23 -> exporting to pdf file
+23:02:23 -> Report prepared
+23:02:23 -> Done! Z:\app\pdf\6687ad3d.pdf
+23:02:31 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110979&compress=0&id_m_usuario=0011115&viewer=1
+23:02:33 -> get report format
+23:02:33 -> init templates
+23:02:33 -> init main report format
+23:02:33 -> Trying to save...
+23:02:33 -> Saving to Z:\app\tmp\280c0c01\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:02:33 -> loading report
+23:02:33 -> set variables
+23:02:33 -> building report file
+23:02:33 -> exporting to pdf file
+23:02:33 -> Report prepared
+23:02:34 -> Done! Z:\app\pdf\280c0c01.pdf
+23:02:35 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110979&compress=0&id_m_usuario=0011115&viewer=0
+23:02:37 -> get report format
+23:02:37 -> init templates
+23:02:37 -> init main report format
+23:02:37 -> Trying to save...
+23:02:37 -> Saving to Z:\app\tmp\c94037c3\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:02:37 -> loading report
+23:02:37 -> set variables
+23:02:37 -> building report file
+23:02:37 -> exporting to pdf file
+23:02:37 -> Report prepared
+23:02:37 -> Done! Z:\app\pdf\c94037c3.pdf
+23:04:10 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012867&compress=0&id_m_usuario=001227&viewer=0
+23:04:11 -> get report format
+23:04:11 -> init templates
+23:04:11 -> init main report format
+23:04:11 -> Trying to save...
+23:04:11 -> Saving to Z:\app\tmp\8c15565d\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+23:04:11 -> loading report
+23:04:11 -> set variables
+23:04:11 -> building report file
+23:04:11 -> exporting to pdf file
+23:04:11 -> Report prepared
+23:04:11 -> Done! Z:\app\pdf\8c15565d.pdf
+23:06:03 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110973&compress=0&id_m_usuario=0011115&viewer=0
+23:06:04 -> get report format
+23:06:04 -> init templates
+23:06:04 -> init main report format
+23:06:04 -> Trying to save...
+23:06:04 -> Saving to Z:\app\tmp\740b5105\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:06:04 -> loading report
+23:06:04 -> set variables
+23:06:04 -> building report file
+23:06:04 -> exporting to pdf file
+23:06:04 -> Report prepared
+23:06:04 -> Done! Z:\app\pdf\740b5105.pdf
+23:06:43 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110990&compress=0&id_m_usuario=0011115&viewer=0
+23:06:44 -> get report format
+23:06:44 -> init templates
+23:06:44 -> init main report format
+23:06:44 -> Trying to save...
+23:06:44 -> Saving to Z:\app\tmp\6448da20\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:06:44 -> loading report
+23:06:44 -> set variables
+23:06:44 -> building report file
+23:06:44 -> exporting to pdf file
+23:06:44 -> Report prepared
+23:06:44 -> Done! Z:\app\pdf\6448da20.pdf
+23:07:01 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110987&compress=0&id_m_usuario=0011115&viewer=0
+23:07:01 -> get report format
+23:07:01 -> init templates
+23:07:01 -> init main report format
+23:07:01 -> Trying to save...
+23:07:01 -> Saving to Z:\app\tmp\111d2770\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:07:01 -> loading report
+23:07:01 -> set variables
+23:07:01 -> building report file
+23:07:01 -> exporting to pdf file
+23:07:02 -> Report prepared
+23:07:02 -> Done! Z:\app\pdf\111d2770.pdf
+23:07:20 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110985&compress=0&id_m_usuario=0011115&viewer=0
+23:07:21 -> get report format
+23:07:21 -> init templates
+23:07:21 -> init main report format
+23:07:21 -> Trying to save...
+23:07:21 -> Saving to Z:\app\tmp\0bdb1d95\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:07:21 -> loading report
+23:07:21 -> set variables
+23:07:21 -> building report file
+23:07:21 -> exporting to pdf file
+23:07:21 -> Report prepared
+23:07:22 -> Done! Z:\app\pdf\0bdb1d95.pdf
+23:07:55 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00110988&compress=0&id_m_usuario=0011115&viewer=0
+23:07:56 -> get report format
+23:07:56 -> init templates
+23:07:56 -> init main report format
+23:07:56 -> Trying to save...
+23:07:56 -> Saving to Z:\app\tmp\48141c85\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:07:56 -> loading report
+23:07:56 -> set variables
+23:07:56 -> building report file
+23:07:56 -> exporting to pdf file
+23:07:56 -> Report prepared
+23:07:56 -> Done! Z:\app\pdf\48141c85.pdf
+23:08:44 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111053&compress=1&id_m_usuario=0011100&viewer=1
+23:08:45 -> get report format
+23:08:45 -> init templates
+23:08:45 -> init main report format
+23:08:45 -> Trying to save...
+23:08:45 -> Saving to Z:\app\tmp\8c4d0a00\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:08:45 -> loading report
+23:08:45 -> set variables
+23:08:45 -> building report file
+23:08:45 -> exporting to pdf file
+23:08:46 -> Report prepared
+23:08:46 -> Done! Z:\app\pdf\8c4d0a00.pdf
+23:10:45 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111054&compress=1&id_m_usuario=0011101&viewer=1
+23:10:46 -> get report format
+23:10:46 -> init templates
+23:10:46 -> init main report format
+23:10:46 -> Trying to save...
+23:10:46 -> Saving to Z:\app\tmp\3bc62090\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:10:46 -> loading report
+23:10:46 -> set variables
+23:10:46 -> building report file
+23:10:46 -> exporting to pdf file
+23:10:47 -> Report prepared
+23:10:47 -> Done! Z:\app\pdf\3bc62090.pdf
+23:11:27 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111055&compress=1&id_m_usuario=0011100&viewer=1
+23:11:27 -> get report format
+23:11:27 -> init templates
+23:11:27 -> init main report format
+23:11:27 -> Trying to save...
+23:11:27 -> Saving to Z:\app\tmp\0006182a\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:11:27 -> loading report
+23:11:27 -> set variables
+23:11:27 -> building report file
+23:11:27 -> exporting to pdf file
+23:11:28 -> Report prepared
+23:11:28 -> Done! Z:\app\pdf\0006182a.pdf
+23:11:41 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111055&FECHA_DESDE=undefined/undefined/15/08/2022&FECHA_HASTA=undefined/undefined/15/08/2022&fecha_desde=15/08/2022&fecha_hasta=15/08/2022&ID_D_CLIENTES=001317&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011100&viewer=1
+23:11:43 -> get report format
+23:11:43 -> init templates
+23:11:43 -> init main report format
+23:11:43 -> Trying to save...
+23:11:43 -> Saving to Z:\app\tmp\0016b203\\opt\lampp\htdocs\yobel\reportes\r_guias_detalles.fr3
+23:11:43 -> loading report
+23:11:43 -> set variables
+23:11:43 -> building report file
+23:11:43 -> exporting to pdf file
+23:11:44 -> Report prepared
+23:11:44 -> Done! Z:\app\pdf\0016b203.pdf
+23:13:03 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111054&FECHA_DESDE=undefined/undefined/15/08/2022&FECHA_HASTA=undefined/undefined/15/08/2022&fecha_desde=15/08/2022&fecha_hasta=15/08/2022&ID_D_CLIENTES=001318&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011101&viewer=1
+23:13:05 -> get report format
+23:13:05 -> init templates
+23:13:05 -> init main report format
+23:13:05 -> Trying to save...
+23:13:05 -> Saving to Z:\app\tmp\d5cd4435\\opt\lampp\htdocs\yobel\reportes\r_guias_detalles.fr3
+23:13:05 -> loading report
+23:13:05 -> set variables
+23:13:05 -> building report file
+23:13:05 -> exporting to pdf file
+23:13:05 -> Report prepared
+23:13:05 -> Done! Z:\app\pdf\d5cd4435.pdf
+23:13:22 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111054&FECHA_DESDE=undefined/undefined/15/08/2022&FECHA_HASTA=undefined/undefined/15/08/2022&fecha_desde=15/08/2022&fecha_hasta=15/08/2022&ID_D_CLIENTES=001318&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011101&viewer=1
+23:13:24 -> get report format
+23:13:24 -> init templates
+23:13:24 -> init main report format
+23:13:24 -> Trying to save...
+23:13:24 -> Saving to Z:\app\tmp\60d606b6\\opt\lampp\htdocs\yobel\reportes\r_guias_detalles.fr3
+23:13:24 -> loading report
+23:13:24 -> set variables
+23:13:24 -> building report file
+23:13:24 -> exporting to pdf file
+23:13:24 -> Report prepared
+23:13:24 -> Done! Z:\app\pdf\60d606b6.pdf
+23:16:24 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012868&compress=0&id_m_usuario=001226&viewer=0
+23:16:25 -> get report format
+23:16:25 -> init templates
+23:16:25 -> init main report format
+23:16:25 -> Trying to save...
+23:16:25 -> Saving to Z:\app\tmp\b282360c\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+23:16:25 -> loading report
+23:16:25 -> set variables
+23:16:25 -> building report file
+23:16:25 -> exporting to pdf file
+23:16:25 -> Report prepared
+23:16:25 -> Done! Z:\app\pdf\b282360c.pdf
+23:16:46 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012868&compress=1&id_m_usuario=001226&viewer=1
+23:16:47 -> get report format
+23:16:47 -> init templates
+23:16:47 -> init main report format
+23:16:47 -> Trying to save...
+23:16:47 -> Saving to Z:\app\tmp\1b6c650a\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+23:16:47 -> loading report
+23:16:47 -> set variables
+23:16:47 -> building report file
+23:16:47 -> exporting to pdf file
+23:16:47 -> Report prepared
+23:16:47 -> Done! Z:\app\pdf\1b6c650a.pdf
+23:23:20 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111056&compress=1&id_m_usuario=001941&viewer=1
+23:23:21 -> get report format
+23:23:21 -> init templates
+23:23:21 -> init main report format
+23:23:21 -> Trying to save...
+23:23:21 -> Saving to Z:\app\tmp\b410d029\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:23:21 -> loading report
+23:23:21 -> set variables
+23:23:21 -> building report file
+23:23:21 -> exporting to pdf file
+23:23:21 -> Report prepared
+23:23:22 -> Done! Z:\app\pdf\b410d029.pdf
+23:25:57 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111056&compress=0&id_m_usuario=001941&viewer=0
+23:25:58 -> get report format
+23:25:58 -> init templates
+23:25:58 -> init main report format
+23:25:58 -> Trying to save...
+23:25:58 -> Saving to Z:\app\tmp\49020087\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:25:58 -> loading report
+23:25:58 -> set variables
+23:25:58 -> building report file
+23:25:58 -> exporting to pdf file
+23:25:58 -> Report prepared
+23:25:58 -> Done! Z:\app\pdf\49020087.pdf
+23:51:53 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111006&compress=1&id_m_usuario=001983&viewer=1
+23:51:54 -> get report format
+23:51:54 -> init templates
+23:51:54 -> init main report format
+23:51:54 -> Trying to save...
+23:51:54 -> Saving to Z:\app\tmp\0780cb4b\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:51:54 -> loading report
+23:51:54 -> set variables
+23:51:54 -> building report file
+23:51:54 -> exporting to pdf file
+23:51:54 -> Report prepared
+23:51:54 -> Done! Z:\app\pdf\0780cb4b.pdf
+23:52:15 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00111002&compress=1&id_m_usuario=001983&viewer=1
+23:52:16 -> get report format
+23:52:16 -> init templates
+23:52:16 -> init main report format
+23:52:16 -> Trying to save...
+23:52:16 -> Saving to Z:\app\tmp\2205503a\\opt\lampp\htdocs\yobel\reportes\r_documento_guia2.fr3
+23:52:16 -> loading report
+23:52:16 -> set variables
+23:52:16 -> building report file
+23:52:16 -> exporting to pdf file
+23:52:16 -> Report prepared
+23:52:16 -> Done! Z:\app\pdf\2205503a.pdf
+23:53:19 -> call url: http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_etiqueta_guia&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00111002&compress=0&id_m_usuario=0011115&viewer=0
+23:53:19 -> get report format
+23:53:19 -> init templates
+23:53:19 -> init main report format
+23:53:19 -> Trying to save...
+23:53:19 -> Saving to Z:\app\tmp\15402c08\\opt\lampp\htdocs\yobel\reportes\r_etiqueta_guia.fr3
+23:53:19 -> loading report
+23:53:19 -> set variables
+23:53:19 -> building report file
+23:53:19 -> exporting to pdf file
+23:53:19 -> Report prepared
+23:53:19 -> Done! Z:\app\pdf\15402c08.pdf
+23:59:21 -> call url: http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0012874&compress=0&id_m_usuario=001226&viewer=0
+23:59:22 -> get report format
+23:59:22 -> init templates
+23:59:22 -> init main report format
+23:59:22 -> Trying to save...
+23:59:22 -> Saving to Z:\app\tmp\98028acb\\opt\lampp\htdocs\farmacia_bosqueserino\reportes\r_documento_fact_carta_gra.fr3
+23:59:22 -> loading report
+23:59:22 -> set variables
+23:59:22 -> building report file
+23:59:22 -> exporting to pdf file
+23:59:22 -> Report prepared
+23:59:23 -> Done! Z:\app\pdf\98028acb.pdf

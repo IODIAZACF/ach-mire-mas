@@ -1,0 +1,11 @@
+[proyecto]
+db=192.168.1.150:/opt/lampp/firebird/db/ipturmero.gdb
+usuario=sysdba
+passwd=masterkey
+usaftp=0
+xml=192.168.1.150/ipturmero/herramientas/impresora/impresora.php
+FTPHost=
+FTPUser=
+FTPPwd=
+FTPFolder=
+Directorio=\\192.168.1.150\opt\lampp\htdocs\ipturmero\reportes\

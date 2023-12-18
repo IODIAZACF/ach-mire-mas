@@ -1,0 +1,81 @@
+stdClass Object
+(
+    [_id] => 460750318
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-01T15:49:43.930-05:00
+    [end] => 2023-08-01T15:56:30.132-05:00
+    [group_gu1lq88/Departamento] => HUILA
+    [group_gu1lq88/HUILA] => LA PLATA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => San Miguel
+    [group_gu1lq88/Nombre_de_la_comunidad] => San Miguel
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-07-30
+    [group_gu1lq88/Nombre_de_quien_reporta] => Mario Dager
+    [group_gu1lq88/Cargo] => ACH
+    [group_gu1lq88/Origen_de_la_informaci_n] => OtroOrigenInfo
+    [group_gu1lq88/_Cu_l] => Defensoría del Pueblo
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => La Defensoría del Pueblo alerta sobre el desplazamiento masivo de 867 personas de 14 veredas del corregimiento San Miguel, jurisdicción de La Plata, departamento del Huila, donde hace contados días perdió la vida una niña de 4 años de edad al quedar en medio de combates entre la columna móvil Dagoberto Ramos (grupo disidente de las Farc) y el Ejército Nacional. 
+
+Son 242 familias, compuestas por 398 menores de edad y 469 adultos, mayoritariamente campesinos e indígenas, las que llegaron al casco urbano del municipio de La Plata, donde la Defensoría del Pueblo adelanta una misión humanitaria para brindar atención especializada, de manera particular, a la población de San Miguel. 
+
+La entidad nacional garante de los derechos humanos, en labor conjunta con la Personería municipal, está llevando a cabo el proceso de toma de declaraciones a la población desplazada, así como la verificación y el seguimiento a la entrega de ayudas humanitarias que viene haciendo la Alcaldía municipal y la Gobernación del Huila.
+    [group_yv1ph08/time2] => 2023-07-27
+    [group_yv1ph08/time3] => 3
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Por completar
+    [group_cn9za51/familias] => 242
+    [group_cn9za51/personas] => 867
+    [group_cn9za51/comu] => 14
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => si
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2023-08-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://www.defensoria.gov.co/web/guest/-/defensor%C3%ADa-del-pueblo-alerta-sobre-desplazamiento-masivo-de-cerca-de-900-personas-tras-enfrentamientos-armados-en-la-plata-huila-?redirect=%2F
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:2c444bfa-7ea4-47ea-bb2c-ec6689f30525
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 2c444bfa-7ea4-47ea-bb2c-ec6689f30525
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-01T20:56:31
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

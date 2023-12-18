@@ -1,0 +1,142 @@
+stdClass Object
+(
+    [_id] => 508168160
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-11-23T09:52:04.094-05:00
+    [end] => 2023-11-23T20:09:22.750-05:00
+    [group_kp1mu41/_1_C_digo] => CAPU-940.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-11-23
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-10-04
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-11-23
+    [group_kp1mu41/_4_Departamento] => CAQUETA
+    [group_kp1mu41/CAQUETA] => PUERTO_RICO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Santana Ramos
+    [group_kp1mu41/num_comunidades] => 25
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => Aires de la Cordillera, Arenoso, Brisas de la Cristalina, Buenos Aires, Caserío-Santana Ramos, Guadualito, Guayas Alto, Guayas Medio, La Cristalina, Las Brisas, Loma Alta, Méndez, El Nutrio, Palestina, Palmar Central, Palmar Oriental, Plumero, Quebradon, Reflejo, Ruidosa, San Pablo, Tres Esquinas, Yarumal Alto, Yarumal Bajo y Yarumal Medio.
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Angie Lorena Carvajal
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3102166477
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.1-16-1-Entrega_kits_agua 2-R4-4.2-17-3-Rehabilitaciones_saneamiento 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas 2-R4-4.5-22-8-Aumento_conocimiento
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2023-10-04
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2023-11-09
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => No se logra realizar acciones con la institucionalidad para ampliar el alcance en segunda fase para el acceso a agua segura y en rehabilitaciones sencillas en saneamiento.
+
+No se logra realizar acciones complementarias con otras organizaciones para la segunda fase en temas relacionas de agua, saneamiento e higiene.
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => Realizar seguimiento a las acciones de la rehabilitación en el Centro Educativo de Santana Ramos, con el fin de prolongar la vida útil de los elementos instalados y el buen uso de los espacios dignos y seguros.
+
+Realizar incidencia con otras organizaciones y con la institucionalidad, esto con el fin de poder apoyar a las comunidades que han presentado una mayor afectación por los últimos acontecimientos.
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2023-10-04
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2023-10-07
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => Proveer asistencia humanitaria con el propósito de proteger y fortalecer los medios de subsistencia de las familias en situación de emergencia. La fase I de esta intervención se enfocó en asegurar la disponibilidad y acceso a alimentos suficientes, inocuos y nutritivos. 
+
+Extender los mensajes de seguridad alimentaria y prácticas de alimentación adecuadas al total de la población beneficiaria, dado que, algunas familias no pudieron participar de los espacios de sensibilización.
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => Complementar las acciones desarrolladas para abordar de manera integral las necesidades básicas y estructurales buscando promover la estabilidad en las comunidades afectadas por la emergencia. Las familias expresan su gratitud por la ayuda recibida; no obstante, destacan la necesidad de atención sostenible, así como iniciativas que contribuyan al desarrollo del territorio y mejoren la calidad de vida a largo plazo.
+
+Establecer comités y mantener comunicación con los representantes comunitarios del corregimiento de Santana Ramos con el propósito de comprender de manera más detallada los diversos desafíos que la comunidad enfrenta para su seguridad alimentaria. Estos desafíos incluyen el impacto del conflicto armado, las condiciones precarias de las vías y las complicaciones que surgen al tratar de desarrollar sus medios de vida.
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.2-26-4/Asesoramiento_y_sesiones_a 3-R6-6.3-27-5/Identificación_y_asistenci
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-11-03
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-11-09
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => En la comunidad hay un centro de salud, pero por el momento están siendo reparadas y restauradas sus instalaciones físicas. Este centro no cuenta con servicio de medicina general ni enfermería de forma permanente, sino que se prestan estos servicios de forma intermitente mediante brigadas de salud; sin embargo, debido a la situación de orden publico que se ha venido presentado en los últimos meses en la región, no se han podido realizar algunas de estas brigadas.
+
+Por otra parte, el corregimiento de Santana Ramos y sus veredas pertenecen o están bajo la jurisdicción del municipio de Puerto Rico Caquetá, sin embargo, para la comunidad es más accesible desplazarse hacia el municipio de Algeciras, Huila. Esto lleva a que gran parte de la comunidad tenga dificultades de acceso a los servicios de salud, ya que su centro de atención primario se encuentra en el municipio de Puerto Rico.
+
+En cuanto a salud mental se evidenciaron múltiples problemáticas en la población en general; uno de los vacíos más importantes que se identificaron fue el desconocimiento y resistencia de la comunidad en general respecto al acceso y la importancia de recibir atención en psicología. Se suele subvalorar o rechazar este tipo de atención por parte de la comunidad.
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => Identificar a lideres comunitarios para capacitarlos como gestores y promotores de salud en sus respectivas comunidades. Ellos podrían promover adecuadas practicas de salud en la comunidad y vigilar la presencia de problemas de salud para dar o iniciar una ruta de atención temprana de estos problemas. 
+
+Realización de brigadas de salud trimestrales por parte de las E.S.E. de Puerto Rico y Algeciras haciendo énfasis en las patologías mas prevalentes según la epidemiologia local, priorizando la salud sexual y reproductiva, y prestando atención puntual a los temas de salud mental puesto que el facilitar el acceso a servicios de psicología en las comunidades podría tener un impacto positivo en el bienestar de las personas. 
+
+Se considera de vital importancia para la población realizar jornadas de sensibilización sobre la importancia del uso de agua potable como medida de prevención para la disminución de enfermedades gastrointestinales, sin embargo, ante la dificultad de acceso al recurso hídrico esto se considera un reto.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => Se efectuó la distribución de 200 filtros de agua familiares, cada uno equipado con dos compartimentos. El depósito superior tiene una capacidad de almacenamiento de 20 litros y está diseñado para pasar a través de dos velas cerámicas, asegurando así la purificación del agua a nivel intradomiciliario. Estos dispositivos también incorporan un segundo compartimento con una capacidad de almacenamiento adicional de hasta 40 litros.
+
+En la priorización de las familias, se consideraron aquellas que son numerosas, las encabezadas por madres solteras, así como aquellas con miembros afectados por problemas de salud o discapacidades. Además, como parte de esta iniciativa, se proporciona un filtro a cada una de las sedes educativas actualmente en funcionamiento. De esta manera, estos filtros están destinados a beneficiar a aproximadamente 850 personas.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => N/A
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_saneamiento_b_sico] => Se llevó a cabo una rehabilitación sencilla de saneamiento básico en el Centro Educativo Rural Santana Ramos, con el propósito de habilitar 2 baterías sanitarias y 5 lavamanos. Esta intervención incluyó la adecuación del sistema de iluminación, el reemplazo de puertas en las unidades sanitarias, la revisión y sustitución de accesorios sanitarios en toda la unidad, así como la limpieza y embellecimiento general de las instalaciones. Esta respuesta estuvo orientada en abordar la emergencia que afecta al corregimiento de Santana Ramos, la cual ha impactado a la población estudiantil. Esta acción garantizará un acceso digno y seguro para 110 estudiantes y 4 docentes en la sede principal.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Se realizó la entrega de 260 kits de higiene, dirigidos a la población que no pudo ser atendida por la UARIV, con el propósito de complementar la asistencia. Se desarrollaron actividades sectoriales para promover las prácticas de higiene menstrual, haciendo hincapié en nuevas masculinidades. Simultáneamente, en el marco de la preparación de la olla comunitaria, se abordó la importancia de lavar los elementos haciendo uso de agua segura o sometida a procesos de tratamiento domiciliario.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Se llevaron a cabo sesiones en formato de cápsulas informativas con grupos focales de no más de 50 personas, abordando temas de sensibilización relacionados con el adecuado manejo de los insumos incluidos en el kit de promoción de higiene. Estas sesiones se enfocaron en destacar las buenas prácticas y los momentos clave del lavado de manos, adaptándose a las necesidades específicas de cada vereda.
+
+Se desarrollaron actividades centradas en la promoción de prácticas de higiene menstrual con un enfoque particular en nuevas masculinidades. Además, se implementó la creación de un mural en el centro educativo, con el objetivo de fomentar desde edades tempranas las buenas prácticas de higiene. Esta iniciativa busca, en última instancia, reducir la morbilidad y los gastos adicionales que recaen en cada una de las familias.
+
+Las actividades se desarrollaron en el marco de dos ollas comunitarias en el centro educativo de Santana Ramos, generando un espacio de confianza para abordar los compromisos a través de la participación de estudiantes, docentes, directivos del centro educativo, padres de familia y la junta de acción comunal de Santana Ramos, para dar sostenibilidad a las acciones realizadas, buscando así fortalecer los lazos comunitarios y la colaboración entre los diversos actores.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => Se realizó una evaluación rápida de inseguridad alimentaria (ERIN) después de conocer los graves problemas de acceso a los alimentos por parte de la comunidad del corregimiento de Santana Ramos derivados del confinamiento. A través de la ERIN, se identifica la respuesta institucional y de la UARIV, se reconocen los vacíos y las necesidades que persisten para brindar una ayuda complementaria.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => Se proporcionó asistencia humanitaria mediante la distribución de 260 paquetes alimentarios familiares, contribuyendo así a fortalecer la seguridad alimentaria de un total de 260 familias, lo que equivale a 805 personas. Estas familias, residentes de las 25 veredas del corregimiento de Santana Ramos, se encontraban en situación de vulnerabilidad exacerbada por los impactos del confinamiento, que obstaculizó su capacidad para obtener y acceder de manera segura a los alimentos necesarios.
+
+Se implementaron espacios de sensibilización sobre seguridad alimentaria con el propósito de promover prácticas saludables en relación con la preparación de alimentos y la adopción de una dieta diversificada. Adicionalmente, la asistencia humanitaria se distribuyó mediante la organización de una olla comunitaria, donde se preparó el tradicional sancocho. Esta estrategia tenía como objetivo no solo ofrecer apoyo alimentario, sino también crear un ambiente ameno.
+
+Por último, es importante destacar que la colaboración entre instituciones, organizaciones humanitarias y líderes comunitarios posibilitó ampliar la cobertura de la asistencia, alcanzando así a la totalidad de las familias afectadas por la emergencia.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => Se efectuaron 20 PDM a través de los cuales se conoció la percepción de los participantes acerca de la asistencia alimentaria proporcionada por el Consorcio MIRE. Las familias destacaron la pertinencia de la ayuda, la complementariedad que permitió abarcar a mayor población, y la naturaleza de los alimentos distribuidos, pues algunos de estos suelen ser escasos (como la colada de plátano) o inaccesibles tanto física como económicamente.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Durante los 5 días de intervención se realizaron un total de 318 consultas de atención primaria en salud; 309 por parte de medicina general y 9 por parte de enfermería. La población en su totalidad es de origen étnico mestizo. Respecto a atención por géneros se les brindo asistencia a 166 mujeres y 152 hombres; en cuanto a atención por grupos etarios se atendieron 20 niños/niñas menores a 5 años, 95 entre 5 y 17 años, 133 adultos menores a 50 años y 70 adultos mayores.
+
+Respecto a atención enfocada en salud de la mujer se realizaron 35 consultas de asesoría en anticoncepción y planificación familiar, siendo el implante subdérmico el método más seleccionado por parte de las pacientes. Se realizaron dos atenciones por efectos adversos de los métodos. Se realizó una sola atención a una gestante. En cuanto a atención enfocada en la población infantil menor a 5 años no se detectaron casos de riesgo de desnutrición ni de desnutrición aguda o crónica. Los diagnósticos más frecuentes fueron los relacionados con infecciones respiratorias agudas, infecciones cutáneas por hongos e infecciones gastrointestinales. 
+
+No se realizó ninguna evacuación, pero si se realizaron 33 remisiones, dos de ellas al servicio de urgencias por un traumatismo craneoencefálico y la otra por una fractura de antebrazo; 22 a medicina especializada y 9 al servicio de psicología. Se realizaron 80 procedimientos de enfermería enfocados principalmente en la toma de muestras de laboratorio e inyectología.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => Se realizó entrega de medicamentos para 314 pacientes, para lo cual se aplicó enfoque diferencial de tal modo que su administración quedara plenamente entendida por los pacientes y/o sus familiares.
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Se realizaron un total de 24 consultas individuales en salud mental. Entre los diagnósticos mas prevalentes se encuentra el trastorno de estrés postraumático con sintomatología:  preocupación constante, miedo excesivo, comportamiento repetitivo, pensamientos intrusivos, flashbacks, respuesta de sobresalto, disociación. Así, en el trastorno adaptativo y reacción de estrés agudo con síntomas de dolores corporales, de cabeza, palpitaciones, dificultad para respirar, problemas gastrointestinales, problemas de apetito, problemas de sueño, síntomas que agravan patologías preexistentes en salud física, restando la funcionalidad en las actividades diarias. Además, se presentaron algunos casos de duelos por perdida de familiares muy jóvenes en el marco del conflicto afectando significativamente a la familia e irrumpiendo abruptamente el ciclo de la vida generando procesos de duelo inconclusos o de difícil tramite o sin cierre.
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => Se realizaron un total de 6 sesiones grupales, 2 en el colegio de la comunidad y 4 en el centro de atención de la misión médica. Durante estas sesiones se beneficiaron 95 personas. Durante estas sesiones se abordaron dos temas, identificación y prevención de la VBG; y reconociendo y conociendo mi entorno de protección. 
+
+Se realiza actividades de salud mental con actores claves de la comunidad, sensibilizando en derechos sexuales y reproductivos, prevención de las violencias basadas en género y herramientas para el fortalecimiento de las estrategias de afrontamiento como parte de la primera ayuda a personas en situaciones en crisis.
+
+Se priorizaron actividades con la institución educativa, por solicitud de los docentes dado que evidencian en los adolescentes comportamientos basados en características configuradas en roles de poder establecidos desde la autoridad centrada en el hombre. Esto, ha ocasionado conflictos en las diversas relaciones interpersonales que se establecen al interior de la institución educativa como también en la dinámica escolar.
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Se identificaron tres casos de VBG mayor a 6 meses, uno de estos casos de violencia psicológica por parte de la expareja; los otros dos casos corresponden a victimas de abuso sexual de larga data. Se decidió no activar ruta debido a que las sobrevivientes no aceptaron, sin embargo, los casos fueron remitidos a otra ONG socia para la gestión de estos.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => No ingresa el sector por temas de seguridad enfocados en reducir la movilidad de las familias.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => No ingresa el sector por temas de seguridad enfocados en reducir la movilidad de las familias.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => No ingresa el sector por temas de seguridad enfocados en reducir la movilidad de las familias.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => No ingresa el sector por temas de seguridad enfocados en reducir la movilidad de las familias.
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => No ingresa el sector por temas de seguridad enfocados en reducir la movilidad de las familias.
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => No ingresa el sector por temas de seguridad enfocados en reducir la movilidad de las familias.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => N/A
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Defensoría del Pueblo, MAPP OEA, UARIV.
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => ALIMENTACION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Focalización de la población para complementar la entrega de la asistencia alimentaria y acceso a productos de higiene.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD PARTICIPACION
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => La volatilidad del contexto por la tendencia a enfrentamientos a causa de la presencia de diferentes actores armados a lo largo del corregimiento de Santana Ramos.
+
+Ajuste de la agenda por expectativas en los cambios de contexto por los retos de la última semana del mes de septiembre, que se establecen entorno a las negociaciones por el conflicto armado a nivel nacional.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => Monitorear las condiciones de seguridad y los cambios sobre el área de cordillera del municipio de Puerto Rico que pudiesen afectar el ingreso del Consorcio MIRE a territorio. Además, articular la entrada con las organizaciones e instituciones reconocidas en territorio.
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => El principal desafío de acceso a Santana Ramos radica en las pésimas condiciones de la vía principal, que conecta con el municipio de Algeciras (Huila) en lugar de enlazar directamente con el centro poblado del municipio de Puerto Rico. En esta carretera, los vehículos tienden a quedarse enterrados y/o sufrir diferentes daños, exponiendo al personal que se transporta a diferentes riesgos.
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Desplazarse en vehículos que sean adecuados para enfrentar las condiciones de la vía. Asimismo, la movilización en caravana, de manera coordinada, para brindar apoyo en caso de que algún vehículo experimente contratiempos. Esta estrategia aplicó para el desplazamiento de los equipos y el ingreso de la ayuda humanitaria.
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => Algunas familias que residen en las veredas más apartadas no lograron participar directamente en las actividades del Consorcio MIRE debido a la carencia de vías terciarias, lo cual extiende significativamente los tiempos de desplazamiento. Para algunas de estas se añade la dificultad de movilizarse debido a la presencia de minas antipersonales (MAP).
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => La asistencia humanitaria destinada a las personas con alta vulnerabilidad se entregó a los representantes comunitarios, con el fin de que estos pudieran facilitar su distribución de manera efectiva.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 805
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 25
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 6
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Jhonatan Ruiz
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3144732010
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Presidente JAC Santana Ramos
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Edwin Ruiz
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 3223513762
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Presidente JAC Plumero
+    [__version__] => v927fJckMZ3vi6KjpPSHN7
+    [meta/instanceID] => uuid:b6fe1166-f07c-465a-9f56-519b8e4ddd48
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => b6fe1166-f07c-465a-9f56-519b8e4ddd48
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-11-24T01:09:25
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

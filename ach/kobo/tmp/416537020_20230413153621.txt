@@ -1,0 +1,71 @@
+stdClass Object
+(
+    [_id] => 416537020
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-04-13T15:33:20.349-05:00
+    [end] => 2023-04-13T15:36:06.491-05:00
+    [group_gu1lq88/Departamento] => BOLIVAR
+    [group_gu1lq88/BOLIVAR] => REGIDOR
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => El Piñal
+    [group_gu1lq88/Nombre_de_la_comunidad] => El Piñal
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-04-13
+    [group_gu1lq88/Nombre_de_quien_reporta] => Ana Lucía Robles
+    [group_gu1lq88/Cargo] => Alianza Por la Solidaridad
+    [group_gu1lq88/Origen_de_la_informaci_n] => OtroOrigenInfo
+    [group_gu1lq88/_Cu_l] => Identificado en emergencia BOSA-641.1
+    [group_hl1yc96/La_alerta_corresponde_a_] => PR
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => BOSA-641.1
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2023-01-30
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSBORE_R_KEPI291PR: Lideresa de la comunidad El Piñal, (Regidor). Víctima del conflicto del año 1998. Manifiesta que el pasado 25 de enero, fue amenazada e intimidada por parte de GANE presente en el territorio, el equipo en terreno orienta sobre ruta de declaración a lo que refiere que esta se encuentra en activación y citada para el día de ayer 26 de enero.
+    [group_mu9ho06/Logisitica] => N/A
+    [group_mu9ho06/Seguridad] => N/A
+    [group_mu9ho06/Operativa] => N/A
+    [group_mu9ho06/Observaciones] => N/A
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:86a151e6-4cae-44fb-9dcd-460878fae7e1
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 86a151e6-4cae-44fb-9dcd-460878fae7e1
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-13T20:36:20
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

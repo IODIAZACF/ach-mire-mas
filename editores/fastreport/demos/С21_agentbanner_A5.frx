@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="12/02/2016 17:57:22" ReportInfo.Modified="12/02/2016 17:57:22" ReportInfo.CreatorVersion="2015.3.12.0">
+<ReportPage Name="Page1" PaperWidth="209.97333333333333" PaperHeight="150.02933333333334" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0">
+<DataBand Name="Data1" Width="793.6" Height="567.04">
+<PictureObject Name="Picture1" Left="0.0" Top="0.0" Width="793.6" Height="567.04" ImageLocation="С21_agentbanner_A5/[background].png"  />
+<PictureObject Name="Picture2" Left="370.24" Top="141.12" Width="173.44" Height="433.28000000000003" ImageLocation="С21_agentbanner_A5/agentphoto.png"  />
+<PictureObject Name="Picture3" Left="47.68" Top="130.24" Width="319.68" Height="205.12" ImageLocation="С21_agentbanner_A5/housephoto.png"  />
+<PictureObject Name="Picture4" Left="36.480000000000004" Top="124.48" Width="719.6800000000001" Height="328.64" ImageLocation="С21_agentbanner_A5/[foreground].png"  />
+<TextObject Name="Text5" Left="255.74400000000003" Top="523.52" Width="282.112" Height="14.4" Text="Москвcкая область, Жуковка, 71" Font="Calibri, 12.0pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Center"  />
+<TextObject Name="Text6" Left="396.8" Top="316.16" Width="421.12" Height="125.76" Text="Я предоставляю услуги профессионального агента по недвижимости в вашем районе. Принцип моей работы - профессионально, качественно, грамотно и ответственно подходить к запросам клиента. Я готова оказать Вам необходимую поддержку и помощь в проведении операций любой сложности – покупка, продажа, аренда, обмен недвижимости.
+CENTURY 21 Elvert Collection предлагает комплекс услуг в сфере недвижимости, включая анализ рынка, оценку стоимости имущества, юридическую и финансовую поддержку." Font="Calibri, 9.000513376099182pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text7" Left="526.08" Top="197.12" Width="212.99200000000002" Height="44.800000000000004" Text="+7 (989) 881-07-07
+ekaterina.sapozhnikova@c21russia.com
+elvert.c21russia.com" Font="Calibri, 8.01299376000347pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text8" Left="507.52000000000004" Top="145.28" Width="122.75200000000001" Height="29.76" Text="Екатерина 
+Сапожникова" Font="Calibri, 11.934949425747918pt , style=Bold" TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text9" Left="48.32" Top="359.04" Width="355.456" Height="82.88" Text="Инфраструктура: охрана, школа, магазин, детская игровая площадка, баня, лодочная станция. Усадьба из двух домов на 50 сотках. Дома построены из алтайского кедра. Основной – 800 м2 и гостевой – 500 м2. Гостевой дом полностью готов к проживанию. Все коммуникации." Font="Calibri, 8.991271657854504pt " TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text10" Left="48.96" Top="337.92" Width="253.696" Height="13.44" Text="Продажа деревянного дома" Font="Calibri, 12.0pt , style=Bold" TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text11" Left="57.6" Top="279.68" Width="103.936" Height="34.56" Text="Общая площадь: 270 м2
+Жилая площадь: 180 м2
+Этажа: 3
+50 соток участок" Font="Calibri, 5.697674874418604pt " TextFill.Color="216, 107, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text12" Left="57.28" Top="262.72" Width="135.808" Height="14.4" Text="13 000 000 руб." Font="Calibri, 12.005814083720928pt " TextFill.Color="216, 107, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Left"  />
+<TextObject Name="Text13" Left="20.928" Top="96.32000000000001" Width="212.22400000000002" Height="13.120000000000001" Text="Еврогруп Недвижимость" Font="Calibri, 12.036652877977913pt , style=Bold" TextFill.Color="0, 0, 0" VertAlign="Center" WordWrap="true" Clip="false" HorzAlign="Center"  />
+</DataBand>
+</ReportPage>
+</Report>

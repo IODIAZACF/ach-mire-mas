@@ -1,0 +1,116 @@
+stdClass Object
+(
+    [_id] => 470705354
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-23T16:57:46.343-05:00
+    [end] => 2023-08-23T17:17:28.702-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => QUIBDO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => 36 barrios, 6 corregimientos y 9 comunidades indígenas del municipio de Quibdó
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin información
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-08-23
+    [group_gu1lq88/Nombre_de_quien_reporta] => Wendy Rubiano
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => DESASTRE Restric_movilidad OTRA
+    [group_hl1yc96/Problema] => DESASTRES_NAT PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => El 4 de agosto de 2023, más de 4.205 personas (1.156 hogares aproximadamente) de al
+menos 36 barrios, 6 corregimientos y 9 comunidades indígenas del municipio de Quibdó,
+se vieron afectadas por fuertes lluvias, tormentas eléctricas y vendavales, que dejaron
+más de 1.136 viviendas y 6 instituciones educativas con daños en su infraestructura. Esta
+emergencia generó la pérdida de enseres de cocina, electrodomésticos, colchones,
+además de daños en la infraestructura y cimientos de las viviendas por la pérdida de
+techos y, en algunos casos, la destrucción total de las casas al estar construidas en
+materiales como madera y plástico. Varias familias que sufrieron la afectación se
+encuentran alojadas en viviendas de sus redes de apoyo. Ante este evento, el 10 de agosto
+la Alcaldía municipal de Quibdó decretó calamidad pública a través del decreto no 0232 de
+10 de agosto de 2023. Es importante señalar que, varios barrios, corregimientos y
+comunidades indígenas afectadas por estos eventos, también han sufrido durante el 2023
+por hechos relacionados con el conflicto armado como restricciones a la movilidad,
+imposición de códigos de conducta y amenazas individuales y colectivas, por parte de
+bandas criminales y Grupos Armados No Estatales (GANE) agravando los impactos en la
+población. Esto supone una situación de doble afectación para la población por las
+dinámicas derivadas del conflicto armado y de eventos por variabilidad climática.
+    [group_yv1ph08/time2] => 2023-08-17
+    [group_yv1ph08/time3] => 6
+    [group_yv1ph08/evidencia] => wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Alojamiento
+    [group_cn9za51/familias] => 1156
+    [group_cn9za51/personas] => 4205
+    [group_cn9za51/comu] => 9
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Comité Municipal de Gestión del Riesgo, Alcaldía municipal, Defensa Civil,
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => CRC, OCHA, ACNUR y NRC
+    [group_mu9ho06/Logisitica] => Por actualizar
+    [group_mu9ho06/Seguridad] => Restricciones a la movilidad, imposición de códigos de conducta y amenazas individuales y colectivas, por parte de
+bandas criminales y Grupos Armados No Estatales (GANE)
+    [group_mu9ho06/Operativa] => Por actualizar
+    [group_mu9ho06/Observaciones] => • Existen limitaciones para realizar la caracterización e identificación de necesidades de la población afectada por vendavales dada la
+baja capacidad presupuestal y operativa del municipio afectado, que a su vez, ha limitado la visibilización de la emergencia y la
+respuesta humanitaria.
+• Se desconoce el resultado de la Evaluación de Daños y Necesidades (EDAN) que permita identificar afectaciones y necesidades
+específicas por barrios, corregimientos y comunidades.
+• El ELC Chocó, no cuenta con capacidad de respuesta en complementariedad en el caso de emergencias por desastres y/o
+variabilidad climática.
+    [group_mu9ho06/Subir_el_Anexo] => 32. 17082023 Alerta por Situación humanitaria por Vendavales y lluvias municipio Quibdó (CHOCO)-17_13_27.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:74797c7c-18ce-4c23-812e-4d5be6a2242b
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 74797c7c-18ce-4c23-812e-4d5be6a2242b
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F74797c7c-18ce-4c23-812e-4d5be6a2242b%2F32._17082023_Alerta_por_Situaci%C3%B3n_humanitaria_por_Vendavales_y_lluvias_municipio_Quibd%C3%B3_CHOCO-17_13_27.pdf
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F74797c7c-18ce-4c23-812e-4d5be6a2242b%2F32._17082023_Alerta_por_Situaci%C3%B3n_humanitaria_por_Vendavales_y_lluvias_municipio_Quibd%C3%B3_CHOCO-17_13_27.pdf
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F74797c7c-18ce-4c23-812e-4d5be6a2242b%2F32._17082023_Alerta_por_Situaci%C3%B3n_humanitaria_por_Vendavales_y_lluvias_municipio_Quibd%C3%B3_CHOCO-17_13_27.pdf
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F74797c7c-18ce-4c23-812e-4d5be6a2242b%2F32._17082023_Alerta_por_Situaci%C3%B3n_humanitaria_por_Vendavales_y_lluvias_municipio_Quibd%C3%B3_CHOCO-17_13_27.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/74797c7c-18ce-4c23-812e-4d5be6a2242b/32._17082023_Alerta_por_Situación_humanitaria_por_Vendavales_y_lluvias_municipio_Quibdó_CHOCO-17_13_27.pdf
+                    [instance] => 470705354
+                    [xform] => 572478
+                    [id] => 197774444
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-23T22:17:30
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

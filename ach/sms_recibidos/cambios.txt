@@ -1,0 +1,2 @@
+[17-01-2010 09:18:00]	SISTEMA	**** INICIO DEL LOG DE CAMBIOS ****
+[09-03-2010 11:29:00]   WILMER HERRERA ** Se arreglaron los rotulos de las Leyendas y de la Ventana **

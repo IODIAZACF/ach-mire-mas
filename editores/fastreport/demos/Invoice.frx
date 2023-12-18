@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="04/28/2015 09:37:22" ReportInfo.Modified="04/28/2015 09:37:23" ReportInfo.CreatorVersion="2015.2.16.0">
+  <ScriptText>using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Windows.Forms;
+using System.Drawing;
+using System.Data;
+using FastReport;
+using FastReport.Data;
+using FastReport.Dialog;
+using FastReport.Barcode;
+using FastReport.Table;
+using FastReport.Utils;
+
+namespace FastReport
+{
+  public class ReportScript
+  {
+
+
+  }
+}
+</ScriptText>
+  <Dictionary>
+    <TableDataSource Name="sqlDocument" Alias="Документ" ReferenceName="sqlDocument" DataType="null" Enabled="true">
+      <Column Name="ID_DOC" DataType="System.Int32"/>
+      <Column Name="ID_COMPANY" DataType="System.Int32"/>
+      <Column Name="ID_TIP_DOC" DataType="System.Int32"/>
+      <Column Name="ID_PRIZNZK_DOC" DataType="System.Int32"/>
+      <Column Name="NUMBER_DOC" DataType="System.String"/>
+      <Column Name="DATA_DOC" DataType="System.DateTime"/>
+      <Column Name="PRIM_DOC" DataType="System.String"/>
+      <Column Name="ID_SPR_REQUIS" DataType="System.Int32"/>
+      <Column Name="ID_VALUTA" DataType="System.Int32"/>
+      <Column Name="ID_CONTACT_MAN" DataType="System.Int32"/>
+      <Column Name="SUMMA" DataType="System.Double"/>
+      <Column Name="ID_PRIZNAK_INCLUDE_TOVAR" DataType="System.Int32"/>
+      <Column Name="ID_REQUIS_COMPANY" DataType="System.Int32"/>
+      <Column Name="ID_DOC_OSNOV" DataType="System.Int32"/>
+      <Column Name="ID_LIST_REQUIS_FIZ" DataType="System.Int32"/>
+      <Column Name="SUM_PROPIS" DataType="System.String"/>
+      <Column Name="NA_OSNOV_COMPANY" DataType="System.String"/>
+      <Column Name="NA_OSNOV_CLIENT" DataType="System.String"/>
+      <Column Name="ID_MANAGER" DataType="System.Int32"/>
+      <Column Name="TRASH" DataType="System.Int32"/>
+      <Column Name="ID_CH" DataType="System.String"/>
+      <Column Name="ID_MANAGER_EXE" DataType="System.Int32"/>
+      <Column Name="ID_LIST_PROJECT_COMPANY" DataType="System.Int32"/>
+      <Column Name="MANAGER_TRASH" DataType="System.String"/>
+      <Column Name="DATE_TRASH" DataType="System.DateTime"/>
+      <Column Name="CODE_DOC_1C" DataType="System.String"/>
+      <Column Name="MARKER_ON" DataType="System.Int32"/>
+      <Column Name="ID_MANAGER_MARKER" DataType="System.Int32"/>
+      <Column Name="MARKER_DESCRIPTION" DataType="System.String"/>
+      <Column Name="AllowCabinet" DataType="System.Boolean"/>
+      <Column Name="NDS_DIRECTION" DataType="System.Boolean"/>
+      <Column Name="ID_DEAL" DataType="System.Int32"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N33" DataType="System.String"/>
+      <Column Name="ADD_ewwe" DataType="System.DateTime"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N35" DataType="System.String"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N36" DataType="System.String"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N37" DataType="System.DateTime"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlRequis" Alias="Реквизиты" ReferenceName="sqlRequis" DataType="null" Enabled="true">
+      <Column Name="ID_REQUIS" Alias="ID" DataType="System.Int32"/>
+      <Column Name="FULL_NAME" Alias="Полное наименование" DataType="System.String"/>
+      <Column Name="KR_NAME" Alias="Краткое наименование" DataType="System.String"/>
+      <Column Name="ADRES_FACT" Alias="Адрес фактический" DataType="System.String"/>
+      <Column Name="ADRES_YUR" Alias="Адрес юридический" DataType="System.String"/>
+      <Column Name="RS" Alias="РС" DataType="System.String"/>
+      <Column Name="BANK_NAME" Alias="Наименование банка" DataType="System.String"/>
+      <Column Name="KS" Alias="КС" DataType="System.String"/>
+      <Column Name="INN_KPP" Alias="ИНН/КПП" DataType="System.String"/>
+      <Column Name="BIK" Alias="БИК" DataType="System.String"/>
+      <Column Name="DIR_NAME" Alias="ФИО руководителя" DataType="System.String"/>
+      <Column Name="DIR_STATUS" Alias="Должность руководителя" DataType="System.String"/>
+      <Column Name="REQUIS_PRIM" Alias="Примечание" DataType="System.String"/>
+      <Column Name="GL_BUH" Alias="Гл.Бух." DataType="System.String"/>
+      <Column Name="DIR_NAME_1" Alias="ФИО директора1" DataType="System.String"/>
+      <Column Name="DIR_NAME_2" Alias="ФИО директора2" DataType="System.String"/>
+      <Column Name="DIR_NAME_3" Alias="ФИО директора3" DataType="System.String"/>
+      <Column Name="DIR_NAME_4" Alias="ФИО директора4" DataType="System.String"/>
+      <Column Name="TEL_REQUIS" Alias="Телефон" DataType="System.String"/>
+      <Column Name="DIR_STATUS_1" Alias="Должность руководителя1" DataType="System.String"/>
+      <Column Name="DIR_STATUS_2" Alias="Должность руководителя2" DataType="System.String"/>
+      <Column Name="E_MAIL" Alias="E@mail" DataType="System.String"/>
+      <Column Name="DEYSTV" Alias="Окончания дествущ[ий]/[ая]" DataType="System.String"/>
+      <Column Name="DEYSTV1" Alias="Окончания дествущ[его]/[ая]" DataType="System.String"/>
+      <Column Name="USE_DEFAULT" Alias="По умолчанию" DataType="System.String"/>
+      <Column Name="OGRN" Alias="ОГРН" DataType="System.String"/>
+      <Column Name="OKPO" Alias="ОКПО" DataType="System.String"/>
+      <Column Name="OKATO" DataType="System.String"/>
+      <Column Name="OKTMO" DataType="System.String"/>
+      <Column Name="OKOGU" Alias="ОКОГУ" DataType="System.String"/>
+      <Column Name="OKFS" Alias="ОКФС" DataType="System.String"/>
+      <Column Name="OKPF" Alias="ОКПФ" DataType="System.String"/>
+      <Column Name="OKVED" Alias="ОКВЕД" DataType="System.String"/>
+      <Column Name="POCHT_ADR" Alias="Почтовый адрес" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlCompany" Alias="Контрагент" ReferenceName="sqlCompany" DataType="null" Enabled="true">
+      <Column Name="ID_COMPANY" Alias="ID" DataType="System.Int32"/>
+      <Column Name="OKPO" Alias="ОКПО" DataType="System.String"/>
+      <Column Name="INN" Alias="ИНН" DataType="System.String"/>
+      <Column Name="COMPANY_NAME" Alias="Наименование компании" DataType="System.String"/>
+      <Column Name="ADRES" Alias="Адрес" DataType="System.String"/>
+      <Column Name="CITY" Alias="Город" DataType="System.String"/>
+      <Column Name="ID_MANAGER" Alias="ID_Ответственного" DataType="System.Int32"/>
+      <Column Name="ID_OFFICE" DataType="System.Int32"/>
+      <Column Name="DATA_INPUT" Alias="Дата добавления" DataType="System.DateTime"/>
+      <Column Name="ID_VID_COMPANY" Alias="ID_вид" DataType="System.Int32"/>
+      <Column Name="ROD_DEYATEL" Alias="Род деят." DataType="System.String"/>
+      <Column Name="id_group_company" DataType="System.Int32"/>
+      <Column Name="URL_COMPANY" Alias="URL" DataType="System.String"/>
+      <Column Name="ID_CH" DataType="System.String"/>
+      <Column Name="PUBLIC_COMPANY" DataType="System.String"/>
+      <Column Name="DOP_INF" DataType="System.String"/>
+      <Column Name="YUR_FIZ" Alias="Юр_Физ" DataType="System.Int32"/>
+      <Column Name="ID_LIST_STATUS_COMPANY" DataType="System.Int32"/>
+      <Column Name="INFORM_IN_COMPANY" Alias="Источник информации" DataType="System.String"/>
+      <Column Name="DR_COMPANY" DataType="System.DateTime"/>
+      <Column Name="PROF_HOLIDAY" DataType="System.DateTime"/>
+      <Column Name="MANAGER_NAME_CREATER_COMPANY" Alias="Учредитель" DataType="System.String"/>
+      <Column Name="COUNTRY_COMPANY" Alias="Страна" DataType="System.String"/>
+      <Column Name="FORM_SOBST_COMPANY" Alias="Форма собственности" DataType="System.String"/>
+      <Column Name="TRASH" Alias="Удален" DataType="System.Int32"/>
+      <Column Name="FAM_FIZ" Alias="Фамилия" DataType="System.String"/>
+      <Column Name="NAME_FIZ" Alias="Имя" DataType="System.String"/>
+      <Column Name="OTCH_FIZ" Alias="Отчество" DataType="System.String"/>
+      <Column Name="FAM_LAT_FIZ" Alias="Фамилия лат." DataType="System.String"/>
+      <Column Name="NAME_LAT_FIZ" Alias="Имя  лат." DataType="System.String"/>
+      <Column Name="REGION" Alias="Регион" DataType="System.String"/>
+      <Column Name="MESTO_RABOT_FIZ" Alias="Место работы" DataType="System.String"/>
+      <Column Name="DOLGNOST_RABOT_FIZ" Alias="Должность" DataType="System.String"/>
+      <Column Name="ADDRESS_RABOT_FIZ" Alias="Адрес раб." DataType="System.String"/>
+      <Column Name="POL_ANKT" Alias="Пол" DataType="System.String"/>
+      <Column Name="SEM_POLOJ_ANKT" Alias="Семейное положение" DataType="System.String"/>
+      <Column Name="M_RJD_ANKT" Alias="Место рождения" DataType="System.String"/>
+      <Column Name="COUNTRY_RJD_ANKT" Alias="Страна рождения" DataType="System.String"/>
+      <Column Name="GRAJD_ANKT" Alias="Гражданство" DataType="System.String"/>
+      <Column Name="PASPORT_LOCAL_NUMBER" Alias="Паспорт номер" DataType="System.String"/>
+      <Column Name="PASPORT_LOCAL_SER" Alias="Паспорт серия" DataType="System.String"/>
+      <Column Name="PASPORT_LOCAL_DATE" Alias="Паспорт дата выдачи" DataType="System.DateTime"/>
+      <Column Name="PASPORT_LOCAL_KEM" Alias="Паспорт кем выдан" DataType="System.String"/>
+      <Column Name="PASPORT_LOCAL_NUMB_PODRAZDEL" Alias="Паспорт номер подразделения" DataType="System.String"/>
+      <Column Name="PASPORT_ZAGRAN_TIP" Alias="Загранпаспорт тип" DataType="System.String"/>
+      <Column Name="PASPORT_ZAGRAN_NUMBER" Alias="Загранпаспорт номер" DataType="System.String"/>
+      <Column Name="PASPORT_ZAGRAN_SER" Alias="Загранпаспорт серия" DataType="System.String"/>
+      <Column Name="PASPORT_ZAGRAN_DATE" Alias="Загранпаспорт дата выдачи" DataType="System.DateTime"/>
+      <Column Name="PASPORT_ZAGRAN_FINAL" DataType="System.DateTime"/>
+      <Column Name="PASPORT_ZAGRAN_KEM" Alias="Загранпаспорт кеи выдан" DataType="System.String"/>
+      <Column Name="MANAGER_TRASH" Alias="Удалил" DataType="System.String"/>
+      <Column Name="DATE_TRASH" Alias="Дата удаления" DataType="System.DateTime"/>
+      <Column Name="CODE_1C" DataType="System.String"/>
+      <Column Name="MARKER_ON" DataType="System.Int32"/>
+      <Column Name="ID_MANAGER_MARKER" DataType="System.Int32"/>
+      <Column Name="MARKER_DESCRIPTION" DataType="System.String"/>
+      <Column Name="ID_CATEGORY" DataType="System.Int32"/>
+      <Column Name="DOP_INF_obsolete" DataType="System.String"/>
+      <Column Name="ADD_people" DataType="System.Int32"/>
+      <Column Name="ADD_years" DataType="System.Int32"/>
+      <Column Name="ADD_login" DataType="System.String"/>
+      <Column Name="ADD_pass" DataType="System.String"/>
+      <Column Name="ADD_city1" DataType="System.String"/>
+      <Column Name="ADD_otr" DataType="System.String"/>
+      <Column Name="ADD_mail" DataType="System.String"/>
+      <Column Name="ADD_ADD_number" DataType="System.String"/>
+      <Column Name="ADD_ADD_data" DataType="System.DateTime"/>
+      <Column Name="ADD_ADD_type_project" DataType="System.String"/>
+      <Column Name="ADD_ADD_price" DataType="System.Double"/>
+      <Column Name="ADD_data" DataType="System.String"/>
+      <Column Name="ADD_fake_status" DataType="System.String"/>
+      <Column Name="ADD_ntextf" DataType="System.String"/>
+      <Column Name="ID_AGENT" DataType="System.Int32"/>
+      <Column Name="ADD_ddate2" DataType="System.DateTime"/>
+      <Column Name="ADD_smalldt" DataType="System.DateTime"/>
+      <Column Name="ADD_OBU4ENIE" DataType="System.String"/>
+      <Column Name="ADD_DATA_OBU4ENIE" DataType="System.DateTime"/>
+      <Column Name="ADD_BUISNESS_1" DataType="System.String"/>
+      <Column Name="ADD_BUISNESS_2" DataType="System.String"/>
+      <Column Name="ADD_RAZMER" DataType="System.String"/>
+      <Column Name="ADD_Tyri" DataType="System.String"/>
+      <Column Name="ADD_Group_Company" DataType="System.Int32"/>
+      <Column Name="ADD_SIZE" DataType="System.String"/>
+      <Column Name="ADD_88888" DataType="System.String"/>
+      <Column Name="ADD_ADD_FIELD_X1" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N86" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N87" DataType="System.Int32"/>
+      <Column Name="ADD_COMPANY_N88" DataType="System.Double"/>
+      <Column Name="ADD_COMPANY_N89" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N90" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N91" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N92" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N93" DataType="System.String"/>
+      <Column Name="IS_INTERNAL" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="ADD_COMPANY_N95" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N96" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N97" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N98" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N99" DataType="System.String"/>
+      <Column Name="ADD_COMPANY_N100" DataType="System.DateTime"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlRequisCompanyU" Alias="РеквизитыКонтрагентаЮр" ReferenceName="sqlRequisCompanyU" DataType="null" Enabled="true">
+      <Column Name="ID_REQUIS" Alias="ID" DataType="System.Int32"/>
+      <Column Name="ID_COMPANY" Alias="ID_контагента" DataType="System.Int32"/>
+      <Column Name="FULL_NAME" Alias="Полное наименование" DataType="System.String"/>
+      <Column Name="ADRES_YUR" Alias="Адрес юр." DataType="System.String"/>
+      <Column Name="RS" Alias="РС" DataType="System.String"/>
+      <Column Name="ID_BANK_SPR" Alias="ID_банка" DataType="System.Int32"/>
+      <Column Name="BANK_NAME" Alias="Наименование банка" DataType="System.String"/>
+      <Column Name="KS" Alias="КС" DataType="System.String"/>
+      <Column Name="BIK" Alias="БИК" DataType="System.String"/>
+      <Column Name="DIR_NAME" Alias="ФИО руководителя" DataType="System.String"/>
+      <Column Name="DIR_STATUS" Alias="Должность руководителя" DataType="System.String"/>
+      <Column Name="REQUIS_PRIM" Alias="Примечание" DataType="System.String"/>
+      <Column Name="INN" Alias="ИНН" DataType="System.String"/>
+      <Column Name="KPP" Alias="КПП" DataType="System.String"/>
+      <Column Name="OKPO" Alias="ОКПО" DataType="System.String"/>
+      <Column Name="GL_BUH" Alias="Гл.бух." DataType="System.String"/>
+      <Column Name="ADRES_FACT" Alias="Адрес фактический" DataType="System.String"/>
+      <Column Name="DIR_NAME_1" Alias="ФИО руководителя1" DataType="System.String"/>
+      <Column Name="DIR_NAME_2" Alias="ФИО руководителя2" DataType="System.String"/>
+      <Column Name="DIR_NAME_3" Alias="ФИО руководителя3" DataType="System.String"/>
+      <Column Name="DIR_NAME_4" Alias="ФИО руководителя4" DataType="System.String"/>
+      <Column Name="KR_NAME" Alias="Краткое наименование" DataType="System.String"/>
+      <Column Name="KONT_TEL" Alias="Контактные телефон" DataType="System.String"/>
+      <Column Name="DIR_STATUS_1" Alias="Должность руководителя1" DataType="System.String"/>
+      <Column Name="DIR_STATUS_2" Alias="Должность руководителя2" DataType="System.String"/>
+      <Column Name="EMAIL" Alias="E@mail" DataType="System.String"/>
+      <Column Name="FAX" DataType="System.String"/>
+      <Column Name="DEYSTV_CLIENT" Alias="Окончания дествущ[ий]/[ая]" DataType="System.String"/>
+      <Column Name="DEYSTV_CLIENT1" Alias="Окончания дествущ[его]/[ая]" DataType="System.String"/>
+      <Column Name="INN_BANKA" Alias="ИНН банка" DataType="System.String"/>
+      <Column Name="ADRES_BANK" Alias="Адрес банка" DataType="System.String"/>
+      <Column Name="GOROD_BANKA" Alias="Город банка" DataType="System.String"/>
+      <Column Name="OGRN_CLIENT" Alias="ОГРН" DataType="System.String"/>
+      <Column Name="DATA_KEM_OGRN" DataType="System.String"/>
+      <Column Name="OKONH" DataType="System.String"/>
+      <Column Name="KONT_LISO_COMPANI" Alias="Контактное лицо компании" DataType="System.String"/>
+      <Column Name="USE_DEFAULT" Alias="По умолчанию" DataType="System.String"/>
+      <Column Name="OKATO" DataType="System.String"/>
+      <Column Name="OKTMO" DataType="System.String"/>
+      <Column Name="OKOGU" Alias="ОКОГУ" DataType="System.String"/>
+      <Column Name="OKFS" Alias="ОКФС" DataType="System.String"/>
+      <Column Name="OKPF" Alias="ОКПФ" DataType="System.String"/>
+      <Column Name="OKVED" Alias="ОКВЕД" DataType="System.String"/>
+      <Column Name="POCHT_ADR" Alias="Почтовый адрес" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlRequisCompanyF" Alias="РеквизитыКонтрагентаФиз" ReferenceName="sqlRequisCompanyF" DataType="null" Enabled="true">
+      <Column Name="ID_LIST_REQUIS_FIZ" Alias="ID" DataType="System.Int32"/>
+      <Column Name="FIO_REQUIS_FIZ" Alias="ФИО" DataType="System.String"/>
+      <Column Name="ADDRES_PROPIS" Alias="Адрес прописки" DataType="System.String"/>
+      <Column Name="ADDRES_FACT" Alias="Адрес проживания" DataType="System.String"/>
+      <Column Name="ADDRES_POCHTA" Alias="Почтовый адрес" DataType="System.String"/>
+      <Column Name="INN_REQUIS_FIZ" Alias="ИНН" DataType="System.String"/>
+      <Column Name="RS_REQUIS_FIZ" Alias="РС" DataType="System.String"/>
+      <Column Name="BANK_NAME_REQUIS_FIZ" Alias="Наименование банка" DataType="System.String"/>
+      <Column Name="KS_REQUIS_FIZ" Alias="КС" DataType="System.String"/>
+      <Column Name="BIK_BANK" Alias="БИК банка" DataType="System.String"/>
+      <Column Name="PASPORT_NUMBER" Alias="Паспорт номер" DataType="System.String"/>
+      <Column Name="PASPORT_VIDAN_DATA" Alias="Паспорт дата выдачи" DataType="System.DateTime"/>
+      <Column Name="PASPORT_VIDAN_KEM" Alias="Паспорт кем выдан" DataType="System.String"/>
+      <Column Name="DATE_HAPY" Alias="Дата рождения" DataType="System.DateTime"/>
+      <Column Name="KONT_TEL" Alias="Контактный телефон" DataType="System.String"/>
+      <Column Name="ID_COMPANY" Alias="ID_контрагента" DataType="System.Int32"/>
+      <Column Name="FIO_REQUIS_FIZ_1" Alias="ФИО1" DataType="System.String"/>
+      <Column Name="FIO_REQUIS_FIZ_2" Alias="ФИО2" DataType="System.String"/>
+      <Column Name="FIO_REQUIS_FIZ_3" Alias="ФИО3" DataType="System.String"/>
+      <Column Name="FIO_REQUIS_FIZ_4" Alias="ФИО4" DataType="System.String"/>
+      <Column Name="IMENUEM_FIZ" Alias="Именуемый/ая" DataType="System.String"/>
+      <Column Name="PRIM_REQUIS_FIZ" Alias="Примечание" DataType="System.String"/>
+      <Column Name="EMAIL_FIZ" Alias="E@mail" DataType="System.String"/>
+      <Column Name="FAX_FIZ" DataType="System.String"/>
+      <Column Name="MESTO_R_FIZ" Alias="Место рождения" DataType="System.String"/>
+      <Column Name="DEYSTV_FIZ" Alias="Окончания дествущ[ий]/[ая]" DataType="System.String"/>
+      <Column Name="DEYSTV_FIZ1" Alias="Окончания дествущ[его]/[ая]" DataType="System.String"/>
+      <Column Name="INN_BANKA_FIZ" Alias="ИНН банка" DataType="System.String"/>
+      <Column Name="ADRES_BANK_FIZ" Alias="Адрес банка" DataType="System.String"/>
+      <Column Name="GOROD_BANKA_FIZ" Alias="Город банка" DataType="System.String"/>
+      <Column Name="Seria_pasp_FIZ" Alias="Паспорт серия" DataType="System.String"/>
+      <Column Name="N_PASP_FIZ" Alias="Паспорт номер" DataType="System.String"/>
+      <Column Name="KOD_PODRAZDELEN_FIZ" Alias="Паспорт код подразделения" DataType="System.String"/>
+      <Column Name="GRAJDAN_FIZ" Alias="Гражданство" DataType="System.String"/>
+      <Column Name="KONTAKT_LISO_FIZ" Alias="Контактное лицо" DataType="System.String"/>
+      <Column Name="USE_DEFAULT" Alias="По умолчанию" DataType="System.String"/>
+      <Column Name="KPP" Alias="КПП" DataType="System.String"/>
+      <Column Name="OGRN" Alias="ОГРН" DataType="System.String"/>
+      <Column Name="OKPO" Alias="ОКПО" DataType="System.String"/>
+      <Column Name="OKATO" DataType="System.String"/>
+      <Column Name="OKTMO" DataType="System.String"/>
+      <Column Name="OKOGU" Alias="ОКОГУ" DataType="System.String"/>
+      <Column Name="OKFS" Alias="ОКФС" DataType="System.String"/>
+      <Column Name="OKPF" Alias="ОКПФ" DataType="System.String"/>
+      <Column Name="OKVED" Alias="ОКВЕД" DataType="System.String"/>
+      <Column Name="POCHT_ADR" Alias="Почтовый адрес" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlWEB_COMPANY" Alias="Веб" ReferenceName="sqlWEB_COMPANY" DataType="null" Enabled="true">
+      <Column Name="ID_LIST_ADD_URL_ADDRESS_COMPANY" Alias="ID" DataType="System.Int32"/>
+      <Column Name="ADD_URL_ADDRESS_COMPANY" Alias="URL контрагента" DataType="System.String"/>
+      <Column Name="ID_COMPANY" Alias="ID_контрагента" DataType="System.Int32"/>
+      <Column Name="PRIM_URL_ADDRESS_COMPANY" Alias="Примечание" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlCONTACT_MAN" Alias="Контактное лицо" ReferenceName="sqlCONTACT_MAN" DataType="null" Enabled="true">
+      <Column Name="ID_CONTACT_MAN" Alias="ID" DataType="System.Int32"/>
+      <Column Name="ID_COMPANY" Alias="ID_контрагента" DataType="System.Int32"/>
+      <Column Name="CONTACT_MAN_NAME" Alias="ФИО контактного лица" DataType="System.String"/>
+      <Column Name="DISCRIPTION_CONTACT_MAN" Alias="Описание" DataType="System.String"/>
+      <Column Name="DISCRIPTION_CONTACT_MAN2" Alias="Описание2" DataType="System.String"/>
+      <Column Name="DATA_HAPY" Alias="Дата рождения" DataType="System.DateTime"/>
+      <Column Name="NAME_PART" Alias="Имя" DataType="System.String"/>
+      <Column Name="FAM_PART" Alias="Фамилия" DataType="System.String"/>
+      <Column Name="OTCH_PART" Alias="Отчество" DataType="System.String"/>
+      <Column Name="RECOM_TIME_CONTACT" Alias="Время контакта" DataType="System.String"/>
+      <Column Name="ID_LIST_STATUS_CONTACT_MAN" DataType="System.Int32"/>
+      <Column Name="TRASH" Alias="Удален" DataType="System.Int32"/>
+      <Column Name="MANAGER_TRASH" Alias="Удалил" DataType="System.String"/>
+      <Column Name="DATE_TRASH" Alias="Дата удаления" DataType="System.DateTime"/>
+      <Column Name="SEX" Alias="Пол" DataType="System.String"/>
+      <Column Name="STATUS_CONTACT_MAN_DATE_CHANGED" DataType="System.DateTime"/>
+      <Column Name="CABINET_LOGIN" DataType="System.String"/>
+      <Column Name="CABINET_PASS" DataType="System.String"/>
+      <Column Name="TELEPHONE" DataType="System.String"/>
+      <Column Name="IS_DEFAULT" DataType="System.Boolean" BindableControl="CheckBox"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlLIST_DOVER" Alias="Доверенность" ReferenceName="sqlLIST_DOVER" DataType="System.Int32" Enabled="true">
+      <Column Name="ID_SPR_LIST_OSNOV" Alias="ID" DataType="System.Int32"/>
+      <Column Name="LIST_OSNOV" Alias="На_основании" DataType="System.String"/>
+      <Column Name="DIR_NAME_1" Alias="ФИО руководителя1" DataType="System.String"/>
+      <Column Name="DIR_NAME_2" Alias="ФИО руководителя2" DataType="System.String"/>
+      <Column Name="DIR_NAME_3" Alias="ФИО руководителя3" DataType="System.String"/>
+      <Column Name="DIR_NAME_4" Alias="ФИО руководителя4" DataType="System.String"/>
+      <Column Name="DIR_STATUS_1" Alias="Должность руководителя1" DataType="System.String"/>
+      <Column Name="DIR_STATUS_2" Alias="Должность руководителя2" DataType="System.String"/>
+      <Column Name="DIR_NAME" Alias="ФИО руководителя" DataType="System.String"/>
+      <Column Name="DIR_STATUS" Alias="Должность руководителя" DataType="System.String"/>
+      <Column Name="DEYSTV" Alias="Окончания дествущ[ий]/[ая]" DataType="System.String"/>
+      <Column Name="DEYSTV1" Alias="Окончания дествущ[его]/[ая]" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlLIST_DOVER_CLIENT" Alias="Доверенность контрагента" ReferenceName="sqlLIST_DOVER_CLIENT" DataType="null" Enabled="true">
+      <Column Name="ID_SPR_LIST_OSNOV" Alias="ID" DataType="System.Int32"/>
+      <Column Name="ID_COMPANY" Alias="ID_контрагента" DataType="System.Int32"/>
+      <Column Name="LIST_OSNOV" Alias="На_основании" DataType="System.String"/>
+      <Column Name="DIR_NAME_1" Alias="ФИО руководителя1" DataType="System.String"/>
+      <Column Name="DIR_NAME_2" Alias="ФИО руководителя2" DataType="System.String"/>
+      <Column Name="DIR_NAME_3" Alias="ФИО руководителя3" DataType="System.String"/>
+      <Column Name="DIR_NAME_4" Alias="ФИО руководителя4" DataType="System.String"/>
+      <Column Name="DIR_STATUS_1" Alias="Должность руководителя1" DataType="System.String"/>
+      <Column Name="DIR_STATUS_2" Alias="Должность руководителя2" DataType="System.String"/>
+      <Column Name="DIR_NAME" Alias="ФИО руководителя" DataType="System.String"/>
+      <Column Name="DIR_STATUS" Alias="Должность руководителя" DataType="System.String"/>
+      <Column Name="DEYSTV" Alias="Окончания дествущ[ий]/[ая]" DataType="System.String"/>
+      <Column Name="DEYSTV1" Alias="Окончания дествущ[его]/[ая]" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlLIST_TOVAR" Alias="Список товаров и услуг" ReferenceName="sqlLIST_TOVAR" DataType="null" Enabled="true">
+      <Column Name="ID_TOVAR_DOC" Alias="ID" DataType="System.Int32"/>
+      <Column Name="TOVAR_DOC" Alias="Наименование товара" DataType="System.String"/>
+      <Column Name="KOL_VO" Alias="Количество" DataType="System.Double"/>
+      <Column Name="PRICE" Alias="Цена" DataType="System.Double"/>
+      <Column Name="SUMMA" Alias="Сумма" DataType="System.Double"/>
+      <Column Name="ID_TOVAR_1C" DataType="System.String"/>
+      <Column Name="ED_IZM_TOVAR" Alias="Ед.изм." DataType="System.String"/>
+      <Column Name="DISCOUNT" Alias="Скидка_[%]" DataType="System.Double"/>
+      <Column Name="PRICE1_DISCOUNT" Alias="Скидка_цена" DataType="System.Double"/>
+      <Column Name="DISCOUNT_NAME" Alias="Название скидки" DataType="System.String"/>
+      <Column Name="NDS" Alias="НДС" DataType="System.Double"/>
+      <Column Name="NDS_RUB" Alias="НДС_РУБ" DataType="System.Double"/>
+      <Column Name="UNIQUE_CODE" Alias="КОД" DataType="System.String"/>
+      <Column Name="UNITID" DataType="System.Int32"/>
+      <Column Name="PRICE1_NOT_D" DataType="System.Double"/>
+      <Column Name="ID_TOVAR" DataType="System.Int32"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlMANAGER_OTVET" Alias="Ответственный" ReferenceName="sqlMANAGER_OTVET" DataType="null" Enabled="true">
+      <Column Name="ID_MANAGER" Alias="ID" DataType="System.Int32"/>
+      <Column Name="MANAGER_NAME" Alias="Имя" DataType="System.String"/>
+      <Column Name="DATA_INPUT" Alias="Дата регистрации" DataType="System.DateTime"/>
+      <Column Name="DATA_HAPY" Alias="Дата рождения" DataType="System.DateTime"/>
+      <Column Name="TELEPHON_HOME" Alias="Телефон дом." DataType="System.String"/>
+      <Column Name="TELEPHON_JOB" Alias="Телефон раб." DataType="System.String"/>
+      <Column Name="ADRES_HOME" Alias="Адрес дом." DataType="System.String"/>
+      <Column Name="TIP" Alias="Тип" DataType="System.Int32"/>
+      <Column Name="e_mail" Alias="E@mail" DataType="System.String"/>
+      <Column Name="id_group" Alias="id_отдела" DataType="System.Int32"/>
+      <Column Name="SIP_LOGIN" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlNA_OSNOV_DOC" Alias="На основании документа" ReferenceName="sqlNA_OSNOV_DOC" DataType="null" Enabled="true">
+      <Column Name="ID_DOC" Alias="ID_документа" DataType="System.Int32"/>
+      <Column Name="ID_COMPANY" Alias="ID_контрагента" DataType="System.Int32"/>
+      <Column Name="ID_TIP_DOC" Alias="ID_тип_документа" DataType="System.Int32"/>
+      <Column Name="ID_PRIZNZK_DOC" Alias="ID_признак_документа" DataType="System.Int32"/>
+      <Column Name="NUMBER_DOC" Alias="Номер" DataType="System.String"/>
+      <Column Name="DATA_DOC" Alias="Дата" DataType="System.DateTime"/>
+      <Column Name="PRIM_DOC" Alias="Примечание" DataType="System.String"/>
+      <Column Name="ID_SPR_REQUIS" Alias="ID_реквизиты" DataType="System.Int32"/>
+      <Column Name="ID_VALUTA" Alias="ID_валюта" DataType="System.Int32"/>
+      <Column Name="ID_CONTACT_MAN" Alias="ID_контактное_лицо" DataType="System.Int32"/>
+      <Column Name="SUMMA" Alias="Сумма" DataType="System.Double"/>
+      <Column Name="ID_PRIZNAK_INCLUDE_TOVAR" Alias="ID_признак_включения_товаров" DataType="System.Int32"/>
+      <Column Name="ID_REQUIS_COMPANY" Alias="ID_реквизиты_клиента" DataType="System.Int32"/>
+      <Column Name="ID_DOC_OSNOV" Alias="ID_документа_на_основании" DataType="System.Int32"/>
+      <Column Name="ID_LIST_REQUIS_FIZ" Alias="ID_реквизиты_физ" DataType="System.Int32"/>
+      <Column Name="SUM_PROPIS" Alias="Сумма прописью" DataType="System.String"/>
+      <Column Name="NA_OSNOV_COMPANY" Alias="На_основании_контрагент" DataType="System.String"/>
+      <Column Name="NA_OSNOV_CLIENT" Alias="На_основании_клиент" DataType="System.String"/>
+      <Column Name="ID_MANAGER" Alias="ID_создателя" DataType="System.Int32"/>
+      <Column Name="TRASH" Alias="Удален" DataType="System.Int32"/>
+      <Column Name="ID_CH" DataType="System.String"/>
+      <Column Name="ID_MANAGER_EXE" Alias="ID_ответственного" DataType="System.Int32"/>
+      <Column Name="ID_LIST_PROJECT_COMPANY" DataType="System.Int32"/>
+      <Column Name="MANAGER_TRASH" Alias="Удалил" DataType="System.String"/>
+      <Column Name="DATE_TRASH" Alias="Дата_удаления" DataType="System.DateTime"/>
+      <Column Name="CODE_DOC_1C" DataType="System.String"/>
+      <Column Name="MARKER_ON" DataType="System.Int32"/>
+      <Column Name="ID_MANAGER_MARKER" DataType="System.Int32"/>
+      <Column Name="MARKER_DESCRIPTION" DataType="System.String"/>
+      <Column Name="ID_TIP_DOCUMENT" Alias="ID_тип_документа" DataType="System.Int32"/>
+      <Column Name="TIP_DOCUMENT" Alias="Тип_документа" DataType="System.String"/>
+      <Column Name="DIR_DOC" Alias="Имя файла шаблона" DataType="System.String"/>
+      <Column Name="KEY_DOC" DataType="System.String"/>
+      <Column Name="use_fast" DataType="System.String"/>
+      <Column Name="use_word" DataType="System.String"/>
+      <Column Name="ENABLED_DOC" Alias="Активен" DataType="System.String"/>
+      <Column Name="TIP_DOCUMENT1" DataType="System.String"/>
+      <Column Name="AllowCabinet" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="ID_DEAL" DataType="System.Int32"/>
+      <Column Name="NDS_DIRECTION" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N33" DataType="System.String"/>
+      <Column Name="ADD_ewwe" DataType="System.DateTime"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N35" DataType="System.String"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N36" DataType="System.String"/>
+      <Column Name="ADD_LIST_DOCUMENTS_N37" DataType="System.DateTime"/>
+      <Column Name="FILENAME_FRX" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlSELECT_KURS" Alias="Курс" ReferenceName="sqlSELECT_KURS" DataType="null" Enabled="true">
+      <Column Name="ID_KURS" Alias="ID" DataType="System.Int32"/>
+      <Column Name="ID_VALUTA" Alias="ID_валюты" DataType="System.Int32"/>
+      <Column Name="DATA" Alias="Дата" DataType="System.DateTime"/>
+      <Column Name="KURS" Alias="Курс" DataType="System.Double"/>
+      <Column Name="NAME_VALUTA" Alias="Название валюты" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlCURRENT_USER" Alias="Пользователь" ReferenceName="sqlCURRENT_USER" DataType="null" Enabled="true">
+      <Column Name="ID_MANAGER" Alias="ID" DataType="System.Int32"/>
+      <Column Name="MANAGER_NAME" Alias="Имя" DataType="System.String"/>
+      <Column Name="DATA_INPUT" Alias="Дата регистрации" DataType="System.DateTime"/>
+      <Column Name="DATA_HAPY" Alias="Дата рождения" DataType="System.DateTime"/>
+      <Column Name="TELEPHON_HOME" Alias="Телефон дом." DataType="System.String"/>
+      <Column Name="TELEPHON_JOB" Alias="Телефон раб." DataType="System.String"/>
+      <Column Name="ADRES_HOME" Alias="Адрес дом." DataType="System.String"/>
+      <Column Name="TIP" Alias="Тип" DataType="System.Int32"/>
+      <Column Name="e_mail" Alias="E@mail" DataType="System.String"/>
+      <Column Name="id_group" Alias="id_отдела" DataType="System.Int32"/>
+      <Column Name="SIP_LOGIN" DataType="System.String"/>
+    </TableDataSource>
+    <TableDataSource Name="sqlGoodList" ReferenceName="sqlGoodList" DataType="System.Int32" Enabled="true">
+      <Column Name="ID_TOVAR" DataType="System.Int32"/>
+      <Column Name="DISCRIPTION_TOVAT" DataType="System.String"/>
+      <Column Name="UNIQUE_CODE" DataType="System.String"/>
+      <Column Name="PRICE_TOVAR" DataType="System.Double"/>
+      <Column Name="OST_TOVAR" DataType="System.Double"/>
+      <Column Name="ID_LIST_TOVAR_GROUPS" DataType="System.Int32"/>
+      <Column Name="ED_IZM_TOVAR" DataType="System.String"/>
+      <Column Name="RAZDEL" DataType="System.Int32"/>
+      <Column Name="SS_PRICE_TOVAR" DataType="System.Double"/>
+      <Column Name="PRIM_TOVAR" DataType="System.String"/>
+      <Column Name="CODE_1C" DataType="System.String"/>
+      <Column Name="DATE_ACTUAL" DataType="System.DateTime"/>
+      <Column Name="NDS" DataType="System.Decimal"/>
+      <Column Name="TRASH" DataType="System.Int32"/>
+      <Column Name="MANAGER_TRASH" DataType="System.String"/>
+      <Column Name="CURRENCYID" DataType="System.Int32"/>
+      <Column Name="IS_SALE_EMBARGO" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="MIN_QNT" DataType="System.Decimal"/>
+      <Column Name="MIN_PRICE" DataType="System.Decimal"/>
+      <Column Name="PICTURE" DataType="System.Byte[]" BindableControl="Picture"/>
+      <Column Name="ADD_LIST_TOVAR_N21" DataType="System.String"/>
+      <Column Name="IMG_URL_110" DataType="System.String"/>
+      <Column Name="IMG_URL_24" DataType="System.String"/>
+      <Column Name="UNITID" DataType="System.Int32"/>
+      <Column Name="DATE_TRASH" DataType="System.DateTime"/>
+      <Column Name="IMG_URL" DataType="System.String"/>
+      <Column Name="TOVAR_GROUP_NAME" DataType="System.String"/>
+      <Column Name="CURRENCY_NAME" DataType="System.String"/>
+      <Column Name="UNIT_NAME" DataType="System.String"/>
+      <Column Name="UNIT_CODE" DataType="System.Int32"/>
+    </TableDataSource>
+    <Relation ParentDataSource="sqlGoodList" ChildDataSource="sqlLIST_TOVAR" ParentColumns="ID_TOVAR" ChildColumns="ID_TOVAR" Enabled="true"/>
+    <Parameter Name="FIOfromDover" DataType="System.Boolean" Description="��� �� ������������"/>
+    <Parameter Name="SUMMA_DOC" DataType="System.String" Description="����� ���������"/>
+    <Parameter Name="VALUTA_DOC" DataType="System.String" Description="������"/>
+    <Parameter Name="DATA_DOC" DataType="System.String" Description="����"/>
+    <Parameter Name="KONTAKT_DOC" DataType="System.String" Description="���������� ����"/>
+    <Parameter Name="NUMBER_DOC" DataType="System.String" Description="����� ���������"/>
+    <Parameter Name="SUMMA_PROPIS" DataType="System.String" Description="����� ��������"/>
+    <Parameter Name="NA_OSNOV" DataType="System.String" Description="�� ���������"/>
+    <Parameter Name="NA_OSNOV_CLIENT" DataType="System.String" Description="�� ���������. ������"/>
+    <Parameter Name="PRIM_TXT" DataType="System.String" Description="����������"/>
+    <Parameter Name="id_manager" DataType="System.Int32"/>
+    <Parameter Name="MANAGER_NAME" DataType="System.String"/>
+    <Parameter Name="VAT_EXCLUDED" DataType="System.Decimal"/>
+    <Parameter Name="VAT" DataType="System.Decimal"/>
+    <Total Name="SUMMA_BEZ_NDS" Expression="ToDouble([Список товаров и услуг.Цена]) * ToDouble([Список товаров и услуг.Количество])" Evaluator="Data1"/>
+    <Total Name="COUNT" TotalType="Count" Evaluator="Data1"/>
+    <Total Name="SUMMA_NDS" Expression="ToDouble([Список товаров и услуг.НДС_РУБ]) * ToDouble([Список товаров и услуг.Количество])" Evaluator="Data1"/>
+    <Total Name="SUMMA" Expression="[Список товаров и услуг.Сумма]" Evaluator="Data1"/>
+  </Dictionary>
+  <ReportPage Name="Page1" Guides="37.8,689.85">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="434.7" Guides="18.9">
+      <TextObject Name="Text1" Left="198.45" Top="18.9" Width="491.4" Height="30.24" Text="[Реквизиты.Полное наименование]" HorzAlign="Right" Font="Verdana, 10pt, style=Bold"/>
+      <TextObject Name="Text2" Left="311.85" Top="56.7" Width="378" Height="75.6" Text="Адрес: [Реквизиты.Адрес юридический]" HorzAlign="Right" Font="Verdana, 10pt"/>
+      <TableObject Name="Table1" Left="37.8" Top="198.45" Width="652.04" Height="103.95" Border.Lines="All">
+        <TableColumn Name="Column1" Width="109.24" AutoSize="true"/>
+        <TableColumn Name="Column2" Width="268"/>
+        <TableColumn Name="Column3" Width="60.1"/>
+        <TableColumn Name="Column4" Width="107.35"/>
+        <TableColumn Name="Column5" Width="107.35"/>
+        <TableRow Name="Row1" Height="17.01">
+          <TableCell Name="Cell1" Border.Lines="All" Border.Color="Silver" Text="ИНН / КПП:" Padding="2, 0, 2, 0" Font="Arial, 10pt, style=Bold"/>
+          <TableCell Name="Cell2" Border.Lines="All" Border.Color="Silver" Text="[Реквизиты.ИНН/КПП]" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell3" Border.Lines="All" Border.Color="Silver" Text="Сч. № [Реквизиты.РС]" Padding="2, 0, 2, 0" VertAlign="Bottom" ColSpan="3" RowSpan="3"/>
+          <TableCell Name="Cell4" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell5" Padding="2, 0, 2, 0"/>
+        </TableRow>
+        <TableRow Name="Row2" Height="26.46">
+          <TableCell Name="Cell6" Border.Lines="All" Border.Color="Silver" Text="Получатель:&#10;[Реквизиты.Полное наименование][Реквизиты.Полное наименование]" Padding="2, 0, 2, 0" ColSpan="2" RowSpan="2"/>
+          <TableCell Name="Cell7" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell8" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell9" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell10" Padding="2, 0, 2, 0"/>
+        </TableRow>
+        <TableRow Name="Row3" Height="7.56">
+          <TableCell Name="Cell11" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell12" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell13" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell14" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell15" Padding="2, 0, 2, 0"/>
+        </TableRow>
+        <TableRow Name="Row4" Height="26.46">
+          <TableCell Name="Cell16" Border.Lines="All" Border.Color="Silver" Text="Банк получателя:&#10;[Реквизиты.Наименование банка]" Padding="2, 0, 2, 0" ColSpan="2" RowSpan="2"/>
+          <TableCell Name="Cell17" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell18" Border.Lines="All" Border.Color="Silver" Text="Бик:" Padding="2, 0, 2, 0" Font="Arial, 10pt, style=Bold"/>
+          <TableCell Name="Cell19" Border.Lines="All" Border.Color="Silver" Text="[Реквизиты.БИК]&#13;&#10;&#13;&#10;[Реквизиты.КС]" Padding="2, 0, 2, 0" ColSpan="2" RowSpan="2"/>
+          <TableCell Name="Cell20" Padding="2, 0, 2, 0"/>
+        </TableRow>
+        <TableRow Name="Row5" Height="26.46">
+          <TableCell Name="Cell21" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell22" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell23" Border.Lines="All" Border.Color="Silver" Text="Сч. №" Padding="2, 0, 2, 0" Font="Arial, 10pt, style=Bold"/>
+          <TableCell Name="Cell24" Padding="2, 0, 2, 0"/>
+          <TableCell Name="Cell25" Padding="2, 0, 2, 0"/>
+        </TableRow>
+      </TableObject>
+      <TextObject Name="Text3" Left="37.8" Top="368.55" Width="122.85" Height="18.9" Text="Плательщик:" Font="Verdana, 10pt, style=Bold"/>
+      <TextObject Name="Text6" Left="189" Top="368.55" Width="283.5" Height="18.9" Text="[РеквизитыКонтрагентаЮр.Полное наименование]" Font="Verdana, 10pt"/>
+      <TextObject Name="Text4" Left="37.8" Top="387.45" Width="122.85" Height="18.9" Text="ИНН / КПП:" Font="Verdana, 10pt, style=Bold"/>
+      <TextObject Name="Text7" Left="189" Top="387.45" Width="283.5" Height="18.9" Text="[РеквизитыКонтрагентаЮр.ИНН] / [РеквизитыКонтрагентаЮр.КПП]" Font="Verdana, 10pt"/>
+      <TextObject Name="Text5" Left="37.8" Top="406.35" Width="151.2" Height="18.9" Text="Грузополучатель:" Font="Verdana, 10pt, style=Bold"/>
+      <TextObject Name="Text8" Left="189" Top="406.35" Width="283.5" Height="18.9" Text="[РеквизитыКонтрагентаЮр.Полное наименование]" Font="Verdana, 10pt"/>
+      <TextObject Name="Text21" Left="37.8" Top="311.85" Width="652.05" Height="37.8" Text="Счет № [NUMBER_DOC] от [Документ.DATA_DOC]" HorzAlign="Center" Font="Verdana, 14pt, style=Bold"/>
+      <TextObject Name="Text22" Left="37.8" Top="160.65" Width="652.05" Height="18.9" Text="Образец заполнения платежного поручения" HorzAlign="Center" Font="Verdana, 10pt, style=Bold"/>
+      <PictureObject Name="Picture1" Width="75.6" Height="75.6"/>
+      <TextObject Name="Text60" Left="66.15" Top="103.95" Width="94.5" Height="18.9" Text="[Реквизиты.Полное наименование]"/>
+    </ReportTitleBand>
+    <DataBand Name="Data1" Width="718.2" Height="122.85" CanGrow="true" DataSource="sqlLIST_TOVAR">
+      <TableObject Name="Table4" Left="37.78" Width="547.86" Height="48.25">
+        <TableColumn Name="Column15" Width="43.23"/>
+        <TableColumn Name="Column16" Width="246.5"/>
+        <TableColumn Name="Column17" Width="76.41"/>
+        <TableColumn Name="Column18" Width="57.51"/>
+        <TableColumn Name="Column19" Width="114.21"/>
+        <TableColumn Name="Column20" Width="10"/>
+        <TableRow Name="Row8" Height="48.25" AutoSize="true">
+          <TableCell Name="Cell35" Border.Lines="All" Border.Color="Silver" Text="[Row#]" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 9pt"/>
+          <TableCell Name="Cell36" Border.Lines="All" Border.Color="Silver" Text="[Список товаров и услуг.Наименование товара]" Padding="2, 0, 2, 0" VertAlign="Center" Font="Verdana, 9pt"/>
+          <TableCell Name="Cell37" Border.Lines="All" Border.Color="Silver" Text="[Список товаров и услуг.Ед.изм.]" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 8pt"/>
+          <TableCell Name="Cell38" Border.Lines="All" Border.Color="Silver" Text="[sqlGoodList.IMG_URL_110]" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 8pt"/>
+          <TableCell Name="Cell39" Border.Lines="All" Border.Color="Silver" Text="[sqlGoodList.ID_TOVAR]" Padding="2, 0, 2, 0" HorzAlign="Right" VertAlign="Center" Font="Verdana, 9pt"/>
+          <TableCell Name="Cell40" Border.Lines="All" Border.Color="Silver" Text="[Список товаров и услуг.Сумма]" Padding="2, 0, 2, 0" HorzAlign="Right" VertAlign="Center" Font="Verdana, 9pt"/>
+        </TableRow>
+      </TableObject>
+      <PictureObject Name="Picture2" Left="633.1" Width="75.6" Height="75.6" Border.Lines="All" ImageLocation="[sqlGoodList.IMG_URL_110]"/>
+      <DataHeaderBand Name="DataHeader1" Width="718.2" Height="37.8">
+        <TableObject Name="Table3" Left="37.78" Width="652.07" Height="37.8">
+          <TableColumn Name="Column9" Width="43.23"/>
+          <TableColumn Name="Column10" Width="246.5"/>
+          <TableColumn Name="Column11" Width="76.41"/>
+          <TableColumn Name="Column12" Width="57.51"/>
+          <TableColumn Name="Column13" Width="114.21"/>
+          <TableColumn Name="Column14" Width="114.21"/>
+          <TableRow Name="Row7" Height="37.8">
+            <TableCell Name="Cell29" Border.Lines="All" Border.Color="Silver" Text="№&#13;&#10;" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 9pt, style=Bold"/>
+            <TableCell Name="Cell30" Border.Lines="All" Border.Color="Silver" Text="Наименование товара&#13;&#10;" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 9pt, style=Bold"/>
+            <TableCell Name="Cell31" Border.Lines="All" Border.Color="Silver" Text="Единица&#13;&#10;изме-&#13;&#10;рения&#13;&#10;" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 8pt, style=Bold"/>
+            <TableCell Name="Cell32" Border.Lines="All" Border.Color="Silver" Text="Коли-&#13;&#10;чество&#13;&#10;" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 8pt, style=Bold"/>
+            <TableCell Name="Cell33" Border.Lines="All" Border.Color="Silver" Text="Цена&#13;&#10;" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 9pt, style=Bold"/>
+            <TableCell Name="Cell34" Border.Lines="All" Border.Color="Silver" Text="Сумма&#13;&#10;" Padding="2, 0, 2, 0" HorzAlign="Center" VertAlign="Center" Font="Verdana, 9pt, style=Bold"/>
+          </TableRow>
+        </TableObject>
+      </DataHeaderBand>
+      <DataFooterBand Name="DataFooter1" Width="718.2" Height="198.45">
+        <TextObject Name="Text9" Left="349.65" Top="9.45" Width="132.3" Height="18.9" Text="Сумма без НДС:&#13;&#10;" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text12" Left="538.65" Top="9.45" Width="151.2" Height="18.9" Text="[FormatNumber([SUMMA] - [SUMMA_NDS], 2)]" HorzAlign="Right" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text10" Left="349.65" Top="28.35" Width="132.3" Height="18.9" Text="в т.ч. НДС:&#13;&#10;" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text13" Left="538.65" Top="28.35" Width="151.2" Height="18.9" Text="[FormatNumber([SUMMA_NDS], 2)]" HorzAlign="Right" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text11" Left="349.65" Top="56.7" Width="132.3" Height="18.9" Text="Всего к оплате:&#13;&#10;" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text14" Left="538.65" Top="56.7" Width="151.2" Height="18.9" Text="[FormatNumber([SUMMA], 2)]" HorzAlign="Right" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text15" Left="37.8" Top="85.05" Width="652.05" Height="47.25" Text="Всего наименований [COUNT], на сумму [FormatNumber([SUMMA],2)] ([SUMMA_PROPIS])." VertAlign="Center" Font="Verdana, 9pt"/>
+        <TextObject Name="Text16" Left="37.8" Top="141.75" Width="264.6" Height="18.9" Text="[Реквизиты.Должность руководителя]" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text18" Left="396.9" Top="141.75" Width="292.95" Height="18.9" Text="[Реквизиты.ФИО руководителя]" HorzAlign="Right" Font="Verdana, 10pt"/>
+        <TextObject Name="Text17" Left="37.8" Top="170.1" Width="264.6" Height="18.9" Text="Главный бухгалтер&#13;&#10;" Font="Verdana, 10pt, style=Bold"/>
+        <TextObject Name="Text19" Left="396.9" Top="170.1" Width="292.95" Height="18.9" Text="[Реквизиты.Гл.Бух.]" HorzAlign="Right" Font="Verdana, 10pt"/>
+      </DataFooterBand>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Width="718.2" Height="18.9">
+      <TextObject Name="Text20" Left="567" Width="122.85" Height="18.9" Text="Страница: [Page]" HorzAlign="Right" VertAlign="Center" Font="Verdana, 8pt"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

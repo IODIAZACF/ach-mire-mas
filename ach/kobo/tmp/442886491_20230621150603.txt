@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [_id] => 442886491
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-06-21T14:52:47.684-05:00
+    [end] => 2023-06-21T15:06:01.619-05:00
+    [group_gener/departamento] => choco
+    [group_gener/municipio] => 27495_nuqui
+    [group_gener/Point] => 4.580828 -74.047724 0 0
+    [group_gener/Vereda_Corregimiento] => Jurubida
+    [group_gener/Comunidad] => Jagua
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => CHNU-078.1
+    [group_gener/Consorcio] => mire_ii
+    [group_gener/Fase] => respuesta
+    [group_gener/Fecha_del_Evento_001] => 2021-09-20
+    [group_gener/Hora_del_Evento] => 12:06:00.000-05:00
+    [group_gu1lq88/Narrativo] => 12:06: se recibió llamada del Sargento Morela de Nuquí haciendo seguimiento de la notificación a autoridades, se hizo énfasis en que no necesitamos acompañamiento durante el tiempo de misión   1:12 Se comunicaron con nosotros representante de la mesa departamental indigena manifestando preocupación porque una de las organizaciones del consorcio estaría planeando ingreso a las comunidades en compañía de fuerza pública  Nos comunicamos con ella diciendo que nosostros no tenemos como organizaciones humanitarias contemplada ningun acompañamiento de parte de fuerza pública
+    [group_gu1lq88/CATEGOR_A] => compromiso_de_la_neutralidad
+    [group_gu1lq88/ONG_IMPLICADAS] => ach nrc aps mdm
+    [group_gu1lq88/Autor] => Paola Garcés
+    [group_gu1lq88/Consecuencias] => ninguna
+    [group_gu1lq88/MEDIDAS_TOMADAS] => Validación con fuerza pública. Sin novedad, Se reitera la no necesidad de operativos especiales.
+    [group_gu1lq88_001/Caracter] => GAO
+    [group_gu1lq88_001/Existe_otro_grupo_armado_impli] => no
+    [__version__] => vMyq2zqdvygDy9tDck5MDS
+    [meta/instanceID] => uuid:7a4c1b0d-33ed-4380-8230-1632312457fa
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => 7a4c1b0d-33ed-4380-8230-1632312457fa
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 4.580828
+            [1] => -74.047724
+        )
+
+    [_submission_time] => 2023-06-21T20:06:02
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

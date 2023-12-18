@@ -1,0 +1,85 @@
+stdClass Object
+(
+    [_id] => 390238951
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-02-02T13:25:55.924-05:00
+    [end] => 2023-02-02T13:34:32.098-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => SAN ANDRES DE TUMACO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => La Hondita
+    [group_gu1lq88/Nombre_de_la_comunidad] => indígenas Awá de Piedra Sellada y Sangulpi Palmar
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-02-02
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => HOMICIDIOS MINAS PRESENCIA_GAI RECLUTAMIENTO
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 21 de enero, al menos 676 personas (175 familias) de los resguardos indígenas Awá Piedra Sellada y Sangulpi Palmar del municipio de Tumaco se encuentran en situación de confinamiento por cuenta de enfrentamientos entre Grupos  Armados No Estatales (GANE) sin identificar y la contaminación de los territorios con minas antipersonal (MAP). Cabe resaltar que, horas antes del confinamiento, 439 personas (116 familias) del resguardo Piedra Sellada se desplazaron al interior del territorio para protegerse de los enfrentamientos, hacia un salón comunitario en la vereda La Hondita, donde luego se configuró el confinamiento. Preocupa que, durante el mes de enero del 2023 se reportaron 3 accidentes con MAP (el 15, 23 y 28 de enero) en territorio Awá, donde una persona murió y otras dos resultaron heridas. También existe un alto riesgo de desplazamientos individuales hacia Ecuador como medida de autoprotección y para contar con redes de apoyo dado el carácter binacional de los Awá. 
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/desplazamiento_intraveredal_y_confinamiento_de_comunidades_indigenas_awa_en_tumaco_vf.pdf
+    [group_yv1ph08/time2] => 2023-01-21
+    [group_yv1ph08/time3] => 12
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 291
+    [group_cn9za51/personas] => 1115
+    [group_cn9za51/comu] => 3
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Debido a las condiciones de seguridad en la zona, la institucionalidad no ha logrado acceder al territorio para determinar la situación actual de las comunidades y brindar respuesta al desplazamiento y confinamiento.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => Ante la continuidad de los eventos, puede incrementarse el número de personas y familias afectadas por desplazamiento y confinamiento. Al igual que los accidentes por contaminación de MAP en los territorios ancestrales.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3+https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/desplazamiento_intraveredal_y_confinamiento_de_comunidades_indigenas_awa_en_tumaco_vf.pdf+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:14d9d4b9-9e48-4eef-bcb5-64def9b56f93
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 14d9d4b9-9e48-4eef-bcb5-64def9b56f93
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-02T18:34:41
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,94 @@
+stdClass Object
+(
+    [_id] => 484188391
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-09-26T08:52:24.330-05:00
+    [end] => 2023-09-26T09:00:02.719-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => RICAURTE
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Cabildo Awa La Libertad, Resguardo indígena Magui, Resguardos Awa Palmar Imbí y Vegas Chaguí Chimbuza
+    [group_gu1lq88/Nombre_de_la_comunidad] => Comunidad indígena del puebo Awa
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-09-25
+    [group_gu1lq88/Nombre_de_quien_reporta] => Mario Dager
+    [group_gu1lq88/Cargo] => ACH
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => NARCOTRAF CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Durante el mes de septiembre, más de 2.276 personas (583 familias) de comunidades
+indígenas Awá del municipio de Ricaurte se han desplazado masivamente y confinado debido
+a enfrentamientos entre Grupos Armados No Estatales (GANE) y amenazas contra la
+población civil:
+• 13 de septiembre, más de 80 personas (30 familias) se desplazaron y otras 630 personas
+(210 familias) se confinaron del cabildo indígena Awá Libertad del Telembí de Ricaurte
+debido a enfrentamientos entre GANE, por la posible contaminación de caminos con (MAP),
+la presencia de GANE y la falta de transporte intermunicipal por miedo a acciones de los
+GANE.
+• 15 de septiembre, más de 1.500 personas (320 familias) indígenas Awá del Resguardo de
+Magüí, municipio de Ricaurte se desplazaron masivamente hacia el corregimiento de
+Altaquer, municipio de Barbacoas debido amenazas, contaminación de caminos y viviendas
+con MAP, enfrentamientos continuos entre GANE y la incineración del Centro Educativo de
+la vereda Guadual.
+• 15 de septiembre, más 66 personas (22 familias) de los resguardos indígenas Awá Palmar
+Imbí y Vegas Chagüí Chimbuza se desplazaron hacia el casco urbano de Ricaurte debido a
+enfrentamientos entre GANE. Se alerta que algunas familias se han desplazado hacia los
+municipios de Cali (Valle del Cauca) y Tuquerres.
+    [group_yv1ph08/time2] => 2023-09-15
+    [group_yv1ph08/time3] => 10
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Población indígena
+    [group_cn9za51/familias] => 583
+    [group_cn9za51/personas] => 2276
+    [group_cn9za51/comu] => 3
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Falta completar
+    [group_mu9ho06/Seguridad] => Falta completar
+    [group_mu9ho06/Operativa] => Falta completar
+    [group_mu9ho06/Observaciones] => Falta completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:0e428c57-0e46-46b4-b291-93f171b9d3a2
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 0e428c57-0e46-46b4-b291-93f171b9d3a2
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-26T14:00:04
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,82 @@
+stdClass Object
+(
+    [_id] => 503030174
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-11-10T13:47:40.546-05:00
+    [end] => 2023-11-10T16:15:08.652-05:00
+    [group_gu1lq88/Departamento] => ANTIOQUIA
+    [group_gu1lq88/municip_antioquia] => SEGOVIA
+    [group_gu1lq88/Otros_Municipios] => El Bagre
+    [group_gu1lq88/Vereda] => Municipio de Segovia (Veredas el Aguacate y San José del Pescado). Municipio El Bagre (Cañaveral de Chicamoqué y Puerto López)
+    [group_gu1lq88/Nombre_de_la_comunidad] => No indica
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-10-28
+    [group_gu1lq88/Nombre_de_quien_reporta] => Maria Fernanda Gomez
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO Restric_movilidad
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 28 de octubre, en la vereda El Aguacate de Segovia, nordeste de Antioquia, se vienen presentando enfrentamientos entre Grupos Armados no Estatales (GANE) que hacen presencia en esta zona limítrofe con el sur de Bolívar. Producto de estos enfrentamientos, el 29 de octubre se desplazaron al menos 21 familias (52 personas) de las veredas El Aguacate y San José del Pescado. 
+
+De estás, al menos 11 familias (26 personas) se encuentran en un albergue temporal en el casco urbano de Segovia. Otras se han desplazado hacia casas familiares en Cañaveral de Chicamoqué y Puerto López (El Bagre). Por otra parte, alrededor de unas 17 familias de la vereda el Aguacate y al menos 8 familias de la vereda de San José del Pescado se encuentran con restricciones a la movilidad, lo cual genera un alto riesgo de se materialice un posible confinamiento en los próximos días. Entre las personas que se encuentran desplazadas y quienes están con restricciones, suman alrededor de 46 familias (132 personas) afectadas por estos hechos.
+
+Entre los impactos humanitarios, se destacan graves infracciones al DIH realizadas por los GANE que operan en la zona, quienes vienen utilizando las casas de la población civil como escudo, generando grandes afectaciones a las comunidades quienes están quedando en medio del fuego cruzado. Por otra parte, algunas personas manifiestan que les han sido retenidos sus documentos de identidad y tienen prohibido el uso de celulares. Hasta la fecha, los enfrentamientos entre estos grupos son constantes y se teme que la situación empeore ante las presuntas alianzas de dos GANE para impedir el avance de otro en zona limítrofe entre Segovia y el sur de Bolívar.
+    [group_yv1ph08/time2] => 2023-10-28
+    [group_yv1ph08/time3] => 0
+    [group_yv1ph08/evidencia] => proteccion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 46
+    [group_cn9za51/personas] => 132
+    [group_cn9za51/comu] => 0
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde la alcaldía de Segovia se ha adaptado un albergue temporal en el casco urbano del municipio y se está brindando la alimentación para 26 personas (11 familias). Además, se brindaron kits de asistencia alimentaría para las 5 familias albergadas en casas de familiares en la vereda de Cañaveral de Chicamoqué y casco urbano de Segovia. En temas de salud, se asistieron a 7 personas que lo requerían y se brindó asistencia psicosocial para 3 personas más, entre ellos un menor de edad. Las capacidades de respuesta del municipio de Segovia están desbordadas ya que durante el año se han presentado al menos 10 enfrentamientos y 8 incursiones armadas que han dejado alrededor de 3 desplazamientos masivos. Desde el ELC Antioquia, se expresa que, producto de los múltiples hechos victimizantes que vienen sucediendo en la zona del nordeste, se han visto limitadas las capacidades de respuesta de las organizaciones y socios que tienen presencia allí. El 31 de octubre se realizó Comité Municipal de Justicia Transicional (CMJT) en Segovia, allí se dio apertura al censo y se estableció el cierre de este para el 10 de noviembre.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vQ42okMMCzm2zggHw89X3L
+    [meta/instanceID] => uuid:c1a37ee2-a9ad-4a75-8992-08ddf8031695
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => c1a37ee2-a9ad-4a75-8992-08ddf8031695
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-11-10T21:15:09
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

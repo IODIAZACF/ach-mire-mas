@@ -1,0 +1,160 @@
+stdClass Object
+(
+    [_id] => 411101715
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-03-31T13:10:17.052-05:00
+    [end] => 2023-03-31T17:23:22.019-05:00
+    [group_kp1mu41/_1_C_digo] => BOSA 648.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-03-10
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-01-17
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-01-25
+    [group_kp1mu41/_4_Departamento] => BOLIVAR
+    [group_kp1mu41/BOLIVAR] => REGIDOR
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => San Cayetano, El Piñal, Santa Lucia, Los Caimanes y Villa Elvira
+    [group_kp1mu41/num_comunidades] => 5
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => San Cayetano, El Piñal, Santa Lucia, Los Caimanes y Villa Elvira
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Mery Pame Diáz
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3208932407
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R.2_EeE R3_Shelter R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2023-01-17
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2023-01-25
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => 1. Falta de acompañamiento institucional (secretaria de eduación) a comunidades afectadas durante situaciones de emergencia específicante en los centros educativo donde las  necesidades educativas se incrmentan.
+2. Censo escolar o simat de los NNA desactualizados
+3. Vacios en apoyo y acompañamiento institucional en la construcción y actualización de los planes de gestión del riesgo a las escuelas y comunidades.
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => 1. Acompañamiento institucional a centros educativos durante situaciones de emergencia específicante donde las  necesidades educativas se incrementan. 
+2. Acompañamiento al plan de respuesta educativo en emergencia por parte de referentes educativos. 
+3. Actualización del censo escolar o simat de los NNA.
+4. Acompañamiento en la construcción y actualización de los planes de gestión del riesgo a las escuelas y comunidades.
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-13-2/Entrega_de_artículos_para_ 4-R3-3.1-15-4/Sesion/nes_de_información_
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2023-01-17
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2023-01-25
+    [group_wo86e58/group_zh0iq17/Vacios_SHELTER] => Las familias no contaron con respuesta institucional opurtuna durante la situación aguda de la emergencia donde se requirío urgentemente kits de habitat básicos.
+    [group_wo86e58/group_zh0iq17/Recomendaciones_SHELTER] => Hacer una caracterización anticipada identificando necesidades de alojamiento para que las comunidades y familias afectadas por emergencias naturales puedan minimamente tener acceso a kits de habitat.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.1-16-2-Rehabilitaciones_agua 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2023-01-17
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2023-01-25
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => Falta de acompañamiento institucional por parte del área encargado (planeación/agua y sanemento) en las acciones de Wash-consorcio.
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => 1. Revisión y mantenimiento a motobombas entregadas a la comunidad de los Caimanes, San Cayetano y el Piñal.
+2. Revisión a la estructura del acueducto de la comunidad San Cayetano que esta en mal estado, esta ubicada en la escuela y puede generar accidentes físicos a NNA y demás.
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2023-01-17
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2023-01-25
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => 1. Censos con información desactualizada
+2. Falta de apoyo institucional en medios de vida
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => 1. Seguir nutriendo en censo por comunidad atendida que elaboro el equipo de MIRE .
+2. Formación en manejo y siembra de semillas regionales que les permita fortalecer los cultivos de pancoger como forma de recuperar y reproducir productos alimenticios que perdieron durante la ola invernal.
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Se entregaron 400 kits de ocupación tiempo libre a Niños, Niñas y Adolescentes de las comunidades de San Cayetano (132), El Piñal (86), Santa Lucia (26), Los Caimanes (110) y Villa Elvira (46) pertenecientes al municipio El Regidor afectados por la emergencia de ola invernal.
+kits individuales que se entregaron con el objetivo de que los Niños, Niñas y Adolescentes contaran con un material de apoyo para el desarrollo de actividades extracurriculares, aprovechamiento del tiempo libre, fortalecimiento de la motricidad fina y la gestión de emociones durante la situación de emergencia invernal.
+Uno de los elementos que trae el kit es la cartilla leo y escribo, herramienta que les permite a los niños y niñas trabajar la motricidad fina fortaleciendo el aprendizaje seguro una vez retomen las clases escolares.
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Los espacios seguros de aprendizaje desarrollados con los NNA estuvieron enfocados a trabajar 2 componentes de EiE, se realizaron en media jornada, 4 horas por comunidad, se organizaron en grupos focales de acuerdo a niveles de escolaridad (grado 0 - 2do, 3ro - 5to, 6to - 9), teniendo en cuenta las temáticas a desarrollar según el grupo etario.
+En el componente de protección se trabajó una temática de PEAS (prevención de la explotación y el abuso sexual) con el tema “mi cuerpo es territorio sagrado”, se brindaron unas técnicas de visualización con la actividad “mi pluma” donde se hicieron ejercicios prácticos para fortalecer la recuperación emocional, también se trabajó un tema de identidad y espacio seguro con el que se dieron mensajes de comportamientos seguros  frente a riegos de protección dentro y fuera de su comunidad, promoviendo así el autocuidado en medio de la crisis.
+En el componente de aprendizaje seguro se trabajó con los niños y niñas de preescolar la cartilla Leo y Escribo con quienes se realizaron trazos, dibujos y colorearon mándalas con el objetivo de fortalecer la motricidad fina como actividades de preparación para el inicio de actividades escolares.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => La formacion de EiE se realizó en 1 dia en la comunidad de San Cayetano, donde participaron 11 docentes y 14 agentes educativos comunitarios, formandose en total 25 personas de las 5 comunidades priorizadas.
+El taller de formación se enfocó a fortalecer conocimientos y herramientas para la respuesta educativa en primera fase de la emergencia, se utilizó una metodología práctica y participativa a partir de un enfoque pedagógico que permitiera llevar un aprendizaje significativo y constructivista en los tres módulos de EeE.
+En el primer módulo se trabajaron conceptos teoricos con el fin de fortalecer conocimientos acerca de que es una emergencia, tipos de emergencia y la educación en contextos de emergencia.
+En el segundo modulo, Práctica Pedagógica y Comunitaria se desarrollaron temáticas que promueven la respuesta educativa en la emergencia como es la labor del docente y agente educativo comunitario en la fase aguda de la emergencia, el acompañamiento emocional, la resiliencia y el enfoque de género en la práctica pedagógica, herramientas pedagógicas que apoyan la preparación del aprendizaje seguro de los NNA en medio de la crisis.  
+El tercer modulo, Ruta Pedagógica para la Respuesta en la Emergencia aguda, se hizo un ejercicio de identificación y reconocimiento de riesgos de protección en sus comunidades, una vez identificados se procedió a construir el plan de respuesta educativo en emergencias donde se plantearon estrategias educativas y comunitarias para desarrollar al interior de sus escuelas y comunidades, promoviendo así la continuidad de la educación en situaciones de emergencia y el mejor aprendizaje.
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Con el proposito de apoyar y facilitar los procesos de enseñanza de los docentes y la labor del agente educativo durante la situación emerenica invernal, se hizo entrega de kits docentes individuales a 11 docentes y 14 agentes educativos comunitarios de las comunidades de San Cayetano, El Piñal, Santa Lucia, Los Caimanes y Villa Elvira.
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => Se entregaron 4 maletas pedagógicas a cada uno de los centros educativos de San Cayetano, El Piñal, Santa Lucia y Los Caimanes, que contenían elementos deportivos, musicales y material fungible para el apoyo a actividades escolares y el desarrollo de las estrategias educativas y comunitarias planteadas en el plan de respuesta educativo. 
+La comunidad de Villa Elvira no cuenta con centro educativo, sin embargo, se identificó que hay 46 NNA en la comunidad, por lo que las otras comunidades definieron donar algunos elementos de la maleta con el fin de que los NNA de esta comunidad  también pudieran contar con materiales de apoyo para el desarrollo de actividades de ocupación de tiempo libre.
+    [group_of2sk15/group_qw7se20/_12_Entrega_de_art_culos_dom_sticos_que_salvan_vidas_NRC] => Se entregaron 1000 kits de hábitat en las comunidades de Villa Elvira, Los Caimanes, El Piñal, Santa Lucia y San Cayetano para satisfacer las necesidades básicas de protección, seguridad y dignidad de la población. En total, 487 mujeres y 513 hombres resultaron beneficiados con la entrega. Estas comunidades carecían de censos y había desconfianza al proporcionar información, lo que retrasó la intervención. Sin embargo, se llevó a cabo un ejercicio coordinado con las Juntas de Acción Comunal (JAC) para recopilar información y conocer el número de familias en cada comunidad, lo que generó confianza en la población para proporcionar la información necesaria. Se estableció una colaboración activa y positiva con la institucionalidad, específicamente desde la Oficina de Gestión del Riesgo, que siempre estuvo dispuesta a brindar apoyo y fue fundamental para el éxito de la intervención.
+    [group_of2sk15/group_qw7se20/_14_Shelter_and_Settlements_information_and_awareness_raising_sessions_NRC] => Con el fin de mejorar la efectividad y el alcance de la entrega de los kits de hábitat, se llevaron a cabo sesiones de información y sensibilización (532 personas) en cada una de las comunidades de Regidor, Villa Elvira, Los Caimanes, El Piñal, Santa Lucia y San Cayetano. Se trabajó de manera coordinada entre los sectores SAN (Seguridad Alimentaria y Nutrición) y WASH (Agua, Saneamiento e Higiene) durante las sesiones de sensibilización, lo que fortaleció el espacio y tuvo un mayor impacto en la comunidad.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => Rehabilitaciones sencillas de sistemas de suministro de agua; se realiza la entrega de 3 motobombas las cuales beneificiaran el 100% de las comunidades de El Piñal, Los caimanes, San Cayetano y santa Lucia en la cual se beneficiarios 925 personas, en las cuales tubierón acceso a agua, no para el consumo humano, pero si para las actividades domesticas, en caminadas de acciones con el kit de higiene el cual cuenta con elementos para la purificación del agua y llegar a margenes de agua potable, sin embargo, no se logra garantizar agua potable o segura.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Se realiza la entrega de 537 kits de higiene diferenciales para nucleos unipersonales, de dos personas a 3 persoans y de 4 personas, esto con el fin de poder brindar una asistencia equitativa a las necesidades, por otra parte se realiza un enfoque en la higiene bocal de los niños, entregando cepillo dental, crema dental para niños y niñas, se adiciona tema de cloro con una concentración del 3.5% con el fin de poder tener un tratamiento de agua intradomicilar y cumpliendo con el manual de esfera con los 120 gramos por persona al mes.  dicho lo anterior se entrego la siguentes cantidades.
+Kits de higiene (1) - de 1 persona: cantidad: 226 unidades 
+Kits de higiene (2) - de 2 a 3 personas: cantidad: 244 unidades 
+Kits de higiene (3) - mayor a 4 personas: cantidad: 67 unidades
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Se realiza un taller a 446 familias, en las cuales estaba orientado en el reconimineto elementos de higiene, relación de uso de estos elementos y la vida util, adicional a ello se hace enfasis en la higiene mentrual como herramienta de nueva masculinidades, en la cual se pretender generar consiencia y empatia hacia las adolecentes de la comunidad, se realiza generación de proceso intradomiliciares para el consumo de agua y prevenir enfermedades, adicional a lo anterior se habla de los espacios de entornos seguros con enfasis en el uso adecuado de las basuras.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => Las comunidades mencionaron durante la ERN que han tenido dificultades de acceso de alimentos y elementos de canasta básica, por lo cual han tenido que implementar estrategias, como disminuir el tamaño de las porciones de alimentos, disminuir el número de comidas diarias (dos comidas en promedio al día) y la adopción de una dieta poco diversificada basada en 4-6 grupos de alimentos. Adicional Las familias afectadas por la emergencia invernal han tenido que desarrollar estrategias como pedir comida prestada o regalada a vecinos y familiares, entre tres a cuatro días a la semana, comprar alimentos menos preferidos o más económicos, y en general todos los hogares han tenido que disminuir la alimentación de los adultos para priorizar la alimentación de los NNA. 
+Durante los meses más críticos de la emergencia invernal la alcaldía brindo una asistencia alimentaria y las empresas palmeras en las que se encuentran vinculados hombres y mujeres de las comunidades, adicional les brindaron asistencia con elementos de higiene y aseo.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => La asistencia brindada por el sector SAN con paquetes alimentarios familiares fue entregar a las comunidades priorizadas (Los Caimanes, San Cayetano, El Piñal, Santa Lucia y Villa Elvira) del municipio de Regidor en Bolívar paquetes alimentarios familiares con 13 artículos con más de 6 grupos alimenticios, adicional se brindó taller en seguridad alimentaria, alimentación saludable, lactancia materna; beneficiando así a mas de 1267 personas y 410 familias en necesidades alimentarias insatisfechas a causa de la emergencia climática del medio Magdalena.                                                                                                     Atención diferencial a 38 personas en condición de discapacidad y 60 madres en periodo de lactancia y estado de gestiación de las cinco comunidades priorizadas.                                                                                                                              Se promovió que las comunidades pudieran realizar un llamado a la institucionalidad para que pudiera recopilar de manera adecuada los censos y que las JAC puedan recopilar los censos de manera adecuada como procesos colectivos (Capacidad instaurada), se brindó como retroalimentación a las cinco comunidades los censos depurados de las personas atendidas.
+
+Se realizó sensibilización en promedio a 400 jefes de hogar en temas de seguridad alimentaria, alimentación saludable, buenas practicas en la preparación y almacenamiento de los alimentos, consejos de lactancia materna entre otros temas.                                                                                                                                Se promovió que las comunidades pudieran realizar un llamado a la institucionalidad para que pudiera recopilar de manera adecuada los censos y que las JAC puedan recopilar los censos de manera adecuada como procesos colectivos (Capacidad instaurada), se brindó como retroalimentación a las cinco comunidades los censos depurados de las personas atendidas.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => En total se realizaron 70 líneas base a lideres, jefes, jefas de hogar en las comunidades de San Cayetano, Los Caimanes, Santa Lucia, El Piñal y Villa Elvira, de cuales fueron 32 efectivos como PDM destacando que las familias mencionan que la asistencia alimentaría fue brindada de manera segura, y en promedio la asistencia brindada duró de dos a cuatro semanas; no se generaron requerimientos MQR 
+Inconvenientes presentados: No se evidenciaron inconvenientes con el cargue de las líneas en el sistema kobo, una vez se contaba con red wifi los archivos cargaban con normalidad.
+Aciertos: Al guardar el enlace en el navegador y poner en modo avión el PC permitió que el formulario se pudiera diligenciar y se iba guardando en el ordenador.
+Recomendaciones: Las familias mencionaron que en algunas horas del día no cuentan con acceso a llamada telefónica de voz, por lo cual prefieren que sean comunicados por WhatsApp, adicional algunos jefes de hogar mencionan que en el día están laborando en sus parcelas y en las palmeras, por lo cual sugieren que si no pueden ser contactados en el día se puedan comunicar en horas de la tarde noche.
+Es importante realizar un análisis especifico con la información de los PDM ya que, se puede destacar la información de la atención por desastre natural en emergencia desarrollada por el consorcio MIRE.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => La emergencia se atendío en un marco de desastre natural por lo que no se justificaron acciones en ICLA
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => La emergencia se atendío en un marco de desastre natural por lo que no se encontraron brechas en el sector de protección.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => La emergencia se atendío en un marco de desastre natural por lo que no se encontraron brechas en el sector de protección.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => La emergencia se atendío en un marco de desastre natural por lo que no se encontraron brechas en el sector de protección.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => N/A
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => No se encontraron brechas en el sector de salud
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => ACCESIBILIDAD RESPONSABILIDAD PARTICIPACION
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Al realizar la ERN el desplazamiento hacia las comunidades fue fluvial por la inundación, pero al realizar la consolidación de la atención los caminos habían bajado el nivel del agua
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Se pudo realizar los desplazamientos terrestres, disminuyendo los tiempos de recorrido y permitiendo que el equipo pudiera pernoctar en cabecera municipal y no en las comunidades.
+    [group_zj0tq00/Dificultades_encontr_das_Responsabilidad] => Las comunidades no contaban con los censos actualizados
+    [group_zj0tq00/Medidas_adoptadas_Responsabilidad] => El equipo en terreno de MIRE lógro recoger y registrar la información pendiente de los censos.
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => Falta de acompañamiento o articulación de referentes educativos de la institucionalidad en las acciones de educacipon en emergencia.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => Se realizaron acciones de coordinación con el área de gestión de riesgo de la alcaldía y se articuló con los líderes y docentes de las comunidades para realizar las acciones de educación en emergencia.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 1267
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 3
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 0
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1267
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 3
+    [group_kq5co41/group_wc9ei25/c_Virtual_Individual] => 0
+    [group_kq5co41/group_wc9ei25/d_Virtual_Grupal] => 0
+    [group_kq5co41/group_wc9ei25/e_Telef_nica] => 0
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => MARGELIS QUIÑONEZ LÁZARO
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3145479521
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3145479521
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => ALCALDÍA MUNICIPAL DE REGIDOR BOLIVAR
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => ELKIN SERENO
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 0
+    [group_kq5co41/group_ay3fs88/_2c_Tel_fono_2] => 0
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 3225499656
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => LIDER COMUNIDAD SAN CAYETANO
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => KELLY YOHANA PIMIENTA
+    [group_kq5co41/group_wb3kr41/_3b_Tel_fono_1] => 0
+    [group_kq5co41/group_wb3kr41/_3c_Tel_fono_2] => 0
+    [group_kq5co41/group_wb3kr41/_3d_Celular] => 3027437848
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => LIDER COMUNIDAD EL PIÑAL
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:4f58c5f0-8b6a-4e8a-b337-bfa41129d189
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 4f58c5f0-8b6a-4e8a-b337-bfa41129d189
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-03-31T22:23:36
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

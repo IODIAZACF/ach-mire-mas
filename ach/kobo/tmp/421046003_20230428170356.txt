@@ -1,0 +1,220 @@
+stdClass Object
+(
+    [_id] => 421046003
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-04-28T10:44:50.078-05:00
+    [end] => 2023-04-28T17:02:11.481-05:00
+    [group_kp1mu41/_1_C_digo] => GUEL-656.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-04-28
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-03-15
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-03-29
+    [group_kp1mu41/_4_Departamento] => GUAVIARE
+    [group_kp1mu41/GUAVIARE] => EL_RETORNO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => LA PAZ, SALTO ALTO, SALTO BAJO Y TOMACHIPÁN
+    [group_kp1mu41/num_comunidades] => 5
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => LA PAZ, SALTO ALTO, SALTO BAJO Y TOMACHIPÁN
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => LAURA RINCÓN
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Médicos_del_Mundo_MDM
+    [group_qd4az23/_1d_Celular] => 3146109029
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R.2_EeE R3_Shelter R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud R8_Cash
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC 5-R1-1.1-2-2_Prestacion_de_apoyo_directo_a_las_autoridades__NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2023-03-16
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2023-03-27
+    [group_wo86e58/group_hc3sa85/vacios_icla] => Articulación y trabajo conjunto con el ministerio público y autoridades territoriales.
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => 1.	Promover la activación y conocimiento sobre las rutas de atención y acceso a derechos de la población víctima del conflicto armado y personas en riesgo, como una estrategia que contribuye al fortalecimiento de las capacidades comunitarias, resiliencia, empoderamiento y preparación para nuevas crisis, orientada a la atención de emergencias desde la reconstrucción social y la resiliencia comunitaria. 
+
+2.	Fortalecer los lazos de comunicación y cooperación de la institucionalidad con las comunidades con de conocer el contexto de las comunidades y las afectaciones que por conflicto armado se presentan. 
+
+3.	Identificación de población migrante y acompañamiento para la activación de ruta de acceso a medidas de regularización y protección internacional. 
+
+4.	Analizar la oferta institucional y cooperación internacional que responde a las necesidades de protección y asistencia legal en el marco de la emergencia, lo anterior con el objetivo de no generar multiplicidad de actores que responden a una misma necesidad.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.3-10-5/Entrega_de_material_educat
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2023-03-15
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2023-03-27
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => N/A
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => Se requiere oferta educativa en la comunidad de Salto Bajo, se identificaron 30 NNA en situación de desescolarización y deserción escolar, es fundamental desde la institucionalidad garantizar el derecho a la educación, especialmente en zonas donde se incrementan los riesgos de utilización y reclutamiento de NNA, explotación laboral infantil, consumo de sustancias SPA, entre otros
+-Acompañamiento institucional (secretaria de educación) a comunidades afectadas durante situaciones de emergencia específicamente en los centros educativo donde las necesidades educativas se incrementan. 
+-Identificación y actualización de la población desescolarizada y en deserción escolar
+-Apoyo y acompañamiento en la construcción y actualización de los planes de gestión del riesgo a las escuelas y comunidades.
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-12-1/Provisión_de_soluciones_de 4-R3-3.1-13-2/Entrega_de_artículos_para_
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2023-03-15
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2023-03-27
+    [group_wo86e58/group_zh0iq17/Vacios_SHELTER] => N/A
+    [group_wo86e58/group_zh0iq17/Recomendaciones_SHELTER] => N/A
+    [group_wo86e58/group_zh0iq179/R8_Actividades_Cash] => 4-R8-8.1-36-2-Entrega
+    [group_wo86e58/group_zh0iq179/Fecha_de_ingreso_NRC_Cash] => 2023-03-22
+    [group_wo86e58/group_zh0iq179/Fecha_de_salida_NRC_Cash] => 2023-03-27
+    [group_wo86e58/group_zh0iq179/Vacios_Cash] => N/A
+    [group_wo86e58/group_zh0iq179/Recomendaciones_Cash] => -	Se sugiere hacer incidencia para realizar jornadas de fumigación en las comunidades para reducir el número de casos de dengue y malaria.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.1-16-2-Rehabilitaciones_agua 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2023-03-15
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2023-03-27
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => N/A
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => N/A
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.1-22-2c/Paquete_alimentario_por_c 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2023-03-17
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2023-03-27
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => La respuesta del sector de Seguridad Alimentaria se dio sobre las comunidades visitadas en el marco de la Evaluación Rápida de Necesidades (ERN). El contacto con los representantes de las comunidades de: Salto Alto, Salto Bajo, Tomachipan, Makusito y Chekamo y las necesidades urgentes en seguridad alimentaria identificadas en la ERN, permitieron la priorización de estas comunidades. Sin embargo, las afectaciones en los medios de vida se dan sobre todas las comunidades que se ubican en la ribera del Inírida; por lo cual, es importante complementar la respuesta del Consorcio MIRE.
+En las actividades realizadas por el sector de Seguridad Alimentaria hubo bastante participación de las comunidades, un número importante de las familias acompaño las acciones y recibió la ayuda directamente por parte del Consorcio MIRE. Sin embargo, por las condiciones geográficas de la zona, otras familias no pudieron participar y no fue posible complementar la caracterización de las familias, identificando así población vulnerable, que requiera complementariedad de las acciones.
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => Identificar las necesidades actuales de la población en seguridad alimentaria, puesto que, las afectaciones en los medios de vida esta generando que las familias que viven sobre el río Inírida implementen diferentes estrategias de afrontamiento. Las familias mencionan una situación compleja y sin solución a corto plazo, algunas hablaron de desplazarse si no reconocían mejoras.
+Evaluar las condiciones que afectan los mercados y puntos de abastecimiento de las comunidades que viven sobre la ribera del río Inírida, a corto, mediano y largo plazo; pues estas se encuentran expuestas a situaciones de desabastecimiento y aumento de precios en alimentos no perecederos.
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.2-26-4/Asesoramiento_y_sesiones_a 3-R6-6.3-27-5/Identificación_y_asistenci 3-R6-6.4-28-6/Evacuaciones_realizadas 3-R6-6.4-28-7/Atención_realizada_a_las_e
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-03-18
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-03-29
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => Faltas importantes en la asistencia del sector salud por parte de secretaría de salud municipal y departamental y autoridades sectoriales pertinentes.
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => -	Durante la atención, la población afectada supera en número las posibilidades de atención en salud mental para un profesional que en este caso también era líder de misión. La población requeriría asistencia recurrente de un profesional en psicología. 
+-	Es de gran relevancia analizar en conjunto la estrategia de incidencia política para garantizar en esta, la no exposición de las comunidades, así como garantizar el acceso humanitario en el sector salud.
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de atención de emergencia por restricción a la movilidad en El Retorno, Guaviare, desde la competencia ICLA se realizó estrategia jurídico-pedagógica para el conocimiento, acceso, exigibilidad derechos y activación de ruta de atención, asistencia y reparación de población víctima del conflicto armado, así mismo se realizó asistencia y orientación a la población víctima del conflicto. 
+●	Estrategia Jurídico-pedagógica para el conocimiento, acceso y exigibilidad de derechos de población víctima del conflicto armado.
+Se realizo taller formativo sobre ley 1448 de 2011 y decretos étnicos con 392 personas; un espacio jurídico pedagógico orientado a la identificación de riesgos, amenazas y vulnerabilidades (hechos victimizantes) en el marco del conflicto armado, ruta de atención e instituciones responsables de la asistencia y atención de la población víctima del conflicto armado en el marco de la inmediatez. Dichos talleres se desarrollaron con la población de las comunidades de La Paz, Salto Alto, Salto Bajo, Vereda Tomachipán, Chakamuj, y Makusito.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => ●	Asistencia y Orientación Legal
+En el marco de atención a la emergencia, se identificaron 21 personas con necesidades jurídicas, a las que se les ha brindado asistencia y orientación legal conforme a los riesgos y necesidades de protección identificadas. Estas, fueron orientadas en la solicitud de asistencia humanitaria para la protección derechos, identidad legal, acceso al derecho e indemnización como medida de reparación integral.  (Orientados 13 - asistidas 8, para un total de 21 personas).
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => En el municipio de El Retorno Guaviare se entregaron 259 kits de ocupación tiempo libre a Niños, Niñas y Adolescentes de las comunidades de La Paz (185), Salto Alto (46) y Salto Bajo (28). 
+De la misma forma en el municipio de San Jose del Guaviare se entregaron 181 kits tiempo libre distribuidos así, Tomachipan (65), Chekamuj (64), Makusito (40) y La Lindoza (12). 
+Entregando en total 440 kits tiempo libre a NNA afectados por la restricción a la movilidad en los 2 municipios. 
+Kits que fueron entregados para que Niños, Niñas y Adolescentes pudieran contar con un material de apoyo en sus actividades extracurriculares, en el aprovechamiento del tiempo libre y refuerzo en el proceso de aprendizaje. Para el caso de los NNA que se identificaron en situación de desescolarización en la comunidad de Salto Alto, quienes no cuentan con oferta educativa, este material resulto útil y llamativo en el fortalecimiento de la motricidad fina y la misma ocupación del tiempo libre, igualmente el libro cuidándome en la emergencia además de la propuesta de actividades de autocuidado contiene una variación de mándalas con diferentes tematicas que buscan que los NNA en esta situación puedan despertar su creatividad e imaginación desde su entorno. 
+Cantidad 440.
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Los espacios seguros de aprendizaje se desarrollaron en las comunidades de La Paz, Salto Alto, Salto Bajo (municipio El Retorno) y Tomachipan (municipio San Jose del Guaviare), con una participación de 324 NNA. Espacios que se realizaron en media jornada, 3 horas por comunidad organizados en grupos focales de acuerdo con niveles de escolaridad (grado 0 - 2do, 3ro - 5to, 6to – 9, 10-11), garantizando así que las temáticas fueran adecuadas de acuerdo con el grupo etario.
+Las temáticas desarrolladas con los NNA estuvieron enfocadas a fortalecer 2 componentes de EiE:
+En el componente de protección se trabajaron temáticas de autocuidado con el fin de identificar y minimizar riegos:  PEAS (prevención de la explotación y el abuso sexual) con el tema “mi cuerpo es territorio sagrado”, “soy” un tema de identidad que busco fortalecer comportamientos seguros frente a riesgos de protección, se brindaron unas técnicas de visualización con la actividad “colores” y “mi pluma” con ejercicios prácticos que les permitió reconocer y trabajar la recuperación emocional, brindando así herramientas claves para la gestión de emociones durante las crisis.
+En el componente de aprendizaje seguro se trabajó con los niños y niñas de preescolar la cartilla Leo y Escribo con quienes se realizaron trazos, dibujos y colorearon mándalas con el objetivo de fortalecer la motricidad fina, estas actividades también se realizaron con la población desescolarizada de Salto Alto, que además de participar en las actividades de protección, se logró con estos ejercicios la motivación escolar. 
+Cantidad: 324
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Las formaciones de EiE se realizaron en 3 comunidades del municipio de Retorno (La Paz, Salto Alto, Salto Bajo) y 1 comunidad del municipio de San Jose del Guaviare (Tomachipan). Se realizaron en 2 jornadas por comunidad donde participaron 10 docentes y 14 agentes educativos comunitarios, formándose en total 24 personas de las 4 comunidades.
+Taller de formación que se enfocó a fortalecer conocimientos y brindar herramientas en la respuesta educativa y comunitaria durante la primera fase de la emergencia, se utilizó una metodología práctica y participativa que permitiera llevar un aprendizaje significativo y constructivista en los tres módulos de EeE.
+En el primer módulo se trabajaron conceptos teóricos con el fin de fortalecer conocimientos acerca de que es una emergencia, tipos de emergencia y la educación en contextos de emergencia.
+En el segundo modulo, Práctica Pedagógica y Comunitaria se desarrollaron temáticas que promueven la respuesta educativa en la emergencia como es la labor del docente y agente educativo comunitario en la fase aguda de la emergencia, el acompañamiento emocional, la resiliencia y el enfoque de género en la práctica pedagógica, herramientas pedagógicas que apoyan la preparación del aprendizaje seguro de los NNA en medio de la crisis.  
+El tercer modulo, Ruta Pedagógica para la Respuesta en la Emergencia aguda, se hizo un ejercicio de reconocimiento de riesgos de protección en sus comunidades y se procedió a construir el plan de respuesta educativo en emergencias donde se plantearon estrategias educativas y comunitarias para desarrollar al interior de sus escuelas y comunidades, promoviendo así la continuidad de la educación en situaciones de emergencia.
+Cantidad: 24
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Con el fin de apoyar y facilitar los procesos de enseñanza de los docentes durante la situación de restricción a la movilidad, se hizo entrega de kits individuales a 4 docentes que hacen parte de la Institución Educativa de la Paz.
+Cantidad: 4
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => N/A
+    [group_of2sk15/group_qw7se20/_11_Provisi_n_de_soluciones_de_refugio_temporal_colectivo_o_individual_NRC] => En el municipio de El Retorno, Guaviare, se realizó una entrega de tres reflectores solares destinados a la institución educativa Salto Gloria. Esta acción tuvo como objetivo beneficiar a los 28 niños (16 niñas y 12 niños) que residen en el internado. El objetivo de la entrega es brindar una estrategia de mitigación y seguridad durante las noches, para evitar posibles riesgos relacionados con la ocupación del espacio educativo por parte de grupos armados.
+El transporte de los materiales a la comunidad representó uno de los mayores desafíos debido a que el equipo en terreno ya había salido de la zona, lo que impidió su entrega directa. Sin embargo, se logró hacer la entrega mediante un proceso de gestión con la coordinadora de la institución, quien brindó su apoyo a través de la recomendación de un transportador local para llevar los insumos hasta el lugar requerido. Finalmente, los profesores brindaron su apoyo en la instalación de los reflectores.
+
+Cantidad: 3
+    [group_of2sk15/group_qw7se20/_12_Entrega_de_art_culos_dom_sticos_que_salvan_vidas_NRC] => En el municipio de San José del Guaviare, Guaviare, se llevó a cabo una entrega de kits de hábitat en las comunidades de Chekamuj, Makusito y Tomachipán. En total, se entregaron 46 kits de hábitat familiar, los cuales se adaptaron según el número de miembros de cada familia y las características étnicas y culturales de cada comunidad.
+En Chekamuj se entregaron 23 kits y en Makusito se distribuyeron 18. En Tomachipán, se realizó un ejercicio coordinado con los líderes para priorizar a cinco familias que se identificaron con mayores necesidades debido a una situación de mayor vulnerabilidad como adultos mayores y niños con cuidados especiales.
+Es importante destacar que estos kits tuvieron un enfoque diferencial étnico, lo que implicó la entrega de hamacas en lugar de colchonetas, en consideración de su cultura. Además, los kits incluyen elementos esenciales como toldillos, cobijas, ollas y menaje, con énfasis en la entrega de toldillos debido al aumento de casos de malaria y dengue causados por mosquitos.
+En un esfuerzo adicional, también se entregó un kit de cocina comunitario en Chekamuj y otro en Makusito. La entrega se coordinó junto con los líderes indígenas para que ellos fuesen los responsables de la recepción y administración de los kits. Este kit permitirá a estas comunidades contar con los utensilios necesarios para preparar alimentos de manera eficiente y segura en situaciones de emergencia y durante actividades que fomenten la integración y trabajo comunitario.
+
+Cantidad: 46
+    [group_of2sk15/group_qw7se20/_13_Entrega_de_efectivo_para_alquiler_NRC] => N/A
+    [group_of2sk15/group_qw7se20/_14_Shelter_and_Settlements_information_and_awareness_raising_sessions_NRC] => N/A
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => N/A
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => Para las comunidades indígenas Makucito y chekamo se hace entrega de 100 metros de tubería de polietileno de 2” con sus respectivos accesorios, 6 metros de tubería de succión, con una motobomba a gasolina de 6.5 Hp móvil; dicha acción se logró realiza una acción complementaria para que la asociación ASUPAMORI entregara mensualmente con los docentes gasolina para la utilización de la motobomba. 
+
+Para la comunidad de Tomachipan se realiza una instalación de una motobomba solar de 600W en la cual está compuesta de una balsa para soportar la bomba lapicero, 3 paneles solares y sus respectivas tuberías y cables para logar una extracción y llevar a 150 metros y una elevación de 15 metros; dicho esto con el fin de poder garantizar que llegue el suministro al punto más elevado de Tomachipan y poder lograr enviar agua a cada una de las casas por horarios establecidos con la junta de acción comunal y poder por gravedad llegar a la totalidad de las casas de la comunidad
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_saneamiento_b_sico] => N/A
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Se entregan 380 kits de higiene, para las comunidades priorizadas, desde la evaluación rápida de necesidades en las cuales se enfoco la atención por núcleos familiares de 3 a 4 personas por núcleo, las personas que viven solas en mayor parte población flotante se realiza la conformación de un núcleo y posteriormente su repartición de forma equitativa, esto con el fin de poder dar una cobertura mucho mayor a la prevista, con dicha acción se logro llegar a una densidad por núcleo familiar de 3.2 personas por núcleo familiar. 
+Un dato de importancia fue que dentro de la atención algunas de las familias realizaron el ejercicio de evidenciar el costo de los elementos entregado como si fuera comprados en la región dejando un rango de los kits de higiene de $ 400.000 a $450.000 por cada kit entregado, dicha información nos da una certeza de la importancia de dicha atención y las necesidades.
+Por último es importante tener en cuenta que dentro del kit de higiene se entrega sulfato de aluminio, tipo A; esto con el fin de tener un proceso de tratamiento de agua, en el cual se evidencio la eficiencia del sulfato en estas aguas, se hace la relación en campo de que por cada litro de agua para tratar se deberá agregar ¼ de cuchara para tomar sopa; dicho esto se hace aclaración de mucha importancia el cual es el tema de la dosificación para no tener alguna dosificación que pueda afectar las condiciones del agua para el consumo, adicional a lo anterior se entrega un hipoclorito en una concentración de 3.5%, esto con el fin de poder tener una dosificación de por cada litro de agua agregar 5 ml equivalente a 5 gotas aproximadamente.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Promoción de buenas prácticas de higiene (Sensibilizaciones a los jefes de hogar de las comunidades).
+
+Para dichos talleres se realizan grupos focales 1 día por comunidad, esto con el fin de poder brindar información correspondiente a las actividades con un periodo de 40 min de capsula informativa y 2 horas de entrega en conjunto con otros socios. 
+1.	Presentación de personas de la comunidad
+2.	Presentación del equipo del MIRE 
+3.	Presentación del consorcio 
+4.	Presentación de los 4 principios humanitarios 
+5.	Presentación de cada sector de intervención 
+6.	Sensibilización en buenas prácticas de higiene donde se trataron temas sobre la higiene personal, higiene del entorno, control de vectores, agua segura haciendo énfasis en el tratamiento a nivel intradomiciliario y almacenamiento seguro, en higiene menstrual como herramienta de nuevas masculinidades.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => En la última semana del mes de febrero y primera de marzo se llevó acabo una Evaluación Rápida de Inseguridad Alimentaria con las comunidades de La Paz, Salto Alto, Salto Bajo y Tomachipan. Igualmente, se evaluaron las necesidades de dos asentamientos indígenas del pueblo Nukak, Makusito y Chekamo. En este ejercicio fue posible identificar las necesidades urgentes en seguridad alimentaria de las familias de estas comunidades, principalmente por, afectaciones en sus medios de vida, limitaciones en la disponibilidad y acceso seguro a los alimentos.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => Se realizó la entrega de 350 paquetes alimentarios tipo familiar para las comunidades de Salto Alto, Salto Bajo y Tomachipan. Igualmente, la entrega de ayuda alimentaria en especie a través de la modalidad de paquete alimentario tipo comunitario para las familias indígenas de Makusito y Chekamo, uno para cada asentamiento (total entrega 2 paquetes comunitarios). La respuesta del sector permitió garantizar la seguridad alimentaria de 391 familias, que corresponden a 1230 beneficiarios.
+La entrega de la asistencia alimentaria humanitaria se desarrolló en el marco de un taller de sensibilización que tenía por objetivo brindar conocimientos teóricos a los participantes sobre la importancia de la seguridad alimentaria, el almacenamiento, preparación y consumo de alimentos. Este espacio se dio en articulación y complementariedad con el sector de Wash, para fortalecer el conocimiento para el consumo de agua segura y prácticas de higiene que pueden salvar vidas.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => En el marco de la atención se desarrollaron 14 líneas base, con información que permite analizar la seguridad alimentaria de la muestra tomada. Se recogieron datos demográficos, e información para los indicadores de Puntaje de Diversidad Dietaría (HDDS) y las Estrategias de Afrontamiento Reducido (rCSI). El PDM se obtiene con el contraste de los datos iniciales y la línea de salida.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Se atendieron 300 pacientes por medicina. 
+
+•	La misión se efectuó en 4 comunidades de 2 municipios del departamento del Guaviare, para lo cual se trabajó en 2 equipos semi-simultáneos, el primero desplegado en el municipio de El Retorno con priorización de las comunidades de La Paz, Salto Alto y Salto Bajo; el segundo equipo desarrolló acciones en el municipio de San José del Guaviare en la comunidad de Tomachipán donde fueron priorizadas las comunidades de Tomachipán, Chekamo, Makusito inicialmente, sin embargo, durante el desarrollo de la misión se lograron priorizar pacientes de la comunidad Golondrinas. 
+•	Los pacientes atendidos fueron principalmente del sexo masculino con una proporción de 1.15:1 respecto al sexo femenino. El promedio de edad del total de los beneficiarios de la jornada fue 36 años, lo cual, se corresponde con el grupo etáreo mayormente atendido: Adultos (18-49 años).
+
+El grupo étnico mayormente atendido fue población mestiza (95%), seguido por población indígena (4.33%) de los cuales se identificaron comunidad Nukak y Turripaco, y población afrocolombiana/negra (0.67%). No se identificaron pacientes con identidad u orientación sexual diversa.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => Se entregaron medicamentos a 293 pacientes. La formulación fue realizada dentro de la consulta médica conforme al diagnóstico realizado.  
+Así mismo se realizaron 187 procedimientos de enfermería formulados en las consultas médicas que incluyeron la colocación de implantes subdérmicos, curaciones y pruebas de laboratorio e inytectología.
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Se realizaron 44 consultas de salud mental. 
+La situación de la emergencia ha derivado en los pacientes asistidos principalmente signos y síntomas de ansiedad, tal y como lo muestra la tabla anterior de resultados. De esta manera, el diagnóstico de ansiedad correspondió al 50% de las consultas de psicología. Las preocupaciones ante la situación económica y la vertiginosa sensación de un futuro incierto en temas de seguridad propiciada por el influjo de nuevos grupos armados que han hecho presencia en la zona han generado un aumento en los síntomas psicosomáticos de ansiedad, aumento en distorsiones cognitivas (miradas de túnel, generalizaciones, catastrofizaciones y magnificaciones). No todos los pacientes presenciaron directamente los eventos recientes de violencia en la zona, pero a partir de lo ocurrido, la situación de temor se generalizó en toda la región, aumentando la zozobra que durante años ha girado en el territorio por cuenta del conflicto armado y la estigmatización militar al campesino en zona de cultivo de coca según lo refieren personas de la comunidad.
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => Se llevaron a cabo 5 tipos de talleres buscando promocionar la salud mental en el contexto y generar elementos para el manejo efectivo de problemas dejando algunas capacidades instaladas en la zona con relación a este aspecto. Estos escenarios de participación social fueron de gran interés en tanto las personas pudieron participar en la construcción del concepto de salud mental y deconstruir esos conceptos de la salud mental estigmatizantes que impiden que las personas accedan con tranquilidad a los servicios de salud mental.
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Se realizaron 9 consultas enfocadas en la atención de VBG.
+De estas, cuatro consultas fueron sobre violencia sexual para tres casos (1 con seguimiento). Estos eventos se enmarcaron en situaciones superiores a 72 horas, dos de ellos con ocurrencia de años anteriores y en el ámbito familiar, y el tercer caso, pertenece a un evento de naturalización de violencia sexual entre una adolescente menor de 14 años gestante en conjunto con una pareja superior. Las cinco consultas restantes se orientaron a la atención de otras violencias basadas en género (física y emocional)
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => NO FUE PRIORIZADO POR EL SECTOR
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => NO FUE PRIORIZADO POR EL SECTOR
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => NO FUE PRIORIZADO POR EL SECTOR
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => NO FUE PRIORIZADO POR EL SECTOR
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD RESPONSABILIDAD PARTICIPACION OTRAS
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => NRC: Restricción y acceso limitado a medios de comunicación, presencia constante de grupos armados en zonas cercanas a las instalaciones de la atención.
+
+ACH: Presencia de GAO que representan un riesgo para el ingreso de las acciones humanitarias.
+
+MDM: Durante una evacuación médica, se realizó un retén por parte de un GAO que incluyó requisa, revisión de medios digitales (celular corporativo) y preguntas de la misión.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => NRC: -Se definió un punto focal de comunicación y se tomaron en cuenta las restricciones de la misma, se tuvo acompañamiento permanente de los lideres comunitarios en las comunidades donde hay alta presencia de grupos armados.
+
+ACH: Comunicación asertiva con los representantes comunitarios, en el cual se comparte el plan de ingreso del Consorcio MIRE para que este sea validado.
+
+MDM: Manejo de situaciones tensas ante GAO acorde a los principios humanitarios y protocolos de la misión médica. Reporte a focales de seguridad e información continua con presidentes de JAC.
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => ACH: Afectaciones en las vías de acceso fluviales y terrestres, dadas las condiciones climáticas actuales, por lo cual, se retrasan los tiempos del desplazamiento.
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => ACH: Comunicación con los representantes comunitarios para acordar la fecha adecuada de ingreso, además, de los medios de transporte
+    [group_zj0tq00/Dificultades_encontr_das_Responsabilidad] => NRC: Las comunidades no contaban con los censos actualizados y no se tenía información precisa de la población desescolarizada en las comunidades.
+    [group_zj0tq00/Medidas_adoptadas_Responsabilidad] => NRC: El equipo en terreno logro recoger y registrar la información pendiente de los censos, igualmente se logró identificar la población desescolarizada.
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => NRC: Falta de acompañamiento y articulación institucional en la respuesta dada por el MIRE. Las comunidades indígenas no cuentan con liderazgos definidos que permitan orientar a la comunidad, situación que dificulto la atención en Makusito y Chekamuj en todos los sectores.  La falta de interprete y traductor en las mismas comunidades genero barreras de comunicación.
+ACH: La convocatoria para la participación de las comunidades en las diferentes atenciones del Consorcio MIRE, pues las familias viven dispersas en el territorio, y el ingreso en las comunidades de Salto Alto y Salto Bajo se realizó escalonado con el sector Salud.
+MDM: Comunidades con altas necesidades en salud física y mental tanto en gravedad de síntomas como en número de personas.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => NRC: Se identificaron personas claves de la comunidad y personas externas que facilitaron mínimamente la interpretación y traducción, mejorando así la comunicación entre el equipo MIRE y las comunidades indígenas.
+
+ACH: La mayoría de las familias participaron en las atenciones de los sectores de ICLA, Educación en Emergencias, Alojamiento, Seguridad Alimentaria, Agua e Higiene; sin embargo, para el caso de Salud se priorizaron aquellas personas con necesidades urgentes de ser revisadas y atendidas.
+
+MDM: Priorización de las atenciones, remisiones e incidencia política.
+    [group_zj0tq00/_Cu_les_Otras] => CENSOS
+    [group_zj0tq00/Dificultades_encontradas_Otras] => ACH: La ayuda se proyectó con el número de familias estimada por los representantes comunitarios. Los libros de las JAC se encuentran desactualizados y en el territorio se presenta demasiada población flotante.
+    [group_zj0tq00/Medidas_adoptadas_Otras] => ACH: Para la atención se llevó un número adicional de paquetes alimentarios que permitió atender al total de las familias y alguna población flotante, que igualmente se encuentran en el marco de la emergencia.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 2005
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 4
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 1
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 4
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => ANDERSON
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3224316411
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => PRESIDENTE DE JAC LA PAZ
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => HECTOR
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 324 4281589
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => PRESIDENTE DE LA JAC TOMACHIPAN
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => Orlando
+    [group_kq5co41/group_wb3kr41/_3d_Celular] => 322 7645021
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => REPRESENTANTE DE DERECHOS HUMANOS
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:2698d542-e376-4ca1-a279-02c15fda2e8f
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 2698d542-e376-4ca1-a279-02c15fda2e8f
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-28T22:02:24
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

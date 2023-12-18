@@ -1,0 +1,20 @@
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [accion] => enviar
+    [identificador] => 593960163222
+    [mensaje] => prueba de envio
+    [origen] => 17869779348
+)
+Array
+(
+    [accion] => enviar
+    [identificador] => 593960163222
+    [mensaje] => prueba de envio
+    [origen] => 17869779348
+)

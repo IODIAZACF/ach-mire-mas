@@ -1,0 +1,98 @@
+stdClass Object
+(
+    [_id] => 322339704
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-08-17T11:00:42.853-05:00
+    [end] => 2022-08-17T12:25:00.533-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => SAN ANDRES DE TUMACO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Bajo India, Nortal, Pilvisito, La Victoria, Zabaleta y Angostura.
+    [group_gu1lq88/Nombre_de_la_comunidad] => Resgurdo Indigena Idia Zabaleta
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2022-08-02
+    [group_gu1lq88/Nombre_de_quien_reporta] => Carlos Andres Medina Rodriguez
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OrganismoPublico
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => NARCOTRAF CRISIS_DESPLAZAM HOMICIDIOS PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Crisis por confinamiento
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => En el resguardo indigena de India Zabaleta se presenta el  homicidio a un lider social y a su esquema de seguridad, se reporta que el 29 de julio un deplazamiento de 80 familias a la cabecera municipal de Pasto, donde se atendio a las familias por parte de la gobernacion de Narino. 
+Posteriormente se presenta un confinamiento masivo de 288 familias reportado el 01 de agosto, adicionalmente la comunidad declara emergencia educativa por la falta de acceso a las instituciones educativas del territorio y que han tenido que desminar algunos caminos, estos hechos tiene lugar en las comunidades de Bajo India, Nortal, Pilvisito, La Victoria, Zabaleta y Angostura. Los actores generadores del evento son identificados como estructuras residuales de los grupos armados ilegales de Uriel Rondon, Ivan Rio Contadores y Oliver Sinesterra.
+    [group_yv1ph08/time2] => 2022-07-29
+    [group_yv1ph08/time3] => 4
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 228
+    [group_cn9za51/personas] => 0
+    [group_cn9za51/comu] => 6
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Secretaria de Gobierno, ICBF y enlace de victimas.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Sin información
+    [group_mu9ho06/Seguridad] => La comunidad ha desminado algunos caminos intervenidos por los grupos armados.
+    [group_mu9ho06/Operativa] => sin información
+    [group_mu9ho06/Observaciones] => sin observaciones
+    [group_mu9ho06/Subir_el_Anexo] => Acta 5ta Sesion Extraordinaria 2022-12_16_48.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => A completar por la UGC
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vnsQ782cZNmvke6b9za4fU
+    [meta/instanceID] => uuid:534b010b-b7eb-4cab-b79c-2373ea5a5655
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 534b010b-b7eb-4cab-b79c-2373ea5a5655
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F534b010b-b7eb-4cab-b79c-2373ea5a5655%2FActa_5ta_Sesion_Extraordinaria_2022-12_16_48.pdf
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F534b010b-b7eb-4cab-b79c-2373ea5a5655%2FActa_5ta_Sesion_Extraordinaria_2022-12_16_48.pdf
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F534b010b-b7eb-4cab-b79c-2373ea5a5655%2FActa_5ta_Sesion_Extraordinaria_2022-12_16_48.pdf
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2F534b010b-b7eb-4cab-b79c-2373ea5a5655%2FActa_5ta_Sesion_Extraordinaria_2022-12_16_48.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/534b010b-b7eb-4cab-b79c-2373ea5a5655/Acta_5ta_Sesion_Extraordinaria_2022-12_16_48.pdf
+                    [instance] => 322339704
+                    [xform] => 572478
+                    [id] => 126555397
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-08-17T18:22:18
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

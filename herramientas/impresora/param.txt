@@ -1,0 +1,21 @@
+Array
+(
+    [p] => impresora/impresora_new.php
+    [origen] => reportes/r_seguro_cotizaciones
+    [db] => seguro
+    [SERVERPATH] => https://desarrollo.protecseguros.com/seguro/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-01
+    [FECHA_HASTA] => 2022-08-24
+    [ID_M_SEGUROS_BROKER] => 
+    [xconfig] => $x_config
+    [TITULO] => RESUMEN DE COTIZACIONES
+    [compress] => 1
+    [id_m_usuario] => 0016
+    [log_USER_ID] => 0016
+    [log_USER_NAME] => NUNEZ1111 LUIS MANUEL
+    [log_SISTEMA] => seguro
+    [log_SISTEMA_DB] => seguro
+    [viewer] => 1
+    [title] => RESUMEN DE COTIZACIONES
+)

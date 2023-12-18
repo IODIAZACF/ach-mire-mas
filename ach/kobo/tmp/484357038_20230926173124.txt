@@ -1,0 +1,83 @@
+stdClass Object
+(
+    [_id] => 484357038
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-09-26T17:27:40.881-05:00
+    [end] => 2023-09-26T17:31:22.180-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => QUIBDO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => comunidades indígenas Emberá Bacao y Remolinos
+    [group_gu1lq88/Nombre_de_la_comunidad] => comunidades indígenas Emberá Bacao y Remolinos
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-09-25
+    [group_gu1lq88/Nombre_de_quien_reporta] => Mario Dager - UGI
+    [group_gu1lq88/Cargo] => ACH
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => NARCOTRAF PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 16 de septiembre, al menos 228 personas (49 familias, 108 niños, niñas
+y adolescentes apróx.), provenientes de las comunidades indígenas Emberá
+Bacao y Remolinos ubicadas en el municipio de Quibdó, sobre la cuenca del río
+Bebaramá, se desplazaron masivamente hacia la comunidad afrodescendiente de
+El Playón por cuenta de un combate entre las Fuerzas Armadas (FFAA) y un Grupo
+Armado no Estatal (GANE). Las familias se encuentran ubicadas en casas,
+escuela y salón comunitario dispuestos por el consejo comunitario en el
+municipio del Medio Atrato.
+    [group_yv1ph08/time2] => 2023-09-16
+    [group_yv1ph08/time3] => 9
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud wash_ipc
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Agua, Saneamiento e higiene
+    [group_cn9za51/familias] => 49
+    [group_cn9za51/personas] => 228
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2023-09-26
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:442e07a1-c614-43e3-aefe-b8ef31677ea4
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 442e07a1-c614-43e3-aefe-b8ef31677ea4
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-26T22:31:23
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

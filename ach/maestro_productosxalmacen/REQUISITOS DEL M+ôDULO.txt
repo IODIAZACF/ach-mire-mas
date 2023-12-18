@@ -1,0 +1,9 @@
+Título:maestro_productosxalmacen
+
+Tablas:D_I_PROD_ALMA,I_PROD_ALMA,D_DOCUMENTOS
+
+Vistas:V_I_PROD_ALMA,V_D_KARDEX,V_D_DOCUMENTOS
+
+Maestros:m_productos
+
+Reportes:r_documento,r_documento_fact,r_documento_dev,r_documento_pre

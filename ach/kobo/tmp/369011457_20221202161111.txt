@@ -1,0 +1,83 @@
+stdClass Object
+(
+    [_id] => 369011457
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-12-02T15:56:34.520-05:00
+    [end] => 2022-12-02T16:10:58.970-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => EL CHARCO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin Información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin Informaciónc
+    [group_gu1lq88/Urbano_Rural] => urbano
+    [group_gu1lq88/time1] => 2022-12-02
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => El 11 de octubre, se desplazaron forzosamente 94 personas (33 familias) –entre ellas 33 mujeres, 20 niñas y 20 niños- del barrio Corea en la zona urbana del municipio de El Charco hacia otros barrios aledaños del municipio, a las veredas Sequionda, Brazo Seco y hacia el municipio de Cali (Valle del Cauca). Los hechos se presentaron debido a enfrentamientos entre dos Grupos Armados No Estatales (GANE) y ataques contra bienes civiles como las viviendas de la población en donde resultaron afectadas 18 viviendas con impacto de balas.
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/01122022_desplazamiento_forzado_masivo_intraurbano_del_barrio_corea_en_el_charco_narino_vf.pdf
+    [group_yv1ph08/time2] => 2022-10-11
+    [group_yv1ph08/time3] => 52
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 33
+    [group_cn9za51/personas] => 94
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Entre el 15 y 18 de noviembre, la Alcaldía Municipal de El Charco y la Gobernación de Nariño brindaron traslado humanitario de emergencia a 6 familias afectadas. Entre el 17 y 19 de noviembre, la Alcaldía Municipal de El Charco brindóAyuda Humanitaria Inmediata (AHÍ) en los componentes de alimentación, albergue y kits de aseo. Socios del Equipo Local de Coordinación (ELC) de Nariño brindaron respuesta en complementariedad a 664 familias afectadas por desplazamientos masivos de los barrios El Porvenir, Limoncillo y El Carmen Dos del municipio de El Charco.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3--https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/01122022_desplazamiento_forzado_masivo_intraurbano_del_barrio_corea_en_el_charco_narino_vf.pdf+ERN*FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:839ae597-e685-46ae-b1ae-e86888121128
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 839ae597-e685-46ae-b1ae-e86888121128
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-12-02T21:11:11
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

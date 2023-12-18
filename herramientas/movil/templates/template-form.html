@@ -1,0 +1,21 @@
+<ons-page id="{objeto}" data-modulo="{modulo}">
+	<ons-toolbar modifier="s24">
+		<div class="center" style="color: var( --color-blanco);">{VENTANA-TITULO}</div>
+	</ons-toolbar>
+
+	<ons-list id="{objeto}_formulario" modifier="form_24" >
+	{formulario}
+	</ons-list>
+
+	<ons-bottom-toolbar id="{objeto}_leyenda" modifier="s24">
+	{leyenda}
+	</ons-bottom-toolbar>
+	
+	<ons-action-sheet id="{objeto}_opciones" cancelable title="From template">
+		<ons-action-sheet-button icon="md-square-o">Label</ons-action-sheet-button>
+		<ons-action-sheet-button icon="md-square-o">Label</ons-action-sheet-button>
+		<ons-action-sheet-button icon="md-close" onclick="document.querySelector('#{objeto}_opciones').hide();">Cancel</ons-action-sheet-button>
+	</ons-action-sheet>		
+
+</ons-page>
+

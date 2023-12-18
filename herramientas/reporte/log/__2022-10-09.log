@@ -1,0 +1,3245 @@
+2022-10-09 06:27:29|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158077&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158077
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 06:37:20|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158077&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158077
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 06:37:36|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158073&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158073
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 06:42:32|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00157260&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00157260
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 06:55:36|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158112&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158112
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 06:56:02|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158112&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158112
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:07:08|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158113&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158113
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:09:53|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158112&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158112
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:17:40|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158115&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158115
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:18:39|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158113&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158113
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:19:08|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158113&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158113
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:19:23|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158116&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158116
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:19:31|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158112&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158112
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:20:07|186.35.121.225|globalcargo|globalcargo|00126318|PRATO GERALDINE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158114&compress=0&compress=1&id_m_usuario=00126318&log_USER_ID=00126318&log_USER_NAME=PRATO+GERALDINE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158114
+    [compress] => 1
+    [id_m_usuario] => 00126318
+    [viewer] => 1
+)
+
+2022-10-09 07:20:30|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158116&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158116
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:20:41|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158116&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158116
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:21:07|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158115&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158115
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:21:41|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158118&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158118
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:21:54|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158116&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158116
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:22:11|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158118&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158118
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:22:21|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158115&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158115
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:23:03|186.35.121.225|globalcargo|globalcargo|00126318|PRATO GERALDINE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158114&compress=0&compress=1&id_m_usuario=00126318&log_USER_ID=00126318&log_USER_NAME=PRATO+GERALDINE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158114
+    [compress] => 1
+    [id_m_usuario] => 00126318
+    [viewer] => 1
+)
+
+2022-10-09 07:23:25|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158117&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158117
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:23:55|186.35.121.225|globalcargo|globalcargo|00126318|PRATO GERALDINE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158114&compress=0&compress=1&id_m_usuario=00126318&log_USER_ID=00126318&log_USER_NAME=PRATO+GERALDINE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158114
+    [compress] => 1
+    [id_m_usuario] => 00126318
+    [viewer] => 1
+)
+
+2022-10-09 07:23:55|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158117&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158117
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:24:49|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158118&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158118
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:25:28|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158119&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158119
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:26:11|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158117&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158117
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:27:00|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158120&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158120
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:28:21|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158120&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158120
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:28:27|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158119&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158119
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:29:22|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158120&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158120
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:29:54|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158121&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158121
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:30:38|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158121&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158121
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:31:46|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158121&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158121
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:32:50|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158122&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158122
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:34:36|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158122&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158122
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:35:16|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158124&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158124
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:36:02|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158124&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158124
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:37:13|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158124&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158124
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:37:15|186.35.121.225|globalcargo|globalcargo|00126318|PRATO GERALDINE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158125&compress=0&compress=1&id_m_usuario=00126318&log_USER_ID=00126318&log_USER_NAME=PRATO+GERALDINE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158125
+    [compress] => 1
+    [id_m_usuario] => 00126318
+    [viewer] => 1
+)
+
+2022-10-09 07:37:37|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158124&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158124
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:38:56|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158126&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158126
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:39:15|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158123&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158123
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:39:34|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158126&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158126
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:40:10|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158122&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158122
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:41:44|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158126&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158126
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:41:56|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158123&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158123
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:42:46|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158127&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158127
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 07:43:22|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158123&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158123
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:44:02|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158121&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158121
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:44:16|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158128&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158128
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:44:50|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158128&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158128
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:45:12|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158129&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158129
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:45:16|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158121&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158121
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:45:21|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158130&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158130
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 07:45:34|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158129&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158129
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:45:40|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158130&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158130
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 07:45:56|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158130&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158130
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 07:47:03|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158128&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158128
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:48:28|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158129&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158129
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:48:57|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158130&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158130
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 07:51:02|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158131&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158131
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:51:37|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158131&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158131
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:52:04|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158133&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158133
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:52:16|190.120.252.225|farmacia_lg|farmacia_lg|001254|QUINTERO SORELBYS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_lg/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_lg&SERVERPATH=http://172.17.0.1/farmacia_lg/&ID_M_ARQUEOS=00165&ID_M_CAJAS=0016&compress=1&id_m_usuario=001254&log_USER_ID=001254&log_USER_NAME=QUINTERO+SORELBYS&log_SISTEMA=farmacia_lg&log_SISTEMA_DB=farmacia_lg&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_lg
+    [SERVERPATH] => http://172.17.0.1/farmacia_lg/
+    [ID_M_ARQUEOS] => 00165
+    [ID_M_CAJAS] => 0016
+    [compress] => 1
+    [id_m_usuario] => 001254
+    [viewer] => 1
+)
+
+2022-10-09 07:52:41|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158134&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158134
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 07:52:41|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158132&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158132
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:52:57|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158131&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158131
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:52:58|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158134&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158134
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 07:52:58|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158135&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158135
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:53:04|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158133&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158133
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:53:17|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158134&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158134
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 07:53:30|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158132&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158132
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:53:49|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158135&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158135
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:54:16|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158133&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158133
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:54:39|190.107.226.45|globalcargo|globalcargo|001314|PEÑA LISMARY|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158132&compress=0&compress=1&id_m_usuario=001314&log_USER_ID=001314&log_USER_NAME=PE%D1A+LISMARY&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158132
+    [compress] => 1
+    [id_m_usuario] => 001314
+    [viewer] => 1
+)
+
+2022-10-09 07:54:46|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158135&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158135
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:56:34|190.120.252.225|farmacia_lg|farmacia_lg|001254|QUINTERO SORELBYS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_lg/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_lg&SERVERPATH=http://172.17.0.1/farmacia_lg/&ID_M_ARQUEOS=00164&ID_M_CAJAS=0014&compress=1&id_m_usuario=001254&log_USER_ID=001254&log_USER_NAME=QUINTERO+SORELBYS&log_SISTEMA=farmacia_lg&log_SISTEMA_DB=farmacia_lg&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_lg
+    [SERVERPATH] => http://172.17.0.1/farmacia_lg/
+    [ID_M_ARQUEOS] => 00164
+    [ID_M_CAJAS] => 0014
+    [compress] => 1
+    [id_m_usuario] => 001254
+    [viewer] => 1
+)
+
+2022-10-09 07:57:27|186.35.121.225|globalcargo|globalcargo|00126318|PRATO GERALDINE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158136&compress=0&compress=1&id_m_usuario=00126318&log_USER_ID=00126318&log_USER_NAME=PRATO+GERALDINE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158136
+    [compress] => 1
+    [id_m_usuario] => 00126318
+    [viewer] => 1
+)
+
+2022-10-09 07:58:14|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158139&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158139
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 07:58:16|190.120.252.225|farmacia_lg|farmacia_lg|001254|QUINTERO SORELBYS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_lg/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_lg&SERVERPATH=http://172.17.0.1/farmacia_lg/&ID_M_ARQUEOS=00163&ID_M_CAJAS=0017&compress=1&id_m_usuario=001254&log_USER_ID=001254&log_USER_NAME=QUINTERO+SORELBYS&log_SISTEMA=farmacia_lg&log_SISTEMA_DB=farmacia_lg&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_lg
+    [SERVERPATH] => http://172.17.0.1/farmacia_lg/
+    [ID_M_ARQUEOS] => 00163
+    [ID_M_CAJAS] => 0017
+    [compress] => 1
+    [id_m_usuario] => 001254
+    [viewer] => 1
+)
+
+2022-10-09 07:58:35|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158138&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158138
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:58:45|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158137&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158137
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:58:54|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158138&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158138
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 07:59:25|190.120.252.225|farmacia_lg|farmacia_lg|001254|QUINTERO SORELBYS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_lg/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_lg&SERVERPATH=http://172.17.0.1/farmacia_lg/&ID_M_ARQUEOS=00162&ID_M_CAJAS=0011&compress=1&id_m_usuario=001254&log_USER_ID=001254&log_USER_NAME=QUINTERO+SORELBYS&log_SISTEMA=farmacia_lg&log_SISTEMA_DB=farmacia_lg&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_lg
+    [SERVERPATH] => http://172.17.0.1/farmacia_lg/
+    [ID_M_ARQUEOS] => 00162
+    [ID_M_CAJAS] => 0011
+    [compress] => 1
+    [id_m_usuario] => 001254
+    [viewer] => 1
+)
+
+2022-10-09 07:59:25|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158137&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158137
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 07:59:44|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158139&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158139
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 08:00:04|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158138&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158138
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:00:10|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158139&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158139
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 08:00:44|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158137&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158137
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:01:07|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158139&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158139
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 08:03:54|190.120.252.225|farmacia_lg|farmacia_lg|001254|QUINTERO SORELBYS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_lg/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_lg&SERVERPATH=http://172.17.0.1/farmacia_lg/&ID_M_ARQUEOS=00161&ID_M_CAJAS=0015&compress=1&id_m_usuario=001254&log_USER_ID=001254&log_USER_NAME=QUINTERO+SORELBYS&log_SISTEMA=farmacia_lg&log_SISTEMA_DB=farmacia_lg&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_lg
+    [SERVERPATH] => http://172.17.0.1/farmacia_lg/
+    [ID_M_ARQUEOS] => 00161
+    [ID_M_CAJAS] => 0015
+    [compress] => 1
+    [id_m_usuario] => 001254
+    [viewer] => 1
+)
+
+2022-10-09 08:04:14|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158140&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158140
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:04:26|190.107.226.45|globalcargo|globalcargo|0013477|FUENTES RAFAEL|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158139&compress=0&compress=1&id_m_usuario=0013477&log_USER_ID=0013477&log_USER_NAME=FUENTES+RAFAEL&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158139
+    [compress] => 1
+    [id_m_usuario] => 0013477
+    [viewer] => 1
+)
+
+2022-10-09 08:04:39|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158140&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158140
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:05:37|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158140&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158140
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:06:23|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158141&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158141
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:07:33|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158141&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158141
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:08:34|186.35.121.225|globalcargo|globalcargo|00126318|PRATO GERALDINE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158142&compress=0&compress=1&id_m_usuario=00126318&log_USER_ID=00126318&log_USER_NAME=PRATO+GERALDINE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158142
+    [compress] => 1
+    [id_m_usuario] => 00126318
+    [viewer] => 1
+)
+
+2022-10-09 08:09:28|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158143&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158143
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:09:35|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158141&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158141
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:09:52|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158143&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158143
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:11:13|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158144&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158144
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:11:27|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158143&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158143
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:14:31|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158146&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158146
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:14:56|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158146&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158146
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:15:25|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158145&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158145
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:15:40|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158146&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158146
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:16:10|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158146&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158146
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:17:30|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158145&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158145
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:18:07|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158145&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158145
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:19:27|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158147&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158147
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:19:35|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158145&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158145
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:19:43|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158148&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158148
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:20:12|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158148&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158148
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:20:58|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158148&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158148
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:25:18|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158149&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158149
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:25:58|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158149&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158149
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:26:36|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158150&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158150
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 08:27:09|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158150&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158150
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 08:27:22|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158149&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158149
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:27:31|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158150&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158150
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 08:28:18|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158151&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158151
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:28:45|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158151&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158151
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:29:33|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158152&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158152
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:30:02|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158151&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158151
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:32:08|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158127&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158127
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:32:35|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158127&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158127
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:33:05|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158153&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158153
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:33:14|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158144&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158144
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:33:16|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158154&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158154
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:33:44|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158154&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158154
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:33:54|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158153&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158153
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:35:16|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158153&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158153
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:35:22|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158154&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158154
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:39:21|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158156&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158156
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:39:59|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158156&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158156
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:40:48|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158157&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158157
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:41:11|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158157&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158157
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:41:14|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158156&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158156
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:41:23|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158155&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158155
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 08:41:41|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158155&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158155
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 08:41:43|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158147&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158147
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:42:06|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158155&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158155
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 08:42:30|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158157&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158157
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:46:17|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158159&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158159
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:46:23|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158158&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158158
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:46:51|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158159&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158159
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:47:01|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158158&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158158
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:47:11|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158159&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158159
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:48:27|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158159&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158159
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:48:42|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158158&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158158
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:50:17|181.43.227.132|globalcargo|globalcargo|001313|REINA LEONARDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152498&compress=1&id_m_usuario=001313&log_USER_ID=001313&log_USER_NAME=REINA+LEONARDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152498
+    [compress] => 1
+    [id_m_usuario] => 001313
+    [viewer] => 1
+)
+
+2022-10-09 08:52:18|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158152&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158152
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 08:52:56|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158161&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158161
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:53:01|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158160&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158160
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:53:39|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158160&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158160
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:53:41|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158161&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158161
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 08:54:44|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158160&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158160
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 08:55:59|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158161&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158161
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:05:31|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158162&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158162
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:06:08|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158162&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158162
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:06:25|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158163&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158163
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:07:15|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158163&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158163
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:07:18|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158162&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158162
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:08:05|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158163&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158163
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:08:40|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158165&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158165
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:08:48|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158163&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158163
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:10:33|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158163&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158163
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:11:35|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158166&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158166
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:12:26|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158166&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158166
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:13:51|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158166&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158166
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:13:51|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158167&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158167
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:14:32|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158168&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158168
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:14:32|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158167&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158167
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:14:57|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158152&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158152
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:15:07|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158166&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158166
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:15:43|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158168&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158168
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:16:07|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158167&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158167
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:16:07|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158168&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158168
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:20:51|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158164&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158164
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:21:13|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158164&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158164
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:21:20|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158169&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158169
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:21:42|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158169&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158169
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:21:54|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158170&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158170
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:22:17|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158170&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158170
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:23:16|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158171&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158171
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:23:30|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158169&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158169
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:23:53|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158171&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158171
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:24:26|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158164&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158164
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:24:29|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158172&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158172
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:25:18|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158171&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158171
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:25:25|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158172&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158172
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:26:58|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158173&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158173
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:27:13|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158147&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158147
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:27:18|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158173&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158173
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:27:21|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158152&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158152
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:27:27|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158165&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158165
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:27:33|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158165&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158165
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:27:55|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158165&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158165
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:28:19|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158173&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158173
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:29:30|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158174&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158174
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:30:16|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158165&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158165
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:30:21|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158174&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158174
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:31:50|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158174&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158174
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:33:47|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158175&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158175
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:34:03|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158175&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158175
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:37:38|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158175&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158175
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:38:30|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158176&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158176
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:39:20|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158176&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158176
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:40:19|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158176&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158176
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:43:24|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158178&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158178
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:43:26|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158177&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158177
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:43:43|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158179&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158179
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:44:04|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158177&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158177
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:44:35|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158177&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158177
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:45:06|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158179&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158179
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:45:45|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158172&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158172
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:48:04|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158180&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158180
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:48:04|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158179&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158179
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:48:34|170.82.191.143|globalcargo|globalcargo|00126785|AYALA YAMILAT|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158179&compress=0&compress=1&id_m_usuario=00126785&log_USER_ID=00126785&log_USER_NAME=AYALA+YAMILAT&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158179
+    [compress] => 1
+    [id_m_usuario] => 00126785
+    [viewer] => 1
+)
+
+2022-10-09 09:48:35|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158180&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158180
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:49:32|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158182&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158182
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:50:12|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158182&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158182
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:50:29|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158181&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158181
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 09:51:38|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158180&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158180
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 09:52:38|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158183&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158183
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:52:52|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158182&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158182
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:52:57|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158183&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158183
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:54:29|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158183&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158183
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 09:56:06|190.153.82.197|farmacia_bosqueserino|farmacia_bosqueserino|001224|FLORES MARANELA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0016535&compress=1&id_m_usuario=001224&log_USER_ID=001224&log_USER_NAME=FLORES+MARANELA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0016535
+    [compress] => 1
+    [id_m_usuario] => 001224
+    [viewer] => 1
+)
+
+2022-10-09 09:57:02|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158184&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158184
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:57:40|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158184&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158184
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 09:58:14|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158185&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158185
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 10:00:11|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158184&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158184
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:00:16|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158186&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158186
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 10:00:59|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158186&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158186
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 10:01:09|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158184&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158184
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:01:19|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158186&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158186
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 10:01:23|181.39.90.118|tcs|tcs|0011190|DANNY ROMERO|https://tcs.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/tcs/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=tcs&SERVERPATH=http://172.17.0.1/tcs/&ID_M_GUIAS=001418269&compress=1&id_m_usuario=0011190&log_USER_ID=0011190&log_USER_NAME=DANNY+ROMERO&log_SISTEMA=tcs&log_SISTEMA_DB=tcs&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => tcs
+    [SERVERPATH] => http://172.17.0.1/tcs/
+    [ID_M_GUIAS] => 001418269
+    [compress] => 1
+    [id_m_usuario] => 0011190
+    [viewer] => 1
+)
+
+2022-10-09 10:02:16|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158184&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158184
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:04:01|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158187&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158187
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:06:39|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158187&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158187
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:06:52|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158188&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158188
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 10:07:07|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158189&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158189
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 10:07:08|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158188&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158188
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 10:07:26|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158188&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158188
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 10:07:44|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158187&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158187
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:08:18|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158189&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158189
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 10:08:48|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158190&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158190
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:09:21|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158190&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158190
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:10:51|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158190&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158190
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:11:15|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158189&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158189
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 10:11:58|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158189&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158189
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 10:14:49|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158191&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158191
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:15:25|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158191&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158191
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:16:27|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158191&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158191
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:16:53|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158192&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158192
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:17:35|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158192&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158192
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:18:22|190.107.226.45|globalcargo|globalcargo|0011439|SUAREZ LEANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158193&compress=0&compress=1&id_m_usuario=0011439&log_USER_ID=0011439&log_USER_NAME=SUAREZ+LEANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158193
+    [compress] => 1
+    [id_m_usuario] => 0011439
+    [viewer] => 1
+)
+
+2022-10-09 10:21:31|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158192&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158192
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:22:10|181.162.129.119|globalcargo|globalcargo|001781|RAMIREZ JOSE|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158194&compress=0&compress=1&id_m_usuario=001781&log_USER_ID=001781&log_USER_NAME=RAMIREZ+JOSE&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158194
+    [compress] => 1
+    [id_m_usuario] => 001781
+    [viewer] => 1
+)
+
+2022-10-09 10:25:21|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158195&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158195
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:26:38|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158195&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158195
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:27:02|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158195&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158195
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:28:40|190.107.226.45|globalcargo|globalcargo|00122467|PARRA MARIO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158195&compress=0&compress=1&id_m_usuario=00122467&log_USER_ID=00122467&log_USER_NAME=PARRA+MARIO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158195
+    [compress] => 1
+    [id_m_usuario] => 00122467
+    [viewer] => 1
+)
+
+2022-10-09 10:29:10|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158196&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158196
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:29:53|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158196&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158196
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+
+2022-10-09 10:32:06|190.107.226.45|globalcargo|globalcargo|0017227|RODRIGUEZ YARENIS|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00158196&compress=0&compress=1&id_m_usuario=0017227&log_USER_ID=0017227&log_USER_NAME=RODRIGUEZ+YARENIS&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00158196
+    [compress] => 1
+    [id_m_usuario] => 0017227
+    [viewer] => 1
+)
+

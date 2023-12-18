@@ -1,0 +1,1 @@
+ /usr/local/bin/wkhtmltopdf --disable-smart-shrinking http://127.0.0.1/tmp/rpt4JcdAg.html /opt/lampp/htdocs/tmp/rpt4JcdAg.pdf > /opt/lampp/htdocs/ach/solicitudes_firmas/__xlog.txt 2>&1

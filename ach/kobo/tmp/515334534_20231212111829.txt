@@ -1,0 +1,319 @@
+stdClass Object
+(
+    [_id] => 515334534
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-12-12T10:25:03.163-05:00
+    [end] => 2023-12-12T11:18:24.063-05:00
+    [group_pl6la06/_1_C_digo] => BOSA-964.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-11-30
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-12-02
+    [group_pl6la06/_4_Departamento] => BOLIVAR
+    [group_pl6la06/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_pl6la06/_6_Urbano_Rural] => URBANO
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Arenal, Morales , Santa Rosa, Monte Cristo
+    [group_pl6la06/_8_Comunidad] => Mina Abanico, Mina Central, Mina Guaca, Mina Cielo, Mina Guajira, Mina Guarapearía, Mina Manguera, Mina Sinaí, Mina Argentina, Mina Bola, Mina Café, Mina Argolla, Mina Bola, Mina Caribe, Mina Gallo, Mina la Ye de San Luquitas, Mina Nueva, Mina Ñero, Mina Recocha, Mina Repollo, Mina Vieja, Mina Viejito, Mina Argentina, Mina Bola, Mina Café, Mina Argolla, Mina Bola, Mina Caribe, Mina Gallo, Mina la Ye de San Luquitas, Mina Nueva, Mina Ñero, Mina Recocha, Mina Repollo, Mina Vieja, Mina Viejito.
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => OCHA CTJT_COMITE_TERRITORIAL_DE_JUSTICIA_TRANSICIONAL
+    [group_mb5pt53/_1a_Evaluador] => Keidy Perez
+    [group_mb5pt53/_1b_Celular] => 3102538474
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => Andreina  Colmenares
+    [group_mb5pt53/_2b_Celular] => 3206323997
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_3a_Evaluador] => Wendy Carabali
+    [group_mb5pt53/_3b_Celular] => 3228809070
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_4a_Evaluador] => Ricardo Montes
+    [group_mb5pt53/_4b_Celular] => 3228157357
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-11-20
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Entre el 20 y 21 de noviembre, 2160 personas (858 familias) de 27 veredas de la serranía de San Lucas, pertenecientes a los municipios de Arenal, Morales y Montecristo – Departamento de Bolívar, se desplazaron hacia la cabecera municipal de Santa Rosa del Sur-Bolívar, como consecuencia de enfrentamientos entre GANEs y combates entre fuerzas militares y actores armados. Se presentaron ataques contra la población, bienes civiles (viviendas y establecimientos de comercio), dos establecimientos educativos y se presume presencia de artefactos explosivos MAP y MSE.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las veredas afectadas se encuentran organizadas administrativamente mediante Juntas de Acción Comunal- JAC, se resalta que estas veredas en su mayoría pertenecen territorialmente al municipio de Morales, Arenal y Montecristo, pero debido al desplazamiento al casco urbano de Santa Rosa del Sur la atención de estas familias le corresponde a este municipio receptor. 
+Se destaca que las familias se encuentran alojadas en dos albergues donde se evidencia la conformación de comités de cocina y limpieza diferencial, así como la implementación de normas internas que permitan llevar una sana convivencia. Se evidencia la ausencia de espacios de esparcimiento comunitario o destinación del tiempo libre y la promoción de la participación de las personas desplazadas a jornadas de este tipo. 
+Frente al relacionamiento de la comunidad receptora, se evidencia su solidaridad hacia la comunidad desplazada, pues la Alcaldía ha manifestado el fuerte apoyo en alimentos, víveres, ropa, artículos de higiene, entre otras, que ha donado los comercios, iglesias, asociaciones y comunidad en general. En conclusión, ha sido notoria la receptividad, adaptabilidad, aceptabilidad y cohesión con la comunidad de acogida.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => En la ERN se identificaron los siguientes hallazgos en los temas relacionales, permitiendo determinar las características propias de la población, encontrando lo siguiente: la población de las diferentes veredas se auto reconocen como campesinas, sin embargo, hay una fuerte presencia de población afrodescendiente y aproximadamente 37 migrantes de nacionalidad venezolana donde su gran mayoría se dedica a la minería artesanal y a labores agrícolas para su autosostenimiento. 
+
+En cuanto a la composición poblacional, es evidente una alta presencia de mujeres, sin embargo, es importante resaltar la conformación de hogares monoparentales ya que existen personas que han llegado a las veredas solos a trabajar en las minas. Así mismo, hay presencia de niños y niñas, aunque algunos padres, madres y/o cuidadores refieren que varios menores de edad fueron enviados desde hace algún tiempo con familiares a estudiar al casco urbano de Santa Rosa e incluso a departamentos aledaños a Córdoba, tales como Antioquia y Bucaramanga. De igual manera, existe la presencia de adultos mayores solos, sin familiares cercanos, familias extensas y recompuestas. 
+
+Debido a los enfrentamientos cerca de las comunidades, se identificaron niños, niñas, adolescentes y jóvenes con afectaciones fuertes a nivel emocional debido a que presenciaron hechos que influyen en su salud mental; así mismo, adultos mayores con problemáticas en salud y con movilidad reducida, para los cuales se hace necesario una atención adecuada a su situación y afectaciones físicas. En sus lugares de origen, los tratamientos en relación a las enfermedades que éstos padecen han sido cubierta con recursos propios, sin embargo, no es evidente la realización de controles médicos frente a los diagnósticos o enfermedades que estos refieren debido a los costos elevados en el transporte para salir al casco urbano del municipio de Santa Rosa o hacia otros departamentos aledaños donde mencionan que también pueden ser atendidos.  
+
+Se identificaron en los dos albergues, 2 casos de madres gestantes, las cuales refieren que estaban cumpliendo citas para sus controles prenatales. Así mismo, se encontraron 28 casos de madres lactantes quienes mencionan contar con vacunación y control de crecimiento y desarrollo al día. Se identificaron 5 personas con presunta discapacidad cognitiva de acuerdo con lo referido por los padres, madres y/o cuidadores. Lo anterior, supone una respuesta en el marco de la atención y el desarrollo de ejercicios de sensibilización contemplen ajustes razonables que faciliten el acceso a servicios contemplados en el marco de una atención en la emergencia. 
+
+ 
+
+ 
+
+En el marco de la ERN se evidenció la poca presencia de liderazgos significativos tanto en hombres como en mujeres, donde es frecuente la desinformación de la comunidad frente a la respuesta humanitaria, sus derechos, el acceso a servicios y todo aquello que les pueda garantizar una mayor adaptación en el contexto receptor. Los pocos liderazgos evidenciados se presentan en el sexo masculino donde no es visible comportamientos con equidad de género. De parte de algunas personas en los albergues, manifiestan desconfianza en la actuación de sus lideres pues al parecer actúan más por intereses personales. 
+
+ 
+
+Por último, es importante propiciar la participación de diferentes grupos como niños, niñas, adolescentes, jóvenes, mujeres, adultos mayores y personas con discapacidad en los espacios de formación e información generando estrategias metodológicas y didácticas pertinentes ajustadas a toda la población.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las veredas afectadas se encuentran ubicadas en cercanías a la serranía de San Lucas (la cual limita con otros municipios como Arenal, Morales, Santa Rosa y Montecristo), la economía se caracteriza por las actividades de minería legal e ilegal (extracción de oro), cultivos de uso ilícito, la agricultura y la ganadería, lo anterior ha generado un atractivo para los actores armados en la implementación y ejercicio de economías ilícitas.  
+
+Como consecuencia del desplazamiento, las personas no han podido ejercer actividades que permitan obtener alguna fuente de ingreso económico que permitan cubrir sus necesidades básicas de la familia y el hogar.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El municipio de Santa Rosa del Sur se encuentra ubicado al sur del departamento de Bolívar, situados en la cordillera central, es uno de los municipios que conforman la Serranía de San Lucas, su diversidad climática y suelos montañosos lo hacen un atractivo minero, agrícola y comercial. El municipio cuenta con una expansión territorial de 2.800 km2 y una altura de 650 metros sobre el nivel del mar. Limita al con los municipios de Morales, Simití, San Pablo, Montecristo y el departamento de Antioquia.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Comunicaciones: 
+
+En la cabecera municipal de Santa Rosa hay cobertura de red móvil de todos los operadores sin embargo se observa deficiencia en el servicio de datos móviles y llamadas, en el momento de falla del fluido eléctrico las comunicaciones se ven afectadas, los hoteles cuentan con planta eléctrica y facilitan la conexión a internet vía WiFi para poder mantener comunicación. 
+
+Alojamiento: 
+
+Respecto al alojamiento, el municipio de Santa Rosa del Sur de Bolívar cuenta con una amplia oferta de hoteles que oscilan entre los 50.000 a 70.000 COP en zonas centrales. 
+
+Alimentación: 
+
+El municipio cuenta con gran variedad de restaurantes y supermercados para la compra de suministros y alimentación. Valor promedio por cada comida (desayuno, almuerzo, cena) de 17.000 COP. 
+
+Agua para consumo: 
+
+Santa Rosa cuentan con acueducto el cual poseen una planta de tratamiento de agua con capacidad para 100 litros por segundo y un tanque de 1600 metros cúbicos de agua, este acueducto cubre el 98% de la cabecera municipal. 
+
+Servicios: 
+
+En el municipio de Santa Rosa se cuenta con servicio de energía eléctrica, ocasionalmente se presentan cortes de energía de forma intermitente, servicio de acueducto, alcantarillado y servicio de gas. La disposición de residuos es realizada por la empresa de recolección municipal de basuras, el manejo de aguas residuales se realiza por medio del alcantarillado municipal, éste cuenta con su respectiva planta de tratamiento. Se cuenta con sucursales de entidades bancarias como Bancolombia, Servibanca y puntos físicos de Efecty.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => La geografía del municipio de Santa Rosa del Sur se caracteriza por estar en la cordillera central, mayoritariamente su zona es montañosa, con afluencia hídrica, su clima es templado – cálido, lo cual facilita la producción de cultivos agrícolas destinados para el consumo diario de las familias como maíz, plátano, yuca, ahuyama y algunas hortalizas. En los últimos años la Serranía de San Lucas ha sufrido una alta degradación en sus ecosistemas debido a las actividades realizadas en el área como la minería aluvial y de veta, los cultivos ilícitos y las posteriores fumigaciones de glifosato, la ganadería extensiva, entre otros. 
+
+En relación con el manejo de residuos sólidos el casco urbano cuenta con sistema de recolección de residuos que funciona cada dos días y son depositados en un vertedero municipal a las afueras de la población, la zona se encuentra en riesgo alto por presencia de enfermedades endémicas (dengue, miasis y paludismo) causadas por la proliferación de vectores como mosquitos, moscas, insectos y roedores.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO
+    [group_fm93i53/Riesgos_para_respuesta] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => Tiempo aproximado 2 horas y 54 minutos entre Bucaramanga y puerto Wilches, pero en lluvia y con carga el tiempo sube a 4 horas y 40 minutos. Total, de kilómetros 152km. De puerto Wilches a Cantagallo se debe abordar el ferry, para usar este servicio debemos contar con un tiempo aproximado de 2 horas y 30 minutos por disposición del ferri y cupo en este mismo. De Cantagallo a Santa Rosa después de bajar del ferri el tiempo aproximado es de 1 hora y 35 minutos, pero en tiempo de lluvia y con carga el trayecto puede durar aproximadamente 2 horas y 50 minutos.
+    [group_fm93i53/seguridad] => En las veredas existe presencia permanente de dos GANES, a esto se le suma el aumento de pie de fuerza pública, lo que supone un riesgo por nuevos combates o enfrentamientos en los territorios.   
+
+Riesgo de Presencia de Artefactos Explosivos en el territorio posterior a los enfrentamientos y combates (MSE). 
+
+Recientemente se han presentado combates en zona rural de Montecristo (sector Mina Seis), lo que genera un nuevo riesgo de desplazamiento forzado.   
+
+Se evidencia que no hay condiciones de seguridad para el retorno de la población debido a los combates presentados el día 30 de noviembre.  
+
+Señalamientos por parte de los actores armados a las personas que decidieron desplazarse entre el 20 al 27 al retornar a sus territorios.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 858
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 2160
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 27
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 37
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-11-27
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => DEPURADO PRELIMINAR DESPLAZAMIENTO MASIVO MINA GUARAPERIA Y ALEDAÑAS 22 NOV 2023-10_42_12.xlsx
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 2160
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => JRS, CICR, OCHA
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH WASH-IPC SAN
+    [group_aa8xg30/group_ow1dy59/ICLA] => Existen riesgos de protección asociados a , VBG, uso y utilización de NNA, Riesgo de MAP Y MSE , Imposición de conductas, confinamientos y desplazamientos, afectaciones por fuego cruzado.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => La presencia constante de actores armados en la serranía de San Lucas en el segundo semestre del año 2023 ha generado múltiples emergencias humanitarias derivadas del conflicto armado, tales como desplazamientos individuales y/o masivos, confinamientos y restricciones a la movilidad. Este contexto de violencia ha generado una alta exposición de riesgos a las comunidades, quienes han quedado inmersos en una disputa territorial en la que se afecta el tejido social y comunitario de las veredas, además de sus derechos fundamentales.  
+
+ 
+
+En evaluación de necesidades se evidencia un sentimiento de miedo, angustia y zozobra por las acciones de los actores armados, ya que, desde enero del año en curso, las hostilidades en el territorio se han incrementado, presentándose enfrentamientos, combates, amenazas, torturas, afectaciones a viviendas y enseres, secuestros, desplazamientos individuales y presuntos casos de delitos contra la integridad sexual de niñas, adolescentes, jóvenes y mujeres.  Esta situación ha obligado a la comunidad a desplazarse a la cabecera municipal de Santa Rosa del sur, con el ánimo de salvaguardar sus vidas e integridad, limitándose el acceso a bienes y servicios, el desarrollo de actividades diarias productivas como la cosecha, siembra o minería, lo que da cuenta de una crisis humanitaria que afecta la supervivencia de las comunidades campesinas.    
+
+ 
+
+Las normas de conductas impuestas por los GANEs en la zona rural de los municipios ha producido una limitación para el ejercicio de liderazgos debilitando las estructuras organizativas, además de una limitación para el ejercicio de actividades de libre asociación, como colectivos de mujeres. Existen riesgos y materialización de amenazas e intimidaciones a perfiles de liderazgo esta situación de riesgo conlleva a que en este momento haya poca representatividad de las veredas, lo que da cuenta de un riesgo exacerbado por la presencia y control de actores armados, así como una desintegración del tejido social de las veredas al no poseer una representación para la defensa de sus derechos y coordinación para el acceso de los componentes de  la respuesta humanitaria en este momento de emergencia por el desplazamiento forzado que han padecido.  
+
+ 
+
+Del mismo modo, se evidenció que la presencia del GANEs incrementa el riesgo y materialización de uso y vinculación de NNAJ a través de estrategias de enamoramiento y ofrecimientos económicos por parte de los grupos, situación que ha ocasionado que un gran número de jóvenes y adolescentes se desplacen hacia el casco urbano de Santa Rosa del Sur, Villavicencio, Bucaramanga, El Banco y Planeta Rica, en búsqueda de oportunidades alejadas del conflicto. Este movimiento constante de los NNAJ ha ocasionado también división de las familias, lo que ocasiona afectaciones psicológicas y emocionales. 
+
+  
+
+Las familias desplazadas se encuentran albergadas en dos puntos donde se evidencia, lugares comunitarios diferenciados por género como dormitorios, duchas, baños los cuales cuentan con control de acceso; sin embargó, se conoció de un hecho de acoso y posible explotación sexual en la sede número tres Alfredo Nobel hacia las mujeres en el albergue por parte de una persona perteneciente a la comunidad de acogida. 
+
+ 
+
+En la ERN se identificó que en los dos puntos de albergues temporales donde están alojadas las familias desplazadas, hay una mayor presencia de mujeres, niños y niñas, ya que los hombres permanecen en las veredas en busca de recursos económicos para satisfacer las necesidades de sus compañeras e hijos que se han desplazado.  
+
+ 
+
+En cuanto a las dinámicas en la zona rural, se logró identificar que, en las veredas afectadas se observa una presencia mayoritaria de hombres que llegan al territorio buscando fuentes de ingresos económicos, donde la presencia de las mujeres resulta ser un poco más baja, ubicándose en un contexto liderado por el patriarcado donde se identifica violencia económica, sexual/reproductiva, verbal y psicológica, además de una dedicación exclusiva en labores domésticas y cuidados de sus hijos e hijas.  
+
+ 
+
+En el marco de esta evaluación de necesidades se identificó también población con doble afectación, víctimas del conflicto en este territorio y migrantes que en busca de mejores oportunidades han llegado a este territorio, migrantes que en su mayoría no cuentan con un estatus regular en Colombia, además al indagar con algunas familias se logró identificar que no observan la regularización como una prioridad, pues muchos planear retornar a su país de origen.  
+
+ 
+
+Se logró percibir en las comunidades sentimientos de soledad, nostalgia y melancolía por los múltiples desplazamientos que han padecido en el último año, lo que ha configurado una ruptura y quebrantamiento de las comunidades que no poseen estrategias de afrontamiento ni mecanismos de autoprotección. Así mismo, se observó una afectación generalizada en las comunidades, afectaciones generadas por la emergencia que han dejado sentimientos de miedo constante, dificultades para conciliar el sueño y estrés lo que ha ocasionado en la población dolores de cabeza y físicos.   
+
+ 
+
+El conocimiento y acceso de la población a estrategias para la defensa y protección de derechos y libertades es limitada, se observa una invisibilización de hechos victimizantes que no son conocidos por las comunidades y desconocen las entidades donde pueden activar rutas de atención. Adicional a lo anterior, no conocen sobre la normatividad vigente orientadora de la atención a víctimas del conflicto armado, rutas de atención, acceso a derechos, asistencia inmediata y reparación integral a población afectada por el conflicto armado interno y solo identifican el desplazamiento forzado como afectación en el marco del conflicto armado.   
+
+  
+
+En Evaluación Rápida de Protección, se evidenciaron personas con necesidades especiales, lográndose identificar 18 casos con necesidades de protección orientadas en el acceso a derechos y servicios básicos, por la insatisfacción de necesidades y/o la ocurrencia de hechos victimizantes en el marco del conflicto armado, entre ellos, se destaca el caso de 6 personas heridas en medio del fuego cruzado.  
+
+  
+
+Las familias alojadas en los albergues han logrado acceder a servicios esenciales como alimentación, agua, ropa, alojamiento temporal y algunos elementos de aseo. En cuanto a las familias auto albergadas, se evidencio que hasta la realización de la ERN no han sido beneficiarios de ninguna respuesta en el marco de la inmediatez.  
+
+   
+
+En relación con el acceso a servicios de salud, la Alcaldía en articulación con la ESE ha destinado una ruta de atención prioritaria a familias afectadas por la emergencia, muchas cuentan con EPS de otros municipios o departamentos, considerando que gran parte de la población es pendular por su actividad económica (minería), aun así, por urgencias se han atendido las emergencias presentes.   
+
+  
+
+Frente a identidad legal, mayoritariamente los desplazados colombianos señalaron poseer sus documentos de identidad, aunque en la evaluación y caracterización se evidencio población migrante venezolana, algunas regularizadas con PPT y otras, sin documento regular, que accedieron al registro del censo masivo de emergencia.
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => Acceso a información para acceso a la ruta de atención a victimas de conflicto armado, Ley 1448. Estrategias de autoprotección comunitaria . Gestión y seguimiento a casos individuales.
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => ¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección? SI
+¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)? SI.
+¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo? SI
+¿El hecho victimizante ha sido visibilizado con la institucionalidad? SI
+¿Tienen conocimiento las comunidades sobre normatividad de víctima? NO
+¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención? SI
+¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? SI
+    [group_aa8xg30/group_lg2ro37/Shelter] => Necesidades de adecuación de los espacios de alojamiento temporal. Necesidades de elementos de hábitat
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => n el análisis de necesidades en el sector Alojamiento e infraestructura desarrollado en la población desplazada en el casco urbano de Santa Rosa del Sur, se describen las siguientes consideraciones: 
+
+ 
+
+Durante la emergencia se presenta el desplazamiento masivo de las comunidades mineras de la zona limítrofe entre los municipios de Santa Rosa del Sur, Morales y Montecristo. Siendo el casco urbano de Santa Rosa del Sur el principal receptor de esta población, por motivos que cuenta con mejor infraestructura vial para la población y con mayor percepción de seguridad en el traslado de la población. 
+
+ 
+
+A su llegada al casco urbano de Santa Rosa del Sur, la población se dividió de acuerdo a sus facilidades o capacidades económicas de la población. La gran mayoría se auto alberga en casas de familiares y amigos, y otro gran número de población sin redes apoyo en los albergues habilitados por la institución local del municipio, en este caso la alcaldía. Esta decisión es debido a la sensación de mayor seguridad y comodidad que experimentan en entornos familiares. Aunque esta es una solución temporal de emergencia, las personas no se sienten cómodas en estas condiciones, pero, aun así, prefieren esta opción a la idea de ingresar a un albergue habilitado por el municipio.  
+
+ 
+
+La alcaldía del municipio ha establecido dos albergues temporales para aquellos que no cuentan con redes de apoyo. En la actualidad son:  
+
+Albergue Menor Infractor: Este alojamiento cuenta con capacidad de atención a 30 familias (70 personas) y un área de 300 m2 entre dormitorios, áreas comunes, cocina y baños. Se ha evidencian afectaciones en términos de hacinamiento, falta de espacios de privacidad e intimidad, falta de iluminación en áreas comunes como lavaderos y fogón improvisado, calor excesivo en horas durante el día y limitado control o aplicación de enfoque diferencial en áreas de baños y áreas para el cambio de ropa. Se presentaron desafíos en la organización y gestión de este albergue, se ha logrado superar gracias al seguimiento constante por parte de la alcaldía en estos problemas, principalmente enfocados en la alimentación comunitaria y convivencia del espacio. 
+
+Albergue CAR “Centro de alto rendimiento”: Este alojamiento cuenta con capacidad de atención a 1000 personas aproximadamente, y está siendo usado por 50 familias (130 personas) durante la noche, y en el día asisten aproximadamente 400 personas que toman la alimentación en el alojamiento. Cuenta con un área de 3000 m2 entre dormitorios, áreas comunes, espacios deportivos, enfermería y baños. Se ha evidencian afectaciones como la falta de espacios de privacidad e intimidad, falta de iluminación en áreas comunes, afectación ambiental por alta presencia de aves y contaminación por sus residuos, falta de espacios comunes como lavaderos y cocina adecuadas, actualmente cuentan con fogones improvisado al aire libre, limitado control o aplicación de enfoque diferencial en áreas de baños y áreas para el cambio de ropa. Es importante resaltar que se presentan desafíos en la organización y gestión de este albergue, al no contar con una figura de liderazgo fuerte en el espacio.  La coordinación constante por parte de la Alcaldía ha sido manejada por el cuerpo municipal de bomberos, quienes lideran la organización de la alimentación comunitaria. Además del uso, cuidado y mantenimiento del alojamiento.  
+
+La población no manifiesta el deseo de regresar a sus hogares y comunidades de origen, debido a que existen temores y rumores sobre la posible presencia de artefactos explosivos y continuidad de los combates en sus territorios.  
+
+La población e institución pública en cabeza de la Alcaldía manifiesta su preocupación por no contar con el acceso a elementos esenciales de hogar para un adecuado alojamiento temporal para la atención de la población. Elementos esenciales como colchonetas, cobijas y utensilios de cocina forman parte de las necesidades críticas de la población, sin embargo, desde el accionar del consorcio MIRE+ se logró cubrir gran parte de esta necesidad. Así mismo, con la entrega de insumos y elementos que permitan mejorar las condiciones en los albergues. Es importante destacar que la atención se realizará mediante la entrega de estos materiales y acompañamiento técnico a la alcaldía y a los coordinadores de los albergues, con el objetivo principal de facilitar las intervenciones necesarias para mejorar las condiciones de habitabilidad de la población.  
+
+En el casco urbano, los niños, niñas y adolescentes en edad escolar enfrentan dificultades para acceder a la educación, esto debido a que no hay oferta educativa en este periodo del año por vacaciones escolares. Cabe destacar que esta situación no se debe a la falta de espacio o aulas, ya que el casco urbano dispone de suficiente infraestructura para atender las necesidades educativas de la población NNAJ.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Entrega de Kit de hábitat comunitario para los dos albergues
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿Las familias y/o personas tienen donde albergarse en condiciones seguras? ​
+No, Los albergues necesitan adecuaciones 
+¿Las familias y comunidad cuentan con las infraestructuras adecuadas que promuevan seguridad?​ 
+NO 
+ ¿Se permite y/o valida con autoridades locales y comunidades la aceptación de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales? ​
+Si
+¿Se identifica la necesidad de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales? 
+​Si
+¿La respuesta desde Shelter disminuye que las personas estén expuestas a riesgos de seguridad física, inclemencias climáticas, salud, privacidad y mejora la dignidad de las personas? ​
+ Si
+    [group_aa8xg30/group_fv0ct51/Agua] => Necesidad de acceso a agua segura en los espacios establecidos como albergues temporales, las condiciones de acceso a agua son limitadas, dada la baja capacidad de los tanques de almacenamiento y las condiciones en la presión del agua para su distribución.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Hacinamiento para el uso de letrinas y baños dado que la capacidad de los establecidos en el albergue es de 2 baños por espacio.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Necesidades en términos de elementos de higiene individual, familiar y comunitarios para el aseo personal y mantenimiento de los espacios del albergue.
+    [group_aa8xg30/group_fv0ct51/IPC] => La recolección de residuos se lleva a cabo cada dos días, específicamente en las noches, a través del servicio municipal. Para mantener la higiene en el albergue, se han colocado puntos de recolección sin canecas (solo bolsa) para el manejo de residuos en los baños y cocinas. Se evidencia ausencia de puntos ecológicos que faciliten la recolección en áreas comunes y áreas habitacionales de los albergues.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => En la cabecera municipal de Santa Rosa del Sur opera un sistema de acueducto municipal. Sin embargo, se ha observado que este sistema experimenta interrupciones periódicas. Los albergues ubicados en el casco urbano son especialmente vulnerables a estas interrupciones, ya que el suministro de agua solo se lleva a cabo durante las horas de las noches para recargar los tanques de almacenamiento de los alojamientos. 
+
+El albergue habilitado por el municipio como “Menor Infractor” cuenta con dos tanques elevados de 1000 litros, sin embargo, la baja presión del acueducto impide que estos tanques se llenen adecuadamente, lo que afecta la disponibilidad de agua en el albergue. Además, la alcaldía proporcionó un tanque de 2000 litros instalado a nivel del suelo, sistema el cual carece de un adecuado grifo de salida y un control seguro para la toma del agua, lo que requiere que el llenado se realice con mangueras y la extracción manualmente con un balde.  
+
+El albergue habilitado también por el municipio como CAR “Centro de alto rendimiento” cuenta con tres tanques elevados de 5000 litros y uno subterráneo de 12000 litros, sin embargo, por la baja presión del acueducto impide que estos tanques elevados se llenen adecuadamente, lo que afecta la disponibilidad de agua en el albergue. Además, el sistema de bombeo auxiliar que alimenta desde el tanque subterráneo a los tanques elevados presenta avería que afecto el funcionamiento de la bomba de agua. 
+
+En los albergues, no se realizan prácticas o tratamientos para desinfectar el agua de consumo, lo que evidencia un riesgo potencialmente alto de contaminación del agua y posibles afectaciones en la salud de los residentes, especialmente en lo que respecta al agua utilizada para el consumo directo y la preparación de alimentos. Es importante destacar que, hasta la fecha, no se han registrado informes de problemas agudos de salud ni se han documentado casos relacionados con trastornos gastrointestinales en la población del albergue, sin embargo, si manifiestan dolencias y aumento de diarreas manejables en la población.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Habilitar puntos para acceso a agua segura, y puntos de lavado de manos , Entrega de kits de higiene .
+    [group_aa8xg30/group_jn0nm53/san] => Necesidades relacionadas con acceso a alimentos, a causa del desplazamiento relacionados con afectaciones a sus medios de vida a raiz de la emergencia. m
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => Durante la crisis y como consecuencia además del desplazamiento se han afectado los medios de vida y la seguridad alimentaria de la población ya que los principales medios de vida se encuentran relacionados a actividades de minería y cultivos que se encuentran en sus lugares de origen. En el momento, se ha dependido de la institucionalidad y del comercio para la satisfacción de las necesidades básicas en alimentación de la población. Al aplicar la ERN se ha podido evidenciar que la Alcaldía Municipal se ha encargado de la distribución de alimentos con el apoyo de comerciantes para las familias ubicadas en los dos albergues y aquellas que se encuentran ubicadas en redes de apoyo.  
+
+Las familias en redes de apoyo han recibido alimentos para cubrir sus necesidades en alimentación, sin embargo, manifiestan que no ha sido suficiente para la satisfacción de sus necesidades, las familias que se encuentran en los albergues han recibido los alimentos por parte de la institucionalidad, donaciones de comerciantes, habitantes del sector, entre otros, para la elaboración de ollas comunitarias donde se ha garantizado entre 1 a 2 comidas al día en el albergue Escuela N°3 (Actual Albergue CAR – Centro de Alto Rendimiento) y se ha garantizado 3 comidas al día en el albergue del Menor Infractor.  
+
+Entre los alimentos que se entregan se mencionaron: arroz, pasta, harina de maíz, verduras como tomate, cebolla cabezona, cebolla larga y pimentón, lentejas, frijol, yuca, plátano, papa y en algunas ocasiones proteína de origen animal como pollo, carne de res y huevos. Las familias han manifestado que el tamaño de las porciones se ha visto disminuido y se ha visto afectada la variedad de los alimentos ya que en su mayoría dentro de los tiempos de comida predominan los carbohidratos como arroz, pasta, papa, yuca y plátano en diversas preparaciones. Lo anterior, ha afectado a algunas personas que poseen patologías como hipertensión arterial y diabetes, con necesidades en alimentación con requerimientos especiales como bajo en sodio, disminución de carbohidratos, entre otros. 
+
+En el caso de niños menores de un año se han recibido donaciones de leche en polvo infantil, cereales infantiles y avena para preparaciones como coladas que sirven de complemento a la leche materna.  
+
+Antes de la emergencia, las comunidades presentaban una alimentación según los cultivos generados en las veredas de yuca, maíz, ahuyama, naranja, limón, entre otros. A través del sustento generado a partir de la minería adquirían alimentos como arroz, aceite, pan, carnes y huevos en las tiendas ubicadas en las veredas. Debido al desplazamiento forzado, estas actividades económicas no se continuaron realizando. La población manifiesta su preocupación por los cultivos, las cosechas y los animales, pues sin nadie que los cuide pueden perderse. Como consecuencia, de esta situación, las pérdidas son en especie y monetarias.  
+
+Se ha presentado el retorno de algunas familias a las minas, sin embargo, continúan familias que permanecen en el casco urbano en los albergues hasta la garantía de condiciones de seguridad para el retorno debido a la presencia constante de los GANE. La institucionalidad alerta que se pueden continuar presentando hechos que pueden derivar en desplazamientos masivos e individuales relacionados a los enfrentamientos constantes por parte de los GANE en el territorio.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Servicios de apoyo para acceso a alimentos en especie o a través de transferencias monetarias .
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => 1. Disponibilidad y acceso de los hogares a alimentos sanos y en buenas condiciones. 
+2. Implementación de los hogares de las estrategias de afrontamiento reducido ( rCSI) 
+3. Acceso a una dieta diversificada y de calidad
+4. Grupos vulnerables relevantes con dificultad de acceso a los alimentos
+5. Capacidad de resiliencia
+    [group_aa8xg30/group_tb5de96/EIE] => Interrupción del ciclo escolar varias veces en el año, necesidad de materiales lúdico pedagógicos, necesidades de capacitación a personal docente frente a educación en emergencias y PGIRE
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => En términos de educación las comunidades refieren que, el calendario escolar se venía desarrollando con normalidad hasta el día viernes 6 de octubre en que ocurren los primeros enfrentamientos y se vio interrumpida por tercera vez en el último semestre, con el desplazamiento ocurrido los días 20 y 21 de noviembre, por lo que no se logró finalizar de manera armónica el ciclo escolar para este año lectivo. Debido a que las veredas afectadas pertenecen a los municipios de Morales y Arenal, no se tiene información de los docentes pertenecientes a estas sedes educativas. En la emergencia se reportan 595 NNAJ en edad escolar entre los 5 y 17 años (290 Hombres - 305 Mujeres). 
+
+ 
+
+Los niños, niñas y adolescentes en un punto de albergue relacionan que han encontrado municiones sin explosionar al lado de los caminos transitados e incluso un cilindro usado como explosivo sin activar, por lo que se hace urgente una formación y acompañamiento en Comportamientos seguros y educación en riesgo minas ante un posible retorno a las comunidades. En dos sedes educativas (Mina Caribe y Mina Viejito) se reportan desde uno de los albergues, que se vieron afectadas por impactos durante el fuego cruzado en periodos donde no se estaba cursando clases ni presencia de estudiantes, generando la cancelación de las actividades educativas. 
+
+ 
+
+ 
+
+Las familias reportan afectaciones psicosociales que pueden afectar la población escolar y comunidades en general, entre estas, la población fue recurrente en manifestar sentir temor ante riesgo por instalación de artefactos explosivos o presencia de MSE para el retorno a sus comunidades por el riesgo de enfrentamientos posibles. Los sentimientos de temor y angustia persisten ante sonidos estridentes que evocan el recuerdo de los enfrentamientos, adicionalmente se identifica desintegración familiar entre los NNAJ y sus padres, ante la ausencia de espacios seguros educativos y comunitarios, los cuidadores han enviado a sus hijos a casas de familiares y redes de apoyo en otros municipios o se han dispersado en el mismo municipio de Santa Rosa del Sur, incrementando los riesgos de protección a los NNAJ. 
+
+ 
+
+ 
+
+La comunidad refiere que los docentes no permanecen en los territorios desde la ocurrencia de los hechos, faltando una semana para finalizar el año escolar y se ajustó el modelo de educación a distancia a través de guías educativas; la pobre conectividad en los territorios genero la no continuidad de las actividades educativas por parte de los estudiantes. Se identifica la institución educativa técnica de El Corcovado como la principal receptora de la población escolar afectada por la emergencia en las sedes de: Mina Gallo, Mina Caribe y Mina Viejito, en los niveles de Básica Primaria y bachillerato.  La oferta educativa en las veredas son MEF en la mayoría de las sedes educativas como el modelo post primaria, sin embargo, los NNAJ recorren entre una vereda a otra para la oferta educativa de secundaria, exponiéndose a riesgos asociados por presencia de GANEs en los caminos hacia las escuelas, fuego cruzado y riesgo por accidentes por presencia de artefactos explosivos como MAP, MSE, TE y riesgo por uso, utilización y vinculación.  
+
+ 
+
+ 
+
+Por otra parte, en relación a la oferta educativa no se evidencia claramente la responsabilidad administrativa entre la jurisdicción de Morales y Santa Rosa del sur, ya que, aunque pertenecen geográficamente a Morales; algunas de las Juntas de Acción Comunal se han inscrito en Santa Rosa, por lo que los servicios a veces los suple la administración municipal de Santa Rosa del sur.  Por esto, se presenta déficit en estrategias de acceso y permanencia vinculadas a la calidad escolar, (Mobiliario, Material fungible, didáctico y pedagógico). Además de lo anterior, al no estar los docentes en el lugar de atención, no se garantiza que estos reciban atención psicosocial ante las situaciones que han debido afrontar y a su vez, se dificulta que sean formados en Educación en Emergencias.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => Formación a AEC  en educación en emergencias y entrega de KIT.
+Talleres con NNA Sobre autocuidado y comportamientos seguros, espacios seguros de aprendizaje.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => Ataque a la Escuela(s) de la comunidad durante la emergencia presencia 1 ó + eventos durante la emergencia: NO 
+Suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia. SI 
+Se identifica afectación en niños, niñas y adolescentes en edad escolar ante la presencia 1 ó + riesgos de protección durante la emergencia: SI
+Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. NO
+La escuela NO cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO
+La Institución Educativa NO cuenta con Plan de Gestión integral de riesgo escolar PGIRE y ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 2160
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 12
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_ys9jk69/_0_Personas_que_participaron_e] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Gladys
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3188528602
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Albergue Menor infractor
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Bertha
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3215675531
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Mina Viejito
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vRSw7bf2Cp45txXTd7othP
+    [meta/instanceID] => uuid:e526f598-2130-4158-a14a-8ea3c65cc6c8
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => e526f598-2130-4158-a14a-8ea3c65cc6c8
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fe526f598-2130-4158-a14a-8ea3c65cc6c8%2FDEPURADO_PRELIMINAR_DESPLAZAMIENTO_MASIVO_MINA_GUARAPERIA_Y_ALEDA%C3%91AS_22_NOV_2023-10_42_12.xlsx
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fe526f598-2130-4158-a14a-8ea3c65cc6c8%2FDEPURADO_PRELIMINAR_DESPLAZAMIENTO_MASIVO_MINA_GUARAPERIA_Y_ALEDA%C3%91AS_22_NOV_2023-10_42_12.xlsx
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fe526f598-2130-4158-a14a-8ea3c65cc6c8%2FDEPURADO_PRELIMINAR_DESPLAZAMIENTO_MASIVO_MINA_GUARAPERIA_Y_ALEDA%C3%91AS_22_NOV_2023-10_42_12.xlsx
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fe526f598-2130-4158-a14a-8ea3c65cc6c8%2FDEPURADO_PRELIMINAR_DESPLAZAMIENTO_MASIVO_MINA_GUARAPERIA_Y_ALEDA%C3%91AS_22_NOV_2023-10_42_12.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/e526f598-2130-4158-a14a-8ea3c65cc6c8/DEPURADO_PRELIMINAR_DESPLAZAMIENTO_MASIVO_MINA_GUARAPERIA_Y_ALEDAÑAS_22_NOV_2023-10_42_12.xlsx
+                    [instance] => 515334534
+                    [xform] => 638464
+                    [id] => 220636178
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-12-12T16:18:27
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

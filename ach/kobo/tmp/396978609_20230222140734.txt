@@ -1,0 +1,85 @@
+stdClass Object
+(
+    [_id] => 396978609
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-02-22T13:49:22.115-05:00
+    [end] => 2023-02-22T14:07:22.674-05:00
+    [group_gu1lq88/Departamento] => CORDOBA
+    [group_gu1lq88/CORDOBA] => TIERRALTA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin Información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Nejondó, Kapupudó y Koredó +  (Resguardo Emberá Katío del Alto)
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-02-22
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => DESPLAZAMIENTO Restric_movilidad
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI VBG OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => De acuerdo con la comunidad, dos niños han fallecido por malnutrición y otros 12 niños - identificados en jornadas de salud- menores de cinco años se encuentran en riesgo de malnutrición.
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde diciembre del 2022, al menos 1.279 personas (304 familias) de las comunidades de Nejondó, Kapupudó y Koredó pertenecientes al Resguardo Indígena Emberá Katío del Alto Sinú en el municipio de Tierralta, mantienen restricciones a la movilidad en la comunidad de Nejondó donde la población ya se encontraba en situación de desplazamiento desde el 24 de septiembre de 2022 (Ver alerta). Desde diciembre, el GANE ha recurrido a acciones como amenazas de violencia sexual contra las mujeres de la comunidad si se movilizan a los cultivos de pancoger; la imposición de pagos a los hombres por cada animal cazado e impedimentos a la Guardia Indígena para hacer arreglos en las mangueras que transportan agua a las comunidades desde una quebrada cercana.
+    [group_yv1ph08/time2] => 2022-12-14
+    [group_yv1ph08/time3] => 70
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 575
+    [group_cn9za51/personas] => 2360
+    [group_cn9za51/comu] => 3
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => El 14 y 15 de febrero, la Oficina para la Coordinación de Asuntos Humanitarios (OCHA), Defensoría del Pueblo y la Misión de Verificación de las Naciones Unidas (UNVMC) realizaron una misión de seguimiento a la situación de desplazamiento de las comunidades, donde se identificaron las restricciones a la movilidad y el riesgo de confinamiento.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => La OCHA en conjunto con la Unidad de Atención y Reparación Integral a las Víctimas (UARIV) está trabajando en una estrategia para visibilizar las restricciones a la movilidad y el posible confinamiento de la población en el próximo CTJT que tendrá lugar el 28 de febrero
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3+https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/22022023_alerta_humanitaria_-_restricciones_a_la_movilidad_y_persistencia_de_desplazamiento_en_comunidad_embera_katio_en_tierralta_cordoba_vf.pdf+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:9808922a-8ca7-48c6-9d42-835f69360766
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 9808922a-8ca7-48c6-9d42-835f69360766
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-22T19:07:33
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

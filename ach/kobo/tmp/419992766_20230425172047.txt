@@ -1,0 +1,217 @@
+stdClass Object
+(
+    [_id] => 419992766
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-04-25T17:00:15.571-05:00
+    [end] => 2023-04-25T17:19:03.157-05:00
+    [group_pl6la06/_1_C_digo] => VABU-647.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2022-12-12
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-04-15
+    [group_pl6la06/_4_Departamento] => VALLE_DEL_CAUCA
+    [group_pl6la06/VALLE_DEL_CAUCA] => BUENAVENTURA
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Zona Urbana de Buenaventura
+    [group_pl6la06/_8_Comunidad] => Silva, Chorro, San Isidro, Punta Bonita
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento desplazamiento_masivo
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA OTRO_ORIGEN
+    [group_pl6la06/_Cu_l_001] => Equipo Movil MIRE
+    [group_mb5pt53/_1a_Evaluador] => Sin Información
+    [group_mb5pt53/_1b_Celular] => Sin Información
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ALIANZA_POR_LA_SOLIDARIDAD_APS
+    [group_mb5pt53/_2a_Evaluador] => Sin Información
+    [group_mb5pt53/_2b_Celular] => Sin Información
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-01-19
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde enero del año 2022, un Grupo Armado No Estatal (GANE) incursionó en las comunidades cercanas del río Cajambre donde existe presencia de otro grupo armado, esto ha ocasionado que se presenten constantes enfrentamientos y acciones directas contra la población como amenazas, secuestros, desapariciones y homicidios. Esta situación ha conllevado a que la población se desplace y se confine, en la actualidad registra dos situaciones de emergencia en la subregión del río Cajambre.
+1.	El 30 de octubre del 2022 en la comunidad de San Isidro se presentó un enfrentamiento, con interposición de la población civil en el fuego cruzado. Este evento dejó como víctimas a 4 personas; razón por la cual la comunidad tuvo un desplazamiento de 35 familias junto con los profesores, los cuales fueron presionados para que abandonaran el territorio.
+2.	Como consecuencia del enfrentamiento se incrementaron las restricciones, las amenazas y ocasionó que algunas familias aún permanezcan en las comunidades, bajo influencia de los GANE, debido a la escasez de recursos económicos que no les permite salir del territorio.
+El 1 de noviembre 2022 la comunidad de Punta Bonita recibió amenazas y señalamientos a personas como objetivo militar por parte del Grupo Armado No Estatal, lo que provocó el desplazamiento de las familias.
+Entre el 7 y el 9 de noviembre se presentaron enfrentamientos en la parte alta de río Cajambre, como consecuencia, se reportaron asesinatos y desapariciones. Seguido a estos enfrentamientos, miembros de un GANE realizaron amenazas a todos los tenderos y/o comerciantes del río, saquearon todos los víveres y cortaron las parcelas de pancoger. Desde ese momento, el GANE ha impuesto medidas de control social y territorial. Entre estas medidas impusieron restricciones a la movilidad a para las personas que viven en las partes alta y baja del río Cajambre. Algunos líderes y lideresas recibieron amenazas e intimidaciones, por lo que tuvieron que abandonar la zona.
+Con respecto a las personas en situación de confinamiento no se ha realizado atención debido a las condiciones de seguridad y accesibilidad a la zona, en cuanto a la información recolectada fue limitada debido a las complejas condiciones de acceso a esta. 
+Algunas familias desplazadas se encuentran alojadas en el casco urbano de Buenaventura, de manera dispersa en casas de amigos y familiares, situación que ha generado hacinamiento, por lo cual las familias mencionaban la posibilidad de ayuda para arriendo.
+    [group_rq63s60/group_lm6cx76/a_Social] => En los últimos años los Grupos Armados no Estatales (GANE) han buscado un control territorial y hegemónico sobre la zona, que ha derivado en el recrudecimiento de las acciones armadas, de hechos victimizantes contra las comunidades, la ocurrencia de múltiples afectaciones más y el incremento de las necesidades humanitarias tanto en la ruralidad como en la cabecera municipal, dado que este este municipio es uno de los que presenta desplazamientos dentro del sector urbano.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => En la población afectada existe un gran número de niñas, niños, adolescentes Y jóvenes (NNAJ), mujeres gestantes, mujeres lactantes sin acceso a controles prenatales y adultos mayores. Es importante resaltar que existen adultos mayores y niños con condiciones de inseguridad alimentaria por dificultades en el acceso y disponibilidad de alimentos y demás elementos de primera necesidad. Por esta razón es necesario establecer medidas diferenciales de atención que propendan por una asistencia integral a las poblaciones de especial protección. Además, las comunidades afrodescendientes manifestaron un debilitamiento en las formas organizativas propias debido a la emergencia actual.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las familias que se encuentran en situación de desplazamiento se dedican a la minería, y cultivos de de pancoger para el autoabastecimiento y comercialización de excedentes, sin embargo, desde la emergencia las familias no cuentan con fuentes de ingresos que garanticen la alimentación diaria, situación que los lleva a reducir el número de comidas y las porciones diarias. En el casco urbano la población desplazada y receptora evidencia dificultades en oportunidades laborales.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Hay algunas familias que aún permanecen en las comunidades y quienes por la situación de orden público y por escasez de recursos económicos no han podido salir de las mismas. Adicionalmente, el grupo armado realizó amenazas a todos los tenderos y/o comerciantes del rio, señalándolos de colaboradores, por lo cual saquearon todos los víveres y cortaron las parcelas de pancoger porque según el grupo eran para proveer al grupo contrario (ELN). Desde ahí el grupo tiene el control de lo que entra y sale del territorio.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Presentan dificultad de acceso a servicios básicos en temas de salud, no se han realizado brigadas de salud para reducir las afectaciones que vienen sufriendo las personas de las comunidades; en temas de educación, no se cuenta con acceso a las IE y fue suspendido el año escolar; se presenta dificultad de acceso servicios públicos domiciliarios ya que no tienen como cubrir el pago de estos. El servicio de agua se presta día de por medio, por lo cual, aún en la cabecera municipal, algunas familias acuden a la recolección de aguas lluvia para cubrir sus necesidades.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Las comunidades fueron afectadas por fenómenos naturales que llevaron a la pérdida total de sus cultivos.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/Riesgos_para_respuesta] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1d_Caracterizaci_n_Homicidios] => HOMICIDIOS_SELECTIVOS_LÍDERES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO ELN
+    [group_fm93i53/_1i_Descripci_n_VBG] => RESTRICCION_ACTIVIDADES_DOMESTICAS
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => El acceso a la zona urbana de Buenaventura se logra mediante transporte terrestre, sin que existan restricciones de movilidad en el contexto de la emergencia, el desplazamiento del equipo debe ser coordinado desde sus regionales y se puede llegar a Buenaventura por transporte terrestre o aéreo.
+    [group_fm93i53/seguridad] => Debido a la presencia de los GANE y las disputas entre estos por el control territorial, no hay garantías de retorno y aún no se conoce con exactitud la cantidad de familias que se encuentran confinadas. Las comunidades desplazadas se encuentran en el casco urbano y no presentan riesgos de seguridad que restrinja posible respuesta en el casco urbano.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 353
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 1132
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 7
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION_-VBG EDUCACION WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => El equipo móvil identificó que existen necesidades en materia de información y orientación para acceso a la ruta de atención a víctimas del conflicto, principalmente en las comunidades (Punta Bonita, Aragón, Chorro y Silva) estas no han sido atendidas.
+Entre las familias desplazadas hay temor de volver o retornar a sus comunidades debido a la señalización y amenazas que han recibido. Así mismo la comunidad exterioriza el desconocimiento de las rutas de protección y autoprotección individual y comunitaria.
+    [group_aa8xg30/group_ow1dy59/VBG] => El equipo móvil identificó que las niñas y las mujeres están siendo instrumentalizadas por parte de los GANE y están en riesgos alto de sufrir VBG. La institucionalidad no ha podido brindar asistencia ni acompañamiento a las mujeres debido a que hay desconfianza hacía la institución por parte de las mujeres, no se realizan denuncias sobre los riesgos asociados y las mujeres desconocen las rutas de protección y acceso a servicios. 
+Hallazgos
+A.	Algunas personas de la comunidad han recibido amenazas e intimidaciones por parte de los GANE, lo que restringido su participación en los espacios comunitarios.
+B.	No existen medidas de protección para mitigar el riesgo por las amenazas de las cuales han sido víctimas.
+C.	El personal docente a recibido amenazas e intimidaciones por parte de los GANE. Lo que ha derivado en el abandono de algunos docentes del territorio por temor a represalias. Además, los docentes desplazados no pueden terminar el año escolar y sienten temor de regresar a las comunidades.
+D.	Las mujeres y niñas están en riesgos de VBG por parte de los GANE.
+E.	Existe presencia de las Minas Antipersonal (MAP), municiones sin explosionar (MSE) y las Trampas Explosivas (TE) en las comunidades de la parte alta del río Cajambre.
+F.	La comunidad no conoce las rutas de acceso a derechos, de exigencia de garantías y de atención en inmediatez. Además, hay falta de información sobre asistencia humanitaria, acompañamiento por parte de los entes territoriales y derechos de las víctimas.
+G.	No existe activación de rutas de hecho individuales, por lo que Algunas personas que permanecen en las veredas no han podido declarar los hechos victimizantes.
+H.	Hay necesidad de fortalecimiento de los comités que integran la Junta de Acción Comunal, en especial el de derechos humanos.
+I.	Las personas sienten temor de declarar los hechos victimizantes declaraciones ante la UARIV y de acercarse a los entes territoriales para garantizar sus derechos.
+Recomendaciones
+A.	Realizar articulaciones con las entidades municipales con responsabilidades en protección, para la identificación de casos individuales y la activación de las rutas pertinentes. Además, generar canales de comunicación segura para la remisión e identificación de casos individuales con las personas de la comunidad.
+B.	Incentivar acciones de atención psicosocial a comunidad en general que permita la identificación de casos individuales.
+C.	Acompañamiento en los procesos de empoderamiento de capacidades de exigibilidad, mecanismos y activación de rutas para la protección y defensa de los derechos comunitarios e individuales.
+D.	Brindar acompañamiento, asesoría y apoyo durante el proceso de identificación de casos individuales que puedan ser identificados.
+E.	Orientar sobre las diferentes rutas de acceso para la protección de sus derechos y la atención adecuada que deben recibir, fortaleciendo sus capacidades para poder abordar temas sensibles en las comunidades, brindando un acercamiento confiable y seguro que permita el acompañamiento de cada una de las personas.
+F.	Brindar información sobre Minas Antipersona y Artefactos sin Explotar.
+G.	Fortalecimiento a líderes, lideresas, en derecho propio, nuevos liderazgos y herramientas jurídicas de acceso a derechos.
+H.	Capacitación en ley de víctimas y derechos que tienen de acuerdo con la ley 1448 y sus decretos reglamentarios.
+Indicadores Clave
+•	La situación se ha visibilizado con la institucionalidad, principalmente la del desplazamiento que ha sido declarado, situación contraria la del confinamiento, donde no se ha podido ingresar para conocer la emergencia de manera detallada. 
+•	Las comunidades afectadas por las emergencias no conocen la normatividad de la ley de víctimas. 
+•	Las familias tienen temor de declarar los hechos victimizantes.
+•	Las personas no saben a cuáles entidades acudir y qué acciones realizar para que les garanticen sus derechos y la no repetición. 
+•	Las mujeres de las comunidades son las más afectadas, siendo víctimas de VBG y desplazamiento forzado.
+    [group_aa8xg30/group_fv0ct51/Agua] => Se evidencia necesidad en formación en los aspectos relacionados en buenas prácticas de higiene personal, Método de desinfección de agua a través del método TANDAS y manejo de residuos sólidos en la vivienda.
+Hallazgos
+A.	En el lugar de acogida no hay acceso a agua potable, ni tampoco se realiza tratamiento al agua para el consumo.
+B.	El suministro de agua se realiza cada dos días durante dos horas en el día.
+C.	Las condiciones de hacinamiento no permiten realizar buenas prácticas de higiene al interior de los alojamientos.
+D.	Los accesos a elementos de higiene para NNAJ, mujeres y adultos mayores son limitados o nulos.
+E.	Para las mujeres existe una limitación para el acceso para elementos de higiene menstrual.
+F.	No existe una práctica de separación de basuras.
+G.	La alta presencia de vectores ha generado el aumento de casos de malaria y dengue.
+H.	Se identifican familias que se dedican al reciclaje como medio de subsistencia.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Indicadores clave
+El 95% de la población NO tiene acceso a agua segura, ya que no cuentan con los procesos de tratamiento adecuado.
+El 95% de la población que NO tiene acceso a lavamanos o duchas para realizar las prácticas de higiene.
+El 100 % comunidad manifiesta NO tener acceso a los elementos de primera necesidad en higiene.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Recomendaciones
+A.	Realizar actividad donde se fortalezcan las sensibilizaciones en agua segura, enfocándolas a los métodos de tratamiento de agua a nivel intradomiciliario y almacenamiento seguro.
+B.	Las formaciones en buenas prácticas de higiene también deberán enfocarse en el aseo, limpieza y desinfección, saneamiento y entorno de los espacios de cogida.
+C.	Hacer sensibilizaciones en énfasis en la clasificación y correcta disposición de los residuos sólidos. 
+D.	Se recomienda poder realizar formaciones en el adecuado uso de los elementos de higiene en el entorno familiar.
+E.	Realizar entregas diferenciales en los kits de higiene, principalmente que esté enfocado en las necesidades de salud menstrual de las mujeres.
+    [group_aa8xg30/group_jn0nm53/san] => Las familias desplazadas no pueden realizar sus actividades económicas (pesca y minería artesanal) y han tenido que implementar estrategias negativas de afrontamiento Con respecto a las comunidades confinadas no es posible determinar la situación actual de estas por la falta de acceso. 
+Hallazgos
+A.	Las familias no pueden realizar las actividades productivas de generación de ingresos como la pesca y la minería artesanal, tampoco pueden acceder a medios de vida como los cultivos de pancoger, situación que ha derivado en la adopción de estrategias negativas de afrontamiento como la reducción de la ingesta de alimentos, y pedir comida o dinero prestado a familiares y amigos.
+B.	En la comunidad de acogida hay oferta de comercio como tiendas, supermercados y almacenes de cadena, sin embargo, las familias manifestaron que no tienen dinero ni fuentes de ingreso para acceder a los alimentos.
+C.	Se han realizado transferencias monetarias por el valor de $228.700 para alimentos y aseo a las familias de las comunidades de Silva, Chorro, Aragón y Punta Bonita. 
+D.	Algunas familias de las comunidades son beneficiarias de Ingreso Solidario y Familias en Acción.
+E.	En el casco urbano de Buenaventura se encuentran diferentes establecimientos como Efecty, Gana, supermercados, tiendas y almacenes de cadena que permitirían también la entrega de ayuda en modalidad de Cash.
+Recomendaciones
+A.	Es indispensable realizar asistencias humanitarias con paquetes alimentarios y/o transferencias monetarias.
+B.	Fortalecer en las comunidades los temas de higiene en los alimentos y nutrición, así como fortalecer estrategias comunitarias en torno a la seguridad alimentaria. 
+Indicadores clave
+Disponibilidad y acceso físico, económico y social a alimentos sanos e inocuos en el marco de la emergencia.
+•	Las comunidades no haber recibido asistencia alimentaria por parte de ninguna entidad estatal ni organización humanitaria (manifiestan que las entregas que se vienen haciendo al parecer no son a las familias afectadas).
+•	Existe 100% de disponibilidad de alimentos (tiendas, supermercados y almacenes de cadena), sin embargo, el acceso no es posible por la falta de recursos de las familias.
+•	En promedio las personas desplazadas consumen 1 o 2 comidas en el día.
+Acceso a una dieta diversificada y alimentos de calidad que permita a los hogares satisfacer los requerimientos nutricionales en situación de emergencia.
+•	Las comunidades mencionaron que consumieron en promedio de 4 a 6 (33% y 50%) grupos de alimentos en las últimas 24 horas, entre los cuales se destacan: cereales, raíces y tubérculos, pescado, grasas y leguminosas, condimentos.
+•	El uso del gas (domiciliario y/o pipeta) es su fuente principal de energía para la preparación de los alimentos, sin embargo, esto genera un gasto adicional en las familias. La mayoría no tiene como asumir este costo.
+•	El estado de los alimentos en promedio es regular, en las viviendas de acogida no se tienen las condiciones de higiene ni los elementos adecuados para la preparación de estos. 
+Implementación de estrategias de afrontamiento reducido.
+•	Las familias han disminuido el tamaño de las porciones y el número de comidas que consumen al día.
+•	Una gran parte de las familias han tenido que pedir comida prestada o regalada a vecinos o familiares.
+•	Se mantiene un consumo en promedio de 1-2 comidas en los últimos 7 días, situación que se incrementa en el transcurso de los días, debido a la disminución de la diversidad de comidas.
+•	En general siempre compran alimentos menos preferidos o más económicos por la falta de ingresos económicos.
+Personas en riesgo de desnutrición.
+•	En las comunidades no se mencionaron casos de desnutrición, sin embargo, se reportaron casos de niños con bajo peso que requirieron asistencia médica.
+Aplicación de conocimientos sobre seguridad alimentaria en una emergencia.
+•	Los hombres y mujeres desplazadas requieren formación en hábitos alimentarios saludable, buenas prácticas de higiene y almacenamiento de alimentos. 
+•	Las mujeres del hogar son las encargadas de realizar la preparación de alimentos además de tener el rol del cuidado.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => A.	En el casco urbano de Buenaventura se cuenta con un hospital y algunos centros de salud.
+B.	Las comunidades tienen promotores de salud que cuando están en el territorio atienden las necesidades básicas de las familias, también cuentan con parteras, sin embargo, el acceso a los servicios médicos para las familias ha sido difícil.
+C.	Las familias desplazadas no han recibido asistencia médica.
+D.	Alta prevalencia de enfermedades como hipertensión, diabetes, presión alta y por ser una zona endémica también casos de paludismo y otras enfermedades transmitidas por vectores.
+E.	No hay acceso a controles prenatales para mujeres gestantes y solo algunas de las parteras prestan este servicio.
+F.	En salud mental se observa la necesidad de un acompañamiento psicosocial individual y colectivo, ya que se han presentados casos de depresión especialmente en mujeres, niños, niñas y adolescentes.
+G.	No hay proyección de ingreso de asistencia humanitaria en salud.
+H.	Se debe fortalecer la asistencia en salud sexual y reproductiva
+    [group_aa8xg30/group_ga2zh63/SaludMental] => A.	Realizar atenciones en salud física y psicosocial, principalmente en las familias que no han podido ser atendidas. Se recomienda que la atención en salud mental se enfatice en la consulta individual y/o grupal para el fortalecimiento de la cohesión social e identificación colectiva de factores de protección y afrontamiento.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Indicadores clave
+•	No hay capacidad de respuesta en salud física, salud mental y salud sexual y reproductiva.
+•	Las familias no tienen acceso a los servicios de salud, excepto si son emergencias graves. Aunque al interior de las comunidades hay promotores de salud y parteras, carecen de elementos para atender las emergencias básicas.
+•	Existen altas afectaciones en salud mental derivadas del conflicto.
+    [group_aa8xg30/group_tb5de96/EIE] => El personal docente de las instituciones rurales ha recibido amenazas e intimidaciones directas por parte de los GANE, por lo que tuvieron abandonar la zona y temen retornar y que existan repercusiones directas sobre estos. Esta situación ha generado que no se pueda culminar el calendario escolar, que se limite el acceso al servicio educativo. Se requiere construir planes educativos para el aprendizaje seguro y apoyo psicosocial.
+Hallazgos
+A.	Las constantes amenazas que han sufrido las docentes ocasionaron que no fuera posible culminar el calendario escolar.
+B.	Las docentes de las comunidades son quienes poner en conocimiento de los entes territoriales la situación que se está presentando en el territorio y manifiestan no querer regresar al territorio en caso de que la situación continúe de la misma manera.
+C.	Se cuenta con una Institución Educativa (IE) por comunidad para la atención de los NNAJ.
+D.	Existe necesidad de material educativo (pedagógico y deportivo) para NNAJ y las sedes educativas.
+E.	No existen actividades o iniciativas de utilización del tiempo libre para NNAJ, quienes se ven expuestos en mayor medida a riesgos de reclutamiento, vinculación y utilización, y VBG por parte de los GANE.
+Recomendaciones
+A.	Desarrollar una estrategia de recuperación de aprendizaje desde un enfoque étnico-educativo, actividades de protección con NNAJ, retorno seguro y estrategia para mejorar el acceso educativo a NNAJ desescolarizados.
+B.	Capacitar al personal docente y agentes educativos comunitarios en educación en emergencias, además construir e implementar planes educativos de respuesta en emergencia. 
+C.	Realizar entrega de kits escolares a NNAJ y personal docente.
+D.	Dotar a las instituciones educativas con material lúdico-pedagógico para desarrollar actividades escolares y promover la utilización del tiempo libre.
+E.	Fortalecimiento de capacidades a docentes para reducir las tasas de deserción escolar.
+Indicadores clave
+•	Se identificó un 45% de NNAJ desescolarizados de la matrícula formal, de acuerdo con el censo de las comunidades afectadas, con respecto a la matrícula de año anterior.
+•	Se reportó suspensión del sistema escolar por falta de garantías de protección para personal docente.
+•	Los NNAJ presentan riesgos como: afectación psicosocial, uso y vinculación a grupos ilegales, deserción escolar, incidentes por VBG. 
+•	Durante la emergencia se evidenció la necesidad de una estrategia de adaptación curricular y entrega de material educativo.
+•	Se identificó en la comunidad afectada y/o de acogida personal docente o agentes educativos comunitarios con quienes se pueda construir un plan de trabajo en el marco de la emergencia.
+    [group_aa8xg30/BrechasInformacion] => Sí, las personas se encuentran amenazadas por parte de actores armados y sienten temor de presentar sus declaraciones, falta de señal telefónica y de internet para conocer las ofertas de servicios y la falta de atención de las entidades encargadas.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 25
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 2
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por Confirmar
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => 0
+    [group_aa0qz67/group_zf1xv45/_1c_Tel_fono_2] => 0
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 0
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Por Confimar
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Por Confimar
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => 0
+    [group_aa0qz67/group_by3wp07/_2c_Tel_fono_2] => 0
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 0
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Por Confimar
+    [group_sp7cc00/Observaciones_adicionales] => ERN cargada por la UGC.
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:f45de955-7d9b-4a05-b55d-467e1862ea71
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => f45de955-7d9b-4a05-b55d-467e1862ea71
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-25T22:19:15
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

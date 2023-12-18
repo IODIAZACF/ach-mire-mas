@@ -1,0 +1,87 @@
+stdClass Object
+(
+    [_id] => 354566934
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-10-27T09:28:43.357-05:00
+    [end] => 2022-10-27T09:48:11.727-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => OLAYA HERRERA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Laguna del Turbio
+    [group_gu1lq88/Nombre_de_la_comunidad] => Consejos comunitarios del Río Satinga
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2022-10-27
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Desaparición Forzada
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Familias: 337
+Personas: 1348
+Desde el 8 de octubre, se desplazaron forzosamente al menos 1.348 personas de comunidades étnicas de 9 consejos comunitarios del Río Satinga y 2 comunidades indígenas por enfrentamientos entre GANE.
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/19102022_actualizacion_desplazamientos_masivos_en_olaya_herrera_narino_vf.pdf
+    [group_yv1ph08/time2] => 2022-10-08
+    [group_yv1ph08/time3] => 19
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 337
+    [group_cn9za51/personas] => 1348
+    [group_cn9za51/comu] => 9
+    [group_cn9za51/Grupo_tnico] => indigena afro
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Hay un desborde de capacidades presupuestales y de personal por parte de los entes territoriales y las organizaciones humanitarias. en este sentido, la respuesta de inmediatez se ha visto limitada por las atenciones que se vienen realizando.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => el ELC Nariño continúa monitoreando la situación humanitaria en el municipio con el fin de evaluar la posibilidad de brindar respuesta.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3--https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/19102022_actualizacion_desplazamientos_masivos_en_olaya_herrera_narino_vf.pdf+ERN*FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:bfbb4a91-6ff7-4d4e-9a20-02245a92f3aa
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => bfbb4a91-6ff7-4d4e-9a20-02245a92f3aa
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-10-27T14:48:22
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

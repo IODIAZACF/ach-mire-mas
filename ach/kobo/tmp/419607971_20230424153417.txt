@@ -1,0 +1,84 @@
+stdClass Object
+(
+    [_id] => 419607971
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-04-24T15:01:06.063-05:00
+    [end] => 2023-04-24T15:34:10.255-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => BAJO BAUDO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin Información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Orpua, Hijuá y Docampadó
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-04-24
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM MINAS PRESENCIA_GAI RECLUTAMIENTO VBG OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => continuidad del Confinamiento
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el segundo semestre del 2022 al menos 6 439 personas 1 455 familias, 1 542 mujeres, 3 320 niñas, niños y adolescentes) de 22 comunidades indígenas y afrodescendientes ubicadas en los Río Orpua, Hijuá y Docampadó se encuentran en continuo confinamiento por la presencia constante de dos Grupos Armados No Estatales ( en la zona Esta emergencia en particular, se presentó ante el continuo control de los GANE en los territorios, amenazas individuales/colectivas, instalación de Minas Antipersonal ( y casos de reclutamiento, uso y utilización de niños, niñas y adolescentes Como consecuencia, la población ha afrontado limitaciones para realizar actividades de pesca, caza, recolección de alimentos en cultivos de pan coger, recolección de agua y el desarrollo de actividades culturales y económicas También, en varios momentos (entre el 2022 e inicios del 2023 se han suspendido las jornadas escolares de niños, niñas y adolescentes como medida de protección, ante la incursión de un GANE en las aulas con propósitos de vinculación Preocupa la ocurrencia de desplazamientos individuales que podrían generar la desaparición y desarraigo del territorio de las familias
+    [group_yv1ph08/time2] => 2022-10-12
+    [group_yv1ph08/time3] => 194
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 1455
+    [group_cn9za51/personas] => 6439
+    [group_cn9za51/comu] => 22
+    [group_cn9za51/Grupo_tnico] => indigena afro
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => A finales de febrero del 2023 a través del Fondo Central para la Acción en Casos de Emergencia ( ACNUR realizó una misión conjunta con el Ministerio Público y Secretaría de Educación municipal en donde entregó kits de educación en al menos 8 comunidades indígenas
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => COORDINACIÓN El ELC Chocó continúa haciendo seguimiento a la situación humanitaria del municipio Se ha realizado la activación de respuesta y coordinación con los socios a través de los Standard Operating Procedures ( además se ha facilitado la remisión de solicitudes de ayuda en complementariedad hacia los socios del ELC
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+pendiente enlace+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:fa1ab20f-883c-4051-a48a-34576ce257f1
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => fa1ab20f-883c-4051-a48a-34576ce257f1
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-24T20:34:16
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

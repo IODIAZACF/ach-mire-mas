@@ -1,0 +1,179 @@
+stdClass Object
+(
+    [_id] => 419998257
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-04-25T18:01:49.534-05:00
+    [end] => 2023-04-25T18:24:58.219-05:00
+    [group_pl6la06/_1_C_digo] => BOSA-648.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2022-12-02
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2022-12-07
+    [group_pl6la06/_4_Departamento] => BOLIVAR
+    [group_pl6la06/BOLIVAR] => EL GUAMO
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Tesajera, Robles y Nerviti en el Guamo) y San Cayetano, El Piñal, Santa Teresa, San Antonio, Los Caimanes, Santa Lucia y Villa Elvira en Regidor
+    [group_pl6la06/_8_Comunidad] => Robles, Tasajera
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESASTRES_COVID-19
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN OCHA
+    [group_mb5pt53/_1a_Evaluador] => Raul Camilo villate
+    [group_mb5pt53/_1b_Celular] => +57 310 2166465
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Ignacio Lombo Vanegas
+    [group_mb5pt53/_2b_Celular] => +57 320 9409580
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2022-12-12
+    [group_rq63s60/_1c_Descripci_n_del_evento] => El departamento de Bolívar se encuentra afectado por la ola invernal, no obstante, los municipios con mayores afectaciones y necesidades estructurales son El Guamo y Regidor. En estos espacios geográficos se han presentado inundaciones y vendavales que han generado la afectación de más de 900 hectáreas de tierra y más de 2.000 personas damnificadas. 
+Los sitios más afectados son: los corregimientos de Tesajera, Robles y Nerviti en el Guamo) y San Cayetano, El Piñal, Santa Teresa, San Antonio, Los Caimanes, Santa Lucia y Villa Elvira en Regidor. Algunas de las afectaciones que presentan son las vías de transporte afectadas, una de las principales afectaciones se presenta en la vereda Santa Lucia, donde, la caída de un puente imposibilita la movilización hacia la cabecera municipal, otras veredas también tienen obstruido su paso para la cabecera municipal. Además, hay afectación de los cultivos de las comunidades, tanto de pancoger como las que hacen parte de su recurso económico. Esto ha ocasionado que sus principales actividades económicas como la agricultura, la ganadería, la avícola y lo porcino tengan pérdidas significativas, así como la perdida de animales debido a la ola invernal.
+    [group_rq63s60/group_lm6cx76/a_Social] => El Equipo Móvil (EM) identificó que en ambos municipios las dinámicas sociales de las comunidades han sido afectadas, debido a las inundaciones y la ausencia de espacios comunitarios de encuentro de las familias. Sin embargo, en las comunidades existen iniciativas comunitarias, como es el caso de la Mesa de víctimas de la comunidad de Robles (El Guamo), la cual ha contado con un fortalecimiento de capacidades por parte de proyectos de desarrollo. No obstante, esta situación no sucede en todas las comunidades.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => En la población afectada existe un gran número de; Niñas, Niños, Adolescentes Y Jóvenes (NNAJ); Mujeres gestantes, lactantes sin controles prenatales; adultos mayores. Es importante resaltar que existe un Consejo comunitario en El Guamo, la mayor parte de la población es afrodescendiente.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las familias de El Guamo que se encuentran en situación de emergencia se dedican a la agricultura, la pesca y pequeños ganaderos. En el caso de las comunidades de REGIDOR, sus actividades diarias son la agricultura y la pesca. En todas las comunidades los medios de vida y cultivos de pancoger se ven afectados de manera directa por la emergencia invernal, adicionalmente la falta de vías de acceso incrementa los costos de alimentación y de adquisición de las canastas familiares, finalmente, la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), ha realizado acciones para planificar una respuesta, estas aún no son suficientes para poder realizar una atención integral a las comunidades.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El Guamo:
+Está  situado en el departamento de Bolívar. Se encuentra ubicado dentro del sistema orográfico de los Montes de María y el Bajo Magdalena. Limita al norte con el municipio de Calamar, al oriente con los municipios del departamento de Magdalena de Pedraza, Tenerife y Zapayan, al occidente y sur con el municipio San Juan Nepomuceno.
+Regidor:
+Está situado en el departamento de Bolívar, en el norte del país, a aproximadamente 420 km de la capital departamental, Cartagena de Indias. Ubicado en la margen izquierda del río Magdalena y parte de su territorio cruza el Brazo de Papayal.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => En el marco de la emergencia se han restringido servicios básicos (salud y educación) debido a la suspensión de actividades. Además, los servicios públicos como la energía eléctrica, que se ha visto suspendida la mayor parte del día, impidiendo el desarrollo de actividades cotidianas. 
+Adicionalmente, las comunidades no cuentan con servicios de alcantarillado público y existe inundación de la infraestructura de los espacios públicos.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Actualmente el territorio donde habitan las mujeres y hombres de las comunidades se encuentra inundado, esta situación ha provocado que se multipliquen las enfermedades transmitidas por vectores, adicionalmente, los cultivos en su mayoría se encuentran inundados y con posibilidad de aumentar el riesgo de desbordamiento del río, debido a otra posible ruptura de los jarillones en los municipios vecinos.  
+Las comunidades manifiestan vivir la situación de ola invernal desde hace 2 años, está fue antecedida por un tiempo de sequía que damnificó los cultivos de las comunidades
+    [group_fm93i53/_1_Problem_tica_Principal] => DESASTRES_NATURALES
+    [group_fm93i53/Riesgos_para_respuesta] => DESASTRES_NATURALES PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => El Guamo:
+El ingreso es por vía aérea inicialmente desde Bogotá hacia Cartagena y de ahí es terrestre desde Cartagena hacia San Juan de Nepomuceno. De ahí, el ingreso terrestre hacia Calamar y de ahí hacia los corregimientos de Nerviti, Tasajera y Robles es por vía fluvial. 
+Regidor:
+Ingreso por vía terrestre desde San Juan de Nepomuceno hasta Aguachica-Cesar y de ahí hacia La Gloria donde se hace paso por el Ferry y se llega a Regidor.
+Para llegar a los corregimientos San Antonio y Santa Teresa es por vía terrestre; para El Piñal, Santa Lucia y San Cayetano en por vía fluvial. No se logró ingresar a Caimanes ni a Villa Elvira. El retorno fue terrestre por Aguachica hasta Bucaramanga y de ahí se hace traslado aéreo hasta Bogotá.
+    [group_fm93i53/seguridad] => El Guamo:
+En la actualidad estas comunidades no han sido afectadas por grupos armados, pero se han presentado casos de extorsión por parte de delincuencia común que se presentan como miembros de  AGC.
+Regidor:
+En la actualidad estas comunidades no han sido afectadas por grupos armados. La institucionalidad y comunidad menciona presencia de AGC y casos de reclutamiento desde municipios aledaños en el Cesar.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 1912
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 5068
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 20
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION-PR EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => En los municipios de El Guamo y Regidor, se evidencia que en un 90% de la población afectada por la emergencia por ola invernal es también víctima de conflicto armado por hechos masivos como desplazamientos e individuales. Las personas reconocidas en el RUV manifiestan vacíos de información acerca de la ruta en los procesos de indemnización.
+Las comunidades han sido afectadas por diferentes hechos victimizantes que no han sido reconocidos por parte de las entidades competentes.
+No existen claridad sobre los riesgos de protección arraigados al conflicto armado.
+•	La comunidad de los robles, actualmente se encuentra en la ruta del proceso de reparación colectiva por desplazamiento en el año 1997.
+•	Se evidencia la necesidad de habilitar espacios individuales para casos de orientación o asistencia legal.
+•	En los censos de población afectada, se evidencia la existencia de familias con necesidades de protección internacional provenientes de Venezuela.
+•	En el caso del municipio de regidor actualmente no hay Enlace de Víctimas en el municipio y el personero municipal manifiesta falta de capacidad.
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => En los municipios de El Guamo y Regidor, se evidencian casos de violencia física, económica y psicológica hacia las mujeres; y frente a esto las comunidades mencionan un desconocimiento de las rutas institucionales para poder denunciarlo y acciones de prevención. En el marco de la emergencia se aumentó estrés y violencia intrafamiliar en las familias afectadas por la ola invernal, además, existe limitación para el acceso a elementos básicos de higiene menstrual. 
+Específicamente en las comunidades del municipio de Regidor, existe un riesgo identificado por las comunidades, de reclutamiento de NNA por parte de GANE que hacen presencia en los municipios aledaños en el departamento de Cesar, pero no se ha reportado casos recientes.
+    [group_aa8xg30/group_lg2ro37/Shelter] => El Guamo:
+El municipio de El Guamo se encuentra en el sistema orográfico de los Montes de María y el Bajo Magdalena. La zona correspondiente al Bajo Magdalena es una llanura de inundación, formando ciénagas periódicas y permanentes.
+Por sus características geográficas, los habitantes de las comunidades del borde de río Magdalena han construido diques que evitan el ingreso de agua a sus poblaciones, sin embargo, debido a la prolongación de la época invernal los diques existentes comenzaron a presentar grietas permitiendo la filtración de agua del río, generando inundaciones en las comunidades de Nervití, Tasajera y Robles. Estas tres comunidades se encuentran ubicadas en la ribera del río Magdalena, por lo cual son mayormente afectadas por las inundaciones generando impedimentos en sus vías de acceso y generando aislamiento de la cabecera municipal.
+La comunidad más afectada es Nervití la cual se encuentra bloqueada totalmente su acceso por la inundación. Siendo rodeado por el río Magdalena y la ciénaga de La Candelaria. La inundación a afectado algunas calles e infraestructuras de la comunidad, generando colapsos de viviendas. Como medida de emergencia las personas afectadas se han trasladado a casa de amigos y familiares. Se resalta la comunidad de Nervití se encuentra en un riesgo inminente de inundación súbita debido al deterioro de los jarillones (Muros de contención artesanales).
+Las comunidades de Tasajera y Robles, presentan en algunas viviendas daños estructurales debido a inundaciones temporales. Donde se resalta, la fuerte unión e integración comunitaria entre vecinos y redes de apoyo, a través de préstamos de elementos de hábitat, como colchonetas, cobijas, sabanas para poder sobrellevar la situación.
+Regidor:
+El municipio de Regidor se encuentra en la vertiente oriental de la serranía de San Lucas. Gran parte de su superficie pertenece a las llanuras de inundación periódicas del Magdalena y en menor proporción, la fase terminal de piedemonte montañoso.
+Las características del relieve de Regidor facilitan las inundaciones estacionales, es por ello por lo que las comunidades han desarrollado la instalación de estructuras de (diques) terraplén natural o jarillones como protección contra las inundaciones, pero debido a la prolongada estación de lluvias durante el año, los diques presentaron agrietamientos y permitieron el ingreso del rio Magdalena a las llanuras.
+Las inundaciones afectaron varias veredas y corregimientos del municipio en términos de infraestructura de viviendas y comunitarias. Las comunidades de Villa Elvira, Los Caimanes, El Piña, Santa Lucia y San Cayetano, se encuentran bloqueadas por la inundación de sus vías de acceso. La mayoría de los edificios de estas comunidades sufrieron daños estructurales notorios como agrietamiento y desplomes.
+En las comunidades de El Piñal, Santa Lucia, San Cayetano y Los Caimanes se evidencio principalmente la afectación de viviendas por las inundaciones, donde se observa estructuras que han colapsado y otras totalmente sumergidas por el nivel del agua. La falta de un refugio o alojamiento temporal colectivo para la atención de estas familias en situación de emergencia, derivo a que la población afectada se vio forzada a buscar refugio temporal de manera individual a través de sus redes de apoyo como vecinos, familiares y amigos. Esta situación ha incrementado los índices de hacinamiento, sumado al déficit de viviendas por emergencias en años anteriores, por ejemplo: se identifica hogares donde habitan en promedio tres a cuatro núcleos familiares. Esto provocando que la cantidad de elementos de hábitat disponibles por familia sea deficiente.
+Aproximadamente 700 núcleos familiares en las comunidades de El Piñal, Santa Lucia, San Cayetano y Los Caimanes tienen necesidades de artículos esenciales para el hogar como colchonetas, toldillos y cobijas. Insumos que restaurarían y mejorarían su seguridad física, reduciendo su exposición a riesgos y protegiendo sus derechos con respeto a su dignidad. En las comunidades de El Piñal, Santa Lucia, San Cayetano y Los Caimanes se evidencio principalmente la afectación de viviendas por las inundaciones, donde se observa estructuras que han colapsado y otras totalmente sumergidas por el nivel del agua. La falta de un refugio o alojamiento temporal colectivo para la atención de estas familias en situación de emergencia, derivo a que la población afectada se vio forzada a buscar refugio temporal de manera individual a través de sus redes de apoyo como vecinos, familiares y amigos.
+Esta situación ha incrementado los índices de hacinamiento, sumado al déficit de viviendas por emergencias en años anteriores, por ejemplo: se identifica hogares donde habitan en promedio tres a cuatro núcleos familiares. Esto provocando que la cantidad de elementos de hábitat disponibles por familia sea deficiente.
+Aproximadamente 700 núcleos familiares en las comunidades de El Piñal, Santa Lucia, San Cayetano y Los Caimanes tienen necesidades de artículos esenciales para el hogar como colchonetas, toldillos y cobijas. Insumos que restaurarían y mejorarían su seguridad física, reduciendo su exposición a riesgos y protegiendo sus derechos con respeto a su dignidad.
+    [group_aa8xg30/group_fv0ct51/Agua] => El Guamo:
+Debido a la presencia y aumento de agua estancada, en las comunidades del Guamo como lo son Nervití, Tasajera y Robles han presentado un aumento alarmante de vectores principalmente zancudos o mosquitos. La falta de elementos de protección como los toldillos ha aumentado la exposición y riesgos a enfermedades como dengue o malaria. En las comunidades de Nervití, Tasajera y Robles, se evidencia un aumento de gripas, fiebres, dolor de cabeza, vomito y diarrea, todas estas asociadas al agua no apta para consumo y a la exposición a vectores debido a las condiciones que se encuentran.
+El agua es captada directamente del río, siendo su fuente más cercana. No cuentan con sistemas de potabilización, ni realizan ningún tratamiento previo al agua de consumo. Debido a la inundación y vías de acceso bloqueadas, se ha dificultado el acceso a mercado para adquirir insumos de tratamiento como lo es el cloro y realizar una adecuada desinfección. El consumo de agua no tratada o potabilizada ha facilitado el desarrollo de enfermedades gastrointestinales, sobre todo en niños, niñas y adultos mayores.
+El aumento del nivel de agua, provoco que los sistemas sanitarios quedaron inutilizados, forzando a las personas a realizar sus prácticas de defecación a campo abierto en las inmediaciones de las comunidades. Sumado a la alta presencia de animales de crianza como perros, cerdos, pollos sin algún tipo de control debido a la reducción de espacio físico seco producto de las inundaciones, esto generando un riesgo alto de transmisión de enfermedades por el inadecuado control de animales.
+Los residuos producidos por las comunidades no cuentan con un adecuado manejo, estos son desechados directamente al río y/o incinerados. No cuentan con sistema de clasificación ni recuperación de materiales. Los desechos orgánicos generalmente se emplean para alimentar a los cerdos.
+Debido a la inundación y vías de acceso bloqueadas con otros municipios y a los altos costos asociados al transporte de importación de insumos de otras zonas, los productos de higiene personal y aseo se han vuelto inasequibles.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Regidor:
+En las comunidades de Regidor como El Piñal, Santa Lucia, San Cayetano y Los Caimanes se observó un aumento de los niveles de agua en ciénagas y zonas pantanosas. Las aguas estancadas han facilitado la proliferación de vectores infecciosos como zancudos y mosquitos. La falta de elementos de protección como los toldillos ha aumentado la exposición y riesgos a enfermedades como dengue o malaria.
+El agua para consumo es captada de quebradas superficiales, pero debido al aumento de ciénagas y contaminación cruzada, el agua ha disminuido su calidad generando la aparición de síntomas y enfermedades gastrointestinales. Igualmente se evidencia un incremento de enfermedades cutáneas por contacto directo a las fuentes de agua.
+Debido a la inundación y vías de acceso bloqueadas con otros municipios y a los altos costos asociados al transporte de importación de insumos de otras zonas, los productos de higiene personal y aseo se han vuelto inasequibles. 
+Algunas personas manifiestan un aumento de síntomas asociados a gripas, fiebres, dolores de cabeza y vómito. Las enfermedades se transmiten con mayor facilidad, debido al hacinamiento que presentan afectado directamente la salud pública de la población
+    [group_aa8xg30/group_fv0ct51/Higiene] => El Guamo: El agua es captada directamente del río, siendo su fuente más cercana. No cuentan con sistemas de potabilización, ni realizan ningún tratamiento previo al agua de consumo. Debido a la inundación y vías de acceso bloqueadas, se ha dificultado el acceso a mercado para adquirir insumos de tratamiento como lo es el cloro y realizar una adecuada desinfección. El consumo de agua no tratada o potabilizada ha facilitado el desarrollo de enfermedades gastrointestinales, sobre todo en niños, niñas y adultos mayores.
+El aumento del nivel de agua, provoco que los sistemas sanitarios quedaron inutilizados, forzando a las personas a realizar sus prácticas de defecación a campo abierto en las inmediaciones de las comunidades. Sumado a la alta presencia de animales de crianza como perros, cerdos, pollos sin algún tipo de control debido a la reducción de espacio físico seco producto de las inundaciones, esto generando un riesgo alto de transmisión de enfermedades por el inadecuado control de animales.
+Los residuos producidos por las comunidades no cuentan con un adecuado manejo, estos son desechados directamente al río y/o incinerados. No cuentan con sistema de clasificación ni recuperación de materiales. Los desechos orgánicos generalmente se emplean para alimentar a los cerdos.
+Debido a la inundación y vías de acceso bloqueadas con otros municipios y a los altos costos asociados al transporte de importación de insumos de otras zonas, los productos de higiene personal y aseo se han vuelto inasequibles.
+    [group_aa8xg30/group_jn0nm53/san] => Los municipios de El Guamo y Regidor del departamento de Bolívar se han visto afectados de manera directa por las olas invernales desde hace más de 10 años, alterando así sus medios de vida como comercialización de productos agropecuarios, trabajos formales e informales (afectadas vías de acceso), pesca tradicional y cultivos de pancoger, lo cual ha generado que las familias se vean en necesidades de emplear estrategias de afrontamiento por las condiciones de acceso y disponibilidad de los alimentos. Para la preparación de los alimentos en promedio las comunidades de los dos municipios utilizan la leña como fuente de energía; no disponen de sistemas de recolección de residuos por lo cual los arrojan a las afluentes o las queman y el número de comidas consumidas al día por las dificultades de acceso y disponibilidad es de 2 comidas al día. 
+El Guamo:
+Dentro de las necesidades del municipio de el Guamo se destacan la distancia de los corregimientos de Nervití, Tasajera y Robles con la cabecera municipal por la afectación de las vías de acceso terrestre interrumpiendo el contacto directo entre la institucionalidad y las comunidades afectadas, según la institucionalidad la afectación de puentes y vías se ha visto desde la ola invernal del 2019 y como proyecto de ejecución se asignaron recursos para la reconstrucción en el trascurso de este año pero las condiciones climáticas interrumpieron los trabajos civiles; por tal razón las comunidades mencionan que para poder crear una red de abastecimiento de alimentos y artículos de canasta familiar utilizan vías fluviales por afluentes del rio Magdalena y ciénagas con municipios cercanos (La Plata, Tenerife y Calamar) el aumento de costos en los servicios de transporte aumentan los productos de la canasta familiar por lo cual la diversidad dietaría de las familias de los tres corregimientos visitados ha disminuido entre 3 a 4 tipos de alimentos basando su dieta en (Pescado, Raíces-tubérculos y cereales).
+Las familias de Nervití y Tasajera recibieron en su totalidad entrega de alimentos por PMA durante tres meses, finalizando en el mes de octubre y alrededor de 70 familias del corregimiento de Robles pudieron acceder a esta entrega por priorización y capacidad del proyecto. La Alcaldía brindó paquetes alimentarios en las primeras etapas de la emergencia. Las familias de la zona baja de los corregimientos se vieron en la necesidad de alquilar pastizales en las zonas de los montes de María o en municipios cercanos, puesto que tienen vocación ganadera en estas zonas y al momento de las inundaciones el ganado bovino no podía sobrevivir en esas condiciones. Adicional menciona la comunidad de Robles que han sido víctimas de robos de ganado en las partes altas, al parecer por estructuras locales que venden la carne puesto que el ICA dispuso la RESOLUCIÓN No. 093206 (23/03/2021) donde disponen normativas en municipios como El Guamo, que según la comunidad van en contra del control de beneficio y comercialización de ganado. Adicional las familias mencionan que los créditos agropecuarios que brinda el Banco Agrario fueron perdidos por la emergencia climática y que no cuentan con los recursos para cancelarlos y que los funcionarios que se encuentran en la cabecera municipal no brindan orientaciones que beneficien a los pequeños y medianos productores de la región.
+Dentro de los proyectos de los municipios PDET existen dos estrategias que han involucrado a las comunidades con medios de vida y fortalecimiento de capacidades con familias priorizadas en técnicas de costura, preparación de alimentos, emprendimiento y proyectos productivos piscícolas, porcícolas y de cultivos de pancoger los cuales durante la emergencia se han pausado y afectados por las inundaciones por tal razón es importante en la medida de lo posible continuar con estos proyectos que pueden generar una recuperación temprana en las familias damnificadas y un proceso de resiliencia más rápido.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => En ambos municipios:
+Dentro de los principales síntomas/enfermedades identificadas fueron: Enfermedades respiratorias, fiebre, brotes, diarrea y dolor articular. Además, en relación con las enfermedades endémicas se podría considerar un posible subregistro ya que hay síntomas relacionados con dengue y malaria (fiebre y dolor articular) pero las personas lo están manejando en el corregimiento y no se están realizando pruebas confirmatorias.
+En relación con picaduras de serpiente indican incremento de la presencia de las Mapaná pero solo se ha presentado un caso que tuvo manejo en UCI (Tasajera) y un caso de remisión hacia Cartagena (Robles). No se han presentado fallecimientos.
+Respecto a muertes asociadas a la emergencia solo se identificó 1 caso de una persona de 48 años por ahogamiento.
+Los corregimientos más afectados por la inundación son San Cayetano, El Piñal y Santa Lucia, donde se identifican necesidades de salud, sin embargo, el ingreso del equipo no es seguro y no se cuenta con espacios para pernoctar o para generar atención en salud.
+Respecto a salud mental se han identificado sobre todo abandono, impotencia, Insomnio, soledad, tristeza, depresión y duelo, asociado a situaciones de deudas bancarias y desempleo.
+Se identifica VBG sobre todo física y psicológica y se niegan suicidios o feminicidios recientes.
+Los corregimientos de El Guamo presentan consumo de PSA. Es importante indicar que en El Guamo se evidencia varias acciones de parte del Hospital local para atención en salud como un médico que va por semana a atenderlos y la presencia de un auxiliar de enfermería 24/7 en Nerviti y Robles.
+En el caso de Regidor, se han realizado brigadas de salud, excepto en Villa Elvira, y en el caso de San Cayetano, siendo la comunidad mas afectada le han brindado una auxiliar de enfermeria que estuvo todo el tiempo en el corregimiento desde finales de octubre hasta el 6 de diciembre. Se considera una necesidad de salud mental en ambos municipios y necesidad de salud fisica en Regidor especificamente en San Cayetano, El Piñal y Santa Lucia, pero debido al estado actual de las vias por el desastre natural no es seguro el ingreso del equipo ni de la carga y no se cuenta con espacios seguros para pernoctar y para atencion en salud fisica y mental.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => El Guamo:
+En salud física se evidencia en general un cubrimiento de necesidades en salud y no se evidencian brotes actuales. La principal dificultad es el acceso a medicamentos y en caso de urgencias la llegada al hospital de primer nivel (30 minutos a 1 hora en vía fluvial y 1 hora y media en vía terrestre- inhabilitada – Tenerife, Plato Magdalena, Calamar, Barranquilla - psiquiatría).
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Regidor:
+En salud física se evidencia en general un cubrimiento de necesidades en salud y no se evidencian brotes actuales. Para el acceso de medicamentos, cuando recibieron la atención medica en el corregimiento, el hospital recogía todas las fórmulas y las llevaba a las farmacias y de hay les llevaban los medicamentos al corregimiento de nuevo. La principal dificultad es el acceso a urgencias a un hospital de primer nivel (30 minutos a 1 hora en vía fluvial y 1 hora y media en vía terrestre- inhabilitada – Regidor, Tamalameque (Nueva EPS).
+    [group_aa8xg30/group_tb5de96/EIE] => El Guamo:
+•	Se vieron afectadas 3 sedes educativas y una sede principal, para un total de 694 NNA escolarizados, todas pertenecientes a la IE Técnica Agropecuaria Manuel Padilla Polo.
+•	El calendario escolar se suspendió durante 4 semanas (noviembre).
+•	La IE ha dado por finalizado el año electivo y no se realizaron actividades de recuperación y cierre académico.
+•	Existe necesidades en material escolar por parte de las sedes educativas y de kits escolares. La pérdida del material es producto de las inundaciones.
+•	De las tres comunidades, solo en Nervití se han presentado casos de deserción escolar, principalmente por la baja calidad académica y por la decisión de sus padres de enviarlos a otros lugares para continuar sus estudios.
+•	No existen iniciativas de utilización del tiempo libre por parte de NNA y Jóvenes.
+Regidor:
+•	Se vio afectada la IE Héctor Manuel Vides Ballesteros, sede principal afectada y sus sedes escolares en cada una de las comunidades.
+•	El calendario escolar se vio suspendidas las actividades presenciales por 4 semanas. Los docentes entregaron guías a estudiantes para el desarrollo en casa.
+•	Existe deserción escolar, principalmente de estudiantes de bachillerato quienes no han podido salir de sus comunidades como consecuencia de la afectación de las vía terrestre.
+•	Existe necesidades de material educativo y kits escolares. La pérdida del material es producto de las inundaciones.
+•	Existe riesgo de reclutamiento en las comunidades por pare de GANE que hacen presencia en los municipios aledaños en el departamento de Cesar.
+•	En la comunidad de Los Caimanes, la infraestructura escolar está totalmente afectada y es necesaria la construcción de un aula temporal para el desarrollo de actividades escolares.
+•	Las sedes escolares no cuentan con restaurantes escolares y todas las comunidades existe afectación en la infraestructura escolar.
+    [group_aa8xg30/BrechasInformacion] => Sin Información
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 0
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por Definir
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Por Definir
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Por Definir
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => Por Definir
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:c7f826c3-0754-43b8-a429-05bf0c33a5be
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => c7f826c3-0754-43b8-a429-05bf0c33a5be
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-25T23:25:12
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

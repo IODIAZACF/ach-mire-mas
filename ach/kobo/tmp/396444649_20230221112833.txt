@@ -1,0 +1,60 @@
+stdClass Object
+(
+    [_id] => 396444649
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-02-21T11:19:38.503-05:00
+    [end] => 2023-02-21T11:28:22.092-05:00
+    [group_gener/departamento] => choco
+    [group_gener/municipio] => 27491_novita
+    [group_gener/Point] => 8.443401 -73.398385 0 0
+    [group_gener/Vereda_Corregimiento] => Sin Información
+    [group_gener/Comunidad] => El Tambito + Salcita
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => CHNO-188.1
+    [group_gener/Fecha_del_Evento_001] => 2022-01-14
+    [group_gener/Hora_del_Evento] => 09:44:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => Se advierte desde la comunidad que un GAI estaría restrigiendo la movilidad en la comunidad El Tambito y los líderes no podrían asistir a la reunión con MIRE en Salcita
+    [group_gu1lq88/CATEGOR_A] => acceso restricci_n_a_la_movilidad Otras
+    [group_gu1lq88/Escriba_la_Otra] => Paro de transportadores (Lancheros) en Nóvita
+    [group_gu1lq88/ONG_IMPLICADAS] => ach nrc
+    [group_gu1lq88/Autor] => Paola Garcés
+    [group_gu1lq88/Consecuencias] => suspensi_n_temporal_de_la_misi_n
+    [group_gu1lq88/Fecha_de_Inicio_de_Suspensi_n] => 2022-01-15
+    [group_gu1lq88/Fecha_de_Reactivaci_n] => 2022-01-17
+    [group_gu1lq88/MEDIDAS_TOMADAS] => Se valida que se están desarrollando con normalidad las atenciones en el tambito por parte del ERR, sin embargo se revisa que el equipo se debe desplazar a Alto de Tamaná y los lancheros no quieren transportarlos. La restricción a la movilidad se confirma.
+    [group_gu1lq88/Seguimiento] => 15/01/2022. Paro de transportadores en Nóvita, los lancheros hacen un cese de actividades en rechazo al excesivo pago de vacunas que deben realizar ante el GAI de la zona.
+    [group_gu1lq88_001/Caracter] => GAO
+    [group_gu1lq88_001/GAO] => Clan del Golfo- AGC
+    [group_gu1lq88_001/Clan_del_Golfo_AGC] => bloque_caribe_norte
+    [group_gu1lq88_001/Existe_otro_grupo_armado_impli] => no
+    [__version__] => v4GupGhVJoTDzM7JvCnrRb
+    [meta/instanceID] => uuid:d05897e4-413f-4ada-9e7e-e7f509685441
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => d05897e4-413f-4ada-9e7e-e7f509685441
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 8.443401
+            [1] => -73.398385
+        )
+
+    [_submission_time] => 2023-02-21T16:28:32
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

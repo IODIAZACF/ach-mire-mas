@@ -1,0 +1,42 @@
+<script language="javascript">
+URL = "{RAIZ}/logout.php";
+var tiempo_ini = {time_out};
+var tiempo=tiempo_ini;
+	function close_session(){
+		if(confirm("Por favor cierre todos las ventanas y programas abiertos antes de continuar\nConfirme que desea continuar")){
+			top.location.replace(URL);
+		}
+	}
+	function cargar(){
+		url = self.location;
+		if(top.location == self.location){
+		}
+	}
+	cargar();
+	function cuentaAtras() {
+		if (tiempo <= 0) {
+			alert("Se ha detectado que ha sobre pasado el limite de tiempo de inactividad en el sistema.\npor razones de seguridad el sistema requiere que se autentifique nuevamente");
+			top.location.replace(URL);
+			return
+		}
+		var mensaje = "Logout en "
+		var minuto = Math.floor(tiempo / 60)
+		if (minuto < 10) {
+			mensaje += "0"
+			}
+			mensaje += minuto + ":"
+			var segundo = tiempo % 60
+			if (segundo < 10) {
+				mensaje += "0"
+			}
+		mensaje += segundo
+		--tiempo
+		var comando = "cuentaAtras()";
+		window.setTimeout(comando, 1000)
+	}
+function resetCuenta(){	tiempo=tiempo_ini;}
+	cuentaAtras();
+	window.document.onmousemove=resetCuenta;
+	window.document.onkeydown=resetCuenta;
+
+</script>

@@ -1,0 +1,142 @@
+stdClass Object
+(
+    [_id] => 422577312
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-05-03T14:13:34.252-05:00
+    [end] => 2023-05-03T14:45:46.927-05:00
+    [group_pl6la06/_1_C_digo] => NAMA-581.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2022-10-27
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-05-30
+    [group_pl6la06/_4_Departamento] => NARINO
+    [group_pl6la06/NARINO] => MAGUI
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => vereda La Laguna
+    [group_pl6la06/_8_Comunidad] => Las Lajas, Bolívar, Rosario, El Pinde, Yarumal, y Naranjito
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento desplazamiento_masivo desplazamiento_individual
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO ORGANISMO_PUBLICO ORGANIZACION_ETNICO_COMUNITARIA
+    [group_mb5pt53/_1a_Evaluador] => Camilo Ruiz
+    [group_mb5pt53/_1b_Celular] => +57 314 3079023
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ALIANZA_POR_LA_SOLIDARIDAD_APS
+    [group_mb5pt53/_2a_Evaluador] => Angie Carvajal
+    [group_mb5pt53/_2b_Celular] => +57 310 2166477
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_rq63s60/_1a_Fecha_del_evento] => 2022-08-28
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde el 28 de agosto del 2022 aproximadamente 1.830 personas (940 familias) de 6 comunidades pertenecientes a los Consejos Comunitarios del Patía Viejo, Manos Amigas y La Voz de los Negros fueron confinadas, fueron confinados y algunas familias se desplazaron. Esta situación se está generando desde la incursión de un nuevo Grupo Armado No Estatal (GANE) en la comunidad. Los constantes enfrentamientos han afectado directamente a la comunidad quedando en medio de las disputas, es importante resaltar que en todo el territorio se encuentran Minas Antipersonal (MAP), Municiones Sin Explotar (MSE) y Trampa Explosiva (TE), como consecuencia, no ha sido posible el acceso a servicios como la salud, educación y medios de vida. 
+Seguido a este hecho aproximadamente 132 personas (44 familias) se desplazaron desde la vereda la Laguna hacía el casco urbano del Municipio de Olaya Herrera, la mayoría de las personas que salieron de la vereda son niños, niñas y mujeres, 
+La presencia de los GANE en las comunidades está ocasionando que la población realicé acciones como medida de autoprotección como: limitaciones para realizar actividades de medios de vida, recolección de agua y el desarrollo de actividades culturales y educativas. 
+El 1 de septiembre de 2022 Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) emite la alerta sobre las necesidades identificadas en los consejos comunitarios.
+    [group_rq63s60/group_lm6cx76/a_Social] => El municipio de Alto Baudó se encuentra ubicado en un clima cálido y templado con temperatura promedio anual de 26.6 °C, en su territorio se encuentran; 5 Títulos Colectivos de Comunidades Negras (17.212 negros). Limita al norte con Olaya Herrera (Bocas de Satinga), La Tola y El Charco, al este con El Charco y Cumbitara, al sur con Los Andes (Sotomayor) y Barbacoas y al oeste con Roberto Payán (San José). Se caracteriza por ser un municipio con vocación rural .
+Las Alertas Tempranas N° 003-2018 (Inminencia), N° 015-2021 (Inminencia) y N° 030-2022 (Estructural) evidencian una situación constante de riesgo debido a las infracciones al Derecho Internacional Humanitario (DIH) y afectaciones los derechos a la vida, integridad, seguridad y libertad de los habitantes del Magüí Payán. El escenario de riesgo se presenta por cuenta de la disputa territorial que sostienen tres grupos armados no estatales (GANE).
+Según la UARIV durante el año 2022 se han presentado declaraciones por: 490 personas afectadas por desplazamiento individual (185 eventos) y 11 Desplazamientos Masivos afectando a 1.896 mujeres y hombres, con respecto al confinamiento no se reportan personas confinadas .
+En los últimos meses dos Grupos Armados (GA) han buscado su expansión hacia comunidades situadas en la zona rural (Afro, Campesinas) con la intención de obtener el control territorial de estos espacios geográficos que son del dominio de otro GA. Actualmente en el territorio se encuentran tres GANE con fuerte presencia que han conllevado a un escenario grave de riesgo para la población.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Las comunidades afrodescendientes confinadas se han visto gravemente afectadas, una de sus principales afectaciones es el desarraigo territorial, situación que se ha dado como consecuencia de las prácticas establecidas por las economías ilegales y por las normas que imponen los diferentes GA.
+Es indispensable, adoptar un enfoque diferencial para la atención de niños y adultos con capacidad diversa y mujeres embarazadas.  
+Es necesario realizar acciones sin daño, principalmente entre las comunidades donde existe tensión (veredas Las Lajas y Rosario), debido a la concentración de ayudas humanitarias en Las Lajas.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Los medios de vida de las comunidades están relacionados con la agricultura, se destaca el cultivo de plátano, yuca, caña, arroz y pesca, estas actividades no representan ingresos significativos, ya que son economías de pan coger. Otra fuente de ingresos para la mayoría de las comunidades es la minería artesanal y otros cultivos, estos son sus medios de vida que a su vez son la fuente de ingresos, sin embargo, el confinamiento y la presencia de MAP/MSE/TE en el territorio ha impedido la comercialización y recolección de estas, por lo cual las familias quedaron sin fuentes de ingresos económicos y afectaron directamente el orden alimentario, nutricional, higiene, educativo y salud de las comunidades.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Los consejos comunitarios se encuentran ubicados en el municipio de Magüi Payán. Las comunidades se caracterizan por tener una topografía del terreno plana en su mayor parte y corresponde a la llanura del Pacífico; sin embargo, al este del municipio se encuentra un sistema ondulado que hace parte del flanco occidental de la cordillera Occidental.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las comunidades de los consejos comunitarios no cuentan con acceso a servicios básicos, como lo son el agua potable, electricidad continua, red de saneamiento, espacios de disposición final de residuos, las clases en las escuelas fueron suspendidas, finalmente la conectividad es casi nula.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Sin Información
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/Riesgos_para_respuesta] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/_cual] => No es posible realizar Acceso Humanitario
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => El ingreso a las comunidades desde Barbacoas es por vía fluvial hasta la comunidad Gómez Jurado (5 horas), también hay acceso fluvial desde Bocas de Satinga y El Charco. Por otro lado, para llegar a la cabecera municipal de Magüi Payán se atraviesa el río de Telembí en el municipio de Barbacoas, por un ferri o planchón. Después se efectúa un desplazamiento terrestre, el cual tiene un tiempo estimado de 2 a 3 tres horas. Este puede variar por las condiciones de la vía, pues se encuentra en mal estado y el transporte de carga pesada suele quedarse atrapado.
+    [group_fm93i53/seguridad] => Existe presencia de un Grupo Armado en las comunidades, este ejerce presencia y control territorial, debido a esta situación, se evidenciaron barreras de acceso en el territorio, las restricciones son para cualquier persona con intención de visitar la zona y para las organizaciones humanitarias.
+Es necesaria la coordinación con las comunidades para el ingreso, así como utilizar visibilidad en los medios de transporte por parte del personal humanitario.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 984
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 1962
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 6
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-05-02
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => En la comunidad de las Lajas se realizaron atenciones de clínica móvil por parte de Médicos Sin Fronteras (MSF)
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Consejo Danés para Refugiados (DRC) y Médicos sin Fronteras (MSF)
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => El equipo móvil identificó que es necesario fortalecer las estrategias de autoprotección y protección colectiva, socialización de las rutas colectivas e individuales de protección.
+En todos los consejos comunitarios se encuentra presencia de MAP/MSE/TE, principalmente en la comunidad de Alto Patía donde se han presentado accidentes con MAP en agosto y en el mes de octubre.
+Esta situación se ha manifestado con la institucionalidad a través de consejos de seguridad, la comunidad está a la espera de una solución duradera.
+Los hombres y mujeres de las comunidades sienten miedo, angustia y zozobra por las acciones de los actores armados, razón por la cual no se declara el confinamiento ni se visibiliza la situación. 
+En cuanto a los grupos de mujeres, estas refieren tener vacíos en información sobre las Violencias Basadas en Género (VBG) y sus rutas. Es probable que existan subregistros de las violencias de género.
+Hallazgos
+A.	Imposición de normas de conducta por parte de los Grupos Armados en las comunidades, entre ellas existen restricciones de movilidad en horas de la noche. 
+B.	Antecedentes y riesgos de ocurrencias de otros hechos victimizantes como: homicidio, amenazas e intimidaciones, presencia de Minas Antipersonal (MAP), Municiones Sin Explotar (MSE) y Trampa Explosiva (TE). 
+C.	En las comunidades no se evidencian prácticas relacionadas con VBG en el marco del conflicto armado, sin embargo, existen antecedentes de VBG en las comunidades.
+D.	Las comunidades desconocen las rutas de atención y activación. Principalmente, las familias desconocen la ley 1448 de 2011.
+Recomendaciones
+A.	Fortalecer a gobernadores, hombres y mujeres sobre mecanismos de exigibilidad de derecho y derecho propio.
+B.	Hacer incidencia y seguimiento sobre la activación de la ruta administrativa de población víctima del conflicto armado. 
+C.	Fortalecimiento a las mujeres y hombres en derecho propio, nuevos liderazgos y herramientas jurídicas de acceso a derechos.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => En la comunidad de las Lajas se realizaron atenciones de clínica móvil por parte de Médicos Sin Fronteras (MSF), se atendieron más de 300 personas de las veredas Las Lajas, Bolívar, Cascarito, La Esperanza, Brisas, entre otras. MSF evidenció alta demanda de métodos de planificación familiar, refieren que no dieron abasto en cuanto a inserción de implante subdérmico.
+Las atenciones de MSF identificaron que no hay alta presencia de gestantes o lactantes en la comunidad, con respecto a la desnutrición (DNT) infantil se identificaron de 2 casos de DNT severa, de los cuales, 1 se asocia a espina bífida con rechazo de remisión a nivel superior de atención.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Con respecto a la salud Mental los principales problemas son de pareja y no se detectan casos de VBG, sin embargo, no se descarta la presencia de casos en la comunidad debió al bajo flujo de pacientes a atenciones psicosociales.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => No se detectan casos de VBG, sin embargo, no se descarta la presencia de casos en la comunidad debió al bajo flujo de pacientes a atenciones psicosociales.
+    [group_aa8xg30/group_tb5de96/EIE] => La emergencia por confinamiento ha provocado que la normalidad escolar se vea alterada, ocasionando que no exista un acceso continuo al servicio educativo para los NNA. Además, se evidencia que existe un alto porcentaje de niños descolarizados, un factor de este alto porcentaje es por el desplazamiento de los profesores hacia Tumaco y Barbacoas, esta situación ocasiono que los menores no tengan docentes y sin actividades de ocupación del tiempo libre. Adicionalmente en el Sistema de Matrículas Estudiantil (SIMAT) se reportan 35 estudiantes con necesidades especiales las cuales no pueden ser atendidas por falta de docentes capacitados. 
+Hallazgos
+A.	Se evidencia necesidades de capacitación en educación en emergencias a Docentes y agentes educativos comunitarios (AEC) enfatizando en apoyo psicosocial y de recuperación emocional con NNA. 
+B.	Las instituciones no cuentan con material didáctico, lúdico o deportivo lo que limita las actividades escolares a la recepción de clases y contenidos disciplinares, esto aunado a la imposibilidad de las familias para la compra de útiles escolares a causa de la emergencia por confinamiento.
+C.	Alto riesgo de uso de Niños, Niñas y Adolescentes (NNA) por parte de los grupos armados. 
+Recomendaciones
+A.	Formación en el desarrollo de una estrategia de recuperación de aprendizaje desde un enfoque Etno-educativo, actividades de protección con NNA, comportamientos seguros ERM y estrategia de acceso educativo de NNA desescolarizados.
+B.	Entrega de NFIS alumno y docentes
+C.	Educación en Riesgo de Minas y comportamientos seguros
+    [group_aa8xg30/BrechasInformacion] => Es importante resaltar que en esta Evaluación Rápida de Necesidades (ERN) no se pudo ingresar por temas de seguridad a las comunidades para verificar las necesidades de la emergencia, razón por la cual se levantó la información a través de algunos miembros de las comunidades en las cabeceras y en reuniones con organizaciones humanitarias y la institucionalidad.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 2
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por Confirmar
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Por Confirmar
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Por Confirmar
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => Por Confirmar
+    [group_sp7cc00/Observaciones_adicionales] => Es importante resaltar que en esta Evaluación Rápida de Necesidades (ERN) no se pudo ingresar por temas de seguridad a las comunidades para verificar las necesidades de la emergencia, razón por la cual se levantó la información a través de algunos miembros de las comunidades en las cabeceras y en reuniones con organizaciones humanitarias y la institucionalidad. 
+1. Por parte de una de las organizaciones humanitarias locales se menciona una alerta de alto riesgo de politización de acciones humanitarias en el territorio, pues el 19 de diciembre del 2022 se llevarán a cabo las elecciones del presidente del Consejo Comunitario; lo cual genera un escenario donde se pueden comprometer los principios humanitarios bajo los cuales se rigen las organizaciones que hacen parte del Consorcio MIRE.
+2. Factores de riesgos para la seguridad del equipo en el transporte, pues el proveedor indica que podría ser víctima de robo por parte de los GANES por llevar un motor 200 y la garantía de ingresar bajo esas condiciones aumenta el precio. 
+3. Costos elevados del transporte fluvial, que no garantizaban la seguridad del equipo y la pertinencia del ingreso tanto para la ERN como para la proyección de una posible atención.
+4. Dadas las barreras de acceso humanitario por la alta presencia de actores armados ilegales, se coordina el ingreso con el líder del Consejo Comunitario del Patía Viejo mediante estrategias que no involucre un riesgo para dicho representante; sin embargo, este solicita un recurso para poder desplazarse e interlocutar con los GANE; lo cual, puede generar un precedente para las demás organizaciones de ayuda humanitaria que hacen presencia en la zona.
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:2b908782-01c4-4804-a42d-2761475eeb07
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 2b908782-01c4-4804-a42d-2761475eeb07
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-03T19:45:58
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

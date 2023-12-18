@@ -1,0 +1,268 @@
+stdClass Object
+(
+    [_id] => 422515007
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-05-03T11:09:30.187-05:00
+    [end] => 2023-05-03T11:23:03.976-05:00
+    [group_pl6la06/_1_C_digo] => GUEL-656.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-02-27
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-03-03
+    [group_pl6la06/_4_Departamento] => GUAVIARE
+    [group_pl6la06/GUAVIARE] => EL RETORNO
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => La Paz, Las Bocas, New York, Mesas de la Lindosa, Salto Alto, Salto Bajo, Tomachipan, Golondrinas y los asentamientos indígenas Nukak de Makucito y Checamo
+    [group_pl6la06/_8_Comunidad] => La Paz, Las Bocas, New York, Mesas de la Lindosa, Salto Alto, Salto Bajo, Tomachipan, Golondrinas y los asentamientos indígenas Nukak de Makucito y Checamo
+    [group_pl6la06/_9_Tipo_de_emergencia] => RESTRICCION_DE_MOVILIDAD
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA ORGANIZACION_ETNICO_COMUNITARIA
+    [group_mb5pt53/_1a_Evaluador] => Angie Carvajal
+    [group_mb5pt53/_1b_Celular] => +57 310 2166477
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Camilo Ruiz
+    [group_mb5pt53/_2b_Celular] => +57 314 3079023
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ALIANZA_POR_LA_SOLIDARIDAD_APS
+    [group_rq63s60/_1a_Fecha_del_evento] => 2022-11-22
+    [group_rq63s60/_1c_Descripci_n_del_evento] => En noviembre 2022 se presentó la incursión de un Grupo Armado no Estatal en la zona rural del municipio El Retorno, que derivó en la imposición de restricciones a la movilidad y desplazamientos individuales. Cerca de 600 personas (150 familias) de las veredas La Paz y La Libertad del municipio de El Retorno han sido afectadas por las restricciones a la movilidad. También las veredas Salto Alto, Salto Bajo, Tomachipan y Makusito han sido afectadas por la imposición de códigos de conducta y manuales de convivencia por parte del GANE. A raíz de estos hechos, el 9 de diciembre de 2022 La Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) emitió la alerta sobre las necesidades identificadas en las veredas La paz y La Libertad .
+    [group_rq63s60/group_lm6cx76/a_Social] => Sin Información
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Entre la población afectada se identificaron Niñas, Niños, Adolescentes y Jóvenes (NNAJ); mujeres gestantes sin acceso a controles prenatales, mujeres lactantes, adultos mayores  y algunas personas en condición de discapacidad. También se identificaron dos (2) asentamientos indígenas Nukak en la zona de Tomachipán.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las comunidades afectadas por las restricciones a la movilidad basan su economía en actividades de agricultura y ganadería. En las familias afectadas se evidenció acceso limitado a los medios de vida, reducción de ingresos, pérdidas de cosechas y reducción de capacidad para acceder a alimentos y demás insumos básicos de la canasta familiar.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Sin información
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las comunidades afectadas por la emergencia tienen acceso limitado a servicios básicos, no cuentan con infraestructuras sanitarias adecuadas ni personal de salud suficiente para cubrir la demanda de atenciones médicas. Los servicios educativos también presentan dificultades debido al deterioro de las instituciones educativas y baja capacidad del personal docente. Adicionalmente, las comunidades no tienen red de servicios públicos. En ninguna de las comunidades afectadas por la emergencia hay redes de energía eléctrica, por lo que las familias acceden al fluido eléctrico a través de plantas eléctricas y/o paneles solares. Sobre el acceso a agua las familias se abastecen a través de la recolección de aguas lluvia y de cuerpos de agua cercanos.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Sin Información
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/Riesgos_para_respuesta] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR
+    [group_fm93i53/_1i_Descripci_n_VBG] => RESTRICCION_ACTIVIDADES_DOMESTICAS LIMITADO_ACCESO_A_EDUCACION
+    [group_fm93i53/logistica] => Para acceder a las veredas afectadas por la emergencia, es necesario el traslado aéreo desde Bogotá hasta el municipio de San José del Guaviare, desde la cabecera municipal se requiere traslado terrestre hacia la vereda La Paz (3 horas aproximadamente) y hacia Caño Mosco (3 horas y 30 minutos aproximadamente). Desde La Paz a Salto Alto el recorrido es por vía fluvial (7 horas de recorrido). De Caño Mosco a Tomachipán el trayecto es por río (2 horas y 20 minutos aproximadamente), finalmente, desde la comunidad Tomachipan al resguardo Makusito es vía fluvial (20 minutos cada una). Con respecto a los servicios de comunicación son precarios o casi nulos, no hay cobertura de red telefónica.
+    [group_fm93i53/seguridad] => Sin Información
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 528
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 2005
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 7
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 250
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => Indicadores Clave
+•	Las comunidades no han tenido sensibilización acerca de la ley de víctimas 1448 de 2011.
+•	Baja presencia institucional y desconocimiento de la población acerca del acceso a la ruta de asistencia y atención.
+•	Se requiere de fortalecimiento de las Juntas de Acción Comunal (JAC) para la creación del comité de Derechos Humanos.
+
+Hallazgos
+•	Las comunidades desconocen la activación de las rutas de atención a las víctimas del conflicto armado.
+•	Capacidad de respuesta institucional es insuficiente para la atención de emergencias derivadas del conflicto armado.
+•	No hay información actualizada de caracterización y composición de los núcleos familiares.
+•	Las comunidades carecen de material informativo sobre la normatividad, herramientas para la exigibilidad de derechos y cumplimiento.
+•	En las comunidades hay casos de desplazamientos individuales (interveredal) no reportados. 
+•	Dentro de las comunidades afectadas se encuentra población migrante de origen venezolano con vocación de permanencia que requieren asistencia legal.
+•	Las veredas afectadas por las restricciones a la movilidad se encuentran en zona de
+Recomendaciones
+•	Realizar acciones en orientación y asistencia legal para activación de rutas de protección y atención.
+•	Fortalecimiento comunitario en derecho propio, nuevos liderazgos y herramientas jurídicas de acceso a derechos.
+•	Acompañamiento para el acceso a garantías en salud individual.
+    [group_aa8xg30/group_lg2ro37/Shelter] => Indicadores Clave
+•	Las familias NO cuentan con los elementos adecuados de hábitat que promuevan seguridad. 
+•	Las familias y comunidad NO cuentan con las infraestructuras adecuadas que promuevan seguridad.
+•	Las familias NO cuentan con elementos de hábitat para albergarse de manera segura.
+•	Muy pocas familias cuentan con algunos elementos para la vivienda digna.
+•	Es necesaria la distribución de mobiliario escolar para las primeras fases de emergencia y ambientes educativos temporales.
+•	Las familias de las comunidades cuentan con casa, sin embargo, no cuentan con condiciones de vivienda segura y digna, esta misma situación sucede en la mayoría de los espacios comunes de las comunidades.
+Hallazgos
+•	Los asentamientos indígenas Nukak no tienen suficientes elementos de cocina para la preparación de alimentos.
+•	Algunas veredas afectadas por la restricciones a la movilidad se encuentran en zonas de riesgo de derrumbe.
+•	La zona de dormitorios de la escuela de Salto Bajo representa riesgo de accidente, debido a que algunas construcciones en madera están en mal estado.
+
+Recomendaciones
+•	Garantizar el acceso a artículos de hábitat que permitan sus actividades domésticas. 
+•	Mejoramiento de la infraestructura de los centros educativos de La Paz, Salto Bajo y Tomachipán.
+•	Identificación de espacios seguros en casos de emergencia.
+    [group_aa8xg30/group_fv0ct51/Agua] => Indicadores clave
+•	El 70% de la población afectada por la emergencia no tiene acceso a agua segura y se abastecen directamente del río y de aguas lluvia.
+•	30% de la población de la vereda La Paz no tiene acceso a lavamanos o duchas para realizar los procesos de higiene, mientras que en las veredas Salto Alto y Salto Bajo el porcentaje de la población alcanza el 80%.
+•	En las veredas Salto Alto y Salto Bajo el 100% cuenta con infraestructura total para el sistema de abastecimiento de agua, sin embargo, no están funcionando correctamente y es necesario un mantenimiento para el correcto uso de este.
+•	100% de la población de la vereda La Paz no tiene acceso a los elementos de primera necesidad en higiene, mientras que en el resto de las comunidades afectadas el porcentaje es del 10%.
+Hallazgos
+•	Las veredas afectadas por la emergencia no tienen acceso agua potable, no cuentan con alcantarillado, no tienen redes de distribución de agua y no realizan tratamiento al agua para el consumo.
+•	La principal fuente de abastecimiento de agua es la recolección de aguas lluvia y el traslado del recurso desde cuerpos de agua cercanos a las comunidades.
+•	Se identificó contaminación de las fuentes hídricas por actividades de ganadería y mal manejo de las aguas residuales domésticas.
+•	El 70% de la familias afectadas por la emergencia, ubicadas en zona rural, no cuenta con baterías sanitarias y practican la deposición a campo abierto.
+•	No hay buen manejo de los residuos sólidos, las familias recurren a la quema de los desechos.
+•	Se identificó proliferación de vectores y prevalencia de enfermedades de transmisión vectorial como malaria y dengue. 
+•	En las veredas afectadas por la emergencia no hay promoción de buenas prácticas de higiene para el manejo del agua, la preparación de alimentos y la disposición de excretas.
+Recomendaciones
+•	Reforzar las sensibilizaciones en agua segura, enfocándolas a los métodos de tratamiento de agua a nivel intradomiciliario y almacenamiento seguro a fin de logras que el 100% de las familias de la comunidad logre consumir agua segura.  
+•	Formaciones en buenas prácticas de higiene con énfasis en el aseo, limpieza y desinfección de la vivienda, saneamiento y el entorno.
+•	Sensibilizar sobre la importancia en las actividades de clasificación y correcta disposición de los residuos sólidos. 
+•	Llevar actividades en formaciones en el adecuado uso de los elementos de higiene en el entorno familiar.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Por Actualizar
+    [group_aa8xg30/group_fv0ct51/Higiene] => Por Actualizar
+    [group_aa8xg30/group_jn0nm53/san] => Indicadores Clave:
+•	Las familias de las veredas La Paz y Tomachipán tiene una ingesta de alimentos de entre 2 a 3 comidas al día, mientras que las familias de Salto Alto y Salto Bajo consumen alimentos 2 veces al día. 
+•	Se identificó desabastecimiento en todas las veredas, por cuenta de las restricciones a la movilidad. La vereda Salto Alto evidenció mayor afectación por la falta de insumos básicos de la canasta familiar. 
+•	Las familias de Salto Alto y Salto Bajo basan su dieta principalmente en tres grupos: raíces y tubérculos, fruta y pescado. Igualmente, sucede con los hogares de Tomachipan y La Paz, sin embargo, estás integran el consumo de cereales.
+•	Durante la evaluación de necesidades se indagó por el consumo de alimentos en las últimas 24 horas, la mayoría de los hogares manifestó consumir entre 3 y 4 grupos de alimentos, sin poder garantizar los requerimientos mínimos nutricionales.  
+•	Las familias han implementado algunas estrategias de afrontamiento reducido como: pedir comida prestada, reducir el tamaño de las porciones de alimentos y disminuir el número de comidas al día. 
+•	La mayoría de los hogares no cuentan con conocimientos en seguridad alimentaria y hábitos saludables. 
+•	Ninguna de las veredas afectadas por la emergencia dispone de espacios productivos que garanticen y faciliten el acceso a los alimentos. 
+Hallazgos
+•	Existen afectaciones en el desarrollo de la principal actividad económica que limitan la fuente de ingresos para compra de alimentos.
+•	Las familias dependen de alimentos externos para su consumo diario, establecen únicamente a pequeña escala cultivos de plátano, yuca y maíz; algunas incluyen actividades de casería y pesca. Actualmente hay desabastecimiento y encarecimiento de los alimentos.
+•	Se identificó que la ingesta alimentaria es insuficiente porque no garantiza el alcance de los requerimientos nutricionales mínimos.
+•	La degradación medio ambiental y la variabilidad climática complejizan la situación de inseguridad alimentaria porque generan limitaciones de acceso a medios de vida y en la producción de alimentos para el autoconsumo y la comercialización de excedentes. 
+•	Los alimentos que reciben en los asentamientos Indígenas Chekamo y Makusito (Pueblo Indígena Nukak) por el Programa de Alimentación Escolar (PAE) sirven de olla comunitaria para subsanar las necesidades alimentarias de las familias.
+•	En el mes de diciembre 2022 el Comité Internacional de la Cruz Roja (CICR) entregó transferencias monetarias a la comunidad de La Paz.
+Recomendaciones
+•	Definir medidas de respuesta a corto plazo en seguridad alimentaria para mejorar el acceso a alimentos que y reducir la implementación de estrategias de afrontamiento reducido por parte de las familias en emergencia.
+•	Coordinar las respuestas alimentarias con el sector de WASH dada las prácticas inadecuadas del consumo de agua, es importante que las familias adopten prácticas seguras.
+•	Generar espacios de formación para el fortalecimiento de medios de vida y alternativas de producción de alimentos, con el fin de reducir la exposición de las personas a las causas de la desnutrición.
+•	El pueblo Nukak es nómada, por tal razón, se debe tener analizar el impacto que se puede generar en este tipo de comportamientos. 
+•	Entregas de ayuda alimentaria con enfoque diferencial.
+•	Las afectaciones se extienden a lo largo de las comunidades que se ubican sobre el río Inírida.
+ACCESO A MERCADO Y MEDIOS DE VIDA 
+Hallazgos
+
+•	Las familias se abastecen principalmente de las tiendas o bodegas que se ubican en las veredas, las cuales actualmente no tienen capacidad. Para llegar a estas tienen que atravesar caminos de herradura y el río.
+•	Únicamente en la vereda La Paz se cuenta con servicio de transferencia de efectivo, con capacidad limitada. La adopción de Transferencias Monetarias (TM) implica que la familias deban desplazarse hasta San José del Guaviare.
+•	Las comunidades de Tomachipán, Salto Alto y Salto Bajo presentan más riesgos que pueden impactar de manera negativa la implementación de transferencias monetarias, ya que deben realizar recorridos de más de 6 horas, se han presentado hurtos y hay presencia de personas no reconocidas por las comunidades.
+•	En todas las comunidades manifestaron la falta de dinero en efectivo, los pagos se realizan con otras formas, como el trueque.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Indicadores clave: 
+•	La distancia geográfica es una de las principales barreras de acceso a los servicios de salud, ya que las comunidades deben realizar largos recorridos para acceder a los centros urbanos de El Retorno y San José del Guaviare.
+•	Es necesario realizar atenciones especializadas en valoraciones nutricionales para identificar si existen casos de desnutrición en menores de 5 años.
+•	Se evidenció un aumento sobre línea basal de eventos en salud mental.
+•	Las instituciones locales no tienen capacidad de respuesta en salud mental.
+•	La organización Médicos Sin Frontera, en el marco de respuesta a la emergencia, realizó una brigada de salud en la vereda La Paz donde se atendió a 425 personas.
+
+Hallazgos
+Salud Física
+La Paz
+•	Hay un centro de salud y un promotor de salud, sin embargo, no se cuenta con medicamentos ni insumos médicos para atención primaria.
+•	En caso de darse una urgencia vital, estas deben evacuarse con apoyo de la comunidad, no se cuenta con transporte terrestre. 
+•	Acceso limitado a los servicios de salud principalmente por los largos desplazamientos hasta los centros de salud.
+•	Existe un alto grado de déficit en personal asistencial médica. 
+•	Los costos de los medicamentos básicos son altos en la zona.
+•	Se evidenciaron patologías en la zona, las más prevalente son: Enfermedad Diarreica Aguda (EDA), Infección Respiratoria Aguda (IRA), Infecciones de piel, afectaciones osteomusculares, enfermedades transmitidas por vectores (dengue, malaria), enfermedades crónicas no transmisibles (presión arterial alta y Diabetes Mellitus).
+•	Las mujeres refieren dificultad para acceder a métodos anticonceptivos.
+
+Salto Alto y Salto Bajo
+•	No tienen infraestructura en salud, ni personal sanitario.
+•	Hacen uso de medicina natural para el manejo de algunas enfermedades.
+•	El costo referido para sacar una urgencia médica oscila entre un millón a dos millones de pesos.
+•	Un gran porcentaje de la población de esta zona no cuenta con afiliación en salud.
+•	No han recibido una jornada de atención hace más de un año por parte del Hospital, en algunas ocasiones tienen atención de servicios de salud particulares.
+•	Las enfermedades más frecuentes son las gastrointestinales por el consumo de agua no segura, IRA, accidentes propios de la actividad agrícola, enfermedades transmitidas por vectores.
+
+Tomachipán
+•	Cuenta con centro de salud, 1 profesional médico y 1 auxiliar de enfermería.
+•	El centro de salud no cuenta con monitor de signos vitales, desfibrilador, carro de paro, kit de atención urgencia obstétrica.
+•	Los medicamentos son limitados, solo se cuenta con algunos analgésicos, escasos antibióticos de primera línea.
+•	Para la evacuación de urgencia vital la salida más pronta es por vía aérea, esta no siempre está disponible, el Centro Regulador de Urgencias, Emergencias y Desastres (CRUE) no es eficiente al momento de solicitar apoyo.
+•	En la comunidad se reportan 8 personas en condición de discapacidad sin atención diferenciada.
+•	Entre las principales patologías de la zona se encuentra: EDA, IRA, Infecciones de la Piel, enfermedades crónicas no transmisibles (HTA, Obesidad, Diabetes Mellitus)
+•	La mayor parte de la población no aplica para afiliación en salud bajo el régimen subsidiado.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Indicadores clave: 
+•	La distancia geográfica es una de las principales barreras de acceso a los servicios de salud, ya que las comunidades deben realizar largos recorridos para acceder a los centros urbanos de El Retorno y San José del Guaviare.
+•	Es necesario realizar atenciones especializadas en valoraciones nutricionales para identificar si existen casos de desnutrición en menores de 5 años.
+•	Se evidenció un aumento sobre línea basal de eventos en salud mental.
+•	Las instituciones locales no tienen capacidad de respuesta en salud mental.
+•	La organización Médicos Sin Frontera, en el marco de respuesta a la emergencia, realizó una brigada de salud en la vereda La Paz donde se atendió a 425 personas.
+
+Hallazgos
+Salud Física
+La Paz
+•	Hay un centro de salud y un promotor de salud, sin embargo, no se cuenta con medicamentos ni insumos médicos para atención primaria.
+•	En caso de darse una urgencia vital, estas deben evacuarse con apoyo de la comunidad, no se cuenta con transporte terrestre. 
+•	Acceso limitado a los servicios de salud principalmente por los largos desplazamientos hasta los centros de salud.
+•	Existe un alto grado de déficit en personal asistencial médica. 
+•	Los costos de los medicamentos básicos son altos en la zona.
+•	Se evidenciaron patologías en la zona, las más prevalente son: Enfermedad Diarreica Aguda (EDA), Infección Respiratoria Aguda (IRA), Infecciones de piel, afectaciones osteomusculares, enfermedades transmitidas por vectores (dengue, malaria), enfermedades crónicas no transmisibles (presión arterial alta y Diabetes Mellitus).
+•	Las mujeres refieren dificultad para acceder a métodos anticonceptivos.
+
+Salto Alto y Salto Bajo
+•	No tienen infraestructura en salud, ni personal sanitario.
+•	Hacen uso de medicina natural para el manejo de algunas enfermedades.
+•	El costo referido para sacar una urgencia médica oscila entre un millón a dos millones de pesos.
+•	Un gran porcentaje de la población de esta zona no cuenta con afiliación en salud.
+•	No han recibido una jornada de atención hace más de un año por parte del Hospital, en algunas ocasiones tienen atención de servicios de salud particulares.
+•	Las enfermedades más frecuentes son las gastrointestinales por el consumo de agua no segura, IRA, accidentes propios de la actividad agrícola, enfermedades transmitidas por vectores.
+
+Tomachipán
+•	Cuenta con centro de salud, 1 profesional médico y 1 auxiliar de enfermería.
+•	El centro de salud no cuenta con monitor de signos vitales, desfibrilador, carro de paro, kit de atención urgencia obstétrica.
+•	Los medicamentos son limitados, solo se cuenta con algunos analgésicos, escasos antibióticos de primera línea.
+•	Para la evacuación de urgencia vital la salida más pronta es por vía aérea, esta no siempre está disponible, el Centro Regulador de Urgencias, Emergencias y Desastres (CRUE) no es eficiente al momento de solicitar apoyo.
+•	En la comunidad se reportan 8 personas en condición de discapacidad sin atención diferenciada.
+•	Entre las principales patologías de la zona se encuentra: EDA, IRA, Infecciones de la Piel, enfermedades crónicas no transmisibles (HTA, Obesidad, Diabetes Mellitus)
+•	La mayor parte de la población no aplica para afiliación en salud bajo el régimen subsidiado.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => por Actualizar
+    [group_aa8xg30/group_tb5de96/EIE] => Indicadores Clave
+•	Se identificó que el 30% de niños, niñas y adolescentes de las comunidades afectadas por la emergencia están desescolarizados de la matricula formal.
+•	Se identificaron los siguientes riesgos de protección en niños, niñas y adolescentes: afectación psicosocial, reclutamiento, vinculación y utilización por parte de los GANE, deserción escolar, instalación de minas antipersonales en zonas aledañas a las comunidades y violencias basadas en género.
+•	Incremento de la desescolarización en la vereda Salto Alto, debido a la falta de centros educativos.
+•	Durante la emergencia se evidenció la necesidad de implementar una estrategia de adaptación curricular y entrega de material educativo y pedagógico.
+•	Ninguno de los centros educativos de las comunidades afectadas cuenta con conectividad a internet.
+
+Hallazgos
+•	La institución educativa de la vereda La Paz, tiene una matrícula actual de 170 NNAJ, con 9 docentes, tiene modalidad de internado y es hasta grado once; es el centro educativo de referencia para las veredas Las Bocas, Salto Alto y Salto Bajo. 
+•	La institución educativa de La Paz cuenta con dormitorios, pero no tienen conexiones eléctricas.
+•	El mal estado de las vías y las condiciones climáticas en la zona dificultan el traslado de los niños, niñas y adolescentes hasta los centros educativos. Los desplazamientos pueden tomar más de tres horas y los costos por trayecto son muy altos, lo que ha derivado en el aumento de la deserción escolar e inasistencia.
+
+Recomendaciones
+
+•	Formación en los Acuerdos Escolares de Convivencia (AEC) en el desarrollo de actividades lúdico-pedagógicas para evitar riesgos de deserción escolar y suspensión de actividades académicas. 
+•	Entregar elementos y material para uso del tiempo libre.
+•	Desarrollar actividades de prevención de violencias basadas en género en los asentamientos indígenas Chekamo.
+•	Realizar espacios de sensibilización sobre comportamiento seguro para niños, niñas y adolescentes.
+    [group_aa8xg30/BrechasInformacion] => sin Información
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 0
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por Actualizar
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Por Actualizar
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Por Actualizar
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => Por Actualizar
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => Por Actualizar
+    [group_aa0qz67/group_de0zc49/_3b_Tel_fono_1] => Por Actualizar
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:8e1cbbc2-5c90-404d-8700-a036b152e90c
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 8e1cbbc2-5c90-404d-8700-a036b152e90c
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-03T16:23:15
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

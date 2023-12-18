@@ -1,0 +1,83 @@
+stdClass Object
+(
+    [_id] => 499201095
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-11-01T15:36:48.467-05:00
+    [end] => 2023-11-01T16:05:56.002-05:00
+    [group_gu1lq88/Departamento] => GUAINIA
+    [group_gu1lq88/GUAINIA] => INIRIDA
+    [group_gu1lq88/Otros_Municipios] => Departamento de Vichada (no reporta el municipio)
+    [group_gu1lq88/Vereda] => Puerto Minero (Guainía)
+    [group_gu1lq88/Nombre_de_la_comunidad] => No reporta
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-10-26
+    [group_gu1lq88/Nombre_de_quien_reporta] => Maria Fernanda Gómez
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => La Fuerza Armada Nacional Bolivariana (FANB) ha adelantado operativos de control territorial para contrarrestar acciones de minería ilegal en el Parque Nacional Yapacana (Amazonas, Venezuela). Lo anterior, ha generado movimientos de alrededor de 20.000 personas de múltiples nacionalidades (Colombia, Venezuela, Brasil, Perú, entre otras, desde las minas hacia diferentes rumbos, principalmente, la ciudad de Inírida, Guainía. 
+
+La lógica de las llegadas se identifica como gota-a-gota, de unas ≈4.000 personas a Inírida entre diciembre 2022 y julio 2023; y la existencia de múltiples perfiles de refugiados y migrantes provenientes de Venezuela en condiciones altamente vulnerables.
+
+Según información de las autoridades territoriales de Guainía, el 13 de septiembre de 2023 llegó una embarcación con tres personas heridas por impacto de bala. De acuerdo al testimonio de familiares, las fuerzas de seguridad venezolanas llevaron un operativo de desmantelamiento a los campos mineros ilegales en el Parque Nacional Yapacana, ubicado en territorio venezolano, y debido a la situación de violencia, la población que trabaja y reside en las minas huyó hacia Inírida y Puerto Minero, dos puertos importantes del departamento. 
+
+En las embarcaciones llegaron hombres, mujeres, niños, niñas y adolescentes, familias completas, algunos heridos e, incluso, una persona que murió en el camino de la mina hacia Puerto Inírida.
+El departamento del Vichada también se ha visto afectado por la llegada de población proveniente desde el Amazonas Venezolano, principalmente ciudadanos colombianos a través de procesos de deportación. Se reporta la llegada de alrededor de 14 personas, incluido un menor de edad (ya en custodia del ICBF), a las que se les ha brindado respuesta a través de los socios de las instituciones y socios del EHL, especialmente para conexión con sus familias al interior del país a través de transportes humanitarios.
+    [group_yv1ph08/time2] => 2023-10-26
+    [group_yv1ph08/time3] => 0
+    [group_yv1ph08/evidencia] => proteccion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 321
+    [group_cn9za51/personas] => 834
+    [group_cn9za51/comu] => 0
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vQ42okMMCzm2zggHw89X3L
+    [meta/instanceID] => uuid:4a676209-166e-4a54-ba13-7c89ac0f19e9
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 4a676209-166e-4a54-ba13-7c89ac0f19e9
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-11-01T21:05:57
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

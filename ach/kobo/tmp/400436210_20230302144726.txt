@@ -1,0 +1,208 @@
+stdClass Object
+(
+    [_id] => 400436210
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-03-02T13:48:12.104-05:00
+    [end] => 2023-03-02T14:45:42.237-05:00
+    [group_kp1mu41/_1_C_digo] => MEMA-602.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-03-02
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-11-09
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-02-13
+    [group_kp1mu41/_4_Departamento] => META
+    [group_kp1mu41/META] => LA_MACARENA
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => LA CATALINA
+    [group_kp1mu41/num_comunidades] => 5
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => La Catalina, Nueva Colombia, La Tigra, Resguardo Caño Ovejas, Puerto Alvira
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Paula Andrea Villegas Osorio
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Médicos_del_Mundo_MDM
+    [group_qd4az23/_1d_Celular] => 3146109029
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_VBG R1_Proteccion_PR R.2_EeE R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-11-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-11-25
+    [group_wo86e58/group_hc3sa85/vacios_icla] => N/A
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => A. Se facilitaron un total de 8 talleres informativos mediante los cuales se alcanzaron un total de 350 personas de las cuales 21 son líderes y líderesas indígenas o campesinos, espacios desarrollados en el Resguardo Caño Ovejas, en la vereda de Puerto Alvira (dirigido a comuneros de la vereda  y a la comunidad indígena del  Resguardo Caño Jabón) jurisdicción del municipio de Mapiripán, en la vereda Nueva Colombia del municipio de Vistahermosa  y en la vereda La Catalina perteneciente al municipio de La Macarena, se abarcaron conceptos, rutas así como en responsables institucionales que define La  Ley de víctimas y restitución de Tierras 1448 de 2011 incluyendo generalidades y hechos victimizantes, decreto étnico 4633 de 2011, ruta de acceso a la declaración ante Ministerio Público por hechos individuales o masivos/colectivos, ruta de solicitud ayuda humanitaria, ruta general y priorizada de indemnización administrativa ante UARIV, solicitud de atención y responsabilidades hacia las víctimas de conflicto de entidades como UBPDD, URT, ICBF, Fiscalía, SGSSS. En el marco de los espacios formativos, se llevó a cabo especialmente con los líderes entrega de información en mecanismos de exigibilidad de derechos así como la entrega de material que les sirviera de apoyo para las futuras acciones legales que implementen en defensa de sus derechos especialmente ante la problemática que presentan de carencias de acompañamiento institucional y prestación de servicios públicos domiciliarios. 
+B.  Se brindó orientación personalizada a 3 personas en activación de ruta de declaración por hechos individuales no declarados y rutas vigentes para el acceso a la indemnización administrativa ante la UARIV.
+C.  10  personas asistidas legalmente ante UARIV para solicitudes de encuesta para la medición de la subsistencia mínima y posibilidad de entrega de ayuda humanitaria, en acceso a identidad legal para el traslado de documento de identidad de inscripción en registro civil, entrega de actos administrativos que resolvió el estado en el registro único de víctimas y el Resguardo Caño Ovejas mediante su gobernador fue asistido en solicitud ante UARIV para que la entidad defina su continuidad en el acompañamiento al proceso de reparación colectiva que se desarrolla.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2022-11-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2022-11-25
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => La respuesta individual en VBG se dio de manera completa dada la metodología de grupos focales con mujeres, lideresas y actores claves quienes tiene capacidad de replicar la información a las personas que no lograron participar en las actividades colectivas. Adicionalmente, se generaron contactos claves con actores de la comunidad que permiten un relacionamiento continuado para la identificación de los casos. En relación a la articulación con la institucionalidad, es pertinente señalar que, dada la dispersión geográfica de los entes territoriales esta articulación se dificultó en la respuesta.
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => Continuar en los procesos articulación con las entidades municipales con responsabilidades en protección de líderes, lideresas, mujeres y NÑAJ, para la identificación de casos individuales y la activación de las rutas de protección pertinentes. Acciones de incidencia con los distintos actores institucionales y de acompañamiento con capacidades de protección para la visibilidad de las distintas violaciones de DDHH e infracciones al DIH, así como las afectaciones y necesidades específicas de las mujeres, adolescentes, niños y niñas en riesgo. 
+Continuar en la generación de canales de comunicación segura para la remisión e identificación de casos individuales de personas sobrevivientes y víctimas de VBG.  
+Acompañamiento en los procesos de empoderamiento de capacidades e iniciativas para la independencia económica de las mujeres, el fortalecimiento de las redes de apoyo, grupos y organizaciones de mujeres con capacidades para la respuesta a personas sobrevivientes y víctimas de VBG. 
+- Identificación y evaluación de riesgos de VBG o sobrevivientes de VBG: 
+Se identificaron y valoraron siete casos individuales de personas víctimas y sobrevivientes de VBG en contexto de conflicto armado y familiar; estos casos son de mujeres y adolescentes quienes no conocen la información sobre sus derechos como víctimas y sobrevivientes por lo que no han acudido a las rutas y medidas de protección. 
+- Provisión de respuesta y seguimiento a casos de sobrevivientes de VBG: 
+Se realizaron orientaciones jurídicas sobre las rutas de atención y derechos de las personas víctimas o sobrevivientes de VBG en atención en salud física y psicológica, las medidas de protección que se pueden solicitar en el marco de los procesos por violencia en contexto familiar.
+Las acciones realizadas a los casos identificados para atención por psicología a nivel individual se enfocaron en el reconocimiento de las emociones, las estrategias de afrontamiento, el fortalecimiento de redes de apoyo, específicamente para los casos de VBG.
+- Respuesta adecuada a personas en riesgo: 
+Se realizaron asesoría sobre la ruta de protección individual para líderes en riesgo y excombatientes de las FARC quienes se encuentran amenazados por su labor de defensa del territorio desde las JAC y el espacio de reincorporación. Así también, se realizó un apoyo en CASH para líder en riesgo para reubicación temporal fuera de la zona de riesgo hacia casco urbano. En relación a la atención psicológica, los procesos se definían conforme a la condición de cada caso, sin embargo, se hizo énfasis en el fortalecimiento de estrategias de afrontamiento y métodos de identificación de riesgos mediante hábitos y prácticas de autocuidado.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-11/Evaluación_de_riesgos 2-R1-1.3-5-13/Apoyo_psicosocial_(individ 2-R1-1.3-5-15/Persona_en_Riesgo_-Efectiv
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2022-11-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2022-11-25
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => No se presentan vacíos durante la respuesta dada en las comunidades atendidas, ya que la información brindada a estas durante los espacios de sensibilización permitió que las personas accedieran a los servicios de manera confiable, expresando con seguridad la necesidad existente y recibiendo la asesoría requerida. Por otra parte, se logra identificar instituciones de la zona por medio de las cuales se pueda acudir en caso de requerir apoyo directo y presencial.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => Se recomienda que el Consorcio continúe acciones de incidencia con los distintos actores institucionales y de acompañamiento con capacidades de protección para la visibilidad de las distintas violaciones de DDHH e infracciones al DIH, así como las afectaciones y necesidades específicas de las mujeres, adolescentes, niños y niñas en riesgo.  
+Continuar generando canales de comunicación segura para la remisión e identificación de casos individuales con los líderes y lideresas, agentes educativos, madres comunitarias y actores claves en el territorio.  
+Insistir en el acompañamiento institucional de los procesos de empoderamiento de capacidades de exigibilidad, mecanismos y activación de rutas para la protección y defensa de los derechos comunitarios e individuales.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.3-10-5/Entrega_de_material_educat 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-11-11
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-11-25
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => No
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => - Se realizo la entrega de 742 kits  de tiempo libre para 410 H / 332 M . En las instituciones de  Centro educativo Nueva Colombia del municipio de Vista Hermosa en Meta , Divino Niño Jesús en Puerto Alvira Mapiripán ,  La institución educativa  Jorge Eliecer Gaitán en sus 3 sedes educativas en el resguardo Caño Ovejas (Sede Olvido, Betania y Corocito ) de Mapiripán, Y El Centro Educativo Rural La Cristalina en La Macarena Meta. 										
+- Se desarrollaron talleres con sensibilizaciones para NNA, enfocadas a promover Mensajes de comportamiento seguro frente a la presencia y circulación de grupos armado en términos de prevención de la explotación sexual , identificación de VBG, Prevención del trabajo infantil en el caso de los adolescentes y con NNA se trabajaron temas sobre cuidado del cuerpo, Higiene personal , identificación de VBG, Prevención de la explotación sexual .  Además se reforzaron mensajes claves para la prevención ante riesgo por MAP MSE y TE , en particular en las comunidades de Puerto Alvira y Nueva Colombia. 										
+- Se desarrollaron 3 módulos sobre Educación en emergencias y su implementación en el país y mensajes claves para primeros auxilios emocionales, como estrategias para la recuperación de los NNA ante las emergencias con  los docentes de las 4 Instituciones educativas , como complemento se crearon 5 planes de educación en emergencias dado que la sede educativa de Puerto Alvira Agrupa dos Centros educativos uno de ellos con enfoque étnico diferencial.										
+- Se entregaron 30 kits para personal docente , y se destaca la priorización de los mismos, dado que las instituciones en general agrupan una cantidad considerable de NNA. 										
+- Se Entregaron 8 Maletas Lúdico deportivas distribuidas de la siguiente manera :                                        
+*1 Para el centro educativo  Nueva Colombia .                                                                                                        *2 Para la Institución Divino Niño Jesús una para la sede principal y otra con enfoque étnico diferencial para la comunidad indígena Sicuani De Puerto Alvira .                                                     *1 Para El Centro Educativo La Catalina de La Macarena Meta.                                                                  *3 Para la institución educativa Jorge Eliecer Gaitán en sus sedes Olvido, Corocito y Betania ubicadas en el Resguardo Caño Ovejas de Mapiripán.                                                                        
+En general las maletas fueron construidas de acuerdo a las actividades contenidas en el Plan educativo para respuesta en emergencias desarrollado con los docentes de cada comunidad.
+El sector de Shelter construyo un espacio de aprendizaje seguro que beneficia a los NNA de la sede Betania en el Resguardo Caño Ovejas .
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 3-R5-4.6-22-7b-Distribución_de_KIT_WASH_ 2-R4-4.1-16-1-Entrega_kits_agua 2-R4-4.1-16-2-Rehabilitaciones_agua 2-R4-4.2-17-3-Rehabilitaciones_saneamiento 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2022-11-11
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2022-11-25
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => No
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => - En la comunidad de Puerto Alvira se realiza la misma actividad en diferente día para la entrega de kits de agua (filtros familiares) por las complejidades que se presentaron en la evaluación rápida de necesidades, en la cual se ha presentado que hay mucha enfermedades relacionadas por la ingesta de agua en mal estado, por la posible contaminación de aguas residuales de manera del subsuelo. 										
+- En las comunidades de Nueva Colombia se realiza el mantenimiento preventivo al panel solar, he instalación de cable de mayor amperaje; por el cual el taller fue enfocado en acciones de recaudación y formas de rendición de cuentas. 										
+- En la comunidad de la Catalina se realiza, una adecuación de una batería sanitaria para el baño de las niñas del centro educativo y para el baño de niños se realiza la construcción completa de una batería sanitaria, con una ducha. 										
+- Las comunidades de Caño Ovejas, La tigra se realiza entrega de kits de higiene según la densidad familiar, en el cual se cubre el 100% de las familias, adicional a ellos se realiza un enfoque en el paquete con toallas higiénicas y elementos para niños menores de 7 año por cada uno de los núcleos encontrados. 										
+- De igual forma en todas las comunidades anteriormente expuestas se realiza el taller de buenas prácticas dejando como evidencia que las comunidades tienen un nivel de conocimiento, en el cual partimos como línea base para realizar los talleres y con cada una de las necesidades se enfoca las capsulas informativas. 										
+- Se tienen una presencia con los lideres, la guardia indígena, docentes y centros educativos, buscando el fortalecimiento en los conocimientos en temas de manejo de basuras, manejo de filtros y procesos de tratamiento domiciliario; por otra parte, se realiza incidencia con las organizaciones no gubernamentales (ONG), entidades territoriales, en el caso de las comunidades del Meta. Se reitera la importancia del fortalecimiento en los canales de comunicación entre las organizaciones, el estado y las comunidades. Por parte de las acciones para los enterramientos controlados que se realizaron, dado que las comunidades se encuentran muy próximas, algunas han solicitado que les brindemos la información correspondiente, para la elaboración de los enterramientos controlados, las cuales se han realizado asesoramientos de forma remota, sin embargo, las comunidades han manifestado poner los elementos para dichas acciones. Por lo que se puede reflejar la capacidad instalada y el interés de las acciones que se han realizado en las zonas de interés.
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2022-11-11
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2022-11-25
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => No.
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => - Las condiciones de confinamiento que viven las comunidades del departamento del Meta por la situación de conflicto armado les han dificultado acceder a bienes indispensables para subsanar necesidades básicas en alimentación, protección, salud y educación. La preocupación se extiende especialmente por las comunidades que se ubican en el rio Guayabero y el municipio de Mapiripán.
+La diversidad agroalimentaria en algunos territorios de los 3 municipios priorizados es alta, por las condiciones geográficas del territorio, sin embargo, el acceso de estos alimentos ha sido restringido por la presencia constante de GANE, las condiciones de inseguridad en el territorio, las normas de convivencia y contaminación de afluentes y suelos por producción de cultivos ilícitos.
+Las familias no cuentan con espacios de auto albergue que cumpla con los requerimientos del Manual Esfera en alojamiento, agua, saneamiento ni higiene, lo cual puede derivar en la presencia de vectores y enfermedades en los entornos alimenticios que tienen las familias y las comunidades.
+La mayoría de las familias mencionaron que durante el segundo semestre del 2022 han tenido que desarrollar estrategias de afrontamiento reducido como: pedir comida prestada o regalada a vecinos o familiares entre tres a cuatro días a la semana, comprar alimentos menos preferidos o más económicos, y en general todos los hogares han tenido que disminuir la alimentación de los adultos para priorizar la alimentación de los NNA; no mencionaron que implementaran la estrategia de pasar todo un día y una noche sin consumir algún alimento.
+La ERIN permitió identificar y priorizar las comunidades más vulnerables para dar respuesta a la crisis humanitaria. Los aspectos claves que se tuvieron en cuenta fueron: largos desplazamientos, restricciones a la movilidad, aumento de costos en los insumos de primera necesidad y demás hechos de los cuales son víctimas las familias de las comunidades de Nueva Colombia, Silencio, Tercer Milenio, Caño Cabra, Caño San José, Cabra-Limón del municipio de Vistahermosa, las comunidades de La Tigra, la Reforma y la Laguna del municipio de Puerto Rico y Las comunidades de Betania, Corocito, Balsita y Olvido del resguardo indígena Sikuani Caño ovejas en el municipio de Mapiripán."										
+- "Para el caso de la comunidad Indígena Sikuani del resguardo indígena Caño Ovejas 50% de las comunidades están conformadas por más de 100 personas por lo que se les entrego 2 paquetes comunitarios, mientras que el otro 50% estaba conformado por 100 o menos y se les entrego 1 paquete comunitario.
+De las comunidades campesinas del municipio de Puerto Rico y Vistahermosa El 60% de los hogares atendidos estaban conformados de 1 a 5 integrantes, el 30% son hogares unipersonales y el restante correspondiente al 10% estaba conformado entre 5 y 10 integrantes.
+los productos entregados en cada uno de los paquetes alimentarios tanto comunitarios como familiares tienen un enfoque nutricional, étnico y calórico requerido en situación de emergencia, cabe resaltar que como resultado de la ERN se logró identificar el gusto por el Mañoco (preparación a base de yuca) y con el cual se le está dando un enfoque diferencial al estándar, se espera subsanar las necesidades alimentarias insatisfecha por un tiempo igual o mayor a 15 días.
+La asistencia alimentaria se entregó a 4 comunidades del pueblo indígena Sikuani del municipio de Mapiripán-Meta y 9 comunidades campesinas mestizas y afro ubicadas por el rio Guayabero de los municipios de Puerto Rico y Vistahermosa.
+Para comunidad indígena Sikuani del Resguardo caño ovejas se entregaron paquetes alimentarios comunitarios de la siguiente manera, la comunidad de Betania y Olvido, recibieron cada un 2 paquete comunitario mientras las comunidades de Balsita y Corocito recibieron cada un 1 paquete comunitario.
+
+Para las comunidades campesinas pertenecientes al núcleo veredal de la Tigra del municipio de Puerto Rico y del núcleo veredal de Nueva Colombia en Vistahermosa se entregaron paquetes familiares.
+
+1.	Núcleo veredal la Tigra Puerto Rico:
+
+•	La comunidad de la Reforma se entregaron 66 paquetes alimentarios que aportaron a la seguridad alimentaria de 65 familias, es decir 134 beneficiarios.
+•	En la comunidad de la Laguna se hizo entrega de 49 paquetes alimentarios que aportan a la seguridad alimentaria de 48 familias, es decir 114 beneficiarios.
+•	En la comunidad de la Tigra se hizo la entrega de 50 paquetes alimentarios que aportaron a la seguridad alimentaria de 49 familias, es decir 93 beneficiarios. 
+
+2.	Núcleo veredal Nueva Colombia Vistahermosa:
+
+•	En la comunidad de Cabra-Limón se hizo la entrega de 30 paquetes alimentarios que aportaron a la seguridad alimentaria de 30 familias, es decir 78 beneficiarios.
+•	En la comunidad de Silencio se hizo la entrega de 40 paquetes alimentarios que aportaron a la seguridad alimentaria de 40 familias, es decir 102   beneficiarios.
+•	En la comunidad de Caño San José se hizo la entrega de 33 paquetes alimentarios que aportaron a la seguridad alimentaria de 30 familias, es decir 84 beneficiarios. 
+•	En la comunidad de Tercer Milenio se hizo la entrega de 30 paquetes alimentarios que aportaron a la seguridad alimentaria de 30 familias, es decir 95 beneficiarios. 
+•	En la comunidad de Caño Cabra se hizo la entrega de 56 paquetes alimentarios que aportaron a la seguridad alimentaria de 54 familias, es decir 116 beneficiarios. 
+•	En la comunidad de Nueva Colombia se hizo la entrega de 91 paquetes alimentarios que aportaron a la seguridad alimentaria de 88 familias, es decir 241 beneficiarios."										
+- Se levantaron 31 líneas base para los PDMs con los lideres comunitarios y personas de las comunicades con las cuales la comunicación pueda ser efectiva debido a que allí es casi nula, solo se tiene dos áreas en la comunidad donde se conectan a internet a través de pines o internet vive digital principalmente en horas de la tarde o fines de semana siendo WhatsApp el medio de comunicación más efectivo. En total se realizaron 4 PDM por las dificultades en la comunicación, se realizaron estrategias de voz, WhatsApp sin embargo no fue posible en un periodo de un mes contactar más hogares.
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.2-26-4/Asesoramiento_y_sesiones_a 3-R6-6.3-27-5/Identificación_y_asistenci 3-R6-6.4-28-6/Evacuaciones_realizadas
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2022-11-09
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2022-12-03
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => No.
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => -"Se priorizaron las comunidades de Nueva Colombia, La Tigra, Resguardo indígena Caño Ovejas y Puerto Alvira; encontrando en este último el punto de atención con mayor concurrencia. Es de resaltar que pese a la priorización realizada se contó con asistencia de pacientes provenientes de otras comunidades no incluidas en el listado final de priorización, esto, explicado desde la gran necesidad en salud de estas poblaciones. El grupo étnico mayormente atendido fue población mestiza (64.84%), seguido por población indígena (33.7%) de los cuales se identificaron comunidad Jiw y Sikuani, y población afrocolombiana/negra (1.40%). Se identificó 1 paciente con identidad u orientación sexual diversa.
+La población atendida, cuenta en su mayoría con afiliación al sistema de salud, sin embargo, enfrenta barreras para el acceso a servicios médicos primarios, principalmente dados por las distancias que deben ser recorridas hasta las cabeceras municipales sumado a la no disponibilidad de servicios de mediana y alta complejidad, por otro lado, existen barreras de acceso de orden geográfico pues la gran mayoría de las comunidades atendidas pertenecen al departamento del Meta, sin embargo, consultan y solicitan servicios complementarios a San José del Guaviare (por cercanía) donde no son atendidos de manera efectiva por tratarse de un departamento diferente. En todas las comunidades atendidas durante la misión, se encontró una necesidad significativa de acceso a métodos de anticoncepción, esto debido principalmente a las barreras geográficas y económicas secundarias que dificultan el acceso a los servicios de atención primaria en salud en cabecera municipal y a la ausencia de equipos de salud que se desplacen hacia la comunidad brindando este servicio, de forma rutinaria. Las mujeres prefieren en su mayoría métodos anticonceptivos de larga duración, principalmente implante subdérmico tanto en población mestiza como en las comunidades indígenas. Se atendieron un total de 14 pacientes gestantes, 11 de ellas con deseo de continuar su embarazo y acceder a control prenatal, una paciente con acceso a IVE farmacológico realizado por Médicos del Mundo. En cuanto a control prenatal, la mayoría de las mujeres no acceden a la cantidad de controles prenatales y los paraclínicos recomendados por la Ruta Integral de Atención en Salud de la Población Materno Perinatal, debido en su mayoría a barreras geográficas, económicas y administrativas.  Adicional a lo anterior, se observa principalmente en comunidades indígenas, el inicio de vida sexual a temprana edad, en ocasiones antes de cumplir los 14 años. Los principales diagnósticos encontrados son: Anemia, parasitosis intestinal, consejo y asesoramiento en anticoncepción, Infección aguda de vías respiratorias superiores, cefalea e hipertensión; estos diagnósticos dan cuenta de la brecha de acceso a servicios de salud, promoción y prevención, así como dificultades en el acceso a agua segura. "										
+- Se entregaron medicamentosa la mayoría de los pacientes atendidos, formulados en la consulta médica, de acuerdo al diagnóstico realizado. También se realizaron otros procedimientos de enfermería como colocación de implantes subdérmicos, curaciones, pruebas de laboratorio e inyectología, cuando eran formulados por los médicos. 										
+- Las cuatro comunidades atendidas recibieron atenciones individuales en salud mental siendo el municipio de Vistahermosa el que más atenciones en psicología recibió con un 43% (4 días), seguida de Puerto Alvira y la comunidad con menos atenciones fue el resguardo indígena de Caño Ovejas. Con estos resultados se puede identificar que, en proporción a los días de atención asignados para cada territorio, las comunidades con mayor presencia de población indígena reportaron una menor asistencia en las atenciones de salud mental. Con respecto a los diagnósticos los dos principales motivos de consulta están relacionados con signos y síntomas de ansiedad y otros problemas. A esto le sigue síntomas de TEPT, síntomas de depresión, y finalmente un pequeño porcentaje con síntomas de duelo. Al cruzar este resultado con los eventos desencadenantes, se puede identificar que en la mayor parte de las consultas se refirieron problemas económicos significativos asociados por un lado a los incumplimientos del estado frente a temas de acuerdos de paz, abandono estatal y falta de acompañamiento para el fortalecimiento de proyectos comunitarios y educativos; a la permanencia de los actores armados que restringen el accionar productivo comunitario, a un decrecimiento económico en la producción y comercialización a base de coca, y a otros factores de riesgo que generan un detrimento del bienestar integral de las comunidades entre otras. En las comunidades compartidas por colonos y comunidad indígena la convivencia viene deteriorándose por el choque cultural, no cuentan con las mismas costumbres y cultura. Es importante generar acciones promocionales para aumentar las conductas de respeto entre las 2 comunidades, ya que manifiestan que los jóvenes de las comunidades indígenas hacen el intento de abusar de las niñas de la comunidad colona de Puerto Alvira y viceversa.  										
+- Las asesorías técnicas grupales, se realizaron por petición de los lideres comunitarios, las necesidades observadas durante la E.R.N y las atenciones realizadas en las comunidades. Con respecto a la actividad sobre autoestima y proyecto de vida, enfocada en la prevención del embarazo adolescente, es importante mencionar que fue una actividad concertada por el equipo de docentes de la comunidad indígena de Caño Ovejas, para prevenir los embarazos tempranos, pues la comunidad observa que la edad de inicio gestacional está entre los 12 y 15 años, generando un impacto sobre su desarrollo pleno y psicosocial, debido a los factores determinantes en salud con que cuentan las personas. Así mismo, se realizó acompañamiento grupal a los docentes con el propósito de acompañar su labor educativa. Los docentes están expuestos a testimonio de violencia, a las dinámicas locales que a veces son conflictivas, a las distancias de familiares y amigos y a temas de tipo contractual que también aumentan el riesgo psicosocial. Se realizan talleres de violencia de género y prevención del abuso sexual ya que la población en general, y más en la comunidad de Puerto Alvira, manifiesta que hay posible aumento de trata y prostitución infantil. Este componente, fue sensible al enfoque étnico diferencial tanto en su concertación como en su ejecución para tener en consideración la acción con menos daño. 										
+- Con relación a las violencias basadas en género, se llevaron a cabo 34 consultas con enfoque en violencia basada en género. De estas treinta y cuatro, el 59% corresponde a violencias de tipo emocional, el 15% a violencia sexual (incluido el acoso) y violencia física respectivamente, y el 12% a situaciones relacionadas con violencia económica. En este punto, es importante mencionar que el 29% de las consultas en su totalidad, fue orientado a la atención de violencias basadas en género, lo que permite informar una presencia significativa de esta dinámica en la cultura. La VBG es invisibilizada, asumen y dicen que es aceptada culturalmente y aún desde lo estructural, no se identifica la importancia de modificar algunos patrones, no obstante, alrededor de la misma hay malestar significativo y una tendencia promocionada por la acción comunitaria para moderarla y prestarle más atención. Los casos que son visualizados los resuelven los comités de convivencia, los lideres y lideresas de las comunidades.										
+- En el desarrollo de la misión no se presentaron situaciones de evacuación médica de pacientes.  Se realizaron 14 remisiones al servicio de urgencias de los cuales 8 casos correspondieron a síndrome febril en estudio, malaria y sospecha de dengue, 2 casos a urgencia hipertensiva, 2 casos a diabetes mellitus descompensada, 1 caso de desnutrición aguda severa y 1 caso de traumatismo múltiple. Se realizaron 109 remisiones a los servicios de consulta externa, que incluyen seguimiento por programas de Rutas Integrales de Atención en Salud (RIAS) según Resolución 3280 de 2018 del gobierno nacional y consulta especializada, 13 remisiones a ayudas diagnósticas y 1 remisión a otra ONG.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => Se focalizó la respuesta en VBG
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => Se realizó para EiE
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => Se realizó para la comunidad
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => CICR y la Segunda Misión de Verificación de Naciones Unidas
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Se realizaron articulaciones con el CICR y la Segunda Misión de Verificación de Naciones Unidas a fin de identificar y gestionar casos individuales de personas en riesgo, NNAJ en riesgo y personas sobrevivientes o víctimas de VBG, uniendo capacidades que permitan una respuesta complementaria. 
+Adicionalmente, se realizaron reuniones con la Personería y Alcaldía Municipal de Mapiripan donde se socializaron las acciones a realizar desde cada uno de los sectores. Desde el sector de Protección, se señalaron las capacidades y actividades a realizar en la gestión de casos individuales a fin de afianzar una articulación que permitía la identificación y remisión de casos individuales para la activación de las rutas municipales, así como la articulación en la respuesta cuando el municipio no cuente con la capacidad operativa para salvaguardar la vida de la persona en riesgo.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD PARTICIPACION OTRAS
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => 1. En las comunidades indígenas Sikuani se evidenció un desempoderamiento de las autoridades y el sujeto colectivo, dado el fomento de la dependencia frente a recursos externos; durante años la institucionalidad, ha brindado a estas comunidades ayudas paliativas que han ocasionado que las comunidades y las personas, se asuman, no como sujeto de derechos, sino como solicitantes de ayuda, cayendo en el rol estereotipado de “víctima”. Esto ha ocasionado un aumento en la ruptura en la capacidad resiliente y los procesos de resistencia de las comunidades. 
+2. Las comunidades atendidas no se perciben como comunidades en contexto de emergencia, dado que las afectaciones del conflicto armado han sido prolongadas durante mucho tiempo en la región. Si bien, distinguen las distintas violaciones de DD. HH e infracciones del DIH del cual son víctimas, no se perciben en emergencia por las restricciones a la movilidad impuestas por los grupos al margen de la ley; por lo anterior, las comunidades persistían en la idea de que el Consorcio MIRE realizara un ingreso recurrente. 
+3. En la comunidad campesina de La Catalina y de Puerto Alvira, hubo dificultades en la convocatoria y asistencia de las personas a los espacios de capacitación, dado que la información brindada a los líderes y lideresas no fue socializada a tiempo con toda la comunidad.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => 1. Se realizaron reflexiones junto con los líderes y lideresas de cada comunidad, señalando el daño que ha ocasionado el posicionarse siempre en un rol de solicitantes de ayuda. Así también, al final de las atenciones, se dio una retroalimentación a los líderes y lideresas, sobre como resaltar sus capacidades como sujeto colectivo, las estrategias para recuperar el tejido social y herramientas para dar continuidad autónoma sobre los procesos de reclamación y protección de sus derechos. 
+De igual forma, se dialogó acerca de, cómo se perciben a sí mismas las comunidades respecto a un acto de ayuda humanitaria. A fin de, promover la reflexión respecto a la problemática planteada. 
+2. En los distintos espacios de intervención se recordó la razón por la cual el Consorcio MIRE estaba en la comunidad realizando las acciones en el marco de una emergencia humanitaria, razón por la cual realizaba un ingreso único en la región. Se explicó de igual forma, de manera bilateral, a los líderes y lideresas, la lógica de intervención del Consorcio MIRE y la razón por la cual se estaban realizando las actividades con la comunidad. 
+3. Dado la falta de conocimiento sobre los espacios a realizar, se modificó la agenda a fin de dar a las comunidades un día adicional para realizar la convocatoria de las personas participantes. Adicionalmente, se integraron los espacios con el sector de WASH, a fin de entregar los kits al final, asegurando que las personas primero participaran de los espacios de formación para poder recibir el kit de agua.
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Comunidades del  Resguardo muy distantes para los días de atención con los que se contaban.
+Poca o nula conectividad o señal telefónica que no facilitaba la coordinación y reconfirmación de fechas con líderes
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Coordinación con comunidades para establecer punto de encuentro cercano para el desarrollo de actividades.
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => Baja participación en actividades desarrolladas los fines de semana e información sobre las fechas del desarrollo de talleres que se distorsionó
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => Se coordinó con las comunidades el desarrollo de los espacios de manera que no afectara sus actividades indispensables los fines de semana y adaptación o reprogramación de talleres para que las comunidades difundieran la información y contar con la participación de las personas
+    [group_zj0tq00/_Cu_les_Otras] => Espacios
+    [group_zj0tq00/Dificultades_encontradas_Otras] => 1. Pocos espacios físicos para el desarrollo de las actividades/formaciones.
+2. Al momento de realizar la compra de los paquetes alimentarios el proveedor no tenía disponibilidad de Mañoco para suministrarlo en los paquetes.
+    [group_zj0tq00/Medidas_adoptadas_Otras] => 1. Adaptación de los equipos a los espacios con los que las comunidades contaban y coordinación entre facilitadores para trabajar con grupos de manera armónica en un solo espacio.								
+2. El equipo al llegar al territorio realiza una búsqueda de proveedores de Mañoco locales y establece contacto con una persona que si tiene la disponibilidad y quien suministra el mismo para poder incluirlo en los paquetes.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 0
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 0
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 0
+    [group_kq5co41/group_zo3ck85/_Cual] => .
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 1
+    [group_kq5co41/group_wc9ei25/c_Virtual_Individual] => 0
+    [group_kq5co41/group_wc9ei25/d_Virtual_Grupal] => 0
+    [group_kq5co41/group_wc9ei25/e_Telef_nica] => 1
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Yeferson Parrado
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 0
+    [group_kq5co41/group_vt2ve84/_1c_Tel_fono_2] => 0
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3112380957
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => JAC Nueva Colombia
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Mauricio
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 0
+    [group_kq5co41/group_ay3fs88/_2c_Tel_fono_2] => 0
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 31123544971
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Gobernador Resguardo Caño Ovejas
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => Juan Carlos Rodriguez
+    [group_kq5co41/group_wb3kr41/_3b_Tel_fono_1] => 0
+    [group_kq5co41/group_wb3kr41/_3c_Tel_fono_2] => 0
+    [group_kq5co41/group_wb3kr41/_3d_Celular] => 3212813252
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => Gobernador indígena Puerto Alvira
+    [group_ek1nq87/Observaciones] => .
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:84796e39-c9ad-4626-8dcb-a388db1c4000
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 84796e39-c9ad-4626-8dcb-a388db1c4000
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-03-02T19:45:54
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

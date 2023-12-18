@@ -1,0 +1,90 @@
+stdClass Object
+(
+    [_id] => 396053420
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-02-20T15:10:23.507-05:00
+    [end] => 2023-02-20T15:22:15.606-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => MAGUI
+    [group_gu1lq88/Otros_Municipios] => Roberto Payán, Barbacoas y Tumaco
+    [group_gu1lq88/Vereda] => Palo Seco y Brisas de Hamburgo en Roberto Payán
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin Información
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-02-20
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Enfrentamientos
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Entre el 8 y el 13 de enero, al menos 1.534 personas (713 familias) afrodescendientes de los municipios de Roberto Payán y Magüí Payán se desplazaron de sus territorios
+por cuenta de enfrentamientos entre Grupos Armados No Estatales (GANE) sin identificar:
+• El 8 de febrero, 563 personas (266 familias) de la vereda Palo Seco en Roberto Payán se desplazaron hacia el casco urbano del mismo municipio.
+• El 10 de febrero, 200 personas (100 familias) de las veredas Brisas de Hamburgo (Magüí Payán), Bocas de Telembí y Palo Seco (Roberto Payán) se desplazaron hacia el casco urbano del municipio de Barbacoas.
+• El 13 de febrero, 139 personas (57 familias) de la vereda Brisas de Hamburgo se desplazaron hacia el casco urbano de Roberto Payán. Otras 345 personas (163 familias) de las veredas El Pinde y Salbunde de Roberto Payán se desplazaron hacia el casco urbano de Olaya Herrera; y 287 personas (127 familias) de las veredas Gorgona, La Mina 1, 2, 3 y 4 de Roberto Payán se desplazaron hacia casco urbano del mismo municipio.
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/desplazamientos_masivos_en_magui_y_roberto_payan_y_persistencia_de_confinamiento_en_tumaco_y_barbacoas_-_narino_vf.pdf
+    [group_yv1ph08/time2] => 2023-01-13
+    [group_yv1ph08/time3] => 38
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 1399
+    [group_cn9za51/personas] => 4398
+    [group_cn9za51/comu] => 11
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde el 10 de febrero, las administraciones de Barbacoas y Roberto Payán realizaron entrega kits de aseo y de alimentos a través de ollas comunitarias a la población en los alojamientos temporales. La Alcaldía de Roberto Payán ha adaptado 4 casas familiares como alojamiento temporal para las familias en situación de desplazamiento y el municipio de Barbacoas habilitó el alojamiento municipal. Las Alcaldías de Olaya Herrera, Roberto Payán y Barbacoas iniciaron procesos de atención en salud física y psicosocial a través de los hospitales municipales y de las direcciones locales de salud.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El Equipo Local de Coordinación (ELC) Nariño continúa monitoreando la situación humanitaria con el fin de evaluar la posibilidad de brindar respuesta desde la complementariedad.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3+https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/desplazamientos_masivos_en_magui_y_roberto_payan_y_persistencia_de_confinamiento_en_tumaco_y_barbacoas_-_narino_vf.pdf+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:1846cadf-b3df-424d-9875-b077228bb9bc
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 1846cadf-b3df-424d-9875-b077228bb9bc
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-20T20:22:25
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

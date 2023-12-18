@@ -1,0 +1,592 @@
+stdClass Object
+(
+    [_id] => 481491028
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-09-19T14:59:35.561-05:00
+    [end] => 2023-09-19T16:19:58.823-05:00
+    [group_pl6la06/_1_C_digo] => BOSA-939.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-09-07
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-09-11
+    [group_pl6la06/_4_Departamento] => BOLIVAR
+    [group_pl6la06/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Vereda Altos de la Brisas y La Vega
+    [group_pl6la06/_8_Comunidad] => Palma Chica y La Vega
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento desplazamiento_masivo
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ORGANISMO_PUBLICO ORGANIZACION_ETNICO_COMUNITARIA OTRO_ORIGEN
+    [group_pl6la06/_Cu_l_001] => Comunidades afectadas y de acogida
+    [group_mb5pt53/_1a_Evaluador] => Jessica Rangel
+    [group_mb5pt53/_1b_Celular] => 3232342745
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => Zeus Vergara
+    [group_mb5pt53/_2b_Celular] => 3124111921
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_3a_Evaluador] => Keydi Pérez
+    [group_mb5pt53/_3b_Celular] => 3102538474
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-08-27
+    [group_rq63s60/_1c_Descripci_n_del_evento] => El municipio de Santa Rosa del Sur, ubicado en la Serranía de San Lucas, al sur del departamento de Bolívar, debido a su ubicación geoestratégica al limitar con los municipios del bajo cauca y nordeste antiqueño, así como su cercanía a los departamentos de Córdoba y Santander, permite ser un corredor de movilidad estratégico para los diferentes actores armados presentes en el territorio. Esto sumado al interés de la explotación minera por su ubicación con la serranía de San Lucas y la expansión de cultivos de uso ilícito en el territorio. 
+
+ El departamento de Bolívar ha sido una zona históricamente afectada por el conflicto armado interno, con la presencia y dominio del Ejército de Liberación Nacional – ELN y FARC-EP con los frentes 37 del Bloque Caribe y el frente 24 del Bloque Magdalena Medio. Con posterioridad a la firma del acuerdo con las FARC, se inicia una reconfiguración de los actores armados  presentes en la zona en búsqueda de ocupar el territorio dejado y cooptar las actividades económicas que se desarrollan en la zona. Esta búsqueda de control territorial y social ha ocasionado la configuración de hechos victimizantes que han generado que la población civil presente afectaciones a sus derechos humanos como a la vida, libertad e integridad.   
+
+El pasado 27 de agosto del 2023, en las veredas de Palma Chica (Santa Rosa del Sur) y La Vega (Montecristo) integrantes del grupo armado no estatal realizaron una incursión armada, en la cual intimidaron a la población, realizaron marcaciones en sus casas, la quema de banderas y otros objetos del otro grupo armado ejerce control en estas veredas. En su ingreso a la vereda de Palma Chica realizaron retención a personas que llegaban de trabajar en las minas, situación que se prolongó por varias horas, para la cual se tuvo que recurrir a los diferentes liderazgos comunitarios para interceder y dialogar con la finalidad de que los dejaran continuar hacia sus viviendas. En cuanto a la vereda La Vega, se presenta la retención de una persona de la comunidad la cual hasta el momento no se tiene información de su situación. 
+
+El GANE restringió el uso de la red de comunicaciones (Wifi) por más de tres días en ambas veredas, así como el ingreso y salida de las personas de la comunidad. El ingreso de este actor armado a la zona, desencadeno que para el 30 de agosto del 2023 en la vereda La Vega, se desarrollara un enfrentamiento entre las AGC y ELN, que dejo a la comunidad en medio de las confrontaciones que se prolongaron por más cuatro horas, dejando afectaciones en algunas estructuras de la comunidad (centro religioso, viviendas).  
+
+Este evento genero el confinamiento de la vereda La Vega, ya que desde el día 27 por orden del GANE no se permite el ejercicio libre de sus actividades como salir a trabajar o incluso abastecer a la comunidad con elementos de primera necesidad, de igual manera posterior al enfrentamiento y a la salida de los actores de la vereda, aun no se ha normalizado su cotidianidad debido al riesgo de la presencia de artefactos explosivos MAP y  la contaminación por MSE, que generan miedo y limitan la libre movilidad en la vereda.  
+
+  
+El 31 de agosto de 2023, mediante comunicado por WhatsApp se ordenó a la población de la vereda Palma Chica salir de la comunidad en un término no mayor a una hora, lo que generando el desplazamiento forzado de esta hacia la vereda Altos de las Brisas. 
+
+Como consecuencia se reforzo el pie de fuerza militar en la zona, con el ingreso de fuerza pública a la vereda La Vega, quienes realizaron un barrido por la comunidad donde se evidencio la presencia de municiones sin explosionar - MSE por lo cual procedieron a efectuar la detonación controlada de estas.  
+
+En la vereda de Altos de las Brisas (receptora) se habilito el salón comunal para albergar a la mayoría de las familias desplazadas de Palma Chica, y algunas fueron alojadas en el salón pastoral y casas de familia. La administración municipal mediante Comité Municipal de Justicia Transicional- CMJT desarrollado el 01 de septiembre del 2023, realizo la activación de la ruta de declaración por hecho victimizante de desplazamiento forzado y confinamiento, en acuerdos quedo establecido que el censo quedaría abierto hasta el día 13 de septiembre el cual se realizara de forma remota debido a las dificultades y condiciones de seguridad en el territorio para el desplazamiento de funcionarios al presentarse el antecedente del secuestro de cinco funcionarios en el mes de julio, tomando la administración medidas restrictivas de ingreso a zonas rurales.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las veredas se encuentran organizadas administrativamente mediante Juntas de Acción Comunal – JAC, la comunidad de Palma Chica cuenta con un comité de representación de mineros, y hay representantes del consejo comunitario llamado La Ahuyama la cual está conformada por cinco veredas que permiten identificar los diferentes roles de liderazgos representativos en la comunidad.  
+
+En la comunidad de Palma Chica y en la vereda receptora de Altos de las Brisas se identifica actividades deportivas intra-veredales como campeonatos de futbol, así mismo se evidencia en la vereda de Palma Chica la participación comunitaria en la realización eventos deportivos (campeonatos de futbol), culturales o de ocio (bazares) promoviendo la recolección de recursos para la construcción de la escuela de la vereda. 
+
+Se resalta que las JAC juegan un papel importante dentro de las comunidades, siendo los referentes en la implementación de soluciones a conflictos comunitarios o intrafamiliares presentados en las veredas, al presentarse una ausencia en la presencia de instituciones que brinden acompañamiento o atención a las comunidades.  
+
+Los NNAJ de la vereda La Vega, no poseen un espacio seguro de aprendizaje, desde hace aproximadamente ocho años no cuentan con docente en la comunidad, debido a la dinámica transitoria de las familias por lo cual la escuela que había se deterioró por el desuso, en consecuencia los menores acompañan a sus padres en sus actividades de minería al no contar con un espacio seguro de protección y cuidado, en cuanto a la vereda Palma Chica esta si cuenta con docente e impartían sus clases un salón comunal, esto al estar aun en construcción la escuela por parte de la comunidad, se resalta que las actividades académicas debido a la emergencia se encuentra suspendidas. 
+
+Las veredas carecen de programas sociales dirigidos a primera infancia como Programa Materno Infantil, Hogares FAMI, Hogares Comunitarios de Bienestar, Jardines Comunitarios, así como en la vereda Palma Chica que cuenta con escuela los NNA que estudian no reciben el PAE.  
+
+En el desarrollo de la ERN la comunidad desplazada exterioriza la receptividad, aceptabilidad y cohesión con la comunidad de acogida.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => En la ERN se identificaron los siguientes hallazgos, permitiendo determinar las características propias de la población, encontrando lo siguiente: la población de las veredas se auto reconocen como campesinas, sin embargo, hay una fuerte presencia de población afrodescendiente y aproximadamente 6 migrantes de nacionalidad venezolana. 
+
+En cuanto a la composición poblacional, es evidente una alta presencia de hombres, donde algunos conforman hogares monoparentales ya que han llegado a las veredas solos a trabajar en las minas. Así mismo, hay presencia de niños y niñas, sobre todo en el albergue de Altos de Las Brisas, aunque algunos padres, madres y/o cuidadores refieren que varios menores de edad fueron enviados desde hace algún tiempo con familiares a estudiar al casco urbano de Santa Rosa e incluso a departamentos aledaños a Córdoba, tales como Antioquia y Bucaramanga.  
+
+En lo relacionado con el enfoque etario, se identificaron niños y niñas de la primera infancia con afectaciones fuertes a nivel emocional; así mismo, adultos mayores con problemáticas en salud y movilidad, para los cuales se hace necesario una atención adecuada a su comprensión y problemas de movilidad. Los tratamientos en relación a las enfermedades que éstos padecen han sido cubiertos con recursos propios, sin embargo, no es evidente la realización de controles médicos frente a los diagnósticos o enfermedades que estos refieren debido a los costos elevados en el transporte para salir al casco urbano del municipio de Santa Rosa o hacia otros departamentos aledaños donde mencionan que también pueden ser atendidos. 
+
+Se identificaron 6 madres gestantes las cuales no permanecían en el albergue debido a que estaban cumpliendo citas para sus controles prenatales y dos de ellas estaban en semana de parto, donde toman la decisión de salir con un mes de antelación para no tener complicaciones con temas de salud que en caso de encontrarse en comunidad no pueden suplir. 
+
+Se identificaron 9 casos de madres lactantes con necesidades especiales en lo relacionado con la alimentación y atención en salud prioritaria. Así mismo, se evidenció que los esquemas de vacunación de los niños y niñas no se encuentran al día, debido a los altos costos de transporte para acceder a centros de salud de la cabecera municipal y ante la ausencia de brigadas o promotores de salud en dichas comunidades. 
+
+Se han identificado liderazgos significativos en las mujeres, representados en cargos que se les delegan en las Juntas de Acción Comunal o en tareas y ejercicios desde lo colectivo y comunitario que involucran la toma de decisiones, donde se promueve el desarrollo de comportamientos con equidad de género; sin embargo, al revisar temas relacionados con salud sexual y reproductiva existen conductas de micromachismo que dejan entrever el desconocimiento ante el control prenatal en la comunidad. 
+
+Se identificaron 4 personas con discapacidad física (Restricción de la movilidad) y un presunto caso de discapacidad cognitiva según lo referido por la cuidadora, donde es necesario que la respuesta en el marco de la atención y ejercicios de sensibilización contemple un plan de ajustes razonables y pertinente que posibilite los temas de accesibilidad a servicios contemplados en el marco de una atención de emergencia con carácter humanitario. 
+
+Por último, es importante propiciar la participación de diferentes grupos como mujeres, jóvenes, adultos mayores en los espacios de formación e información con la finalidad de visibilizar sus necesidades particulares y generar estrategias metodológicas y didácticas pertinentes ajustadas a las características de la población.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Santa Rosa del Sur, se caracteriza por ser un municipio que basa su economía en la agricultura, ganadería y minería, siendo esta última la principal fuente de ingreso económico en las zonas rurales, lo cual lo hace un atractivo para los actores armados en la implementación y ejercicio de economías ilícitas relacionadas con el cultivo, distribución, comercialización de cultivos de uso ilícito, así como actividades sexuales al ser zonas dispersas y con poca presencia institucional. 
+
+En relación con las comunidades afectadas expresaron que la mayoría de los núcleos familiares ejercen sus labores en la minería artesanal las cuales se realizan de lunes a jueves y los demás días se realiza actividades de agricultura en sus mismas parcelas con sus cultivos de pancoger o en jornal en las fincas vecinas.  
+
+Debido a las dinámicas del conflicto reciente, especialmente en la comunidad confinada las familias se han visto afectadas en el acceso a fuentes económicas que les permita subsanar sus necesidades primarias debido a las restricciones a su movilidad que imposibilitan la realización de sus actividades económicas en la minería, de igual manera se ha visto limitado el acceso a sus cultivos debido al posible riesgo de presencia de artefactos explosivos como MAP en la zona.  
+
+En cuanto a las familias desplazadas, exteriorizan que no han podido ejercer actividades económicas que les permitan cubrir con sus necesidades básicas, asimismo expresan que la asistencia recibida por parte de la institucionalidad no ha sido suficiente para la emergencia.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El municipio de Santa Rosa del Sur, ubicado al sur del departamento de Bolívar, se encuentra ubicado en la cordillera central, con una expansión territorial de 2.800 km2 y una altura de 650 metros sobre el nivel del mar. Limita al con los municipios de Morales, Simití, San Pablo, Montecristo y el departamento de Antioquia.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => El municipio cuenta con servicios públicos (electricidad, acueducto, alcantarillado) hay cobertura de redes móviles e internet, sucursales de entidades bancarias Bancolombia, Servibanca, puntos físicos Efecty, en cuanto al comercio, hay supermercados, tiendas de cadena como D1.  
+
+En relación a las comunidades hay acceso a Electricidad, el suministro de agua es por quebrada y no es constante, el agua no es tratada, no hay cobertura de redes móviles, hay venta de pines para acceder a wifi costo de 2.500 media hora, en la vereda hay aproximadamente 4 tiendas y 3 restaurantes. Los costos en la zona son elevados
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => El municipio de Santa Rosa del Sur, perteneciente al departamento del Bolívar, su geografía se caracteriza por estar en la cordillera central, mayoritariamente su zona es montañosa, con afluencia hídrica y con explotación minerales como el oro, su clima es templado – cálido, lo cual facilita la producción de cultivos agrícolas destinados para el consumo diario de las familias como maíz, plátano, yuca, ahuyama y algunas hortalizas.   
+
+En relación al manejo de residuos sólidos en la vereda confinada cada familia utiliza el método de quema de estos y en la vereda receptora los residuos son depositados en un vertedero comunitario a las afueras de la comunidad, se evidencia que en ambas comunidades se desconoce el sistema de tratamiento de residuos sólidos aprovechables, lo que ocasiona que estos elementos estén dispersos en la comunidad generando la proliferación de vectores como mosquitos, moscas, insectos y roedores.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/Riesgos_para_respuesta] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE AEREO
+    [group_fm93i53/logistica] => Transporte: 
+
+El ingreso se realiza, por vía aérea desde Bogotá hacia Bucaramanga, posteriormente el traslado es terrestre por carretera desde Bucaramanga hacia Puerto Wilches, en este sector se toma un ferry (paso fluvial por el rio Magdalena) hasta sector Canta Gallo, seguidamente se da continuidad al trayecto terrestre hasta la cabecera municipal de Santa Rosa del Sur, el tiempo aproximado de todo el recorrido es de 7 horas. 
+
+Para ingresar a las comunidades se requiere de camioneta Toyota Land Cruiser 4.5 al ser una vía destapada con paso en sectores de quebradas y ríos, la ruta es Santa Rosa del Sur- Corregimiento Carmelo- Veredas Sinaí- San Juan del Rio Grande- La Pastusa- Cachaza y Altos de las Brisas el tiempo del recorrido es un aproximado de 8 horas, para llegar a La Vega es un tiempo aproximado de dos horas desde Altos de las Brisas 
+
+Aéreo:   
+
+Bogotá - Bucaramanga (1hora) oferta de aerolíneas Easyfly, Latam y Avianca  
+
+Alojamientos: 
+
+Casco urbano Santa Rosa del Sur: Al ser una zona de abastecimiento a las veredas mineras, cuenta con alta oferta de hoteles que oscilan entre los 50.000 hasta 70.000 en zona céntrica, se sugiere reservar con anticipación pues al ser una zona minera la disponibilidad de habitaciones es reducida.  
+
+Comunidad Altos de las Brisas: Cuenta con dos residencias, las cuales no cumplen con las condiciones mínimas de seguridad, la JAC está gestionando para pernotar en una casa familiar exclusiva para el equipo móvil durante la atención.
+    [group_fm93i53/seguridad] => En el contexto de la emergencia, en el territorio existe presencia de diferentes GANEs que buscan el control de la zona, situación que generó la incursión armada en las veredas afectadas por uno de estos actores armados y ocasionó el enfrentamiento producto de la emergencia, originando el confinamiento y desplazamiento forzado de dos veredas, es relevante mencionar que posterior a la confrontación armada se dio la presencia de fuerza pública (Ejercito) en la comunidad confinada.  
+
+Dentro de los riesgos y acciones de seguridad se encuentran los siguientes:  
+
+En las veredas La Vega y Palma Chica se evidencia marcaciones de AGC (Móvil 10) mientras en la Vereda receptora Altos de las Brisas hay bandera del ELN.  
+
+Ingreso de actor armado y citación de a las comunidades para informar su permanencia y normas 
+
+Presencia de fuerza pública (Ejercito) en la comunidad La Vega. En información con la Alcaldía comentan que en consejo de seguridad del 12 de septiembre ejercito manifestó esta semana llegar a Palma Chica.  
+
+Presencia de GANE en la carreta que comunica a las diferentes veredas.  
+
+Hay cinco peajes comunitarios en todo el trayecto veredal iniciando el primero en vereda Los Canelos y el ultimo en la vereda Cachasa.  
+
+Hay dos residencias en la vereda receptora las cuales son utilizadas por parejas y quedan al lado de establecimientos de consumo de alcohol, no contando con las condiciones óptimas de seguridad.  
+
+Restricción de movilidad de 6:00 p.m a 6:00 a.m 
+
+Riesgo de presencia de artefactos explosivos en la comunidad de la vega (MAP y MSE)
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 163
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 306
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 2
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 3
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-09-10
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => Censo BOSA 7 de septiembre (1)-15_23_12.xlsx
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 306
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => En el marco de la emergencia humanitaria que se configura por afectación múltiple, donde se presenta un desplazamiento masivo de 103  familias de la vereda Palma Chica a Altos de las Brisas y a la vez se configura el confinamiento de la comunidad de La Vega (58 familias); ambas veredas pertenecientes jurisdiccionalmente al municipio de Montecristo, pero que son atendidas administrativamente por la Alcaldía de Santa Rosa del Sur– Bolívar, situación desencadenada por la incursión armada de las Autodefensa Gaitanitas de Colombia AGC a estas dos veredas el día 27 de agosto en zona territorial del ELN generando enfrentamientos entre estos dos GANEs en la vereda La Vega, obligando a esta comunidad a permanecer en el territorio (utilizándolos como escudo humano y provocando su confinamiento), mientras que a la vereda de Palma Chica, estos actores armados dieron una hora a la población para salir de la vereda.   
+
+Se identificaron como hechos individuales las amenazas y señalamientos directos a líderes (as) de la comunidad y miembros de las JAC, imposición de horarios y restricciones a la movilidad y una persona de la vereda de La Vega fue retenida por un grupo armado donde a la fecha no se tiene conocimiento de su paradero. Lo anterior, ha sido utilizado como mecanismo de coacción y control de las comunidades limitando su movilidad y el acceso a zonas específicas. 
+
+Adicionalmente el riesgo de vinculación, uso y utilización de NNA por parte de los GANE aunque si bien no es verbalizado por las comunidades, se puede interpretar que la poca presencia de esta población en las comunidades y la constante de enviar a los NNA a otros municipios y departamentos aledaños es una forma de salvaguardar y generar estrategias de autoprotección para los mismos. 
+
+Además, existe el riesgo de violencia física, psicológica, amenazas e intimidación que lleva a que las mujeres y los NN tengan  miedo constante, incertidumbre y afectación emocional, no solo porque dichos riesgos se derivan de la presencia de grupos armados, sino que las  consecuencias del confinamiento  y las dinámicas del desplazamiento y ubicación en albergue aumentan los riesgos de violencia intrafamiliar, ya que factores como  la escases de alimentos, las  restricciones de movilidad, la pérdida del libre desarrollo de actividades económicas, lleva a que se torne un ambiente de tensión y estrés que se puede manifestar a través de este tipo de problemáticas a nivel interno en la comunidad. 
+
+Si bien la presencia de mujeres es inferior a la de los hombres en cada una de las comunidades afectadas, falta visibilizar un poco más, el rol de ésta en escenarios donde se vincule su participación familiar y comunitaria, ya que solo se visibilizan en cargos relacionados con la JAC. De acuerdo a los ejercicios dialógicos realizados con la comunidad, la desigualdad en hombres y mujeres es marcada, ya que es el hombre quien toma las decisiones en el hogar, incluyendo las relacionadas con la salud sexual y reproductiva en cuanto a la planificación familiar de la mujer, la carga exclusiva de las labores domésticas es de la mujer y los procesos de crianza y cuidado de los NNA también es un rol que se le atañe a ésta, por lo cual, se puede interpretar que tanto el hogar como el contexto comunitarios no se configura un escenario protector y seguro para las niñas y las mujeres. 
+
+Las medidas de confinamiento en el caso de la Vega y el desplazamiento masivo en  relación a las personas de la vereda Palma Chica y nula presencia de la institucionalidad con brigadas de salud, se han convertido en una barrera que impide el goce efectivo del derecho de las mujeres a los servicios en salud, planificación familiar, y dificultad  en el acceso a los artículos de higiene personal y menstrual, ya que, aunque a veces pueden obtenerlos cada vez es más frecuente el desabastecimiento de estos elementos.  
+
+Se evidencia desconocimiento en mujeres y niñas reconocer estrategias que garanticen la prevención, atención y protección cuando se es víctima de VBG y VIF, donde se hace necesario socializar las rutas de atención y los derechos de las víctimas de VBG Y VIF, a fin de acceder a las mismas y promover escenarios donde no se naturalicen prácticas que afecten la integridad y dignidad de estos grupos poblacionales. 
+
+La comunidad en general (NNAJ, mujeres, hombres, adultos mayores) posterior al evento y presentan dificultades para conciliar el sueño, estrés, miedo excesivo, angustia, temor, zozobra, incertidumbre, algunos exteriorizan su sentir en el llanto, donde al a fecha no han tenido acceso a servicios de salud mental. Así mismo, existe una afectación emocional en familiares directos de la persona secuestrada debido al temor por su paradero e integridad física. No se cuentan con estratégicas colectivas de gestión de estas situaciones lo que dificulta su adecuado manejo que permita superar las afectaciones emocionales causadas por el miedo y el temor.  
+
+Como estrategia de auto protección, se identificó la unión de las comunidades afectadas en momento de crisis, el apoyo de la comunidad de acogida en el caso de Altos de las Brisas, la identificación de redes de apoyo donde algunas personas que facilitaron sus espacios para que las persona lograran auto albergarse en veredas y municipios aledaños. 
+
+Si bien, se configura el confinamiento (Vereda La Vega) y el desplazamiento forzado (Palma Chica) por la presencia de los actores armados, el conocimiento de instalación de artefactos explosivos en las veredas afectadas, la limitación al acceso de bienes y servicios esenciales, aún se está en la revisión de los censos a fin de generar las condiciones para la declaración de las familias frente a estos hechos victimizantes ante la  UARIV, cabe aclarar que este proceso se tornó un poco lento debido a que está restringido el ingreso de funcionarios de la institucionalidad en la zona y este ejercicio censal lo hicieron directamente los líderes comunitarios 
+
+Se evidencia el desconocimiento de las rutas de atención tanto en caso individuales y masivos, así como el temor de activar rutas de atención por la repercusión que esto podría representar para las familias que lo hagan, este temor es desde el desconocimiento de las garantías de protección y seguridad que tienen las rutas para la atención de población víctima. No existen tampoco medidas colectivas de protección ante los riesgos en el marco del conflicto armado
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => Se presenta una incursión armada en la vereda La Vega y Palma Chica, realizan marcaciones, quemas e imposición de normas.
+
+Se configura un Confinamiento por enfrentamientos entre dos actores armados en la vereda La Vega (Montecristo) y una restricción a la movilidad en sus alrededores.
+
+Se presencia un desplazamiento forzado de la comunidad Palma Chica hacia Altos de las Brisas debido a enfrentamientos de dos grupos armados en la vereda La Vega
+
+Se identificaron como hechos individuales las amenazas y señalamientos directos a líderes de la comunidad y  miembros de las JAC.
+
+Una persona de la vereda de La Vega  fue retenida por un grupo armado y a la fecha no se tiene conocimiento de su paradero.
+Se evidencia la imposición de horarios y restricciones a la movilidad.
+
+Las mujeres y hombres no han podido salir a sus parcelas y tampoco han logrado laborar debido a riesgos de contexto de conflicto armado tales como contaminación por MAP-MSE y TSE donde se han identificado dos casos.
+
+Existen casos de familias que han enviado los NNA al  casco urbano con el fin de minimizar los riesgos relacionados con el conflicto armado.
+
+Se han presentado casos de VBG al interior de las familias y se evidencia el desconocimiento en rutas de atención.
+
+Se evidencia la necesidad de orientación en la activación de protocolos en situaciones victimizantes como amenas e intimidaciones.
+
+Desconocimiento de rutas generales de acceso a derechos.
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => Seguimiento al proceso de declaración y valoración de los hechos victimizantes masivos producto de la emergencia. 
+
+Espacios de fortalecimiento en acceso a derechos como victimizas, rutas de atención y mecanismos de exigibilidad de derechos
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => ¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección? 
+
+Se identifica casos de lideres en situación de amenaza, casos individuales donde persiste afectaciones a nivel emocional debido a los eventos presenciados y y perfiles de personas con necesidades especiales como adultos mayores, personas con discapacidad, población migrante y personas con enfermedades de base
+
+¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)?
+
+Se identifican afectaciones colectivas por confinamiento, desplazamiento masivo y restricciones a la movilidad, así como riesgos individuales de desplazamientos familiares hacia la cabecera municipal, se presentan personas amenazadas e intimidadas por su rol de liderazgo representativo en la comunidad, se tiene conocimiento de una persona secuestrada y existe riesgos de accidentes por MAP y MSE en las veredas afectadas
+
+Preocupa la poca presencia de adolescentes tanto en el albergue como en la vereda donde hay confinamiento, presumiendo que esto obedece a riesgos asociados a la presencia del actor armado y el uso, utilización y vinculación de NNAJ.
+
+¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo?
+
+La comunidad en general (NNAJ, mujeres, hombres, adultos mayores) posterior al evento, presentan dificultades para conciliar el sueño, estrés, angustia, temor, zozobra, incertidumbre, algunos exteriorizan su sentir en el llanto, donde al a fecha no han tenido acceso a servicios de salud mental.
+
+Existe una afectación emocional en familiares directos de la persona secuestrada debido al temor por su paradero e integridad física.
+
+¿El hecho victimizante ha sido visibilizado con la institucionalidad? 
+
+El Confinamiento y desplazamiento ha sido visibilizado por parte de la institucionalidad  quien a la  fecha en el marco del CMJT ha formalizado y brindado una atención parcial en la fase de  inmediatez. Es importante mencionar que  la recepción de censos está abierta hasta el 13 de septiembre el cual ha sido un proceso lento debido a que los funcionarios de la Alcaldía no acceden a las veredas debido al secuestro de 5 funcionarios en el mes de julio, cuyo ejercicio lo vienen desarrollando directamente los líderes comunitarios de las veredas afectadas.
+El día de hoy 13 de septiembre se realizó un CMJT  extraordinario a fin de generar las condiciones para la declaración de las familias frente a estos hechos victimizantes ante la  UARIV.
+
+¿Tienen conocimiento las comunidades sobre normatividad de víctima? 
+
+En el dialogo realizado con las comunidades exteriorizan que no poseen claridades sobre las rutas de atención para casos de afectaciones individuales y masivas. Asimismo, ni la alcaldía ni la personería municipal han realizado espacios informativos y de orientación sobre el acceso a derechos contemplados en la normatividad por su condición de víctimas. 
+
+¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención?
+
+Si se evidencia que la ruta de activación no ha sido implementada de forma presencial en las veredas afectadas debido a la restricción que tienen los funcionarios públicos para ingresar al lugar, generando dilatación en la respuesta a la emergencia 
+
+¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? 
+
+Si, los lideres y lideresas no tienen conocimiento sobre la normatividad de víctima, rutas de protección, ni mecanismos de exigibilidad de derechos.
+    [group_aa8xg30/group_lg2ro37/Shelter] => En el análisis realizado desde el sector de Alojamiento e infraestructura, los principales hallazgos identificados son:   
+
+Un total de 105 familias afectadas por el desplazamiento forzado de la vereda de Palma Chica buscaron refugio en la vereda Altos de Las Brisas. La comunidad receptora destinó tres espacios comunitarios para albergar temporalmente a estas familias. El primero de estos espacios es un salón comunal que también funciona como escuela de aproximadamente 100 m2, donde se encuentra la mayoría de las personas alojadas (aproximadamente 70% de la población). El segundo espacio es un salón pastoral con un área de 50 m2, donde un 10% de la población afectada se encuentra, y las demás familias que corresponde al 20% fueron acogidas en casas de familia de la comunidad. 
+
+Las infraestructuras comunitarias destinadas como alojamientos temporales sus paredes son en material de madera, sus techos en zinc, algunos espacios son piso en tierra y cemento. Mediante la observación directa se evidencia que gran proporción de madera se encuentra deteriorada, las láminas de zinc presentan goteras. El salón comunal no posee espacios diferenciados ni que garanticen la privacidad, en relación con los espacios comunes cuenta solo con un baño (1 letrina) sin ducha y sin puerta, manifiestan que sus necesidades fisiológicas e higiene personal lo realizan en casa de la comunidad de acogida, el albergue cuenta con una cocina colectiva que está en el mismo espacio de habitación la cual no se encuentra en óptimas condiciones, es un espacio expuesto e improvisado, presenta limitantes en recipientes necesarios para la preparación de alimentos, así como su cocción es de forma mixta (leña y gas) y la dificultad en el acceso a agua al contar con solo un tanque de 500 Lt destinados para el uso del baño y cocina, situación que promueven un impacto negativo en la higiene y riesgos en la salud y bienestar de la comunidad albergada.  
+
+En el análisis con las familias desplazadas manifiestan que solo lograron salir con pocas pertenencias (ropa). En el salón comunal solo cuentan con 9 colchonetas y 2 hamacas (prestadas por la comunidad receptora) para las personas alojadas ahí, las cuales son priorizadas solo para los NNAJ, durmiendo los demás en el piso, adicionalmente refieren no contar con colchoneta, frazadas, toldillos y elementos suficientes de menaje.  
+
+Se identifica que no hay comité de convivencia, ni distribución de actividades en el albergue, por lo cual las responsabilidades en la limpieza y preparación de alimentos se realizan voluntariamente entre hombres y mujeres.  
+
+En el albergue temporal no se ha brindado un espacio seguro para el cuidado, aprendizaje y realización de actividades dirigidas y educativas a los NNA desplazados, que les brinde un sentimiento de normalidad en sus rutinas (el lugar donde se alojan tiene función de salón comunal y escuela de la comunidad receptora), a pesar de contar con un docente de la comunidad receptora. Como espacio de esparcimiento, la vereda solo cuenta con una cancha en tierra donde practican los adultos deportes. 
+
+Se evidencia el desconocimiento por parte de la institucionalidad y a nivel comunitario con relación a los estándares mínimos de alojamiento y asentamiento, esto sumado a la nula presencia institucional en la emergencia y atención de respuesta.   
+
+Respecto a la comunidad confinada, se observa y se evidencia que sus viviendas se encuentran construidas en material de madera y techo en zinc, algunas con piso en cemento y otras en tierra. En el dialogo expresan que la mayoría posee cama hechas arteramente en tabla, con colchoneta, refieren no poseer toldillo. La población no cuenta con espacios de aprendizaje, cuidado o esparcimiento para NNAJ, refieren que hay una escuela que por el no uso se deterioró.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => En la comunidad desplazada de Palma Chica el 70% de las familias estuvieron alojadas en dos espacios temporales destinados por la comunidad receptora y un 30% se auto albergó en casas de la comunidad de acogida
+
+El alojamiento transitorio no cuenta con infraestructura adecuada al presentar las siguientes afectaciones: 
+
+- Infraestructura en material de madera, techo de láminas de zinc, presenta goteras y alguna madera deteriorada.
+- El lugar principal de alojamiento transitorio tenía su función de salón comunal y escuela de la comunidad de acogida
+- El alojamiento cuenta con un solo espacio colectivo para dormida sin condiciones de privacidad.
+- En el mismo salón de habitación colectiva se encuentra la cocina improvisada la cual no cuenta con condiciones adecuadas para la preparación de alimentos.
+- El espacio solo cuenta con un baño (sin puerta) y no hay ducha
+La comunidad de La Vega confinada no registra necesidades de alojamiento.
+
+La población no tiene conocimientos básicos del sector shelter para  garantizar un albergue en condiciones seguras.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Se recomienda el apoyo técnico para la institucionalidad y comunitario en relación a los estándares mínimos de alojamiento seguros y saludable durante las emergencias.
+
+Rehabilitación de espacio comunitario donde funciona el albergue.
+
+Habilitación de espacio comunitario para la preparación de alimentos.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿La mayoría de las familias y/o personas tienen donde albergarse >50%?. SI
+
+¿La mayoría de las familias y/o personas tienen donde albergarse en condiciones seguras >50%?  SI..
+
+¿Las familias cuentan con los elementos adecuados de hábitat que promuevan seguridad >50%? NO.
+
+¿La institucionalidad y población desconoce sobre temas relacionados con el sector de Alojamiento y Asentamiento?  SI.
+
+¿Los espacios educativos presenta hacinamiento agudizado por la emergencia, Si /No? NO.
+
+¿Existen espacios educativos para la atención de NNAJ durante la emergencia, Si/No? NO.
+
+¿Se cuenta con el apoyo y coordinación de autoridades locales para el seguimiento y desarrollo de espacios educativos en la emergencia, Si/No? NO.
+    [group_aa8xg30/group_fv0ct51/Agua] => AGUA SEGURA:  
+
+En la vereda Altos de las Brisas la principal fuente de abastecimiento de agua es la quebrada cercana a 30 min caminando, que por medio de motobombas y el sistema de conexión de mangueras llega a las casas de toda la comunidad, por consiguiente, el suministro de agua en el albergue (Altos de las brisas) es mediante gravedad por los tanques de almacenamiento de cada familia del sistema. Se resalta que en el alojamiento temporal el agua es almacenada en un tanque de 500 lts, el cual no suficiente para el 70% personas de la emergencia alojadas en el espacio, teniendo en cuenta que esta agua debe ser distribuida para el consumo, preparación de los alimentos y aseo del baño.  
+
+Teniendo en cuenta la poca capacidad de almacenamiento de agua en el alojamiento, las familias han recurrido a la realización de lavado de ropa, aseo personal y necesidades fisiológicas en las casas de la comunidad vecinas. La comunidad resalta que en la vereda el suministro de agua no es constante y el abastecimiento de agua se va dando en la medida que se requiera según el consumo, todos los días.  
+
+Respecto a la vereda confinada (La Vega) el abastecimiento de agua es a través de una quebrada a 30 min de la comunidad, la cual por medio de manguera llega directo a las casas, la mayoría no posee elementos para su almacenamiento (tanques), por lo que es constante el suministro de la misma, manifiestan tener agua de manera constante todo el año y no recurrir a otros medios de obtención de agua. Se evidencia la falta de estrategias o alternativas para cuando el sistema de suministro de agua colapse, ya sea por fuertes lluvias o contaminación de las fuentes generado por los GANE de la zona.  
+
+Las comunidades desplazadas y confinada, refieren en relación al agua que su color es claro, no presentando sedimentación o turbidez, no identifican sabor u olor extraño. Las comunidades manifiestan que no hay sistema de acueducto comunitario, al agua no se le realiza ningún tratamiento para su consumo y muy pocas familias indican dejar asentar/sedimentar el agua para luego consumirla, únicamente lo realizan cuando se presentan épocas de lluvia cuando la turbidez del agua aumenta. La población manifiesta desconocer los pasos o proceso básicos para el tratamiento del agua, utilización de filtros y la importancia de hacerlo, a fin de disminuir riesgos en su salud y bienestar, con un enfoque familiar.  
+
+La población desplazada manifiesta que posterior a su llegada algunos NNAJ han presentado afectaciones en su salud física, especialmente con enfermedades gastrointestinales, refieren que pueda estar relacionada al agua que consumen que han sido tratado en la comunidad de manera tradicional. No cuentan con puesto de salud y promotor de salud en la comunidad.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => SANEAMIENTO:  
+
+La vereda La Vega exterioriza que aproximadamente el 50% de las familias cuentan con solución de letrinas hidráulica conectadas con pozo en terreno natural con tapa, el otro porcentaje de la población realiza sus necesidades fisiológicas a campo abierto.  
+
+El lugar de albergue de las familias desplazadas (salón comunal) solo posee una letrina funcional, conectada con pozo con pozo en terreno natural con tapa, el cual hasta el momento se encuentra en buen funcionamiento, sin embargo, esto genera riesgos por la falta de espacios privados y seguros para las prácticas de higiene de las mujeres. Se evidencia la capacidad de unidades sanitarias en el alojamiento se encuentra desbordada para el 70% de personas alojadas, recurriendo las personas como alternativa utilizar la de las casas de familia. Se resalta que el espacio no posee duchas, no cuenta con lugar para lavado de ropa, ni sistema destinado para el lavado y desagüe de la cocina.  
+
+El manejo de las basuras en la comunidad confinada es mediante la quema, mientras en el albergue presenta un sistema de recolección comunitario en un vertedero de residuos retirado de la comunidad. Se evidencia presencia de vectores (Mosquitos, Zancudos, insectos –cucarachas), según información institucional hay alto riesgo de casos de dengue y malaria en la zona.
+    [group_aa8xg30/group_fv0ct51/Higiene] => HIGIENE: 
+
+La población desplazada de la comunidad Palma Chica ha recibido algunos elementos de higiene de forma comunitaria enviados por la alcaldía los cuales no son suficientes para la cantidad de personas alojadas, manifiestan que debido a su situación de desplazamiento no poseen recursos económicos que les permita comprar estos artículos. 
+
+La comunidad confinada de la Vega no ha recibido asistencia en elementos de higiene, informan que debido al confinamiento, se dio desabastecimiento de elementos básicos de higiene, ya que permanecieron más de 10 días sin ingreso de la línea (transporte) que permitiera abastecerlos, de igual manera debido a las restricciones persistentes, los riesgos de presencia de artefactos explosivos en la vereda no han podido ejercer sus actividades laborales lo que genera que no posean recursos que les permita la compra de estos artículos. Especialmente las mujeres carecen de elementos para su cuidado e higiene.  
+
+Las comunidades manifestaron en promedio realizar el lavado de manos con poca regularidad de una o dos veces al día y solo con agua, resaltaron algunos momentos claves como previos de las comidas, cuando van al baño o cuando cocinan. Se evidencia poca importancia por parte de la población en promoción e implementación de las buenas prácticas de higiene y el lavado de manos. Unas de las principales barreras que se evidencian en esta temática es la falta de insumos indispensables como jabón y el acceso a agua.    
+
+En relación con la manipulación y preparación de alimentos se evidencia que se realiza de forma inadecuada, el espacio no cuenta con una cocina en adecuadas condiciones, no tiene un espacio destinado para el lavado y almacenaje de alimentos, ni de los elementos para su preparación.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => AGUA
+El suministro de agua  de la vereda La Vega es mediante quebrada que llega a las casas a través de mangueras donde el sistema funciona por gravedad, la mayoría no cuenta con elementos para su almacenamiento debido a que el suministro es constante. 
+
+El suministro de agua en el albergue (Altos de las brisas) es mediante quebrada que llega a las casas a través de mangueras, el sistema funciona por motobomba, el lugar cuenta con un tanque de 500 Lt para almacenar, el cual es insuficiente. 
+
+Ambas comunidades no realizan tratamiento al agua que consumen y desconoce las técnicas de tratamiento de agua. 
+La comunidad desplazada informa aumento de menores con enfermedades estomacales posterior a su llegada y que posiblemente sea por el agua. 
+
+SANEAMIENTO
+
+La comunidad confinada refiere que el 50% de las familias cuenta con letrinas en sus viviendas, las demás realizan sus necesidades fisiológicas al aire libre
+
+En el albergue solo hay una letrina funcional, no cuenta con ducha y no posee puerta 
+
+ El sistema de letrinas está conectada a un pozo séptico artesanal, los cuales están en buen funcionamiento.
+
+ El manejo de las basuras en la comunidad confinada es mediante la quema, mientras en el albergue presenta un sistema de recolección comunitario en un vertedero de residuos retirado de la comunidad 
+
+Se evidencia presencia de vectores (Mosquitos, Zancudos, insectos –cucarachas), según información institucional hay alto riesgo de casos de dengue y malaria.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Fortalecimiento en temas de WASH (acceso a agua segura- buenas prácticas de higiene)
+
+Entrega de filtros  para potabilizar el agua.
+
+Adecuar espacios para bañarse y revisar la habilitación de más puntos para la recolección de agua
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => 100% de la población que NO usa agua segura.
+ 
+80% de la población que NO tiene acceso a jabón para realizar los procesos de higiene.
+
+La infraestructura del albergue no cumple con los estándares esfera.
+    [group_aa8xg30/group_jn0nm53/san] => Las comunidades afectadas, incluyendo La Vega y Palma Chica, experimentan condiciones de acceso a alimentos similares en este momento, enfrentaron desafíos debido a la restricción impuesta por un GANE, lo que resultó en el desabastecimiento de alimentos, afectación a sus medios de vida y un cambio en sus patrones de consumo. 
+
+Las actividades de subsistencia de estas familias están relacionadas con la agricultura especialmente para el autoconsumo, cultivando productos como plátano, yuca, maíz ahuyama, muy poco de estos productos están destinados al comercio, sin embargo, es una posibilidad de ingreso para algunas familias. También se evidencia que tienen cría de pollos, estos también para el consumo familiar. Estas actividades se vieron afectadas bajo el escenario de confinamiento y de desplazamiento, puesto que no poder moverse, abandonar el territorio y la presunción de presencia de artefactos explosivos o quedar en medio del fuego cruzado, imposibilita poder cosechar, cuidar sus cultivos y animales, lo que afecta directamente el consumo y la posibilidad de intercambio de alimentos.  
+
+La actividad principal para la generación de ingresos de estas familias está relacionada con la extracción de oro de forma tecnificada y de forma artesanal (baraquear) siendo esta más predominante, actividad a la que se dedican principalmente los hombres y en las que las mujeres tienen un rol más relacionado a la preparación de alimentos, cuidado y dinámicas relacionadas con el trabajo y la explotación sexual. Es importante señalar que al trabajo de la minería los adolescentes son vinculados fuertemente. Esta actividad estuvo detenida, lo que impacto en la generación de ingresos de las familias tanto para acceder a su canasta básica, como para poder enviar los apoyos a las familias que tienen en la distancia.  
+
+A esta situación se suma que durante y después de las restricciones para moverse, el comercio local de estas veredas, compuesto por 3 tiendas, cerró y luego se desabasteció por el no tránsito de comercio en la zona, luego de 10 días, se reabasteció y aunque se trató de mantener los precios, el poder adquisitivo no estaba.  
+
+Como estrategias de afrontamiento entorno al consumo de alimentos, se evidencia que la comunidad desplazada duro 8 días viviendo del apoyo de la comunidad de acogida, reduciendo el número de porciones, de comidas, con poca variabilidad. Así mismo, la preparación de alimentos la realizaban de forma comunitaria en un albergue manejando dos tiempos de comida. A los 8 días recibieron un apoyo de alimentos no perecederos de la institucionalidad aproximadamente para 5 días. La comunidad desplazada a la fecha no ha podido recibir atención, esto ha llevado a una reducción del consumo diario de alimentos una dieta basada principalmente en harinas. 
+
+Se han identificado nueve casos de madres lactantes que no están recibiendo una alimentación adecuada en su estado. Todas las mujeres embarazadas abandonaron la zona en los primeros días para realizar controles de salud y evitar riesgos para su salud y la de sus bebés. 
+
+Con lo anteriormente reseñado, recomendamos la entrega de paquetes alimentarios a estas familias, que apoyen inmediatamente el acceso a alimentos y así mismo a sus ingresos. Esto acompañado, de mensajes de sensibilización sobre comportamientos seguros frente al riesgo de artefactos explosivos, esto especialmente en los desplazamientos para el desarrollo de sus medios de vida.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => Las comunidades dependen económicamente de la minería, actividad que desarrollan desde adultos a menores de edad.
+Desde el inicio de la emergencia, la comunidad de Palma Chica no ha podido trabajar ni en el barequeo, ni en el cuidado de sus cultivos de pancoger y en La Vega, existe temor debido a la presencia de artefactos explosivos, mermando así, su capacidad de valerse de sus cultivos para autosustento.
+
+Debido a la restricción de movilidad durante la primera semana luego del desplazamiento, se dio un desabastecimiento en las tiendas al no poder ingresar productos, las cuales son su principal fuente para comprar comida, en promedio hay de 3 a 4 tiendas por comunidad. 
+
+Tanto en La Vega como en el albergue, las comunidades han reducido significativamente el consumo de proteínas y derivados lácteos en sus dietas y han pasado de 3 comidas diarias a tan solo dos basadas en harinas(arroz, palmita). En el albergue preparan diariamente ollas comunitarias y contaban con alimentos para máximo tres días más.
+
+Se identificaron 9 casos de madres lactantes entre las comunidades de La Vega y Palma Chica, las cuales no cuentan con una alimentación adecuada en estos momentos para su condición
+
+Debido a los elevados costos del gas y su baja capacidad adquisitiva en estos momentos, están cocinando con leña sus alimentos.
+
+Los principales cultivos de pangoger que tienen son la yuca, ahuyama, maíz, plátano, ñame. Cultivan muy poco vegetales y esos tienen un valor muy costoso en las tiendas, por lo que en sus dietas no incluyen mucho las verduras. 
+
+Suelen realizar compras en las tiendas de manera diaria, Muy pocas veces traen o encargan alimentos de Santa Rosa del Sur, debido a lo costoso de los pasajes y el pago del transporte.
+Algunos padres han enviado a sus hijos a donde familiares en otros lugares ante el temor por la situación de orden publico y la falta de alimentos para sostenerlos.
+
+Docentes y Comunidad sin herramientas de afrontamiento. Necesidad de formación en educación en emergencias a Docentes y AEC. Necesidad de Formación a Cuidadores ante el riesgo de confinamiento  para actividades en casa con los NNAJ.  
+
+A pesar de la emergencia, el precio de los productos en las tiendas no se han incrementado.
+
+Debido a la reducción de los alimentos, se puede presentar desnutrición.
+
+El ingreso promedio semanal por el trabajo en las minas es de aproximadamente 120 mil pesos, suelen trabajar 4 días a la semana en la mina y 3 días dedicarlo al cuidado de sus cultivos. Mercan de acuerdo a como les va económicamente pues no es un ingreso fijo.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => 1.    Entrega de paquetes alimentos a la comunidad desplazada en el albergue de Altos de las brisas y en La Vega, para complementar su alimentación y consumo de proteínas.
+2.    Fomentar el consumo de una alimentación más balanceada, pues sus hábitos alimenticios no son equilibrados.
+3.    Aunque por el momento no se han presentado inconvenientes para los turnos de cocina en el albergue, se recomienda se de una mejor planeación y organización d ellos mismos para prevenir inconvenientes a futuro.
+Motivar la creación de huertas caseras para mejorar el consumo de vegetales para variar y mejorar su dieta.
+Fomentar que se realice la compra de alimentos de manera semanal o mensual en grupo, para reducir el costo de los mismos y poder solicitarlos desde Santa Rosa del Sur, ya que la compra diaria incrementa su valor y reduce su capacidad adquisitiva
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => .
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Salud física: 
+
+Antecedentes de atención en salud física 
+
+En el casco urbano del municipio de Santa Rosa del Sur se encuentra el hospital de primer nivel Manuel Elkin Patarroyo, el cual realizó una jornada de vacunación de COVID en la vereda La Vega en el 2002 y en mayo del 2023 estuvo en Palma Chica realizando una jornada de salud donde se prestaron servicios a la comunidad de medicina general, vacunación, citología y odontología. Cabe precisar, que en el marco de la emergencia por desplazamiento y confinamiento que se viene presentando, la institucionalidad no ha dado respuesta al evento en temas de salud física. 
+
+Debido a que las veredas de Palma Chica y La Vega se encuentran en zonas rurales dispersas a más de 6 horas de la cabecera municipal, se logra identificar una dificultad geográfica para el ingreso a las comunidades generando que las brigadas de salud no se realicen periódicamente, ni que las poblaciones acudan al hospital para controles o consultas de urgencia ante los altos costos del transporte para el traslado al casco urbano.  
+
+Por otra parte, hay una brecha para la atención en salud en la zona, la cual está relacionada con la restricción de los funcionarios de la Administración Municipal para acceder a dichas veredas, ante el secuestro de 5 funcionarios de dicha instancia, lo cual hace que los programas existentes no se oferten afectando el acceso de la población en el marco de los derechos de salud. 
+
+Antecedentes de salud en salud sexual y reproductiva 
+
+En relación a la salud sexual y reproductiva, las mujeres utilizan métodos de planificación familiar que son adquiridos por sus propios medios, donde los más utilizados son ACOs e inyectables. Algunas mujeres usan implante subdérmico y no existe ninguna limitación a nivel cultural para el uso de métodos anticonceptivos. Es importante mencionar, que los hombres no utilizan medios de planificación familiar, donde se puede deducir que delegan esta responsabilidad en las mujeres. 
+
+Patologías que comprometen la vida 
+
+Se reportan casos de enfermedad diarreica aguda (EDA) principalmente en población infantil desplazada de Palma Chica que se encuentra albergada en Altos de Las Brisas, las cuales están asociadas a condiciones de agua sin potabilizar; sin embargo, los casos no han revestido gravedad y no se han presentado mortalidades por estas causas. 
+
+Las enfermedades de base que se lograron identificar son: hipertensión, diabetes y enfermedades urinarias (asociado al trabajo en las minas), donde las personas que las padecen compran sus medicamentos de forma independiente. Así mismo, hay presencia de dengue  y leshmaniasis, desde antes de la emergencia y a la fecha. 
+
+Capacidad de atención territorial: 
+
+Hospitales o centros de salud locales 
+
+En el municipio de Santa Rosa del Sur cuenta con un Hospital de Primer Nivel llamado Manuel Elkin Patarroyo con la prestación de los siguientes servicios: medicina general, odontología, vacunación, Rayos X, ecografía, citología, crecimiento y desarrollo, urgencias y medicina extramural.  
+
+Es importante mencionar, que hay un centro de Misión Médica en la vereda de Los Canelos a aproximadamente 4 horas de las veredas afectadas por la emergencia, donde no se cuenta con atención y tampoco hay presencia de promotores de salud.  
+
+Promotores de salud 
+
+Las comunidades manifiestan que no se cuenta con promotores de salud en la zona y tampoco hay oferta de procesos de formación para personas que deseen desarrollar este ejercicio. Así mismo, en las comunidades no se cuenta con parteras o médicos tradicionales a los cuales se pueda acudir a fin de mitigar cualquier situación desde la salud física y emocional que ponga en riesgo la vida y el bienestar de las personas. 
+
+Manejo de residuos hospitalarios 
+
+La secretaria de Salud manifiesta que cuentan con convenio para la recolección y manejo de residuos biológicos, quirúrgicos y hospitalarios, en caso de atención por parte del consorcio informan que pueden realizar la recolección y manejo de residuos siempre y cuando sean almacenados en bolsas rojas y embaladas.  
+
+Mujeres gestantes y planificación familiar: 
+
+Altos de Las Brisas: 6 mujeres lactantes y 5 gestantes 
+
+La Vega: 1 mujer lactante. 
+
+Es importante mencionar que los NN no cuentan con esquemas de vacunación al día, debido a que los costos de transporte al casco urbano son elevados y refieren no contar con el recurso para realizar el ejercicio. De igual manera, las madres gestantes no se encuentran en el albergue en la comunidad de acogida, son en la cabecera municipal debido a que se encontraban en controles prenatales y 2 a la espera del parto. 
+
+La comunidad manifestó que el uso de métodos anticonceptivos más común son los ACOs e inyectables y en segundo lugar, el implante subdérmico; sin embargo, dichos métodos son adquiridos con recursos propios. Hay un interés en las mujeres por planificar, mientras que los hombres no refieren ningún tipo de método, lo cual puede estar asociado al imaginario de que es función de la mujer los temas de fertilidad. 
+
+Vacunación: 
+
+Los esquemas de vacunación de los NN no se encuentran al día, debido a los altos costos en transporte para salir de la vereda hacia el casco urbano del Municipio de Santo Rosa del Sur, Lo anterior pone en riesgo la vida e integridad de la población infantil.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Indicadores de Salud Pública 
+
+Antecedentes de atención en salud mental: 
+
+Las comunidades expresaron que presentan insomnio, rumiación de pensamientos, tristeza y síntomas asociados a ansiedad a raíz de los hechos victimizantes y el confinamiento. En este sentido, la situación de salud emocional está marcada por un temor debido a enfrentamientos e intimidaciones por parte del GANE hacia la población. 
+
+Se resalta el caso de un señor que debido a la crisis emocional que le generó la amenaza e intimidación por el actor armado, sufrió un preinfarto en el marco del desplazamiento en el camino de Palma Chica hacia la vereda de Altos de Brisas, donde se compromete tanto la salud física como mental; esta persona aún se encuentra hospitalizada en el Municipio del Bagre en el departamento de Antioquia debido a que allí cuenta con red de apoyo para el acompañamiento. 
+
+A pesar de las situaciones que se mencionaron anteriormente, las población desplazada y los confinados no tienen acceso a servicios de salud mental por parte del Hospital Manuel Elkin Patarroyo (ESE), donde es evidente la importancia de generar espacios para que las personas puedan hacer descarga emocional, debido al temor generalizado que causan los hechos vividos y las afectaciones a nivel individual y colectivo que esto conlleva, las cuales al no ser tratadas de manera oportuna y pertinente pueden afectar de manera determinante la salud emocional impidiendo en la población estados de bienestar psicosocial y el normal desarrollo de actividades cotidianas.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => En el dialogo realizado con las comunidades no referencian ni verbalizan casos de VBG, aunque se logra evidenciar desconocimiento en mujeres y niñas reconocer estrategias que garanticen la prevención, atención y protección cuando se es víctima de VBG y VIF, donde se hace necesario socializar las rutas de atención y los derechos de las víctimas de VBG Y VIF, a fin de acceder a las mismas y promover escenarios donde no se naturalicen prácticas que afecten la integridad y dignidad de estos grupos poblacionales.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Hallazgos salud física 
+
+ No existe acceso a servicios de salud por tratarse de una zona rural dispersa del municipio de Santa Rosa y de Montecristo, donde la cabecera se encuentra a  6 horas.
+No es clara la cobertura en el sistema de salud por las dificultades administrativas para la atención.
+A la fecha  la institucionalidad  no ha dado respuesta al evento  en temas de salud física y mental, donde es importante mencionar que las comunidades de la Vega  y Palma Chica  no han recibido jornadas de salud a la fecha.
+No se evidencia oferta de servicios de ONGs o  de organizaciones de Naciones Unidas que puedan dar respuesta a necesidades de salud presentada en la población.
+Se reportan casos de EDA principalmente en población infantil desplazada de Palma Chica que se encuentran albergados en Altos de Las Brisas asociado a condiciones de agua  sin potabilizar; sin embargo, los casos no han revestido gravedad y no se han presentado mortalidades por estas causas.
+La comunidad refiere casos de dengue y leshmaniasis, desde antes de la emergencia y a la fecha.
+Las  comunidades afectadas no cuentan con promotores de salud en la zona, ni refieren la presencia de médicos tradicionales.
+Se reportan personas con enfermedades crónicas identificadas,  las cuales no reciben el tratamiento oportuno.
+ Se identifican  4 personas con discapacidad física (Movilidad reducida y un presunto caso diagnóstico de discapacidad cognitiva leve por referencia de cuidadora)
+Según lo indagado durante la evaluación la mayoría de las personas se encuentran afiliadas en el Régimen subsidiado.
+En relación a la salud sexual y reproductiva las mujeres utilizan métodos de planificación familiar por sus propios medios, los más utilizados son ACOs e inyectables. Los hombres no utilizan medios de planificación familiar. Algunas mujeres usan implante subdérmico y no existe ninguna limitación para el uso de métodos anticoncpetivos.
+Se identifican aproximadamente 9 casos de madres lactantes las cuales mencionaron que debido a los costos elevados de transporte no tienen esquemas de  vacunación de los NN  al día.
+*Las enfermedades de base que se lograron identificar son: hipertensión, diabetes, enfermedades urinarias (asociado al trabajo en las minas).
+*En  el casco urbano del Municipio de Santa Rosa existe el hospital de Primer Nivel Manuel Elkin Patarroyo.
+
+Hallazgos salud mental
+
+No hay acceso a servicios de salud mental y se requiere espacios donde las personas puedan hacer descarga emocional debido a los hechos vividos.
+Hay una percepción consiente de la salud mental como estado de bienestar.
+La comunidad menciona que cuando presentan situaciones tensionantes acuden a sus vecinos para hablar de la situación de estrés que pueden estar atravesando, siendo este un medio de escucha y de exteriorización de emociones.
+La mitad de las personas de las comunidades expresaron que presentan insomnio, rumiación de pensamientos, tristeza y síntomas asociados a ansiedad a raíz de los hechos victimizantes y el confinamiento. En este sentido la situación de salud emocional está marcada por un temor debido a enfrentamientos e intimidaciones por parte del GANE hacia la población.
+Las actividades que realiza la población en su tiempo libre es ver televisión, socializar con vecinos y jugar futbol; sin embargo, este deporte no se ha vuelto a practicar a raíz del confinamiento debido a la probabilidad de MSE  hacia los alrededores de esta.
+Existe consumo de SPA en las comunidades por parte de los adolescentes y jóvenes.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => Se evidencia afectaciones en la salud mental de las personas de las comunidades afectadas, donde es importante mencionar qué,  al realizar la atención, se beneficiarían las 306 personas afectadas directamente por la emergencia y también se vincularían alrededor de 450 personas adultas de la comunidad de acogida.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => Número de personas afectadas entre 500 y 1500? NO
+¿Hay necesidad expresa de atención en salud física? SI
+¿Existen situaciones en salud o complicaciones que comprometan la vida que se haya generado en el marco de la emergencia? NO
+¿Existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida? NO
+¿Hay reporte y/o aumento de Violencia Basada en Género durante el último mes? NO
+    [group_aa8xg30/group_tb5de96/EIE] => EDUCACIÓN EN EMERGENCIA 
+
+Vereda La Vega 
+
+La Emergencia por confinamiento de la vereda La Vega (Montecristo) a causa de la incursión armada por parte del GANE el 27 de agosto del 2023 y el enfrentamiento entre las AGC y ELN el 30 de agosto del 2023 que dejo a la comunidad en medio de las confrontaciones que se prolongaron por más de cuatro horas, restringió la libre movilidad y las actividades diarias como salir a trabajar o incluso abastecerse de elementos de primera necesidad, sumado a esto el riesgo de la presencia de artefactos explosivos MAP y la contaminación por MSE posterior al enfrentamiento ha generado una afectación al derecho a la educación a los NNA que residen en el territorio. 
+
+En la vereda no se cuenta con un establecimiento educativo que permita que los NNA de la comunidad puedan acceder de manera constante, desde hace aproximadamente 8 años no se cuenta con una infraestructura educativa adecuada, esta se encuentra deteriorada y sin mantenimiento, no hay docente asignado por las autoridades educativas locales de Montecristo, debido a la poca presencia y constancia de los NNA, por este motivo los cuidadores envían a los NNA a la cabecera municipal y municipios cercanos para realizar sus trayectorias educativas, desde el 27 de agosto hay interrupción del servicio educativo hasta la fecha.  
+
+Es importante mencionar que la dinámica socio económica del territorio basada principalmente en la minera, donde se identifican en su mayoría familias monoparentales (hombres que trabajen en la minería) con presencia de NNA de manera ocasional, genera riesgos de protección infantil normalizados por las comunidades, actualmente solo hay 6 NNA escolarizados,  se identifican entre 11 y 12 NNA en edad escolar por fuera del sistema educativo, los NNA menores permanecen con su cuidadores en las labores del hogar y los mayores se encuentran trabajando en la minería, cuidado de cultivos y animales con sus padres. 
+
+En la ERN los cuidadores refieren que algunos de los NNA en edad escolar son educados en casa por ellos, enseñándoles a leer y escribir, sin embargo, no se cuenta con niveles de escolaridad en la comunidad, ni agentes educativos dinamizadores, ni estrategias de afrontamiento o pedagógicas, el riesgo de protección infantil es muy alto, por negligencia ante el derecho a la educación de NNA y el trabajo infantil normalizado en la comunidad. 
+
+En lo que respecta a las afectaciones por el conflicto armado se identifica temor por parte de los cuidadores ante la presencia de los GANEs en el territorio y el incremento del riesgo de uso, utilización y vinculación de los adolescentes y jóvenes con estrategias de oferta de remuneración para hacer parte de los actores armados. Se identifica el riesgo de presencia de artefactos explosivos como MAP, MSE y TE en su territorio, la comunidad refiere situaciones de riesgo que se presentan frente al encuentro de un joven de un artefacto explosivo y jugar con dicho artefacto, no se presentó el accidente y el artefacto fue denotado de manera controlado por el ejército. Esto hace evidente la necesidad de formación de la comunidad en comportamientos seguros y educación en riesgo de minas para toda la comunidad. 
+
+La afectación socio emocional identificada en los NNA, cuidadores y comunidad en general, requieren de un proceso de acompañamiento socioemocional que permita contar con herramientas de afrontamiento emocional durante la emergencia. 
+
+  
+
+Vereda Palma Chica  
+
+En la Vereda Palma Chica (Santa rosa del Sur) el GANE ingreso el 27 de agosto del 2023, con acciones de intimidaron a la población, marcación a las casas, quema de banderas y otros objetos del otro grupo armado que ejerce control en estas veredas, se realizó retención a personas que llegaban de trabajar en las minas, desde el día siguiente se interrumpió el servicio educativo durante dos semanas consecutivas, el día 31 de agosto de 2023, mediante comunicado por WhatsApp se ordenó a la población de la vereda Palma Chica salir de la comunidad en un término no mayor a una hora, lo que generó el desplazamiento forzado de esta hacia la vereda Altos de las Brisas.  
+
+La vereda Palma cuenta con una sede educativa que pertenece a la Institución Educativa Los Canelos actualmente con 16 estudiantes en SIMAT a corte de agosto y una docente que no está en la vereda. El servicio educativo se encuentra interrumpido, sin embargo, lo que refiere la comunidad, es que la sede educativa no cuenta con una infraestructura segura, las clases normalmente son impartidas en el salón comunitario, no cuentan con estrategias de permanencia como el PAE, ni está dotado de mobiliario o material educativo para el desarrollo de las clases con los NNA,  sumado a esto se identifica una intermitencia en la asistencia del docente, generando esto que las trayectorias educativas no sean constantes. La docente manifiesta que hasta que no se encuentre el ambiente tranquilo en la vereda, no retornara a la sede educativa, que se siente muy afectada y el riesgo del desplazamiento hacia la vereda le genera temor y no ha logrado tramitar esta afectación. 
+
+Los Cuidadores, niños, niñas y adolescentes se encuentran afectados emocionalmente por los eventos sucedidos, siendo esta la causa del desplazamiento, refieren preocupación al retornar a su vereda por el incremento de riesgo de uso, utilización y vinculación de los NNA por parte de los Actores Armados, es de resaltar, que la oferta educativa en la vereda es solo de 0 a 5 de primaria y que en su mayoría los NNA no finalizan sus trayectorias educativas hasta secundaria y esto genera un incremento en los riesgos de protección infantil al iniciar a trabajar en las economías desde muy temprana edad y el riesgo de la vinculación en el conflicto armado. Dentro de las afectaciones identificadas por la comunidad están: la dificultad para dormir, episodios de llanto, angustia y, además, no cuentan con herramientas de afrontamiento emocional ni para ellos y los NNA, requiriéndose una intervención para la recuperación emocional ante la emergencia. 
+
+En la ERN se identificó el riesgo de presencia de artefactos explosivos (MAP, MSE y TE) y la contaminación del territorio posterior al fuego cruzado de los enfrentamientos de los GANES por la disputa territorial, no se ha realizado ningún ejercicio por parte de la institucionalidad o alguna entidad no gubernamental en la limpieza de estas MSE en el territorio. 
+
+ 
+
+Vereda Alto de las Brisas  
+
+En esta vereda funciona la sede Alto de las brisas de la IE Buenavista, con 35 estudiantes según matricula, de 0 a 5 de primaria. Debido a lo sucedido en las veredas aledañas, muchos padres han optado por no enviar a sus hijos a estudiar, ya que algunos deben recorrer desde otra vereda llamada El Roble, hasta 30 minutos y aunque no se han interrumpido las clases, la asistencia ha bajado alrededor de 8 estudiantes diarios, el docente ha intentado enviar actividades por internet, pero ante las restricciones de parte de uno de los grupos en la utilización de este servicio, no ha funcionado. No cuentan con una sede propia y las clases son impartidas en el salón comunal en el centro del poblado, construcción en madera, amplio con buena entrada de aire e iluminación natural, se evidencia escases de material de apoyo pedagógico y mobiliario para recibir clases, sin internet ni medios tecnológicos. Cuenta con un solo baño y un espacio para la preparación de alimentos, pero sin PAE. En estos momentos está siendo utilizado como albergue para las familias desplazadas de Palma Chica, las cuales organizan sus elementos al momento de iniciar clases al otro lado del espacio y de esta manera las actividades no se han visto interrumpidas por esa parte. 
+
+De manera general en las veredas no refieren casos de estudiantes en estado de embarazo ni lactantes. Tampoco estudiantes con discapacidad de algún tipo. 
+
+El no contar con un bachillerato cerca, es un fuerte factor de riesgo para la deserción escolar al terminar su primaria, además, los riesgos por la presencia armada, el alto costo de los pasajes para su traslado y la mala situación económica que atraviesan estas comunidades sumado a las afectaciones de desplazamiento, confinamiento y las pocas fuentes de ingreso, se convierten en un factor de riesgo para el uso, utilización y vinculación de los NNA a los GANEs, más en este momento que puede que amplíen su pie de fuerza para responder a la disputa territorial, debiéndose así brindar un mayor acompañamiento y asesoramiento desde la comunidad educativa, que genere esperanza en el futuro, recuperación emocional ante las estresantes situaciones que continúan presentándose con apoyo emocional y formación en mensajes claves de prevención de accidentes por la posible presencia de artefactos explosivos (MAP-MSE y TE).  
+
+La comunidad educativa no cuenta con herramientas de afrontamiento. Es necesaria la formación en educación en emergencias a Docentes, AEC y a Cuidadores ante el riesgo de confinamiento para actividades en casa con los NNA.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Interrupción del servicio educativo en Institución Educativa Canelos, sede Palma Chica, con una matrícula de 16 NNA desde el evento el día 27 de agosto de 2023.
+
+En el alojamiento a pesar de dar clases allí la comunidad receptora, los estudiantes de Palma Chica, no participan.
+
+La institución Educativa Buena Vista, sede educativa Alto de las Brisas, que hace parte de la comunidad receptora: Los NNA no asisten a clases, el docente dicta clase y refiere una asistencia de 8 NN, aunque la matricula hay un reporte  de 35 NN. Los NN residen en veredas distantes, los Cuidadores sienten temor de enviar los NN por el riesgo de enfrentamientos armados.
+
+Los NN están afectados emocionalmente, se asustan ante ruidos fuertes y han tenido una disminución de los periodos de sueño. 
+Incremento del riesgo de los niños, niñas y adolescentes en el uso, utilización y vinculación por el GANE.
+
+En la comunidad de La Vega, no hay sede educativa desde hace 8 años, por lo que entre 11 y 12 NNA que están en edad escolar, no reciben educación y se dedican a trabajar junto con los padres, un alto riesgo de protección y no garantía al derecho a la educación. Los pocos que logran estudiar la primaria en otra vereda, no pueden continuar sus estudios ante la falta de recursos de sus representantes. La cantidad de NN no es suficiente para la apertura de una sede educativa. 
+
+En La Vega, un niño se encontró un artefacto explosivo y estuvo al parecer manipulándolo, no sucedió un accidente y fue detonado de manera controlada por el Ejercito que se encuentra en la vereda. Hay presencia de un riesgo alto de accidentes con MAP, MSE y TE en todo el territorio.
+
+Los NNA no cuentan con material pedagógico suficiente para realizar actividades de repaso y en las sedes se evidencia una falta de material educativo y mobiliario adecuado.
+
+El docente de Altos de las Brisas, manifiesta enviar guías por WhatsApp a sus alumnos para debido a la restricción del servicio de parte de los GANE, no han podido utilizar esta metodología. 
+
+Santa Rosa y Altos de las brisas tiene oferta educativa de 0 a 5 primaria, la oferta de segundaria esta en la cabecera municipal y en la vereda Canelos que están a 2 y 5 horas respectivamente, generando que no se finalicen las trayectorias educativas, por el incremento de costos que esto generan en las familias.
+
+Las sedes educativas no cuentan con plan de gestión de riesgo escolar o plan de emergencia.
+
+Docentes y Comunidad sin herramientas de afrontamiento. Necesidad de formación en educación en emergencias a Docentes y AEC. Necesidad de Formación a Cuidadores ante el riesgo de confinamiento  para actividades en casa con los NNAJ.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => Fortalecimiento en herramientas de afrontamiento y EeE a docentes y AEC. 
+Sensibilización en comportamientos seguros con NNAJ, Docentes y AEC
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => .    Hay Presencia de Ataque a la Escuela de la comunidad (Acampamiento de Actores armados Legales e ilegales en la escuela y/o Camino a ella, Uso y utilización de la escuela por los actores armados, Fuego cruzado, Presencia de Artefactos explosivos en la escuela, alrededor y camino hacia ella, uso, utilización y vinculación por parte de los Actores amados de estudiantes y docentes).  SI. 
+2.    Suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia. SI.
+3.    Se identifica afectación en niños, niñas y adolescentes ante la presencia 1 ó + riesgos de protección durante la emergencia: (1) deserción y abandono escolar de los niños, niñas y adolescentes por el conflicto armado, (2) Incremento de los riesgos de uso, utilización y vinculación de los niños, niñas y adolescentes, (4) Afectación Psicosocial de los niños, niñas y adolescentes durante y después de la emergencia, (5) incidentes y/o Accidentes por artefactos explosivos (MAP-MSE-TE) en la escuela, alrededor o camino a ella.  SI 
+4.    Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. NO.
+5.    La escuela cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO.
+6.    La Institución Educativa cuenta con Plan de Gestión de riesgo escolar y la ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.
+    [group_aa8xg30/group_tb5de96_001/TM] => Durante el diálogo con las familias afectadas, se destacó que antes de la emergencia, su principal fuente de abastecimiento de alimentos provenía de la línea de transporte que conectaba la cabecera municipal de Santa Rosa del Sur con las tiendas locales en las comunidades. 
+
+La observación directa reveló que, en la comunidad de La Vega, el comercio es limitado, con solo dos tiendas de tamaño mediano que no estaban abastecidas debido al confinamiento y la restricción de la línea de transporte durante aproximadamente 10 días. Esto generó un desabastecimiento total en la vereda, resultando en la incapacidad de satisfacer las necesidades básicas de alimentación de sus habitantes. 
+
+En cuanto al comercio en la comunidad receptora de Altos de las Brisas, se observó que cuentan con cuatro tiendas de tamaño mediano, abastecidas semanalmente desde Santa Rosa del Sur. Sin embargo, estas tiendas no tienen la capacidad de cubrir la demanda tanto de la comunidad receptora como de las familias desplazadas. Durante los acontecimientos, el transporte diario para el abastecimiento también se vio interrumpido. 
+
+La mayoría de las familias en ambas comunidades solían comprar alimentos a diario, con muy pocas realizando compras semanales. Normalmente, las tiendas están abiertas todos los días, aunque durante la emergencia, han adoptado horarios específicos. 
+
+Es importante señalar que en estas veredas no existen proveedores ni canales financieros como Efecty, Supergiros, Daviplata u otros. El punto más cercano de acceso a estos servicios se encuentra en la cabecera municipal de Santa Rosa del Sur. 
+
+Aunque Santa Rosa del Sur, en su área urbana, ofrece una amplia gama de bienes y servicios, incluyendo supermercados bien abastecidos y sucursales de proveedores financieros como Efecty con capacidad operativa para implementar un Programa de Transferencias Monetarias, el análisis de mercado, los riesgos y las observaciones indican que, en el contexto de esta emergencia, las comunidades enfrentarían dificultades considerables para implementar esta modalidad. Entre los obstáculos se encuentran las restricciones de movilidad debido al confinamiento, así como la limitación de movilidad para las familias desplazadas entre las 6:00 p.m. y las 6:00 a.m., lo que implicaría pernoctar. Además, se enfrentan a trayectos extensos de 10 y 8 horas desde las veredas afectadas hacia el casco urbano de Santa Rosa del Sur, con costos de transporte elevados (aproximadamente 300.000 pesos). Este traslado implica superar una carretera sin pavimentar, cruzar quebradas y ríos en ciertos tramos, y se suma a la alta presencia de grupos armados no estatales en el camino, lo que aumenta el riesgo para las familias durante su desplazamiento. 
+
+Dadas estas consideraciones y las condiciones particulares de las comunidades afectadas, se concluye que, en estos dos escenarios, no existen las condiciones necesarias para implementar la respuesta a través de transferencias monetarias en esta emergencia.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => El comercio en la comunidad de La Vega es limitado solo hay dos tiendas, en cuanto al comercio en Altos de las Brisas comunidad receptora su comercio tiene más oferta, cuenta con cuatro tiendas las cuales son abastecidas cada semana. 
+En ambas veredas no hay puntos físicos ni canales financieros (efecty, supergiros) el punto más cercano es la cabecera municipal. 
+Si bien el mercado en la cabecera municipal S.R.S no presenta restricciones hay oferta y abastecimiento constante, las comunidades refieren la dificultad de traslado hacia la cabecera municipal debido a restricciones en su movilidad, los trayectos extensos de 10 y 8 horas, los altos costos de transporte (300.000 aprox.) no es factible  su traslado.
+
+Los mercados en la vereda han sufrido desabastecimiento, debido a la restricción de entrada y salida de transporte por más de 10 días, cuando estas se abastecían semanalmente, además el centro poblado con mayor oferta queda a 10 horas aprox..
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Se recomienda activación de TM a las 4 familias desplazadas de la emergencia que llegaron a cabecera municipal y no aplicar la TM a las demás familias debido a los riesgos expuestos anteriormente (
+Las restricciones de movilidad hacia la cabecera municipal
+Los altos costos de traslado, así como los tiempos extensos hasta la cabecera municipal)
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 50
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 5
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 1
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 1
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 5
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_ys9jk69/_0_Personas_que_participaron_e] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Marisol Ferreira
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3184313959
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Secretaria de Gobierno
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Fernando
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3178326231
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Lider JAC Palma Chica
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones: 
+Se realizara seguimiento a la emergencia
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:3315e4e6-e380-4adb-81a9-f339d3270786
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 3315e4e6-e380-4adb-81a9-f339d3270786
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3315e4e6-e380-4adb-81a9-f339d3270786%2FCenso_BOSA_7_de_septiembre_1-15_23_12.xlsx
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3315e4e6-e380-4adb-81a9-f339d3270786%2FCenso_BOSA_7_de_septiembre_1-15_23_12.xlsx
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3315e4e6-e380-4adb-81a9-f339d3270786%2FCenso_BOSA_7_de_septiembre_1-15_23_12.xlsx
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3315e4e6-e380-4adb-81a9-f339d3270786%2FCenso_BOSA_7_de_septiembre_1-15_23_12.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/3315e4e6-e380-4adb-81a9-f339d3270786/Censo_BOSA_7_de_septiembre_1-15_23_12.xlsx
+                    [instance] => 481491028
+                    [xform] => 638464
+                    [id] => 202863612
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-19T21:20:01
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

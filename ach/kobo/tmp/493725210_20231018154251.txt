@@ -1,0 +1,100 @@
+stdClass Object
+(
+    [_id] => 493725210
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-10-18T11:29:18.084-05:00
+    [end] => 2023-10-18T15:42:48.067-05:00
+    [group_kp1mu41/_1_C_digo] => CAAR-935.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-10-18
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-09-20
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-09-26
+    [group_kp1mu41/_4_Departamento] => CAUCA
+    [group_kp1mu41/CAUCA] => ARGELIA
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Casco urbano y Corregimiento El Plateado
+    [group_kp1mu41/num_comunidades] => 2
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => ALGUNA
+    [group_kp1mu41/_8_Comunidad] => Argelia Casco urbano, Corregimiento El Plateado
+    [group_kp1mu41/Urbano_Rural] => urbano_rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Sebastián Ramírez Roldán
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Médicos_del_Mundo_MDM
+    [group_qd4az23/_1d_Celular] => 3118412929
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R6_Salud
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.2-26-4/Asesoramiento_y_sesiones_a 3-R6-6.3-27-5/Identificación_y_asistenci 3-R6-6.4-28-6/Evacuaciones_realizadas 3-R6-6.4-28-7/Atención_realizada_a_las_e
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-09-20
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-09-26
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => 1. Se recibe información por parte de la secretaria de salud municipal de Argelia que hay desabastecimiento de medicamentos por parte de la EPS Asmetsalud en Argelia y El Plateado, la cual se encuentra en proceso de intervención por irregularidades en su operación, esta situación fue corroborada durante las atenciones en terreno. 
+2. En el corregimiento de El Plateado, el centro de salud cuenta con un médico que no abastece la demanda de un corregimiento de aproximadamente 15000 habitantes 
+3. No hay atención en salud sexual y reproductiva.
+4. Las afectaciones en salud mental son muy agudas por la experiencia de guerra y reexposición continua a la misma. 
+5. Los centros de salud carecen de personal para atención psicológica.
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => 1. Coordinación con organizaciones humanitarias del departamento para favorecer la garantía de acceso a derechos y la ampliación del espacio humanitario.
+2. Exponer la situación derivada del desabastecimiento de medicamentos a las entidades correspondiente. Solicitar y tramitar todo lo que se derive en negación al acceso a la salud como derecho fundamental. 
+3. Gestionar ofertas de servicios en salud mental. 
+4. Generar respuestas frente al abastecimiento de alimentos, agua segura, elementos de higiene y medidas de protección dado el vínculo que tienen frente a la mejoría de situaciones en salud.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Se atendieron 162 pacientes, de los cuales fue relevante:  6 controles prenatales, 30 consultas de planificación familiar, 1 de violencia física, 16 remisiones ambulatorias, 4 evacuaciones efectivas. 
+La hipertensión arterial fue el diagnostico más frecuente asociado a un factor de riesgo cardiovascular (falta de actividad física, hiperglicemias o intolerancia a los carbohidratos, obesidad y diabetes.)
+No se encontraron casos de desnutrición, enfermedades de transmisión vectorial o accidente ofídico.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => A 155 personas se les indico tratamiento con medicamentos, tales formulas fueron dispensadas sin contratiempos.
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Se realizaron 36 consultas individuales de salud mental, de las cuales el 100% estuvieron relacionadas con eventos del conflicto armado y la reciente emergencia.
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => Se llevaron a cabo 4 estrategias grupales bajo la modalidad de grupo terapéutico con actividades que incluyeron escucha activa, reestructuración cognitiva, promoción del monitoreo emocional, identificación de factores de afrontamiento con que cuentan, e identificación de factores de afrontamiento alternativo. Se incluyeron herramientas psicoeducativas y de fortalecimiento del tiempo libre y el fortalecimiento de la autonomía. Además, durante la atención individual médica y psicológica se brindo información amplia sobre IVE para mujeres embarazadas, VBG, víctima de artefacto explosivo de acuerdo a lo relacionado en consulta.
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Durante la atención médica y psicológica se identificaron 12 personas victimas de violencia de genero (8 violencia psicológica, 1 violencia sexual y 3 violencias físicas).
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_ICLA] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R2_Sin_respuesta_EeE] => Respuesta por parte de organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => Respuesta por parte de institucionalidad y organizaciones humanitarias de la región
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => PARTICIPACION
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => No se habla abiertamente de violencia sexual por presencia permanente de grupos armados en la zona y el consiguiente el temor que genera, ello supone un reto en la identificación de casos susceptibles de atención médica.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => Durante la  consulta  se transmite total confianza y se le explica al paciente sobre la confidencialidad de la información, de tal manera que el paciente se sienta seguro y libre de hablar sobre  alguna situación victimizante, se brindó psico-orientación con el objetivo de cerrar los ciclos que la perpetúan.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 5
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 5
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Weimar Muñoz
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3174069694
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Lider comunidad Pepinal
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Leidy Burbano
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 3166223484
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Comunidad El Peñon
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:efdcbd2a-58d3-48d5-a0c0-9e8a1b1a7b09
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => efdcbd2a-58d3-48d5-a0c0-9e8a1b1a7b09
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-10-18T20:42:50
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,60 @@
+stdClass Object
+(
+    [_id] => 442901674
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-06-21T15:36:56.427-05:00
+    [end] => 2023-06-21T16:03:26.639-05:00
+    [group_gener/departamento] => choco
+    [group_gener/municipio] => 27491_novita
+    [group_gener/Point] => -4.209465 -52.490326 0 0
+    [group_gener/Vereda_Corregimiento] => Sin Información
+    [group_gener/Comunidad] => El Tambito
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => CHNO- 188.1
+    [group_gener/Consorcio] => mire_ii
+    [group_gener/Fase] => ern
+    [group_gener/Fecha_del_Evento_001] => 2022-02-01
+    [group_gener/Hora_del_Evento] => 09:00:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => El Tambito:  En nuestra misión en Chocó comunidad El Tambito tuvimos encuentro con el actor armado AGC, estuvieron durante toda la reunión muy cerca del espacio y pendientes de la visita. Solicitaron hablar con el evaluador para preguntar si el lanchero iba con nosotros.
+    [group_gu1lq88/CATEGOR_A] => encuentro_con_ga Otras
+    [group_gu1lq88/Escriba_la_Otra] => Requerimiento
+    [group_gu1lq88/ONG_IMPLICADAS] => nrc
+    [group_gu1lq88/Autor] => Paola Garcés
+    [group_gu1lq88/Consecuencias] => ninguna
+    [group_gu1lq88/MEDIDAS_TOMADAS] => Recomendaciones específicas al equipo y desarrollo de actividades sin otra novedad. Reporte a PFS.
+    [group_gu1lq88/Seguimiento] => No Aplica
+    [group_gu1lq88/Observaciones] => No Aplica
+    [group_gu1lq88_001/Caracter] => GAO
+    [group_gu1lq88_001/GAO] => Clan del Golfo- AGC
+    [group_gu1lq88_001/Existe_otro_grupo_armado_impli] => no
+    [__version__] => vGHdLMkYdZBviR9aFxJnDY
+    [meta/instanceID] => uuid:4f72f648-81a0-4c2d-81a0-9ff7315f30cf
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => 4f72f648-81a0-4c2d-81a0-9ff7315f30cf
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => -4.209465
+            [1] => -52.490326
+        )
+
+    [_submission_time] => 2023-06-21T21:03:28
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

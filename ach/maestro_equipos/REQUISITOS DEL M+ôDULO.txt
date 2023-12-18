@@ -1,0 +1,7 @@
+Título: maestro_equipos
+
+Tablas:M_ESTACIONES,M_TIPO_ESTACIONES,M_AREAS,M_ALMACENES
+
+Vistas:V_M_ESTACIONES,V_M_TIPO_ESTACIONES
+
+Maestros:

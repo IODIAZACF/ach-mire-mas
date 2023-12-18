@@ -1,0 +1,73 @@
+<div class="toolbar">
+	<div class="toolbar-inner">
+		<div class="left"></div>
+		<div class="title">Edición de registro</div>
+		<div class="right"><a class="link sheet-close" href="#">x</a></div>
+	</div>
+</div>
+
+
+<div class="sheet-modal-inner">
+	<div class="list" style="margin: 0;" >			
+		<ul>			
+			<li class="item-inner item-content">
+				<div class="row">
+					<div id="XDESCRIPCION" class="col-100 tablet-100 negrita">&nbsp</div>
+				</div>
+			</li>
+			<li class="item-inner item-content">
+				<form class="formulario" id="f_servicios" data-tabla="X_DOCUMENTOS" data-busca="ID_D_DOCUMENTOS" data-xbusca="" data-debug="" data-funcion=""	autocomplete="off">
+					<input  data-old="" data-campo="ID_M_ALMACENES" 	data-tipo="C" 	data-prefijo="c" 	data-enviar="1"	value="" 	id="ID_M_ALMACENES" 	name="ID_M_ALMACENES" 		type="hidden"  	placeholder="" >
+					<input  data-old="" data-campo="ID_M_IMPUESTOS" 	data-tipo="C" 	data-prefijo="c" 	data-enviar="1"	value="" 	id="ID_M_IMPUESTOS" 	name="ID_M_IMPUESTOS" 		type="hidden"  	placeholder="" >
+					<input  data-old="" data-campo="ID_X_M_DOCUMENTOS" 	data-tipo="C" 	data-prefijo="c" 	data-enviar="1"	value="" 	id="ID_X_M_DOCUMENTOS" 	name="ID_X_M_DOCUMENTOS" 	type="hidden"  	placeholder="" >
+					<input  data-old=""	data-campo="ID_M_PRODUCTOS"		data-tipo="C"	data-prefijo="c"	data-enviar="1"	value=""	id="ID_M_PRODUCTOS"		name="ID_M_PRODUCTOS"		type="hidden"	placeholder="">
+					<!-- <input  data-old=""	data-campo="ID_D_PRODUCTOS"		data-tipo="C"	data-prefijo="c"	data-enviar="1"	value=""	id="ID_D_PRODUCTOS"		name="ID_D_PRODUCTOS"		type="hidden"	placeholder="">
+					<input  data-old=""	data-campo="ID_I_PROD_ALMA"		data-tipo="C"	data-prefijo="c"	data-enviar="1"	value=""	id="ID_I_PROD_ALMA"		name="ID_I_PROD_ALMA"		type="hidden"	placeholder="">
+					<input  data-old=""	data-campo="ID_D_I_PROD_ALMA"	data-tipo="C"	data-prefijo="c"	data-enviar="1"	value=""	id="ID_D_I_PROD_ALMA"	name="ID_D_I_PROD_ALMA"		type="hidden"	placeholder="">
+					 --><input  data-old=""	data-campo="PRESENTACION"		data-tipo="C"	data-prefijo="c"	data-enviar="1"	value=""	id="PRESENTACION"		name="PRESENTACION"			type="hidden"	placeholder="">
+					<input  data-old=""	data-campo="TIPO"				data-tipo="C"	data-prefijo="c"	data-enviar="1"	value="FAC"	id="TIPO"				name="TIPO"					type="hidden"	placeholder="">
+					
+					<div class="row">
+						<div class="col-33  tablet-33 derecha negrita">
+							Unidad
+						</div>
+						<div class="col-33  tablet-33 derecha negrita">
+							Cantidad
+						</div>
+						<div class="col-33  tablet-33 derecha negrita">
+							Precio
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-33 tablet-33 " style="border-radius:5px; border: solid 1px blue;">
+							<select id="UNIDAD">
+								<option value="1" selected>UNIDAD</option>
+								<option value="1000"      >MILLAR</option>
+							</select>
+						</div>
+						<div class="col-33 tablet-33 " style="border-radius:5px; border: solid 1px blue;">
+							<input  align="right" data-old="" data-campo="CANTIDAD" data-tipo="N" data-enviar="1" value="" id="CANTIDAD" name="CANTIDAD" type="text" >
+						</div>
+						<div class="col-33 tablet-33 " style="border-radius:5px; border: solid 1px blue;">
+							<input  readonly data-old="" data-campo="PRECIO"   data-tipo="N" data-enviar="1" value="" id="PRECIO" name="PRECIO" type="text" > 
+						</div>
+					</div>
+				</form>		
+			</li>
+			<li class="item-inner item-content">
+				<div class="row" style="width:100%;">
+					<div class="col-33">
+						<button class="button button-fill color-green" data-funcion="t_f_servicios" data-opcion="f12">Aceptar</button>
+					</div>
+					<div class="col-33">
+						<button class="button button-fill color-blue " data-funcion="t_f_servicios" data-opcion="esc" >Cancelar</button>
+					</div>
+					<div class="col-33">
+						<button class="button button-fill color-red  " data-funcion="t_f_servicios" data-opcion="supr">Eliminar</button>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+

@@ -1,0 +1,84 @@
+stdClass Object
+(
+    [_id] => 419602796
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-04-24T14:43:26.009-05:00
+    [end] => 2023-04-24T15:01:05.974-05:00
+    [group_gu1lq88/Departamento] => ANTIOQUIA
+    [group_gu1lq88/municip_antioquia] => FRONTINO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Palmar
+    [group_gu1lq88/Nombre_de_la_comunidad] => Emberá
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-04-24
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el día 10 de abril se viene presentando un desplazamiento masivo desde la vereda Palmar en el corregimiento Fuemia del municipio de Frontino, debido a amenazas por parte de un GANE que ejerce control territorial en el municipio. Se trata de al menos 48 personas pertenecientes a 11 familias de la etnia Emberá. Actualmente se encuentran refugiados en la Casa Indígena del municipio de Frontino, la cual se encuentra en malas condiciones de habitabilidad, lo cual ha puesto en riesgo la salud de las personas desplazadas, en especial a niños, niñas y adolescentes, entre quienes se presentan actualmente enfermedades respiratorias a causa de esto. Entre las personas desplazadas hay al menos 24 mujeres y niñas, de las cuáles hay 4 mujeres lactantes y una gestante.
+Enlace: https://drive.google.com/file/d/1DuZHifxn2nva9UN2I2loOuWE7X45JqsR/view
+    [group_yv1ph08/time2] => 2023-04-10
+    [group_yv1ph08/time3] => 14
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Refugio y Asentamientos
+    [group_cn9za51/familias] => 11
+    [group_cn9za51/personas] => 48
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => La Alcaldía de Frontino ha activado las rutas de atención para emergencias por violencia armada y brindó kits de alimentos para las al menos 48 personas desplazadas, los cuáles tienen duración de una semana. Así mismo, el cabildo indígena de Frontino adecuó la Casa Indígena como alojamiento temporal. La UARIV se encuentra haciendo entrega de kits de alimentos, hasta el momento no se tiene información sobre la cantidad.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El CICR entregó cuatro millones de pesos ($4’000.000) a la Alcaldía para apoyar las actividades de respuesta humanitaria a las personas desplazadas.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/1DuZHifxn2nva9UN2I2loOuWE7X45JqsR/view+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:77519673-1564-4e52-9206-2808bc4717a9
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 77519673-1564-4e52-9206-2808bc4717a9
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-24T20:01:03
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

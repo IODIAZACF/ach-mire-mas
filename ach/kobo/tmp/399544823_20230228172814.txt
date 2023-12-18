@@ -1,0 +1,71 @@
+stdClass Object
+(
+    [_id] => 399544823
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-02-15T15:38:54.104-05:00
+    [end] => 2023-02-28T17:28:00.563-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => SAN ANDRES DE TUMACO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Sin información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin información
+    [group_gu1lq88/Urbano_Rural] => urbano
+    [group_gu1lq88/time1] => 2023-02-23
+    [group_gu1lq88/Nombre_de_quien_reporta] => Laura Blanco Camacho
+    [group_gu1lq88/Cargo] => Alianza por la Solidaridad APS
+    [group_gu1lq88/Origen_de_la_informaci_n] => ONG
+    [group_gu1lq88/Nombre_de_la_ONG] => AHI
+    [group_hl1yc96/La_alerta_corresponde_a_] => VBG
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => -
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2023-01-26
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSNATU_U_LELA351VBG - Mujer de 31 años víctima de conflicto armado quien fue víctima de desplazamiento. La ciudadana es madre de un niño de 2 años, se encuentra a cargo de sus dos sobrinos.  Actualmente se encuentra albergada de manera temporal en casa de un conocido donde se encuentra en condiciones de hacinamiento, sin espacios para su privacidad. No cuenta con red de apoyo que le permita apoyo en alimentación o búsqueda de empleo, por lo cual hay alto riesgo de habitabilidad de calle, así mismo, se identifican riesgos en relación al ejercicio de trabajo sexual para obtención de recursos.
+    [group_mu9ho06/Logisitica] => Sin información
+    [group_mu9ho06/Seguridad] => Sin información
+    [group_mu9ho06/Operativa] => Sin información
+    [group_mu9ho06/Observaciones] => Sin información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:a98eff9b-b3b4-4658-aa6c-9b79174a1fdf
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => a98eff9b-b3b4-4658-aa6c-9b79174a1fdf
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-28T22:28:13
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,50 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 472
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 674949355
+                    [first_name] => Fabiana
+                    [last_name] => Hernandez
+                    [username] => Fabhdz
+                    [type] => private
+                )
+
+            [date] => 1595968635
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIB2F8gjHqTdubLLInvJ0V0TZFAt28cAAKEqDEbjCo4RIYfjrs2raBm5MBuBgAEAQADAgADbQADAaIDAAEaBA
+                            [file_unique_id] => AQAD5MBuBgAEAaIDAAE
+                            [file_size] => 9245
+                            [width] => 320
+                            [height] => 218
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIB2F8gjHqTdubLLInvJ0V0TZFAt28cAAKEqDEbjCo4RIYfjrs2raBm5MBuBgAEAQADAgADeAADAqIDAAEaBA
+                            [file_unique_id] => AQAD5MBuBgAEAqIDAAE
+                            [file_size] => 52152
+                            [width] => 800
+                            [height] => 545
+                        )
+
+                )
+
+            [caption] => Broche redondo metalico cafe  personalizado------------------------------Especificaciones: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Precio: 6.00
+        )
+
+)

@@ -1,0 +1,207 @@
+stdClass Object
+(
+    [_id] => 404548742
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-03-14T11:54:31.195-05:00
+    [end] => 2023-03-14T18:23:17.491-05:00
+    [group_pl6la06/_1_C_digo] => ANRE-630.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2022-12-15
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2022-12-19
+    [group_pl6la06/_4_Departamento] => ANTIOQUIA
+    [group_pl6la06/ANTIOQUIA] => REMEDIOS
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Puna
+    [group_pl6la06/_8_Comunidad] => Puna
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento restricci_n_a_la_movilidad
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA
+    [group_mb5pt53/_1a_Evaluador] => Jessica Rangel
+    [group_mb5pt53/_1b_Celular] => +57 323 2342745
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => Por Actualizar
+    [group_mb5pt53/_2b_Celular] => Por Actualizar
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_3a_Evaluador] => Por Actualizar
+    [group_mb5pt53/_3b_Celular] => Por Actualizar
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => ALIANZA_POR_LA_SOLIDARIDAD_APS
+    [group_rq63s60/_1a_Fecha_del_evento] => 2022-09-15
+    [group_rq63s60/_1c_Descripci_n_del_evento] => La presencia de Grupos Armados No Estatales (GANE) y los enfrentamientos entre estos grupos por el control territorial y de las renta de las economías lícitas e ilícitas en el municipio de Remedios, Antioquia ha derivado en la emergencia por restricción a la movilidad en la zona rural del municipio, en el corregimiento Carrizal.
+En el mes de septiembre 2022 se registraron enfrentamientos entre GANE y accidentes con Minas Antipersonales (MAP) en la vereda Puná que pertenece al corregimiento de Carrizal. Además, de acuerdo con las comunidades, en las veredas Cristalina, Lejanías, Mulatos, Altos de Manila, Tamar Alto, Puná y el corregimiento Carrizal los GANE han establecimiento normas de conducta como medida de control social, entre estas: movilidad permitida en horarios establecidos para entrada, salida y tránsito entre las comunidades; delimitación de zonas a las que no es posible acceder por prohibición directa, y restricción de acceso a personas que no pertenecen a las comunidades. También se ha afectado el desarrollo de actividades productivas como la prohibición de la extracción de madera, lo que ha limitado el acceso a alimentos, medios de vida y servicios esenciales.  
+Durante la aplicación de la Evaluación Rápida de Necesidades se identificaron diferentes riesgos en las comunidades afectadas: riesgo de vinculación, utilización y reclutamiento de niños, niñas y adolescentes, riesgo de amenazas y desplazamientos individuales principalmente de líderes y lideresas, riesgo de accidentes por Minas Antipersonales, Municiones sin Explotar y Artefactos Explosivos (MAP/MSE/TE). También existe un gran riesgo de confinamiento y/o desplazamiento masivo de las comunidades afectadas por las restricciones a la movilidad.
+La ubicación geográfica del corregimiento de Carrizal es estratégica para los accionar de los GANE, debido a la cercanía con las subregiones del Sur de Bolívar y del Bajo Cauca, territorios con una dinámica compleja de conflicto armado, asociada al control de las economías licitas e ilícitas, rutas para el narcotráfico hacia los departamentos de Chocó, Córdoba, Valle entre otros. La zona rural de Remedios pertenece a la Serranía de San Lucas, zona en disputa por parte de GANE para el tráfico de hoja de coca. Así mismo, es estratégica por la presencia de minas de extracción de oro, sobre las que los GANE ejerce control para la obtención de rentas provenientes de extorsiones económicas.
+    [group_rq63s60/group_lm6cx76/a_Social] => La población afectada por la emergencia es mayoritariamente campesina, con tradición minera; en el 2016 el corregimiento de Carrizal fue seleccionado como uno de los lugares del país en el que se ubicarían los Antiguos Espacios Territoriales de Capacitación y Reincorporación - AETCR de las FARC - EP, lo que ha generado retos en torno a la integración social. Territorio en el que ha existido presencia histórica de GANE, situación con afectación en dinámicas sociales, asociado a la imposición de códigos de conducta, el temor de llevar a cabo prácticas comunitarias, las restricciones de movilidad que limita el encuentro con familiares y amigos de comunidades cercanas.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Se identificó cerca al centro poblado del corregimiento de Carrizal la presencia de la comunidad indígena Emberá Chamí, víctima de desplazamiento forzado, proveniente del departamento de Chocó. Dentro de las comunidades afectadas por la emergencia se identificó población migrante de nacionalidad venezolana y ecuatoriana y algunas personas adelantan el trámite de regularización migratoria para la permanencia en el país. También se identificaron personas en condición de discapacidad, mujeres en estado de gestación sin acceso a controles prenatales y mujeres lactantes.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => La mayor parte de pobladores del corregimiento Carrizal basa su economía en la extracción minera aurífera y maderera; en menor medida se dedican a actividades de agricultura y comercio. Debido a la dinámica del conflicto armado, en algunas veredas se ha presentado la suspensión de actividades económicas relacionadas con la tala o extracción de madera debido a la prohibición determinada por los actores armados no estatales que hacen presencia en el territorio. 
+Carrizal presenta una dinámica de comercio activa, principalmente en los centros poblados, estos constituyen los principales puntos de abastecimiento; adicionalmente algunas comunidades encuentran en el municipio de Segovia la posibilidad de acceder a bienes y servicios básicos
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El municipio de Remedios está ubicado en la Región Nordeste de Antioquia, aproximadamente a 200 kilómetros de Medellín. El municipio de Remedios limita por el norte con el municipio de Segovia, por el oriente con el departamento de Bolívar y el municipio de Yondó, por el sur con los municipios de Yondó, Puerto Berrío, Yolombó y Yalí, y por el occidente con los municipios de Vegachí y Amalfi.
+El Corregimiento de Carrizal - Remedios, está ubicado hacia el oriente del municipio, con parte de su territorio en la parte sur de la Serranía de San Lucas. Tiene una geografía montañosa y húmeda, hay muchos ríos que atraviesan el territorio. Este territorio posee una gran riqueza en su subsuelo de minerales como el oro.
+La altitud promedio del municipio es de 700 msnm y una temperatura media de 24°C.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => El centro poblado del corregimiento de Carrizal y las vereda Cristalina, Puná, Lejanías y Altos de Manila cuenta con acceso a fluido eléctrico. En cuanto a las demás veredas que integran el corregimiento acceden a electricidad a través de plantas eléctricas y algunas instalaciones de paneles solares. Sin embargo, no hay cobertura para las familias asentadas lejos de las cabeceras veredales. Sobre el acceso a agua, el centro poblado del corregimiento de Carrizal y la vereda Lejanías cuentan con pozos de agua subterránea y redes de suministro domiciliario. Las demás veredas acceden a agua a través de la recolección y transporte del recurso directamente de quebradas y otros cuerpos de agua, sobre las cuales hay riesgos de aparición de enfermedades de origen hídrico por la contaminación de las fuentes hídricas por causa de la actividad minera y el mal manejo de los residuos sólidos. 
+La conectividad por red celular es nula en todo el corregimiento. Para acceder a conectividad las personas compran pines de internet (acceso con tiempo restringido). En las veredas afectadas por la emergencia no existe centros de salud habilitados, para acceder a los centros de salud, las personas deben desplazarse hasta la cabecera municipal de Remedios.
+En cuanto al acceso a los servicios educativos, la cobertura escolar es insuficiente, especialmente para la educación secundaria. Para acceder a las jornadas educativas, muchos estudiantes al no contar con modalidad de internado se ven forzados a transitar distancias muy largas para asistir a los centros educativos. Las comunidades señalaron que algunos centros educativos se encuentran en hacinamiento, para lo cual las Juntas de Acción Comunal han dispuesto de espacios comunitarios para el desarrollo de las actividades escolares.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Por Actualizar
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/Riesgos_para_respuesta] => HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_1i_Descripci_n_VBG] => RESTRICCION_ACTIVIDADES_DOMESTICAS LIMITADO_ACCESO_A_EDUCACION ECONOMICA_Y_PATRIMONIAL
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Las vías que comunican el centro poblado del corregimiento de Carrizal con las veredas afectadas por la emergencia son de difícil acceso, la mayoría de las vías son caminos de herradura, que se vuelven intransitables en temporada de lluvia. El desplazamiento de los equipos humanitarios se realiza desde la ciudad de Medellín hasta el municipio de Segovia por vía principal, pavimentada y en buen estado. Para acceder hasta el centro poblado del corregimiento de Carrizal y las veredas La Cristalina, Puná, Altos de Manila y Lejanías desde el municipio de Segovia, se transita sobre una carretera destapada en mal estado y que empeora durante la temporada de lluvia. Los tiempo de desplazamiento desde el centro poblado de Carrizal hacia las veredas oscila entre 1 y 4 horas. Se recomienda contar con equipo de celular satelital, ya que la red de telefonía celular es nula en las comunidades. Para la alimentación en las veredas hay servicio de restaurante.
+    [group_fm93i53/seguridad] => Los municipios de Remedios y Segovia han tenido una influencia histórica de GANE, debido a la minería de oro, la explotación maderera y por ser un corredor estratégico que comunica el valle del Río Magdalena con el valle del Río Cauca. La presencia de estos grupos ha derivado en un fuerte control territorial y en el establecimiento de fronteras invisibles principalmente en la zona rural de estos municipios.
+Es necesario mantener contacto permanente con líderes/lideresas de las comunidades para garantizar el acceso a sus territorios. Como estrategia de protección es necesario informar de manera detallada sobre las personas que ingresarán a las comunidades y la forma de movilización. Se requiere la utilización constante de elementos de visibilidad del personal humanitario, de los medios de transporte y de los sitios dónde se vayan a desarrollar las acciones humanitarias.
+Se recomienda utilizar los caminos reconocidos y recomendados por las comunidades, esto ante el riesgo de accidentes por presencia de artefactos explosivos, minas antipersonal y munición sin explosionar en las zonas aledañas a las comunidades.
+En la zona hay reportes de enfermedades transmitidas por vectores, por lo que se recomienda la utilización constante de repelentes todo el día y toldillos para la hora de dormir. De la misma forma, existe riesgo por picadura o mordedura de serpientes y otros animales.
+Tener en cuenta que hay restricciones de movilidad entre las 18:00 y 06:00 horas del siguiente día, prohibición de toma de fotografías con celulares, establecimiento de horarios para el funcionamiento del comercio y prohibición de tránsito mientras esté lloviendo.
+Para el ingreso de carga y/o NFI al corregimiento de Carrizal y sus veredas, se recomienda la contratación de vehículos locales que conozcan las condiciones de la vía, además que sean reconocidos como transportadores en la zona.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 1144
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 2223
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 7
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2022-12-15
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => Corporación Acción Humanitaria por la Convivencia y la Paz del Nordeste Antioqueño - CAHUCOPANA; Peace Brigades International – PBI, Fundación KUNNA y Asociación Campesina del Norte y Nordeste de Antioquia – ASCNA
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Corporación Acción Humanitaria por la Convivencia y la Paz del Nordeste Antioqueño - CAHUCOPANA; Peace Brigades International – PBI, Fundación KUNNA y Asociación Campesina del Norte y Nordeste de Antioquia – ASCNA
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION_-VBG PROTECCION-PR PROTECCION-NNAJ EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => •	El hecho victimizante ha sido parcialmente visibilizado con la institucionalidad: La Unidad Unidad para la Atención y Reparación Integral a las Víctimas (UARIV) junto con la Alcaldía de Remedios determinaron la afectación debido a las restricciones a la movilidad a través de misiones de diagnóstico de riesgos en la comunidades afectadas, pero aún no ha sido posible visibilizar los hechos victimizantes individuales por el temor para declarar los eventos debido al sometimiento de los GANE en el territorio, así como la falta de garantías y confianza en la institucionalidad.
+•	Hay desconocimiento sobre la normatividad de víctimas: aunque la mayoría de la personas afectadas por la emergencia son víctimas del conflicto armado por la ocurrencia de eventos anteriores.
+•	Existen brechas que impiden el acceso a la atención a las víctimas: La principal de ellas es la falta de conocimiento sobre las rutas de asistencia y la poca oferta institucional.
+•	Líderes, lideresas y defensores de DDHH tienen necesidades: para fortalecer sus conocimientos sobre acceso a rutas de atención, normatividad, entidades responsables en la atención y herramientas jurídicas y mecanismos de exigibilidad de derechos establecidos por la norma colombiana.
+    [group_aa8xg30/group_ow1dy59/VBG] => •	Hay desconocimiento sobre las rutas de atención a violencias basadas en género.
+•	Se identificaron casos de violencia intrafamiliar con especial afectación en niños, niñas y adolescentes.
+•	Las mujeres, niñas y otros grupos en situación de riesgos de las veredas Altos de Manila y La Cristalina participan en procesos de desarrollo de políticas, normas y directrices en materia de protección.
+Hallazgos:
+•	Las VBG en contextos intrafamiliares constituyen una de las mayores afectaciones a los NNAJ, quienes se encuentran en un alto grado de exposición; adicionalmente, se evidenciaron embarazos adolescentes, riesgos de acoso sexual a menores de edad.
+•	Se identificaron hechos de violencia física, psicológica y económica contra las mujeres por parte de sus parejas, sin embargo, las comunidades mostraron mediano grado de normalización de estas violencias a partir de los roles y estereotipos de género.
+•	En la vereda de Altos de Manila la Asociación de Mujeres (ASOMAMA) realiza acciones de atención y apoyo a mujeres víctimas de VBG. Actualmente, están en proceso de construcción de un entorno protector para mujeres. También en esta vereda hay un Comité de Seguridad y Convivencia para gestionar los casos de violencia intrafamiliar, desde donde se manifestó la necesidad de contar con el apoyo del sector de atenciones psicosociales.
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => Hallazgos 
+•	Amenazas, atentados y hostigamientos contra líderes, lideresas comunitarias e integrantes de las Juntas de Acción Comunal.
+•	Intimidación contra organizaciones defensoras de Derechos Humanos mediante panfletos y hurto de elementos a los esquemas de protección de la Unidad Nacional de Protección (UNP).
+•	Implementación de estrategias de autoprotección comunitaria como los refugios humanitarios, las casas de refugio y la realización de acciones humanitarias de verificación de hechos victimizantes, entre otros.
+Recomendaciones:
+•	Sensibilización e implementación de estrategias que favorezcan la permanencia de las comunidades en el territorio, la defensa de los derechos a la vida y acuerdos humanitarios basados en los principios de precaución y prevención.
+•	Fortalecimiento de los procesos de exigibilidad y atención legal de líderes, lideresas y personas que por sus acciones de defensa de los derechos colectivos se encuentran en riesgo.
+•	Acciones de incidencia con los distintos actores institucionales y de acompañamiento con capacidades de protección para la visibilidad de las distintas violaciones de Derechos Humanos e infracciones al Derecho Internacional Humanitarios.
+    [group_aa8xg30/group_ow1dy59/Reclutamiento] => •	Atentados contra la vida y la integridad física de las personas: Homicidios selectivos ocurridos en la cabecera municipal en el corregimiento de Carrizal, El Carmen, Altos de Manila, Lejanías y Puná, cuyo objetivo, es causar temor generalizado en las comunidades y lograr el sometimiento de la población civil para controlar el ingreso de otro grupo armado, afectando sus procesos organizativos y de defensa del territorio, como parte de las acciones de control territorial. De igual forma se evidenciaron antecedentes próximos de masacres, atentados, hostigamientos, retención de personas señaladas de colaborar de distintas maneras con grupos contrarios, extorsiones y tributación forzada mediante escritos dirigidos a las Juntas de Acción Comunal.
+•	Restricciones a la movilidad y acciones orientadas a generar temor e intimidación de las personas y comunidades: Restricciones a la libre movilidad de la población entre las 6:00 p.m. y las 6:00 a.m.; instalaciones de retenes y patrullaje de los GANE.
+•	Infracciones del principio de distinción y precaución: Instalación de minas antipersonal, municiones sin explotar y artefactos explosivos improvisados; ataques a la Fuerza Pública con interposición de la población civil con alto riesgo de afectación a su vida y a sus viviendas. Ataques por parte de los GANE a los espacios territoriales de capacitación y reincorporación (AETCR) cercanos a la zona.
+    [group_aa8xg30/group_lg2ro37/Shelter] => Indicadores Claves:
+•	Las familias y/o personas cuentan con espacios para albergarse en condiciones seguras.
+•	Las familias no cuentan con los elementos adecuados de hábitat para albergarse de manera segura.
+•	Las familias y comunidad cuentan con infraestructuras adecuadas y espacios comunitarios que promueven seguridad.
+•	La respuesta desde el sector Shelter disminuye que las personas estén expuestas a riesgos de seguridad física, inclemencias climáticas, salud, privacidad y mejora la dignidad de las personas
+•	Se identificaron necesidades en contribución, nueva construcción o mejoramiento para la provisión de instalaciones educativas temporales.
+•	Se identificaron necesidades en distribución de mobiliario escolar para las primeras fase de emergencia y ambientes educativos temporales
+•	La intervención de Shelter, a través de la provisión de instalaciones educativas promueve los derechos y protección para la continuidad de la educación de NNAJ.
+Hallazgos
+•	Existen infraestructuras comunitarias que pueden se empleadas como lugares de encuentro en situaciones de emergencia.
+•	Además de las restricciones a la movilidad, se identificaron desplazamientos individuales entre las veredas afectadas por la emergencia. 
+•	Las comunidades no cuentan con conocimientos mínimos en temáticas de alojamiento, espacios protectores y comportamientos seguros en situaciones de emergencias.
+    [group_aa8xg30/group_fv0ct51/Agua] => Hallazgos
+•	Las principales fuentes de abastecimiento de las veredas son: la recolección de aguas lluvia, la extracción de aguas subterráneas y el traslado desde cuerpos de agua superficiales. La disponibilidad del recurso hídrico, en estas formas de abastecimiento está condicionada a las temporadas de precipitaciones y sequías y la variabilidad climática.
+•	Las fuentes de agua como pozos, aljibes y/o afluentes están ubicados a 600 metros aproximadamente de los centros poblados de las veredas.
+•	Las familias no realizan ningún tratamiento o potabilización al agua antes de consumirla. Se identificó contaminación de los afluentes por causa de la actividad minera en la zona. Las comunidades señalaron la prevalencia de enfermedades de origen hídrico como infecciones cutáneas, dificultades gastrointestinales, enfermedades diarreicas agudas, e infecciones urinarias que afectan a las mujeres, adolescentes y niñas.
+•	Sólo el 10% de las familias expresaron que recurren a métodos caseros de tratamiento del agua como adicionar cloro y usar piedra alumbre, pero no tienen claridad de cómo hacerlo correctamente.
+Recomendaciones
+•	Se recomienda distribución domiciliaria de filtros cerámicos para obtener agua segura a nivel familiar.
+•	Reforzar las sensibilizaciones en agua segura, enfocándolas en los métodos de tratamiento de agua a nivel intradomiciliario y almacenamiento seguro a fin de lograr que el 100% de las a familias de la comunidad logre consumir agua segura.
+•	Acompañar y apoyar la rehabilitación y/o construcción de infraestructura comunitaria en las veredas Puná y Altos de Manila.
+•	Se recomienda realizar adecuaciones a las infraestructuras de captación y almacenamiento de agua con prioridad de los sistemas instalados en las sedes educativas.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Hallazgos
+•	El 50% Las familias cuentan con sistemas sanitarios para la deposición, pero no realizan un adecuado manejo de las aguas residuales domésticas. Estas terminan servidas en los cuerpos de agua cercanos, provocando contaminación cruzada y deterioro de la calidad del agua.
+•	Se identificó que para el manejo de los residuos sólidos las comunidades recurren al enterramiento y/o quema. El mal manejo de estos residuos favorece la proliferación de vectores y otras especies menores como roedores.
+•	Las instituciones educativas y los espacios comunitarios cuentan con red sanitarias que requieren mantenimiento y adecuaciones para su correcto funcionamiento.
+Recomendaciones
+•	Se recomienda realizar intervenciones de rehabilitación y adecuación de las unidades sanitarias escolares existentes en mal estado, para garantizar el funcionamiento adecuado.
+•	Mejorar los actuales puntos para la disposición final de los residuos sólidos y desarrollar sensibilizaciones sobre el manejo, clasificación y correcta disposición de los residuos sólidos.
+•	Promover las buenas prácticas de higiene, a través de la entrega de herramientas para la realización de jornadas comunitarias de higiene para la recuperación de los espacios comunes.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Hallazgos
+•	Se identificó que algunas familias tienen disponibilidad de artículos básicos de higiene en los mercados locales, pero el encarecimiento de los productos dificulta el acceso. En la vereda Tamar Alto, la disponibilidad de los elementos de higiene es nula, ya que deben trasladarse a la comunidad de Altos de Manila para abastecerse. Así también, en la comunidad de Mulatos no hay disponibilidad de los insumos dada las dificultades de movilidad en el terreno y las afectaciones por el conflicto en sus actividades económicas. El acceso limitado a las insumos para la higiene afecta de manera diferencial a las mujeres, adolescentes y niñas, dado que tienen acceso limitado a productos para la gestión de la higiene menstrual.
+•	Se evidenció la falta de prácticas de higiene oral y lavado de manos.
+Recomendaciones
+•	Se recomienda que en las comunidades de Tamar Alto y Mulato se podrá realizar la entrega de kits de higiene con enfoque diferencial y de género para atender a las necesidades de las mujeres, adolescentes y niñas.
+•	Promover formaciones sobre buenas prácticas de higiene incluyendo prácticas en el aseo, limpieza y desinfección de la vivienda, saneamiento y el entorno.
+•	Promover la limpieza periódica de los sistemas de captación y almacenamiento de agua, así como el uso adecuado de los elementos de limpieza y desinfección en el entorno familiar.
+    [group_aa8xg30/group_jn0nm53/san] => Indicadores claves: 
+•	Acceso y disponibilidad de alimentos: Los mercados tienen capacidad para satisfacer la demanda y las comunidades acceden a la alimentación principalmente a través de los comercios locales. Debido a las restricciones a la movilidad las comunidades han limitado el desarrollo de las actividades económicas y se ha reducido la capacidad adquisitiva de los hogares para abastecerse de alimentos.
+•	Entornos saludables en la preparación de los alimentos: Los alimentos son preparados en estufas de gas o de leña. La mayoría de las personas manifestaron tener acceso a espacios de cocina en sus hogares.
+•	La diversidad dietaria: es variada y sin preferencias específicas y la frecuencia de alimentación durante la emergencia es de 2 a 3 ingestas diarias.
+Descripción de las necesidades:
+Las comunidades basan su economía en el desarrollo de actividades como la minería y la explotación de madera. En menor medida, algunas personas que se dedican a jornalear en las fincas ganaderas que se encuentran en la región. Las restricciones a la movilidad impuestas por los GANE afectan las actividades de generación de ingreso de las familias. Además, las comunidades señalaron que los GANE también restringieron la tala y comercialización de madera en la región. 
+Los mercados tienen capacidad para satisfacer la demanda y las comunidades acceden a la alimentación principalmente a través de los comercios que se encuentran en cada vereda. Las veredas cuentan con una cantidad suficiente de tiendas para abastecerse que comercian con productos mixtos y se identifica variedad de alimentos. Durante la primera fase de la emergencia, las comunidades no habían recibido ningún tipo de ayuda alimentaria por medio de paquetes. En las comunidades no hay vocación de producción agropecuaria, por lo que muy pocas familias tienen medios de vida como cultivos de pan coger para el autoabastecimiento y la comercialización de excedentes.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => SALUD FÍSICA:
+Debido a la dinámica del conflicto armado y las condiciones de seguridad, el acceso a los servicios de salud es limitado en las veredas afectadas por la emergencia. La capacidad de respuesta resolutiva en salud está disponible en la cabecera municipal de Remedios con un hospital primer nivel de complejidad que cuenta con 13 médicos asistenciales, servicios de laboratorio clínico y procedimientos menores. Para las comunidades rurales dispersas se brindan jornadas extramurales de atención primaria en salud, de forma ocasional. Las veredas Altos de Manila y Tamar Alto acceden a los servicios básicos de salud, diagnóstico microscópico, la administración de medicamentos orales antimaláricos, y diagnóstico para leishmaniasis en el puesto de salud ubicado en Altos de Manila donde cuenta con personal sanitario: una odontóloga, una microscopista, y un médico. Las demás comunidades deben trasladarse hasta la cabecera municipal de Remedios.
+No existe un programa oficial de atención y seguimiento de patologías crónicas en la zona, estas son atendidas en las consultas en las jornadas extramurales. Se identificó el riesgo que las personas con diagnósticos crónicos no puedan acceder a los insumos médicos debido a las restricciones de movilidad hacia cabecera municipal de Remedios. Además, todas las comunidades afectadas señalaron la prevalencia de infecciones respiratorias agudas y también son frecuentes las enfermedades transmitidas por vectores como el dengue y la malaria. Durante el año se han presentado múltiples accidentes ofídicos, con un caso de fallecimiento por parte de la víctima. Se requiere atención integral y diferencial para personas en condición de discapacidad, con movilidad reducida y discapacidad cognitiva.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => SALUD MENTAL:
+La ocurrencia de hechos victimizantes como amenazas a líderes, intimidaciones a la población civil, restricciones a la movilidad y riesgos de minas antipersonales, afectan la salud psicológica, social y emocional de la población afectada por la emergencia, especialmente a niños, niñas y adolescentes.
+La afectación de la salud mental como consecuencia del conflicto armado ha tenido un menor impacto por cuenta de la capacidad adaptativa que tienen habitantes del territorio, aun así, se pudo establecer que principalmente niños y mujeres vienen sufriendo de temor a los enfrentamientos o posibles incursiones a sus comunidades. Esto se hizo más evidente en comunidades como: Puná, Lejanías, Altos de Manila y Tamar Alto.
+Los principales síntomas asociados son: temor, ansiedad generalizada, insomnio, tristeza y desesperanza. Los niños son los más vulnerables debido a una enorme cantidad de variables desfavorables a las que se encuentran expuestos:
+•	Los enfrentamientos de los grupos armados que generan temor, pánico, ansiedad.
+•	Riesgo de reclutamiento por parte de los diferentes grupos armados en el territorio.
+•	Viviendas ubicadas de manera dispersa en el territorio que obligan a los niños caminar hasta 3 horas para acceder al colegio generando un alto porcentaje de deserción escolar.
+•	No existen opciones constructivas, formativas, culturales y/o deportivas para el uso del tiempo libre de los niños, adolescentes y jóvenes.
+•	Los niños son iniciados a muy temprana edad en las actividades laborales.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Por Actualizar
+    [group_aa8xg30/group_tb5de96/EIE] => Indicadores claves:
+•	30 % de niños, niñas, adolescentes y jóvenes en edad escolar están desvinculados (desescolarizados) de la matricula formal.
+•	Durante la emergencia por restricciones a la movilidad no se han presentado suspensiones del servicio educativo. 
+•	Se identificaron riesgos de protección para los niños, niñas y adolescentes durante la emergencia: afectación psicosocial, reclutamiento y vinculación, deserción escolar, incidentes por MAP/MUSE/TE, violencias basadas en género. 
+•	Hay necesidad de construcción de 1 o más aulas temporales de aprendizaje en las comunidades afectadas.
+•	Durante la emergencia existe acompañamiento de actividades de tiempo libre de NNA guiadas por docentes o AEC. NO 
+•	Los niños, niñas y adolescentes no cuentan con material didáctico para continuar actividades de uso de tiempo libre y/o académico.
+•	Se requiere la construcción de planes de trabajo para la educación en emergencia con el personal docente y agentes educativos comunitarios.
+Hallazgos:
+•	Hay hacinamiento en las instalaciones educativas y hace falta la construcción de nuevos espacios para la educación secundaria. Frente a esto algunas comunidades han optado por reducir el calendario escolar a tres días por semana y alternar los espacios para ofrecer el servicio a toda la población educativa.
+•	La ocurrencia de hechos victimizantes asociados al conflicto armado provocan la suspensión de las actividades escolares.
+•	En las comunidades afectadas se requiere apoyo psicosocial para NNAJ y el desarrollo de actividades lúdicas y recreativas para la ocupación del tiempo libre.
+•	Se requieren elementos lúdicos, pedagógicos y deportivos que incentiven a los NNAJ a permanecer en las sedes educativas y generar espacios saludables de esparcimiento.
+    [group_aa8xg30/BrechasInformacion] => Es necesario actualizar los censos
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 0
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Sin Información
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Sin Información
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Sin Información
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:a17bf174-2272-4651-8877-2cd6dd15b635
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => a17bf174-2272-4651-8877-2cd6dd15b635
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-03-14T23:23:29
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

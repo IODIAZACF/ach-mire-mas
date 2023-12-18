@@ -1,0 +1,6 @@
+{
+    "require": {
+        "raelgc/template": "^2.2",
+        "php-mime-mail-parser/php-mime-mail-parser": "^6.0"
+    }
+}

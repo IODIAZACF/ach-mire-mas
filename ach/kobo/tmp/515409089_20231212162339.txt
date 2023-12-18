@@ -1,0 +1,80 @@
+stdClass Object
+(
+    [_id] => 515409089
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-12-12T15:58:15.340-05:00
+    [end] => 2023-12-12T16:23:36.835-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => BAJO BAUDO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => No indica
+    [group_gu1lq88/Nombre_de_la_comunidad] => Consejos Comunitarios de Piliza, San Agustín de Terrón, Villa María de Purrincha, Pavaza, Virudo, Cubita y de los Resguardos Indígenas de Pavaza Jella y Purrincha Wounaan.
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-12-05
+    [group_gu1lq88/Nombre_de_quien_reporta] => Maria Fernanda Gomez
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre UGI+C
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 25 de noviembre, al menos 10.860 personas (2.172 familias) pertenecientes a los Consejos Comunitarios de Piliza, San Agustín de Terrón, Villa María de Purrincha, Pavaza, Virudo, Cubita y de los resguardos indígenas de Pavaza Jella y Purrincha Wounaan ubicadas en la zona norte del municipio de Bajo Baudó, se encuentran confinadas debido al a incursión de un Grupo Armado No Estatal (GANE) y posterior enfrentamiento con un segundo GANE por la disputa territorial. Las comunidades de esta subregión están en riesgo inminente de desplazamiento masivo por estas acciones armadas, a la fechas e tiene el registro de 14 desplazamientos individuales.
+
+Esta emergencia se presenta como consecuencia del control social que ejercen los GANE que incluyen ataques indiscriminados como retenciones, amenazas y señalamientos individuales/colectivos. De tal manera que, la población ha afrontado restricciones para realizar actividades de pesca, caza, recolección de agua y alimentos en cultivos de pancoger, así como el desarrollo de otras actividades diarias.
+
+Desde 2021, las comunidades de la zona sur de Bajo Baudó afrontan emergencias humanitarias en más de una ocasión por año e inclusive por amplios umbrales de tiempo que generan un deterioro de su situación humanitaria; sin embargo, este es el primer confinamiento que se registra en la zona norte del municipio, con notando los cambios de la dinámica de disputa territorial y la ampliación de conflictividades que no habían sido registradas con anterioridad en el municipio.
+    [group_yv1ph08/time2] => 2023-11-25
+    [group_yv1ph08/time3] => 10
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 2172
+    [group_cn9za51/personas] => 10860
+    [group_cn9za51/comu] => 0
+    [group_cn9za51/Grupo_tnico] => indigena afro
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por completar
+    [group_mu9ho06/Seguridad] => Por completar
+    [group_mu9ho06/Operativa] => Por completar
+    [group_mu9ho06/Observaciones] => Por completar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v5nbo9ugkAUM8acKQ3d9Fu
+    [meta/instanceID] => uuid:bb25281a-c77f-46db-8fc7-871c8040940c
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => bb25281a-c77f-46db-8fc7-871c8040940c
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-12-12T21:23:37
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

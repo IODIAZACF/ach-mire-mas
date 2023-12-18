@@ -1,0 +1,625 @@
+stdClass Object
+(
+    [_id] => 498154465
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-10-30T08:24:56.892-05:00
+    [end] => 2023-10-30T09:01:00.854-05:00
+    [group_pl6la06/_1_C_digo] => BOMO-952.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-10-19
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-10-22
+    [group_pl6la06/_4_Departamento] => BOLIVAR
+    [group_pl6la06/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_pl6la06/_6_Urbano_Rural] => semiurbano
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => CASCO URBANO SANTA ROSA DEL SUR
+    [group_pl6la06/_8_Comunidad] => Mina Gallo, Mina Viejito, Mina Argentina, Mina Repollo, Mina Central, Mina Mayinbu, Mina Nueva, Mina oro bonito, Mina Oso, Mina Paraíso, Mina Recocha, Mina Sinaí, Mina Vieja, Mina Mocha, La Paz, y la YE de San Luquitas
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ORGANISMO_PUBLICO CTJT_COMITE_TERRITORIAL_DE_JUSTICIA_TRANSICIONAL
+    [group_mb5pt53/_1a_Evaluador] => Edinson Ricardo Montes Rodriguez
+    [group_mb5pt53/_1b_Celular] => 3228157357
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => Kevin Gonzalez
+    [group_mb5pt53/_2b_Celular] => 3102657785
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_3a_Evaluador] => Jessica Rangel
+    [group_mb5pt53/_3b_Celular] => 3232342745
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_4a_Evaluador] => Cristian Henao
+    [group_mb5pt53/_4b_Celular] => 3168173550
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-10-09
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Los municipios de Morales y Santa Rosa del Sur se encuentran ubicados al sur del departamento de Bolívar, y debido a que es uno de los territorios que conforman la Serranía de San Lucas, se convierte en una zona de gran interés por los Grupos Armados No Estatales, por su ubicación geoestratégica que permite la movilidad y conexión entre los departamentos de Antioquia, Cauca y Santander, y el control de las economías ilegales como la explotación de la minería y cultivos de uso ilícito.  
+
+El recrudecimiento y dinámicas de conflicto presentados recientemente en el Sur de Bolívar, ha generado la configuración de emergencias humanitarias masivas en las veredas de estos municipios; en el último semestre del año Santa Rosa del Sur ha presentado tres emergencias masivas;  la primera de ellas a finales de agosto en las veredas Palma Chica y La Vega en la que se presentó una incursión armada del GANE y posterior enfrentamiento ocasionando el confinamiento y desplazamiento masivo de esta población (aprox. 163 familias), un segundo evento de desplazamiento masivo de 127 familias se generó en la vereda Cañaveral, el pasado 25 de septiembre y la última emergencia fue de 427 familias - 985 personas (de acuerdo a la información del censo oficial) pertenecientes a 16 veredas (Mina Gallo, Mina Viejito, Mina Argentina, Mina Repollo, Mina Central, Mina Mayinbu, Mina Nueva, Mina oro bonito, Mina Oso, Mina Paraíso, Mina Recocha, Mina Sinaí, Mina Vieja, Mina Mocha, La Paz, y la YE de San Luquitas) que en su mayoría son del municipio de Morales y algunas de Montecristo, las cuales llegaron a casco urbano de Santa Rosa del Sur quienes fueron desplazadas forzosamente.  
+
+El origen de esta emergencia, se da producto de los enfrentamientos entre GANEs presentados los días 9, 10 y 11 de octubre en la vereda Mina Café, donde se destaca que durante el primer día de confrontación el actor armado amenazo e intimido a las comunidades obligándolos a salir del territorio, sin embargo, la mayoría por temor, a que en el trayecto quedaran en medio del fuego cruzado no salieron generando la configuración del confinamiento en esta vereda. Las demás veredas aledañas (15) decidieron salir forzosamente hacia dos puntos de encuentro: el primero en el sector la Y San Luquitas, a la cual llegaron un aproximado de 1800 personas (esta emergencia por CMJT se estableció como responsable de la atención la administración de Morales). Otro grupo de familias llego a la cabecera municipal de Santa Rosa del Sur (427 familias- 985 personas), de acuerdo con la información registrada en el censo masivo por la administración municipal y personería.  
+
+Algunas de estas familias se alojaron en el albergue temporal que habilitó la administración municipal, otras se auto albergaron y algunas se trasladaron a otras veredas cercanas como San Benito, San José y San Lucas. De acuerdo con el registro de la Alcaldía en el albergue temporal “Centro de justicia restaurativa de menores” se encuentran alojadas 15 núcleos familiares provenientes en su mayoría de la vereda Mina Café, algunas de Mina Gallo y Mina Viejito las cuales han sido asistidas en la fase de inmediatez por parte de la administración municipal con la entrega de alimentos para el consumo diario, atención prioritaria en salud y elementos de higiene. En el diálogo realizado con las comunidades e institucionalidad, se exterioriza el temor de algunas familias de regresar a sus comunidades por posible contaminación de MAP y MSE en el territorio posterior al enfrentamiento, así como la persistencia de los GANEs en el territorio lo cual puede generar nuevos eventos de confrontación sumado a la militarización de la zona por fuerza pública.  
+
+El Ministerio Público referenció el caso de un hecho individual de un miembro de la comunidad de Mina Gallo el cual inicialmente fue retenido por el GANE y posteriormente se configuró el homicidio de esta persona protegida, así como dos casos de violencia de género de dos mujeres como represalia, puesto, que presuntamente sostenían relaciones afectivas con integrante de otro GANE; se resalta que no hay información oficial, pero se presume que consecuencia del enfrentamiento se presentó el daño a la vida de ocho personas que muy probablemente sean de estos GANEs.  
+
+En cuanto a la emergencia de la Ye San Luquitas, por división territorial es responsabilidad del municipio de Morales la activación de la ruta de atención y respuesta a la emergencia. Se destaca que el día 19 de octubre se realizó una misión de verificación por parte del ministerio público, ONG, ONU a la vereda receptora, concluyendo que la mayoría de las familias desplazadas regresaron a sus veredas. La comunidad presente en el espacio exterioriza su inconformismo en la activación de la ruta y atención, puesto que consideran que no ha sido diligente por parte de la administración de Morales, ocasionando el regreso de las familias por la falta de garantías y la persistencia de necesidades insatisfechas.  
+
+La institucionalidad de Santa Rosa del Sur expresa su preocupación de riesgos de nuevas emergencias humanitarias debido a la situación de orden público recientes en el municipio, se presume de un nuevo combate (Fuerza pública y ELN) desarrollado el día 19 en el sector Marisosa, hasta el momento no se tiene información de que la población se haya confinado y/o desplazado. El mismo día 19 en el sector San Juan de Rio Grande, se dio otro combate entre AGC y Ejército, este evento duro poco por lo cual tampoco genero ni confinamiento y tampoco desplazamiento.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las veredas afectadas se encuentran organizadas administrativamente mediante Juntas de Acción Comunal- JAC, se resalta que estas veredas en su mayoría pertenecen territorialmente al municipio de Morales y Montecristo, pero debido al desplazamiento masivo en casco urbano de Santa Rosa del Sur la atención de estas familias le corresponde a este municipio receptor.  
+
+  
+
+Se destaca que las familias que se encuentran alojadas en el albergue han establecido comités de cocina y limpieza diferencial, así como la implementación de normas internas que permitan llevar una sana convivencia. No se evidencia tensiones, ni jornadas o espacios de esparcimiento comunitario o destinación del tiempo libre.  
+
+  
+
+En relación, al relacionamiento de la comunidad receptora, se evidencia su solidaridad hacia la comunidad desplazada, pues la Alcaldía ha manifestado el fuerte apoyo en alimentos, víveres, ropa, artículos de higiene, entre otras, que ha donado los comercios, asociaciones y comunidad en general.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => La población afectada por la emergencia se autoreconoce como campesina, la cual se dedica a labores agrícolas para su autosostenimiento.  Además de esto, se evidenció la presencia de población con necesidades de protección internacional de nacionalidad venezolana.  
+
+ 
+
+Durante la ERN se identificó grupos familiares compuestos por madres cabezas de hogar, mujeres lactantes y gestantes, adultos mayores sin apoyo, familias extensas, y núcleos unipersonales, principalmente conformados por hombres; esto se debe a que la economía en el municipio de Santa Rosa del Sur gira en torno a la minería artesanal, siendo está una labor que es ejercida en mayor medida por el género masculino.  Cabe señalar que, en el censo masivo realizado por la Alcaldía municipal, se incluyeron madres gestantes y lactantes adolescentes, quienes señalaron la necesidad de acceder a artículos, tales como, pañales, elementos de higiene, y alimentación complementaria para sus hijos menores de dos años.  
+
+ 
+
+La población afectada no posee una vocación de permanencia en las veredas donde se presentaron los hechos victimizantes, a raíz de las dinámicas del contexto y las actividades económicas propias de la población. Lo anterior, se vio reflejado durante la emergencia, dado que las comunidades se dispersaron y los núcleos familiares se desplazaron a diferentes lugares receptores, entre estos, las ciudades de Medellín y Bucaramanga, sumado a los municipios de San Pablo, Bolívar; Ocaña, Norte de Santander; Aguachica, César, y el casco urbano de Santa Rosa del Sur.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las veredas afectadas al encontrarse ubicadas en la Serranía de san lucas (la cual limita con otros municipios como Arenal, Santa Rosa, Morales, Arenal, Montecristo) su economía se basa en la agricultura en la zona baja y en la zona alta, se da la minería (extracción de oro) y cultivos de uso ilícito, esto ha generado que la zona sea apetecida por los GANEs.   
+
+La comunidad exterioriza que su fuente de ingreso mayoritariamente lo obtienen de sus labores de minería artesanal, algunas personas referenciaron ejercer actividades de agricultura, pero solo para consumo familiar (pan coger). Entre los alimentos que más se cosechan, está el plátano, la yuca, el maíz, donde algunas mujeres indicaron que los fines de semana ofertaban ventas de comidas.  
+
+Consecuencia del desplazamiento, sus oportunidades de acceder a alguna fuente de ingreso económico han sido escazas, situación que imposibilita a la familia de acceder o subsanar las necesidades básicas del hogar.  
+
+Se destaca que tanto la institucionalidad como la comunidad, referencian que la vereda Mina Café debido al ser el epicentro de las confrontaciones presentan una alta posibilidad de riesgos por residuos o MSE posterior al enfrentamiento, situación que aún no ha sido confirmada por autoridad competente, generando que sea la única mina que no ha podido restablecer sus actividades económicas con normalidad.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El municipio de Santa Rosa del Sur se encuentra ubicado al sur del departamento de Bolívar, situados en la cordillera central, es uno de los municipios que conforman la Serranía de San Lucas, su diversidad climática y suelos montañosos lo hacen un atractivo minero, agrícola, y comercial. El municipio cuenta con una expansión territorial de 2.800 km2 y una altura de 650 metros sobre el nivel del mar. Limita al con los municipios de Morales, Simití, San Pablo, Montecristo y el departamento de Antioquia.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Los servicios encontrados en el albergue fueron: energía eléctrica la cual depende del suministro municipal el cual es bastante irregular, durante la evaluación se observaron cortes de energía de forma intermitente, siendo que, el día previo a la ERN habían cumplido las 24 horas sin el suministro de energía eléctrica, esta situación fue manifestada como habitual en la población de Santa Rosa del Sur; por otra parte, el sitio contaba también con servicio de agua, la cual, se almacena en un tanque de 1000lts ubicado a las afueras del albergue, sin embargo, dicha agua no es potable. La disposición de residuos es realizada por la empresa de recolección municipal de basuras; en cuanto al manejo de aguas residuales este se realiza por medio del alcantarillado municipal el cual cuenta con su respectiva planta de tratamiento. El servicio de gas en los hogares es mediante el suministro de los diferentes cilindros de GLP, el servicio de telefonía móvil es constante para todos los operadores, sin embargo, se aprecia que el servicio de datos y llamadas es deficiente.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => El municipio de Santa Rosa del Sur, perteneciente al departamento del Bolívar, su geografía se caracteriza por estar en la cordillera central, mayoritariamente su zona es montañosa, con afluencia hídrica y con explotación minerales como el oro, su clima es templado – cálido, lo cual facilita la producción de cultivos agrícolas destinados para el consumo diario de las familias como maíz, plátano, yuca, ahuyama y algunas hortalizas.   
+
+En relación al manejo de residuos sólidos en el casco urbano cuenta con sistema de recolección de residuos que funciona cada dos días y son depositados en un vertedero municipal a las afueras de la población, la zona se encuentra en riesgo alto por presencia de enfermedades endémicas (dengue, miasis y paludismo) causadas por la proliferación de vectores como mosquitos, moscas, insectos y roedores.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO
+    [group_fm93i53/Riesgos_para_respuesta] => HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Desplazamientos 
+
+Tiempo aproximado 2 horas y 54 minutos entre Bucaramanga y puerto Wilches, pero en lluvia y con carga el tiempo sube a 4 horas y 40 minutos. Total, de kilómetros 152km. De puerto Wilches a Cantagallo se debe abordar el ferri, para usar este servicio debemos contar con un tiempo aproximado de 2 horas y 30 minutos por disposición del ferri y cupo en este mismo. De Cantagallo a Santa Rosa después de bajar del ferri el tiempo aproximado es de 1 hora y 35 minutos, pero en tiempo de lluvia y con carga el trayecto puede durar aproximadamente 2 horas y 50 minutos. 
+
+  
+
+Comunicaciones: 
+
+En la cabecera municipal de Santa Rosa hay cobertura de red móvil de todos los operadores, en el momento de falla del fluido eléctrico las comunicaciones se ven afectadas, los hoteles cuentan con planta eléctrica y facilitan la conexión a internet vía wifi para poder mantener comunicación. 
+
+  
+
+Alojamiento: 
+
+Respecto a el alojamiento, el municipio de Santa Rosa del Sur de Bolívar cuenta con una amplia oferta de hoteles. 
+
+  
+
+Alimentación: 
+
+El municipio cuenta con gran variedad de restaurantes y supermercados para la compra de suministros y alimentación. Valor promedio por cada comida (desayuno, almuerzo, cena) de 17000COP. 
+
+  
+
+Agua para consumo: 
+
+Santa Rosa cuentan con acueducto el cual poseen una planta de tratamiento de agua con capacidad para 100 litros por segundo y un tanque de 1600 metros cúbicos de agua, este acueducto cubre el 98% de la cabecera municipal.
+    [group_fm93i53/seguridad] => Seguridad. (Jessica) 
+
+En relación a los eventos de seguridad, se debe destacar que la emergencia humanitaria se origina por los enfrentamientos presentados en la zona de la Serranía de San Lucas entre dos GANEs presentes en el territorio, que buscan el control social y territorial de la región. Dentro de los eventos recientes y el contexto de seguridad en el municipio se resalta lo siguiente:  
+
+Enfrentamientos entre GANEs en la vereda Mina Café, originando el confinamiento de esta vereda y posterior desplazamiento de 16 veredas aledañas hacia el casco urbano de Santa Rosa del Sur y sector de la YE San Luquitas 
+
+Presencia de fuerza pública (Ejercito) en las veredas el día 12 de octubre.  
+
+Continuidad y presencia de actores armados estatales y no estatales en las veredas (GANEs y Ejercito) lo que supone un riesgo por nuevos combates o enfrentamientos en los territorios.   
+
+Militarización y aumento de pie de fuerza (Ejercito) en cabecera municipal de Santa Rosa. 
+
+Movilización y militarización en zonas rurales del municipio por jornada electoral.  
+
+Riesgo de Presencia de Artefactos Explosivos en la vereda Mina Café posterior a los enfrentamientos (MSE), situación que aún no se ha podido corroborar por autoridad competente.  
+
+Recientemente se han presentado nuevas alteraciones del orden público en zonas rurales de Morales y Santa Rosa del Sur (Marisosa y San Juan de Rio Grande) generando alerta por parte de la institucionalidad de nuevas emergencias humanitarias.   
+
+Hecho victimizante de homicidio (persona protegida) en la vereda Mina Gallo (Vereda desplazada) 
+
+Posible evento victimizante de violencia de género a dos mujeres como represalia, puesto, que presuntamente sostenían relaciones afectivas con integrante de otro GANE. 
+
+Riesgo reputacional presente en el territorio por jornada electoral y campañas políticas en todo el territorio.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 427
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 985
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 16
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 4
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 15
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-10-19
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => CENSO SANTA ROSA DEL SUR-8_47_24.xlsx
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 985
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => CICR y SJR
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => Emergencia humanitaria por el desplazamiento de 16 veredas pertenecientes territorialmente a los municipios de Morales y Montecristo, las cuales llegan como medida de protección hasta el casco urbano del municipio de Santa Rosa del Sur, dicha emergencia se genera por amenazas, intimidades y enfrentamientos que se presentaron entre dos GANEs entre los días 09, 10 y 11 de octubre.  
+
+Adicional al evento masivo se identificaron hechos individuales como desplazamientos, dos eventos de violencias basada en género en el marco del conflicto armado, y el caso de una persona, que fue retenido por el GANE y posteriormente asesinado. 
+
+La institucionalidad presume la existencia y posible materialización de riesgos de uso y vinculación de menores de edad en todo el municipio, no obstante, hasta el momento no se ha alertado o declarado este tipo de casos recientemente. 
+
+Al momento de la ERP se evidencia 15 núcleos familiares provenientes en su mayoría de mina Café, Mina Gallo y Mina Viejito alojados en el albergue temporal ubicado en la cabecera municipal de Santa Rosa del Sur llamado “Centro de justicia restaurativa para menores”, los cuales han recibido atención de inmediatez por parte de la administración municipal. 
+
+SI bien, en el Comité Municipal de Justicia Transicional, se expresa que las condiciones de seguridad son favorables, las familias que se encuentran alojadas en el albergue manifestaron que no han regresado a sus comunidades, puesto que, existe riesgo por la presencia de MAP/MSE/ TE en las veredas de Mina Café; está información no ha sido oficializado por parte de la autoridad competente. Lo anteriormente descrito, ha ocasionado afectación psicosocial y temor generalizado en la población. 
+
+Se evidencia que el albergue cuenta con lugares comunitarios diferenciados por género como dormitorios, duchas, baños los cuales cuentan con control de acceso, hasta el momento no hay registros ni se exterioriza riesgos de protección hacia las mujeres en el albergue, pero se observa casos de mujeres menores gestantes y lactantes.  
+
+Se resalta que la Alcaldía ha tomado las medidas necesarias para prevenir riesgos específicos contra NNJA en el albergue, para ello, se han realizado jornadas de sensibilización en torno a PEAS y maltrato infantil. De igual forma, el ICBF ha hecho entrega raciones de Bienestarina liquida a los 8 NNA que se encuentran en el albergue. 
+
+En la ERP se identifica a personas con necesidades especiales, como el caso de una mujer diagnosticada con embolia y que está en un estado delicado de salud; aunque la mujer ya fue valorada por el hospital, la sintomatología persiste, igual que un hombre con preinfarto consecuencia de lo sucedido, recibiendo atención médica pertinente.  
+
+Las familias alojadas en el albergue, han recibido servicios esenciales como alimentación, agua, ropa, medicamentos, elementos de aseo. En cuanto a las familias autoalbergadas, algunas lograron acceder a un mercado muy básico entregado por la administración municipal.  
+
+En relación con el acceso a servicios de salud, la alcaldía en articulación con la ESE ha destinado una ruta de atención prioritaria a familias afectadas por la emergencia, muchas cuentan con EPS de otros municipios o departamentos, considerando que gran parte de la población es pendular por su actividad económica (minería), aun así, por urgencias se han atendido las emergencias presentes, de las que destaca la remisión de dos personas una por infarto y la otra con una embolia trasladada a Aguachica para recibir atención médica especializada.  
+
+Frente a identidad legal, mayoritariamente los desplazados colombianos señalaron poseer sus documentos de identidad, aunque en la evaluación y caracterización se evidencio población migrante venezolana, algunas regularizadas con PPT y otras, sin documento regular, que accedieron al registro del censo masivo de emergencia.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => •Se presenta enfrentamientos entre  actores armados, los días 9, 10 y 11 de octubre en la vereda Mina Café (Morales) y sus veredas aledañas (16 veredas afectadas). ​
+
+•Las familias desplazadas son 427 Familias – 985 Personas pertenecientes a 16 veredas (Mina Gallo, Mina Viejito, Mina Argentina, Mina Repollo, Mina Central, Mina Mayinbu, Mina Nueva, Mina oro bonito, Mina Oso, Mina Paraíso, Mina Recocha, Mina Sinaí, Mina Vieja, Mina Mocha, La Paz, y la YE de San Luquitas) que llegan a cabecera municipal de Sta Rosa del Sur.​
+
+•Se identificaron familias víctimas de desplazamiento individual que quedaron fuera del masivo. ​
+
+•Se presento un caso de homicidio de una persona de la comunidad, la cual primeramente fue retenida y luego asesinada. ​
+
+•Existe contaminación por MAP y MSE de los territorios posterior al enfrentamiento en especial la vereda Mina Café. Situación que ha dilatado el regreso voluntario de la comunidad y la normalización de sus económicas. ​
+
+•Se han presentado casos de VBG y amenaza a mujeres compañeras sentimentales de otros GANEs ​
+
+•Se evidencia población migrante de nacionalidad venezolana dentro de la emergencia algunos en condición migratoria regular y otros sin documentación. ​
+
+•Desconocimiento de rutas generales de acceso a derechos.​
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => •¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección? ​
+
+Se identifica el caso de dos núcleo familiares  que durante el desplazamiento presentaron emergencias de salud los cuales fueron remitidos a otro centro asistencial de mayor nivel en el municipio de Aguachica, así como el caso de un homicidio donde los familiares (Cónyuge – Hijos)  requiere atención frente a la crisis emocional que le ha generado no solo el desplazamiento, sino las situaciones referenciadas de salud y duelo.​
+
+Las comunidades refieren presentar temor generalizado por la presencia constante de GANEs y fuerza publica en el territorio lo que puede ocasionar nuevamente de enfrentamientos o combates en la zona, donde se identifica una alta afectación psicosocial  (insomnio, miedo , llanto, ansiedad)​
+
+•¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)?​
+
+Se identifica la ocurrencia de hechos victimizantes individuales como desplazamientos individuales, homicidios y riesgos de uso y utilización de menores. Además de esto, la Personería Municipal refiere la ocurrencia de dos casos de VBG en el marco del conflicto armado. ​
+
+•¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo?​
+
+La comunidad en general (NNAJ, mujeres, hombres, adultos mayores) posterior al evento, presentan dificultades para conciliar el sueño, estrés, angustia, temor, zozobra, incertidumbre, algunos exteriorizan su sentir en el llanto, donde al a fecha no han tenido acceso a servicios de salud mental.​
+
+•¿El hecho victimizante ha sido visibilizado con la institucionalidad? ​
+
+El desplazamiento masivo ha sido visibilizado por parte de la institucionalidad de Santa Rosa del Sur quien a la  fecha en el marco del CMJT ha formalizado y brindado una atención parcial en la fase de  inmediatez. Es importante mencionar que  la recepción de censos quedo cerrada con 427 familias – 985 personas, se resalta que han recepcionado aproximadamente 14 hechos individuales de desplazamiento que quedaron fuera del masivo. ​
+
+•¿Tienen conocimiento las comunidades sobre normatividad de víctima? ​
+
+En el dialogo realizado con las comunidades exteriorizan que no poseen claridades sobre las rutas de atención para casos de afectaciones individuales y masivas. Asimismo, ni la alcaldía ni la personería municipal han realizado espacios informativos y de orientación sobre el acceso a derechos contemplados en la normatividad por su condición de víctimas. ​
+
+•¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención?​
+
+Las rutas de atención por hechos derivados del conflicto ha sido activada por la institucionalidad de igual manera la personería ha estado recepcionado los casos individuales fuera del masivo o por otros hechos victimizantes sufridos, la comunidad migrante de nacionalidad venezolana afecta ha podido acceder a estas rutas independientemente de que este regularizado o no. Se identifica que algunas personas poseen EPS de otros municipios o departamentos. ​
+
+Es importante enunciar que el grupo de familias que se desplazaron en la YE San Luquitas mediante CMJT quedo establecida la atención por parte del municipio de Morales.
+    [group_aa8xg30/group_lg2ro37/Shelter] => La evaluación de necesidades en el sector shelter ha identificado una serie de observaciones que impactan a la población desplazada en el casco urbano de Santa Rosa del Sur, las cuales se describen a continuación: 
+
+La mayoría de la población ha optado a auto albergarse con la ayuda de familiares y amigos. Aunque esta es una solución temporal de emergencia, las personas no se sienten cómodas en estas condiciones, pero, aun así, prefieren esta opción a la idea de ingresar a un albergue habilitado por el municipio. Esta decisión es debido a la sensación de mayor seguridad y comodidad que experimentan en entornos familiares. 
+
+El municipio ha establecido un albergue temporal para aquellos que no cuentan con redes de apoyo. En la actualidad, este albergue acoge a 14 familias (45 personas). Inicialmente se presentaron desafíos en la organización y gestión de este albergue, se ha logrado superar gracias al seguimiento constante por parte de la alcaldía en estos problemas. 
+
+La población manifiesta el deseo de regresar a sus hogares y comunidades de origen, pero existen temores debido a los rumores sobre la posible presencia de artefactos explosivos en sus territorios. El gobierno ha dado su aprobación en términos de seguridad para permitir el retorno de la población, pero estas preocupaciones continúan. 
+
+La institución pública en cabeza de la Alcaldía manifiesta su preocupación por su capacidad limitada en caso de que surjan nuevas situaciones que requieran el acceso a elementos de alojamiento temporal. En la actualidad, sus recursos e insumos se encuentran agotados. Elementos esenciales como colchonetas, cobijas y utensilios de cocina forman parte de las necesidades críticas que la Alcaldía requiere para poder responder de manera adecuada a futuras emergencias en términos de alojamiento temporal. 
+
+En el casco urbano, los niños, niñas y adolescentes en edad escolar enfrentan dificultades para acceder a la educación. Cabe destacar que esta situación no se debe a la falta de espacio o aulas, ya que el casco urbano dispone de suficiente infraestructura para atender las necesidades educativas de la población. Sin embargo, se requiere abordar las dificultades con la institución pública para garantizar el acceso a la educación de esta población.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => La mayoría de la población se auto albergan con el apoyo de familiares y amigos. Aunque las personas no se sienten cómodas en estas condiciones, prefieren esta opción a estar en un albergue, ya que se sienten más seguras y cómodos.​
+
+​
+
+El municipio ha habilitado un albergue temporal para la población que no cuenta con redes de apoyo, actualmente 14 familias. Inicialmente, se presentaron desafíos en la organización, pero estos problemas se han superado gracias a un seguimiento constante por parte de la alcaldía.​
+
+​
+
+En casco urbano, los NNAJ en edad escolar no están accediendo a la educación, esta no se debe a la falta de espacio o aulas, ya que el casco urbano cuenta con suficiente infraestructura para la atención educativa.​
+
+​
+
+La población expresa un fuerte deseo de regresar pronto a sus hogares, pero también manifiestan temor a rumores sobre instalación de artefactos explosivos en sus territorios. El gobierno ha dado luz verde en términos de seguridad para permitir el retorno de la población.​
+
+​
+
+La institución pública manifiesta su preocupación por su capacidad limitada en caso de que surjan nuevas situaciones que requieran acceso a elementos de alojamiento temporal. En la actualidad, sus recursos e insumos se encuentran agotados. Elementos esenciales como colchonetas, cobijas y utensilios de cocina hacen parte de las necesidades que la alcaldía requerir para poder responder de manera adecuada a futuras emergencias.​
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Proporcionar recursos y seguimiento que permita mejorar la seguridad y las condiciones de la población auto albergada.​
+
+Incidir para asegurar el acceso a la educación de la población NNAJ.​
+
+Incidir al gobierno local sobre los riesgos de presencia de artefactos explosivos en sus asentamientos y que se logren brindar medidas de mitigación.​
+
+Fortalecer la coordinación entre MIRE + y la institución local para detectar de manera oportuna situaciones de emergencia que requieran garantizar un acceso eficiente a los elementos de hábitat necesarios​
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿La mayoría de las familias y/o personas tienen donde albergarse >50%?. SI​
+
+¿La mayoría de las familias y/o personas tienen donde albergarse en condiciones seguras >50%?  SI.​
+
+¿Las familias cuentan con los elementos adecuados de hábitat que promuevan seguridad >50%? SI.​
+
+¿La institucionalidad y población desconoce sobre temas relacionados con el sector de Alojamiento y Asentamiento?  SI.​
+
+¿Los espacios educativos presenta hacinamiento agudizado por la emergencia, Si /No? NO.​
+
+¿Existen espacios educativos para la atención de NNAJ durante la emergencia, Si/No?SI.​
+
+¿Se cuenta con el apoyo y coordinación de autoridades locales para el seguimiento y desarrollo de espacios educativos en la emergencia, Si/No? SI.​
+    [group_aa8xg30/group_fv0ct51/Agua] => En la cabecera municipal de Santa Rosa del Sur opera un sistema de acueducto municipal. Sin embargo, se ha observado que este sistema experimenta interrupciones periódicas. El albergue ubicado en el casco urbano es especialmente vulnerable a estas interrupciones, ya que el suministro de agua solo se lleva a cabo durante tres horas en las tardes para recargar los tanques de almacenamiento del espacio. 
+
+El albergue habilitado por el municipio cuenta con dos tanques elevados de 1000 litros, sin embargo, la baja presión del acueducto impide que estos tanques se llenen adecuadamente, lo que afecta la disponibilidad de agua en el albergue. Además, la alcaldía proporcionó un tanque de 2000 litros instalado a nivel del suelo, sistema el cual carece de un adecuado grifo de salida y un control seguro para la toma del agua, lo que requiere que el llenado se realice con mangueras y la extracción manualmente con un balde.  
+
+En el albergue, no se realizan prácticas o tratamientos para desinfectar el agua de consumo, lo que evidencia un riesgo potencialmente alto de contaminación del agua y posibles afectaciones en la salud de los residentes, especialmente en lo que respecta al agua utilizada para el consumo directo y la preparación de alimentos. Es importante destacar que, hasta la fecha, no se han registrado informes de problemas de salud ni se han documentado casos relacionados con trastornos gastrointestinales en la población del albergue.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => El albergue habilitado por el municipio dispone de un total de 3 baños, con 2 destinados para mujeres y 1 para hombres, cubriendo las necesidades de la población actual de 14 familias (45 personas). Los desechos de estos baños son dirigidos a un pozo séptico que actualmente está en funcionamiento. Los baños cuentan con iluminación, seguridad y enfoque de género mitigando los riesgos de VBG en el albergue, además, se ha brindado el acompañamiento de la alcaldía para fortalecer los mensajes claves con el objetivo de prevención a este tipo de riesgos.   
+
+La recolección de residuos se lleva a cabo cada dos días, específicamente en las noches, a través del servicio municipal. Para mantener la higiene en el albergue, se han colocado puntos de recolección de residuos en los baños, y se ha añadido una papelera adicional en la cocina del albergue. 
+
+Algunas personas del desplazamiento ubicadas en el albergue lograron llegar con sus mascotas. Lo que género el desarrollo de estrategias para la limpieza y manejo diario de sus desechos y necesidades de los animales por parte de los propietarios y en coordinación con los lideres del albergue.
+    [group_aa8xg30/group_fv0ct51/Higiene] => En términos de higiene de la población que se encuentra el albergue, la alcaldía y la comunidad de acogida han proporcionado apoyo al albergue al suministrar insumos de higiene para la limpieza del espacio y el cuidado personal. La población residente en el albergue reconoce la importancia del lavado de manos en momentos clave, como antes de las comidas y después de usar el baño, y esto ha sido parte de su rutina diaria. Por otro lado, la población que se encuentra en hogares o redes de apoyo como familiares y amigos, esta población no ha recibido ningún apoyo en términos de higiene. 
+
+Se ha identificado una limitante en la atención a las necesidades de higiene menstrual para las mujeres del albergue, quienes deben adquirir estos insumos por sus propios medios y recursos. Además, en el albergue se identificó población de la tercera edad y bebés, quienes requieren elementos específicos como pañales, paños de limpieza y otros productos con un enfoque diferencial. Estos elementos son adquiridos por la población afectada debido a la falta de apoyo específico a sus necesidades.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Agua​
+
+El municipio de Santa Rosa del Sur dispone de un sistema de acueducto municipal, aunque este sistema a veces presenta fallas y es intermitente en su funcionamiento.​
+
+El albergue ubicado en el casco urbano enfrenta problemas de desabastecimiento de agua. El suministro de agua solo se realiza durante tres horas en las tardes para recargar los tanques.​
+
+El albergue cuenta con dos tanques elevados de 1000 litros, la baja presión del acueducto impide que estos tanques se llenen adecuadamente.​
+
+La alcaldía proporcionó un tanque de 2000 litros, instalado a nivel del suelo. Carece de un grifo de salida y de un control para la toma del agua. La toma de agua se realiza manualmente con un balde.​
+
+No se lleva a cabo ningún tipo de tratamiento al agua consumida en el albergue, a pesar de lo cual, no se han reportado problemas gastrointestinales relacionados con el agua actualmente disponible.​
+
+Saneamiento​
+
+Existencia de 3 baños en total: 2 baños para mujeres y 1 baño para hombres.​
+
+Los desechos de los baños van directamente a un pozo séptico, actualmente en funcionamiento.​
+
+La recolección de residuos se realiza cada dos días, específicamente en las noches, con el servicio municipal.​
+
+Existen mascotas de la población en el albergue, donde se han tomado estrategias para la limpieza y manejo diario para sus desechos y necesidades.​
+
+Existen sistema de recolección de residuo en el albergue, con papeleras en los baños  y 1 adicional en la cocina del albergue.​
+
+Higiene​
+
+La alcaldía y la comunidad de acogida brindo apoyo a la población del albergue, suministrando insumos de higiene para la limpieza del espacio y el cuidado personal.​
+
+La población en el albergue reconoce la importancia del lavado de manos en momentos clave, como antes de comer, después de usar el baño.​
+
+Las mujeres en el albergue no reciben apoyo en cuanto a higiene menstrual y deben adquirir estos insumos por su cuenta.​
+
+En el albergue, existen residentes de la tercera edad y bebés que requieren elementos como pañales, paños de limpieza y otros productos con enfoque diferencial. Estos elementos son adquiridos con los recursos de la misma población afectada.​
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Asegurar el adecuado funcionamiento del sistema de suministro y almacenamiento de agua del albergue.​
+
+Dotación de filtro de agua comunitario en el albergue para agua de consumo y preparación de alimentos.​
+
+Brindad acceso a la población los recursos para acceder a elementos de higiene y cubrir las necesidades en todos los enfoques de la población.​
+
+Fortalecer buenas conductas de higiene a través de espacios de sensibilización e información WASH.​
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => 100% de la población que NO usa agua segura. ​
+
+100% de la población que NO tiene recursos suficientes para la compra de todos los implementos de aseo.​
+    [group_aa8xg30/group_jn0nm53/san] => Las comunidades desplazadas de las veredas de los municipios de Morales y Monte cristo Bolívar, se encuentran refugiadas en la cabecera municipal de Santa Rosa del sur. En la emergencia, estas han afectado completamente sus medios de vida y seguridad alimentaria, pues ante esta situación no han accedido a sus cultivos de pan coger ni a sus principales medios de vida relacionados con la minería. Por eso, han dependido de las ayudas entregadas por parte de la institucionalidad para satisfacer sus necesidades básicas de alimentación, agua, aseo y Alojamiento. Al aplicar la ERN, se pudo evidenciar que la institución municipal y departamental (Alcaldía, Gobernación, ICBF) se esforzó por atender las necesidades más agudas con la entrega de paquetes alimentarios a todas las familias desplazadas (tanto para las del albergue como para las ubicadas en el casco urbano en redes de apoyo).  
+
+Se aclara que la asistencia ha sido diferencial para las dos formas de albergue, las familias en redes de apoyo recibieron alimentos para cubrir necesidades de una semana. Las familias manifiestan que el paquete no es suficiente al tener que compartir con los núcleos receptores y el número de integrantes de su propio núcleo, frente a lo que han tenido que reducir el número de comidas y porciones. En el albergue municipal se ha gestionado la entrega diaria de insumos para la elaboración de ollas comunitarias, garantizado 3 comidas al día. Entre los alimentos que se entregan se mencionaron: arroz, pasta, harina, verduras, enlatados, lenteja, frijol y en algunas ocasiones proteína animal como gallinas y hueso, adicionalmente, el ICBF entrego raciones de Bienestarina liquida para los niños alojados en el albergue. Sin embargo, las familias han manifestado que el tamaño de las porciones ha disminuido y que han tenido que comer alimentos menos preferidos y reducir la variedad de alimentos consumidos.  
+
+Antes de la emergencia, las comunidades presentaban una alimentación basada principalmente en los cultivos que sembraban y en el sustento que generaban a partir de la minería. Mencionaron que para su alimentación tenían algunos cultivos como: yuca, maíz, ahuyama entre otros. Para adquirir algunos productos como el arroz, el aceite, la sal y las carnes se dirigían a las tiendas veredales. 
+
+Debido al desplazamiento forzado, estas actividades económicas no se continuaron realizando. La población manifiesta su preocupación por los cultivos, las cosechas y los animales, pues sin nadie que los cuide pueden perderse. Como consecuencia, de esta situación, las pérdidas son en especie y monetarias.  
+
+No se han identificado casos de desnutrición por parte del ICBF.  
+
+Si bien, algunas familias han venido retornando, las minas más cercanas a los lugares en donde se desarrollaron los enfrentamientos, hay otro número 185 familias que aún permanecen en cabecera municipal dado el temor derivado de la presencia constante de los GANE. Por la misma dinámica que se ha venido desarrollando en los últimos meses, se presume que las familias al momento de retornar puedan sufrir hechos relacionados con restricciones a la movilidad, a la vez, la institucionalidad alerta que se pueden seguir presentando hechos que pueden derivar en desplazamientos masivos e individuales relacionados a los enfrentamientos constantes por parte de los GANE en el territorio.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => En condiciones normales el acceso al mercado es fácil.​
+
+ No se puede descartar la posibilidad de que se puedan dar cierres de vías relacionados con el conflicto armado o paros de trabajadores.
+
+Santa Rosa del Sur es una cabecera municipal bastante urbanizada que cuenta con un mercado diverso y solido en el cual se evidencia un flujo constante de mercancías. Hay variedad de tiendas (supermercados, carnicerías, verdulerías, fruterías, pescaderías, tiendas mixtas) tanto minoristas como mayoristas. En condiciones normales los comerciantes se abastecen en menos de una semana y procuran mantener los precios de sus productos estables. En ocasiones deben aumentar precios cuando hay escasez y sus proveedores aumentan precios.
+
+Las familias desplazadas de las comunidades afectadas tienen un acceso libre y sin barreras al mercado. Han manifestado que Santa Rosa del Sur es un municipio muy diverso, por lo cual no se han sentido discriminados y han podido movilizarse con libertad por el centro urbano y los comercios. Han utilizado proveedores financieros como Efecty y conocen como funcionan.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => En la evaluación rápida de necesidades realizada a la población desplazada en la zona urbana de Santa Rosa del Sur, se encontró que la situación de salud en zona rural de este municipio difiere mucho de las condiciones en la zona urbana. 
+
+Dentro de las patologías que afectan a la población desplazada se encuentran enfermedades de interés en salud pública como la malaria de la cual son prevalentes el plasmodium vivax y falciparum, según se pudo indagar, los casos de paludismo son frecuentes entre la población y normalmente asisten al centro de salud municipal de forma tardía con signos de complicación, adicionalmente, se han documentado casos de leishmaniasis y dengue; por otra parte, esta zona es endémica de serpientes, por lo cual, los accidentes ofídicos son comunes, según la entidad municipal de salud se han atendido mas de treinta casos de accidentes bohtropicos provenientes del área rural en lo corrido del presente año, por tanto, la E.S.E municipal maneja en su stock entre 40 y 50 ampollas de suero antiofídico.  
+
+  
+
+Las patologías crónicas más prevalentes en esta población es la hipertensión arterial, siendo esta ultima la mas prevalente, quienes manifiestan dificultades para acceder a sus controles y a sus medicamentos de forma regular desde sus veredas. En cuanto a población infantil son comunes los casos de EDA y parasitosis ante la dificultad para acceder a aguas seguras, por otra parte, se documentan casos periódicos de IRA en menores de 5 años.  
+
+En el albergue dispuesto para las familias desplazadas se realizaron atenciones de un caso de lumbago y una miasis, las patologías comunes referidas por la población del albergue manifiestan problemas relacionados con micosis superficiales, dolencias osteomusculares y molestias gastrointestinales. 
+
+En el marco de la emergencia si se han presentado casos emergentes en salud como lo fue el caso de un hombre masculino de mediana edad que sufrió un infarto, así como un caso de crisis migrañosa, una afectación leve por artefacto explosivo y dos trabajos de parto, dichas situaciones gestionadas y manejadas por la E.S.E municipal Manuel Elkin Patarroyo. 
+
+  
+
+Al indagarse por casos de DNT aguda, según reportan directivas de la E.S.E, en lo corrido del año se han presentado diferentes casos de DNT que corresponden a población urbana y rural pero que no han ocurrido en el marco de la emergencia. 
+
+  
+
+Mujeres gestantes y planificación familiar: 
+
+Con respecto a las mujeres gestantes, estas en sus respectivas veredas deben trasladarse a la cabecera municipal para sus controles, sin embargo, según refieren en ocasiones asisten a las brigadas realizadas por la ESE municipal en la vereda de la Y de San Luquitas donde se hacen brigadas ocasionales en el puesto de salud allí ubicado, no obstante, se enfrentan a barreras administrativas debido a que la población que allí confluye se encuentra afiliada en los municipios de Morales, Arenal o Montecristo por lo que muchas veces no pueden acceder a los servicios de salud ofertados por Santa Rosa del Sur. Algunos de los partos se producen de forma domiciliaria en su vereda, pero la gran mayoría se desplazan a la zona urbana para el alumbramiento, por otra parte, se encontraban registradas 5 gestantes en el albergue de las cuales se tiene conocimiento habían salido del albergue y se encuentran en poblaciones aledañas a Santa Rosa. 
+
+En cuanto a los servicios de planificación familiar estos solamente se ofertan en cabecera municipal, en el caso particular de la población desplazada pueden acceder a dichos servicios solamente las mujeres afiliadas en Santa Rosa del Sur, para las otras mujeres zonificadas en lugares diferente o población migrante irregular su acceso a los servicios de planificación es prácticamente nulo. al indagarse acerca de la posibilidad de ofertar dichos servicios manifestaron que seria un servicio demandado por la comunidad. 
+
+  
+
+Vacunación: 
+
+Al indagarse sobre vacunación los menores en su mayoría contaban con un plan de inmunización actualizado al ser este servicio ofertado por la ESE municipal, sin embargo, en sus respectivas veredas dicho servicio es nulo por lo que deben esperar a la brigada o desplazarse a la cabecera municipal para la vacunación de los menores. 
+
+  
+
+Cobertura e intervenciones en salud:  
+
+Acerca del aseguramiento, las personas en un alto porcentaje se encuentran afiliadas al sistema general de seguridad social en salud, siendo las EAPB predominantes NUEVA EPS y Cajacopi, la primera cuenta con una cobertura de aproximadamente el 90% de la población.  
+
+Las comunidades que se han visto más afectadas por los hechos de violencia en la región son principalmente las asentadas en los corregimientos de Mina Gallo, Mina Café y Mina Viejito, los cuales pertenecen al municipio de Morales, sin embargo, barreras de tipo geográfico y administrativo han llevado a que en su mayoría los habitantes de estas comunidades reciban atención en salud por parte la E.S.E Hospital Manuel Elkin Patarroyo, en el municipio de Santa Rosa del Sur.    
+
+  
+
+En la Y de San Luquitas existe un centro de salud, sin embargo, debido a barreras administrativas y burocráticas entre los municipios de Santa Rosa del Sur y Morales, actualmente no está en funcionamiento, aun así, la E.S.E Hospital Manuel Elkin Patarroyo ha llevado a cabo múltiples brigadas de salud, siendo la última el 13, 14 y 15 de octubre la cual fue suspendida por condiciones de seguridad.   
+
+Por parte de otras ONG, La organización JSR (Servicio Jesuita a refugiados) tiene un programa permanente de atención en salud mental en estos corregimientos con base en el casco urbano de Santa Rosa del Sur y el CICR ha realizado diferentes intervenciones, adicionalmente se prevé atención en zona rural en cuanto a servicios de salud.  
+
+Referentes comunitarios en salud:  
+
+En la comunidad no se cuenta con un promotor de salud establecido, ni personas que desempeñen un rol activo en salud, los lideres de la comunidad manifiestan que es necesario se establezca un centro de salud en el área y puedan tener de forma permanente atención pen salud. 
+
+Capacidad instalada:  
+
+El municipio de Santa Rosa del Sur cuenta con la E.S.E Hospital Manuel Elkin Patarroyo, centro de salud de primer nivel de atención que cuenta con una planta médica de 21 médicos generales. Cuenta con los servicios de consulta externa, urgencias y hospitalización, ambulancias (5 terrestres y 2 acuáticas), programas de vacunación, enfermedades crónicas, planificación familiar y odontología. No cuenta con servicios de especialidades médicas ni unidades de cuidados intermedios, por lo que todos los casos emergentes o patologías que requieran atención por alguna especialidad deben ser remitidos o trasladados a otros centros hospitalarios. Respecto a la atención en salud mental el hospital cuenta con un psicólogo de planta, y la Alcaldía municipal dispone de un programa de atención en salud mental con 6 profesionales del área de Psicología.  
+
+El segundo nivel de remisión y referencia es la E.S.E Hospital San Antonio de Padua en el municipio de Simití, el cual es un centro hospitalario de segundo nivel, sin embargo, se han presentado dificultades en la atención de los pacientes remitidos a este centro de referencia, por lo cual muchos de los pacientes terminan siendo remitidos directamente a otros centros hospitalarios en el municipio de Aguachica Cesar o en la ciudad de Bucaramanga.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => (Salud-Salud Mental y Psicológica) : 
+
+En cuanto a las afectaciones de salud mental a nivel de las comunidades de estos corregimientos (Mina Gallo, Mina Café y Mina Viejito), se encuentra un temor generalizado dada la inestabilidad de la situación y la persistencia de combates entre los diferentes GANE presentes en la zona. Se evidencia cierto grado de tranquilidad por lo que la comunidad está planeando retornar a su lugar de residencia; esto debido a que la fuerza pública, más en concreto el Ejercito Nacional ha hecho presencia en la zona, los pobladores refieren miedo a transitar por los caminos rurales ante el riesgo de MAP/MUSE/AEI.   
+
+Muchas personas manifiestan ansiedad, tristeza y desesperanza ya que más allá de los actuales acontecimientos que llevaron al desplazamiento de la comunidad, hechos como los recientes se han venido presentado de forma regular en los últimos meses, generando en la comunidad una sensación de impotencia y vulnerabilidad. Sin embargo, de debe destacar la capacidad de resiliencia en la población en general, pues pese a verse obligados a vivir en un contexto de violencia y afrontar emociones o sentimiento de miedo o desesperanza, han logrado adaptarse y continuar adelante con sus laborales sociales, laborales y académicas.   
+
+ Escolaridad:   
+
+Cada corregimiento cuenta con su respectivo centro educativo, permitiendo que la población en edad escolar acceda de forma regular a la educación básica primaria. Respecto a la educación básica secundaria, media y superior los estudiantes deben desplazarse hacia los municipios aledaños o asentarse en estos. En el marco o contexto actual, las clases en los corregimientos han sido suspendidas por la persistencia de combates entre los diferentes GANE presentes en la región. En el momento la comunidad no refiere casos recientes de reclutamiento de menores.   
+
+Recreación:  
+
+Las actividades de recreación en la comunidad adulta son esencialmente orientadas a departir con bebidas alcohólicas en un establecimiento, así como también el baile y la práctica del billar; respecto a la población infantil cuentan con pequeñas áreas de recreación ubicadas en los centros educativos de los corregimientos.   
+
+Consumo de SPA:  
+
+Al indagar sobre el consumo de sustancias psicoactivas la comunidad fue muy enfática en que estas se encuentran prohibidas por parte de los grupos y que no se avistan consumidores de marihuana, cocaína y demás, el único consumo permitido es el de alcohol.   
+
+Roles de género:  
+
+Los roles de género observados pertenecen a los habituales y culturalmente establecidos, donde predomina el enfoque patriarcal. En su mayoría los hombres en edad productiva desempeñan laborales fuera del hogar, principalmente enfocadas a economías como la minería del oro y los cultivos de coca en la parte alta de la zona rural, por otro lado, la mayoría de las mujeres en edad productiva desempeñan labores domésticas y del cuidado de los hijos, aunque desempeñan también actividades económicas en la minería mediante el trabajo de las sobras de la mina principal conocido como “chatarreo” y también se desempeñan en actividades de venta de comidas lo cual aporta a la economía del hogar.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => En los distintos espacios realizados donde se abordo la temática como por ejemplo la institucionalidad se refirió que no se tiene conocimiento de casos de VBG/VS en el marco de la emergencia actual, sin embargo, manifestaron que existen las rutas de atención necesarias para dar respuesta a dichos casos incluso organizaciones como JRS (Servicio Jesuita para Refugiados) manejan están distintas problemáticas con la población mediante sus acciones en la zona. Al indagar estas problemáticas con la población desplazada tampoco se hicieron referencias en dicho aspecto sin embargo se considera que estas zonas son proclives a padecer dichas problemáticas especialmente en el marco de la emergencia humanitaria por lo que se debe indagar de forma mas individual y privada la existencia de VBG/VS en las comunidades desplazadas.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Barreras en salud: 
+
+Barreras administrativas: Una de las principales barreras evidenciadas fue la afiliación de las personas, que si bien en su mayoría pertenecen a los municipios aledaños, la atención medica es brindada por el municipio de Santa Rosa del Sur, por lo que muchas veces la atención no puede ser prestada sin distinción del sitio de afiliación, por tanto, se convierte en una barrera que impide el acceso a la salud. Inclusive las personas desplazadas que se encuentran en el casco urbano no pueden acceder a servicios de consulta externa si no solamente servicio de urgencias. 
+
+ Patologías prevalentes: 
+
+Hipertensión arterial 
+
+Celulitis 
+
+EDA 
+
+IRA 
+
+  
+
+Se encontraron patologías de interés en salud pública como: Malaria, Leishmaniasis y dengue. 
+
+  
+
+No se identificaron personas referentes de salud en la población desplazada. 
+
+Según la institucionalidad si se han presentado caso de DNT aguda, sin embargo, coinciden en que no se han presentado en el marco de la emergencia. 
+
+Se documentaron ingresos de la ESE municipal periódicamente a las zonas rurales. 
+
+Se realizo durante la ERN atención de dos casos de salud: 1. Un caso de Miasis, 2. Un caso de lumbago. 
+
+Se considera que si existen necesidades humanitarias en salud sin embargo los casos emergentes que han ocurrido han sido cubiertos de forma oportunidad por las autoridades municipales en salud por lo cual no se considera una intervención de fase 1, adicionalmente por la intención de retorno en el corto plazo de las familias tampoco se beneficiarían de una intervención de fase 2. 
+
+Se documentaron casos de: 
+
+Insomnio 
+
+Ansiedad 
+
+Estrés agudo 
+
+Desesperanza 
+
+Trastornos adaptativos 
+  
+  
+
+Salud mental: 
+  
+Se encontró una normalización de la situación puesto que para estas personas dichos eventos son recurrentes. 
+
+No se han presentado recientemente casos de intentos de suicidio en las comunidades. 
+
+No se encontraron casos de abuso de SPA sin embargo se recomendaría indagar en caso de una intervención la presencia de estas conductas en la comunidad. 
+
+No se documentaron incremento de casos por encima de la línea basal en salud mental. 
+
+En cuanto al tejido social, existen lideres de la comunidad sin embargo no se documentó constitución de JAC como tal en la población del albergue.  
+
+No se documentaron casos expresos de VBG y VS, sin embargo, se podrían documentar casos en el transcurso de una intervención.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => Salud Física: 
+
+Se reportó un incremento en los casos de Malaria tanto por P. falciparum como P. Vivax. Se recomiendan tomar las siguientes medidas:  
+
+- Realizar regularmente actividades de fumigación para el control de vectores en los diferentes corregimientos afectados. 
+
+- Nombrar y capacitar lideres dentro de la comunidad para que se conviertan en promotores de salud y ayuden a educar a sus comunidades respecto al control de vectores. 
+
+  
+
+Gestionar la entrada en funcionamiento del centro local de salud en las veredas, ya que para la comunidad no es fácil desplazarse hasta el casco urbano. 
+
+Se recomienda adelantar procesos que permitan superar las barreras administrativas que impiden la prestación del servicio a una gran cantidad de personas en la comunidad. 
+
+No se recomienda ingreso de primera fase debido a que las necesidades de salud emergentes se pueden cubrir con la capacidad institucional instalada en el municipio. Por otro lado, una segunda fase tampoco se visiona factible debido a la intención de retorno en el corto plazo de las personas desplazadas. 
+
+  
+
+Salud mental: 
+
+Implementar con prontitud un programa de atención en salud mental y realizar brigadas periódicas a las comunidades afectadas; aunque se cuenta con la presencia de profesionales en salud mental, sobre todo por parte de la alcaldía, tanto la comunidad como el hospital comunicaron que no se ha logrado brindar o acceder a este servicio de forma efectiva.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => Indicadores Clave en Salud VBG, Física, Mental y Psicológica:  
+
+No se identificó la necesidad de activar rutas de VBG ni VS al no documentarse casos. 
+
+No hay reportes de aumento de Violencia Basada en Género desde el inicio de la emergencia 
+
+No existen casos reportados de DNT aguda en menores de 5 años, ni morbimortalidad materna extrema, tampoco de mortalidad en menores de 5 años desencadenados en el marco de la emergencia. 
+
+No existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida. 
+
+No se reportan casos de reclutamiento en el marco de la emergencia.
+    [group_aa8xg30/group_tb5de96/EIE] => En términos de educación las comunidades refieren que, el calendario escolar se venía desarrollando con normalidad hasta el día viernes 6 de octubre. Posterior durante los días 9, 10 y, 11 se presentaron los eventos que ocasionarían el desplazamiento de las 14 comunidades hacia el casco urbano de Santa Rosa del Sur. si bien las veredas pertenecen jurisdiccionalmente en su mayoría al municipio de Morales, Santa Rosa del sur les es más accesible por las condiciones geográficas y condiciones para la movilidad (Disponibilidad de servicios de transporte, vías, recursos económicos). 
+
+ 
+
+Se identifica la institución educativa técnica de Corcovado como la principal receptora de la población escolar afectada por la emergencia en las sedes de: Mina Gallo, Mina Caribe y Mina Viejito, en los niveles de Básica Primaria.  Por otro lado, el nivel de secundaria es tomado en La sede principal IE Santa Rosa del sur en cabecera municipal, y otra parte eran enviados a otras, como a Morales y ciudades como Bucaramanga y Agua Chica.  
+
+ 
+
+La institución está adscrita administrativamente al municipio de Morales, por lo cual la mayoría de información recolectada se realizó en el dialogo con la comunidad, dado que la institucionalidad no tenía información clara frente a la gestión y prestación del servicio educativo por parte de la IE.  
+
+ 
+
+Se Reportan 224 NNA en edad escolar entre los 5 y 17 años (95 Hombres 129 Mujeres), no se logra identificar número de docentes, la comunidad refiere que estos salieron del territorio desde el fin de semana de la ocurrencia de los hechos. La información de las Familias y la recolectada con el censo evidencia que la población en edad escolar está matriculada.  
+
+ 
+
+En la emergencia no hay ataques a la escuela, pero el desplazamiento de las familias y la presencia frecuente de los GANE en la zona alerta sobre los riesgos de protección de la población y de los NNA.  Las familias reportan afectaciones psicosociales que pueden afectar la población escolar y comunidades en general, entre estas, la población fue recurrente en manifestar sentir temor ante riesgo por instalación de artefactos explosivos o presencia de MSE, si bien no existen antecedentes recientes, las familias lo identifican como una amenaza. 
+
+ 
+
+Hay problemas de oferta educativa dados los vacíos administrativos entre la jurisdicción de Morales y Santa Rosa del sur, ya que, aunque pertenecen geográficamente a Morales; algunas de las Juntas de Acción Comunal se han inscrito en Santa Rosa, por lo que los servicios a veces los suple la administración municipal de Santa Rosa del sur.  Por esto, se presenta déficit en estrategias de acceso y permanencia vinculadas a la calidad escolar, (Mobiliario, Material fungible, didáctico y pedagógico) 
+
+ 
+
+Por último, no se ha identificado mecanismos de atención que cubran el sector de educación en emergencias en las escuelas de las comunidades afectadas, por otros actores humanitarios o la institucionalidad dado que las atenciones y respuestas se han enfocado en otros sectores.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Se reportan 224 NNA (95 Hombres – 129 Mujeres) en edad escolar afectados por la emergencia.​
+
+La Mayoría de las familias incluyendo a los NNA se encuentran albergadas en redes de apoyo (casas de amigos y familiares).​
+
+Se presento una interrupción del servicio educativo, desde el día viernes 6 de octubre hasta la fecha.​
+
+Las familias de las veredas se desplazaron y los docentes de las veredas también salieron de los territorios.​
+
+La institución educativa principal  es I.E Técnica Corcovado y las 16 sedes de las veredas afectadas  hacen parte de la I.E Básica de Corcovado.​
+
+No se reporta número de docentes afectados, las veredas afectadas pertenecen a dos municipios (Morales y Santa Rosa) no hay claridad de los docentes afectados.​
+
+La IE pertenece al municipio de Morales por lo cual la institucionalidad en la comunidad de acogida no cuenta con información amplia sobre el estado del sector y la comunidad educativa.​
+
+Se reporta por parte de la comunidad temor por  riesgos frente a MAP , MSE Y TE en las veredas.​
+
+En el albergue solo se alojan 13 familias  / 33 personas de las cuales solo 8 son NNA en edad escolar , las familias reportan que todos los NNA se encuentran matriculados y que las clases se venían desarrollando con normalidad antes de los hechos. ​
+
+No se han realizado actividades de recuperación emocional o educación en emergencias con ninguno de los NNA ni con la comunidad en general.​
+
+Las  familias han venido retornando paulatinamente a sus comunidades y según información de la institucionalidad de Santa Rosa del sur los docentes también han retornado para retomar las clases. ​
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => Hacer seguimiento a la situación de las escuelas en las veredas, frente al inicio de las actividades escolares y el ajuste del calendario escolar.​
+
+Establecer diálogos con la institucionalidad a cargo de las IEs Para propiciar estrategias desde la gestión del riesgo escolar para situaciones de emergencia.​
+
+Realizar Incidencia frente a la afectación del sector educativo en los municipios de Santa Rosa y Morales.​
+
+​
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => Ataque a la Escuela(s) de la comunidad durante la emergencia presencia 1 o + eventos durante la emergencia:  NO​
+
+Suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia. SI.​
+
+Se identifica afectación en NNA en edad escolar ante la presencia 1 o + riesgos de protección durante la emergencia: SI.​
+
+Durante la emergencia existe la necesidad construcción de 1 o + Espacios Temporales de Aprendizaje Seguro e inclusivo. NO.​
+
+La escuela NO cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO CUENTA.​
+
+6. La Institución Educativa NO cuenta con Plan de Gestión integral de riesgo escolar PGIRE y ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.​
+    [group_aa8xg30/group_tb5de96_001/TM] => Durante el análisis de necesidades realizado con las familias afectadas y la institución local (la alcaldía), se han identificado dos contextos fundamentales en relación a la actual emergencia. En primer lugar, encontramos a la población que se encuentra alojada en el albergue habilitado por el municipio. En segundo lugar, está la población que ha buscado refugio con sus propios medios en redes de apoyo, como familiares y amigos.  
+
+De acuerdo con la información proporcionada directamente por la población, la interrupción de sus actividades laborales y el desplazamiento provocado por la emergencia desde el 10 de octubre han dejado a estas familias sin recursos económicos. Esta situación ha generado una limitación significativa en los recursos disponibles para satisfacer las necesidades básicas. 
+
+En cuanto al comercio en la comunidad receptora de Santa Rosa del Sur, es importante mencionar que cuentan con mercados y tiendas de tamaño mediano que se abastecen regularmente desde Bucaramanga y el centro del país. La mayoría de las familias suelen comprar sus alimentos a diario, con muy pocas realizando compras semanales, y las tiendas están abiertas todos los días.  
+
+En el casco urbano de Santa Rosa del Sur, existen proveedores y canales financieros como Efecty, Supergiros, Daviplata y otros. Esta área urbana ofrece una amplia gama de bienes y servicios, incluyendo supermercados bien abastecidos y sucursales de proveedores financieros como Efecty, que tienen la capacidad operativa necesaria para implementar un Programa de Transferencias Monetarias. El análisis de mercado, los riesgos y las observaciones indican que, dadas las circunstancias de esta emergencia, es factible que las comunidades desplazadas en el casco urbano puedan acceder a la implementación de este tipo de ayuda económica.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => Durante el análisis de necesidades realizado con las familias afectadas y la institución local (la alcaldía), se han identificado dos contextos fundamentales en relación a la actual emergencia. En primer lugar, encontramos a la población que se encuentra alojada en el albergue habilitado por el municipio. En segundo lugar, está la población que ha buscado refugio con sus propios medios en redes de apoyo, como familiares y amigos.  
+
+De acuerdo con la información proporcionada directamente por la población, la interrupción de sus actividades laborales y el desplazamiento provocado por la emergencia desde el 10 de octubre han dejado a estas familias sin recursos económicos. Esta situación ha generado una limitación significativa en los recursos disponibles para satisfacer las necesidades básicas. 
+
+En cuanto al comercio en la comunidad receptora de Santa Rosa del Sur, es importante mencionar que cuentan con mercados y tiendas de tamaño mediano que se abastecen regularmente desde Bucaramanga y el centro del país. La mayoría de las familias suelen comprar sus alimentos a diario, con muy pocas realizando compras semanales, y las tiendas están abiertas todos los días.  
+
+En el casco urbano de Santa Rosa del Sur, existen proveedores y canales financieros como Efecty, Supergiros, Daviplata y otros. Esta área urbana ofrece una amplia gama de bienes y servicios, incluyendo supermercados bien abastecidos y sucursales de proveedores financieros como Efecty, que tienen la capacidad operativa necesaria para implementar un Programa de Transferencias Monetarias. El análisis de mercado, los riesgos y las observaciones indican que, dadas las circunstancias de esta emergencia, es factible que las comunidades desplazadas en el casco urbano puedan acceder a la implementación de este tipo de ayuda económica.
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Entrega de TM a los nuclueos familiares que se encuentran en desplazamiento para cubrir sus necesidades inmediatas
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 10
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 6
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 4
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Edna Ponton
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3175099172
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Alcaldia Municipal
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Adriana Personera
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3157100163
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Personeria municipal
+    [group_sp7cc00/Observaciones_adicionales] => NA
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:3b214b7d-26e0-4c46-8c0c-43dd74abe802
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 3b214b7d-26e0-4c46-8c0c-43dd74abe802
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3b214b7d-26e0-4c46-8c0c-43dd74abe802%2FCENSO_SANTA_ROSA_DEL_SUR-8_47_24.xlsx
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3b214b7d-26e0-4c46-8c0c-43dd74abe802%2FCENSO_SANTA_ROSA_DEL_SUR-8_47_24.xlsx
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3b214b7d-26e0-4c46-8c0c-43dd74abe802%2FCENSO_SANTA_ROSA_DEL_SUR-8_47_24.xlsx
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F3b214b7d-26e0-4c46-8c0c-43dd74abe802%2FCENSO_SANTA_ROSA_DEL_SUR-8_47_24.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/3b214b7d-26e0-4c46-8c0c-43dd74abe802/CENSO_SANTA_ROSA_DEL_SUR-8_47_24.xlsx
+                    [instance] => 498154465
+                    [xform] => 638464
+                    [id] => 212273864
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-10-30T14:01:02
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,71 @@
+stdClass Object
+(
+    [_id] => 416536693
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-04-13T15:29:10.663-05:00
+    [end] => 2023-04-13T15:33:20.305-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => SAN ANDRES DE TUMACO
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => N/A
+    [group_gu1lq88/Nombre_de_la_comunidad] => N/A
+    [group_gu1lq88/Urbano_Rural] => urbano
+    [group_gu1lq88/time1] => 2023-04-13
+    [group_gu1lq88/Nombre_de_quien_reporta] => Ana Lucía Robles
+    [group_gu1lq88/Cargo] => Alianza Por la Solidaridad
+    [group_gu1lq88/Origen_de_la_informaci_n] => ONG
+    [group_gu1lq88/Nombre_de_la_ONG] => Alianza Por la Solidaridad - Regional Nariño
+    [group_hl1yc96/La_alerta_corresponde_a_] => PR
+    [group_hl1yc96/Esta_atenci_n_se_di_rco_de_la_emergencia] => N/A
+    [group_hl1yc96/Fecha_del_hecho_victimizante_de_VBG] => 2022-09-01
+    [group_hl1yc96/Descripci_n_de_la_alerta_de_VBG] => APSNASA_U_ELAL982PR: Mujer de 63 años quien a lo largo del año ha recibido amenazas por su labor de liderazgo en defensa de los derechos humanos y la población LGBTIQ+ en el municipio de Tumaco. Actualmente está a cargo de una nieta de 4 años. Vive con 2 hermanas. Refiere red de apoyo en la ciudad de Bogotá a donde quiere re-ubicarse. Refiere que quiere dejar a sus hermanas en Cali donde unos familiares. No hay claridad de fechas estimadas de salida. Solicita apoyo para el traslado de sus hermanas
+    [group_mu9ho06/Logisitica] => N/A
+    [group_mu9ho06/Seguridad] => N/A
+    [group_mu9ho06/Operativa] => N/A
+    [group_mu9ho06/Observaciones] => N/A
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:0364de7a-db02-4d10-9d69-d886b54dc972
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 0364de7a-db02-4d10-9d69-d886b54dc972
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-13T20:33:36
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

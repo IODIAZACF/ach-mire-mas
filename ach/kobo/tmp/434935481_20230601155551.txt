@@ -1,0 +1,80 @@
+stdClass Object
+(
+    [_id] => 434935481
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-06-01T15:16:12.382-05:00
+    [end] => 2023-06-01T15:55:50.853-05:00
+    [group_gu1lq88/Departamento] => CAQUETA
+    [group_gu1lq88/CAQUETA] => CARTAGENA DEL CHAIRA
+    [group_gu1lq88/Otros_Municipios] => Milán, Puerto Rico, Solano y San Vicente del Caguán
+    [group_gu1lq88/Vereda] => veredas Santana Ramos y La Chipa
+    [group_gu1lq88/Nombre_de_la_comunidad] => Huitorá
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-06-01
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => OTRA_EMERGENCIA
+    [group_hl1yc96/_Cual] => Riesgos de protección y reclutamiento
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI RECLUTAMIENTO
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => En mayo, la Gobernación de Caquetá alertó sobre la ocurrencia de al menos 21 casos de reclutamiento forzado, uso y utilización de niños, niñas y adolescentes por parte de Grupos Armados No Estatales (GANE) en los municipios de Puerto Rico (19 casos en las veredas Santana Ramos y La Chipa) y Solano (2 casos de menores pertenecientes a la comunidad Indígena Huitorá). Así como el riesgo de reclutamiento para 20 niños, niñas, adolescentes y jóvenes de la zona rural de Cartagena del Chairá, quienes fueron amenazados por un GANE presente en la zona. Junto a la ocurrencia de estos casos, se ha denunciado la presencia de GANE en cercanías a los centros educativos de las zonas rurales de Cartagena del Chairá y Milán, e intentos por parte de estos grupos de interactuar con los menores en los espacios escolares, lo que genera mayores riesgos de protección.
+Adicionalmente, las Personerías municipales, especialmente en Florencia, han denunciado el incremento en la toma de declaraciones por eventos de desplazamiento individual relacionadas con amenazas de reclutamiento forzado en el primer trimestre del año. 
+Enlace: https://drive.google.com/file/d/1mKgZYJ21qjfPYENUXsjneFq5MXdUbUPm/view
+    [group_yv1ph08/time2] => 2023-05-01
+    [group_yv1ph08/time3] => 31
+    [group_yv1ph08/evidencia] => proteccion educacion
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 21
+    [group_cn9za51/personas] => 21
+    [group_cn9za51/comu] => 8
+    [group_cn9za51/Grupo_tnico] => indigena mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => EL 28 de abril, la Gobernación de Caquetá realizó un Consejo de Seguridad para denunciar las acciones de reclutamiento en Puerto Rico y Solano, donde se manifestó la necesidad de atención de estos eventos y las dificultades para hacerles seguimiento. La institucionalidad se comprometió a garantizar la protección para los menores y las familias denunciantes El 25 de mayo, la Alcaldía de Cartagena del Chairá realizará un Puesto de Mando Unificado para analizar el riesgo de las zonas rurales donde se ha denunciado este tipo de afectaciones. EL ELC Caquetá se encuentra monitoreando las denuncias y los impactos humanitarios, con el fin de evaluar la posibilidad de brindar respuesta complementaria. El Equipo Local de Coordinación (ELC) de Caquetá tiene limitaciones en su capacidad de respuesta específica para este tipo de eventos, principalmente por la ausencia de organizaciones enfocadas en Educación en Emergencias en el departamento, así como de proyectos enfocados en el Área de Responsabilidad (AdR) de Protección a la Niñez.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/1mKgZYJ21qjfPYENUXsjneFq5MXdUbUPm/view+Por Confirmar+¿FCE?
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vKEKKFySr9ruAX5DQf44aK
+    [meta/instanceID] => uuid:17edb80d-8ff6-4f24-b2c3-f8a76986e365
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 17edb80d-8ff6-4f24-b2c3-f8a76986e365
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-06-01T20:55:51
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

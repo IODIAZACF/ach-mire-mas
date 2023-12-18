@@ -1,0 +1,281 @@
+stdClass Object
+(
+    [_id] => 481952118
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-09-20T15:45:55.274-05:00
+    [end] => 2023-09-20T21:15:21.543-05:00
+    [group_pl6la06/_1_C_digo] => CAAR-935.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-09-11
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-09-13
+    [group_pl6la06/_4_Departamento] => CAUCA
+    [group_pl6la06/CAUCA] => ARGELIA
+    [group_pl6la06/_6_Urbano_Rural] => URBANO_Y_RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Zona urbana y Corregimiento El Plateado
+    [group_pl6la06/_9_Tipo_de_emergencia] => OTRA_EMERGENCIA
+    [group_pl6la06/_cu_l] => Confinamiento y desplazamiento
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA
+    [group_mb5pt53/_1a_Evaluador] => Laura Catalina Rincón Prada
+    [group_mb5pt53/_1b_Celular] => 3208543434
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_mb5pt53/_2a_Evaluador] => Wendy Carabali
+    [group_mb5pt53/_2b_Celular] => 3228809070
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-08-19
+    [group_rq63s60/_1c_Descripci_n_del_evento] => A partir del 19 de agosto de 800 personas (260 familias) aproximadamente de tres veredas del Corregimiento El Plateado (Argelia) se encuentran confinadas, como consecuencia la presencia permanente y amenaza directa de los GANE que tienen presencia en cada una de las veredas. Estos han impuesto códigos de conducta que limitan el acceso de la población civil a determinados bienes y servicios. Los riesgos de protección podrían aumentar por los constantes combates que se están presentando en las veredas aledañas. Asimismo, desde el 26 de agosto se ha venido registrando el desplazamiento masivo de las comunidades de Hueco Lindo, La Balastrera y El Pinche, en donde al menos 71 personas (24 familias) se han desplazado hacia la cabecera municipal de Argelia y hacia el corregimiento El Plateado dados los combates que se han presentado durante el fin de semana (26-27 de agosto).
+Tras la última verificación realizada por Defensoría del Pueblo, se menciona un desplazamiento de 387 familias, que equivalen a 726 personas aproximadamente (14/9/23).
+
+Las personas de algunas comunidades, resolvieron hacer un retorno voluntario sin garantías de aproximadamente 549 personas a pesar de que las condiciones de seguridad en la zona disponen de diversos peligros para los niños y la población civil en general.  Se señala un aumento en los hostigamientos a población civil en el marco del conflicto armado y presencia MAP, MUSE y AEI sin incidentes reportados en el presente año.
+    [group_rq63s60/group_lm6cx76/a_Social] => Dentro de la situación de emergencia se ha generado en López de Micay una serie de cambios sociales con relación de acceso al trabajo y a medios de subsistencia, a la salud, a la educación, a la recreación, al pleno desarrollo.  En este momento se encuentran en casas de sus familiares lo que puede conllevar a baja autoestima e ideas de minusvalía al no sentir que dan apoyo económico a sus seres queridos por lo que puede alterar a largo plazo su salud mental. Las comunidades han optado por hacer seguimiento estricto, a las disposiciones emitidas por los grupos con relación a la movilidad de transporte fluvial.
+Además, han optado por el silencio frente a muchos temas sensibles para salvaguardar su vida.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Con relación a la comunidad del Plateado , los hombres y mujeres se han dividido las tareas equitativamente , apartando de realización de sobresfuerzos a los niños , personas con discapacidad, adultos mayores y mujeres embarazadas. Además, se han dividido la responsabilidad de cocinar por veredas con rotaciones. 
+Con relación a la comunidad de Argelia , las mujeres embarazadas y sus hijos se trasladaron a la casa de la mujer dando priorización en salud.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las fuentes económicas principales de la región son el cultivo de café, frutales, gallinas ponedoras, proyectos pecuarios y la piscicultura, además cultivos de coca. Posterior al desplazamiento algunos se encuentran sin trabajo en el casco urbano de Argelia sin poder ir a realizar seguimiento a sus cultivos por que se encuentra la zona en campo minado (vereda las torres) y la comunidad del plateado en su mayoría visitan sus predios para seguimiento de sus cultivos.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Argelia es un municipio ubicado al occidente del Cauca a aproximadamente 170Km de la capital departamental Popayán. Por su ubicación geográfica es muy enriquecido en flora y fauna. Su casco urbano cuenta con un censo de 26 000 habitantes (Dane 2018). Temperatura:24° promedio. Su acceso se realiza principalmente por vía secundaria desde Popayán con una duración aproximada de 5 horas, sin embargo, la vía presenta zonas de obra que pueden retrasar el desplazamiento.
+
+El Plateado es uno de los principales corregimientos del municipio de Argelia, se encuentra ubicado al norte de la cabecera municipal a 1 hora y 30 minutos equivalentes a 35Km por vía terciaria rural. Cuenta con una población aproximada de 15000 personas
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las personas pueden acceder a los servicios de salud, pero hay las personas adscritas a la EPS Asmetsalud no pueden acceder a medicamentos para enfermedades crónicas por desabastecimiento. En cuanto a la educación esta se realiza de manera virtual parcial o por guías, no hay presencialidad. Por estar en el casco urbano se tiene acceso a medios de información, WIFI dependiente de energía intermitente, telefonía movistar, acceso a la alimentación por disponibilidad de supermercados y tiendas.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => El manejo de residuos se realiza por medio de una empresa del casco urbano.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/Riesgos_para_respuesta] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_INTERURBANO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Transporte Aéreo: Ruta Bogota - Popayán hay varios vuelos en el día Avianca y Easyfly.
+Transporte Terrestre: Se realizo mediante camioneta 4x4 para todos los trayectos, con una duración promedio  de Popayán a Argelia de 4 a 6 horas 170 km dependiendo 2 pare y siga ubicados en las rasas por pavimentación de la vía.
+Transporte de carga: Durante la evaluación se comprobó tráfico normal de vehículos de carga hasta el sitio de atención de Argelia, hasta allí se debe transbordar la carga por temas de seguridad a camionetas 4x4 que sean de la zona para  la atención en el corregimiento de El Plateado.
+Las comunicaciones en casco urbano no presentan dificultades pues todos los operadores son funcionales, en el caso de El Plateado solo funciona red móvil de Movistar.
+La cabecera municipal de Argelia cuenta con red eléctrica normalmente. El corregimiento de El Plateado cuenta con red eléctrica normalmente, en conversación con la comunidad manifiesta que cuando hay combates en las veredas hay cortes de energía de 3 a 4 días, se sugiere llevar planta eléctrica.
+Hospedaje: El alojamiento en el casco urbano de Argelia cuenta con una amplia oferta de hoteles, sin embargo, el alojamiento en el casco urbano del plateado no cuenta con variedad de hoteles pero hay acceso a aproximadamente unos tres, de los cuales uno fue verificado. 
+Para la alimentación tanto la cabecera municipal como El Plateado cuentan con una amplia oferta de restaurantes y supermercados.
+Para abastecimiento ambos puntos presentan diversos servicios financieros así como variedad en ferreterías y establecimientos de artículos varios.
+    [group_fm93i53/seguridad] => Durante el trayecto desde Popayán a Argelia se evidencia retenes de policía de Carreteras y ejercito, en la cabecera municipal de Argelia hay patrullajes de ejército y policía. 
+En el Plateado, se encuentran actores armados no estatales. Realizan retenes y requisas.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 284
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 816
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 2
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => NRC
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => En el marco de la emergencia humanitaria por desplazamiento forzado masivo en el municipio de Argelia (Cauca) desde agosto del año en curso ha ocasionado limitación en el acceso a derechos fundamentales, libertades y bienes indispensables de las comunidades como lo son la alimentación, la educación, la libre circulación, la salud y seguridad integral.
+Las comunidades sienten miedo, angustia, zozobra y presentan afectaciones psicosociales debido al accionar de los actores armados (estatales y no estatales), refieren que desde el año 2019, han estado en  constantes  riesgos y hechos victimizantes que se presentan en el territorio, como enfrentamientos, combates, amenazas, restricción a la movilidad, vinculación y utilización de niños, niñas, adolescentes y jóvenes, homicidios y desapariciones forzadas, además de la coacción y presión  que obliga a las comunidades a no desarrollar sus actividades productivas que garantizan su supervivencia,  lo que da cuenta de una crisis humanitaria recurrente que afecta de manera continua la seguridad y bienestar integral  de las comunidades campesinas. 
+Además, se han presentado accidentes por MAP Y TE, por campos minados instalados por los GANE como estrategia militar y control territorial para la recuperación del Cañón del Micay. Se resalta la estrecha relación entre las amenazas, intimidaciones y constreñimiento con el surgimiento y/o abandono de los roles de liderazgo, puesto que se evidencio que se teme ejercer roles representativos por las posibles represalias por parte de los actores armados y juzgamiento entre los miembros de las veredas y comunidades.
+Si bien es cierto, en el marco del desplazamiento forzado masivo de las comunidades de Balastrera, Pepinal y Peñol se han realizado Comité de Justicia Transicional para coordinar la atención inmediata de esta emergencia, aún no se ha concretado acciones como la toma de declaraciones, diligenciamiento de anexos y el envío de la documentación requerida para el inicio del proceso de valoración por parte de  la Unidad para la Atención y Reparación Integral a las Víctimas- UARIV, lo que retrasa la posible inclusión en los registros oficiales, el reconocimiento pleno de derechos de la población víctima y la puesta en marcha de las medidas de atención y reparación en fases de emergencia y transición a las comunidades. 
+A pesar de que en la evaluación de necesidades no se exterioriza e identifican casos relacionados con violencias basadas en género por las comunidades, se mencionaron antecedentes de violencia física, psicológica y un constante miedo de las mujeres y niñas por la presencia de actores armados en sus territorios. 
+Además, se observa que las tensiones causadas por el confinamiento y desplazamiento masivo que afecta el cubrimiento de necesidades básicas aumentan los riesgos de violencia intrafamiliar-VIF, asimismo se destaca que las condiciones de hacinamiento y albergue son un factor de riesgo que incrementan las probabilidades de surgimiento de otros tipos de violencia relacionadas con delitos contra la integridad y libertad sexual. 
+En cuanto a la falta de privacidad, las mujeres mencionaron que el albergue temporal del El Plateado y casco Urbano de Argelia no cuentan con espacios que permitan privacidad y seguridad, en dormitorios, baños y duchas, al no estar diferenciados por género, ni contar con una estructura adecuada que mitiguen riesgos o vulneraciones en su intimidad y la de los NNAJ.  Resaltaron las comunidades que el desplazamiento forzado representa una barrera que no permite el goce efectivo del derecho de las mujeres a los servicios en salud, planificación familiar, y dificulta el acceso a los artículos de higiene personal y menstrual. No existen redes de apoyo comunitarias, o grupos de mujeres que realicen actividades como; promoción de derechos, uso adecuado del tiempo libre, fortalecimiento cultural que se conviertan en un mecanismo de autoprotección para ellas. 
+Se identifica que la presencia constante del GANE eleva los niveles de riesgos de vinculación y utilización de los NNAJ a través de estrategias ligadas al enamoramiento en especial con las niñas, transacciones económicas y de manera forzada. Este riesgo se presenta tanto en las veredas, como en el espacio temporal de alojamiento de El Plateado. Se resalta que, como medida de protección para los NNAJ, las comunidades desplazadas manifiestan que ejercen un control riguroso en la salida y entrada de los jóvenes del albergue temporal, mantienen una estricta vigilancia para impedir la vinculación o utilización de los menores.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => - Se configura un desplazamiento masivo y confinamiento por constantes  enfrentamientos y combates  en   el corregimiento  el Plateado y las veredas aledañas. 
+- Existen riesgos asociados al contexto de conflicto armado tales, contaminación con MAP- MSE y TE y riesgo de uso y vinculación por parte de Jóvenes de la comunidad. 
+- Las familias han normalizado la imposición de horarios, restricciones a la movilidad e imposiciones conductuales, establecidos  por parte del grupo armado.
+- Necesidades de información clave sobre legislación de derechos y mecanismo de protección.
+- Disposición de las comunidades para abordar los temas de protección.
+- La población no tiene  establecidos planes ni estrategia de protección comunitaria. 
+- Comunidad con percepción de abandono, estigmatización y señalamiento. 
+- Riesgos asociados de amenazas   a  personas con roles de liderazgo. 
+- Niveles elevados de tensión y sentimientos de desorientación comunitaria.
+- Riesgos asociados a violencias basadas en género. 
+- No existen redes de apoyo comunitarias, o grupos de mujeres
+- No se tiene claridad sobre las disposiciones de la Ley 1448 de 2011y medidas de protección brindas por la UNP. 
+- Se observa obstáculos para el acceso a derechos esenciales como la salud 
+- Población victima de doble afectación- población migrante
+- El desconocimiento de la ruta ha impedido que población migrante se desplace a pesar de los riesgos.
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => - Brindar apoyo individual y acompañamiento a líderes y lideresas de la comunidad. 
+- Sensibilización sobre las afectaciones y garantías fundamentales establecidas en la Ley 1448 de 2011.
+- Sensibilización a la comunidad y líderes en estrategias de autoprotección  civil.
+- Promoción de espacios comunitarios para la entrega de mensajes clave y mitigación de riesgos psicosociales.
+- Orientación acompañamiento sobre legislación de derechos y mecanismos de protección 
+- Orientación en la construcción de plan de protección comunitario.
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => - La comunidad mencionó casos de amenazas a roles de liderazgo pero no los identificó individualmente.
+- Se identifican hechos victimizantes individuales como intimidaciones, riegos de vinculación, desplazamientos y riesgos de violencias basadas en género.
+- La situación de conflicto desencadenó niveles elevados de estrés y afectación psicosocial generalizada. 
+- Se activo comité de justicia transicional el 12 de  septiembre,  se reconoce el echo víctimizante y se inicia análisis de respuesta. 
+- Las comunidades no tienen claridades sobre las rutas de atención derivadas de las afectaciones individuales y masivas, y en relación a la institucionalidad se identifican dificultades para hacer seguimiento.
+- Desconocimiento y ruptura en la confianza institucional por parte de las comunidades  con la institucionalidad. 
+- Los lideres y lideresas  tienen conocimiento sobre la normatividad de victima y los mecanismos de exigibilidad, así como mecanismos de autoprotección civil, pero se hace necesario realizar un fortalecimiento de las mismas.
+    [group_aa8xg30/group_lg2ro37/Shelter] => La población desplazada se encuentra alojada en dos ubicaciones principales: las veredas de El Peñol, Balastrera y Pepinal han encontrado refugio temporal en la institución educativa Miguel Zapata, en el corregimiento de El Plateado. Al mismo tiempo, algunas familias de la comunidad Las Torres se encuentran alojadas en el coliseo municipal de Argelia, junto con algunas familias de los barrios Puertas del Río y 7 de agosto de El Plateado.
+En la institución educativa Miguel Zapata en El Plateado, se han habilitado tres salones, donde cada comunidad reside en un espacio específico. Se estima que alrededor de 120 personas pasan la noche en este lugar, utilizando colchonetas. Sin embargo, es evidente que el espacio es insuficiente para albergar adecuadamente a todas las personas desplazadas, lo que ha resultado en condiciones de hacinamiento, especialmente para la comunidad de El Peñol. Cabe resaltar, que, en estos espacios de alojamiento, no hay discriminación de espacios por género, sino que se organizan por familias, y duermen todos de forma general en un mismo espacio. 
+Las tres comunidades han recibido algunos artículos esenciales para garantizar un alojamiento digno, proporcionados por la UARIV y la alcaldía municipal. Estos elementos incluyen colchonetas, cobijas y toldillos. No obstante, las familias manifiestan la necesidad de almohadas, cobijas adicionales y carpas para asegurar un alojamiento que garantice la privacidad de las familias y las proteja del frío durante las madrugadas.
+A pesar de la entrega de platos, cubiertos, pocillos y ollas, las familias solicitan una ampliación en la distribución de estos utensilios, de acuerdo con el número de familias y personas en situación de desplazamiento, ya que la cantidad actual no satisface las necesidades de toda la población.
+Es importante destacar que muchas familias se encuentran alojadas en redes de apoyo y acuden diariamente al albergue para satisfacer sus necesidades alimenticias. Sin embargo, la evaluación de las necesidades ha revelado que algunas de estas familias albergadas en redes de apoyo necesitan separarse y encontrar lugares diferentes para pasar la noche.
+En lo que respecta a las familias alojadas en el coliseo municipal de Argelia, estas ocupan carpas con una capacidad para albergar entre 10 y 12 personas, aunque en promedio se alojan alrededor de 6 personas, dependiendo de la composición de cada núcleo familiar. Estas cuentan con sábanas y colchonetas, las familias manifiestan que están expuestas al frío durante las madrugadas.
+Es importante resaltar que el espacio habitable es adecuado en relación con el número de personas, evitando así el hacinamiento. Los espacios se han dividido por núcleos familiares, lo que ha generado una mejor organización por parte de las familias y ha contribuido a evitar conflictos de convivencia. En este espacio, se encuentran alojadas entre 15 familias, sumando un total de alrededor de 90 personas.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => - La población desplazada se encuentra albergada en dos puntos: Las veredas de El Peñol, Balastrera y Pepinal, se encuentran albergadas en la institución educativa Miguel Zapata en el corregimiento de El Plateado, por su parte, algunas familias de la comunidad Las Torres se encuentran albergadas en el coliseo municipal de Argelia, además, de algunas familias de los barrios puertas del río y 7 de agosto de El Plateado. 
+- En la I.E. Miguel Zapata, se encuentran habilitados tres salones, distribuidos para cada comunidad, se prevé que en este lugar pasan la noche alrededor de 120 personas, quienes se instalan en colchonetas por núcleos familiares.
+- Se observa un espacio reducido para la cantidad de personas en condición de desplazamiento lo que resulta en condiciones de hacinamiento principalmente para la comunidad de El Peñol.
+- Se resalta que muchas de las familias se encuentran albergadas en redes de apoyo y todos los días acuden al albergue para satisfacer sus necesidades alimentarias. Así mismo, se evidencio en la evaluación de necesidades que muchas de las familias albergadas en redes de apoyo se ven en la necesidad de separasen diferentes lugares al pasar la noche. 
+- Las tres comunidades cuentan algunos elementos entregados por la UARIV y alcaldía municipal, poseen colchonetas, cobijas y toldillos, sin embargo, manifiestan que requieren de almohadas, cobijas y carpas para un alojamiento que garantice la privacidad de las familias y las proteja del frio en las madrugadas. 
+- A pesar de que se ha realizo entrega de platos, cubiertos, pocillos, y ollas, solicitan que se amplie la entrega de estos elementos y se brinden de acuerdo con el número de familias y personas en condición de desplazamiento, puesto que la cantidad que se tiene hasta el momento no cubre la totalidad de la población.
+- En cuanto a las familias albergadas en el coliseo municipal de Argelia, estas se encuentran ubicadas en carpas con capacidad de alojar alrededor de 10 a 12 personas, donde se alojan en promedio 6 personas, esto depende de la composición de cada núcleo familiar, cuentan con sabanas y colchonetas, sin embargo, manifiesta que están expuestas al frio en las madrugadas
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => - Apoyar con la dotación de  cocinas comunitarias a los albergues de El Plateado y Argelia para facilitar la preparación de alimentos de manera segura y eficiente durante los desplazamientos.
+- Suministrar elementos de habita para un alojamiento temporal en condiciones dignas.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => - Las familias actualmente se albergan en un centro educativo y coliseo  pero estos no cuentan con condiciones seguras.}
+- Las familias tienen carencia de espacios privados y  su estructura no está  en las mejores condiciones. 
+- Se evidencia acciones de apoyo, solidaridad y acompañamiento por parte de la comunidad de acogida.
+- Si se permite y/o valida con autoridades locales y comunidades la aceptación de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales, particularmente en el coliseo de Argelia.
+- No se identifica la necesidad de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales.
+- Se disminuirían riesgos de VBG ya que se contaría con mayor privacidad y se protegerían  las familias de forma más efectiva de  las condiciones climáticas con la respuesta de Shelter.
+    [group_aa8xg30/group_fv0ct51/Agua] => En la institución educativa Miguel Zapata, donde se alojan las familias desplazadas, se obtiene agua de una quebrada ubicada a 30 min caminando,  a través de mangueras que se reabastece todos los días, la cual fluye por gravedad. Lamentablemente, esta agua no recibe ningún tratamiento ni proceso de potabilización antes de su consumo, ya sea para beber directamente o para utilizarla en la preparación de alimentos.
+Durante las épocas de escasas lluvias o cuando el sistema de captación falla, los residentes buscan agua en quebradas cercanas a sus veredas, a pesar de los riesgos que significa de generar enfermedades transmitidas por el agua no segura, como EDA, dolores estomacales. Sumado a la posible presencia de artefactos explosivos y GANE que pueden estar presentes en la zona de las fuentes hídricas. 
+Es común que las personas consuman agua directamente de las quebradas, y muy pocas emplean métodos para tratarla y hacerla segura. Manifiestan interés en emplear técnicas de tratamiento de agua especialmente el uso de filtros familiares.
+En el alojamiento temporal de Argelia, se dispone de un sistema de captación y distribución de agua por acueducto. Sin embargo, las familias desplazadas desconocen si esta agua es segura y si ha sido tratada para el consumo. De acuerdo a lo informado por la secretaria de salud municipal, el sistema de acueducto de Argelia se encarga de tratar y potabilizar esta agua. Existe también sistema de alcantarillado y saneamiento en funcionamiento.
+Hemos identificado que las familias desplazadas no cuentan con recipientes adecuados para almacenar agua de forma colectiva y abastecerse de manera eficiente. Además, relacionan el consumo de agua no tratada con problemas estomacales y carecen de conocimientos sobre cómo tratar el agua de manera segura.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => En cuanto al saneamiento en el alojamiento temporal de la institución educativa Miguel Zapata, existen seis unidades sanitarias para mujeres y cinco para hombres, con una sola ducha disponible para toda la población desplazada. Es importante señalar que el lavado de platos se lleva a cabo en el mismo lugar donde se lavan las manos, lo que ha generado la acumulación de agua estancada, lo que podría favorecer la proliferación de vectores y potencialmente generar problemas de salud.
+En relación a la gestión de residuos y manejo de basuras, se cuenta con el servicio público de aseo que se encarga de recoger y transportar los desechos no reciclables dos veces a la semana.
+En el alojamiento temporal de Argelia, donde se dispone de un sistema de captación y distribución de agua por acueducto, se encuentran ocho baños que no están segregados por género, pero presentan varios problemas en su estructura:
+- Algunos baños carecen de puertas.
+- Las duchas no cuentan con perillas para regular el flujo de agua.
+- Se han detectado fugas de agua en uno de los inodoros.
+- El lavado de platos se realiza en los lavamanos ubicados en uno de los espacios de los baños.
+Por lo tanto, se hace evidente la necesidad de realizar ajustes en las instalaciones para habilitar espacios específicos destinados al lavado de utensilios de cocina y al lavado de manos en el coliseo de Argelia.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Las prácticas de higiene en estas comunidades se ven afectadas por la falta de énfasis y de conocimientos sobre su importancia. Las prácticas de lavado de manos varían considerablemente realizándolo tan solo de 3 veces al día, principalmente después de las comidas. Esto cuando tienen los suministros necesarios. Actividades como baño personal, el lavado de manos y la limpieza de utensilios de cocina se realizan con jabón. Sin embargo, el acceso limitado a productos de higiene personal ha llevado a que la higiene sea percibida como un lujo desde que estas comunidades se vieron forzadas a desplazarse.
+ 
+El almacenamiento y manejo de alimentos se lleva a cabo sin precauciones adecuadas, a menudo dejando los alimentos al aire libre en el suelo, lo que los expone a posibles contaminaciones por la presencia de animales como cucarachas, ratones y ratas, en ambos alojamientos.
+La atención a la higiene femenina se ha vuelto un tema secundario, principalmente debido a la falta de recursos para adquirir productos sanitarios menstruales, así como pañales para los niños menores de 5 años. Se ha identificado una fuerte necesidad por parte de las mujeres de acceder a estos elementos para garantizar su propia higiene y la de sus hijos.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => - En los Albergues cuentan con captación y distribución por acueducto.
+- En la I.E. Miguel Zapata se hace la captación en una quebrada por mangueras y la conducción por gravedad, sin embargo, no re realiza tratamiento y potabilización del agua. 
+- Se evidencia la necesidad de realizar adecuación en unidades sanitarias en el albergue de Argelia. 
+- Adecuación de espacios para el lavado de elementos de cocina y lavado de manos en el Plateado y Coliseo.
+- Las comunidades desplazadas no cuentan con recipientes para almacenar agua de forma comunitaria para abastecer.
+- No se evidencia presencia de características físicas en el agua como olor, color, sabor, turbiedad.
+- Las comunidades asocian el consumo de agua no tratada a malestares estomacales.
+- Las comunidades cuentan con conocimientos para el tratamiento de agua sin embargo por costumbre y tradición no lo hacen.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => - Entrega de filtros para los albergue temporales con el objetivo de minimizar el riesgo de malestares estomacales por el consumo de agua no tratada.
+- Realizar adecuaciones en la unidades sanitarias del coliseo de Argelia.
+- Entrega de recipientes que permitan una adecuada conservación del agua. 
+- Promover buenas prácticas de uso y conservación del agua, además de reforzar los conocimientos sobre métodos de tratamiento para consumo y almacenamiento de agua segura familiar y comunitaria, con la estrategia de sensibilizaciones y capsulas informativas.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => - La mayoría de los hogares afectados tienen acceso al agua, con un punto de agua a una distancia menor a 500 m y el volumen de agua captado esta entre 7.5 y 15l/p/d.
+- La mayoría de los hogares afectados tienen acceso a agua pero NO practican ningún tipo de tratamiento a nivel domiciliario o métodos de barreras múltiples
+- La mayoría de los hogares afectados no cuenta con acceso a instalaciones de eliminación de excretas, existe disposición de excretas a cielo abierto.
+- La mayoría de los hogares afectados no cuentan con información sobre prácticas seguras de recolección y disposición de residuos sólidos.
+    [group_aa8xg30/group_jn0nm53/san] => En medio de la emergencia causada por el desplazamiento forzado de las veredas Pepinal, Peñol, Balastrera y las Torres, se han visto afectados los medios de vida y la seguridad alimentaria de los núcleos familiares. 
+En la actualidad han dependido de asistencia humanitaria para la alimentación, esta respuesta fue brindada por parte de Tierra de Paz, Alcaldía municipal de Argelia, y a esto se suma una colecta entre la población receptora para adquirir alimentos no perecederos donados. Estos alimentos en los dos puntos de albergue fueron distribuidos y están siendo preparados de forma comunitaria, se resalta que se están realizando 3 ollas comunitarias al día, sin embargo, las comunidades manifiestan que, aunque son 3 tiempos, hay una reducción del tamaño y numero de porciones, así como de la variabilidad del tipo de alimentos. Esto difiere de su situación antes de la emergencia en donde tenían 3 tiempos de comida, con un mayor número de porciones y tamaño de estas, así como el acceso a grupo de alimentos como vegetales y proteínas de origen animal.
+Desde el inicio de la emergencia, las familias no cuentan con fuentes estables de ingresos. Un alto porcentaje de núcleos familiares tiene como fuente principal de ingresos la jornalería en torno a cultivos de coca, actividades que no han podido llevar a cabo debido a los constantes enfrentamientos y combates desde agosto. Algunos hogares reciben ingresos de subsidios del gobierno como Familias en Acción y devolución del IVA, sin embargo, estos ingresos no han sido entregados durante la emergencia.
+Frente al comercio antes y durante la emergencia, los pobladores mencionan que solían abastecerse de alimentos y elementos esenciales para su supervivencia en el centro poblado del corregimiento de El Plateado, el cual cuenta con una oferta que podía satisfacer la demanda de las familias desplazadas. Sin embargo, en los últimos días se han impuesto restricciones horarias en la movilidad de las personas, lo que limita el acceso libre a la oferta y los servicios comerciales.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => En el marco de la atención, se identificó que el ICBF está proporcionando alimentos suplementarios (bienestarina) para los Niños, Niñas y Adolescentes (NNA) de los albergues temporales de El Plateado y Argelia. Sin embargo, las comunidades señalan que no se está proporcionando una alimentación diferenciada para los niños y adultos mayores, quienes requieren una mayor concentración de nutrientes.
+Su alimentación ha dependido de la asistencia humanitaria proporcionada por la Alcaldía, ONGs y la comunidad receptora, está basada en alimentos no perecederos y grupos de alimentos como cereales, enlatados, leguminosas secas.
+La afectación principal está vinculada al abandono de sus cultivos (yuca, plátano, maíz, además del sustento proporcionado por la cosecha de coca.), y animales de cría los cuales sirven para el autoconsumo y la venta. A esto puede sumarse, el miedo y zozobra por las restricciones a la movilidad, la amenaza de presencia de MAP y los frecuentes encuentros con miembros de los GANE.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Monitorear el comportamiento de la emergencia, para saber si en algún momento las familias se quedan sin el apoyo en alimentos no perecederos que tienen actualmente para satisfacer necesidades inmediatas.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => - Si hay disponibilidad y acceso de los hogares a alimentos sanos y en buenas condiciones pues les ha sido entregada asistencia humanitaria por parte de ONGs e institucionalidad.
+- No se identifica implementación de los hogares de las estrategias de afrontamiento reducido (rCSI).
+- No se evidencia acceso a una dieta diversificada y de calidad, hay deficiencias de acceso a alimentos perecederos.
+- No se identifican grupos vulnerables relevantes con dificultad de acceso a los alimentos.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => El municipio de Argelia, ubicado en el departamento del cauca, cuenta con un punto de atención del ESE suroccidente de 1 nivel de atención con poca capacidad hospitalaria, su equipo de trabajo esta conformado por 4 médicos y 2 jefes de enfermería para mas de 20.000 habitantes de la zona. Ofrece urgencias 24 horas, programa de vacunación, programa de control prenatal, crecimiento y desarrollo, crónico y de planificación familiar con acceso parcial a los métodos, ya que depende de la accesibilidad de abastecimiento por parte de las EPS.  Hay rutas específicas para abordaje de IVE, violencia sexual o de género. 
+Se estima una cobertura del 99% con aseguramiento de la población al SGSS con EPS Asmetsalud y Nueva EPS. Se recibió información por parte de la secretaria de salud, quien indica que desde la emergencia la causa más común de consulta es la hipertensión arterial, dolores abdominales con síntomas gastrointestinales, respiratorias y somatizaciones atribuidas a la salud mental. Se informa que hay población migrante venezolana en la zona, quien en su mayoría cuentan con permiso de protección temporal (PPT) pero no se logra obtener cifras.
+No se realizan actividades extramurales a las veredas por falta de personal y temas relacionados con logística-operación e inseguridad. 
+Por parte de la comunidad albergada en el coliseo, las personas informaron que el día 10/09/2023 menos de la mitad (30 personas de los 100 albergados) fueron evaluados por un médico, sin embargo, por desabastecimiento de medicamentos no lograron hacer el tratamiento indicado. No hay atención en salud sexual y/o reproductiva.  Las mujeres embarazadas de alto riesgo obstétrico se encuentran en control prenatal y tomando sus micronutrientes. El día 12/09/2023 fueron evacuados en ambulancia 2 personas del albergue con diagnostico de deshidratación severa. 
+La Eps Asmetsalud se encuentra en proceso de intervención por parte de la Supersalud, por lo que se evidencian desabastecimiento de medicamentos incluyendo los básicos y vitales para una atención en salud. 
+Hasta el momento no se han reportado casos de muerte. En cuanto a diagnósticos de enfermedades endémicas en los últimos 3 meses (malaria no registra y dengue 2 casos), no ha habido accidente con animales ponzoñosos en la zona *
+La ruta de remisión es hacia la ciudad de Popayán a hospitales de niveles superiores por medio de transporte terrestre por el municipio de Argelia, se cuenta solo con 5 ambulancias de las cuales 2 presentan fallas técnicas.
+Nota: datos epidemiológicos suministrados por la secretaria de salud. 
+
+EL PLATEADO 
+El corregimiento el plateado del municipio de Argelia, ubicado en el departamento Cauca, cuenta con un centro de salud de 1 nivel de atención sin capacidad hospitalaria, solo se cuenta con un medico para mas de 15.000 habitantes de la zona, 5 auxiliares de enfermería. Ofrece urgencias 24 horas, programa de vacunación, tamizaje de citología vaginal, consulta de control prenatal, consulta de crecimiento y desarrollo y de planificación familiar con acceso parcial a los métodos, ya que depende de la accesibilidad de abastecimiento por parte de las EPS.  No hay rutas específicas para abordaje de IVE, violencia sexual o de género. 
+Se estima una cobertura del 99% con aseguramiento de la población al SGSS con EPS Asmetsalud y Nueva EPS. Se recibió información por parte de una auxiliar de enfermería quien indica que desde la emergencia la causa mas común son las afecciones gastrointestinales, respiratorias, urgencias hipertensivas y somatizaciones atribuidas a la salud mental. Se informa que hay población migrante venezolana en la zona, quien en su mayoría cuentan con permiso de protección temporal (PPT) pero no se logra obtener cifras.
+No se realizan actividades extramurales a las veredas por falta de personal y temas relacionados con logística-operación e inseguridad. 
+Por parte de la comunidad albergada en el colegio Miguel Zapata, los lideres informaron casos de diagnósticos de Cáncer diagnosticados no tratados (CA de cuello uterino y leucemia). Se informo que la población no esta recibiendo atención en salud física, sexual y/o reproductiva y las mujeres embarazadas de alto riesgo obstétrico no se encuentran en control prenatal ni toman micronutrientes. 
+La Eps Asmetsalud se encuentra en proceso de intervención por parte de la Supersalud, por lo que se evidencian desabastecimiento de medicamentos incluyendo los básicos y vitales para una atención en salud. 
+Hasta el momento no se han reportado casos de muerte, diagnósticos de enfermedades endémicas (malaria o dengue) o accidente con animales ponzoñosos en la zona. 
+La ruta de remisión es hacia la ciudad de Popayán a hospitales de niveles superiores por medio de transporte terrestre por el municipio de Argelia, se cuenta solo con 1 ambulancia.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => La situación de salud mental en la zona es bastante compleja y está afectada de manera diferencial en el casco urbano de Argelia y en El Plateado. 
+En Argelia, casco urbano, existen afectaciones en salud mental. Estrés y preocupación constante. Hay personas con síntomas de tristeza, desesperanza y desesperación. 
+
+La emergencia no tiene proyección de respuesta en salud mental de momento pues el hospital no cuenta con profesionales en psicología. Pese a ello, algunas organizaciones estatales y no, han intentado brindar algún abordaje. El programa de unidades móviles ha ingresado con algún soporte, pero las actividades del programa, limitan el acceso al proceso de regulación emocional y contención.  El centro de salud carece de personal para la atención psicológica.
+
+Las personas requieren además, actividades de tiempo libre para mejorar pensamientos de rumiación y desesperanza frente a su situación actual. 
+En el Plateado la situación está aún más aguda. Se comenta de la existencia de cuatro  casos con riesgo de conducta suicida derivados de la situación de emergencia. 
+Las afectaciones en salud mental son muy agudas por la experiencia de guerra y reexposición continua a eventos de violencia armada. 
+No hay asistencia psicológica ni se proyecta ingreso. La psicóloga de Tierra de Paz ha colaborado con algunas situaciones de afectación. El centro de Salud carece de la contratación de un psicólogo.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Pueden presentarse riesgos de VBG por el colecho y las condiciones de alojamiento en general, sumado a que el cambio de contexto trae consigo también la aparición de nuevos roles sociales. No obstante de momento, no se genera ninguna referencia sobre la existencia de situaciones relacionadas con VBG.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Se niega VBG durante el ejercicio de indagación.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => - Con los resultados de la evaluación MdM sugiere  ingreso para Fase 1 del sector salud.
+- Es de vital importancia la coordinación con organizaciones humanitarias en el departamento para favorecer el acceso a derechos y la ampliación del espacio humanitario. 
+- Por la situación en salud con sintomatología respiratoria y gastrointestinal severa en Argelia , se recomienda a la institucionalidad que las embarazadas, niños recién nacidos , personas con discapacidad, adultos mayores o personas con condición especial de salud  deben albergarse en una zona diferente al coliseo con seguimiento y control por parte de la entidad en salud  .
+- Exponer la situación derivada de desabastecimiento de medicamentos a las entidades correspondiente  , solicitar y tramitar todo lo que se derive en negación de acceso a la salud como derecho fundamental.
+- Las acciones en salud están vinculadas a la progresión de acceso en otros sectores como alimentación, agua segura, higiene y protección por lo que se recomienda el abastecimiento o respuestas en estas áreas. 
+- Aumentar la gestión para ofertar servicios en salud mental.
+- No se identifica necesidad de activación de rutas VBG/VS
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => - Número de personas afectadas está entre 500 y 1500.
+- Hay necesidad expresa de atención en salud física.
+- Existen situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia.
+- Existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida
+- No hay reportes y/o aumento de Violencia Basada en Género durante el último mes
+- No se identifica necesidad de activación de rutas VBG/VS
+    [group_aa8xg30/group_tb5de96/EIE] => Debido a combates en la comunidad de Naicioná se afectó el acceso a la educación de 40 estudiantes adscritos a la Institución Educativa Pablo Sexto de López de Micay, afectación que produjo la suspensión de las clases desde el 11 hasta el 21 de agosto del año 2023, además de producir afectaciones emocionales a los estudiantes y docentes de la sede educativa (2). 
+Es decir que, durante la emergencia la normalidad escolar ha resultado alterada, lo que, impedido el acceso continuo al servicio educativo para los NNA durante 10 días, pues se resalta que el 22 de agosto se reactivaron las clases en el casco urbano de López de Micay. 
+La institución educativa y secretaria de educación municipal habilitaron un espacio en la sede central, donde las docentes y estudiantes se encuentran realizando sus actividades académicas de lunes a viernes de 1:30 p.m. a 5:30 p.m. Reactivación que se da en un principio sin los lineamientos y estrategias de la educación en momentos de emergencia. 
+En ERN las docentes de la sede educativa Naicioná, manifestaron que en su comunidad las clases se estaban dictando de forma temporal en la caseta comunitaria ya que el plantel educativo se encuentra en reparaciones desde hace un año aproximadamente, un espacio que no cuenta con la infraestructura física adecuada para afectaciones de variabilidad climática (lluvias torrenciales) y que ha sido afectado por combates durante el mes de agosto.
+La cobertura académica cubre la básica primaria, escenario que obliga a los estudiantes a desplazarse hasta el casco urbano del municipio de López de Micay para continuar sus estudios de media y educación superior. Continuidad de estudios que atraviesa barreras de acceso, movilidad y costo, ya que la población se encuentra ubicada en las orillas del río Naicioná, un pequeño cause de poca profundidad, que ocasiona que los recorridos hasta el municipio estén entre 4 y 8 horas, generando un alto costo de transporte, la necesidad de cubrir los gastos de alojamiento, alimentación y estudios para que los estudiantes puedan continuar su proceso académico.
+De acuerdo con lo manifestado por las docentes, el hecho de que la oferta académica solo sea hasta el grado quinto expone a los adolescentes y jóvenes a riesgos relacionados con el conflicto armado, como la vinculación, trabajo forzado por los actores armados y el trabajo desde temprana edad en las minas. Además, las docentes refieren que la presencia constante de los actores armados en la comunidad y en cercanías de la escuela ha incrementado la exposición de los NNA a riesgos de vinculación o utilización por parte de actores armados. 
+Se ha desarrollado estrategias para la recuperación emocional con apoyo de la psicóloga de la I.E. y actividades lúdicas con la Corporación Desarrollo Juvenil, se han realizado entrega y dotación a la sede educativa de material para el desarrollo de estrategias lúdicas y 2 kits de educación y utilización del tiempo libre, uno por NRC y otro por la fundación EDUPAZ.
+Es importante destacar que, como respuesta a la emergencia desde el aérea de occidente de NRC se han brindado capacitación en educación en emergencias a docentes y agentes educativos comunitarios (AEC) enfatizando en apoyo psicosocial y de recuperación emocional con NNA y la reanudación de la normalidad educativa.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => - Los estudiantes desplazados y confinados se encuentran adscritos a la I.E. Miguel Zapata y posee sedes educativas ubicadas en las 5 comunidades de prescolar a 5°. 
+- La oferta académica se encuentra suspendida de forma parcial debido a los constantes ataques a los planteles educativos en medio de combates y se cómo medida alternativa se ha optado por brindar las clases de manera remota a través de guías de trabajo y orientación a través de aplicaciones de mensajería como WhatsApp forma temporal. 
+- Número de niños y niñas afectados:  378 NNA en las 5 comunidades. 
+- Número de docentes: 72 
+- Los Padres de familia no observan las I.E. como lugares seguros para enviar a sus hijos, por la presencia de GANE, combates y riesgos MAP.
+- La comunidad menciono que, como consecuencia de los últimos hechos, la infraestructura escolar en las comunidades de los pinos y Penipal resulto afectada por impactos de balas y artefactos explosivos. 
+- Se identificó un posible riesgo por la presencia de artefactos explosivos alrededor y camino hacia las instituciones educativas, viviendas y albergue temporal, el ultimo hecho mencionado por la comunidad se presentó en la semana del cuatro (4) de septiembre cuando pobladores encontraron una munición sin explotar en el centro poblado El Plateado. 
+- La I.E. no cuentan con un Plan de gestión de riesgo escolar enfocado en los riesgos y amenazas derivados del conflicto armado como fuego cruzado, presencia de artefactos explosivos o de actores armados, se requiere formación en educación en emergencias y comportamiento seguro.
+- Se requiere material didáctico, lúdico o deportivo para realizar actividades de utilización de tiempo libre en el albergue temporal de El Plateado.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => - Capacitar a docentes y comunidad educativa en educación en emergencias
+- Apoyo a la I.E. en la construcción de una de gestión de riesgo enfocado en hechos derivados del conflicto.
+- Formación de comportamiento seguro.
+- Entrega Maleta lúdico-pedagógica para actividades escolares y tiempo libre.
+- Realizar incidencia para adaptar modelo educativo acorde al contexto actual.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => 1.Ataque a la Escuela(s) de la comunidad durante la emergencia presencia 1 ó + eventos durante la emergencia:  SI
+2. Suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia. SI
+3.Se identifica afectación en niños, niñas y adolescentes en edad escolar ante la presencia 1 ó + riesgos de protección durante la emergencia: SI
+4.Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. NO
+5. La escuela NO cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO.
+6. La Institución Educativa NO cuenta con Plan de Gestión integral de riesgo escolar PGIRE y ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.
+    [group_aa8xg30/group_tb5de96_001/TM] => En relación con el comercio, en El Plateado, se ha observado que cuenta con capacidad financiera y de mercado con una amplia oferta de bienes y servicios. El corregimiento cuenta con aproximadamente 8 supermercados grandes y una variedad de tiendas medianas, como salsamentarias, tiendas de frutas y verduras, carnicerías, droguerías, ferreterías, entre otros. Frente a superficies de pago, dispone de dos puntos de servicio Efecty, cinco puntos de Super Giro y varios corresponsales Bancolombia, lo que demuestra una amplia cobertura, es importante señalar que las ayudas estatales tienen de preferencia el canal de supergiros. 
+La capacidad de abastecimiento del mercado se ha visto notablemente reducida debido a la emergencia, ya que las vías carecen de seguridad debido a diversos incidentes relacionados con el conflicto armado. Esto ha llevado a que los transportistas y comerciantes se sientan intimidados a ingresar a la zona y, como resultado, han disminuido la frecuencia de sus operaciones. Esta situación podría tener un impacto significativo en los precios de los productos.
+Se ha identificado que las familias en las veredas Balastrera, El Peñol, Pepinal y las Torres, tanto antes como durante la emergencia causada por el desplazamiento forzado masivo, han recurrido al comercio del corregimiento de El Plateado para obtener alimentos, productos de higiene y suministros esenciales.
+Se mencionó que antes del desplazamiento forzado, las familias solían desplazarse desde sus comunidades hasta el centro poblado para abastecerse de alimentos, realizando este viaje aproximadamente cada 8 o 15 días. Estos desplazamientos generalmente se hacían en motocicletas y requerían entre 40 y 90 minutos de viaje, dependiendo de la distancia desde cada comunidad. Las familias informaron que en algunas ocasiones, al dirigirse a El Plateado, se encontraron con retenes de los Grupos Armados No Estatales (GANES) que operan en la zona. Estos retenes resultaron en restricciones repentinas a la movilidad, además de la restricción de movimiento que ya existe de 7:00 p.m. a 6:00 a.m. Por esta razón, siempre intentaban realizar compras y desplazamientos por la tarde y por la mañana, ya que el comercio y el tráfico en las carreteras están restringidos durante la noche.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => Las familias pueden acceder al comercio en el centro poblado de El Plateado y Argelia.  
+Las familias mencionan que no están familiarizadas con PPF – no reciben ayudas del gobierno
+Existe una restricción de horarios para desplazarse en El Plateado de manera subita
+Puestos de control por GANE.
+Presencia MAP, MSE y TE con incidentes recientemente identificados. 
+Control territorial y cultivos de uso ilícito.
+Restricción en horarios de las rutas (6 a.m. a 7 p.m.).
+Presencia del GANE en cercanías al albergue temporal de la I.E. Miguel Zapata. 
+Combates y/o enfrentamientos cercanos al centro poblado de El Plateado.
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Si la brecha en las necesidades esenciales dejara de ser cubierta por institucionalidad y/o organizaciones, seria viable la implementación del uso de transferencias monetarias en el casco urbano del plateado.
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => - Se evidencio acceso de las comunidades al comercio en el horario permitido por el GANE en el Plateado  (6 a.m. a 7 p.m.), en Argelia no se observaron restricciones. 
+- El Plateado y Argelia poseen capacidad financiera y de mercados 
+- Se evidencio una gran oferta en el Corregimiento de El Plateado y el Municipio de Argelia.
+- Se evidencio una gran oferta en el Corregimiento de El Plateado y el Municipio de Argelia.
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:f0cb109b-10e3-487a-8da6-9d2f4e2b4c6b
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => f0cb109b-10e3-487a-8da6-9d2f4e2b4c6b
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-21T02:15:24
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

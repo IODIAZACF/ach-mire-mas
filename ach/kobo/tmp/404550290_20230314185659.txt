@@ -1,0 +1,186 @@
+stdClass Object
+(
+    [_id] => 404550290
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-03-14T18:35:46.396-05:00
+    [end] => 2023-03-14T18:56:48.777-05:00
+    [group_pl6la06/_1_C_digo] => BOSA-631.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2022-11-10
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-03-12
+    [group_pl6la06/_4_Departamento] => BOLIVAR
+    [group_pl6la06/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Vereda Palma Chica y la Vega
+    [group_pl6la06/_8_Comunidad] => Palma Chica y la Vega
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento desplazamiento_masivo
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA
+    [group_mb5pt53/_1a_Evaluador] => Jessica Rangel
+    [group_mb5pt53/_1b_Celular] => +57 323 2342745
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => Por Confirmar
+    [group_mb5pt53/_2b_Celular] => Por Confirmar
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_3a_Evaluador] => Por Confirmar
+    [group_mb5pt53/_3b_Celular] => Por Confirmar
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2022-10-21
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde octubre del presente año, se presentan constantes enfrentamientos y un incremento de amenazas directas y acciones armadas por parte de grupos armados no estatales (GANE) hacía la población en la serranía de San Lucas ocasionando desplazamientos y confinamientos en la población. Es por esta razón que el municipio de Santa Rosa del Sur, Bolívar, en la actualidad registra dos situaciones de emergencia.
+1.	Desde el día 21 de octubre de 2022 suceden enfrentamientos presentados entre GANE, ocasionando un desplazamiento masivo de 81 familias (159 personas) provenientes de las veredas Palma Chica y La Vega hacia la cabecera municipal de Santa Rosa del Sur. De las 81 Familias, 74 personas se encuentran albergadas en la Antigua Escuela número dos del municipio y las demás familias están auto albergadas en casa de familiares y amigos. 
+2.	Como consecuencia de los diversos enfrentamientos se incrementan las restricciones, ocasionando que las personas no pueden movilizarse en el territorio y estringido las comunicaciones y la movilidad de la población, afectando así el acceso a sus medios de vida y a la posibilidad de acceder a las rutas de protección, esta situación conllevo a que el 29 de octubre de 2022 se genera un estado de confinamiento en 115 familias (244 personas) de la vereda de Palma Chica. 
+El 10 de noviembre de 2022 OCHA emite la alerta sobre las necesidades identificadas en las comunidades Alto de las Brisas, Palma Chica y La Vega.
+En el momento de realizar la Evaluación Rápida de Necesidades (ERN) la administración municipal ha generado atención en fase de inmediatez de las personas desplazadas con elementos de la compra de elementos esenciales para adecuación del albergue, como colchonetas, cobijas, sabanas, elementos de cocina, entrega de mercados y kits de higiene diferenciales. 
+Con respecto a las personas en situación de confinamiento no se ha realizado atención debido a las condiciones de seguridad y accesibilidad a la zona, en cuanto a la información recolectada fue limitada debido a las complejas condiciones de acceso a esta. 
+El ingreso desde la cabecera municipal varía dependiendo de las condiciones del clima y de orden público. En el momento el acceso puede tardar hasta 12 horas y está condicionado a si el rio crece con las lluvias. Adicionalmente, se ha identificado la presencia de minado en algunos lugares de la carretera. La información brindada por la alcaldía es que para poder acceder en el momento a la comunidad confinada han solicitado el apoyo de la fuerza pública para tratar de hacer llegar las ayudas por medio de transporte en helicóptero.
+    [group_rq63s60/group_lm6cx76/a_Social] => El equipo móvil identifico la presencia de población migrante no regularizada y en proceso de regularización, razón por lo cual, es necesario implementar un enfoque en la respuesta que permita una atención igualitaria y el acceso a las medidas de atención en el marco del desplazamiento. Con respecto a la comunidad de acogida, esta ha realizado donativos con la población desplazada, esta situación prevé un trato amable de la comunidad de acogida con las mujeres y hombres desplazadas.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => En la población afectada existe un gran número de; Niñas, Niños, Adolescentes Y Jóvenes (NNAJ); Mujeres gestantes, lactantes; adultos mayores. Por esta razón es necesario establecer unas medidas diferenciales de atención que propendan por una asistencia integral a esta población de especial protección.
+La comunidad alojada en el albergue cuenta con dos zonas de baño, que se encuentran identificados para el uso de hombres y el otro compartido en mujeres y niños (as). En cuanto a las familias auto albergadas, estas tienen espacios compartidos con las familias receptoras, por la cual no están diferenciados.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => La comunidad de acogida y Santa Rosa del Sur se caracterizan por tener una economía sustentada en la agricultura, ganadería y minería. El equipo evidenció afectación en la economía de las familias desplazadas y confinadas, esta situación ha generado una gran dificultad para conseguir fuentes generadoras de ingreso, también, la perdida de cultivos y medios de subsistencia. Al no tener liquidez económica, basan su alimentación en las asistencias que puedan entregar la administración municipal, las asociaciones o personas de la comunidad receptora.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => La comunidad de acogida que es la cabecera municipal de Santa Rosa del Sur se encuentra ubicada en la serranía de San Lucas, se caracteriza por tener pocos caminos de acceso, el mas usado es el terrestre, sin embargo, constante se encuentran empantanados o con difícil ingreso.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Por Confirmar
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => La cabecera municipal cuenta con manejo de las basuras, estas son recogidas por el servicio municipal de recolección. Sin embargo, el albergue no cuenta con cocina, se adecuo un espacio que sirve para realizar las actividades de cocina, pero este espacio no tiene suministro de agua ni desagüe.
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ VBG_VIOLENCIA_BASADA_EN_GENERO
+    [group_fm93i53/Riesgos_para_respuesta] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO COMUNIDAD_EN_RIESGO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_1i_Descripci_n_VBG] => MARGINACION RESTRICCION_ACTIVIDADES_DOMESTICAS LIMITADO_ACCESO_A_EDUCACION ECONOMICA_Y_PATRIMONIAL
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE FLUVIAL
+    [group_fm93i53/logistica] => El ingreso a la comunidad de acogida desde Bogotá es por vía aérea hasta Bucaramanga (1 hora de vuelo), a continuación, se realiza un viaje terrestre (7 a 8 horas en carro), en este trayecto hay un transbordo por ferry (30 minutos) por el rio Magdalena.
+    [group_fm93i53/seguridad] => Debido a la presencia de los GANE y las disputas entre estos por el control territorial, es necesaria la coordinación con las comunidades para el ingreso, así como utilizar visibilidad en los medios de transporte por parte del personal humanitario.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 196
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 403
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 3
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2022-11-08
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => La organización humanitaria que se encuentra en el territorio es la Cruz Roja, con respecto a la institución se encuentran la Alcaldía y las secretarias de gobierno, salud y educación
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => La organización humanitaria que se encuentra en el territorio es la Cruz Roja, con respecto a la institución se encuentran la Alcaldía y las secretarias de gobierno, salud y educación
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION_-VBG PROTECCION-PR PROTECCION-NNAJ EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => En la ERN se identificaron amenazas a lideres y lideresas, producto de su rol en la comunidad que generan temor en el ejercicio de liderazgo y debilitan las redes comunitarias de defensa de derechos. Se evidencia además población migrante venezolana afectada y registrada en el hecho, con necesidad de orientación sobre las formas de regularización y acceso de forma igualitaria a las rutas de atención en el marco de la normatividad de víctima.
+Existe activación de la ruta de declaración por parte de ministerio público y alcaldía municipal, mediante Comité Municipal de Justica Transicional (CMJT) donde se da por cerrado los censos de las dos emergencias, la primera de ellas por desplazamiento forzado Masivo con 81 familias (159 personas) y el segundo por el confinamiento de la vereda Palma Chica con un total de 115 núcleos familiares (244 personas). 
+Con relación a la emergencia por desplazamiento se identifica casos individuales fuera del masivo, los cuales algunos fueron declarados individualmente ante la personería municipal, de igual manera la comunidad exterioriza de unas familias aún no han podido declarar el evento individualmente. 
+Por consiguiente, se hace necesario la remisión y acompañamiento de estas al Ministerio Publico para activación de las rutas. Del mismo modo es pertinente realizar incidencia ante la UARIV sobre la unificación de estas familias que declararon posterior al masivo, al ser las mismas circunstancias de tiempo, modo y lugar, permitiendo mayor posibilidad de valoración positiva.
+    [group_aa8xg30/group_ow1dy59/VBG] => En cuanto los grupos de mujeres refieren tener vacíos en información sobre las Violencias Basadas en Género (VBG) y sus rutas. Así mismo, exponen que existe limitaciones en insumos de higiene menstrual y planificación familiar.
+Sería necesario la implementación de espacios dirigidos a la construcción de estrategias de autoprotección comunitaria y socialización de rutas individuales y colectivas de protección. La realización de actividades con mujeres encaminados a la socialización de rutas de VBG, identificación de casos y remisión. Es oportuno la implementación de acciones de fortalecimiento comunitario en primeros auxilios psicológicos.
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => Los hombres y mujeres de ambas comunidades desplazadas manifiestan su temor en volver o retornar a sus comunidades debido a la señalización y amenazas que han recibido. Así mismo la comunidad exterioriza el desconocimiento de las rutas de protección y autoprotección individual y comunitaria.
+    [group_aa8xg30/group_ow1dy59/Reclutamiento] => El equipo móvil identifico en el albergue que las mujeres y los niños, niñas y adolescentes (NNA) comparten un mismo espacio para dormir y duchas, así mismo el lugar al ser una antigua escuela ocupada por oficinas de la alcaldía, implica el ingreso de funcionarios y personas de la comunidad receptora sin medida o control, razón por lo cual se genera una exposición a la intimidad de las personas albergadas. Un número significativo de mujeres y NNA manifestaron presentar signos de insomnio y sobresaltos cuando escuchan algún ruido fuerte que les recuerde el evento sucedido.
+    [group_aa8xg30/group_lg2ro37/Shelter] => La alcaldía dispuso un albergue temporal para las familias provenientes de La Vega. El edificio dispuesto es una antigua instalación educativa que ha sido adaptado para otras funciones como oficinas y salones de clase para el SENA, en épocas de emergencia se adecua como albergue.
+En el primer nivel se adecuó un salón como cocina comunitaria, tiene 3 estufas y algunas ollas prestadas por la alcaldía, posee un único cilindro de gas, por lo que deja 2 estufas inutilizadas y se evidencia que la capacidad de producción no da abasto para cubrir las necesidades de la población albergada.
+En la zona de albergue las zonas de descanso quedan en el segundo nivel, por lo cual, se adaptaron 3 salones para albergar 74 personas. Se realizaron grupos divididos por género y edad. 
+El primer grupo se compone de 22 mujeres y 13 niños que comparten una habitación y se encuentran en estado de hacinamiento. Los otros dos grupos se componen de 10 y 19 hombres, contando con suficiente espacio para cada uno de ellos, aun así, la cantidad de elementos de colchonetas y cobijas resultan insuficientes para todas las personas. No se evidencia presencia mosquitos ni la necesidad de mosquiteros.
+Las familias provenientes de Palma Chica están alojadas en casas en el casco urbano de familiares, amistades y unas cuantas pagan arriendo. Las condiciones de albergue son heterogéneas, presenciando estados de hacinamiento y condiciones poco idóneas para habitar. Algunas personas están en riesgo de ser desalojadas y se presencian enfermedades de transmisión por contacto. No hay un número exacto de personas porque se han dispersado y se desconoce quiénes han decidido migrar a otras ciudades y quienes han decidido retornar.
+    [group_aa8xg30/group_fv0ct51/Agua] => El albergue comunitario cuenta con acceso continuo de agua proveniente de la red de suministro municipal, por lo que no han presentado escases ni dificultades de acceso. Se emplean botellones de 25 litros para consumo y preparación de alimentos. Esta agua es suministrada por la alcaldía.
+A pesar de contar con una fuente de agua constante, la calidad es cuestionable y no parece ser completamente potable. Algunas personas manifiestan enfermedades gastrointestinales provocadas por el consumo de agua en mal estado. Una persona presenta enfermedades cutáneas.
+Cuentan con suficientes baterías sanitarias diferenciadas por género y con acceso a fuentes de agua. Los residentes del albergue se han organizado en equipos de trabajo rotativo para mantener la limpieza de los espacios comunes.
+Las familias ubicadas en casas de familiares, amigos y arriendo cuentan con acceso al agua y saneamiento básico. Algunas personas manifiestan enfermedades gastrointestinales por consumo de agua en mal estado. Estas familias tienen mayor riesgo a enfermedades transmitidas por vectores.
+Por otra parte, las familias confinadas de Palma Chica obtienen el agua de consumo de una quebrada cercana, algunas personas hierven el agua, pero en su generalidad, no lo hacen. La población sufre problemas relacionados por el consumo de agua contaminada. Tienen presencia de vectores infecciosos y la basura la queman al aire libre. No cuentan con elementos de higiene por falta de acceso debido al evento.
+El 29 de octubre la alcaldía entregó un kit de higiene a los adultos alojados en el albergue temporal. El kit no resultó ser suficiente para las necesidades presentadas y en poco tiempo empezaron a escasear los elementos de higiene.
+El 12 de noviembre la gobernación entregó a través de la alcaldía 81 kits de higiene a cada una de las familias desplazadas.Adicionalmente a los kits de higiene, de manera periódica la alcaldía entrega kits de aseo comunitario que consiste en barras de jabón para ropa, frasco de cloro y jabón en polvo.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Saneamiento
+Las familias albergadas de La Vega cuentan con suficientes baterías sanitarias para suplir sus necesidades.
+Se estableció un grupo de trabajo rotativo que se encarga de hacer el aseo y la limpieza de los espacios del albergue.
+Las condiciones de las familias de Palma Chica son heterogéneas, pero generalmente, las casas en donde se albergan cuentan con servicios sanitarios.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Las familias desplazadas de La Vega recibieron un pequeño kit de higiene que resultó insuficiente para las necesidades de la comunidad.
+Las familias de Palma Chica no han recibido ningún tipo de apoyo y han tenido que costear con sus propios recursos los elementos de higiene.
+    [group_aa8xg30/group_jn0nm53/san] => En el municipio de Santa Rosa del Sur hay disponibilidad amplia y diversa de productos. Existe un flujo constante de mercancías y no se presenta desabastecimiento. La cabecera municipal cuenta con muchas tiendas que pueden suplir la demanda de alimentos de la población y aumentar volúmenes en casos que se presenten dificultades de abastecimiento por causa de bloqueos en las vías.
+La principal dificultad de la población para la alimentación radica en el acceso, pues no cuentan actualmente con ninguna actividad que les genere ingresos para cubrir sus gastos alimenticios. Debido a esto dependen únicamente de las ayudas alimentarias recibidas y han tenido que dejar de comer una diversidad de alimentos que hacía parte de su dieta cotidiana.
+Recomendaciones
+Se debe tener en cuenta que la institucionalidad ha provisto de ayudas alimentarias a la población, y que se están gestionando más entregas en el futuro cercano antes de tomar la determinación de hacer más entregas de paquetes alimenticios.
+También se debe tomar en cuenta las necesidades manifestadas por la población de tener acceso a alimentos distintos a los cereales, granos y enlatados encontrados en estos paquetes, así como mantener un seguimiento a la entrega de los componentes de alimentación que la institucionalidad manifestó que se entregaran próximamente por parte de la gobernación y la UARIV.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => En la comunidad desplazada hay personas con problemas gastrointestinales, y brotes en la piel. Así como personas con heridas (raspones, torceduras, golpes, hematomas, ampollas) y dolor muscular producto de los largos desplazamientos que tuvieron que realizar para su llegada a la cabecera municipal. En cuanto a su salud mental manifiestan tener problemas de insomnio, sobresaltos, afectación de su estado emocional producto de los hechos presenciados y la situación persistente.
+Se identifica que en la comunidad hay personas con enfermedades de base que presentan dificultad en el acceso a su derecho a la salud debido a barreras de acceso en el traslado de la EPS por falta de inscripción del SISBEN, así mismo se presenta personas con necesidades de atención psicosocial sin su debida valoración y asistencia. Se realizaría incidencia y acompañamiento ante autoridad competente (Alcaldía – EPS) de los casos que requieren atención.
+Administración municipal comenta la realización de una jornada en salud días posteriores a la llegada de la comunidad, en la cual se realizó valoraciones médicas, vacunación y entrega de medicamento, pero la comunidad manifiesta que muchas personas no alcanzaron a ser valoradas y otras no recibieron medicamentos debido a no tener EPS del municipio.
+Con respecto a la comunidad confinada Palma Chica, manifiestan no contar con un puesto de salud ni promotor de salud, de igual manera desde hace años no ingresa una jornada medica en la vereda, y cuando se presenta emergencias deben trasladarse hacia la cabecera municipal.
+Coordinación e incidencia de brigada de salud médica y psicológica integral con entrega de medicamentos, remisión de personas que requieren traslado de EPS del municipio.
+Hallazgos
+A.	Se identificaron personas con problemas gastrointestinales, y brotes en la piel.
+B.	Afectaciones en su salud mental (Insomnio, sobresaltos, estado emocional) producto de los hechos presenciados y la situación persistente.
+C.	Personas con heridas (raspones, torceduras, golpes, hematomas, ampollas) y dolor muscular producto de los largos y riesgosos desplazamientos que tuvieron que realizar para su llegada a la cabecera municipal.
+D.	Se presenta personas con enfermedades de base que no pueden ser atendidas consecuencia de no contar con EPS del municipio y no tienen recursos para la atención privada.
+Recomendaciones
+A.	Realización de brigada de salud para identificación de enfermedades y entrega de medicamentos.
+B.	Atención psicosocial por parte de profesionales de salud mental.
+C.	Valoración y entrega de medicamentos para personas con enfermedades de base.
+Indicadores Clave
+El municipio cuenta con un hospital nivel 1 con aproximadamente 220 funcionarios y la alcaldía cuenta con profesional Psicosocial.
+Las personas afectadas no se encuentran inscritos en el municipio y en la vereda no hay puesto de salud.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => En la comunidad desplazada hay personas con problemas gastrointestinales, y brotes en la piel. Así como personas con heridas (raspones, torceduras, golpes, hematomas, ampollas) y dolor muscular producto de los largos desplazamientos que tuvieron que realizar para su llegada a la cabecera municipal. En cuanto a su salud mental manifiestan tener problemas de insomnio, sobresaltos, afectación de su estado emocional producto de los hechos presenciados y la situación persistente.
+Se identifica que en la comunidad hay personas con enfermedades de base que presentan dificultad en el acceso a su derecho a la salud debido a barreras de acceso en el traslado de la EPS por falta de inscripción del SISBEN, así mismo se presenta personas con necesidades de atención psicosocial sin su debida valoración y asistencia. Se realizaría incidencia y acompañamiento ante autoridad competente (Alcaldía – EPS) de los casos que requieren atención.
+Administración municipal comenta la realización de una jornada en salud días posteriores a la llegada de la comunidad, en la cual se realizó valoraciones médicas, vacunación y entrega de medicamento, pero la comunidad manifiesta que muchas personas no alcanzaron a ser valoradas y otras no recibieron medicamentos debido a no tener EPS del municipio.
+Con respecto a la comunidad confinada Palma Chica, manifiestan no contar con un puesto de salud ni promotor de salud, de igual manera desde hace años no ingresa una jornada medica en la vereda, y cuando se presenta emergencias deben trasladarse hacia la cabecera municipal.
+Coordinación e incidencia de brigada de salud médica y psicológica integral con entrega de medicamentos, remisión de personas que requieren traslado de EPS del municipio.
+Hallazgos
+A.	Se identificaron personas con problemas gastrointestinales, y brotes en la piel.
+B.	Afectaciones en su salud mental (Insomnio, sobresaltos, estado emocional) producto de los hechos presenciados y la situación persistente.
+C.	Personas con heridas (raspones, torceduras, golpes, hematomas, ampollas) y dolor muscular producto de los largos y riesgosos desplazamientos que tuvieron que realizar para su llegada a la cabecera municipal.
+D.	Se presenta personas con enfermedades de base que no pueden ser atendidas consecuencia de no contar con EPS del municipio y no tienen recursos para la atención privada.
+Recomendaciones
+A.	Realización de brigada de salud para identificación de enfermedades y entrega de medicamentos.
+B.	Atención psicosocial por parte de profesionales de salud mental.
+C.	Valoración y entrega de medicamentos para personas con enfermedades de base.
+Indicadores Clave
+El municipio cuenta con un hospital nivel 1 con aproximadamente 220 funcionarios y la alcaldía cuenta con profesional Psicosocial.
+Las personas afectadas no se encuentran inscritos en el municipio y en la vereda no hay puesto de salud.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Por Confirmar
+    [group_aa8xg30/group_tb5de96/EIE] => El municipio no tiene certificación de educación, razón por la cual la planta de docentes en su mayoría es manejada a nivel departamental, esto dificulta la contratación e inversión en educación generando vacíos y una mala prestación del servicio con infraestructura deficiente, sin adecuados espacios para la recreación, mobiliario en mal estado y casi nulo material pedagógico y deportivo. 
+Sumado a lo anterior, algunos docentes nombrados, al ser amenazados por los GANE se van, adicionalmente la movilidad de los padres que trabajan en la minería tradicional, genera que los NNA de la vereda La Vega (desplazados en la cabecera municipal), no tengan escuela ni docente desde hace 5 años aproximadamente. 
+La emergencia ocasiono la suspensión de clases durante al menos las últimas 3 semanas, generando temor en la población, docentes de la sede de la vereda Palma Chica se desplazaron a la Vereda Canelos, durante el último periodo escolar del año. Asimismo, algunos estudiantes han sido enviados donde familiares en municipios apartados, donde no podrán terminar su año escolar, generando un rompimiento de su tejido social y sin recibir atención psicológica por la situación vivida.
+Se ha implementado el envío de módulos a los 11 NNA matriculados, sin embargo, la mayoría no cuentan con conectividad ni pueden recibir los módulos enviados de manera impresa. 
+Adicionalmente, el invierno ha afectado las vías de acceso ocasionando que varios estudiantes quedaran atrapados en la vereda sin posibilidad de salir a otros espacios. 
+Las principales causas de deserción del bachillerato son: la falta de oportunidades de los NNA para continuar sus estudios por lo apartado de las veredas; los escasos recursos de sus padres para costear su traslado; la presencia de grupos armados no estatales (GANE) representa un alto riesgo de reclutamiento; explotación laboral. La comunidad refiere que a pesar de que en casco urbano hay un internado, los cupos son limitados.
+Los 13 NNA en edad escolar, se encuentran alojados en el albergue, este espacio no cuenta con material escolar, tutores. Los Niños Niñas y adolescentes no reciben apoyo psicológico ni espacios de esparcimiento y utilización del tiempo libre (los padres de familia refieren que los NNA presentan afectaciones emocionalmente consecuencia de lo que vivieron en la emergencia).
+Es necesario realizar formación en Acuerdos Escolares de Convivencia (AEC) (ante la ausencia de personal docente) para la implementación de actividades que fomente en los NNA la resiliencia, sanación emocional y una adecuada utilización del tiempo libre y construcción de su proyecto de vida, con entrega de material lúdico deportivo para apoyar estas acciones.
+    [group_aa8xg30/BrechasInformacion] => Brechas en la emergencia de la población confinada.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 2
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Por Confirmar
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => Por Confirmar
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Por Confirmar
+    [group_sp7cc00/Observaciones_adicionales] => Es indispensable revisar la información de las personas en confinamiento.
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:efb79915-f4f1-4478-870e-3196b45bfae1
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => efb79915-f4f1-4478-870e-3196b45bfae1
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-03-14T23:56:58
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,102 @@
+stdClass Object
+(
+    [_id] => 478173045
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-09-11T09:38:50.840-05:00
+    [end] => 2023-09-11T11:29:48.282-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => TADO
+    [group_gu1lq88/Otros_Municipios] => Tado
+    [group_gu1lq88/Vereda] => Sin información
+    [group_gu1lq88/Nombre_de_la_comunidad] => Comunidad Indígena Emberá
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-09-07
+    [group_gu1lq88/Nombre_de_quien_reporta] => Wendy Rubiano
+    [group_gu1lq88/Cargo] => Acción Contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 03 de agosto, al menos 306 personas (98 familias) de la comunidad indígena
+Mesetas (Tadó) fueron confinadas, a raíz de un hostigamiento e intercambio de disparos entre un Grupo Armado No Estatal (GANE) y la Fuerza Pública. Posteriormente,
+el 23 agosto, tras la instalación de banderas alusivas al GANE cerca de la comunidad, al menos 195 personas (63 familias apróx.) de la misma comunidad, se desplazaron
+masivamente hacia el corregimiento de Santa Cecilia (departamento de Risaralda). Ya desplazada la población en Santa Cecilia, 118 personas (38 familias, 75 niños y niñas)
+se desplazaron hacia Bogotá, 77 personas (25 familias) permanecieron en Santa Cecilia y 111 personas (35 familias) permanecieron en Mesetas. Es importante resaltar que,
+entre el 27 y 29 de agosto, las familias retornaron a su comunidad con acompañamiento de la institucionalidad.
+Preocupa que, a pesar del retorno de las comunidades continúa el temor generado por la continua presencia de los GANE en el territorio, las amenazas individuales y colectivas y
+el riesgo de reclutamiento, uso y utilización de niños, niñas, adolescentes y jóvenes.
+Entre los impactos se resalta que, la comunidad no pudo realizar actividades de caza,
+recolección de alimentos en cultivos de pancoger, acceder a fuentes de agua y tener
+libre movilidad en el territorio, afectando también el desarrollo de actividades culturales
+y económicas.
+    [group_yv1ph08/time2] => 2023-08-03
+    [group_yv1ph08/time3] => 35
+    [group_yv1ph08/evidencia] => proteccion san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 161
+    [group_cn9za51/personas] => 501
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => indigena
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => El 25 de agosto, el Ministerio Público realizó la toma de declaraciones a las familias que llegaron a Bogotá y la UARIV nacional brindó kits de alimentos y aseo a las familias. Por otro lado, el departamento de Risaralda realizó la entrega de alimentos y aseo para las familias desplazadas en Santa Cecilia y las familias que posteriormente llegaron de Bogotá.
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Por actualizar
+    [group_mu9ho06/Seguridad] => Por actualizar
+    [group_mu9ho06/Operativa] => Por actualizar
+    [group_mu9ho06/Observaciones] => Sin Observaciones
+    [group_mu9ho06/Subir_el_Anexo] => 38. Alerta desplazamiento y confinamiento de la comunidad de Mesetas municipio de Tadó -11_23_36.pdf
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:d3569f63-4860-40c6-a212-55fbc7cbb410
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => d3569f63-4860-40c6-a212-55fbc7cbb410
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fd3569f63-4860-40c6-a212-55fbc7cbb410%2F38._Alerta_desplazamiento_y_confinamiento_de_la_comunidad_de_Mesetas_municipio_de_Tad%C3%B3_-11_23_36.pdf
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fd3569f63-4860-40c6-a212-55fbc7cbb410%2F38._Alerta_desplazamiento_y_confinamiento_de_la_comunidad_de_Mesetas_municipio_de_Tad%C3%B3_-11_23_36.pdf
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fd3569f63-4860-40c6-a212-55fbc7cbb410%2F38._Alerta_desplazamiento_y_confinamiento_de_la_comunidad_de_Mesetas_municipio_de_Tad%C3%B3_-11_23_36.pdf
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F196906620ae84ad291b571392f2ccec1%2Fd3569f63-4860-40c6-a212-55fbc7cbb410%2F38._Alerta_desplazamiento_y_confinamiento_de_la_comunidad_de_Mesetas_municipio_de_Tad%C3%B3_-11_23_36.pdf
+                    [mimetype] => application/pdf
+                    [filename] => consorcioecho_2020/attachments/196906620ae84ad291b571392f2ccec1/d3569f63-4860-40c6-a212-55fbc7cbb410/38._Alerta_desplazamiento_y_confinamiento_de_la_comunidad_de_Mesetas_municipio_de_Tadó_-11_23_36.pdf
+                    [instance] => 478173045
+                    [xform] => 572478
+                    [id] => 201161618
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-11T16:29:48
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

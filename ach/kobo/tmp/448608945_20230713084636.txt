@@ -1,0 +1,413 @@
+stdClass Object
+(
+    [_id] => 448608945
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-07-05T16:58:12.333-05:00
+    [end] => 2023-07-05T22:29:18.531-05:00
+    [group_pl6la06/_1_C_digo] => NARI-916.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-06-28
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-07-02
+    [group_pl6la06/_4_Departamento] => NARINO
+    [group_pl6la06/NARINO] => RICAURTE
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Zona rural de ricuarte, Altaquer y cuasbi carretera
+    [group_pl6la06/_8_Comunidad] => Cuasbi Carretera, Altaquer , vegas magui,
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA ONG
+    [group_mb5pt53/_1a_Evaluador] => Camilo Alfonso Ruiz Gomez
+    [group_mb5pt53/_1b_Celular] => 3102993637
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Raul Camilo Villate
+    [group_mb5pt53/_2b_Celular] => 3102166465
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_3a_Evaluador] => Wendy rubiano
+    [group_mb5pt53/_3b_Celular] => 3102992537
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_4a_Evaluador] => Gina Rojas
+    [group_mb5pt53/_4b_Celular] => 3123407447
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-05-28
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Durante mayo y junio, al menos 3.450 personas (1.346 familias) indígenas Awá -los niños y niñas representan el 40 por ciento- se desplazaron en los municipios de Ricaurte y Barbacoas, a causa de amenazas y enfrentamientos entre dos Grupos Armados No estatales (GANE), así:
+• Desde el 4 de mayo, 323 personas (92 familias) pertenecientes al Resguardo Ñambí Piedra Verde de Barbacoas se desplazaron desde las veredas Guanapi, Mangón, Cerro, Piedra Verde, Limón, Tronco y San Francisco hacia el Centro Educativo Piedra Verde
+sobre la vía a Barbacoas, como consecuencia de amenazas por parte un GANE.
+• El 28 de mayo, al menos 1.429 personas (454 familias) pertenecientes a los Resguardos Integrado La Milagrosa de Cuaiquer Viejo y Cuascuabi se desplazaron entre veredas en el
+municipio de Ricaurte, a causa de enfrentamientos. Se alerta de restricciones a la movilidad, riesgos de confinamiento y de accidentes por minas antipersonal (MAP).
+• El 13 de junio, más de 1.698 personas (800 familias) indígenas Awá de los Resguardos Magüí y Vega Chagüi Chimbuza en Ricaurte se desplazaron hacia el casco urbano y al corregimiento de Altaquer (Barbacoas), a causa de enfrentamientos.
+Las comunidades indígenas Awá desplazadas en Ricaurte y Barbacoas se encuentran alojadas en casas de redes de apoyo -familiares y amigos-, y en instituciones educativas rurales lo que ha ocasionado el cese de actividades educativas y un estado de hacinamiento con limitado acceso a agua potable y exposición a enfermedades gastrointestinales. Los enfrentamientos entre GANE continúan y agudizan los riesgos para la población, además de limitar la asistencia por parte de las entidades competentes, así como el acceso humanitario.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las comunidades Awa de los municipios de Barbacoas y Ricaurte en los últimos años han sido afectadas por las continuas disputas entre GANE dado que se convierte en un corredor estratégico para la ruta de actividades ilícitas en especial la de narcotráfico, así también el despliegue que se presenta desde la subregión pacífica y Sanquianga del departamento de Nariño hacia las zonas altas como Ricaurte de parte de GANE para buscar controlar el territorio afecta las sociedades indígenas, afrodescendientes y campesinas que conviven en un mismo territorio.
+La presencia de artefactos explosivos instaladas por grupos como estrategia de guerra y de control territorial ha afectado aún mas las comunidades, de allí se presentan a finales del mes de junio hechos en los cuales miembros de la comunidad del pueblo Awá caen en MAP, dejando una persona muerta y otras heridas, rompiendo así un tejido social en los pueblos Awa desplazados en Altaquer y Cuasbí carretera con sus territorios por temor al retorno de sus territorios y que puedan caer en estos artefactos.
+Las familias mencionan que por la emergencia varios hogares se han fracturado puesto que algunos hombres se han quedado en sus viviendas para cuidar objetos, animales y viviendas, mientras que las mujeres, los NN y los adultos mayores se han desplazado hacia una “Zona Segura” aún cuando las condiciones no son dignas y carecen de ayuda humanitaria como alimentos, artículos de higiene, agua segura, salud entre otras.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Como pueblo Awá las comunidades albergadas en los dos puntos de concentración (Altaquer y Cuasbí carretera) mencionan que sus principios como la neutralidad, arraigo al territorio, lucha indígena se han visto afectados por la presencia y enfrentamientos de los GANE, así también sus costumbres culturales han cambiado por una dinámica del conflicto, los cultivos de uso ilícito y el narcotráfico en general, espacialmente con problemáticas como la utilización de jóvenes para hacer parte de las filas de los grupos en disputa.
+En general las familias indígenas hablan y entienden el español, lo cual no cuenta como una barrera al momento de una intervención de parte de alguna entidad estatal u organización humanitaria, de igual manera mencionan que de requerir algún tipo de traducción algunos docentes o lideres pueden servir de intérpretes.
+En las tres comunidades evaluadas cuentan con personas con diversidad funcional especialmente físicas, las cuales agudizan las necesidades durante el desplazamiento y las zonas donde se albergan, en la comunidad del resguardo de Vegas se presentó un caso en donde un padre tuvo que sacar a su hija a hombros durante la emergencia, puesto que cuenta con una discapacidad física.
+Las ayudas humanitarias que se puedan brindar a estas comunidades afectadas deben ser dirigidas con enfoque diferencial dada las costumbres culturales, la presencia de un alto porcentaje de NNA, personas con algún tipo de discapacidad y mujeres en estado de gestación y periodo de lactancia.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las comunidades se han visto obligadas a suspender sus actividades económicas, incluyendo la venta de artesanías, la comercialización de animales y, sobre todo, la agricultura, especialmente el cultivo y venta de guayabas que solían ser comercializadas en Ricaurte y Altaquer. El desplazamiento y el confinamiento les han impedido acceder a sus medios de subsistencia.
+
+Aunque los lugares de acogida han brindado apoyo, dada la magnitud de la situación, algunas familias han decidido retornar por su cuenta con el objetivo de satisfacer sus necesidades. Debido a la falta de ingresos económicos en las familias, los albergues han establecido ollas comunitarias utilizando las ayudas humanitarias proporcionadas recientemente por el ICBF y Heartland Alliance.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => En el desplazamiento de mayor distancia, Tumaco a Ricaurte que abarca aproximadamente 171 km no se evidenció situaciones que generarán alertas de seguridad, se informaron posibles bloqueos a la altura de altaquer sin embargo el equipo móvil no presenció ninguno de estos supuestos, en puntos críticos como la Y de Aspriella y Junín se percibió libre movilidad sin afectaciones; Las vías están pavimentadas presentando condiciones óptimas para el ingreso
+    [group_rq63s60/group_lm6cx76/e_Servicios] => en los puntos de concentración cuentan con diferentes sedes educativas en las cual actualmente están funcionando como albergué en las comunidades en confinamiento, las desplazadas se encuentran en en los puntos de concentración adecuadas por la misma comunidad. 
+
+En los 3 puntos de concentración cuentan con red de acueducto y con redes eléctricas, no cuentan con servicios de saneamiento básico.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Debido a los riesgos para movilizarse por el territorio, las familias se han visto obligados a realizar la disposición de residuos orgánicos en las proximidades de sus viviendas lo que ha ocasionado proliferación de vectores y malos olores que termina por afectar el bienestar de las comunidades. Exponen que como comunidad desarrollan explotación maderera para obtener recursos económicos.
+    [group_fm93i53/_1_Problem_tica_Principal] => CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/Riesgos_para_respuesta] => CRISIS_POR_DESPLAZAMIENTO MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1d_Caracterizaci_n_Homicidios] => HOMICIDIOS_SELECTIVOS_LÍDERES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Tumaco 	Ricaurte  (2 horas y 25 Min	141 Km)
+Ricaurte Ipiales  (2 y 6 Min 89 km)
+Ricaurte -Altaquer (Albergue Vegas y Albergue Magui) 23 Min
+17,1 km.
+Albergue Resguardo Cuasbi Carretera (12 Min-8 Km) 
+
+Aspectos comerciales en la zona de Ricaurte Casco Urbano: 
+	Supermercados: Tiendas D1, Merca hogar, Supermercado la rebaja.
+	Operadores Financieros: (5) Super giros.
+	Abastecimiento de Combustible: (2) Terpel.
+	Ferreterías: Pintuland, proveedores locales.
+	En el centro se evidencian múltiples lugares de consumo de licor.
+	Cuentan con dos espacios Atención medica: Hospital de Ricaurte E.S.E y el Área de Emergencias del Hospital.
+Hoteles:
+1.Hotel las Palmas:
+Cama sencilla Baño Compartido- Precio $20.000.
+Cama Sencilla Baño Privado-Precio $25.000
+Doble Cama-Precio
+Servicios Incluidos: Wifi/ Agua Caliente/ Garaje.
+Medios de pago: Efectivo- Transferencia Bancaria/Cuentan con toda la documentación al día, el pago de los alojamientos se tiene que ver reflejado previo a que el servicio finalice.
+CONTACTO: Adriana 3165179675-3113401935
+
+2.Hotel California
+Habitación Individual-Precio $30.000
+Habitación doble Cama-Precio $60.000
+Habitación triple Cama-Precio: $75.000
+Servicios incluidos: Wifi/Agua Caliente/Garaje
+Medios de pago: Efectivo- Transferencia Bancaria/Cuentan con toda la documentación al día, el pago de los alojamientos se tiene que ver reflejado previo a que el servicio finalice.
+CONTACTO: Carolina Vázquez-3186258538.
+
+3.Hotel Anturios.
+Habitación Individual-Precio $40.000
+Habitación doble Cama-Precio $30.000
+Servicios incluidos: Wifi.
+Medios de pago: Efectivo- Transferencia Bancaria/Cuentan con toda la documentación al día, el pago de los alojamientos se tiene que ver reflejado previo a que el servicio finalice.
+    [group_fm93i53/seguridad] => No se descartan acciones armadas durante el desarrollo de la misión. Los frecuentes enfrentamientos entre los diferentes grupos armados podrían configurar un riesgo de fuego cruzado.
+Aunque no hay programación de manifestaciones o bloqueos sobre la vía Panamericana, se han venido registrando continuamente durante el año 2023 y en especial en fechas importantes para el turismo.
+
+Otros aspectos:
+*Para el ingreso se recomienda el tránsito de al menos 1 vehículos con características 4X4, puesto que la carretera desde el Sector Ricaurte hasta los puntos de concentración en la cual se encuentra en buen estado y con vía carreteable el 100% 
+*En la zona de pernocta la Guardia Indígena realizó turnos de vigilancia y seguridad.
+*Se recomienda usar sitio de pernocta diferente a la escuela (Salón comunal) para evitar una acción con daño.
+*Se recomienda el porte y uso de telefonía satelital puesto que en las comunidades entra la señal y datos en los teléfonos con operador de claro 
+*Presencia de vectores, enfermedades tropicales y roedores.
+Conflicto armado:
+*La comunidad reportó que los GANE ejercen control de territorio y piden parte de la despensa de cada casa.
+*Se evidenciaron varios panfletos y letreros alusivos al Frente “Uriel Rondón” de las Disidencias FARC en el Sector Puerto Rico
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 1328
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 3919
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 3
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-06-29
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => CENSO DESPLAZADOS 2023 RESG CHAGUI VEGAS 02 por familia ultimo-20_58_26.xlsx
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 3919
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => Save The children, Harland alliance, Consejo Noruego para refugiados, Cruz roja, Consejo Danes para refugiados
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Save The children, Harland alliance, Consejo Noruego para refugiados, Cruz roja, Consejo Danes para refugiados
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => En el contexto de emergencia en los resguardos de Vegas, Maguí y Cuasbi carretera se ha identificado un caso de amenazas y señalamiento dirigido a los integrantes de los resguardos, generando inseguridad y temor en la comunidad. Se ha registrado el asesinato de un miembro del resguardo de Magüí el 27 de junio, lo que ha agravado la situación. La presencia significativa de grupos armados en el territorio, en particular los enfrentamientos frecuentes entre los grupos GANE y ELN, ha intensificado las preocupaciones y dificultado el regreso seguro de la comunidad a su territorio, así como su movilidad y desarrollo de actividades diarias. Además, las dinámicas de violencia y conflicto armado han ocasionado una afectación psicosocial en la comunidad. En este contexto de desplazamiento y confinamiento, el riesgo de sufrir violencia de género ha aumentado significativamente para mujeres, niñas y adolescentes. Ante estos desafíos, es crucial implementar medidas de protección adecuadas y buscar soluciones integrales que aborden las necesidades y derechos de la comunidad en situación de emergencia.
+Violencias Basadas en Género
+Las mujeres y las niñas se encuentran expuestas a un mayor riesgo de violencia basada en género tanto dentro como fuera de sus hogares, situación que puede agravarse durante una emergencia. Las restricciones a la movilidad y los desplazamientos incrementan los peligros de violencia sexual y de género hacia las mujeres por parte de grupos armados. Por ejemplo, en el resguardo de Cuasbi carretera, las mujeres han relatado que algunos hombres han optado por quedarse en sus viviendas para proteger sus bienes, mientras que ellas se han desplazado hacia los resguardos en busca de seguridad.
+Personas En Riesgo
+En total los 3 resguardos reportaron 10 personas en condiciones de discapacidad que sufren niveles de vulnerabilidad mayor. 
+ICLA 
+se ha evidenciado un desconocimiento generalizado de las afectaciones y garantías fundamentales establecidas en la Ley 1448 de 2011 y el Decreto Ley Étnico. Asimismo, se ha observado un desconocimiento de los mecanismos disponibles para exigir el cumplimiento de derechos en esta situación. Esta falta de conocimiento dificulta la protección y el ejercicio pleno de los derechos de las comunidades afectadas. la organización Heartland Alliance ha llevado a cabo labores de socialización de la Ley. Sin embargo, es necesario reforzar estos esfuerzos y generar nuevos espacios de difusión con los resguardos, considerando que la dispersión de la comunidad ha dificultado el acceso a esta información vital.
+Los enfrentamientos recurrentes entre los distintos grupos presentes en la zona, junto con la peligrosa contaminación por artefactos explosivos que ha cobrado la vida de una persona y causado graves consecuencias a otras víctimas, han exacerbado la exposición a riesgos de las comunidades. Estas situaciones también han resultado en violaciones a los territorios ancestrales de los dos resguardos, generando hechos victimizantes que se enmarcan en el ámbito de la ley de víctimas y restitución de tierras. Es importante destacar que durante la evaluación rápida de necesidades (ERN), se ha registrado la delimitación territorial por medio de una bandera por parte del ELN, con el objetivo de reafirmar su control y dominio en la zona. En cuanto a las comunidades de acogida, se ha constatado la falta de infraestructura, espacio y recursos suficientes para satisfacer las necesidades de la población desplazada de manera adecuada.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => Identificación de casos de amenazas y señalamiento hacia los integrantes de los resguardos de Vegas y Maguí (Altaquer).
+Asesinato de un miembro del resguardo de Magüí el 27 de junio
+La presencia significativa de grupos armados en el territorio ha cobrado una víctima perteneciente al resguardo de Vegas, (Víctima de MAP)  generando inseguridad y temor en la comunidad tanto para regresar a su territorio como para desplazarse y llevar a cabo sus actividades diarias. Estas preocupaciones se intensifican debido a los enfrentamientos frecuentes entre los grupos GANE y ELN en la zona.
+4. La comunidad experimenta afectación psicosocial debido a las dinámicas de violencia y conflicto armado.
+Dado el contexto de desplazamiento y confinamiento el riesgo de sufrir violencia de género aumenta significativamente en mujeres, niñas y adolescentes
+Se identificaron casos de consumo de sustancias psicoactivas en jóvenes
+
+Desconocimiento de afectaciones y garantías fundamentales  en el marco de la ley  1448 de 2011 y el decreto ley étnico.
+Desconocimiento de mecanismos  de exigibilidad   de derechos.
+Hechos victimizantes de amenazas, asesinatos, desplazamiento forzado, confinamiento, enfrentamientos que ocasionan daños  a bienes muebles e inmuebles. 
+Durante la ERN hubo delimitación territorial por medio de una bandera del ELN. Esta práctica busca reafirmar el control y la influencia del grupo armado. 
+Las comunidades de acogido no cuentas con infraestructura, espacio, ni recursos para mantener a la población desplazada. 
+. Riesgos para los NNA:
+Territorios afectados por contaminación de artefactos explosivos, generando accidentes, temor y obstáculos para la educación, el juego y aprovechamiento del tiempo libre. 
+En  total hay 10 personas en condición de discapacidad que requieren atención t apoyo según sus necesidades individuales.
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => *Brindar apoyo psicosocial: Ante la afectación causada por la violencia y el conflicto armado, es fundamental ofrecer servicios de apoyo psicológico a la comunidad que aborden el trauma, el estrés y promuevan la resiliencia en la población afectada. 
+*Sensibilización y educación: Realizar campañas de sensibilización para concientizar a la comunidad sobre los peligros de las MAP-MSE-TE(Actividades y sensibilizaciones con enfoque diferencial.) 
+*Creación de estrategias de autoprotección civil en contextos de emergencia (prevención y control de riesgo)
+*Mensajes claves en prevención de VBG y autocuidado dirigido a mujeres, niñas y adolescentes.
+*Taller de prevención de adiciones 
+Sensibilización y difusión: Realizar campañas de información sobre las afectaciones y garantías fundamentales establecidas en la Ley 1448 de 2011 y el Decreto Ley Étnico. Espacios informativos, orientación y asistencia legal para activación de rutas de protección y atención.
+Orientación y acompañamiento para ruta de acceso a salud e identidad legal.
+Orientación en ruta ante URT, UNP y ANT sobre delimitación de territorios y restitución de tierras.
+Protección de bienes y propiedades: denuncia de actos delictivos.
+Atención a personas con discapacidad: Garantizar la atención y apoyo adaptados a las necesidades individuales.
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => ¿Las mujeres y/o funcionarios tienen conocimiento y acceso a la ruta de atención en VBG? NO
+¿Participan activamente las mujeres, las niñas y otros grupos en situación de riesgo en el desarrollo de políticas, normas y directrices en materia de protección que tengan en cuenta sus derechos y necesidades? NO 
+¿Existen afectaciones que requieran una gestión de caso? SI 
+Materialización de amenazas individuales y colectivas, (uso utilización y vinculación forzada, amenazas a líderes/as, VGB en el marco del conflicto, desapariciones, homicidios, secuestro, tortura)  SI  
+Alto nivel de afectación psicosocial y estrés severo  SI 
+Nivel de severidad del riesgo comunitario  ALTO  (se encuentra en una zona de confrontaciones y no cuentan con mecanismos comunitarios de protección.)
+    [group_aa8xg30/group_lg2ro37/Shelter] => Se identifican la falta de elementos de hábitat como toldillos o menaje en las familias especialmente para afrontar la recepción de personas desplazadas de los sectores del resguardo o aquellas que provienen de otras comunidades por lo que los afectados han debido exponerse a enfermedades trasmitidas por vectores dado el incremento en las lluvias en los últimos meses y la disposición cercana a las viviendas de residuos orgánicos que se han visto obligados a realizar por las restricciones y el confinamiento que padecen.
+
+Existen 21 centros educativos afiliados a la ASOCIACIÓN DE AUTORIDADES TRADICIONALES AWÁ - CAMAWARI, los cuales se conocen localmente como educación contrata, se encuentran adscritas a la institución educativa bilingüe Agroindustriall Sindagua. 
+
+Todos los centros educativos carecen de servicios adecuados, ya que no cuentan con acueducto, solo disponen de un baño para ambos sexos, los recursos escolares se encuentran en mal estado, no cuentan infraestructuras seguras. 
+
+ en los 3 puntos de concentración cuenta con diferentes mecanismos, en el cual se tienen de la siguiente forma: 
+
+Magui: cuenta con lotes comprados por el resguardo y fueron asignadas espacios para que las familias puedan realizar sus espacios temporales y posterior en horarios de alimentación olla comunitaria
+
+en el resguardo o punto de concentración de las vegas: cuentan con espacios y con apoyo de familiares para poder brindar espacios dignos, sin embargo, no cuentan con las condiciones y están en hacinamiento
+
+en cuasbi carretera:  no cuentan con espacios, se encuentran en casa de familiares y en redes de apoyo 
+
+cabe resalta que todo los puntos no cuentan con las condiciones dignas, y adicional a ello se encuentran en hacinamiento si bien cuentan con servicios públicos vitales, no cuentan con elementos para poder mantener los mínimos vitales
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => Las familias desplazadas tienen algunas opciones de quedarse en casa de familiares, sin embargo, las condiciones son de hacinamiento en todos los puntos.  De concentración 
+B. En los puntos de concentración no cuentan con los elementos de cocina adecuados para poder preparar sus elementos
+C. El albergue de las vegas cuenta con 36 unidades, las cuales carecen de elementos de  carácter mobiliario esenciales como sillas, mesas y estantería y algunos elementos de cocina.
+D. No se evidencia espacios con iluminación adecuada, ni cerrojos para su privacidad
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Se observa necesidades fundamentales en elementos para reparación de techos las cuales mojan los elementos internos
+B. Se pudo evidenciar que el albergue en este punto no cuenta con los mínimos de privacidad y de seguridad internos. 
+C. Es importante tener en cuenta las resguardo Magui no tienen un espacio digno y suficiente para las familias.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿Las familias y/o personas tienen donde albergarse en condiciones seguras? 
+No las personas no tienen un espacio adecuado
+¿Las familias y comunidad cuentan con las infraestructuras adecuadas que promuevan seguridad?
+No, las familias tienen carencias en temas de iluminación en espacios privados y públicos.
+¿Existe problemáticas entre la comunidad de acogida y las familias desplazadas? 
+Entre ellas no tanto, sin embargo, entre Magui y las vegas si se encuentra una disputa de poder 
+¿Se permite y/o valida con autoridades locales y comunidades la aceptación de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales? 
+Si, por ellos manifiestan hasta apoyar con mano de obra no calificada 
+¿Se identifica la necesidad de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales? 
+Si como se presentó en los hallazgos, temas de espacios privados he iluminación.
+¿La respuesta desde Shelter disminuye que las personas estén expuestas a riesgos de seguridad física, inclemencias climáticas, salud, privacidad y mejora la dignidad de las personas? 
+Si, en caso de entrar en fase dos a realizar esas adecuaciones, seria significativo para las condiciones dignas
+    [group_aa8xg30/group_fv0ct51/Agua] => Se observa que en los 3 puntos de concentración cuentan acceso a agua, sin embargo no se puede garantizar que es agua segura, se evidencia que el agua se encuentra cristalina, pero no se pudo identificar las cantidades o proceso de tratamiento, si bien se pudo identificar que es la red de acueducto vereda de Altaquer,  el 100% de los puntos de concentración no realiza ningún tipo de tratamiento de las agua. 
+
+para las comunidades que se encuentran en confinamiento no se pudo lograr el levantamiento de la información de la situación agua en temas relacionada a agua 
+
+Las comunidades. A pesar de ello, se destacan buenas prácticas en la protección de la fuente de agua, como la eliminación adecuada de basuras y excretas.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Actualmente no cuentan con sistemas de tratamiento, ni proceso de tratamiento para el 100% de las familias, en el centro de las vegas cuentan con una batería sanitaria (4 puestos) los cuales están conectador a un sistema de pozo prefabricados, sin embargo, se evidencia que se encuentran en regular estado y expuesto a la ambiente, por lo que dicho genera aumento de olores al rededor de este punto de concentración; sin embargo la mayor parte de la comunidad generar sus necesidades fisiológicas al aire libre y en algunos casos realizan el tapado para evitar la contaminación por contacto directo. 
+
+Con relación a los residuos sólidos, el 90% de las familias de estas comunidades informan que queman sus residuos, especialmente los de origen orgánico. Sin embargo, productos como toallas sanitarias y pañales son enterrados. A pesar de esto, se reconoce la presencia mínima de vectores debido al manejo adecuado de los residuos dentro de la comunidad.
+
+Es fundamental promover prácticas de higiene adecuadas, como el lavado de manos, así como también implementar tecnologías adecuadas para el tratamiento de aguas residuales y la gestión de residuos sólidos.
+    [group_aa8xg30/group_fv0ct51/Higiene] => En cuanto a la higiene, se evidencia que todas las familias en las comunidades hacen uso de elementos de aseo personal, familiar y del hogar, aunque el acceso a estos productos se ha vuelto difícil debido al aumento de precios. Además, otro factor que dificulta el acceso a estos elementos es la distancia que deben recorrer para adquirirlos, ya que deben desplazarse hasta Altaquer o Ricaurte. Este desplazamiento también genera temor entre las comunidades, ya que temen quedar atrapados en enfrentamientos entre grupos presentes en la zona.
+
+Sin embargo, por las acciones y la complejidad de las dinámicas del conflicto se evidencia que las comunidades no cuentan con los recursos, ni han logrado conseguir algún tipo de trabajo por jornal para poder suplir algunas de las necesidades; pero cuentan con redes de apoyos dentro de la comunidad en las cuales dentro de las acciones la comunidad se apoya para poder resolver la compra de elementos de higiene para sus familias.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Agua 
+A. El 100% de los puntos de concentración cuentan con acceso a agua, por red de acueducto, sin embargo, no se puede garantizar agua segura. 
+B. El 90% de las familias de ambas comunidades no realizan tratamiento al agua, por lo que la ingesta del agua no es segura. Las comunidades son reacias a tratamientos tipo hervido o cloración. Si bien cuentan con un filtro no hacen uso de él por no tener el conocimiento de su manejo. 
+C. Se  evidencia que no se reconoce buenas prácticas dentro de las comunidades en la protección de la fuente de agua, como no arrojar basuras ni disposición de excretas.
+
+Saneamiento 
+
+A. El 50% de las familias en los 3 puntos de concentración no cuentan con espacios separados para la disposición de excretas, en las vegas cuentan con dos sistemas de Rotoplas, pero sin mantenimiento, el 50% restante realizan sus necesidades a campo abierto procurando mantener distancia de la fuente de agua.
+B. El 90% de las familias manifiestan la quema de los residuos sólidos como técnica de manejo de los mismos, dado que la mayoría de los residuos son de origen orgánico. Productos como toallas sanitarias y pañales son enterrados.
+C. Se reconoce la presencia de vectores dado al manejo de los residuos dentro de la comunidad y en espacios dentro de los puntos de concentración 
+
+Higiene 
+
+A. El 100% de las familias manifiesta hacer uso de elementos de aseo tanto personal, familiar y del hogar, pero dado por el desplazamiento no cuentan con el recurso para acceder a los productos.
+B. El 60% manifiesta que no cuentan con elementos para la higiene bocal y se evidencia que tampoco cuentan con papel higiénico lo cual se realiza con hojas y posterior lavado de manos sin jabón. 
+C. Las comunidades no reconocen los momentos claves del lavado de manos y cuando realizan la acción no usan jabón. Además, que no existen puntos para el lavado de manos
+D. Las mujeres de las comunidades usan elementos relacionado a la higiene menstrual y no hay aceptación por parte de ellas al uso de nuevos elementos reutilizables como pantis menstruales o toallas de tela lavables.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Agua
+A. Las sensibilizaciones en agua segura, deben ir enfocadas a los métodos de tratamiento de agua a nivel domiciliario y almacenamiento seguro, como herramienta.
+B. Realizar un acompañamiento y sensibilización para el manejo, uso y mantenimiento de los sistemas de almacenamiento 
+
+Saneamiento 
+
+A. Las sensibilizaciones deben enfocarse en la correcta disposición de las excretas y uso y mantenimiento de los pozos sépticos.
+B. Las sensibilizaciones deberán enfocarse en alternativas para disposición y aprovechamiento de los de los residuos.
+
+Higiene 
+
+A. Se recomienda poder realizar sensibilizaciones en el adecuado uso de los elementos de higiene en el entorno familiar, con énfasis en el lavado de manos.
+B. Hacer entrega de un kit de higiene y que este tenga enfoque en las necesidades de salud menstrual de las mujeres.
+C. Se recomienda la sensibilización a mujeres en temas de manejo de la higiene menstrual.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => 10 % de la población no tiene acceso a agua, sin embargo, 
+80 % de la población que NO tiene acceso a jabón para realizar los procesos de higiene.
+50 %  de las infraestructuras existentes visitadas no cumple con los estándares esfera
+    [group_aa8xg30/group_jn0nm53/san] => Se pudo identificar que las familias de los dos puntos de concentración (Altaquer y Cuasbí Carretera) por las condiciones del territorio (Enfrentamientos, contaminación MAP, TE y MSE entre otras) han afectado el acceso a los alimentos desde aproximadamente mediados de mayo donde se agudizaron las problemáticas en especial por la falta de recursos económicos y el acceso a cultivos de pancoger puesto que por el desplazamiento las familias no cuentan con acceso a sus parcelas, chagras y cultivo de especies menores.
+Después de más de un mes del desplazamiento las familias carecen de alimentos para el consumo diario dado que de las tres comunidades evaluadas suman más de 3000 personas y las ayudas humanitarias que han recibido de parte de la alcaldía municipal, CAMAWARI y algunas organizaciones humanitarias duran en promedio un par de días, lo cual agudiza las necesidades de algunos grupos mas vulnerables como NN, madres gestantes y lactantes.
+Las familias cuentan con espacios improvisados (Cambuches) para preparar sus alimentos bajo la dinámica de “olla comunitaria” en donde se reúnen las personas en cada zona de concentración para compartir el desayuno, el almuerzo y en algunas ocasiones una cena; la distribución de roles para la preparación de alimentos se da de manera organizada por días en las que se destaca la participación de las mujeres y la guardia indígena para que el alimento sea distribuido de manera equitativa con toda la comunidad. Las comunidades utilizan como fuente de energía para la preparación de los alimentos la leña, la cual recolectan en zonas cercanas a la carretera y puede desencadenar un daño ambiental dado el tiempo que llevan en condición de desplazamiento y el número de personas que se encuentran en estos territorios.
+Las familias mencionan que en promedio consumen dos comidas al día, han tenido que implementar estrategias de afrontamiento reducido rCSI como pedir comida prestada o regalada, disminuir el alimento consumido por los adultos para priorizar la alimentación de los niños y disminuir el número de comidas al día cuando el alimento no es suficiente para toda la comunidad. Carecen de una dieta diversificada, puesto que solamente cuentan con alimentos no perecederos (Donados o entregados) y no con alimentos perecederos como: yuca, chiro, plátano, papa y vegetales.
+El PAE ha venido funcionado de manera activa y estos alimentos que van enfocados a suplir una buena alimentación de NNAJ que están vinculados al sistema educativo contratado o publico se convierte en una manera de acceder a alimentos para los hogares desplazados o incluso para la comunidad en general, lo cual puede derivar en problemas de talla y peso, de allí es importante destacar que los equipos del ICBF mencionan que se ha identificado un caso de desnutrición aguda el cual fue remitido a la ESE municipal y que en promedio después de más de un mes de que fueron desplazadas las comunidades el riesgo por desnutrición es bajo y están en continua evaluación de tallaje y peso con sus unidades móviles y suministrando bienestarina y suplementos a partir de atenciones diarias en las tres comunidades. Se espera la ayuda de inmediates que realizará la UARIV desde el 5 de julio a las familias de Cuasbí carretera (primer desplazamiento) y a las familias de Altaquer entre la segunda y tercera semana de julio.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Durante la evaluación realizada a las comunidades afectadas en Ricaurte, Nariño se encuentra que cuentan con el Hospital Ricaurte, ESE (Empresa Social del Estado) Nivel I, quienes cuentan con los servicios de urgencias y aproximadamente 20 profesionales entre los que se encuentran medicina general, psicología, enfermería, odontología, vacunación, entre otros. Se prevé ingreso de 2 equipos de profesionales, con aproximadamente 12 integrantes, quienes estarán realizando atención en salud primaria durante la semana del 4 al 7 de Julio a los afectados en desplazamiento, a la población de Cuesbi carretera (4 y 5) en el centro educativo de Cuesbi, y a la población de Altaquer (6 y 7) beneficiando a las dos comunidades de Vegas y Magüí.
+De igual forma la ESE proyecta una segunda entrada tentativa para la semana del 10 al 16 de Julio. 
+El hospital indica que aproximadamente 80 – 90% de la población afectada por la emergencia, se encuentra carnetizada.
+Las comunidades evaluadas presentan un patrón similar de presentación de síntomas que refieren así principalmente: 
+•	Primera infancia y NNAJ: afecciones de piel desencadenadas principalmente por picaduras de insectos, cuadros gripales y enfermedad diarreica en algunos de los niños afectados por mala higiene según indica los líderes de las poblaciones. 
+La ESE ha llevado a cabo controles de algunos casos de desnutrición en la población de las comunidades afectadas y al momento de la evaluación reportan el caso de una menor hospitalizada por complicaciones por desnutrición. Actualmente no hay casos de novo que reporte la comunidad.
+•	Adultos jóvenes reportan dolencias de tipo osteomuscular que se exacerban por las condiciones de vivienda y descanso que enfrentan actualmente, no manifiestan complicaciones de patologías de base o desencadenadas por la emergencia. Las mujeres en edad reproductiva indican que se encuentran en programas de planificación familiar sin embargo no han asistido a controles o a cambios de sus métodos por cumplimiento del tiempo límite de efectividad.
+La ESE tiene mapeadas en estas comunidades, aproximadamente 15 mujeres lactantes y 60 mujeres en embarazo, algunas de ellas asisten a controles prenatales y el resto no asiste a controles. No se reporta un aumento de la morbimortalidad materna o que se hayan presentados casos médicos de mortalidad o complicaciones maternas. 
+•	Adultos en edad avanzada: dolores osteomusculares, afecciones respiratorias, no asistencia a control de sus patologías crónicas de base.
+Se evidencian falencias en torno a determinantes sociales de la salud de forma crónica que impactan negativamente la situación sobre la salud de la comunidad.
+Se conocieron conductas y hábitos de higiene deficientes dada la ausencia de baterías sanitarias adecuadas que aseguren la correcta higiene de manos. Gran parte de la población afectada realiza sus deposiciones en campo abierto lo cual representa un alto riesgo de transmisión de enfermedades. Hay ausencia de estructuras internas de apoyo social, que propician la incidencia de condiciones transmisibles.
+En las comunidades hay algunas parteras y médicos ancestrales/tradicionales, algunos de ellos aún se encuentran en las zonas de confinamiento por lo cual en el momento en caso de requerir atención acuden al Hospital de Ricaurte que se encuentra aproximadamente a 20 minutos carreteables. 
+El Hospital de Ricaurte es el principal centro de referencia y según el caso los pacientes son remitidos a Pasto, Ipiales o Barbacoas.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Los efectos del conflicto armado son importantes sobre la salud mental de la población afectada por desplazamiento, indican un aumento del temor y el estrés ante ruidos externos que no se presentaban usualmente al interior de las comunidades, esta situación además genera cambios en los hábitos de sueño de los menores y por ende de sus cuidadores quienes además manifiestan que presentan dificultad para conciliar el sueño.  
+En las comunidades evaluadas (Cuesbi carretera y Altaquer /Magüí y Vegas) hay ausencia de agentes para la atención por psicología individual o grupal, o detección y gestión de los casos. La forma más frecuente de acceso es asistiendo a la ESE a donde acuden en escasas ocasiones a pesar de la atención que reportan los profesionales se realiza con un enfoque diferencial.
+No se logró identificar casos de violencia basada en género o aumento de los mismos posterior a la emergencia; sin embargo, se evidencia un patrón etnocultural donde el hombre es quien toma las decisiones y donde es posible exista una minimización de los hechos de esta índole.
+Las comunidades cuentan con una red de apoyo comunitaria, que les ha permitido generarse lazos comunitarios y espacios seguros donde pueden intercambiar experiencias en algunas jornadas del día procurándose soluciones a las situaciones que enfrentan. El conflicto ha tenido un alto impacto en las dinámicas familiares, sociales y personales traduciéndose en alteraciones de la estabilidad de la población.
+No hay un claro panorama frente al reclutamiento, llama la atención la baja presencia de adolescentes durante la evaluación, sin embargo, líderes y comunidad indican temor frente a este fenómeno.
+Según los líderes y la comunidad no se han presentado casos de ideas o conductas suicidas o pensamiento con intención de muerte.
+Es evidente la presencia de síntomas emocionales tales como síntomas de ansiedad, tristeza,  sensación de pánico, trastornos del sueño y del estado de ánimo, que impactan los niveles de calidad de vida de la población afectada y se exacerban por las condiciones de los albergues y lugares que habitan posterior al desplazamiento. 
+La situación en torno a la salud en las comunidades visitadas es notablemente de carácter crónico, con una agudización de factores estructurales desfavorable que empeoran las condiciones de vida de las poblaciones afectadas.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => No se logró identificar casos de violencia basada en género o aumento de los mismos posterior a la emergencia; sin embargo, se evidencia un patrón etnocultural donde el hombre es quien toma las decisiones y donde es posible exista una minimización de los hechos de esta índole.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Presencia de síntomas y trastornos mentales como estrés postraumático, ansiedad, depresión, conducta suicida, ataques de pánico, consumo de SPA y alcohol, trastornos del sueño y del estado de ánimo.
+Redes colectivas debilitadas, mecanismos de apoyo comunitario no establecidos.
+Ausencia de personal para atención psicológica en las comunidades, personal insuficiente en la cabecera municipal.
+Ausencia de Agentes comunitarios para la detección, dirección y gestión de casos.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => No se detectó una importante barrera lingüística que haga indispensable la presencia y apoyo permanente de traductoras para la atención de la población.
+Las comunidades presentan necesidades crónicas en salud física y mental, agudizadas en alguna medida por las condiciones relacionadas con la emergencia.
+Se considera que existe mayor urgencia en los aspectos relacionados con  la salud mental.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => 1.	El Hospital Ricaurte ESE Nivel I cuenta con capacidad de atención primaria básica en salud física y mental, y es la entidad asignada a la zona evaluada. Se harán ingresos del 4 al 7 de julio y se proyecta del 10 al 16 un segundo ingreso con dos equipos de profesionales de aproximadamente 12 personas, que se considera cuenta con la capacidad de respuesta de la población afectada por desplazamiento que se encuentran en Cuesbi carretera y Altaquer (Magüí y Vegas). 
+2.	No hay aumento de los casos de desnutrición desencadenado por la emergencia y los casos en atención son conocidos y tratados por la ESE.
+3.	En términos de salud mental, la comunidad no manifiesta que se hayan presentado intentos autolesivos o aumento en dicha conducta. Es evidente la presencia de síntomas emocionales, ansiedad ante la situación, tristeza por las condiciones en que se encuentran, sensación de pánico, trastornos del sueño y del estado de ánimo.
+
+Por lo anterior, se estima que existe una necesidad en torno a la salud en las comunidades visitadas, de carácter crónico, con una agudización por conflicto y factores estructurales desfavorables; dichas necesidades en salud por el momento están siendo abordadas por la ESE local del 4 al 7 de julio, con un equipo de profesionales que se considera cuenta con el recurso humano suficiente y con proyección a realizar una segunda entrada en las próximas semanas.
+    [group_aa8xg30/group_tb5de96/EIE] => Los resguardos de Vegas, Magüí y Cuasbi Carretera han experimentado una serie de situaciones relacionadas con el conflicto armado interno que han generado riesgos y afectaciones al derecho a la educación de los niños, niñas y adolescentes (NNA). Estas circunstancias han perjudicado considerablemente el acceso y la permanencia. La educación en emergencia es un aspecto fundamental para garantizar el desarrollo integral de las comunidades afectadas. En el caso de los resguardos afiliados a la ASOCIACIÓN DE AUTORIDADES TRADICIONALES AWÁ - CAMAWARI, se han identificado un total de 21 centros educativos, conocidos localmente como educación contrata, que están adscritos a la institución educativa bilingüe Agroindustrial Sindagua.
+En el resguardo de Vegas, se encuentran 12 centros educativos que ofrecen educación hasta el quinto grado, atendiendo a 306 estudiantes y contando con 12 docentes. Por su parte, el resguardo de Magüí cuenta con 6 centros educativos que ofrecen educación hasta el quinto grado, así como un colegio que abarca hasta el undécimo grado, atendiendo a 117 estudiantes y contando con 8 docentes. Además, en el resguardo de Cuasbi Carretera se encuentran 3 centros educativos.
+Sin embargo, es importante destacar que todos estos centros educativos enfrentan diversas Necesidades. La mayoría de ellos operan en condiciones de extra-edad y multigrado, y la edad escolar abarca desde los 5 hasta los 24 años. Además, la falta de servicios adecuados es evidente, ya que carecen de acueducto y solo disponen de un baño para ambos sexos. Los recursos escolares se encuentran en mal estado y las infraestructuras no ofrecen seguridad.
+Aunque se benefician del Programa de Alimentación Escolar (PAE), las actividades escolares se suspendieron hace aproximadamente un mes, y actualmente se encuentran en el periodo de receso escolar, que inició el 29 de junio y concluirá el 24 de julio.
+Las necesidades generales y compartidas en el ámbito educativo son evidentes. La deserción escolar se ha incrementado debido al riesgo generado por los artefactos explosivos (MAP), los enfrentamientos, el confinamiento y la falta de oferta escolar para continuar y finalizar el bachillerato. Los jóvenes que desean cursar el bachillerato deben desplazarse durante largas horas. Además, se han registrado casos de reclutamiento y consumo de sustancias psicoactivas entre los estudiantes que han generado nuevas preocupaciones en la zona. 
+Es importante destacar que, desde el inicio de la emergencia, los centros educativos han sido utilizados como albergues, evidenciando la necesidad de brindar un entorno seguro y propicio para el desarrollo educativo de los niños y jóvenes afectados.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Las diversas situaciones acontecidas en el marco del conflicto armado interno ocurridas desde el mes de Junio del corriente año en los resguardos ha configurado un en el cual han tenido que suspender las clases aproximadamente hace 2 meses  generando escenario de riesgos y afectaciones al libre ejercicio de su derecho a la educación de los niños, niñas y adolescentes- en adelante NNA. Entre las circunstancias que consideran las comunidades y docentes que han perjudicado considerablemente el acceso y permanencia a la educación se encuentran:
+	La constante presencia y circulación en sus territorios de: GANE, tropas del ejército nacional de Colombia y tropas del ejército nacional de Ecuador.
+	Contaminación con artefactos explosivos por presencia de MSE y MAP estas últimas que ocasionaron 3 accidentes con afectaciones graves a las víctimas.
+	Fuertes enfrentamientos entre GANE durante los primeros meses del año en curso.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => Capacitar a AEC y docentes en educación en emergencia y plan educativo de respuesta.
+Sensibilización sobre seguridad ante artefactos explosivos.
+Actividades de protección y prevención de explotación y abuso sexual para NNA.
+Entrega de Kits Escolares a NNA y Docentes.
+Maleta lúdico-pedagógica para actividades escolares y tiempo libre.
+Estrategia de recuperación de aprendizaje y acceso educativo para NNA desescolarizados.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => ¿La falta de elementos  y de garantizar una alimentación digna ha hecho que las clases se vean afectadas, falta de ocupación del tiempo libre? Sí
+¿Se identifica afectación en NNA ante la presencia de riesgos de protección como Afectación Psicosocial, Uso y vinculación, deserción escolar, incidentes por MAP-MSE-TE,VBG? Sí
+Durante la emergencia ¿se evidencia la necesidad de una estrategia de adaptación curricular y entrega de Material Educativo a IE afectada?  Sí 
+Durante la emergencia ¿existe acompañamiento de actividades de tiempo libre de NNA guiadas por docentes o AEC? No
+¿Los NNA afectados  cuentan con material didáctico para continuar actividades de uso de tiempo libre y/o académico? No
+¿Se identifica en la comunidad afectada y/o de acogida personal docente o agentes educativos comunitarios con quienes se pueda construir un plan de trabajo en el marco de la emergencia?  Sí
+    [group_aa8xg30/group_tb5de96_001/TM] => Las comunidades en las cuales el equipo EAR realizó la evaluación se encuentran en el corregimiento de Altaquer perteneciente a Barbacoas y Cuasbí carretera perteneciente al municipio de Ricaurte en donde se realizó un análisis de mercado, capacidad de proveedores financieros, riesgos de seguridad y viabilidad de un MPCA destacando por comunidad:
+Altaquer 
+•	El acceso a los puntos de transferencia con plataformas como Efecty, Super Giros y entidades bancarias en el corregimiento de Altaquer es limitado para poder brindar un programa MPCA dada la cantidad de familias solamente se encuentra una sucursal de Super Giros y se encuentra muy cerca a un punto de concentración de la policía de Barbacoas. La oferta en cabecera de Barbacoas esta a una distancia considerable de aproximadamente de 80 kilómetros con riesgos por la presencia de GANE.
+•	Los costos para dirigirse a Barbacoas son aproximadamente de $120.000 (Ida y regreso) en transporte público hasta Junín y después transporte informal. Para dirigirse a Ricaurte de $50.000 en transporte formal ida y regreso.
+•	La oferta de establecimientos comerciales en el corregimiento de Altaquer se basa en tiendas o minimercados los cuales cuentan con la capacidad de abastecer las comunidades que habitan este lugar, sin embargo, dado que el número de familias desplazadas es alto puede incurrir en un desabastecimiento de artículos de primera necesidad más cuando durante la semana del 22 de junio las familias realizaron un bloqueo sobre la vía Panamericana.
+•	Puede haber un riesgo en las familias desplazadas por la decisión del uso del recurso dentro de un MPCA, desencadenando en conflictos familiares o que deriven VBG puesto que hay más hogares de jefatura masculina.
+Cuasbí Carretera
+•	El número de familias desplazadas en total ubicadas en esta zona sobre la carretera Panamericana es de 246 aproximadamente.
+•	Las familias que se encuentran en este punto de concentración y hacen parte del resguardo integrado de la Milagrosa fueron las primeras desplazadas que derivaron de los enfrentamientos de GANE lo cual asciende de un periodo de mes y medio en situación de desplazamiento y con el pasar del tiempo se agudizan las necesidades.
+•	La distancia entre el asentamiento y la cabecera municipal de Ricaurte es de 8 kilómetros aproximadamente con un costo de transporte de $12.000 pesos sobre carretera nacional.
+•	Las comunidades refieren que no se han presentado inconvenientes de orden publico que puedan poner en riesgo en los traslados hacia cabecera para realizar compras locales, recibir alguna ayuda entre otras diligencias.
+•	En cabecera municipal de Ricaurte hay oferta de los siguientes operadores Financieros: (5) Super giros-(1) Efecty (3) Corresponsales Bancolombia-(1) Oficina del banco Agrario.
+•	Se puede presentar riesgos derivados al uso del recurso de acuerdo con las necesidades de las familias y las comunidades en general en un programa de MPCA
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => riesgo verde  (bajo)
+Las comunidades refieren que no se han presentado hechos de riesgo por robo 
+Los tiempos de desplazamiento desde las comunidades de Cuasbí Carretera a cabecera de Ricaurte son cortos (15 min) y el precio es de $14.000 ida y regreso.
+Existe 6 puntos disponibles en Ricaurte – 1 en la zona del Palmar y 5 en la cabecera.
+
+Riesgo amarillo (medio)
+
+Dificultad para el seguimiento de las transferencias puesto que hay familias que se encuentran en redes de apoyo o mantienen un movimiento pendular.
+Las autoridades mencionan que hay familias que al salir del desplazamiento dejaron documentos en sus comunidades.
+Posibles riesgos VBG por la decisión del uso del recurso, sin embargo, las familias mencionaron que el uso del recurso es compartido dentro del hogar. 
+
+riesgo rojo (alto)
+
+Las comunidades que están ubicadas en Altaquer cuentan con restricción en el recurso, tiempo y accesibilidad geográfica tanto en Barbacoas y a Ricaurte.
+El punto de Super Giros en Altaquer queda muy cerca de una subestación de policía.
+El número de familias que están ubicadas en Altaquer es aproximadamente de 1100 lo cual excede la capacidad de los puntos y se puede derivar en riesgos para las comunidades al momento de un MPCA.
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Hacer seguimiento a las necesidades de las comunidades de Cuasbí carretera para identificar si persisten después del ingreso de parte de la UARIV, para establecer la pertinencia de un programa de MPCA.
+En caso de brindar un programa de TM en las comunidades de Cuasbí es importante verificar espacios y turnos de retiro dada la capacidad financiera de Super Giros y acompañar la entrega con taller de uso del recurso de una manera adecuada en necesidades como alimentación, higiene, salud educación entre otras.
+No realizar un programa de MPCA en las comunidades de Altaquer a menos que se cuente con la capacidad operativa y financiera para poder brindar el programa al total de las familias, puesto que puede presentar en riesgos y conflictos internos en las comunidades desplazadas y aumentar la vulnerabilidad.
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => Existe Libre circulación a excepción de la semana del 20 de mayo donde se presentaron bloqueos de las comunidades afectadas.
+
+El suministro de alimentos, higiene, medicamentos y artículos en general es amplio en Altaquer y en Ricaurte.
+
+No se evidenciaron desabastecimientos en los establecimientos o puntos de abastecimiento.
+
+Hay 6 puntos de Super Giro y uno de Efecty los cuales pueden tener la capacidad de atender en promedio 200 a 300 millones en el lapso de una semana – Posible capacidad a comunidad Cuasbí Carretera.
+
+Para las comunidades de Altaquer dado que el número de familias es alto, no se cuenta con la capacidad y Barbacoas queda a una distancia considerable.
+
+La comunidad de Cuasbí carretera cuenta con capacidad de abastecer en cabecera de Ricaurte.
+
+Hay centros de abastecimiento con capacidad y un D1
+    [group_aa8xg30/BrechasInformacion] => Los riesgos por VBG en un programa de transferencias monetarias pueden ser altos y en especial en comunidades indígenas donde existe un sistema patriarcal predominante, sin embargo, las comunidades refieren que la decisión del uso del recurso se hace consensuada en cada hogar de acuerdo con sus necesidades
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 120
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 0
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 12
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 4
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 3
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 1
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Campo Elias
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3116598978
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Gobernador de Magui
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => •	 Cheimi Narvaez
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3206726191
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Gobernadora Chagui Chambusa
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => Arcelina Garcia
+    [group_aa0qz67/group_de0zc49/_3d_Celular] => 3185013226
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => Gobernadora de Cuesbi Carretera
+    [group_sp7cc00/Observaciones_adicionales] => Sí la UARIV realiza entregas, pero desde las instituciones nacionales no realizan acciones integrales que puedan garantizar el retorno seguro a los territorios las familias pueden optar por regresar a sus comunidades por los caminos tradicionales donde están contaminados por artefactos explosivos desencadenando en posibles afectaciones físicas.
+Es importante monitorear si las ayudas entregadas por organizaciones locales pueden suplir las necesidades de las comunidades mientras se realiza un retorno o de lo contrario establecer alianzas con el ELC para complementar las asistencias brindadas por entes territoriales (públicos o privados).
+Continúan los enfrentamientos entre GANE sobre las montañas del municipio de Ricaurte lo cual puede generar en más desplazamientos masivos, se espera que el cese decretado por el ELN contra la fuerza pública disminuya los combates, pero no se puede garantizar que los enfrentamientos entre GANE cese en las comunidades afectadas.
+Existe unas discrepancias entre las comunidades ubicadas en Altaquer por la conformación de una nueva organización de resguardos indígenas Awa en Ricaurte y las que están afiliadas a CAMAWARI, por lo cual es importante realizar una articulación con las autoridades de cada comunidad para no permear la ayuda humanitaria con fines políticos.
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:df700d73-1482-4e1f-8311-c619aa1bac10
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => df700d73-1482-4e1f-8311-c619aa1bac10
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc.humanitarianresponse.info/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fdf700d73-1482-4e1f-8311-c619aa1bac10%2FCENSO_DESPLAZADOS_2023_RESG_CHAGUI_VEGAS_02_por_familia_ultimo-20_58_26.xlsx
+                    [download_large_url] => https://kc.humanitarianresponse.info/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fdf700d73-1482-4e1f-8311-c619aa1bac10%2FCENSO_DESPLAZADOS_2023_RESG_CHAGUI_VEGAS_02_por_familia_ultimo-20_58_26.xlsx
+                    [download_medium_url] => https://kc.humanitarianresponse.info/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fdf700d73-1482-4e1f-8311-c619aa1bac10%2FCENSO_DESPLAZADOS_2023_RESG_CHAGUI_VEGAS_02_por_familia_ultimo-20_58_26.xlsx
+                    [download_small_url] => https://kc.humanitarianresponse.info/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2Fdf700d73-1482-4e1f-8311-c619aa1bac10%2FCENSO_DESPLAZADOS_2023_RESG_CHAGUI_VEGAS_02_por_familia_ultimo-20_58_26.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/df700d73-1482-4e1f-8311-c619aa1bac10/CENSO_DESPLAZADOS_2023_RESG_CHAGUI_VEGAS_02_por_familia_ultimo-20_58_26.xlsx
+                    [instance] => 448608945
+                    [xform] => 638464
+                    [id] => 187369050
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-07-06T03:29:22
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

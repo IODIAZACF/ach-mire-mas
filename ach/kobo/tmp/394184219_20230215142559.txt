@@ -1,0 +1,115 @@
+stdClass Object
+(
+    [_id] => 394184219
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-02-15T11:57:05.428-05:00
+    [end] => 2023-02-15T14:24:16.054-05:00
+    [group_kp1mu41/_1_C_digo] => BOSA-631.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2022-11-17
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-11-10
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-11-17
+    [group_kp1mu41/_4_Departamento] => BOLIVAR
+    [group_kp1mu41/BOLIVAR] => SANTA_ROSA_DEL_SUR
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => LA VEGA Y PALMA CHICA
+    [group_kp1mu41/num_comunidades] => 2
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => TODAS
+    [group_kp1mu41/_8_Comunidad] => Comunidad La Vega y Palma Chica
+    [group_kp1mu41/Urbano_Rural] => urbano
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Jessica Rangel
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3232342745
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R.2_EeE R8_Cash
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-11-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-11-17
+    [group_wo86e58/group_hc3sa85/vacios_icla] => N/A
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => Seguimiento a la institucionalidad en el proceso de valoración de la declaración a las comunidades afectadas por el evento de desplazamiento y confinamiento, de igual manera a las familias que declararon por individual. 
+Acompañamiento y seguimiento a las familias que elevaron solicitud formal para afiliación a sisben.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-11-11
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-11-17
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => Dificultad en la articulación con la I.E del municipio, una de las comunidades no cuenta con escuela en la comunidad, se realizo consulta ante la secretaria de educación municipal la cual delego responsabilidad hacia su nivel superior. No se logró sensibilización del único docente de una de las comunidades por estar en otro territorio, de igual manera se gestiono dialogo
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => Seguimiento en los planes de respuesta a emergencias planteados por los AEC por parte de la institucionalidad
+    [group_wo86e58/group_zh0iq179/R8_Actividades_Cash] => 4-R8-8.1-36-2-Entrega
+    [group_wo86e58/group_zh0iq179/Fecha_de_ingreso_NRC_Cash] => 2022-11-11
+    [group_wo86e58/group_zh0iq179/Fecha_de_salida_NRC_Cash] => 2022-11-17
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => Espacios de información sobre normatividad en la atención a víctimas de conflicto armado con  jefes de hogar caracterizados, se realizo esclarecimiento de las rutas de atención y acceso a derechos, medidas, asistencia y reparación integral a población afectada por el conflicto interno (61 personas) 
+
+Se realizo orientación a cuatro personas de nacionalidad venezolana en medidas de regularización migratoria. 
+Se realizo acompañamiento y remisión de 16 núcleos familiares que presentan dificultades para el acceso a SISBEN - documento entregado a la secretaría de gobierno, para su debida gestión.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => NA
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => NA
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Se realizó sensibilización a NNA de las comunidades La Vega y Palma Chica que se vieron afectados por la emergencia, en temas de comportamiento seguro, especialmente que hacer en medio de fuego cruzado y se les reforzo sus conocimientos sobre ERM, debido al el riesgo por presencia de artefactos explosivos.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Se realizaron espacios de sensibilización y formación en EeE a 4 AEC de las comunidades Palma Chica y La Vega. Se creo un plan de respuesta en emergencia con el compromiso de implementar y dar seguimiento a su cumplimiento. (4 AEC)
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => NA
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => la maleta que contiene material pedagógico y lúdico para la realización de actividades que de acuerdo a la consulta previa por parte de la comunidad ellos solicitaron para trabajar como elementos deportivos,  y pedagógico para la escuela.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => ya estaba recibiendo respuesta
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_en_Personas_en_Riesgo] => No había necesidades de atención
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => No había necesidades de atención
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => ya estaba recibiendo respuesta
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => No había necesidades de atención
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No había necesidades de atención
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => ya estaba recibiendo respuesta
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => ya estaba recibiendo respuesta
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Alcaldía y Personería
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Articulación en los sectores de atención a fin de brindar complementariedad en las acciones de ICLA, EeE y CASH.
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 1
+    [group_kq5co41/group_zo3ck85/_Cual] => Personería
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 2
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Marisol Ferreira
+    [group_kq5co41/group_vt2ve84/_1b_Tel_fono_1] => 3184313959
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Alcaldía - Secretaria Gobierno
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Adriana
+    [group_kq5co41/group_ay3fs88/_2b_Tel_fono_1] => 3157100163
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Personería municipal
+    [group_ek1nq87/Observaciones] => la sección para la descripción de acciones de CASH no estaba habilitado en el sistema, por lo cual se describe a continuación:
+
+CARACTERIZACIÓN DE CASH:
+Se realizaron dos jornadas de caracterización en las que adicional a las 82 familias encontradas en el censo, se adicionaron a quienes habían realizado la declaración individual identificados tanto por la personería como por lideres de la comunidad, el censo final fue de 89 familias, de las cuales a esta jornada asistieron 62.  
+27 hogares no participaron del ejercicio de caracterización, es decir, no fueron beneficiarias del cash. Es importante resaltar que esto se debió principalmente a que algunas se encontraban fuera del municipio o en veredas alejadas a un tiempo considerable de la cabecera municipal. 
+MONTAJE DE CASH: 
+Una vez terminada la jornada de caracterización se realizo el proceso del montaje de las transferencias monetarias. Se envió el listado con la información de los beneficiarios y los montos a Efecty y se espero la confirmación de la liberación del mismo. 
+En total y restando las comisiones cobradas se entrego a toda la población un total de $33,240,000 COP. Entregando NRC un 70% y APS un 30% de esta suma.
+SENSIBILIZACIÓN Y DISTRIBUCIÓN DE CASH: 
+se llevaron a cabo dos reuniones de distribución con las personas que participaron de la jornada de caracterización (62 jefes de hogar). En estas reuniones de distribución se realizó una presentación sobre el tipo de asistencia a recibir, el donante, información general del consorcio, de cómo hacer efectiva la ayuda, mensajes claves y mecanismo MQR.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:80e0b367-068b-47de-8e17-5f94bfb2531a
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 80e0b367-068b-47de-8e17-5f94bfb2531a
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-15T19:24:28
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

@@ -1,0 +1,386 @@
+stdClass Object
+(
+    [_id] => 514631102
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-12-10T19:57:06.430-05:00
+    [end] => 2023-12-10T21:11:22.684-05:00
+    [group_pl6la06/_1_C_digo] => LADI-961.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-11-30
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-12-04
+    [group_pl6la06/_4_Departamento] => LA_GUAJIRA
+    [group_pl6la06/LA_GUAJIRA] => DIBULLA
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Corregimiento Mingueo y Punta de los Remedios
+    [group_pl6la06/_8_Comunidad] => Comunidades Arimaka, Coruval, Pilón, Piñon y Gómake.
+    [group_pl6la06/_9_Tipo_de_emergencia] => RESTRICCION_DE_MOVILIDAD
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA OTRO_ORIGEN
+    [group_pl6la06/_Cu_l_001] => Enlace Municipal para las Víctimas Dibulla
+    [group_mb5pt53/_1a_Evaluador] => Angie Lorena Carvajal
+    [group_mb5pt53/_1b_Celular] => 3102166477
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Anny Palacios
+    [group_mb5pt53/_2b_Celular] => 3166193594
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_mb5pt53/_3a_Evaluador] => Lina Cristina Trujillo
+    [group_mb5pt53/_3b_Celular] => 3223646975
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_4a_Evaluador] => Laura Rincón
+    [group_mb5pt53/_4b_Celular] => 3108737986
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-10-05
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Las actuales dinámicas del conflicto armado que se desarrollan en la zona rural del municipio de Dibulla, La Guajira, configuran un escenario inminente de crisis humanitaria para cinco comunidades indígenas del pueblo Wiwa (Arimaka, Coruval, Pilón, Piñon y Gómake) del corregimiento de Mingueo. Desde el 5 de octubre, esta situación se ha agudizado debido a los enfrentamientos entre dos grupos armados no estatales (GANE) que disputan el control territorial. Estos grupos buscan aprovechar las condiciones geográficas y físicas del territorio ancestral para llevar a cabo actividades ilícitas, como la minería ilegal, el transporte de armamento, apropiación de rutas, entre otros.
+
+Asimismo, los GANE vienen implementado estrategias destinadas a infundir terror en la población como un método de sometimiento y control social. Actualmente, alrededor de 230 familias (equivalentes a 1000 personas) pertenecientes a estas cinco comunidades indígenas se encuentran con restricciones a la movilidad. Esta limitación impide la libre circulación por sus sitios sagrados, dificulta el acceso a sus medios de vida y los expone a diversos riesgos de protección. Además, existe riesgo de reclutamiento e instrumentalización de niños, niñas y adolescentes (NNA), así como amenazas e intimidaciones tanto a nivel individual como colectivo.
+
+De igual manera, se ha logrado identificar que, el accionar de los GANE está teniendo repercusiones en otras zonas del municipio de Dibulla. Tal es el caso del corregimiento de Punta de los Remedios, donde la población local experimenta actualmente un escenario de temor debido a amenazas y asesinatos selectivos que tuvieron origen en una disputa entre dos familias en el mes de septiembre. No obstante, existe la posibilidad de que, con el transcurso del tiempo, la influencia de grupos armados ha contribuido a intensificar la situación.
+    [group_rq63s60/group_lm6cx76/a_Social] => El recrudecimiento del conflicto armado en el municipio de Dibulla está provocando un impacto humanitario de alcance general en su población, con matices que resultan en diversas afectaciones. En la comunidad de Punta de los Remedios la actual situación de conflicto ha fracturado el tejido social, dando lugar a escenarios marcados por la desconfianza, el miedo generalizado y la adopción de conductas evitativas.
+
+Las comunidades indígenas del pueblo Wiwa, históricamente han padecido duramente las secuelas del conflicto armado, enfrentando diversas afectaciones sociales y numerosas violaciones de sus derechos humanos. Las incursiones protagonizadas por los GANE alteran la conexión física, espiritual y cultural que los indígenas mantienen con su territorio sagrado; además, las prácticas destinadas al control social, que incluyen normas de conducta y restricciones horarias, interrumpen la organización social arraigada en el orden espiritual, que rige el uso y manejo del territorio.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => El pueblo indígena Wiwa forma parte de los cuatro pueblos que habitan la Sierra Nevada de Santa Marta, junto con los indígenas Kankuamo, Kogui y Arhuaco. En el contexto del conflicto armado se destaca que la población más vulnerable, con mayores obstáculos para acceder a sus derechos fundamentales y expuestos a riesgos de protección, incluye a líderes comunitarios, personas de la tercera edad y NNA.
+
+Asimismo, la población no indígena ha experimentado graves consecuencias debido a la presencia e influencia GANE. La comunidad de Punta de los Remedios, mayoritariamente afrodescendiente, no se encuentra organizada bajo una figura jurídica de representación étnica colectiva. Esta población fue víctima de una masacre en septiembre de 2002 y, con los eventos recientes, mencionan haber revivido varios temores arraigados en dicha tragedia.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Las restricciones a la movilidad impuestas por los GANE han ocasionado que las comunidades indígenas del pueblo Wiwa (Arimaka, Coruval, Pilón, Piñon y Gómake) tenga dificultades de acceso a sus diferentes medios de vida, por lo cual, estas perciben una considerable disminución en el ingreso económico a sus hogares.
+
+Asimismo, de acuerdo con algunas fuentes, existen graves afectaciones económicas en los corregimientos de Dibulla (Mingue, Punta de los Remedios, entre otros), por cuenta de las extorciones a los finqueros, ganaderos, docentes, comerciantes y hoteleros.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Un elemento adicional del interés específico de los GANE en la cuenca del río Jerez se centra en la apropiación y extracción de recursos naturales. La práctica de la minería ilegal está generando serias repercusiones ambientales que afectan negativamente la salud y calidad de vida de las comunidades Wiwa. Los desechos resultantes de esta actividad son vertidos en el suelo y agua, provocando alteraciones significativas en la biota local.
+
+Por otra parte, las comunidades Wiwa mencionan que, las necesidades alimentarias producto de las restricciones a la movilidad se agudizan por los impactos del fenómeno del Niño, que resultan en una disminución en el rendimiento de los cultivos y en la disponibilidad de agua para riego.
+    [group_fm93i53/_1_Problem_tica_Principal] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ
+    [group_fm93i53/Riesgos_para_respuesta] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO OTRO_GRUPO_ARMADO
+    [group_fm93i53/_Cu_l_005] => Autodefensas Conquistadoras de la Sierra Nevada
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Las cinco comunidades indígenas Wiwa (Arimaka, Coruval, Pilón, Piñon y Gómake), se encuentran en zona rural del municipio de Dibulla, La Guajira. El acceso principal a estas comunidades se realiza a través de caminos rurales, utilizando mulas o caminando. Arimaka, la comunidad más cercana al centro poblado del municipio está ubicada a unos 15 minutos en carro sobre la Troncal del Caribe. Por otro lado, la comunidad más alejada es Piñón, a la cual se llega caminando aproximadamente 7 horas desde Arimaka.
+
+Asimismo, desde Arimaka, se requieren alrededor de 3 horas de caminata para llegar a Pilón y 5 horas para llegar a Gómake, destacando que para alcanzar esta última comunidad es necesario cruzar el río en ocho ocasiones. Finalmente, el tiempo de desplazamiento para llegar a Corual desde Arimaka puede ser de aproximadamente 5 horas.
+
+Por último, la comunidad de Punta de los Remedios se sitúa a una distancia de 9 kilómetros de la cabecera municipal de Dibulla, siendo posible alcanzarla en un tiempo de 10 a 15 minutos en carro
+    [group_fm93i53/seguridad] => Algunos de los retos en materia de seguridad en el municipio de Dibulla se manifiestan principalmente en las vías, especialmente a lo largo de la Troncal del Caribe, donde se presentan incidentes de robos a personas y vehículos, así como la presencia de peajes ilegales. Tanto la institucionalidad como la comunidad señalan que la capacidad de respuesta de la fuerza pública se desborda, propiciando la ampliación de eventos de riesgo en la zona.
+
+La entrada a las comunidades del pueblo Wiwa requiere coordinación con las autoridades indígenas. Es importante organizar con ellos la logística y establecer estrategias para mitigar los diferentes riesgos inherentes a los desplazamientos hacia estas comunidades.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 230
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 1000
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 5
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/Adjuntar_censo] => Censos LADI-961.1-20_12_15.xlsx
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 50
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => Programa Mundial de Alimentos
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => Comunidades Indígenas Wiwa
+
+• La comunidad WIWA se configura como sujetos de protección desde el 2022 por la Corte Interamericana de Derechos, debido a las constantes masacres y homicidios selectivos por grupos armados al margen de la Ley, por ende, se emiten medidas cautelares a través de la Cancillería de Derechos Humanos, la cual ejerce seguimiento a los programas ejecutados por parte de la Alcaldía de Dibulla en la reparación a las víctimas.
+• Durante la evaluación de necesidades realizada, se conoce acerca de posible restricción en términos de tiempo – espacio, ya que debido al control ejercido por  la presencia de grupos armados, su movilidad está determinada por horas y accesos al territorio en momentos específicos (Solo en la mañana), lo que  modifica la calidad de vida  de las personas que allí habitan, en todas sus dinámicas como acceso a alimento por medio de la caza y pesca de animales por posibles campos minados, acceso a productos no perecederos, acceso a trabajo para apoyo económico de sus familias.
+
+Punta de los Remedios.
+
+• Restricción a la movilidad y auto-confinamiento por conflicto de familias con relaciones vinculantes a grupos GANE, que impide el normal desarrollo de los habitantes de Punta de los Remedios.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => Comunidades Indígenas Wiwa.
+
+•Poca capacidad de respuesta institucional, así mismo se identifica un temor generalizado de los funcionarios para acceder a las comunidades, lo que es visto por la comunidad abandono estatal.
+• Así mismo existe en el contexto geográfico espacios donde se genera minería ilegal y posible uso y utilización de NNA a través de Trabajo infantil, como resultado de dichas dinámicas de violencia.
+• La violencia basada en género es normalizada por patrones culturales, ya que la violencia sexual se ve al interior de este desde los 14 años, solo dos casos al interior de las comunidades han sido denunciados fuera de la autoridad tradicional pero la activación de las rutas de atención no ha sido efectiva.
+• La mujer asume economía del cuidado, a través del cuidado de la casa, la agricultura, caza de animales y el tejido, mientras el Hombre sale de la comunidad en calidad de trabajador en construcción o venta de animales.
+
+Punta de los Remedios.
+
+• En la comunidad se presenta restricción a la movilidad, cuya base es un infundado temor por acciones con daño por parte de las personas allí inmersas, ya que inicia como un conflicto entre dos familias y progresivamente inicia relaciones vinculantes con grupos armados (GANE) lo que conlleva a un Auto confinamiento afectando el acceso a la alimentación, educación y servicios de primera necesidad.
+• La Movilidad fracturada por tiempos debido a que no ingresa ni sale personas del corregimiento con total normalidad, ya que dentro de la comunidad es catalogada la persona como informante de las acciones que allí suceden.
+• Se identifican posibles riesgos de protección de la Niñez, dados por desescolarización masiva de estudiantes, Docentes que no acuden de forma presencial a impartir clases, afectaciones psicoemocionales colectivas en los menores, inadecuado manejo del tiempo libre que expone a los jóvenes a delincuencia juvenil, oferta y demanda de consumo de drogas psicoactivas reforzadas por las relaciones de pares con personas pertenecientes a los grupos GANE, y posible riesgo de ESCNNA (Explotación sexual Comercial Infantil por corredor turístico hacia Palomino y Mingueo,  y aumento de embarazos en adolescentes, por falta de educación en el tema, así como el aumento de pautas de crianza con violencia.
+• La violencia física y verbal es normalizada en la población, no se realizan denuncias al respecto, y se mantiene el imaginario de que el Hombre debe ser machista y la Mujer de carácter fuerte, reforzado por dinámicas de necesidades primarias insatisfechas y pautas de crianza con violencia.
+• Se presentan mecanismo de resistencia ya que la comunidad acoge permanecer en el territorio debido a la fuerte conexión con su territorio y lugares sagrados, así como el tener mecanismos de supervivencia para lograr reubicarse en otros territorios.
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => Comunidades Indígenas Wiwa.
+
+• Se presentan afectaciones que requieren Gestión de Casos y acompañamiento a las personas afectadas por eventos presentados por GANE.
+• Las familias presentan estrés severo con graves afectaciones psicoemocionales por el cambio abrupto de su realidad frente a las acciones de los GANE generando una posible angustia emocional colectiva, aun así, acuden a las autoridades indígenas de cada comunidad para desde su cosmovisión espiritual poder recibir sanación emocional.
+• Se presentan dos denuncias claves ante los hechos en cadena por parte de los grupos armados, pero ante las activaciones de ruta la institucionalidad no cuenta con una respuesta inmediata lo que hace necesario el brindar conocimiento en Procesos de acceso a Justicia y seguimiento al mismo para la efectividad de este.
+
+Punta de los Remedios.
+
+• Existencia de Afectaciones colectivas que requieren la gestión de Casos debido al temor constante y clima de tensión en la comunidad ya que las familias se encuentran en estado de alerta constante.
+• La respuesta desde la institucionalidad es poca o nula frente a la activación de Rutas de Atención ya que hay una subjetiva normalización de los hechos y no se visualiza ni se llevan a cabo acciones que permitan prevenir acciones futuras que afecten a la comunidad
+• Las comunidad en general presenta angustia emocional colectiva, estrés, posibles estadios de ansiedad perpetuados por la situación de conflicto permanente en la población, los NNA presentan rasgos de alto grado de miedo y ansiedad, temor por regresar a la Escuela ya que no se configura como un espacio seguro, se reportó en el mes de Noviembre un caso por Cutting, debido al estrés post traumático y las vivencias frente a los sucesos violentos donde fallecieron cerca de 10 personas entre las dos familias en disputa.
+• Los Hombres y Mujeres no se sientes seguros por ende viven en un clima de tensión pues manifiestan que en cualquier momento puede reiterarse los hechos violentos con el adicional de participación de grupos GANE pues como ya se ha expuesto existe relaciones vinculares con los mismos.
+• No hay un conocimiento claro por parte de la comunidad en Ley 1448 de 2011 y Ley 1257 de 2008 lo que conduce a la necesidad de Formación en Normatividad Vigente y acceso a rutas de protección, tanto a funcionarios como a la comunidad misma.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => Comunidades Indígenas Wiwa.
+
+• Las familias que integran las 5 comunidades afectadas del pueblo Wiwa se encuentran actualmente refugiadas en sus propias casas.
+• Las familias duermen en el suelo debido a sus costumbres, sin embargo, han visto la necesidad de contar con kit de hábitat para mejorar sus condiciones en el hogar y tenerlas a la mano en caso de desplazamiento por emergencia.
+• La preparación de alimentos se realiza de manera familiar, sin embargo, indican que no cuentan con suficientes utensilios para realizar esta tarea.
+• Mencionan que sus casas se encuentran en malas condiciones atribuido principalmente a que el material de fabricación, el cual es la madera se ve seriamente afectado por el comején. Este mismo caso se presenta en el techo de la escuela en Arimaka en donde algunos parales se ven afectados, sin embargo, el resto de la estructura se encuentra en buen estado ya que está construida en ladrillo.
+• No cuentan con unidades sanitarias debido a que realizan sus necesidades fisiológicas a campo abierto y en la escuela se encuentran dos unidades sanitarias debidamente separadas y estructuralmente están en buen estado.
+• Es importante mencionar que la comunidad no ha identificado zonas seguras o inseguras en las infraestructuras, ni se han señalado puntos de refugio y rutas de evacuación, lo que podría ser una preocupación en caso de emergencia.
+
+Punta de los remedios
+
+• La comunidad de Punta de los Remedios se encuentra actualmente refugiada en sus propias casas, en estas cuentan con los elementos de hábitat necesarios para afrontar una emergencia de restricción a la movilidad.
+• La preparación de alimentos se realiza de manera familiar y cuentan con los elementos necesarios para realizarlo.
+• Algunas fuentes mencionan que las construcciones se vieron afectadas por fuego cruzado entre los actores, sin embargo, no fue posible constatar esto.
+• Cada casa cuenta con su unidad sanitaria.
+• La escuela se encuentra en condiciones adecuadas para brindar el servicio educativo, pero no se ha identificado zonas seguras o inseguras en la infraestructura, ni se han señalado puntos de refugio y rutas de evacuación tanto en la escuela como en la comunidad, lo que podría ser una preocupación en caso de emergencia
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => • Sensibilizaciones en temas relacionados en buenas prácticas y vivienda saludable
+• Promover la creación de comités de emergencia donde se fortalezcan las acciones que promuevan la identificación de puntos de refugio y rutas de evacuación.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => • Las familias y/o personas tienen donde albergarse en condiciones seguras, dado que se albergan en sus propias casas.
+• Las familias y comunidad de Punta de los Remedios cuentan con las infraestructuras adecuadas que promuevan seguridad, ya que cuentan con todos los servicios públicos.
+• Las familias y comunidad Wiwa cuentan con problemas en las infraestructuras construidas en madera y no cuentan con servicios básicos.
+• Si se permite y/o valida con autoridades locales y comunidades la aceptación de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales.
+• Si se identifica en la comunidad Wiwa la necesidad de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales, principalmente en el techo de la escuela.
+• La respuesta desde Shelter disminuye que las personas estén expuestas a riesgos de seguridad física, inclemencias climáticas, salud, privacidad y mejora la dignidad de las personas, si, disminuye posibles afectaciones físicas.
+    [group_aa8xg30/group_fv0ct51/Agua] => Comunidades Indígenas Wiwa.
+
+• Las necesidades prioritarias en el abastecimiento de agua en las comunidades Wiwa se centran en su acceso, almacenamiento y calidad. Tanto los hogares como las escuelas no cuentan con suministro de agua, por tal razón, deben ir a conseguirla diariamente a la cuenca del rio Jerez. Además, mencionan que no cuentan con tanques de almacenamiento salvo los dos tanques de 5000 litros que se encuentran ubicados en la escuela de Arimaka, la cual se encuentra a una distancia de 4 a 8 horas caminando del resto de comunidades.
+• En la comunidad no existen comités que se encarguen de la gestión del agua y cada familia debe conseguirla por si mima, tanto hombres, mujeres, niños y niñas son encargados de la recolección del recurso.
+• Las personas que participaron de la ERN mencionan que presentan problemas de salud principalmente gastrointestinales a raíz de la calidad del agua, la cual se ve afectada en su mayoría en época de invierno logrando identificar un sabor a tierra y turbidez notable, lo que plantea preocupaciones sobre sus características para el consumo humano.
+• A pesar de que, las familias poseen conocimientos sobre el tratamiento del agua utilizando la técnica de hervido prefieren no utilizarla y la practican cuando aumentan los malestares gastrointestinales generales en los niños.
+
+Punta de los remedios
+
+• Las necesidades prioritarias en el tema de agua para la comunidad se centran en la calidad debido a que a pesar de que el recurso llega por medio de acueducto comunitario, la calidad del agua es deficiente y genera altos índices de problemas gastrointestinales principalmente en niños y adultos mayores.
+• Las familias recurren a consumir agua comercial y aunque tienen conocimiento de técnicas para el tratamiento del agua no practican ninguna, lo cual indica que la comunidad no cuenta con agua segura. Así mismo, no se existe comité que se encargue de la gestión del agua y de las problemáticas que esta causa.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Comunidades Indígenas Wiwa.
+
+• En temas de saneamiento la población Wiwa realiza sus necesidades fisiológicas a campo abierto a una distancia > 50 m de las zonas comunes y de sus hogares.
+• Cuentan con dos unidades sanitarias en la escuela de Arimaka, las cuales se encuentran en estado aceptable, sin embargo, no son muy utilizadas por sus costumbres y por la disponibilidad de agua en las mismas.
+• Por otro lado, la disposición de los residuos sólidos en la comunidad es la quema y en algunos casos se procede a enterrarlos en lugares dispuestos para ello, esto dificulta la gestión de los residuos y debe ser atendido de manera efectiva.
+
+Punta de los remedios
+
+• La comunidad cuenta con unidades sanitarias en cada hogar y en la escuela se cuenta con dos unidades sanitarias, las cuales están desagregadas por género y en un estado aceptable.
+• La zona cuenta con servicio de alcantarillado y de recolección de basuras, este último funciona dos veces por semana, a pesar de ello se observa que las familias carecen de los elementos y herramientas necesarios para la disposición adecuada de las basuras, como bolsas y canecas, lo que dificulta la gestión de residuos y produce problemas de contaminación.
+    [group_aa8xg30/group_fv0ct51/Higiene] => • Las necesidades críticas identificadas en el subsector de higiene incluyen la falta de acceso a elementos esenciales de aseo, como jabón para uso personal y lavandería, debido a las restricciones económicas actuales, lo que limita su capacidad para acceder a elementos básicos de higiene.
+• Este déficit se extiende a las personas menstruantes, quienes no tienen acceso a productos para la higiene menstrual.
+• Desde el inicio del evento, la comunidad ha dejado de utilizar artículos esenciales de higiene, como jabón, crema dental y desodorante, entre otros. A pesar de ser conscientes de la importancia de las prácticas de higiene, la falta de jabón les impide poner en práctica estos conocimientos, lo que representa un desafío significativo para su bienestar y salud general.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Comunidades Indígenas Wiwa.
+
+• La principal fuente de abastecimiento de agua en la comunidad es el rio jerez, no cuentan con acceso al agua eficiente. Además, este recurso puede tener presencia de minerales pesados producto de la minería ilegal.
+• Algunas familias de la comunidad mencionan que aplican la técnica de hervido para tratar el agua de consumo en algunas épocas del año, sin embargo, prefieren no hacerlo, puesto que, involucra usar más leña.
+• En la escuela de Arimaka hay un baño, pero este es poco utilizado debido a sus costumbres y porque no cuenta con agua disponible.
+• Las familias tienen dificultades económicas para adquirir elementos básicos de higiene.
+• Falta de acceso a productos de higiene menstrual para las personas menstruantes.
+• Las familias hacen poco uso de artículos de higiene, como jabón, crema dental, papel higiénico, toallas sanitarias y desodorante, por dificultades de acceso físico y económico.
+• Existe conciencia sobre la importancia de las prácticas de higiene, pero incapacidad para aplicar estos conocimientos debido a la falta de elementos
+
+Punta de los remedios
+
+• La comunidad cuenta con servicio de acueducto, sin embargo, este presenta problemáticas en la calidad del agua, mencionan que, por falta de mantenimiento.
+• La escuela cuenta con 2 tanques de almacenamiento de 5000 L
+• La comunidad atribuye problemas gastrointestinales a la calidad del agua.
+• Las familias no practican ninguna técnica para tratar el agua de consumo.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => • Promover buenas prácticas de conservación del agua, brindando capacitación y concienciación a las familias sobre la importancia del uso responsable del agua, el uso eficiente en actividades diarias y la reutilización del agua cuando sea posible. Esto ayudará a conservar el recurso y reducir el desperdicio.
+• Reforzar los conocimientos sobre métodos de tratamiento para consumo y almacenamiento de agua segura familiar y comunitaria, con la estrategia de sensibilizaciones y capsulas informativas.
+• Es fundamental proporcionar a la comunidad la capacidad de almacenar agua de manera efectiva, como una medida de contingencia en momentos de desabastecimiento.
+• Promover prácticas de reciclaje y reducción de residuos en las comunidades para minimizar el volumen de residuos sólidos generados dado el limitado acceso a elementos de recolección.
+• Entrega de kits de higiene familiares a las 5 comunidades indígenas Wiwa con enfoque diferencial.
+• Realizar sesiones de sensibilización sobre buenas prácticas de higiene, incluyendo el lavado de manos, el cuidado oral, el manejo de la higiene menstrual y la limpieza de espacios.
+• Fomentar la adopción de prácticas de higiene adecuadas a través de campañas de concientización y mensajes claros y sencillos que resalten la importancia de estas prácticas para la salud. Involucrar a líderes comunitarios y docentes en la promoción de estas prácticas puede aumentar su efectividad y aceptación en las comunidades.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => • Los hogares de Punta de los Remedios cuentan con servicio de agua, sin embargo, mencionan que su calidad es deficiente.
+• Los hogares de la comunidad Wiwa no cuentan con servicio de agua, su punto de abastecimiento más cercano es el río Jerez.
+• No practican ningún tipo de tratamiento a nivel domiciliario o métodos de barreras múltiples.
+• La comunidad de Punta de los Remedios cuenta con servicio de alcantarillado y recolección de basuras.
+• Los hogares no cuentan con información sobre prácticas seguras de recolección y disposición de residuos sólidos.
+• La mayoría de los hogares no cuenta con acceso a elemento de higiene básica.
+• La mayoría de los hogares no cuentan con conocimientos en temas relacionados con la promoción de las buenas prácticas de higiene y por ende no las practican.
+    [group_aa8xg30/group_jn0nm53/san] => Comunidades Indígenas Wiwa.
+
+• Las consecuencias derivadas de la disputa territorial entre los GANE configuran un escenario crítico de inseguridad alimentaria para las familias del pueblo indígena Wiwa, con posibles efectos a mediano y largo plazo vinculados a un estado patológico con distintos grados de severidad causados por la ingesta deficiente de alimentos.
+• La imposición de normas de control social y territorial por parte de estos grupos genera impactos relacionados tanto con las causas inmediatas como subyacentes de la desnutrición, que se materializan en la dificultad para acceder a alimentos tradicionales, incitando a los hogares a adoptar prácticas de alimentación y hábitos poco saludables.
+• Las existencias alimentarias en los hogares Wiwa no responden en su totalidad a las necesidades nutricionales y diversidad alimentaria, lo que además genera dificultades en la ingesta adecuada de kilocalorías.
+• Las comunidades indígenas experimentan afectaciones significativas en su soberanía alimentaria debido a restricciones en el acceso al territorio que obstaculizan el desarrollo de la agricultura tradicional. Estas limitaciones amenazan la autonomía y supervivencia de un pueblo que se construye por medio de la relación física y espiritual con su territorio.
+
+Punta de los Remedios.
+
+• Las necesidades en seguridad alimentaria están principalmente vinculadas a problemáticas sociales ocasionadas por un conflicto entre dos familias, que ha alcanzado un nivel de complejidad generalizado. Esto ha llevado a que algunos residentes se vean forzados a ajustar sus prácticas laborales, afectando así la generación de ingresos necesarios para garantizar el acceso a los alimentos.
+• Las familias resaltan la falta de apoyo institucional en la creación y fortalecimiento de proyectos productivos, lo cuales permitan a las familias tener una fuente alternativa tanto de ingresos económicos como de consumo de alimentos.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => Comunidades Indígenas Wiwa.
+
+• Las restricciones en la movilidad que deben cumplir las comunidades Wiwa han generado cambios en las dinámicas asociadas a sus medios de vida impactando directamente en la capacidad de las familias para garantizar una alimentación adecuada y en la obtención de ingresos económicos.
+• Los GANE limitan la cantidad de alimento que las familias pueden transportar, bajo la suposición de que esto beneficiaría al GANE contrario.
+• Al limitar la carga algunas familias implementan estrategias de afrontamiento reducido (reducir el tamaño de las porciones y el número de comidas al día), otras hacen más desplazamientos en menos tiempo para reabastecerse, exponiéndose a diferentes tipos de riesgos.
+• Las necesidades en seguridad alimentaria producto de la emergencia se complejizan por necesidades estructurales en alojamiento, agua, saneamiento y salud.
+• La selección de cultivos, por ende, la dieta de las comunidades Wiwa dependen de la altitud en la que se ubiquen. Para diversificar su alimentación, las comunidades Wiwa practican el trueque con aquellas que se encuentran en distintas condiciones agroecológicas. Actualmente, por los problemas de orden público esta práctica se desarrolla con mayor dificultad.
+
+Punta de los Remedios.
+
+• La principal fuente de ingresos de los hogares proviene de la pesca, seguida por la agricultura y la ganadería. Por lo menos, una de las tres comidas diarias depende del recurso pesquero que la familia pueda obtener.
+• Factores como el incremento en el precio de la gasolina tiene una afectación directa en las dinámicas de pesca de la población, por ende, en su seguridad alimentaria.
+• Las familias emplean la producción de cerdos, huevo, pollo, chivo, leche, plátano, yuca, malanga y algunas frutas para el autoconsumo.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => • Proporcionar asistencia alimentaria humanitaria en la inmediatez a las cinco comunidades indígenas del pueblo Wiwa, con enfoque étnico y considerando sus preferencias alimentarias, asegurando el cumplimiento de los requisitos mínimos de ingesta calórica.
+• La asistencia humanitaria se debe desarrollar en el marco de la promoción de prácticas de alimentación saludables, con el objetivo de garantizar el cumplimiento de todas las dimensiones de la seguridad alimentaria.
+• Atender y realizar seguimiento de los factores sociales y ambientales que pueden llevar a las familias a sufrir de inseguridad alimentaria, ya que esta constituye una de las causas subyacentes de la desnutrición.
+• Continuar con las evaluaciones de inseguridad alimentaria en diferentes escalas de tiempo que permita identificar las estrategias de afrontamiento de consumo y las relacionadas con los medios de subsistencia que implementen las familias en emergencia.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => Comunidades Indígenas Wiwa.
+
+• Las comunidades Wiwa enfrentan desafíos significativos en seguridad alimentaria debido a dificultades en la disponibilidad y acceso a los alimentos.
+• Las familias en emergencia no han recibido asistencia alimentaria que facilite el acceso físico y económico a los alimentos que no pueden producir.
+• Afectaciones en las dinámicas tradicionales para el desarrollo de actividades entorno a la agricultura, cacería, artesanías y trueque.
+• Implementación de estrategias de afrontamiento reducido generalizadas en la comunidad, con mayor severidad en las familias con población vulnerable como personas de tercera edad, personas con necesidades especiales, madres gestantes y NNA.
+• Existe un bajo consumo de proteínas de origen animal y vegetal, ocasionado por las dificultades para desarrollar la cacería y acceder física y económicamente a algunas leguminosas.
+• Las familias dependen principalmente de la leña como fuente de combustible para cocinar, y las restricciones en la movilidad también imponen limitaciones para acceder a este recurso.
+• La calidad del agua utilizada por las familias Wiwa para el consumo y la preparación de alimentos se ve comprometida debido a las prácticas inadecuadas en la disposición de residuos sólidos; además, la contaminación proveniente de la minería ilegal afecta directamente la principal fuente de agua de las comunidades, que es el río Jerez.
+
+Punta de los Remedios.
+
+• En la comunidad hay disponibilidad de alimentos y las familias pueden acceder a estos.
+• Las personas que hacen parte de las familias en disputa tienen mayor dificultad para acceder física y económicamente a los alimentos, ya que, debido al temor, evitan salir a realizar compras y a desempeñar actividades laborales.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Punta de los remedios
+
+• El corregimiento cuenta con un centro de salud con precaria infraestructura con falta de agua y saneamiento. Permanencia de un equipo conformado por una auxiliar de enfermería con el objetivo de brindar actividades de promoción y mantenimiento de la salud (PYM) y una odontóloga. Adicional de manera periódica un médico brinda servicios de consulta externa 2 a 3 veces por semana. Sin embargo, la población tiene a disposición la E.S.E hospital de Santa Teresita de Ávila (municipio de Dibulla), 1 nivel de atención con adecuada infraestructura, que se encuentra a 10 minutos en vehículo del corregimiento o a Riohacha que se encuentra a 1 hora donde se realizan las atenciones de urgencias, adquisición de medicamentos y consultas especializadas. 
+• En este hospital de Dibulla se ofrecen todos los programas de prevención y promoción, consulta externa, consulta especializada de Diabetología (2 veces por semana), nutrición, odontología y Ginecología permanente. Además, cuentan con equipo de radiología dotado, posibilidad de realizar ecografías obstétricas y área de rehabilitación.
+• El hospital cuenta con 3 ambulancias para traslado de urgencias a otras ciudades del norte del país y un recurso humano de aproximado 7 médicos permanentes, 20 auxiliares de enfermería, 4 jefes de enfermería, 1 nutricionista, 1 psicólogo, 1 odontóloga. Sin contabilizar el equipo básico de salud (programa financiado por el gobierno).
+• Al momento de la ERN no se encuentra una necesidad expresa en salud física, el hospital opera con normalidad y brinda atención a toda la población. Manifiestan el deseo de tener su propia farmacia y un centro de salud funcional de antaño.
+
+Comunidades Indígenas Wiwa.
+
+• La Ips Makushama brinda servicios para las comunidades Arimaka, Pilón, Piñón, Corual con dependencia de Riohacha y la Ips Gonawindua brinda servicios para Gómake, con dependencia de Dibulla.
+• Las comunidades Arimaka, Pilón, Gomake y Corual cuentan con centro básico de salud donde siempre está un auxiliar de enfermería permanente con el objetivo de notificar cualquier caso de riesgo de desnutrición (ruta con una operación claramente establecida) u otra afección medible. 
+• De estas comunidades mencionadas Arimaka recibe entre semanal a mensualmente a un profesional del área de nutrición, de medicina general, psicología e higiene oral para atención a personas sintomáticas y mínimo cada 2 meses este grupo realiza actividades extramurales a las otras comunidades. Sin embargo, cualquier comunidad puede acceder al servicio de salud en Arimaka.
+• Durante reuniones con la comunidad e institucionalidad se refirió que más del 90% de la población está afiliada a una EPS (en su mayoría Dusakawi EPSI) y tienen documento de identificación (no fue posible acceder a una caracterización).
+• En la comunidad Peñón Colorado no cuenta con centro de salud, se habló de 17 familias con un total de 85 habitantes y es demarcada como una zona de ingreso no segura durante el ejercicio de demarcación de peligro.
+• Las urgencias de cualquier persona de las comunidades son atendidas en el hospital más cercano, en este caso localizado en el municipio de Dibulla con un enfoque diferencial, prestan el servicio de ambulancia desde Arimaka en caso de necesitarlo.
+• En el hospital de Dibulla existe un equipo básico de salud desde el mes de septiembre del año 2023 indicado por ministerio de salud con el objetivo de identificación del riesgo colectivo en salud, determinantes sociales, afiliación y personas con discapacidad, conformado por 1 psicólogo, 1 nutricionista, 4 médicos, 16 auxiliares de enfermería, 4 odontólogos; quienes hace mes y medio ingresaron ( previo autorización concertada con la autoridad del cabildo ) y realizaron una jornada de salud durante 4 días en la comunidad de Gomake y otras comunidades no incluidas en esta alerta, donde hubo asistencia médica y entrega de medicamentos de acuerdo a su diagnóstico, aunado a remisión de pacientes quienes requerían atención especializada.
+• Al momento de la ERN no se encuentra una necesidad expresa en salud física, se manifestó el deseo de acceder a procedimientos de odontología con mayor facilidad ya que solo cuentan con servicio de higienista oral quienes realizan las limpiezas bucodentales, pero no de procedimientos invasivos.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Punta de los Remedios:
+
+• Existen secuelas psicosociales derivadas de la situación ocurrida en el corregimiento. Las personas refieren sentirse atemorizadas y presentan conductas de evitación (evitan salir a cualquier hora especialmente en la noche, se han restringido de algunos movimientos en el terreno, cambios en las rutinas diarias laborales y cotidianas). Varios de estos mecanismos evitativos que presenta la comunidad en el momento de la evaluación, están relacionados con la percepción colectiva y con generalizaciones cognitivas derivadas del mismo frente a la seguridad, pero no por la existencia de hechos victimizantes masivos.
+• En relación con lo anterior, los eventos aislados que se presentaron recientemente se convirtieron además en disparadores del recuerdo y de sintomatología postraumática de un evento ocurrido hace 22 años cuando el 17 de septiembre de 2002 a las 10 de la noche, un grupo de 50 paramilitares asesinó a 9 personas, cuatro de ellos frente a sus familias y cinco que fueron extraídos del territorio y luego desaparecidos en lo que para muchos en la zona fue “una noche de terror”.
+• Es importante mencionar que de momento no se observa en la comunidad, desplazamiento, confinamiento o restricción a la movilidad masiva pero sí requieren manejo de sintomatología y prevención del desbordamiento emocional y funcional.
+• En la actualidad, existe atención por psicología con posibilidad de seguimientos. En la población existe desconocimiento de la existencia del servicio, razón por la que la demanda de este puede ser reducida, pero en paralelo, existe una baja capacidad de respuesta municipal (dos psicólogos aproximadamente). Adicionalmente, algunos pobladores manifiestan no sentirse plenamente cómodos con la búsqueda del servicio debido al relacionamiento previo y cercano que, por contigüidad y afecto, se ha podido establecer con algunos de los profesionales de la zona, afectando con ello la asepsia metodológica esperada y necesaria para un encuadre psicoterapéutico adecuado.
+• No se identifican eventos de conducta suicida reportada por el centro de atención en salud. Tampoco conductas con intención.
+
+Comunidades Indígenas Wiwa.
+
+• Las personas de la comunidad del Piñón Colorado son en la actualidad las más afectadas en su salud mental. La comunidad es fundada hace 1 año y es habitada por 17 familias.  Algunas personas manifiestan sentir temor e incertidumbre frente a lo que pueda pasar, pero expresan que de momento no tienen intenciones de mover el asentamiento o de efectuar un desplazamiento.
+• Frente a este tema, y en general para todo lo que alude al resguardo, existe una capacidad de afrontamiento psicosocial muy significativa dispuesta en su sólida estructura de gobierno que hace un contundente llamado al respeto de su mandato y al respeto de las autoridades de cabildo para que en su territorio no ingresen personas externas sin las debidas autorizaciones a realizar actividades que no están concertadas o que puedan provocar algún daño.
+• Por otro lado, con respecto a la percepción del rol de los profesionales psicosociales, el resguardo y sus autoridades se encuentran abiertos al diálogo de saberes ya que ellos cuentan con el Mamo y la Saga como sabedores espirituales y orientadores del camino. Esta acción está todavía en curso y aun el rol está en construcción y en proceso de aceptación plena dentro del cabildo. Algunas acciones psicosociales se han establecido en concertación con las autoridades. Los líderes encuentran que el psicólogo puede contribuir con la labor de sensibilización comunitaria.
+• Cuentan con actividades culturales protectoras tradicionales en la música, la danza, la agricultura, la elaboración de artesanías y el mambe.
+• A la comunidad de Gómake hace un mes aproximadamente, entró un equipo básico de salud, y dentro de este equipo participó un profesional en psicología. Se hicieron actividades con rituales propios de su cultura y actividades de asesoramiento psicosocial facilitadas por traductores.
+• La IPS Makushama ofrece servicios de psicología semanal a mensualmente.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => • Punta de los Remedios: No se identifican situaciones recientes de violencia sexual reportadas en el centro de salud. El último caso identificado con sospecha ocurrió hace más de un año.
+• Comunidades indígenas Wiwa (Arimaka, Pilón, Korual, Piñón colorado y Gómake):  No se hace referencia institucional ni comunitaria sobre la existencia de violencias basadas en género y/o violencias sexuales.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => • Se sugiere a la institucionalidad y al equipo local de coordinación humanitaria, mantener activo el monitoreo de los hallazgos en esta área para el territorio municipal.
+• Pese a que puntualmente las playas de Palomino no hicieron parte del territorio objeto de evaluación MIRE, es necesario elevar la preocupación de la institucionalidad ante los entes pertinentes frente a las alertas de Explotación Sexual Comercial de Niños, Niñas y Adolescentes señaladas en dicho espacio territorial por influjo del turismo.
+    [group_aa8xg30/group_tb5de96/EIE] => Comunidades Indígenas Wiwa.
+
+Los NNA de las comunidades Wiwqa presentan acceso limitado a la educación, no existen garantías de continuidad tanto en la secundaria como en la educación superior, y por ende fortalece las dinámicas del territorio por refuerzo por parte de los Grupos GANE quienes a través del uso y utilización promueven dinámicas para el posible trabajo infantil en contextos de minería ilegal alrededor de dos comunidades, afectando el desarrollo integral de los menores.
+
+Punta de los Remedios.
+
+La Institución Educativa Rural Miguel Pinedo Barros cuenta con 33 Docentes, 618 niños y niñas matriculados y 34 niños y niñas bajo el concepto de deserción escolar, los NNA no desean asistir al Colegio puesto que no representa un lugar seguro para la educación de los mismos, ya sea motivados por vínculos de pares con personas pertenecientes a grupos GANE o por temor a que nuevamente sucedan los hechos de violencia. Los docentes que imparten las clases pertenecen al municipio de Riohacha lo que dificulta aún más el acceso a la educación ya que los docentes por temor constante cancelan algunas clases y deciden no asistir a la institución educativa, para salvaguardar su integridad.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Comunidades Indígenas Wiwa.
+
+• Los NNA de las comunidades asisten a las Escuelas ubicadas en cada una de ellas teniendo, la única comunidad que no cuenta con escuela es Piñón.
+• En total hay 6 docentes pertenecientes a la Etnia Wiwa quienes enseñan saberes propios de la población y también educación del habla español.
+• Así mismo existe en el contexto geográfico espacios donde se genera minería ilegal y posible uso y utilización de NNA a través de Trabajo infantil, como resultado de dichas dinámicas de violencia.
+• Con respecto a la educación los niños y niñas cuentan con acceso a la educación, aunque de forma limitada ya que en las comunidades solo existe enseñanza hasta la Primaria, por tanto, para la secundaria se deben desplazar hacia Las Flores o Dibulla, cada Escuela cuenta con Docente Nativo quien imparte tanto la enseñanza tradicional como la del territorio.
+
+Punta de los Remedios.
+
+• Los menores tienen acceso a la Educación en la Institución Educativa Rural Miguel Pinedo Barrios, de 1 a 11, actualmente se está brindando educación preescolar en una sede que se instauro junto a la Institución educativa ya que el Corregimiento no cuenta con CDI para los menores de 5 años ya que lleva 8 años en construcción.
+• Como consecuencia de los hechos de Violencia la Escuela no es un espacio seguro, y los padres de familia han sacado a sus hijos de la institución lo que ha incrementado la deserción escolar, el último balance entregado es de 34 NNA retirados, aumentando el riesgo de ESCNNA (Explotación Sexual Comercial Infantil), oferta y demanda de consumo de drogas psicoactivas y utilización de niños y niñas por las relaciones vinculares de pares, para fines ilegales, los cuales se desplazan hacia los departamentos de Sucre y Bolívar.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => Comunidades Indígenas Wiwa.
+
+• Capacitar a docentes y comunidad educativa en la construcción del Plan de Respuesta Educativo en Emergencias.
+• Sensibilización a docentes frente a la importancia del acceso a la educación en el marco de la emergencia para el reconocimiento de factores causas y condiciones de riesgo y vulnerabilidad de los establecimientos educativos, así como acciones para prevenir el peligro, disminuir las brechas en educación y enfrentar las situaciones de crisis, producidos por hechos victimizante en el Marco del conflicto armado.
+• Entrega de Material lúdico-pedagógica para actividades de aprendizaje y manejo adecuado del tiempo libre que permita un desarrollo integral de los mismos.
+
+Punta de los Remedios.
+
+• Capacitar a docentes y comunidad educativa en Prevención de VBG y ley 1257 de 2008, Ley 387 de 1997 y en Estrategias para la educación en Emergencias que mitiguen la deserción escolar y permitan el reconocimiento de las individualidades afectadas en el entorno escolar.
+• Entrega de Herramientas lúdico-pedagógica para actividades escolares y tiempo libre que contribuyan al aprendizaje integral de los NNA de Punta de Remedios como alternativa para el desarrollo adecuado del tiempo libre, minimizando riesgos de protección.
+• Sensibilización a docentes frente a la importancia del acceso a la educación en el marco de una emergencia fortaleciendo a la comunidad educativa con el fin de desarrollar proyectos conjuntos que conlleven a prevenir afectaciones individuales y colectivas en el marco del conflicto.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => Comunidades Indígenas Wiwa.
+
+• Limitante acceso a la educación en las comunidades indígenas en secundaria y educación superior, se evidencian riesgos que tienen como consecuencias la deserción escolar, por ello se hace importante generar procesos formativos que pongan en conocimiento de la comunidad los riesgos y amenazas posibles, con el fin de evitar que afecten la escolarización y aprendizajes de NNA.
+• La puesta en marcha de programas, acciones y actividades sobre la prevención e identificación del conflicto de forma integrada a las comunidades indígenas a través de planes de acción y su respectivo seguimiento.
+• Falta de material educativo que se adapte a la cultura Wiwa y se brinde enseñanza integral tanto desde la cosmovisión propia de la etnia como de los dialectos de la región.
+
+Punta de los Remedios.
+
+• Los NNA del Corregimiento de Punta de Remedios, como resultado de los hechos violentos acontecidos entre las familias y su vinculación con grupos armados ha fortalecido la creación de posibles redes de ESCNNA hacia Mingueo y Palomino, incremento de la delincuencia Juvenil, y Oferta y Demanda de Consumo de drogas Psicoactivas.
+• Los NNA presentan rasgos de alto grado de miedo y ansiedad, temor por regresar a la Escuela ya que no se configura como un espacio seguro, se reportó en el mes de Noviembre un caso por Cutting, debido al estrés post traumático y las vivencias frente a los sucesos violentos donde fallecieron cerca de 10 personas entre las dos familias en disputa.
+• Desde el área rural los NNA tienen barreras de movilidad, se identifica largas distancias hasta la Institución Educativa que lo convierte en un riesgo.
+• Los docentes no acuden de forma normal al corregimiento para impartir la educación debido a amenazas colectivas, por ende, se trasladó la educación a la virtualidad ya que los funcionarios temen por su integridad.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => Comunidades Indígenas Wiwa.
+
+• Las comunidades Wiwa prefieren la atención humanitaria a través de la asistencia en especie y no bajo la modalidad de CASH Multipropósito.
+• Los puntos de suministro para las comunidades Wiwa se hallan a lo largo de la Troncal del Caribe, en el corregimiento de Mingueo y algunas familias disponen de los recursos necesarios para desplazarse hasta Dibulla.
+• La comunidad indígena de Coruval cuenta con una pequeña tienda, que ofrece productos básicos como arroz, aceite, enlatados, jabón y papel higiénico, al igual que en Pilón, estas son una opción para el suministro de aquellas familias que viven a considerables distancias de los centros principales de compra, como Mingueo, Dibulla y la Troncal del Caribe.
+• Cabe destacar que, en estos puntos, la cantidad de productos disponibles para la venta también está sujeta a regulaciones por parte de GANE.
+• Los alimentos que las familias ingresen en sus comunidades bajo el enfoque de ayuda humanitaria no presentarían riesgos de ser retenidos.
+• Poco relacionamiento y/o experiencia de las comunidades Wiwa con el uso de transferencias monetarias u otras herramientas utilizadas para la implementación de CASH.
+•	En las comunidades existe un limitado acceso a conectividad y/o medios de comunicación.
+
+Punta de los Remedios
+
+• La comunidad de Punta de los Remedios no está debidamente caracterizada, y tampoco se logró identificar el número preciso de personas afectadas por el conflicto entre las dos familias.
+• Las familias de la comunidad se abastecen en el casco urbano del corregimiento y algunos en Dibulla o Riohacha.
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => • Es crucial considerar las preferencias de las comunidades al planificar la asistencia humanitaria, ya que esto no solo puede reducir los riesgos operativos, sino también mejorar la seguridad de los participantes.
+• Complementar las evaluaciones de mercados con los puntos de abastecimiento presentes sobre la Troncal del Caribe, estos también tienen un papel importante en la cadena de suministros de las comunidades.
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => • Los comerciantes de Dibulla y Punta de los Remedios no presentan restricciones para el suministro de bienes, tienen capacidad para reabastecimiento semanal. Los productos ofertados satisfacen las necesidades básicas de la población.
+• La oferta de productos en Dibulla y Punta de los Remedios es integral y suficiente para atender la demanda de la población presente y aledaña. Cabe mencionar que, se ubican muy cerca de Riohacha (1 hora).
+• En el último mes el comercio no se ha visto afectado por problemas de desabastecimiento.
+• Para acceder a los mercados de Dibulla y Mingueo la mayoría de las familias Wiwa tienen que hacer recorridos por más de 5 horas, algunas familias carecen de medios de transporte (mulas).
+• La atención bajo la modalidad de transferencias multipropósito puede generar rumores que expongan a las personas amenazadas directa e indirectamente en el marco de la disputa familiar que se vive en el corregimiento de Punta de los Remedios.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 100
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 50
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Fabio Montero
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3234648987
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Autoridad Resguardo Indígena Wiwa
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Fernando Arimaka
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3107668447
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Autoridad Comunidad Arimaka
+    [group_sp7cc00/Observaciones_adicionales] => Claridades.
+
+Cabe mencionar que, en la ERN se incluye a la comunidad-Corregimiento de Punta de los Remedios por solicitud de Institucionalidad y el ELC; pues en esta comunidad vienen ocurriendo una serie de hechos y eventos que pueden estar configurando una restricción a la movilidad. 
+
+En los primeros acercamiento con Institucionalidad (previo al ingreso) se hablo de 30 familias afectadas; sin embargo, cuando el equipo pregunta en terreno por estas, no se identifican ni se conocen. Se habla de una afectación generalizada que tiene origen en una disputa entre dos familias; no obstante, existe la posibilidad de que, con el transcurso del tiempo, la influencia de grupos armados ha contribuido a intensificar la situación.
+
+En el kobo se incluyen los hallazgos de la comunidad de Punta de los Remedios, porque hizo parte de la ERN; además, por la complejidad de la situación, es importante hacer incidencia para que la situación no siga escalando.
+
+La situación en Punta de los Remedios posiblemente no se configura dentro de la ley y no hace referencia a conflicto armado. Sin embargo, la comunidad se encuentra expuesta a diferentes riesgos de protección. La importancia de revisar y visibilizar este caso por la supuesta influencia de GANE.
+
+Nota. En el corregimiento de Punta de los Remedios habitan más de 5000 personas, sin embargo, este dato no se incluye en el número de familias afectadas por la emergencia. Es una restricción a la movilidad por otro hecho, pero como menciono anteriormente se incluye sus necesidades por incidencia.
+    [__version__] => vRSw7bf2Cp45txXTd7othP
+    [meta/instanceID] => uuid:4af59d50-9ec9-4c4b-86a3-f9cf898f7966
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 4af59d50-9ec9-4c4b-86a3-f9cf898f7966
+    [_attachments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [download_url] => https://kc-eu.kobotoolbox.org/media/original?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4af59d50-9ec9-4c4b-86a3-f9cf898f7966%2FCensos_LADI-961.1-20_12_15.xlsx
+                    [download_large_url] => https://kc-eu.kobotoolbox.org/media/large?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4af59d50-9ec9-4c4b-86a3-f9cf898f7966%2FCensos_LADI-961.1-20_12_15.xlsx
+                    [download_medium_url] => https://kc-eu.kobotoolbox.org/media/medium?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4af59d50-9ec9-4c4b-86a3-f9cf898f7966%2FCensos_LADI-961.1-20_12_15.xlsx
+                    [download_small_url] => https://kc-eu.kobotoolbox.org/media/small?media_file=consorcioecho_2020%2Fattachments%2F942f0aa263954454883589c03f7698b5%2F4af59d50-9ec9-4c4b-86a3-f9cf898f7966%2FCensos_LADI-961.1-20_12_15.xlsx
+                    [mimetype] => application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+                    [filename] => consorcioecho_2020/attachments/942f0aa263954454883589c03f7698b5/4af59d50-9ec9-4c4b-86a3-f9cf898f7966/Censos_LADI-961.1-20_12_15.xlsx
+                    [instance] => 514631102
+                    [xform] => 638464
+                    [id] => 220266700
+                )
+
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-12-11T02:11:30
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

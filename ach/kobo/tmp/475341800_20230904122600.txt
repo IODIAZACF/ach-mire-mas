@@ -1,0 +1,89 @@
+stdClass Object
+(
+    [_id] => 475341800
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-30T09:18:18.111-05:00
+    [end] => 2023-09-04T09:33:16.814-05:00
+    [group_gu1lq88/Departamento] => BOLIVAR
+    [group_gu1lq88/BOLIVAR] => SANTA ROSA DEL SUR
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Palma Chica, Alto de las Brisas
+    [group_gu1lq88/Nombre_de_la_comunidad] => -
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-09-04
+    [group_gu1lq88/Nombre_de_quien_reporta] => ANGELICA PINO MENA
+    [group_gu1lq88/Cargo] => NRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC OrganismoPublico EtnicoComunitaria
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Enfrentamientas
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el domingo 27 de agosto, llega GANE a la vereda de Palma Chica a pintar casas y bajar banderas distintivas de otro GANE que este había situado en la vereda. El 31 de agosto se presentan enfrentamientos en inmediaciones de las veredas de Palma chica y la Vega (esta última jurisdicción del municipio de Montecristo), se presentan amenazas para que las personas abandonen las viviendas, por lo que 12 personas de la vereda Palma Chica se desplazan hacia la vereda de Alto de las brisas (más conocida como Brujas). El día 1 de agosto los presidentes de JAC reciben mensajes de texto que debían abandonar las veredas, por lo que han llegado a la vereda de Alto de brisas un aproximado de 26 familias conformados por 60 personas, los presidentes manifiestan que están haciendo censo de las personas que van llegando.
+
+El Líder vereda Alto las brisas (Vereda conocida como las brujas) expone que esta vereda ha arribado familias completas desplazadas desde la vereda Palma Chica, se han presentado amenazas a líderes de las diferentes JAC de la zona, un líder debió desplazarse. Presidente de JAC la vereda la Vega fue amenazado. Aproximadamente en Alto las brisas han arribado cerca de 100 personas (es lo que el líder manifiesta sin conocer exactamente el número ya que están realizando el censo y siguen llegando las familias) desde la Vega y Palma chica. Los líderes amenazados se encuentran en esta vereda.
+
+Líder de La vereda La Vega: Expone que la población está en riesgo, a las personas se les ha prohibido salir del territorio por parte del GANE, hace más de 8 días no ingresa línea de transporte por lo que hay escases de comida y los pobladores no han podido acceder a servicios o movilizarse. No se había conocido la situación de la vereda ya que el GANE ordenó apagar el internet, sólo hasta el día 31 de agosto la población pudo encender el servicio y comunicar la situación, por lo anterior posiblemente también se desplazarán hacia la vereda Alto de las brisas y Alto de Ventarron. Manifiestan el secuestro de una persona de la vereda la Vega sin tener a la fecha conocimiento cierto de su liberación. La Vega cuenta con 50 familias aproximadamente 100 personas que están confinadas. Adicionalmente exponen la sospecha de presencia de MAP en la Vega y Palma Chica.
+
+El líder Vereda Alto Ventarrón manifiesta que en su comunidad no se han presentado afectaciones en el marco del conflicto armado interno y cuentan con un espacio destinado como albergue para recepcionar personas que se ven obligadas a desplazarse.
+
+Los líderes han manifestado que se ha impartido por parte de los GANE a las personas la orden de no salir de las veredas y territorios, orden que se ha impartido de manera especial a los líderes.
+
+Fuerza Publica manifiesta que no hay condiciones de seguridad para ingresar al territorio por la institucionalidad. Exponen que en 8 días posiblemente habría seguridad para el ingreso.
+    [group_yv1ph08/time2] => 2023-08-27
+    [group_yv1ph08/time3] => 8
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Existen necesidades alimentaria, de elementos de albergue, higiene y axcompañamiento en protección.
+    [group_cn9za51/familias] => 195
+    [group_cn9za51/personas] => 350
+    [group_cn9za51/comu] => 2
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => Se ingresa por vía terrestres desde Agua chica o Bucaramanga en un recorrido promedio de 5 Hrs hasta el caso urbano de Santa Rosa. 
+Desde Santa Rosa del Sur hasta la comunidad de Alto de las Brisas es de 4 hrs por via destapada.
+    [group_mu9ho06/Seguridad] => Existe presencia de actores armado en la zona rural que fueron los que generaron el desplazamiento de las familias.
+    [group_mu9ho06/Operativa] => ´-
+    [group_mu9ho06/Observaciones] => -
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:9bcb014e-ddea-4476-8763-748351094066
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 9bcb014e-ddea-4476-8763-748351094066
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-04T14:33:17
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

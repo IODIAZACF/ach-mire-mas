@@ -1,0 +1,569 @@
+stdClass Object
+(
+    [_id] => 481032133
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-09-18T17:39:54.838-05:00
+    [end] => 2023-09-18T19:53:38.352-05:00
+    [group_pl6la06/_1_C_digo] => HULA 932.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-09-04
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-09-08
+    [group_pl6la06/_4_Departamento] => HUILA
+    [group_pl6la06/HUILA] => LA PLATA
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => VEREDAS: Bajo Villa Mercedes, Villa Mercedes, Villa Esperanza, Los Cauchos, San Miguel, Palestina, Agua Bonita, El Roble, Santa Martha, Mira Flores, Buenos Aires, Los Pinos, Los Jardines, San Jose de Juntas, La esmeralda, El triunfo, San Mateo. ​
+    [group_pl6la06/_8_Comunidad] => VEREDAS: Bajo Villa Mercedes, Villa Mercedes, Villa Esperanza, Los Cauchos, San Miguel, Palestina, Agua Bonita, El Roble, Santa Martha, Mira Flores, Buenos Aires, Los Pinos, Los Jardines, San Jose de Juntas, La esmeralda, El triunfo, San Mateo. ​
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento covid_19 restricci_n_a_la_movilidad
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => OCHA
+    [group_mb5pt53/_1a_Evaluador] => Diego Reyes
+    [group_mb5pt53/_1b_Celular] => 3103124381
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => Diana Holguín
+    [group_mb5pt53/_2b_Celular] => 3124108207
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-07-27
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Las zonas rurales del municipio de La Plata, Huila se encuentran atravesando una situación de orden público volátil, el segundo semestre del año 2022, la presencia del frente Ismael Ruiz disidencias de las FARC-EP en el territorio con acciones que esta zona es de interés estratégico por que representa un corredor que conecta el departamento del Cauca con el Caquetá.  
+
+Como parte de su proyecto de expansión, la presencia de este grupo armado en La Plata ha venido acompañado de estrategias para el control del orden social con imposición de normas, el establecimiento de restricciones horarias y el cobro de extorsiones a transportadores, comerciantes y algunos miembros de las comunidades. Al identificar esta situación el Estado colombiano aumentó sus operaciones con fuerzas militares en la zona. El día 26 de Julio se presume que se estableció un paro armado por el GANE  y hubo combates entre la fuerza pública y el GANE que afectaron a las veredas de: Bajo Villa Mercedes, Villa Mercedes, Villa Esperanza, Los Cauchos, San Miguel, Palestina, Agua Bonita, El Roble, Santa Martha, Mira Flores, Buenos Aires, Los Pinos, Los Jardines, San Jose de Juntas, La esmeralda, El triunfo y San Mateo, como resultado del fuego cruzado entre estos actores armados el 27 de julio falleció una menor de edad y posteriormente se desplazaron 1.116 personas pertenecientes a las distintas veredas hacia la cabecera municipal de La Plata. El resto de los habitantes de la zona se mantuvieron en sus territorios, por temor a perder sus cultivos y/o fincas, durante dos semanas las familias no salieron de sus casas, sin acceder a la compra de alimentos, productos, limitados para el desarrollo de sus actividades económicas, con la presencia constante de los actores armados en los territorios, sin embargo, el hecho victimizante no ha sido catalogado como un confinamiento por parte de la institucionalidad. 
+
+Previamente, en agosto, el consorcio MIRE ingresó a la cabecera municipal de La Plata para realizar ERN con las comunidades desplazadas. En este ingreso se identificó que las necesidades de la población alojada fueron cubiertas por la municipalidad y se presume que las personas estaban siendo coaccionadas a retornar bajo amenazas del GANE, exponiendo situaciones derivadas del conflicto en las veredas, que podían enmarcarse en una situación de restricción de la movilidad por parte de actor armado. Se realiza este segundo ingreso que tiene el fin de evaluar las condiciones en las comunidades de las veredas afectadas por los combates y la presencia del GANE.  
+
+En la ERN se pudo evidenciar que no se han vuelto a presentar enfrentamientos, las comunidades se encuentran bajo una restricción a la movilidad debido al control que ejerce el GANE en el territorio. Este grupo armado ha aplicado un amplio repertorio de acciones para el control social que incluyen: amenazas a los liderazgos, incremento del riesgo de reclutamiento en niños, niñas y adolescentes, desplazamientos individuales a la cabecera municipal, imposición de normas sociales y de conducta, restricciones para transitar hacia algunos lugares del territorio, cobro de extorsiones, circulación de volantes informativos, la presencia de rayones y carteles alusivos a la presencia del actor en el territorio,  diálogos individuales con las familias y amenazas directas a personas con liderazgo en la comunidad, se desarrollaron reuniones con los liderazgos de los territorios, en las cuales se les informan a los asistentes de trabajos comunitarios y/o acciones del GANE, entre otras. Esta situación ha generado zozobra en las comunidades, impactando el transcurso normal de sus actividades y generando afectaciones múltiples tanto a nivel individual como comunitario.  
+
+ 
+
+La comunidad manifiesta una alta afectación en la salud física y mental, disminución del consumo de alimentos y acceso a productos de la canasta familiar, disminución de los medios de vida debido a las vacunas que se le exigen a los transportadores de pasajeros y productos que han impactado de manera significativa el ingreso financiero para las familias que basaban su economía en la agricultura, restricción en la participación de actividades comunitarias por el temor a desplazarse en las vías y permanecer en horas de la noche en las comunidades han generado un cambio drástico en su normalidad.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las comunidades están organizadas por medio de Juntas de Acción Comunal-JAC, con miembros activos en el desarrollo del liderazgo se identifica una estructura social fuerte que divide territorialmente por dos sectores San Miguel y San Vicente, con 17 veredas en todos los sectores, se identificó que cada una de las veredas cuenta con espacios comunitarios donde se reúnen para resolver los conflictos y asuntos de la vereda, se identifican actividades de participación comunitaria como: Asociación de padres de familia, actividades deportivas, culturales, escuela de danzas, actividades recreativas intraveredales, esto denota una construcción de liderazgo fuerte, cohesión y  autogestión comunitaria. 
+
+ 
+
+En las comunidades se identifican actividades de liderazgo familiar y fortalecimiento de los roles de liderazgo en hombres y mujeres, espacios de participación para los niños, niñas y adolescentes que evidencia una gran cohesión social, una economía cooperativa y solidaria en relación a las actividades económicas agrícolas. Dentro de sus actividades económicas está el jornal de acuerdo a las épocas de recolección de cultivos cafeteros en otras veredas, viéndose afectada de manera significativa por las restricciones y el temor de dejar a sus familias solas en las veredas antes mencionadas.  
+
+ 
+
+El desarrollo comunitario y social de las comunidades se ha afectado sustancialmente, a consecuencia de la presencia y acciones del GANE en el territorio, afectado estas dinámicas sociales, culturales, tradicionales y acceso de sus derechos fundamentales, generando temor y zozobra a las comunidades, las reuniones contaste a los presidentes de las JAC y la solicitud de listados de los pobladores para identificar las personas que no están realizando actividades labores, la imposición de normas y conductas sociales, el temor de un posible combate, genera una constante incertidumbre, limitación del acceso y movilidad de las comunidades.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => En la ERN se identificaron los siguientes hallazgos en los temas relacionados con su auto reconocimiento, las 18 veredas se auto reconocen como campesinas, en la vereda de los cauchos se identifica una familia que hace parte del resguardo indígena NASA que permanecen pernotando en esta vereda. No se identificaron comunidades afrodescendientes como parte de los territorios.  
+
+ 
+
+La composición poblacional se identificó una paridad entre hombre y mujeres, con una alta presencia de niños, niñas y adolescentes en las veredas, adultos mayores y personas con discapacidad, estas dos últimas sin atención de ningún tipo. En las Juntas de Acción comunal se identificaron lideres y lideresas con el mismo nivel de liderazgo en las comunidades, se identifican roles de secretaria y tesorería con una alta participación comunitaria.  
+
+ 
+
+Se identifican roles de genero marcados en las 17 veredas, los hombres son los proveedores y fuentes de trabajo y las mujeres tienen la asignación de roles de cuidado en casa, sin embargo, con la afectación de los medios de vida durante este año, se han generado en la comunidad la asignación de nuevos roles sin género, relacionados con lograr mayores ingresos económicos.  
+
+ 
+
+Se identifican personas con discapacidad de tipo física y la presencia de adultos mayores con restricción a la movilidad, por lo que se requiere que la respuesta tenga ajustes razonables que permitan la accesibilidad a los servicios que se brindan en el marco de una atención humanitaria.  Además, es necesario que la asistencia que se proporcione esté de acuerdo a las características de los grupos etarios de la población con la finalidad de adaptar lenguaje, adquirir consentimientos y actividades a desarrollar.  
+
+ 
+
+Se realizo la ERN con participación de diferentes grupos etéreos: lideres y lideresas, mujeres, jefes, jefas de Hogar, Adultos Mayores, jóvenes, niños, niñas y adolescentes en edad escolar desde un enfoque de protección, garantizando la mitigación de riesgos, dignidad y acción sin daño; se promovió la accesibilidad, la socialización a los espacios de rendición de cuentas, la participación y el empoderamiento de cada una de las comunidades.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => En la ERN las 17 Veredas expresan como su principal fuente de ingreso la actividad de jornaleo agrícola, de acuerdo a las fechas de cosecha, el principal cultivo es el café, se realiza la comercialización del café en la etapa sin tostar a la cabecera municipal, no cuentan con tostadora a nivel de la zona rural, lo que genera que su ingreso es menor por esta actividad económica. Cuentan con cultivos de mora en las veredas altas, por el piso térmico frio, este producto se encuentra en riesgo, como consecuencia a la sequía que se presenta actualmente. Cuando no hay cosecha de los productos que trabajan en la zona las personas se movilizan hacia otras veredas para conseguir el jornal.  
+
+Debido a esta situación la economía de la zona se ha visto duramente afectada. Por un lado, la imposición de extorsiones a los transportadores ha afectado las cadenas de distribución en la zona. Esto ha incrementado los precios de los productos y reducido el abastecimiento de los comercios veredales. El temor por lo que ha venido ocurriendo también ha llevado a que un menor número de comerciantes y transportadores ingresen al territorio a comprar los productos que se cultivan (principalmente café, mora y lulo), la disminución de ingresos a los territorios ha disminuido el valor de los productos, la comunidad en las veredas se ven obligados a vender sus productos a menor precio impactando la economía de las familias. Por último, debido a las condiciones de seguridad se ha vuelto riesgosa la movilidad de las personas hacia otras veredas o municipios para jornalear afectando la economía de las comunidades en la actualidad debido a que en este momento no hay cosecha de café y deben buscar otras fuentes de ingreso.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => El municipio de La Plata perteneciente al departamento del Huila se encuentra ubicado en la cordillera central, con una expansión territorial de 854 km2 y una altura de 1118 metros sobre el nivel del mar. Limita al norte, noreste, oeste y suroeste con el departamento del Cauca, al este con el municipio de Paicol, sureste con el municipio de El Pital y sur con el municipio de la Argentina (Huila).
+    [group_rq63s60/group_lm6cx76/e_Servicios] => El municipio cuenta con servicios públicos (electricidad, acueducto) hay cobertura de redes móviles e internet, sucursales de entidades bancarias Bancolombia, Servibanca, ATH, puntos físicos Efecty, en cuanto al comercio, hay supermercados, tiendas de cadena como D1, ARA, entre otros.  
+
+ 
+
+En zona Rural no se cuenta con energía, hay cobertura de red móvil e internet intermitente, hay tiendas pequeñas en las comunidades. En los dos centros poblados gallego, Villa Lozada hay puntos de Efecty.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => El municipio de La Plata, Huila, es uno de los diez municipios que hace parte del parque natural Puracé, una zona catalogada con amplia de conservación y reserva de flora, fauna y recursos naturales. Debido por su gran abundancia de ecosistemas, como la selva húmeda del piso térmico frío, páramo, super páramo y nival, lo que facilita la producción de cultivos agrícolas como café, mora, frijol, maíz, caña, papa, yuca, plátano, entre otros.  
+
+Desde el manejo de los residuos sólidos se identifican que en las veredas se utiliza la quema de residuos sólidos generando esto un aumento en la contaminación y el desecho de las fuentes hídricas. Desde la municipalidad no hay recolección de residuos en las veredas, este sistema solo llega al centro poblado gallego.  Es importante enfatizar en la promoción de hábitos de higiene y saneamiento en las comunidades que reduzca el impacto ambiental.
+    [group_fm93i53/_1_Problem_tica_Principal] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/Riesgos_para_respuesta] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE AEREO
+    [group_fm93i53/logistica] => Transporte: 
+
+El ingreso se realiza, primeramente, vía aérea desde Bogotá hacia Neiva, posteriormente el traslado es terrestre por carretera nacional hacia el municipio de La Plata con un tiempo estimado de 1 hora 30 minutos. El traslado a las veredas es terrestre, se encuentran unos pare y siga en la vía nacional, se requiere salir a las 6 am para no esperar hasta una hora en la vía (estos se encuentran entre el trayecto de La plata hasta gallego), se recomienda ingreso con camioneta 4x4 pues si llueve la carretera puede verse afectada.  La vereda más lejana está a 2 1/2 horas de la cabecera municipal. Son vías carreteables y pendientes, se están realizando actualmente trabajos en la vía, sacando arboles de gran tamaño que limitan la movilidad hacia las veredas.  
+
+ 
+
+Aéreo: 
+
+Bogotá - Neiva (1hora) oferta de aerolíneas Easyfly, Latam y Avianca.  
+
+ 
+
+Alojamientos: 
+
+La Plata: al ser un sitio turístico cuenta con amplia oferta hotelera en casco urbano. Las habitaciones oscilan entre 50 a 70 mil pesos con aire acondicionado, con disponibilidad. Por condiciones de seguridad, la volatilidad del contexto ante el riesgo presente de combates y el control del actor armado se sugiere no pernoctar en las veredas. 
+
+ 
+
+Alimentación: 
+
+La Plata: Cuenta con variedad de ofertas de restaurantes en su centro poblado. En caso de ingreso a la zona veredal existe oferta comercial para abastecerse en los supermercados. En zona Rural esta la posibilidad de personas que pueden preparar los alimentos de los equipos.
+    [group_fm93i53/seguridad] => En el contexto de la emergencia, en el territorio existe presencia de GANE y fuerza pública; consecuencia de esta presencia, se dio la configuración de confrontaciones bélicas (combates) dejando a la población en medio de las hostilidades (siendo utilizadas como escudo humano), se resalta que como consecuencia de estas acciones, se provoca  la muerte a una menor, asimismo se enuncia que la comunidad fue utilizada como escudo, siendo parte de una estrategia para presionar el retiro por parte del ejército; y así evitar un nuevo combate, generando que las comunidades salieran desplazadas forzosamente hacia el casco urbano de La Plata. Los habitantes de las veredas que permanecieron en sus territorios durante dos semanas, con la presencia constante de los actores armados en los territorios, configurándose una restricción a la movilidad por las acciones del GANE que generan control en el territorio y generando en la población un contaste temor y zozobra ante un posible nuevo combate. 
+
+Dentro de los riesgos y acciones de seguridad se encuentran los siguientes:  
+
+En las veredas existe presencia permanente del GANE a esto se le suma el aumento de pie de fuerza del ejército, lo que supone un riesgo por nuevos combates en los territorios.  
+
+La vigilancia del actor armado se extiende hacia la cabecera municipal con el fin de controlar las acciones que desarrollan las familias a nivel comercial, con presencia de extorsión en comerciantes, transportadores y Liderazgos. 
+
+Los actores Armados hacen presencia y uso de los sitios comerciales, generando el riesgo constante de encuentro con ellos. 
+
+Se ve limitado el ejercicio de liderazgo de las comunidades por el temor ante represalias contra lideres y lideresas que tomen la vocería en nombre de la comunidad o vereda.  
+
+Presencia del GANE en la comunidad, con un fuerte control de las actividades comunitarias en zona rural y urbano. 
+
+Restricción horaria para el transporte o tránsito desde las 6 pm hasta 6 am. 
+
+Extorsión a transportadores y comerciantes, limitando el acceso de los vehículos hasta las comunidades rurales y el desarrollo económico de las veredas. 
+
+Los medios de comunicación están siendo controlados por el GANE.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 1462
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 4791
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 18
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-09-08
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => CICR, ONU, UARIV
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => La emergencia en las veredas de la zona rural del municipio de la Plata Huila se genera por confrontaciones entre del GANE y el ejército, continuidad de la presencia del actor armado, la imposición de normas de control territorial, sumado a las amenazas, extorsiones y desplazamientos individuales de dejan como resultado la configuración de una restricción a la movilidad.  
+
+El municipio la Plata Huila contaba con la alerta temprana 025 de 2022 por parte de la Defensoría del Pueblo donde se enunciaba la presencia esporádica del GANE en las veredas colindantes al departamento del Cauca desde el año 2022; estas acciones vienen acompañadas del ejercicio de citaciones a miembros de las Juntas de Acción Comunal y pobladores en los cuales se evidenciaron la entrega de panfletos, manifestando su permanencia en el territorio y la solicitud de contribuciones económicas, a fin de ejercer control territorial y social.  
+
+Estos hechos en el municipio han venido en un incremento progresivo, presentándose de manera constante el tránsito de actores armados en las veredas, amenazas a pobladores, comerciantes, personas con liderazgos, excombatientes, exmilitares, imposición de normas de conducta y establecimiento de horarios que generan restricción para el acceso a bienes y servicios en las veredas. Se han incrementado los desplazamientos individuales desde las veredas hacia la cabecera municipal, el riesgo de uso, utilización y vinculación a niños, niñas y jóvenes en el conflicto a través de estrategias para el convencimiento como oferta de pagos, regalos para ser parte de las acciones de los actores armados y así lograr el fortalecimiento y control del GANE en todo el territorio. 
+
+Se resalta la identificación de riesgos, vulnerabilidades y amenazas latentes a lideres, lideresas, miembros de las JAC, NNAJ, comerciantes y mujeres (en especial, las que tienen compañeros activos o inactivos de las fuerzas públicas), jóvenes que han prestado servicio militar o se encuentran prestando; configurándose así posibles hechos victimizantes como amenazas, homicidios y acciones coercitivas principalmente a los jóvenes, para que hagan parte del GANE. 
+
+En la ERN se identifican hechos individuales como amenazas a miembros de las JAC y ex miembros de la fuerza pública que viven en la zona, asesinato a una persona en zona rural por incumplimiento de horario impuesto por el actor armado, sumado a extorsiones a transportadores, comerciantes, JAC y a algunos miembros de las comunidades que tienen fincas cafeteras. 
+
+ 
+
+En los riesgos presentes para las mujeres no se han presentado eventos de VBG en las veredas, aunque resaltan el sentirse atemorizadas al quedarse solas en casa y al transitar por las vías, por el posible encuentro de los actores armados, es importante mencionar, que los actores armados recorren todo el territorio y en ocasiones permanecen en sitios de comercio público, armados, generando gran temor y zozobra ante un posible nuevo combate. Las mujeres y madres de las veredas refieren de manera enfática la afectación emocional por el temor de perder sus hijos e hijas, de enviarlos los NNA a clases y que se vuelva a presentar algún combate o que se materialice el riesgo de uso, utilización y vinculación. Algunas de las cuales prefieren enviar sus hijos e hijas lejos a otros municipios para salvaguardar sus vidas.  
+
+ 
+
+Se identifica casos en condición de vulnerabilidad acentuada como los adultos mayores que tiene enfermedades crónicas que se han agudizado a causa de la emergencia, al no poder movilizarse al casco urbano de manera prioritaria o contar con los medicamentos de control, se identificó un caso de una mujer adulta mayor que estuvo hospitalizada por Hipertensión Arterial alta a causa de los eventos.   
+
+Se refiere que se presentan, dificultades para conciliar el sueño, sentir constante temor, angustia, incertidumbre, estrés, acompañado de dolores de cabeza. Las mujeres, niños, niñas y adolescentes exteriorizan su sentir a través del llanto, hay exaltación en la respuesta de los niños y niñas que prefieren dormir en el suelo en colchonetas, ante cualquier ruido, corren a esconderse bajo las camas; los hombres, aunque no manifiestan de manera abierta su afectación, se evidencia en su discurso el temor y angustia al salir a trabajar lejos de sus familias y que estas permanezcan solas en casa. Se puede evidenciar que la situación de emergencia ha desencadeno una afectación en la salud emocional, la cual está marcada por un temor generalizado. Esto incrementado por las normas sociales, la imposición para trabajos comunitarios en las vías, solicitud de listados por parte del GANE de censos de la población para la aplicación de sanciones y control social en conductas como Consumo de PSA, no trabajo comunitario e incumplimiento de horarios de salida por parte del GANE. 
+
+En relación a los riesgos por presencia de artefactos explosivos se identifica Contaminación por MSE derivados de los combates en las veredas, sin ninguna acción por parte de una organización y/o estatal para la limpieza de estos y sensibilización frente al riesgo de accidentes con MAP, TE, MSE en la comunidad. A causa de los combates se identificaron algunos daños a bienes en la comunidad como la escuela y casas en la vereda los cauchos por impactos durante el fuego cruzado. 
+
+Como mecanismos de autoprotección identificados, las veredas cuentan con estructuras organizativas, en las que se encuentran JAC y espacios de concertación de normas de convivencia y resolución de conflictos a nivel comunitario. Se percibe cohesión social y colaboración comunitaria ante situaciones de emergencia.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => La emergencia por restricción a la movilidad se deriva del control territorial que está ejerciendo el GANE. Esto ha llevado a amenazas, extorsiones, además persiste el riesgo de que se presenten combates nuevamente.​
+
+Se evidencia la imposición de normas de conducta y establecimiento de horarios que generan restricción para el acceso a bienes y servicios en las veredas.​
+
+Desplazamientos individuales desde las veredas hacia cabecera municipal.​
+
+Riesgo de reclutamiento a niños, niñas y jóvenes en las veredas.​
+
+Uso de estrategias para el convencimiento de Jóvenes para ser parte de las acciones de los actores armados.​
+
+Amenazas a jóvenes que han prestado servicio militar o se encuentran prestando, para ser parte del GANE.​
+
+Utilización de las Escuelas para las reuniones con la comunidad y Liderazgo Comunitario, así como para la impartición de catedra del Actor armado.​
+
+Se identifican hechos individuales como amenazas a miembros de las JAC y ex miembros de la fuerza pública que viven en la zona.​
+
+Asesinato a persona en zona rural por incumplimiento de horario impuesto por el actor armado.​
+
+Contaminación por MSE derivados de los combates en las veredas.​
+
+Se identifican extorsiones a transportadores, comerciantes, JAC y a algunos miembros de las comunidades que tienen fincas cafeteras.​
+
+Imposición por el actor armado para trabajos comunitarios.​
+
+Solicitud de listados por parte del GANE de censos de la población para la aplicación de sanciones y control social en conductas como Consumo de PSA, no trabajo comunitario, incumplimiento de horarios de salida.​
+
+Daños en casas y escuela en la vereda el Caucho a causa de los combates. ​
+
+Limitación en el ejercicio de liderazgo que generó la renuncia de todos los miembros de las Juntas de Acción Comunal de dos veredas.​
+
+No hay presencia de la institucionalidad en la zona rural, ni acompañamiento en los hechos derivados del conflicto.​
+
+Se evidencian negativas de la institucionalidad para la activación de las rutas en fase de inmediatez para hechos diferentes al desplazamiento.​
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => Gestión de casos
+
+Orientación en acceso a derechos
+
+Capacitaciones en Acceso a derechos y ley de víctimas
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección? Se identificaron casos de extorsión, amenazas, desplazamientos individuales, riesgos y materialización de reclutamiento a NNAJ. En la ERN se identificaron 17 Casos para gestión individual.​
+
+¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)?​
+
+Se identifican hechos victimizantes individuales como amenazas, intimidaciones, homicidio, riesgos de vinculación, uso y utilización y desplazamientos individuales. ​
+
+Restricción a la movilidad en las veredas.​
+
+Las amenazas y extorsiones se identifican principalmente a en perfiles de liderazgo, a través de llamadas telefónicas. Los Medios de comunicación intervenidos de la comunidad en las veredas.​
+
+¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo? La comunidad presenta un alto nivel de afectación psicosocial, los niños, niñas y adolescentes se alteran con ruidos fuertes, tienen dificultades para dormir, se esconden debajo de la cama, presentando temor y con preferencia a dormir en colchonetas ante un nuevo combate. Los hombres y mujeres se identifican con estres severo, generando una disminución en sus actividades de medios de vida y con insomnio, llanto y afectaciones en la salud física como aumento de tensión arterial.​
+
+¿El hecho victimizante ha sido visibilizado con la institucionalidad? Se realizo la declaración y atención al desplazamiento masivo a través de una declaración masiva. Las familias que permanecieron en las veredas y estuvieron confinadas y en desplazamiento intraveredal no ha sido reconocido y no se activaron las rutas de atención para estos casos diferentes al desplazamiento masivo a la cabecera municipal.​
+
+​
+
+¿Tienen conocimiento las comunidades sobre normatividad de víctima? No existen claridades sobre las rutas de atención para casos de afectaciones individuales y masivas.​
+
+​
+
+¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención? Se evidencian negativas de la institucionalidad para la activación de las rutas en fase de inmediatez para hechos diferentes al desplazamiento.​
+
+Se evidencia una estigmatización a las comunidades de parte de la institucionalidad.​
+
+​
+
+¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? Si, los lideres y lideresas no tienen conocimiento sobre la normatividad de víctima, rutas de protección, ni mecanismos de exigibilidad de derechos.​
+    [group_aa8xg30/group_lg2ro37/Shelter] => En cuanto a las necesidades de alojamiento temporal y elementos de hogar que salvan vidas, no se ha detectado la necesidad de activar esta respuesta, ya que los habitantes se encuentran en sus hogares en las veredas y no se han evidenciado requerimientos de elementos adicionales. Las necesidades identificadas se centran principalmente en problemáticas estructurales.  
+
+En el análisis realizado los principales hallazgos identificados son:   
+
+Deterioro de la infraestructura de las sedes educativas como techos dañados, pisos en mal estado y paredes con fisuras y grietas, lo cual representa un riesgo para el desarrollo de las actividades escolares, sin embargo, este deterioro no es derivado del conflicto o a causa de la emergencia, si no a deficiencias estructurales del servicio educativo.  
+
+Se identificó un espacio educativo que fue afectado por el fuego cruzado en el marco de los combates entre el GANE y el ejército en la vereda el Caucho, el espacio tiene necesidades de mejora, sin embargo, se siguen dando las clases y no hay hacinamiento en la zona.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => Se identifico que el 100% de la población cuenta con los elementos de hogar necesarios para un alojamiento digno y seguro durante la emergencia. ​
+
+Al tratarse de una restricción a la movilidad, cada familia se encuentra en su hogar.​
+
+Se identificaron personas en riesgo de movilización o traslado por  el control de actor armado en la zona. ​
+
+Se identificó la necesidad del mejoramiento de un espacio educativo que fue afectado por el fuego cruzado en el marco de los combates entre el GANE y el ejército. Vereda el Caucho.​
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Se sugiere la revisión técnica del espacio educativo afectado para el mejoramiento de la vereda el caucho, se debe considerar que la población se autodenomina campesina.​
+
+​
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿La mayoría de las familias y/o personas tienen donde albergarse >50%?. SI​
+
+¿La mayoría de las familias y/o personas tienen donde albergarse en condiciones seguras >50%?  SI.​
+
+¿Las familias cuentan con los elementos adecuados de hábitat que promuevan seguridad >50%? SI.​
+
+¿La institucionalidad y población desconoce sobre temas relacionados con el sector de Alojamiento y Asentamiento?  SI.​
+
+¿Los espacios educativos presenta hacinamiento agudizado por la emergencia, Si /No? NO.​
+
+¿Existen espacios educativos para la atención de NNAJ durante la emergencia, Si/No?SI.​
+
+¿Se cuenta con el apoyo y coordinación de autoridades locales para el seguimiento y desarrollo de espacios educativos en la emergencia, Si/No? SI.
+    [group_aa8xg30/group_fv0ct51/Agua] => El suministro de agua a las comunidades de las 18 veredas es por medio de un acueducto veredal y regional. Estos tienen la capacidad de abastecer a la mayoría de las personas, sin embargo, hay familias que aun sacan el agua de nacimientos o quebradas cercanos a sus hogares por medio de la instalación de mangueras. El agua destinada para consumo no recibe tratamiento, excepto en casos aislados donde algunos residentes la hierven para preparar alimentos para los niños, niñas y adolescentes.  
+
+Se evidencia que las familias no están acostumbradas a realizar algún tipo de tratamiento para el consumo del agua. Como consecuencia de esto se presentan enfermedades gastrointestinales y brotes en la piel, producto del consumo de agua.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => A excepción de un vehículo especial que sube aproximadamente dos veces al año a llevar los residuos de los pesticidas, en las veredas no se cuenta con un servicio para la recolección y gestión de residuos. Para la disposición de las basuras cada familia se encarga de deshacerse de los residuos. Esto lo hacen por medio de la quema o el entierro de algunos desechos. Los residuos orgánicos son compostados para el uso en las huertas y la agricultura. 
+
+Las personas de estas comunidades relataron la presencia de vectores como roedores y cucarachas. Para el manejo de estos se utilizan mascotas como gatos y venenos. 
+
+Con respecto a la disposición de excretas la mayoría de las familias narro que cuentan con letrinas y taza sanitaria en sus casas.  El manejo de las deposiciones se hace a través de pozo séptico por familia. Quienes con cuentan con el acceso a pozo séptico lo hacen a campo abierto 
+
+Las instituciones educativas tienen baterías sanitarias funcionales, algunas requieren ajustes por deterioro de la infraestructura, mas no por consecuencia de la emergencia. Los lavamanos en algunas escuelas presentan problemas como el empozamiento de agua (Santa Martha). No hay condiciones de accesibilidad para niños, niñas y adolescentes (NNAJ) con discapacidad en las baterías sanitarias existentes.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Las comunidades reconocen la importancia de lavado de manos en momentos clave (después de trabajar, antes de comer, antes de cocinar, después de ir al baño). Sin embargo, carecen de elementos necesarios como el jabón para llevar a cabo estas prácticas de manera adecuada. La principal barrera para acceder a estos elementos es el incremento de los precios esto relacionado a la afectación de sus medios de vida.  
+
+La institucionalidad hizo entrega de kits de higiene únicamente a las familias que se desplazaron. No se atendieron las necesidades de las personas que quedaron afectadas por el confinamiento y la actual restricción a la movilidad.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => Agua​
+
+El abastecimiento de agua de la comunidad es a través de un acueducto veredal y acueducto regional. ​
+
+Se evidencian en la comunidad enfermedades gastrointestinales y erupciones en la piel, asociados al consumo de agua.​
+
+La mayoría de las familias tienen acceso al agua por medio del acueducto. ​
+
+ Las familias que no tienen acceso al acueducto veredal se auto abastecen de otras fuentes secundarias (nacederos) cercanos a sus hogares, utilizando mangueras que han instalado ellos mismos. ​
+
+El agua destinada para consumo no recibe tratamiento, excepto en casos aislados donde algunos residentes la hierven para preparar alimentos para los niños, niñas y adolescentes. Se evidencian que las familias no están acostumbradas a realizar algún tipo de tratamiento para el consumo del agua.​
+
+​
+Saneamiento​
+
+La gestión de residuos en la comunidad se realiza mediante la quema a campo abierto, el entierro de pañales y toallas sanitarias,  y el uso de residuos orgánicos para la composta en huertas familiares.  ​
+
+Las deposiciones son realizadas a campo abierto en algunas personas de las comunidades debido a la falta de letrinas en las viviendas.​
+
+Las familias que cuentan con letrinas en sus casas el manejo de las deposiciones se hacen a través de pozo séptico por familia.​
+
+Hay presencia de vectores como roedores y cucarachas. Para el manejo de estos utilizan mascotas como gatos y el uso de venenos.​
+
+Las I.E. tiene baterías sanitarias funcionales, se requieren ajustes por deterioro de la infraestructura, no a consecuencia de la emergencia. Los lavamanos en algunas de las escuelas presentan problemas como el empozamiento de agua (vereda Santa Marta).​
+
+No hay condiciones de accesibilidad para niños, niñas y adolescentes (NNAJ) con discapacidad en las baterías sanitarias existentes.​
+
+​Higiene​
+
+•La población reconocen la importancia de momentos claves para el lavado de manos, pero carecen de los elementos necesarios para llevar a cabo prácticas de higiene adecuadas por el incremento de los precios de dichos elementos.​
+
+La población no reconoce buenas prácticas y hábitos de higiene.​
+
+La institucionalidad realizo entrega de kits de higiene únicamente a las familias que se desplazaron.​
+
+​
+
+​
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => Formación y sensibilización sobre temáticas WASH, especialmente en mantenimientos básicos de los puntos de toma de agua y baterías sanitarias, manejo adecuado de tanques de almacenamiento y gestión residuos. sensibilización en hábitos de higiene para toda la comunidad con énfasis en la escuela. Manejo de vectores para evitar la proliferación de plagas.​
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => 40% de la población que NO usa agua segura. ​
+
+90% de la población que NO tiene recursos suficientes para la compra de todos los implementos de aseo.​
+    [group_aa8xg30/group_jn0nm53/san] => Como consecuencia de las restricciones presentadas en estos territorios por el control territorial del GANE y la presencia de la fuerza pública, las comunidades de las veredas de La Plata han visto afectados sus medios de vida. Estas comunidades se dedican de manera principal a las actividades agrícolas, tanto para la venta como para subsistencia. Los principales cultivos de venta que se identificaron fueron el café y la mora. En menor medida también existen cultivos de caña y lulo. En cuanto a los cultivos para el pan coger las comunidades referenciaron: la yuca, el plátano, la arracacha, el maíz y el frijol. También se evidencio tenencia de especies menores como cerdos y gallinas, este último para algunas familias es otra actividad económica ya que, según el propósito, engorde o huevos lo usan para la veta, así mismo podemos destacar otras actividades económicas talleres de mecánica para motos y maquinaria y tiendas.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => En el marco de la actual emergencia se identificaron afectaciones a estos medios de generación de ingresos y subsistencia, la afectación generalizada tiene que ver con los créditos que los agricultores en estas comunidades utilizan para poder trabajar. Por un lado, varios han presentado problemas para estar al día con los pagos, pues tuvieron que frenar sus actividades productivas durante el desplazamiento y confinamiento que se presentó con relación a los combates sucedidos el 27 de julio. Por otro lado, las comunidades relataron que debido a la compleja situación de orden público que se encuentra presentando en su región ya no están siendo aprobados los créditos por parte de las entidades bancarias. Otra afectación tiene que ver con las dificultades y riesgos de movilidad que han imposibilitado a las personas movilizarse a jornalear durante varios días a veredas distintas durante las épocas en que no hay cosecha. Por último, las extorsiones y temor que infunde el GANE a los transportadores han llevado a que quienes suben hasta las veredas a comprar los productos que los campesinos producen lo hagan a un precio más económico, afectando los ingresos que acostumbran a tener estas comunidades y así mismo el dinero con el que la familia cuenta para acceder a los productos de primera necesidad.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Según fue relatado por la comunidad, hasta este momento únicamente se han realizado atenciones a las familias que se desplazaron posterior a los enfrentamientos, y a la vereda de San Miguel; a donde se llevaron los últimos paquetes alimentarios que había recibido la alcaldía por parte de la UARIV. Las comunidades que quedaron confinadas no han recibido ningún tipo de asistencia ni visita por parte de la institucionalidad a pesar de encontrarse en las mismas condiciones de vulnerabilidad. Las comunidades más históricamente desatendidas en esta zona son aquellas ubicadas en las veredas más apartadas.  Se recomienda evaluar la posibilidad de atender las necesidades alimentarias de estas familias. Pues han encontrado dificultad para acceder a sus alimentos de la manera en que lo solían hacer.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => En cuanto a la alimentación se pudo evidenciar que las familias de todas las veredas han utilizado estrategias de afrontamiento negativas en torno a la alimentación debido especialmente al acceso y la disponibilidad de alimentos esto relacionado con la capacidad de compra, la imposibilidad de acceder a un comercio justo y por restricciones de movilidad (esto anteriormente descrito), es de resaltar que de manera más significativa debido a la cercanía con los lugares donde han sucedido los enfrentamientos las veredas que se identifican con necesidades más sentidas de alimentación, relacionadas a continuación: Bajo Villa Mercedes, Villa Mercedes, Villa Esperanza, Los Cauchos, Palestina, Los Pinos, Los Jardines y San José de Juntas. Estas comunidades manifestaron de manera puntual que han tenido que reducir las porciones que consumen, la diversidad de alimentos y el número de comidas que hacen al día debido a la emergencia.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Salud física: 
+
+Antecedentes de atención en salud física 
+
+Desde la Secretaría de Salud se realizan brigadas mensuales de salud en las veredas de La Plata. Sin embargo, las comunidades narraron que esta no va a todas las veredas. En estas brigadas se realiza vacunación, por lo que los esquemas de vacunación se encuentran al día.  
+
+Durante estas jornadas, se prioriza la atención en San Miguel, por lo que las personas de otros lugares deben desplazarse por lo general hacia esta. Adicionalmente, las comunidades narraron como el servicio que se prestaba en estas brigadas era insuficiente, pues el único medicamento que entregan es acetaminofén y la consulta no hacia una revisión satisfactoria a las condiciones de salud de las personas. En ocasiones relataron que si se encuentran padeciendo alguna enfermedad es preferible hacer el esfuerzo de dirigirse a la cabecera municipal por que en estas brigadas de salud la atención que se recibía era de poca calidad. 
+
+En la vereda de San Miguel se ubica un puesto de salud. Sin embargo, este no se encuentra operativo debido a que no cuenta con personal que lo atienda. Para consultas médicas el puesto más cercano queda en Gallego, pero las comunidades prefieren dirigirse directamente a la cabecera municipal de La Plata que tiene mayor oferta de acceso a servicios médicos. 
+
+Patologías que comprometen la vida 
+
+Las personas que participaron de los grupos focales narraron que las enfermedades que se encuentran con mayor frecuencia en sus comunidades son las gripas, fiebres y diarreas. También mencionaron que hay personas que padecen problemas con la tensión y diabetes. Algunas de estas no están recibiendo medicamentos ni el tratamiento adecuado y se atienden por medio de medicina tradicional. 
+
+Se referencio la existencia de alrededor de 10 mujeres en estado de gestación, 4 de estas con embarazos de riesgo. También se identificó el caso de un menor que tiene una roncha en la piel, producto de una picadura que recibió en el albergue durante el desplazamiento. Se presume que esta puede tratarse de leishmaniasis o alguna infección; no se encuentra recibiendo tratamiento médico profesional por esto.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Antecedentes de atención en salud mental: 
+
+En todas las comunidades se evidenciaron necesidades urgentes en términos de atención en salud mental. Tanto en NNA como en adultos. Se referenciaron dificultades para conciliar el sueño, temor constante al moverse hacia los lugares de trabajo, sensibilidad a los ruidos fuertes, sensación de tristeza y ganas de llorar. Algunas familias manifiestan que sus hijos ahora solo quieren dormir en el suelo por el temor a que se vuelva a presentar un enfrentamiento. Hasta el momento ninguna comunidad manifestó haber recibido algún tipo de atención psicosocial o de acompañamiento en salud mental. Se evidencia especial afectación en los liderazgos, por las acciones del GANE y amenazas directas. 
+
+En términos generales, se evidencio una necesidad urgente de acompañamiento psicológico. Debido a la situación las comunidades tienen gran nivel de estrés y zozobra que representa afectaciones muy grandes a la salud mental de estas comunidades.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => Mujeres gestantes y planificación familiar: 
+
+Las comunidades referenciaron que hay alrededor de 10 mujeres en estado de gestación, 4 de estas con embarazos de riesgo. Se encuentran con los controles de natalidad al día según relataron los líderes.  
+
+Como se mencionó previamente, la responsabilidad por la planificación recae sobre las mujeres y los principales métodos son la inyección y el implante subdérmico. Sin embargo, acceder a esto representa costos y dificultades para las mujeres. 
+
+Antecedentes de salud en salud sexual y reproductiva 
+
+Durante las reuniones con las comunidades se pudo identificar que la responsabilidad por la planificación en estas comunidades recae sobre las mujeres. Los hombres se desentienden mucho de esto y expresan que el uso del preservativo no es común y también existen estigmas frente a la vasectomía. Las mujeres expresaron que algunas están operadas y otras planifican por medio del implante subdérmico o las inyecciones.  Dicen que los métodos ofrecidos por la institucionalidad son de mala calidad y por eso quienes planifican prefieren hacerlo por medio de consulta médica particular. En este sentido, relataron que acceder a los métodos de planificación representa un reto debido a los costos que implica. 
+
+Las familias que se desplazaron a la cabecera municipal a finales de julio recibieron kits de higiene que contenían preservativos. Quienes recibieron estos kits fueron solo algunas familias, pues quienes quedaron confinados y que ahora se encuentran en restricción a la movilidad no han recibido ningún tipo de atención.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => Desde la secretaría de salud municipal se realizan brigadas de salud mensuales a las veredas. Sin embargo, estas no van a todas las veredas y el servicio que prestan es muy limitado. La comunidad manifestaba inconformidad por que en sus palabras "solo entregan acetaminofén". ​
+
+ En caso de emergencias es puesto de salud más cercano queda en Gallego. Sin embargo, las comunidades prefieren movilizarse directamente a cabecera municipal de La Plata para ser atendidos.​
+
+ Los servicios en términos de salud sexual y reproductiva son muy limitados. Los hombres no acostumbran a utilizar el preservativo, las mujeres planifican con la inyección y algunas con implante subdérmico. Algunas mujeres expresaron que están operadas. El acceso a estos métodos de planificación es limitado.​
+
+ Referenciaron que las enfermedades más comunes en sus comunidades son las gripas, fiebres y diarreas.​
+
+ Las comunidades referenciaron alrededor de 10 mujeres en gestación. 4 de estos embarazos de riesgo.​
+
+Se referencio un posible caso de leishmaniasis o de infección de una picadura en un menor de 15 años. La madre de este menor relato que su hijo había recibido picaduras en el alojamiento y que en este momento en la picadura tiene una roncha extraña que le ha ido creciendo.​
+
+ Los esquemas de vacunación de los NN están al día, pues se realizaron brigadas de salud mensuales en las veredas.​
+
+​
+
+Capacidad Institucional: ​
+
+Hospital Departamental San Antonio de Padua La Plata Huila, de segundo nivel de complejidad.​
+
+Hospital San Sebastián.​
+
+Promotores de Salud: ​
+
+En la zona solo hay puesto de salud en San Miguel, sin embargo, este no está en funcionamiento porque no hay personal para atenderlo. Para cualquier consulta de salud por fuera de las brigadas mensuales las comunidades deben dirigirse a Gallego o a la cabecera municipal​
+
+En Villa Mercedes hay 1 promotor de salud que trabaja en el puesto de Salud de Gallego.​
+
+La institucionalidad realiza en puntos centrales brigadas de salud mensuales.​
+
+​Salud Mental
+
+
+
+​
+
+En todas las comunidades se evidenciaron necesidades urgentes en términos de atención en salud mental. Tanto en NNA como en adultos. Se referenciaron dificultades para conciliar el sueño, temor constante al moverse hacia los lugares de trabajo, sensibilidad a los ruidos fuertes, sensación de tristeza y ganas de llorar. Algunas familias manifiestan que sus hijos ahora solo quieren dormir en el suelo por el temor a que se vuelva a presentar un enfrentamiento. ​
+
+Hasta el momento ninguna comunidad manifestó haber recibido algún tipo de atención psicosocial o de acompañamiento en salud mental.​
+
+Se evidencia especial afectación en los liderazgos, por las acciones del GANE y amenazas directas.​
+
+​
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => El sector de salud solo se cubre parcialmente por parte de la institucionalidad. Pues las brigadas de salud ofrecen servicios muy limitados y no dan atención en salud mental.​
+
+Uso de toldillos y manejo de aguas estancadas para el control de vectores.​
+
+Diagnóstico y tratamiento oportuno de ciertas enfermedades mediante promotores de salud en la comunidad. ​
+
+Acceso a agua segura, por escasez se recomendaría puntos de aguas comunes en veredas específicas y uso de filtros. ​
+
+Fortalecer la información epidemiológica, haciendo frente al subregistro.​
+
+Es importante que durante la intervención se fortalezcan aspectos relacionados con redes de apoyo sociales y comunitarias, rutas de atención en salud mental, además que se promuevan estrategias de afrontamiento, autocuidado en salud mental, reconocimiento y manejo de las emociones, pautas de crianza, roles y estereotipos de género, derechos sexuales y reproductivos, salud sexual y reproductiva, reconocimiento de señales de alarma, resolución pacífica de conflictos, aseo e higiene personal principalmente en NNA.​
+
+​
+
+​
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => INDICADORES CLAVE​
+
+Número de personas afectadas entre 500 y 1500.​
+
+- Si
+
+​
+
+¿Hay necesidad expresa de atención en salud física?​
+
+- Si
+​
+
+¿Existen situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia?​
+
+- SI
+
+​
+
+¿Existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida?​
+- SI​
+
+​
+
+¿Hay reportes y/o aumento de Violencia Basada en Género durante el último mes?​
+
+​
+
+- No
+    [group_aa8xg30/group_tb5de96/EIE] => Los combates en el territorio entre el GANE y el ejercito sucedido el 27 de julio de 2023, que generó el desplazamiento de las personas de las veredas rurales de la Plata hacia la cabecera municipal, afectaron la continuidad del servicio educativo durante 3 semanas consecutivas, se identificaron dos instituciones educativas: la institución educativa San Miguel que tiene 10 Sedes educativas con una matrícula de 619 NN y la Institución educativa san Vicente que tiene 4 sedes educativas con una matrícula de 172 NN del SIMAT a corte de Agosto. 
+
+En las sedes educativas de la veredas solo hay oferta educativa de 0 a 5 primaria, la oferta de secundaria está ubicada en la sede principal de la institución educativa San Miguel para toda la zona rural, está vereda se encuentra entre 1 o 2 horas de distancia del resto de veredas, por esta razón, la comunidad atemorizada y con zozobra han enviado a los adolescentes y jóvenes a estudiar a otros municipios o departamentos para alejarlos de este riesgo, causando división familiar y aumento de los costos para continuar con las trayectorias educativas de sus hijos, en los casos que no cuentan con el recurso económico o la red de apoyo para enviarlos, han preferido retirarlos de la escuela, lo que ha generado un incremento en la deserción o abandono escolar.   
+
+Se identificaron eventos de ataque a la escuela en 3 sedes educativas que incluyen: ocupación de las escuelas y en las zonas cercanas y caminos hacia ellas por parte del GANE y actores armados estatales,  estos eventos relacionados con el actor armado presente en el territorio han incrementado de manera significativa el riesgo de los niños, niñas y adolescentes desarrollando al interior de las sedes educativas reuniones por parte del GANE y los liderazgos comunitarios para el establecimiento de normas de control social.  
+
+En la ERN no se identificó presencia de riesgo de artefactos explosivos alrededor y camino hacia la escuela, sin embargo, la presencia de los actores en los territorios y las medidas de control en las veredas no desestima que se pueda utilizar la presencia de artefactos explosivos como medida de control. Sin embargo, durante los combates efectuados en julio no se ha realizado una limpieza por posible contaminación de MSE presentes en el territorio, por los combates. En la comunidad de los cauchos la comunidad recolecto una bolsa de 3 libras de la recogida de los MSE (Casquillos) semanas posteriores al combate, esto incrementa el riesgo de accidentes por artefacto explosivos en la comunidad educativa. Los combates fueron sucedidos en la vereda Los Cauchos, identificando una afectación de la infraestructura de la sede educativa por el fuego cruzado, las sedes educativas de las veredas, se evidencia una afectación de la infraestructura de manera estructural no a consecuencia de la emergencia.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => Interrupción del servicio educativo en las dos instituciones Educativas:​
+
+I.E San Miguel que tiene 10 Sedes educativas con una matrícula de 619 NN del SIMAT a corte de Agosto durante 3 semanas consecutivas.​
+
+I.E San Vicente que tiene 3 sedes educativas con una matrícula de 172 NN del SIMAT a corte de Agosto durante 3 semanas consecutivas.​
+
+Los Niños, niñas y adolescentes están afectados emocionalmente, con episodios de estrés, incremento de episodios de llanto, disminución de los periodos de sueño y reacciones alteradas al escuchar sonidos fuertes, al ver al ejército en las comunidades, no se identifica quienes son cada actor y existe temor por parte de los NNA y cuidadores. ​
+
+Incremento del riesgo de los niños, niñas y adolescentes en el uso, utilización y vinculación por el GANE, identificación de 1 caso de vinculación en una vereda.​
+
+Ataque a 3 sedes educativas que incluyen: ocupación de las escuelas y en las zonas cercanas y caminos hacia ellas por parte del GANE y actores armados estatales.​
+
+No se identifica riesgo de MAP y TE.​
+
+Aun no se ha realizado una limpieza por posible contaminación de MSE presentes en el territorio, por los combates. Refiere la comunidad que recolecto una bolsa de 3 libras de la recogida de los MSE (Casquillos) semanas posteriores al combate.​
+
+Los cuidadores  refirieron que tienen temor en enviar a los NNA a la escuela, están considerando retirarlos por el temor de nuevos combates.​
+
+En las I.E  no cuentan con materiales educativos y lúdicos para la realización de actividades escolares adaptados a la emergencia.​
+
+Los NN y sus familias no cuentan con elementos básicos para la realización de las actividades al retomarse la modalidad académica virtual. ​
+
+Oferta educativa de 0 a 5 primaria, la oferta de secundaria la institución principal ubicada en la vereda San Miguel y en la vereda Gallego, esta última a 40 minutos en moto.​
+
+Alta afectación psicosocial en los docentes, niños, niñas, y adolescentes, madres, padres y/o cuidadores por la presencia de actores armados y los enfrentamientos sucedidos en julio.​
+
+Las instituciones educativas no cuentan con plan de gestión de riesgo escolar o plan de emergencia.​
+
+Los docentes y Comunidad sin herramientas de afrontamiento. Necesidad de formación en educación en emergencias a Docentes y AEC. ​
+
+No cuentan con Materiales Educativos, fungibles, deportivos, lúdicos y pedagógicos.​
+
+Necesidad de Formación a Cuidadores ante el riesgo de confinamiento para actividades en casa con los NNAJ.  ​
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => En las entrevistas con actores claves se identificó que las instituciones educativas no cuentan con materiales fungibles, deportivos, lúdicos y pedagógicos para la realización de actividades escolares adaptados a la emergencia, no cuentan con Plan de Gestión Integral de riesgo Escolar PGIRE o plan de emergencia con el riesgo de conflicto priorizado y las acciones de mitigación para este, no cuentan con acciones claras y coordinadas ante un evento derivado del conflicto como fuego cruzado, riesgo de MAP, TE, MSE o presencia de un actor armado,  no se han establecido simulacros, cadena de llamadas o puntos de encuentro con la comunidad educativa que permitan mitigar los riesgos ante un posible nuevo combate o riesgo de artefacto explosivo. Ante una futura interrupción del servicio educativo por conflicto y el paso a una modalidad académica virtual o a distancia temporal, los docentes no cuentan con formación para ajustar sus planes de estudio ni con los recursos técnicos institucionales ni los niños, niñas, adolescentes y sus familias cuentan con elementos básicos o tecnológicos para la realización de las actividades académicas en casa. 
+
+En relación a los riesgos de protección infantil identificados en la ERN se evidencia la alta afectación de los niños, niñas y adolescentes emocionalmente, los cuidadores referencian episodios de estrés, incremento de episodios de llanto, disminución de los periodos de sueño y reacciones alteradas al escuchar sonidos fuertes, al ver alguno de los actores armados presente en las comunidades; esta presencia ha generado temor por parte de los niños, niñas, adolescentes y cuidadores al desplazarse a través de las vías para ir a las escuelas, incrementando el riesgo de uso, utilización y vinculación, de acuerdo con lo mencionado por parte de la comunidad en una vereda se referencia 1 caso de materialización de la vinculación. 
+
+En relación a los docentes se evidencia una alta afectación psicosocial  por la presencia de actores armados y los enfrentamientos sucedidos en julio, las acciones de control y normas sociales, refiriendo estos que no cuentan con herramientas de afrontamiento que les permitan responder de manera adecuada ante las emergencias, por lo anterior, se hace necesario la formación en educación en emergencias a Docentes, AEC y comunidad educativa en general. 
+
+ 
+
+Por todos los riesgos mencionados, los cuidadores tienen gran preocupación por la interrupción y no continuidad del servicio educativo y las afectaciones de sus hijos e hijas en los territorios, se requiere un espacio de Formación a Cuidadores en estrategias de juego ante el riesgo de confinamiento, que les permita acompañar de manera adecuada en casa a los NNAJ.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => Hay Presencia de Ataque a la Escuela de la comunidad (Acampamiento de Actores armados Legales e ilegales en la escuela y/o Camino a ella, Uso y utilización de la escuela por los actores armados, Fuego cruzado, Presencia de Artefactos explosivos en la escuela, alrededor y camino hacia ella, uso, utilización y vinculación por parte de los Actores amados de estudiantes y docentes).  SI. ​
+
+2.    Suspensión del servicio educativo de la Institución o Sedes educativas afectada durante la emergencia. SI.​
+
+3.    Se identifica afectación en niños, niñas y adolescentes ante la presencia 1 ó + riesgos de protección durante la emergencia: (1) deserción y abandono escolar de los niños, niñas y adolescentes por el conflicto armado, (2) Incremento de los riesgos de uso, utilización y vinculación de los niños, niñas y adolescentes, (3) violencias basadas en género, abuso sexual y prostitución de los niños, niñas y adolescentes por el conflicto, (4) Afectación Psicosocial de los niños, niñas y adolescentes durante y después de la emergencia, (5) incidentes y/o Accidentes por artefactos explosivos (MAP-MSE-TE) en la escuela, alrededor o camino a ella.  SI ​
+
+4.    Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. SI.​
+
+5.    La escuela no cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO.​
+
+6.    La Institución Educativa cuenta con Plan de Gestión de riesgo escolar y la ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.    ​
+
+6 INDICADORES IDENTIFICADOS EN EL SECTOR​
+    [group_aa8xg30/group_tb5de96_001/TM] => Las comunidades de las veredas de La Plata acceden al mercado en distintos lugares. Según la preferencia personal se abastecen en la cabecera municipal de La Plata, en un municipio cercano que se llama La Argentina o en las tiendas que se encuentran en cada vereda. Durante la ERN se identificaron en las veredas tiendas pequeñas con abastecimiento para la población de su comunidad. Sin embargo, durante los grupos focales algunos dueños de tiendas nos relataron que han visto afectado su abastecimiento y funcionamiento debido a esta emergencia. En la cabecera municipal de La Plata el mercado se encuentra operando con normalidad. No ha presentado afectaciones y se continúa operando sin ninguna restricción. No se pudo corroborar las condiciones de mercado en La Argentina, ya que no se visitó. Sin embargo, según lo relatado por las comunidades es un centro poblado importante con un flujo comercial constante, sin embargo, actualmente también han sucedido hechos relacionados con el conflicto armado.  
+
+La Plata y La Argentina quedan a una distancia equidistante de las veredas. El trayecto de la más lejana es de aproximadamente 2 horas. El transporte se realiza en vehículos tipo campero que suben y bajan diariamente y el costo aproximado dependiendo de la vereda es de entre 15 mil y 20 mil pesos. Muchas de las personas tienen motos y pueden usarlas para bajar, sin embargo, lo evitan por que estas no tienen la documentación en regla y en el pasado han presentado problemas con las autoridades de tránsito. 
+
+ 
+
+ 
+
+La principal barrera para el acceso al mercado para estas comunidades tiene que ver con la pérdida de poder adquisitivo, derivada de las afectaciones a sus medios de vida. Adicionalmente, debido al riesgo por la presencia del GANE, y a las extorsiones que este actor cobra a los transportadores; ha disminuido la cantidad de vehículos que suben a las veredas a abastecer tiendas y comprar productos. Esto ha llevado a que la mayoría de los productos que se consiguen en las veredas aumenten su costo. También se nos informó respecto a restricciones horarias tanto para el tránsito en la vía como para el funcionamiento de los comercios. Después de las 8 de la noche todo debe estar cerrado.  
+
+En cuanto a los canales de transferencia, se identificaron operadores financieros en La Argentina, Gallego, Villa Losada y La Plata. Se considera que en estos lugares existe suficiente capacidad para realizar una distribución de efectivo para la comunidad. Sin embargo, antes de tomar la decisión de activación es importante considerar y sopesar los riesgos que existen en cuanto a la movilidad y las extorsiones en el territorio.
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => Se encontraron condiciones y capacidades del mercado para distribuir transferencias monetarias. Sin embargo se deben tener en cuenta los riesgos altos de extorsión a estas comunidades a la hora de movilizarse hacia las cabeceras municipales
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => Se recomienda hacer seguimiento a la situación y evaluar los riesgos que se pueden presentar en torno a la posible extorsión de las comunidades. Se debe mirar esto a la luz de las estrategias de mitigación
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => Libre circulación de mercancías / suministros dentro y fuera del área:
+
+Debido al control armado del GANE se ha visto afectada la libre circulación de mercancías. Se han presentado extorsiones a los transportadores de mercancías lo que ha afectado el abastecimiento y ha incrementado precios de los productos en las veredas. Ahora suben menos transportadores, también por eso han bajado los precios a los que le compran productos como el café, la mora y el lulo a los campesinos. Esta situación ha tenido afectaciones sobre los medios de vida de estas personas. A pesar de esto algunos vehículos todavía suben siempre que paguen las extorsiones.
+
+​
+
+La oferta puede satisfacer la demanda mínima:
+
+En las veredas las tiendas han visto afectado su abastecimiento y las personas su capacidad de compra, pues han visto afectados sus medios de vida. Sin embargo, en la cabecera municipal el mercado está operando de manera normal. En ocasiones se dirigen a la cabecera municipal de La Plata para abastecerse, aunque esto implica riesgos.
+
+La población objetivo puede satisfacer las necesidades de forma segura a través de los mercados:
+
+La diversidad y bienes que se conseguían antes ya no se encuentra disponible debido a esta emergencia. En las veredas hay algunos problemas de acceso. En general las comunidades se han alimentado con sus cultivos y algunas compras. El principal problema de acceso a los mercados tiene que ver con las afectaciones a los medios de vida que han experimentado estas comunidades.
+    [group_aa8xg30/BrechasInformacion] => Es posible que debido a la presencia de miembros del GANE durante algunas reuniones las comunidades decidieran no mencionar algunas cosas. Sin embargo, pudimos verificar la situación en el territorio y recoger suficiente información para identificar necesidades en las veredas.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 300
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 18
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 18
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 0
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_ys9jk69/_0_Personas_que_participaron_e] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => n/a
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => N/A
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => N/A
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => N/A
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => N/A
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => N/A
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => N/A
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => N/A
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => N/A
+    [group_aa0qz67/group_de0zc49/_3b_Tel_fono_1] => N/A
+    [group_aa0qz67/group_de0zc49/_3d_Celular] => N/A
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => N/A
+    [group_sp7cc00/Observaciones_adicionales] => Las reuniones se desarrollaron en cada vereda con el apoyo de los liderazgos comunitarios. En caso de requerir la información de contacto de los lideres por favor ponerse en contacto con Diana Holguín.
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:38b37fa2-efcd-4471-bf18-22d93bd8de93
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 38b37fa2-efcd-4471-bf18-22d93bd8de93
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-09-19T00:53:41
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

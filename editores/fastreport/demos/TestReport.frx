@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="04/27/2015 19:26:42" ReportInfo.Modified="04/27/2015 19:48:18" ReportInfo.CreatorVersion="2015.2.6.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="DespatchHeader" ReferenceName="DespatchHeader" DataType="null" Enabled="true">
+      <Column Name="DespatchId" DataType="System.Int32"/>
+      <Column Name="DespatchNumber" DataType="System.String"/>
+      <Column Name="LoadReference" Enabled="false" DataType="System.String"/>
+      <Column Name="Carrier" DataType="null">
+        <Column Name="CarrierId" DataType="System.Int32"/>
+        <Column Name="Name" DataType="System.String"/>
+        <Column Name="Active" DataType="System.Boolean" BindableControl="CheckBox"/>
+        <Column Name="Reference" DataType="System.String"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource36" Alias="GoodsIns" Enabled="false" DataType="null" PropName="GoodsIns"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource37" Alias="Despatches" Enabled="false" DataType="null" PropName="Despatches"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource38" Alias="ServiceTypes" Enabled="false" DataType="null" PropName="ServiceTypes"/>
+        <Column Name="State" DataType="null"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource39" Alias="ChangedProperties" Enabled="false" DataType="null" PropName="ChangedProperties"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource40" Alias="ExtendedProperties" Enabled="false" DataType="null" PropName="ExtendedProperties"/>
+        <Column Name="DateTimeFormatUserSetting" DataType="System.String"/>
+        <Column Name="DateFormatUserSetting" DataType="System.String"/>
+        <Column Name="TimeZoneInfoIdUserSetting" DataType="System.String"/>
+        <Column Name="RecordId" DataType="System.Int32"/>
+      </Column>
+      <Column Name="CarrierId" Enabled="false" DataType="System.Nullable`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"/>
+      <Column Name="DespatchType" DataType="null">
+        <Column Name="DespatchTypeId" DataType="System.Int32"/>
+        <Column Name="TypeName" DataType="System.String"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource41" Alias="Despatches" Enabled="false" DataType="null" PropName="Despatches"/>
+        <Column Name="State" DataType="null"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource42" Alias="ChangedProperties" Enabled="false" DataType="null" PropName="ChangedProperties"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource43" Alias="ExtendedProperties" Enabled="false" DataType="null" PropName="ExtendedProperties"/>
+        <Column Name="DateTimeFormatUserSetting" DataType="System.String"/>
+        <Column Name="DateFormatUserSetting" DataType="System.String"/>
+        <Column Name="TimeZoneInfoIdUserSetting" DataType="System.String"/>
+        <Column Name="RecordId" DataType="System.Int32"/>
+      </Column>
+      <Column Name="NumberOfPackages" DataType="System.Nullable`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"/>
+      <Column Name="SalesOrderId" DataType="System.Int32"/>
+      <Column Name="ServiceType" DataType="null">
+        <Column Name="ServiceTypeId" DataType="System.Int32"/>
+        <Column Name="CarrierId" DataType="System.Int32"/>
+        <Column Name="Name" DataType="System.String"/>
+        <Column Name="Code" DataType="System.String"/>
+        <Column Name="OutboundReference" DataType="System.String"/>
+        <Column Name="Carrier" Enabled="false" DataType="null"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource44" Alias="Despatches" Enabled="false" DataType="null" PropName="Despatches"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource45" Alias="SalesOrders" Enabled="false" DataType="null" PropName="SalesOrders"/>
+        <Column Name="State" DataType="null"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource46" Alias="ChangedProperties" Enabled="false" DataType="null" PropName="ChangedProperties"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource47" Alias="ExtendedProperties" Enabled="false" DataType="null" PropName="ExtendedProperties"/>
+        <Column Name="DateTimeFormatUserSetting" DataType="System.String"/>
+        <Column Name="DateFormatUserSetting" DataType="System.String"/>
+        <Column Name="TimeZoneInfoIdUserSetting" DataType="System.String"/>
+        <Column Name="RecordId" DataType="System.Int32"/>
+      </Column>
+      <Column Name="TrackingNumber" DataType="System.String"/>
+      <Column Name="User" Enabled="false" DataType="null">
+        <Column Name="ScreenName" DataType="System.String"/>
+        <Column Name="PasswordText" DataType="System.String"/>
+        <Column Name="NumberOfUsersUserSetting" DataType="System.Int32"/>
+        <Column Name="ZplUser" Enabled="false" DataType="null"/>
+        <Column Name="UserId" DataType="System.Int32"/>
+        <Column Name="Username" DataType="System.String"/>
+        <Column Name="Password" DataType="System.Byte[]" BindableControl="Picture"/>
+        <Column Name="Active" DataType="System.Boolean" BindableControl="CheckBox"/>
+        <Column Name="RoleId" DataType="System.Int32"/>
+        <Column Name="DisplayName" DataType="System.String"/>
+        <Column Name="Email" DataType="System.String"/>
+        <Column Name="ExpiryDate" DataType="System.Nullable`1[[System.DateTime, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"/>
+        <Column Name="ExpiryDateLocalDateString" DataType="System.String"/>
+        <Column Name="ExpiryDateLocalDateTimeString" DataType="System.String"/>
+        <Column Name="IsSystem" DataType="System.Boolean" BindableControl="CheckBox"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource48" Alias="NonSerializedInventoryItemMovementHistories" Enabled="false" DataType="null" PropName="NonSerializedInventoryItemMovementHistories"/>
+        <Column Name="Role" Enabled="false" DataType="null"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource49" Alias="Traces" Enabled="false" DataType="null" PropName="Traces"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource50" Alias="UserFilters" Enabled="false" DataType="null" PropName="UserFilters"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource51" Alias="UserSessions" Enabled="false" DataType="null" PropName="UserSessions"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource52" Alias="PurchaseOrders" Enabled="false" DataType="null" PropName="PurchaseOrders"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource53" Alias="GoodsIns" Enabled="false" DataType="null" PropName="GoodsIns"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource54" Alias="ContainerMovementHistories" Enabled="false" DataType="null" PropName="ContainerMovementHistories"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource55" Alias="Reports" Enabled="false" DataType="null" PropName="Reports"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource56" Alias="PrintRequests" Enabled="false" DataType="null" PropName="PrintRequests"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource57" Alias="StockTakeHolders" Enabled="false" DataType="null" PropName="StockTakeHolders"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource58" Alias="Picks" Enabled="false" DataType="null" PropName="Picks"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource59" Alias="IntegrationTemplates" Enabled="false" DataType="null" PropName="IntegrationTemplates"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource60" Alias="Despatches" Enabled="false" DataType="null" PropName="Despatches"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource61" Alias="ReportShares" Enabled="false" DataType="null" PropName="ReportShares"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource62" Alias="AssetHistories" Enabled="false" DataType="null" PropName="AssetHistories"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource63" Alias="AssetSerializedItems" Enabled="false" DataType="null" PropName="AssetSerializedItems"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource64" Alias="SalesOrders" Enabled="false" DataType="null" PropName="SalesOrders"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource65" Alias="SalesOrderHistories" Enabled="false" DataType="null" PropName="SalesOrderHistories"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource66" Alias="StockTakeHistories" Enabled="false" DataType="null" PropName="StockTakeHistories"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource67" Alias="Returns" Enabled="false" DataType="null" PropName="Returns"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource68" Alias="EventSubscriptions" Enabled="false" DataType="null" PropName="EventSubscriptions"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource69" Alias="DespatchHandlers" Enabled="false" DataType="null" PropName="DespatchHandlers"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource70" Alias="ActionGroups" Enabled="false" DataType="null" PropName="ActionGroups"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource71" Alias="ActionGroupsLockedBy" Enabled="false" DataType="null" PropName="ActionGroupsLockedBy"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource72" Alias="ActionDetails" Enabled="false" DataType="null" PropName="ActionDetails"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource73" Alias="PrintTemplateRules" Enabled="false" DataType="null" PropName="PrintTemplateRules"/>
+        <Column Name="UserSetting" Enabled="false" DataType="null"/>
+        <Column Name="State" DataType="null"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource74" Alias="ChangedProperties" Enabled="false" DataType="null" PropName="ChangedProperties"/>
+        <BusinessObjectDataSource Name="BusinessObjectDataSource75" Alias="ExtendedProperties" Enabled="false" DataType="null" PropName="ExtendedProperties"/>
+        <Column Name="DateTimeFormatUserSetting" DataType="System.String"/>
+        <Column Name="DateFormatUserSetting" DataType="System.String"/>
+        <Column Name="TimeZoneInfoIdUserSetting" DataType="System.String"/>
+        <Column Name="RecordId" DataType="System.Int32"/>
+      </Column>
+      <Column Name="SalesOrderNumber" DataType="System.String"/>
+    </BusinessObjectDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="37.8"/>
+    <PageHeaderBand Name="PageHeader1" Top="41.8" Width="718.2" Height="28.35"/>
+    <DataBand Name="Data1" Top="74.15" Width="718.2" Height="113.4"/>
+    <PageFooterBand Name="PageFooter1" Top="191.55" Width="718.2" Height="18.9"/>
+  </ReportPage>
+</Report>

@@ -1,0 +1,2762 @@
+2022-08-28 08:29:37|190.120.254.166|medico|medico|001599|EDUARDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/medico/herramientas/impresora/impresora_new.php?origen=reportes/r_recipe&db=medico&SERVERPATH=http://172.17.0.1/medico/&ID_M_RECIPES=0013&compress=1&id_m_usuario=001599&log_USER_ID=001599&log_USER_NAME=EDUARDO&log_SISTEMA=medico&log_SISTEMA_DB=medico&viewer=1
+Array
+(
+    [origen] => reportes/r_recipe
+    [db] => medico
+    [SERVERPATH] => http://172.17.0.1/medico/
+    [ID_M_RECIPES] => 0013
+    [compress] => 1
+    [id_m_usuario] => 001599
+    [viewer] => 1
+)
+
+2022-08-28 08:32:21|190.120.254.166|medico|medico|001599|EDUARDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/medico/herramientas/impresora/impresora_new.php?origen=reportes/r_recipe&db=medico&SERVERPATH=http://172.17.0.1/medico/&ID_M_RECIPES=0013&compress=1&id_m_usuario=001599&log_USER_ID=001599&log_USER_NAME=EDUARDO&log_SISTEMA=medico&log_SISTEMA_DB=medico&viewer=1
+Array
+(
+    [origen] => reportes/r_recipe
+    [db] => medico
+    [SERVERPATH] => http://172.17.0.1/medico/
+    [ID_M_RECIPES] => 0013
+    [compress] => 1
+    [id_m_usuario] => 001599
+    [viewer] => 1
+)
+
+2022-08-28 08:35:33|190.120.254.166|medico|medico|001599|EDUARDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/medico/herramientas/impresora/impresora_new.php?origen=reportes/r_recipe&db=medico&SERVERPATH=http://172.17.0.1/medico/&ID_M_RECIPES=0013&compress=1&id_m_usuario=001599&log_USER_ID=001599&log_USER_NAME=EDUARDO&log_SISTEMA=medico&log_SISTEMA_DB=medico&viewer=1
+Array
+(
+    [origen] => reportes/r_recipe
+    [db] => medico
+    [SERVERPATH] => http://172.17.0.1/medico/
+    [ID_M_RECIPES] => 0013
+    [compress] => 1
+    [id_m_usuario] => 001599
+    [viewer] => 1
+)
+
+2022-08-28 08:51:54|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00137&ID_M_CAJAS=0011&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_ARQUEOS] => 00137
+    [ID_M_CAJAS] => 0011
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 09:16:07|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152667&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152667
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 09:19:25|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00138&ID_M_CAJAS=0011&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_ARQUEOS] => 00138
+    [ID_M_CAJAS] => 0011
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 09:22:39|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152667&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152667
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 09:25:16|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152667&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152667
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 09:25:39|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-26&FECHA_HASTA=2022-08-26&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-26&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-26&ID_M_LINEAS=&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+Array
+(
+    [origen] => reportes/r_venta_producto
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => https://desarrollo.sistemas24.com/farmacia_bosqueserino/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-26
+    [FECHA_HASTA] => 2022-08-26
+    [ID_M_LINEAS] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RELACION DE VENTAS POR PRODUCTO
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+    [title] => RELACION DE VENTAS POR PRODUCTO
+)
+
+2022-08-28 09:30:35|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-27&FECHA_HASTA=2022-08-27&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-27&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-27&ID_M_LINEAS=&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+Array
+(
+    [origen] => reportes/r_venta_producto
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => https://desarrollo.sistemas24.com/farmacia_bosqueserino/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-27
+    [FECHA_HASTA] => 2022-08-27
+    [ID_M_LINEAS] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RELACION DE VENTAS POR PRODUCTO
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+    [title] => RELACION DE VENTAS POR PRODUCTO
+)
+
+2022-08-28 09:31:59|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152668&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152668
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 09:34:20|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152668&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152668
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 09:34:23|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152668&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152668
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 09:50:12|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152669&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152669
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 09:51:28|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152669&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152669
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 09:51:33|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152669&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152669
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 09:58:51|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152670&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152670
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 10:00:11|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152670&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152670
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 10:00:14|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152670&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152670
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 10:00:51|45.232.32.244|globalcargo|globalcargo|00110611|REQUENA CRISTOPHER|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152670&compress=0&compress=1&id_m_usuario=00110611&log_USER_ID=00110611&log_USER_NAME=REQUENA+CRISTOPHER&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152670
+    [compress] => 1
+    [id_m_usuario] => 00110611
+    [viewer] => 1
+)
+
+2022-08-28 10:08:01|181.198.69.250|yobel|yobel|0011002|DIPASO 9 DE OCTUBRE Y B. MORENO|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112435&compress=1&id_m_usuario=0011002&log_USER_ID=0011002&log_USER_NAME=DIPASO+9+DE+OCTUBRE+Y+B.+MORENO&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112435
+    [compress] => 1
+    [id_m_usuario] => 0011002
+    [viewer] => 1
+)
+
+2022-08-28 10:11:27|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152671&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152671
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:15:31|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152671&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152671
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:15:35|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152671&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152671
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:15:45|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152672&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152672
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 10:17:52|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152672&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152672
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 10:18:20|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152672&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152672
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 10:18:54|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014070&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014070
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 10:34:36|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152673&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152673
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:35:41|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152673&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152673
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:37:47|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152673&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152673
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:38:00|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152673&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152673
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:43:17|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152674&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152674
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:44:38|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152674&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152674
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:44:58|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152674&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152674
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:45:18|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152674&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152674
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:45:44|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152674&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152674
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 10:49:23|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-28&FECHA_HASTA=2022-08-28&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-28&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-28&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+Array
+(
+    [origen] => reportes/r_venta_producto
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => https://desarrollo.sistemas24.com/farmacia_bosqueserino/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-28
+    [FECHA_HASTA] => 2022-08-28
+    [ID_M_LINEAS] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RELACION DE VENTAS POR PRODUCTO
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+    [title] => RELACION DE VENTAS POR PRODUCTO
+)
+
+2022-08-28 10:54:01|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014071&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014071
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 11:02:15|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152676&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152676
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:05:12|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152676&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152676
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:05:17|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152676&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152676
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:11:18|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014072&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014072
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 11:15:30|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152677&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152677
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:17:03|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152677&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152677
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:17:20|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152677&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152677
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:25:17|190.120.252.225|karizmi|karizmi|001210|POLANCO AILYM|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_pedido_ticket&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128966&TITULO=ticket&PEDIDO_ORDENADO_POR=&PEDIDO_PRECIO1=&PEDIDO_PRECIO_ADICIONAL=&PEDIDO_MONTO_FLETE=&PEDIDO_MONTO_RECARGO=&PEDIDO_MONTO_TOTAL=&PEDIDO_NOMBRE_PRIORIDAD=&compress=0&id_m_usuario=001210&log_USER_ID=001210&log_USER_NAME=POLANCO+AILYM&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=0
+Array
+(
+    [origen] => reportes/r_pedido_ticket
+    [db] => karizmi
+    [SERVERPATH] => http://172.17.0.1/karizmi/
+    [ID_M_ORDENES_PRODUCCION] => 00128966
+    [TITULO] => ticket
+    [PEDIDO_ORDENADO_POR] => 
+    [PEDIDO_PRECIO1] => 
+    [PEDIDO_PRECIO_ADICIONAL] => 
+    [PEDIDO_MONTO_FLETE] => 
+    [PEDIDO_MONTO_RECARGO] => 
+    [PEDIDO_MONTO_TOTAL] => 
+    [PEDIDO_NOMBRE_PRIORIDAD] => 
+    [compress] => 0
+    [id_m_usuario] => 001210
+    [viewer] => 0
+)
+
+2022-08-28 11:35:16|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152675&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152675
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 11:35:48|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152678&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152678
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:37:04|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152675&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152675
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 11:37:46|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152678&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152678
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:38:01|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152349&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152349
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 11:38:05|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152678&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152678
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:38:29|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152662&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152662
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 11:39:31|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152675&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152675
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 11:40:15|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152675&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152675
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 11:41:12|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152679&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152679
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 11:42:10|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152679&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152679
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 11:42:24|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152679&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152679
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 11:43:05|190.120.252.225|karizmi|karizmi|001207|LUCENA MORA DAIRLEN ANDREINA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128967&compress=1&id_m_usuario=001207&log_USER_ID=001207&log_USER_NAME=LUCENA+MORA+DAIRLEN+ANDREINA&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1
+Array
+(
+    [origen] => reportes/r_orden_entrega
+    [db] => karizmi
+    [SERVERPATH] => http://172.17.0.1/karizmi/
+    [ID_M_ORDENES_PRODUCCION] => 00128967
+    [compress] => 1
+    [id_m_usuario] => 001207
+    [viewer] => 1
+)
+
+2022-08-28 11:43:53|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152675&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152675
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 11:44:55|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152679&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152679
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 11:45:05|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152680&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152680
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:45:27|45.232.32.244|globalcargo|globalcargo|00113659|ROA JOSEPH|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152679&compress=0&compress=1&id_m_usuario=00113659&log_USER_ID=00113659&log_USER_NAME=ROA+JOSEPH&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152679
+    [compress] => 1
+    [id_m_usuario] => 00113659
+    [viewer] => 1
+)
+
+2022-08-28 11:45:33|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152679&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152679
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:47:35|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152680&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152680
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:48:01|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152680&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152680
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 11:57:20|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152681&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152681
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:01:54|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152681&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152681
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:02:34|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152681&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152681
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:05:19|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152682&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152682
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:05:41|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152682&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152682
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:06:39|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152682&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152682
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:08:43|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152682&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152682
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:09:01|190.120.252.225|karizmi|karizmi|001207|LUCENA MORA DAIRLEN ANDREINA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128967&compress=1&id_m_usuario=001207&log_USER_ID=001207&log_USER_NAME=LUCENA+MORA+DAIRLEN+ANDREINA&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1
+Array
+(
+    [origen] => reportes/r_orden_entrega
+    [db] => karizmi
+    [SERVERPATH] => http://172.17.0.1/karizmi/
+    [ID_M_ORDENES_PRODUCCION] => 00128967
+    [compress] => 1
+    [id_m_usuario] => 001207
+    [viewer] => 1
+)
+
+2022-08-28 12:11:15|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152682&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152682
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:13:08|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152682&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152682
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:16:12|190.120.252.225|karizmi|karizmi|001207|LUCENA MORA DAIRLEN ANDREINA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_entrega&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&ID_M_ORDENES_PRODUCCION=00128968&compress=1&id_m_usuario=001207&log_USER_ID=001207&log_USER_NAME=LUCENA+MORA+DAIRLEN+ANDREINA&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1
+Array
+(
+    [origen] => reportes/r_orden_entrega
+    [db] => karizmi
+    [SERVERPATH] => http://172.17.0.1/karizmi/
+    [ID_M_ORDENES_PRODUCCION] => 00128968
+    [compress] => 1
+    [id_m_usuario] => 001207
+    [viewer] => 1
+)
+
+2022-08-28 12:19:35|45.232.32.244|globalcargo|globalcargo|00119673|SANTIAGO PICK UP1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152683&compress=0&compress=1&id_m_usuario=00119673&log_USER_ID=00119673&log_USER_NAME=SANTIAGO+PICK+UP1&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152683
+    [compress] => 1
+    [id_m_usuario] => 00119673
+    [viewer] => 1
+)
+
+2022-08-28 12:19:52|45.232.32.244|globalcargo|globalcargo|00119673|SANTIAGO PICK UP1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152683&compress=0&compress=1&id_m_usuario=00119673&log_USER_ID=00119673&log_USER_NAME=SANTIAGO+PICK+UP1&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152683
+    [compress] => 1
+    [id_m_usuario] => 00119673
+    [viewer] => 1
+)
+
+2022-08-28 12:20:52|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152683&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152683
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:22:13|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152685&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152685
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 12:22:45|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152685&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152685
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 12:23:47|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152685&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152685
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 12:24:16|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152685&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152685
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 12:26:28|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152686&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152686
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:26:55|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152684&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152684
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 12:29:10|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152686&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152686
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:29:16|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152684&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152684
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 12:29:20|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152687&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152687
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 12:31:04|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152686&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152686
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:31:17|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152684&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152684
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 12:35:15|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152687&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152687
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 12:36:41|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152688&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152688
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:38:46|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152689&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152689
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 12:38:59|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152688&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152688
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:39:01|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152688&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152688
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:39:14|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152690&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152690
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 12:39:30|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152689&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152689
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 12:41:04|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152690&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152690
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 12:41:22|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152688&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152688
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:41:44|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152687&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152687
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:42:11|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152690&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152690
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 12:43:00|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152689&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152689
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 13:08:40|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152692&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152692
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:09:29|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152691&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152691
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 13:10:58|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152693&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152693
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:11:17|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152691&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152691
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 13:11:27|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152692&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152692
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:11:29|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152691&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152691
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 13:11:35|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152692&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152692
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:13:05|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152693&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152693
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:13:10|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152693&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152693
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:14:12|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152691&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152691
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 13:15:23|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152691&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152691
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 13:18:14|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152694&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152694
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:19:45|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152694&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152694
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:19:54|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152694&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152694
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:30:27|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152695&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152695
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 13:32:36|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152695&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152695
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 13:32:53|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152695&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152695
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:37:44|190.120.252.225|karizmi|karizmi|001207|LUCENA MORA DAIRLEN ANDREINA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/karizmi/herramientas/impresora/impresora_new.php?origen=reportes/r_arreglos&db=karizmi&SERVERPATH=http://172.17.0.1/karizmi/&letras=1&FECHA_DESDE=2022-08-28&FECHA_HASTA=2022-08-28&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/karizmi/&FECHA_DESDE=2022-08-28&TITULO=REPORTE%20DE%20ARREGLOS%20POR%20PERIODO&FECHA_HASTA=2022-08-28&compress=1&id_m_usuario=001207&log_USER_ID=001207&log_USER_NAME=LUCENA+MORA+DAIRLEN+ANDREINA&log_SISTEMA=karizmi&log_SISTEMA_DB=karizmi&viewer=1&title=REPORTE%20DE%20ARREGLOS%20POR%20PERIODO
+Array
+(
+    [origen] => reportes/r_arreglos
+    [db] => karizmi
+    [SERVERPATH] => https://desarrollo.sistemas24.com/karizmi/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-28
+    [FECHA_HASTA] => 2022-08-28
+    [xconfig] => {$x_config}
+    [TITULO] => REPORTE DE ARREGLOS POR PERIODO
+    [compress] => 1
+    [id_m_usuario] => 001207
+    [viewer] => 1
+    [title] => REPORTE DE ARREGLOS POR PERIODO
+)
+
+2022-08-28 13:39:57|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014079&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014079
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 13:42:57|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152697&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152697
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 13:43:16|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152697&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152697
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 13:43:54|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152696&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152696
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 13:45:09|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152697&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152697
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 13:45:15|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152696&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152696
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 13:46:46|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152696&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152696
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 13:46:56|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152697&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152697
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 13:49:59|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152697&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152697
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 13:53:10|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014082&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014082
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 13:54:37|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014083&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014083
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 13:55:40|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014084&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014084
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 14:00:34|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152698&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152698
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:02:55|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152698&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152698
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:03:39|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152698&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152698
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:10:04|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014085&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014085
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 14:11:08|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152696&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152696
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 14:11:29|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152696&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152696
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 14:13:01|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152696&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152696
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 14:13:14|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152699&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152699
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:14:47|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152700&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152700
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:15:12|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152700&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152700
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:15:55|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152699&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152699
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:16:29|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152700&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152700
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:21:17|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152701&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152701
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 14:22:00|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152701&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152701
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 14:22:49|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014086&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014086
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 14:23:59|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014085&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014085
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+)
+
+2022-08-28 14:29:08|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152701&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152701
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 14:29:30|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152702&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152702
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:31:29|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152702&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152702
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:31:54|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152702&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152702
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:32:21|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152700&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152700
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:32:26|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152702&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152702
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 14:32:30|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152703&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152703
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 14:37:58|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152703&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152703
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 14:38:06|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014079&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014079
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 14:38:29|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152702&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152702
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:38:34|190.120.254.166|medico|medico|001599|EDUARDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/medico/herramientas/impresora/impresora_new.php?origen=reportes/r_evolucion&db=medico&SERVERPATH=http://172.17.0.1/medico/&ID_M_PACIENTES=undefined&ID_M_EVOLUCIONES_DETALLE=0011&compress=1&id_m_usuario=001599&log_USER_ID=001599&log_USER_NAME=EDUARDO&log_SISTEMA=medico&log_SISTEMA_DB=medico&viewer=1
+Array
+(
+    [origen] => reportes/r_evolucion
+    [db] => medico
+    [SERVERPATH] => http://172.17.0.1/medico/
+    [ID_M_PACIENTES] => undefined
+    [ID_M_EVOLUCIONES_DETALLE] => 0011
+    [compress] => 1
+    [id_m_usuario] => 001599
+    [viewer] => 1
+)
+
+2022-08-28 14:38:37|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152699&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152699
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:38:41|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152704&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152704
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:38:46|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152703&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152703
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 14:39:08|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014082&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014082
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 14:39:28|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152704&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152704
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:39:59|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152704&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152704
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:40:29|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014079&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014079
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 14:41:00|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152685&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152685
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 14:41:05|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014083&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014083
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 14:42:41|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014084&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014084
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 14:43:47|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014085&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014085
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 14:44:42|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001228|MORA LOREDANA|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014086&compress=1&id_m_usuario=001228&log_USER_ID=001228&log_USER_NAME=MORA+LOREDANA&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014086
+    [compress] => 1
+    [id_m_usuario] => 001228
+    [viewer] => 1
+)
+
+2022-08-28 14:52:15|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_fact_carta_gra&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_DOCUMENTOS=0014088&compress=0&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=0
+Array
+(
+    [origen] => reportes/r_documento_fact_carta_gra
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_DOCUMENTOS] => 0014088
+    [compress] => 0
+    [id_m_usuario] => 001226
+    [viewer] => 0
+)
+
+2022-08-28 14:53:38|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152705&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152705
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:54:29|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152705&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152705
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 14:55:16|45.232.32.244|globalcargo|globalcargo|00125994|REINA REINALDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152705&compress=0&compress=1&id_m_usuario=00125994&log_USER_ID=00125994&log_USER_NAME=REINA+REINALDO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152705
+    [compress] => 1
+    [id_m_usuario] => 00125994
+    [viewer] => 1
+)
+
+2022-08-28 15:05:33|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152707&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152707
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 15:06:02|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152708&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152708
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:06:11|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152707&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152707
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 15:06:43|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152706&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152706
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:07:38|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152708&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152708
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:07:55|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152707&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152707
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 15:08:11|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152708&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152708
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:09:36|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152706&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152706
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:11:48|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152709&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152709
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 15:12:21|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152706&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152706
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:14:30|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152709&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152709
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 15:14:48|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152709&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152709
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 15:28:34|190.101.181.232|globalcargo|globalcargo|0018845|ABREU EFRAIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152685&compress=0&compress=1&id_m_usuario=0018845&log_USER_ID=0018845&log_USER_NAME=ABREU+EFRAIN&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152685
+    [compress] => 1
+    [id_m_usuario] => 0018845
+    [viewer] => 1
+)
+
+2022-08-28 15:31:06|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152710&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152710
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:31:54|45.232.32.244|globalcargo|globalcargo|0015124|RAMIREZ ALEJANDRO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152710&compress=0&compress=1&id_m_usuario=0015124&log_USER_ID=0015124&log_USER_NAME=RAMIREZ+ALEJANDRO&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152710
+    [compress] => 1
+    [id_m_usuario] => 0015124
+    [viewer] => 1
+)
+
+2022-08-28 15:33:17|181.198.69.250|yobel|yobel|0011001|DIPASO 9 DE OCTUBRE Y BOYACA|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&ID_M_GUIAS=00112436&compress=1&id_m_usuario=0011001&log_USER_ID=0011001&log_USER_NAME=DIPASO+9+DE+OCTUBRE+Y+BOYACA&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [ID_M_GUIAS] => 00112436
+    [compress] => 1
+    [id_m_usuario] => 0011001
+    [viewer] => 1
+)
+
+2022-08-28 15:59:40|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152711&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152711
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 16:00:30|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152711&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152711
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 16:04:14|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152711&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152711
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 16:05:26|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152709&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152709
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 16:07:48|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152711&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152711
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 16:32:50|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152712&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152712
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 16:34:50|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152712&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152712
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 16:35:21|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152712&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152712
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 17:25:29|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152713&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152713
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 17:29:03|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152713&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152713
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 17:29:31|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152713&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152713
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 18:36:00|190.120.254.166|medico|medico|001599|EDUARDO|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/medico/herramientas/impresora/impresora_new.php?origen=reportes/r_recipe&db=medico&SERVERPATH=http://172.17.0.1/medico/&ID_M_RECIPES=0013&compress=1&id_m_usuario=001599&log_USER_ID=001599&log_USER_NAME=EDUARDO&log_SISTEMA=medico&log_SISTEMA_DB=medico&viewer=1
+Array
+(
+    [origen] => reportes/r_recipe
+    [db] => medico
+    [SERVERPATH] => http://172.17.0.1/medico/
+    [ID_M_RECIPES] => 0013
+    [compress] => 1
+    [id_m_usuario] => 001599
+    [viewer] => 1
+)
+
+2022-08-28 18:45:16|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152714&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152714
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 18:48:20|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152714&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152714
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 18:48:43|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152714&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152714
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:00:46|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152715&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152715
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:01:52|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152715&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152715
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:03:02|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152715&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152715
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:03:59|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152715&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152715
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:24:42|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152716&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152716
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:26:29|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152716&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152716
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:27:24|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152716&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152716
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:40:57|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152717&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152717
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:44:07|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152717&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152717
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:45:18|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_factura&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152717&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_factura
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152717
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 19:45:36|152.173.73.17|globalcargo|globalcargo|0019495|FERRER NESTOR|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/globalcargo/herramientas/impresora/impresora_new.php?origen=reportes/r_guia_etiqueta&db=globalcargo&SERVERPATH=http://172.17.0.1/globalcargo/&ID_M_GUIAS=00152717&compress=0&compress=1&id_m_usuario=0019495&log_USER_ID=0019495&log_USER_NAME=FERRER+NESTOR&log_SISTEMA=globalcargo&log_SISTEMA_DB=globalcargo&viewer=1
+Array
+(
+    [origen] => reportes/r_guia_etiqueta
+    [db] => globalcargo
+    [SERVERPATH] => http://172.17.0.1/globalcargo/
+    [ID_M_GUIAS] => 00152717
+    [compress] => 1
+    [id_m_usuario] => 0019495
+    [viewer] => 1
+)
+
+2022-08-28 20:03:08|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_venta_producto&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&letras=1&FECHA_DESDE=2022-08-28&FECHA_HASTA=2022-08-28&ID_M_LINEAS=&xconfig={$x_config}&SERVERPATH=https://desarrollo.sistemas24.com/farmacia_bosqueserino/&FECHA_DESDE=2022-08-28&TITULO=RELACION%20DE%20VENTAS%20POR%20PRODUCTO&FECHA_HASTA=2022-08-28&ID_M_LINEAS=&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1&title=RELACION%20DE%20VENTAS%20POR%20PRODUCTO
+Array
+(
+    [origen] => reportes/r_venta_producto
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => https://desarrollo.sistemas24.com/farmacia_bosqueserino/
+    [letras] => 1
+    [FECHA_DESDE] => 2022-08-28
+    [FECHA_HASTA] => 2022-08-28
+    [ID_M_LINEAS] => 
+    [xconfig] => {$x_config}
+    [TITULO] => RELACION DE VENTAS POR PRODUCTO
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+    [title] => RELACION DE VENTAS POR PRODUCTO
+)
+
+2022-08-28 20:04:04|157.100.170.197|yobel|yobel|0011118|FARMER CZ YOBEL|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_guias_detalles&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&FECHA_DESDE=undefined/undefined/25/08/2022&FECHA_HASTA=undefined/undefined/28/08/2022&fecha_desde=25/08/2022&fecha_hasta=28/08/2022&ID_D_CLIENTES=00110&TITULO=RELACION%20DE%20GUIAS&compress=1&id_m_usuario=0011118&log_USER_ID=0011118&log_USER_NAME=FARMER+CZ+YOBEL&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_guias_detalles
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [FECHA_DESDE] => undefined/undefined/25/08/2022
+    [FECHA_HASTA] => undefined/undefined/28/08/2022
+    [fecha_desde] => 25/08/2022
+    [fecha_hasta] => 28/08/2022
+    [ID_D_CLIENTES] => 00110
+    [TITULO] => RELACION DE GUIAS
+    [compress] => 1
+    [id_m_usuario] => 0011118
+    [viewer] => 1
+)
+
+2022-08-28 20:16:09|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_detalle_paquete&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_PAQUETES=00147&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_detalle_paquete
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_PAQUETES] => 00147
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+)
+
+2022-08-28 20:17:52|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00139&ID_M_CAJAS=0011&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_ARQUEOS] => 00139
+    [ID_M_CAJAS] => 0011
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+)
+
+2022-08-28 20:20:14|190.153.82.121|farmacia_bosqueserino|farmacia_bosqueserino|001226|CAJA 1|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/farmacia_bosqueserino/herramientas/impresora/impresora_new.php?origen=reportes/r_arqueos&db=farmacia_bosqueserino&SERVERPATH=http://172.17.0.1/farmacia_bosqueserino/&ID_M_ARQUEOS=00140&ID_M_CAJAS=0011&compress=1&id_m_usuario=001226&log_USER_ID=001226&log_USER_NAME=CAJA+1&log_SISTEMA=farmacia_bosqueserino&log_SISTEMA_DB=farmacia_bosqueserino&viewer=1
+Array
+(
+    [origen] => reportes/r_arqueos
+    [db] => farmacia_bosqueserino
+    [SERVERPATH] => http://172.17.0.1/farmacia_bosqueserino/
+    [ID_M_ARQUEOS] => 00140
+    [ID_M_CAJAS] => 0011
+    [compress] => 1
+    [id_m_usuario] => 001226
+    [viewer] => 1
+)
+
+2022-08-28 20:36:34|181.117.11.126|guarico_bkp|guarico_bkp|00150|FRANCO IBARRA JESUS BENJAMIN|https://desarrollo.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/guarico_bkp/herramientas/impresora/impresora_new.php?origen=reportes/r_orden_carga&db=guarico_bkp&SERVERPATH=http://172.17.0.1/guarico_bkp/&ID_M_PEDIDOS=0014051&TITULO=ORDEN%20DE%20CARGA&letras=1&compress=1&id_m_usuario=00150&log_USER_ID=00150&log_USER_NAME=FRANCO+IBARRA+JESUS+BENJAMIN&log_SISTEMA=guarico_bkp&log_SISTEMA_DB=guarico_bkp&viewer=1
+Array
+(
+    [origen] => reportes/r_orden_carga
+    [db] => guarico_bkp
+    [SERVERPATH] => http://172.17.0.1/guarico_bkp/
+    [ID_M_PEDIDOS] => 0014051
+    [TITULO] => ORDEN DE CARGA
+    [letras] => 1
+    [compress] => 1
+    [id_m_usuario] => 00150
+    [viewer] => 1
+)
+
+2022-08-28 23:40:40|45.164.67.5|yobel|yobel|001924|DANIEL ALEJANDRO BENAVIDES AMAYA|https://yobel.sistemas24.com/herramientas/reporte/?url=http://172.17.0.1/yobel/herramientas/impresora/impresora_new.php?origen=reportes/r_documento_guia2&db=yobel&SERVERPATH=http://172.17.0.1/yobel/&letras=1&ID_M_GUIAS=00112404&compress=1&id_m_usuario=001924&log_USER_ID=001924&log_USER_NAME=DANIEL+ALEJANDRO+BENAVIDES+AMAYA&log_SISTEMA=yobel&log_SISTEMA_DB=yobel&viewer=1
+Array
+(
+    [origen] => reportes/r_documento_guia2
+    [db] => yobel
+    [SERVERPATH] => http://172.17.0.1/yobel/
+    [letras] => 1
+    [ID_M_GUIAS] => 00112404
+    [compress] => 1
+    [id_m_usuario] => 001924
+    [viewer] => 1
+)
+

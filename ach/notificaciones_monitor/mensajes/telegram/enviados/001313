@@ -1,0 +1,50 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 356
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594264934
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBZF8GjWYkSJ6Gjr5imqvtgBvSwkvmAAKIqDEbjCowRAbex6mxvn9vJ7VuBgAEAQADAgADbQADN6wDAAEaBA
+                            [file_unique_id] => AQADJ7VuBgAEN6wDAAE
+                            [file_size] => 6204
+                            [width] => 320
+                            [height] => 209
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBZF8GjWYkSJ6Gjr5imqvtgBvSwkvmAAKIqDEbjCowRAbex6mxvn9vJ7VuBgAEAQADAgADeAADOKwDAAEaBA
+                            [file_unique_id] => AQADJ7VuBgAEOKwDAAE
+                            [file_size] => 26855
+                            [width] => 800
+                            [height] => 523
+                        )
+
+                )
+
+            [caption] => <b>Broche redondo metalico  plateado personalizado<b>Especificaciones: Lorem* ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Precio: 6.000000
+        )
+
+)

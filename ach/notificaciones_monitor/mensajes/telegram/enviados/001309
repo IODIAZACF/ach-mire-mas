@@ -1,0 +1,49 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 352
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594264688
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBYF8GjHDFm8FW-4KgKby6PUQAAfmA2wAChagxG4wqOES9hgL8v4AAAfbSPgABSRcAAwEAAwIAA20AAwWZAAIaBA
+                            [file_unique_id] => AQAD0j4AAUkXAAMFmQAC
+                            [file_size] => 10107
+                            [width] => 320
+                            [height] => 207
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBYF8GjHDFm8FW-4KgKby6PUQAAfmA2wAChagxG4wqOES9hgL8v4AAAfbSPgABSRcAAwEAAwIAA3gAAwaZAAIaBA
+                            [file_unique_id] => AQAD0j4AAUkXAAMGmQAC
+                            [file_size] => 46592
+                            [width] => 800
+                            [height] => 518
+                        )
+
+                )
+
+            [caption] => Broche redondo metalico dorado  personalizado con fondo  rayasEspecificaciones: Lorem** ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Precio: 6.000000
+        )
+
+)

@@ -1,0 +1,206 @@
+stdClass Object
+(
+    [_id] => 425378308
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-05-11T21:32:04.830-05:00
+    [end] => 2023-05-11T22:55:04.377-05:00
+    [group_pl6la06/_1_C_digo] => BOMO-806.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-03-23
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-03-24
+    [group_pl6la06/_4_Departamento] => BOLIVAR
+    [group_pl6la06/BOLIVAR] => MORALES
+    [group_pl6la06/_6_Urbano_Rural] => URBANO
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Micohumado/ San agustin
+    [group_pl6la06/_8_Comunidad] => LA dorada, Unión dorada, Conformidad 3 y 2, Santo Domingo y la Plaza
+    [group_pl6la06/_9_Tipo_de_emergencia] => DESPLAZAMIENTO_MASIVO
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO OCHA ORGANISMO_PUBLICO
+    [group_mb5pt53/_1a_Evaluador] => ANGELICA PINO
+    [group_mb5pt53/_1b_Celular] => 3223934868
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => JUAN ACUÑA
+    [group_mb5pt53/_2b_Celular] => 312 4110627
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-03-19
+    [group_rq63s60/_1c_Descripci_n_del_evento] => En el marco de la disputa territoriales de grupos armados no estatales en el sur de Bolívar por el control de la serranía de San Lucas y la incursión a territorios que fueron dominados por un solo actor armado durante años y donde actualmente existen 2 que son los que se disputan el control.
+Se presentó el 21 de febrero de 2023, un accidente por mina antipersonal instalada debajo de una bandera alusiva a uno de los grupos armados presentes en la zona como estrategia de demarcación que dejo como resultado 4 personas heridas y con secuelas físicas, siendo esto el comienzo de las confrontaciones entre los GANE.
+Esta situación genero temor en la comunidad y como ya lo mencionamos fue la antesala para el inicio en el mes de marzo algunas incursiones y enfrentamientos en el corregimiento de Micohaumado y en la zona rural del municipio de Arenal, dejando como resultado desplazamiento de aproximadamente 380 familias y el confinamiento/restricción a la movilidad de 15 veredas del corregimiento de Micoahumado (Morales) y del municipio de Arenal.
+Aunque algunas familias lograron desplazarse, se estableció un control y retenes para impedir la salida de las veredas y amenazadas a las familias que lo hicieran. 
+Además, los enfrentamientos y control de los GANE han generado temor por la presencia o instalación de artefactos explosivos como estrategia de control territorial y limitar la avanzada del grupo oponente.
+
+Sumado a lo anterior, las incursiones de los GANE a las comunidades genera también la ocurrencia de hechos victimizantes individuales tales como señalamientos y amenazas a los lideres y lideresas produciendo desplazamientos de algunos, retenciones, homicidios, riesgo de vinculación de niños, niñas y jóvenes a actividades relacionadas con su accionar.
+En el marco de los desplazamientos que se presentan hacia los cascos urbanos de Morales y Arenal, se evidencia necesidades fuertes de las familias para el acceso a una atención con los componentes de alimentación, elementos de hábitat, higiene y alojamiento. 
+En el municipio de Morales se identifican 15 familias/36 personas, que permaneces en casco urbano y se encuentran alojadas en redes de apoyos y en una vivienda que fue alquilada por la administración municipal.
+Y en el municipio de Arenal, se identificaron 50 familias/150 personas en el casco urbano las cuales están albergadas en casas de familias. Cabe resaltar que dentro de estas 50 familias se encontraban algunas desplazadas desde el mes de diciembre por amenazas y la incursión de grupos armados, emergencia que no fue dada a conocer a las organizaciones humanitarias presentes en el departamento. 
+Se siguen registrando familias que se desplazan individualmente hacia el casco urbano, por la continuidad de hostilidades en las zonas rurales de ambos municipios.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las familias desplazadas se encuentran asociadas por medio de juntas de acciones, que son las que coordinan y lideren las acciones en las comunidades y el relacionamiento con las entidades territoriales. Estos procesos organizativos se han visto afectadas por las amenazas a lideres y lideresas que debilitan y limitan el ejercicio de liderazgos.
+Las actividades económicas de las comunidades giran en torno a la agricultura y de explotación minera pero las dinámicas del conflicto armado y la presencia de los actores armados ha afectado las dinámicas sociales, económicas y de relacionamiento entre las veredas. 
+Frente al desplazamiento, las familias que se encuentran en los cascos urbanos de Morales y Arenal se ven expuestas a riesgos asociado a las amenazas e intimidaciones por la activación de las rutas de atención y la salida de sus veredas, lo cual genera temor por las represalias que por haberse desplazado se puedan causar.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => En las comunidades desplazadas, se evidencian familias pertenecientes a población indígena y afrodescendiente por lo que es necesario la aplicación de medidas étnicas diferenciales que respondan a su identidad y cosmovisión propia.
+Además, se evidencia un gran número de niños, niñas y adolescentes que están desvinculados de los centros educativos por el desplazamiento y no están siendo participes de espacios de uso del tiempo libre, por lo que es necesario implementar enfoques atareos en las acciones para la recuperación y el retorno a entornos escolares de estos menores.
+
+Además, es necesario la atención diferencial de los adultos mayores, con el objetivo de desarrollar actividades participativas a toda la población, promoviendo acciones afirmativas que conduzcan a la igualdad en el acceso a derecho, libertades y participación. 
+Se identifico población con capacidad diversa, condición de discapacidad, mujeres embarazadas y gestantes por lo que se hace necesario la adecuación de medidas que atiendan a su necesidades y vulnerabilidad para un acceso equitativo.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Los principales medios de vida de las personas desplazadas están relacionados con la agricultura, la actividad pecuaria y la minería artesanal, estas actividades representan ingresos medianamente significativos, ya que son economías muy volátiles.
+Porque si hay cosecha y buena comercialización se generan buenos ingresos, de lo contrario la economía familiar se ve afectada.  
+En el marco de la emergencia las familias se han desplazado, lo que repercute en una afectación a su economía familiar, por la amenaza generada por los distintos GANE y el temor que sienten ante la posible presencia de MAP, MSE y TE en el territorio. 
+El estar desplazados les impide la comercialización de sus alimentos y productos, quedando las familias sin fuentes de ingresos económicos, puesto que refieren en las veredas dejaron todos sus animales, cultivos y enseres.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Las veredas afectadas por los enfrentamientos de los GANE se encuentran ubicadas en los municipios de Morales y Arenal, en el sur del departamento de Bolívar, en la serranía de San Lucas, que es una zona estratégica para el desarrollo de actividades mineras y relacionadas con los actores armados que hacen presencia en la zona.
+Es una zona altas precipitaciones, en épocas de lluvia existe dificultad para el acceso a las comunidades porque las vías son destapadas.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Las familias se encuentran desplazadas en los cascos urbanos donde tienen acceso a servicios esenciales de electricidad, agua, baterías sanitarias y saneamiento, es de resaltar que las personas albergadas en redes de apoyo tienen garantizados todos estos servicios, pero las que están alojadas en vivienda arrendadas por las entidades territoriales están viendo limitado el acceso a agua seguro frente al número de personas albergadas. 
+
+Servicios:
+
+•	Agua: No potable
+•	Comunicaciones: Señal de internet en Morales y Arenal. 
+•	Señal de teléfono celular Claro
+•	Energía: Por planta eléctrica municipal
+•	Acceso a unidades sanitarias: 
+-	Morales:  Hospital San Sebastián
+-	Arenal: Hospital local Manuela Pabuena Lobo
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/Riesgos_para_respuesta] => MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_cual] => Enfrentamientos, confinamiento y restricción a la movilidad.
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1d_Caracterizaci_n_Homicidios] => HOMICIDIOS_SELECTIVOS_LÍDERES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Traslados: 
+Aéreo desde Bogotá hasta Aguachica y/o Bucaramanga
+Bucaramanga - Aguachica: 3 horas de recorrido terrestre.
+
+•	2 horas de traslado terrestre Camioneta tipo pick up 4X4 desde Aguachica a Morales. Vía pavimentada hasta Gamarra, paso en ferri del río Magdalena y carretera destapada a Morales.  
+• 2 horas de traslado terrestre Camioneta tipo pick up 4x4 desde Morales al brazo morales, paso en ferri del brazo y carretera destapada a Arenal. 
+
+Alojamientos:
+•	Morales: Oferta hotelera 
+•	Arenal: Hospedaje en residencia / hotel
+Alimentación:
+•	Morales: Oferta de restaurantes
+•	Arenal: Oferta de restaurantes
+Es necesario contar con tiempo para el paso por los ferris porque depende de que se llene el cupo para pasar, el ferri trabaja de 7 a.m. hasta las 6 p.m.
+    [group_fm93i53/seguridad] => •	Se han registrados enfrentamientos en las zonas rurales de los municipios de Morales y Arenal, así como en municipio cercanos desde marzo del 2023.
+•	Existe un control por parte de los actores armados para el acceso a las veredas de los municipios de Morales y Arenal.
+•	Se evidencia presencia de los actores armados en las zonas rurales que aumenta el riesgo de posibles hostilidades.
+•	Existe demarcación de territorio correspondiente al grupo armado con mayor injerencia en la zona. 
+•	Antecedente de accidente con mina antipersonal que dejo dos personas afectadas y con secuelas físicas.
+•	Es de resaltar que la única ONG que ha ingresado a la zona es el CICR, y existe poca presencia de actores humanitarios por lo que es una zona donde no es cotidiana la presencia de estos y es necesario extremar las medidas de coordinación y visibilidad en la zona.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 65
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 186
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 7
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 2
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 12
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-03-24
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 44
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 4
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 138
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => Alcaldía entrego alimentación, elementos de higiene y habitat a algunas familias, pero agoto sus recursos
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA PROTECCION-PR PROTECCION-NNAJ EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => El desplazamiento fue causado por los enfrentamientos de los dos grupos armados que ejercen control en la zona, lo cual genero temor en las veredas y como medida de protección decidieron trasladarse hacia los cascos urbanos. Estos desplazamientos se dieron de forma individual, pero por compartir el modo, tiempo y lugar se configuraron masivos en ambos municipios.
+En el marco de la emergencia humanitaria en los municipios de Morales y Arenal, se configuraron los hechos de desplazamiento masivo e individual pero además se evidencia la ocurrencia de afectaciones individuales que complejizan el contexto en los territorios.
+Dentro de los hallazgos de hechos individuales encontramos las amenazas a perfiles de liderazgos en las comunidades, que son señalados por la defensa que ejercen y por dar a conocer las afectaciones que por conflicto se presenta en las veredas. Además, el refuerzo del pie de fuerza de los actores armado en la zona para controlar el territorio ha generado la alerta por riesgo de uso, utilización y vinculación de niños, niñas y adolescentes a las actividades que desarrollan. 
+Sumadas a estas afectaciones, se han registrado casos retenciones y homicidios a miembros de las comunidades, lo que ha generado una mayor zozobra en la población. 
+Si bien es claro la consumación de hechos victimizantes las comunidades no cuentan con un conocimiento sobre las rutas de atención que pueden activar para la protección de sus derechos y la mitigación de afectaciones lo que redunda en el no registro de los hechos individuales subyacente que son los causantes de los desplazamientos masivos e individuales. 
+Si bien en los desplazamiento individuales y masivos se tomó las declaraciones por parte de las personerías municipales, las comunidades expresan no tener claridad sobre el paso a seguir y los componentes que se deben activar para su atención en fase de inmediatez. 
+Al ser la serranía del San Lucas una zona estratégica para el desarrollo de actividades económicas y tránsito de los GANE, en lo que va corrido del 2023 y finales del 2022, se han presentado de formar recurrente emergencias a medida que los grupos avanzan a lo largo de la serranía. 
+Esta situación no fue ajena a los municipios de Morales y Arenal donde en lo que va corrido del mes de marzo han ocurrido diversos enfrentamientos que generan alertas y emergencias que supone un despliegue amplio de atención y dejan en evidencia la limitada capacidad de respuesta de las autoridades locales y el ministerio público, para la activación de rutas masivas de atención. 
+Si bien, se han realizado los Comités de Justicia Transicional para coordinar la atención inmediata de estas emergencias, la toma de declaración de las familias a medida que llegan a los cascos urbanos y la atención de algunos componentes, el recurso de las entidades territoriales es limitado y la emergencia a superado sus capacidades presupuestales. 
+ Se observan que, a pesar de la premura en la atención de las familias, existe demoras en la activación de la concurrencia con las entidades departamentales y nacionales por la falta de información sobre el número de personas afectadas dificultando la activación rápida de la atención de las familias.
+Se identifico población migrante afectada por la emergencia, que cuentan con documentos de regularización en territorio colombiano pero otras personas que no pudieron acceder al Estatuto temporal de Protección para población venezolana dificultando esto el acceso a medidas de atención efectivas. 
+Se resalta que evidencio personas habían extraviado sus documentos de identidad en algunos casos en el recorrido que hicieron desplazándose hacia los cascos urbanos, lo que fue una limitante para la toma de la declaración por desplazamiento y por ende a la asistencia en fase de inmediatez.
+    [group_aa8xg30/group_ow1dy59/PersonasRiesgo] => Se evidencia amenazas a lideres y lideresas de las veredas por el ejercicio que desarrollan de dar a conocer y activar a la institucionalidad frente a las afectaciones que sufre la población por la disputa y búsqueda de control de los GANE. 
+Los lideres no cuentas con mecanismos de protección para mitigar los riesgos contra su vida e integridad y tampoco cuentan con el conocimiento y tienen temor para la activación de rutas de protección estatales. Además, el ingreso de un nuevo actor armado a la zona ha generado señalamientos y amenazas a las comunidades, que las dejan en una situación difícil por el tránsito de ambos GANE en las veredas. El nivel de riesgo no disminuyo con el desplazamiento hacia zonas urbanas porque se presumen y siguen teniendo temor de ser seguidos y vigilados en los cascos urbanos.
+Además, se registraron casos de retención y homicidios de miembros de las veredas que da cuenta del nivel de riesgo por la presencia de los actores armados.
+Esto sumado a la incineración de viviendas por parte de los grupos como una medida para el no retorno de las familias a las veredas.
+    [group_aa8xg30/group_ow1dy59/Reclutamiento] => La presencia de los actores armados y la utilización de estrategias de convencimiento ha aumentado el riesgo de vinculación, uso y utilización de NNA a actividades relacionadas con los actores armados. Este riesgo aumenta por la falta de oportunidades educativas en las comunidades y estrategias de uso del tiempo libre.
+Se evidencia casos de NNAJ que han recibidos presentes como una estrategia para que posteriormente se unan a los grupos armados, lo que genera temor en los padres y como medida prefieren trasladar a los menores a otras zonas como medida de protección y mitigación del riesgo.
+    [group_aa8xg30/group_lg2ro37/Shelter] => Las familias desplazadas se encuentran albergadas en redes de apoyo y otros alojadas en viviendas arrendadas por parte de las autoridades territoriales, quienes les entregaron algunos elementos de habítat con los que se contaba previamente como colchonetas, elementos de cocina de uso comunitario y ventiladores. 
+Dichos elementos no fueron entregados de acuerdo con el número de miembros por familia por lo que no fueron suficiente frente al número de personas. En el caso de las familias albergadas en casas de familiares se observa un hacinamiento y la falta de elementos que hábitat que suponen la falta de condiciones dignas de habitabilidad. 
+Se evidencia la necesidad de garantizar espacios adecuados para el alberge de las familias y la necesidad de complementar y entregar a las familias recientemente desplazadas elementos de habitat que les permitan tener unas condiciones minimas de seguridad.
+    [group_aa8xg30/group_fv0ct51/Agua] => Las familias desarrollan sus actividades de aseo y preparación de alimentos por medio de la recolección de agua de los acueductos municipales, que es enviada por periodos de tiempo de acuerdo con el barrio, y es recolectada por las comunidades por medio de estanques de cementos o baldes.
+En las casas donde hay varias familias albergadas se identifican dificultades por la cantidad de agua que pueden recoger de acuerdo con la capacidad de almacenamiento, la cual es escasa frente al número de personas por lo que tienen que racionar el agua y priorizarla para la preparación de alimentos frente al aseo personal.
+El agua no es acta para el consumo directo pero las comunidades no le realizan ningún tratamiento para su consumo por lo que se han presentados afecciones estomacales en adulto y NNAJ.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => Existe disponibilidad de tasas sanitarias y la recolección de basura se realiza de acuerdo a los horarios establecidos por los municipios receptores.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Algunas familias recibieron elementos de higiene por parte de las entidades territoriales pero dado las cantidades entregadas frente al número de personas por familias y debido a que otras no habían recibido fueron compartidos y utilizados de forma rápido por lo que ya no cuentan con elementos de higiene.
+Existe dificultad para el acceso a recursos que permitan el acceso a elementos de higiene, por lo que no existe condiciones para la aplicación hábitos de lavado de manos y en la preparación de alimentos. El lavado de baños, manos y utensilios de cocina se realiza con jabón, sin embargo, el acceso es limitado a los elementos de aseo por falta de recursos económicos. No se evidencia un almacenamiento y manipulación adecuada de los alimentos, lo aumenta los riesgos de contaminación y daño de los mismo. La higiene femenina adopta un papel secundario frente a la disponibilidad de recursos y la posibilidad de comprar alimentos o elementos de higiene familiar.
+    [group_aa8xg30/group_jn0nm53/san] => •	INGRESOS:
+ Las familias no cuentan con fuentes estables de ingresos en sus veredas, en la situación presente de desplazamiento sus ingresos son nulos. En algunas veredas se realizan trabajos agropecuarios tales como cultivo y cosecha de alimentos (yuca, plátano) y ganadería, porcicultura, avicultura principalmente, también referenciaron realizar minería artesanal en la zona, sin embargo, todas las prácticas mencionadas se han visto afectadas por los recientes enfrentamientos entre los GANES. Algunos hogares cuentan con ingresos por subsidios del gobierno como familias en acción e ingreso solidario, sin embargo, estos ingresos se ven drásticamente reducidos por los costos de transporte y tiempos de desplazamiento, gastos por viaje y relacionados.
+•	COMERCIO LOCAL vs HABITANTES/ 
+En las veredas, las personas referenciaron que existen algunas tiendas que en ocasiones logran suplir las necesidades de la población, las familias relatan que mayoritariamente fían en ellas, y una vez estén en época de cosecha y comercialización de sus productos pueden saldar sus deudas en las mencionadas. Desde la cabecera municipal se evidencia un comercio que logra suplir las necesidades de las familias desplazadas, los cascos urbanos cuentan con variedad entre grandes distribuidores a minoristas y tiendas de barrio que ofrecen variedad en bienes y servicios. 
+•	ACCESO A ALIMENTOS /
+Las comunidades manifestaron que en sus veredas la fertilidad del suelo y la facilidad para cultivar variedad de alimentos es alta, sin embargo, en tiempos recientes las restricciones a la movilidad, las amenazas por presencia de MAP y los encuentros frecuentes con miembros de los GANE hacen insostenible la práctica frecuente de la agricultura y ganadería para la obtención de los alimentos.
+En la presente situación de desplazamiento refieren que los GANES se han aprovechado de ello y han hurtado sus cultivos, cosechas y animales y en casos puntuales han incinerado sus hogares y espacios de trabajo. 
+En el casco urbano las familias han recibido atención de respuesta primaria por parte de la alcaldía, la cual ha entregado kits alimentarios de fuente no perecederos, huevos, salchichón, elementos de higiene (jabón, papel higiénico, crema dental y toallas higiénicas), elementos de hábitat (ventiladores, estufas, menaje y poncheras medianas), estos últimos elementos de higiene y hábitat solo entregados en Morales. 
+Sin embargo, las familias refieren que ya se les están acabando los alimentos e insumos. 
+•	DIVERSIDAD DIETARIA / 
+Uniformemente las familias manifestaron consumir de una a dos comidas diarias, la mayoría solamente con 2 o 3 grupos alimentarios que pueden incluir usualmente. 
+Las familias refieren en su situación actual, que los kits alimentarios que han recibido han sido en su mayoría alimentos no perecederos lo cual ha hecho que su alimentación sea muy monótona, solicitan y desean tener más variedad como aliños, condimentos naturales, frutas y verduras, proteínas de origen animal frescas.  
+•	ALIMENTACION EN MENORES 
+Las condiciones alimentarias de las familias hacen insuficientes las raciones diarias para los menores, las cabezas de hogar y/o padres/madres de familia se han visto en la necesidad de restringir tiempos y porciones de ellos para brindarles a los menores, sin embargo, el ICBF con sus unidades móviles han identificado casos de riesgo de desnutrición en menores de edad los cuales han sido remitidos al sector salud para atención prioritaria.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Las personas desplazadas referenciaron que en las veredas se están presentando casos de malaria, así mismo, en comunicación con entidades territoriales confirmaron que en el momento en los municipios existe un brote de la enfermedad tanto en veredas como en el casco urbano y alrededores. 
+En el proceso de atención se evidenció lo siguiente:
+•	Primera infancia y NNAJ: afecciones de la piel, riesgo de desnutrición, enfermedades diarreicas, infecciones y afecciones respiratorias, inapetencia.
+•	Adultos: dolor lumbar, dolor osteomuscular, malaria, afecciones de la piel.
+Son evidentes los efectos crónicos de las carencias respecto a los determinantes sociales de la salud que, han sido afectados de forma aguda por la emergencia, el impacto de la situación sobre la salud de la comunidad; conductas y hábitos de higiene sin cuidados, preparación y manipulación inadecuada de los alimentos, ausencia de letrinas, ausencia de estructuras internas de apoyo social, entre otros hallazgos, son catalizadores de condiciones agudas a los que se ve expuesta constantemente la población.
+Existe carencia de un sistema sólido de referencia y apoyo para el acceso a la atención en salud, primaria o especializada.
+Se observa desconocimiento generalizado sobre afiliación en salud, lo que deriva en ocasiones en frustración y abandono de la búsqueda de atención sanitaria. 
+Refieren estar afiliados al régimen subsidiado de salud con la Nueva EPS, sin embargo, refieren que a la hora de contar con atención o reclamar medicamentos, en el municipio nunca hay, lo que los expone a una vulnerabilidad de su derecho a la salud.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => El conflicto armado ha causado consecuencias evidentes en la salud mental de la población, la exposición constante a las diversas formas de violencia ha dejado víctimas directas e indirectas de distintos hechos victimizantes que no solo atentan contra la seguridad y la estabilidad de la población, sino que también producen un sufrimiento psíquico que se ve reflejado en las complejas dinámicas familiares, sociales, y personales.
+La presencia de síntomas emocionales y trastornos mentales presuntamente puede ser alta; estrés postraumático, ansiedad, depresión, conducta suicida, ataques de pánico, trastornos del sueño, trastornos del estado de ánimo, y en general la disminución en los niveles de la calidad de vida, la ruptura de redes colectivas y un evidente desarraigo cultural, lo anterior, causado por la presencia de GANES en el territorio y las acciones de los mismos; trato denigrante e inhumano hacia la comunidad, delitos contra la libertad, la integridad sexual, y la violencia de género, todo esto aunado a otros determinantes sociales desfavorables (educación, condiciones de vida y trabajo, agua y servicios sanitarios, servicios de atención en salud, vivienda, producción agropecuaria y alimentaria, redes sociales y comunitarias) que exponen a las comunidades a una alta vulnerabilidad psicosocial.
+Las comunidades expresan que no reciben atención por psicología de manera individual y/o grupal, se gestionó una atención psicosocial con el municipio para un niño con ansiedad, hijo de una de las madres cabezas de hogar atendidas.
+    [group_aa8xg30/group_tb5de96/EIE] => Debido al desplazamiento de las familias a los cascos urbanos como medida de protección, los niños, niñas, y jóvenes – NNAJ vieron suspendido el acceso a los centros educativos, que además por los enfrentamientos se había suspendido las clases y el calendario académico.
+A pesar del número significativo de NNAJ dentro de la atención activada en fase de inmediatez no se evidencia acciones enfocadas a la recuperación y el uso del tiempo libre de los menores de edad que se encuentran con alteraciones de sueño y temor a sonidos fuertes que son producidos por los enfrentamientos y el miedo a la presencia de los actores armados.
+Dentro de la población desplazada no se evidencia docentes que puedan implementar metodologías para la recuperación de los NNAJ y aplicación de la pedagogía de educación en emergencia, lo que acrecenta el riesgo de los menores.
+Por los riesgos de vinculación, uso y utilización de NNAJ en las veredas algunos padres han decidido enviar a los menores a otras zonas con la finalidad de que no sean vinculados a actividades relacionadas con el grupo armado.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 80
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 9
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 5
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Rosmira secretaria de gobierno de Arenal
+    [group_aa0qz67/group_zf1xv45/_1b_Tel_fono_1] => 312 6942099
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => secretaria de gobierno de Arenal
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Milena Quiroz
+    [group_aa0qz67/group_by3wp07/_2b_Tel_fono_1] => 312 4778906
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Lideresa
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => Milena Jimenez
+    [group_aa0qz67/group_de0zc49/_3b_Tel_fono_1] => 316 7376587
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => Secretaria de gobierno de Morales
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:50c850eb-1451-4aa2-8472-911f0a30fec2
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 50c850eb-1451-4aa2-8472-911f0a30fec2
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-12T03:55:05
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

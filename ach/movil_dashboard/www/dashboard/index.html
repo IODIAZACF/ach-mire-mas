@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="theme-color" content="#2196f3">
+	<meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap:">
+	<title>Ach</title>
+	<link rel="stylesheet" href="css/framework7-bundle.min.css">
+	<link rel="stylesheet" href="https://unpkg.com/framework7-icons">
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+	
+	<div id="app">
+		<div class="appbar">
+			<div class="appbar-inner">
+
+				<!--div class="left">
+					<a href="#" class="button button-small button-outline">
+						<i class="icon f7-icons">envelope_fill</i>
+					</a>
+					<a href="#" class="button button-small button-outline margin-left-half">
+						<i class="icon f7-icons">square_pencil_fill</i>
+					</a>
+				</div-->
+				
+				<div class="center margin-horizontal-half">
+					<a href="#" class="button button-small button-outline">
+						<i class="icon f7-icons">archivebox_fill</i>
+					</a>
+					<div class="segmented margin-left-half">
+						<a href="#" class="button button-small button-outline">
+							<i class="icon f7-icons">trash_fill</i>
+						</a>
+						<a href="#" class="button button-small button-outline">
+							<i class="icon f7-icons">exclamationmark_triangle_fill</i>
+						</a>
+					</div>
+					
+					<div class="segmented margin-left-half">
+						<a href="#" class="button button-small button-outline">
+							<i class="icon f7-icons">arrowshape_turn_up_left_fill</i>
+						</a>
+						<a href="#" class="button button-small button-outline">
+							<i class="icon f7-icons">arrowshape_turn_up_right_fill</i>
+						</a>
+					</div>
+					
+					<a href="#" class="button button-small button-outline margin-left-half">
+						<i class="icon f7-icons">flag_fill</i>
+					</a>
+					<a href="#" class="button button-small button-outline margin-left-half">
+						<i class="icon f7-icons">folder_fill</i>
+						<span>Move to á...</span>
+					</a>
+				</div>
+				
+				<div class="right">
+					<div class="searchbar searchbar-inline searchbar-init">
+						<div class="searchbar-input-wrap">
+							<input type="text" placeholder="Search">
+							<i class="icon searchbar-icon"></i>
+							<span class="input-clear-button"></span>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+		</div>
+		
+		<div class="appbar appbar-small">
+			<div class="appbar-inner">
+				<div class="left">
+					<a href="#" class="button button-small panel-toggle" data-panel="left">
+						<i class="icon f7-icons">square_list</i>
+						<span>Panel Left</span>
+					</a>
+					<a href="#" class="button button-small button-active color-gray margin-left-half">
+						<span>Inbox</span>
+						<i class="icon f7-icons icon-chevron">chevron_down</i>
+					</a>
+					<a href="#" class="button button-small margin-left-half">
+						<span>Sent</span>
+						<i class="icon f7-icons icon-chevron">chevron_down</i>
+					</a>
+					<a href="#" class="button button-small margin-left-half">
+						<span>Flagged</span>
+					</a>
+					<a href="#" class="button button-small margin-left-half">
+						<span>Drafts (1)</span>
+						<i class="icon f7-icons icon-chevron">chevron_down</i>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<!-- <div class="toolbar main-toolbar toolbar-top"></div> -->
+		<div class="panel panel-left" data-visible-breakpoint="768">
+			<div class="page page-accounts">
+				<div class="page-content">
+
+				</div>
+			</div>
+		</div>
+		
+		<div class="view view-main view-init" data-master-detail-breakpoint="1" data-url="/">
+			<div class="page page-email-list">
+				<div class="toolbar toolbar-top">
+					<div class="toolbar-inner">
+						<div class="center">
+
+							<div class="searchbar searchbar-inline">
+								<div class="searchbar-input-wrap">
+									<input id="GRAFICOS-buscador" type="text" placeholder="Search" onkeypress="tecla_grid(event,this.id)">
+									<i class="icon searchbar-icon"></i>
+									<span class="input-clear-button"></span>
+								</div>
+							</div>
+
+						</div>
+						<div class="right">
+							<a href="#" class="link icon-only color-gray">
+								<i class="icon f7-icons" style="font-size: 14px">line_horizontal_3_decrease_circle</i>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="page-content">
+					<div class="list media-list no-chevron" >
+						<ul id="GRAFICOS">
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div class="page page-master-detail page-email-detail">
+			
+				<div class="page-content">
+					
+					<div class="email-detail-actions">
+						<div class="segmented">
+							<a class="button button-small button-outline">
+								<i class="icon f7-icons">trash</i>
+							</a>
+							<a class="button button-small button-outline">
+								<i class="icon f7-icons">arrowshape_turn_up_right</i>
+							</a>
+							<a class="button button-small button-outline">
+								<i class="icon f7-icons" style="transform: scaleX(-1)">arrowshape_turn_up_left_2</i>
+							</a>
+						</div>
+					</div>
+					
+					<div class="block block-strong no-margin no-hairlines">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut luctus auctor massa pretium vestibulum. Vivamus ut tempor ligula, eget vestibulum enim. Donec magna dui, porta eu tortor in, porttitor maximus libero. Sed vitae dui tristique, dapibus nulla vitae, condimentum est. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis accumsan tellus et sapien sagittis, imperdiet egestas nulla tempus. Sed nec pulvinar lacus, eget iaculis massa.</p>
+						<p>Suspendisse eu lectus nunc. Sed sed ante sed enim commodo ultrices. Maecenas convallis porta tristique. Sed ornare massa non elit tempor, id tincidunt nisi luctus. Nulla venenatis ullamcorper lacus in porttitor. Integer pretium pharetra orci, quis venenatis sapien suscipit vel. Maecenas in mollis urna.</p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+  
+	<script src="js/framework7-bundle.min.js"></script>
+	<script src="../lib/jquery/jquery.min.js"></script>
+
+	<script src="index.js?v=12356"></script>
+
+	<!--script src="../lib/js/utiles.jsx?v=123456"></script--> 
+
+</body>
+</html>

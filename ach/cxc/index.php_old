@@ -1,0 +1,1210 @@
+<?php
+include('../config.php');
+include_once (Server_Path . 'herramientas/utiles/comun.php');
+include_once (Server_Path . "herramientas/ini/class/class_ini.php");
+include_once (Server_Path . 'herramientas/modulo/class/class_modulo.php');
+include_once (Server_Path . 'herramientas/sql/class/class_sql.php');
+
+$fecha   = date("d/m/Y");
+
+$ventana = getvar('ventana','modulo');
+
+$my_ini = new ini('modulo');
+encabezado($my_ini->seccion('VENTANA','TITULO'));
+
+$onClose = 'Salir();';
+$modulo = new class_modulo('modulo',$onClose);
+
+echo '<body id="proceso" onload="ocultaCarga();">' . "\n";
+cargando();
+
+javascript('auto_tabla,utiles,tabpane,formulario2,forma,submodal,impresora,popup,jquery,clave');
+
+$query = new sql();
+$query->sql = "SELECT ID_M_CAJAS,CAMPO1 FROM M_CAJAS WHERE IP='". $_SERVER['REMOTE_ADDR'] ."'";
+$query->ejecuta_query();
+$query->next_record();
+$xid_m_cajas = $query->Record['ID_M_CAJAS'];
+
+$tmp_data = explode('_', $query->Record['CAMPO1']);
+$impresora_protocolo     = $tmp_data[0];
+$impresora_formato  	 = $tmp_data[1];
+
+
+$query = new sql();
+$query->sql = "SELECT ID_M_TIPO_PAGOS,ID_M_BANCOS,NUMERO,CUENTA,CODIGO1,TITULAR,TELEFONOS,ID_M_CUENTAS_BANCARIAS,FECHA_PAGO2,ID_M_CUENTAS_BANCARIAS2 FROM V_M_TIPO_PAGOS_CXC";
+$query->ejecuta_query();
+$frm_campos = "var frm_campos = new Array();\n";
+$frm_cuentas = "var frm_cuentas = new Array();\n";
+
+while($query->next_record())
+{
+    $tmp ='';
+    while (list($c, $v) = each($query->Record))
+        {
+//                rdebug($c.'->'.$v);
+        if($v=='*' && $c!='ID_M_TIPO_PAGOS')
+        {
+            if(strlen($tmp)) $tmp .=',';
+            $tmp .= "'" .$c . "'";
+        }
+        $v='';
+        }
+    $frm_campos .= 'frm_campos[\''.  $query->Record['ID_M_TIPO_PAGOS'] .'\'] = new Array('. $tmp .');' . "\n";
+	$frm_cuentas .= 'frm_cuentas[\''.  $query->Record['ID_M_TIPO_PAGOS'] .'\'] = new Array(\''. $query->Record['ID_M_CUENTAS_BANCARIAS2'] .'\');' . "\n";
+
+}
+
+
+
+echo <<<EOT
+
+{$modulo->inicio}
+
+<table class="contenido_modulo" border="0">
+	<tr>
+		<td id="GRUPO1"></td>
+		<td id="GRUPO2"></td>
+	</tr>
+</table>
+
+{$modulo->fin} 
+
+<script type="text/javascript">
+
+var xCODIGO1                        = '';
+var xCODIGO2                        = '';
+var xID_M_BANCOS                    = '';
+var xID_M_CUENTAS_BANCARIAS        = '';
+var xTITULAR                        = '';
+var xFECHA_PAGO2                       = '';
+var xDIRECCION                      = '';
+var xTELEFONOS                      = '';
+var xNUMERO                         = '';
+var xCORREO                         = '';
+var xCUENTA                         = '';
+var xID_M_DOC_FINAL					= '';
+
+var xid_m_cliente    = null;
+var xpadre           = null;
+var xid_d_cxc        = null;
+var xid_m_cajas      = '{$xid_m_cajas}';
+var impresora_protocolo   = '{$impresora_protocolo}';
+var impresora_formato     = '{$impresora_formato}';
+var xfecha           = '{$fecha}';
+var dxml;
+var t;
+var xbandera         = null;
+var xabono           = null;
+var xclave 			 = new clave('xclave');
+var xdocumento ;
+var reporte;
+var documento        = null;
+
+{$frm_campos}
+{$frm_cuentas}
+
+var impresora = new printer();
+
+contenedor             = new submodal();
+contenedor.nombre      = 'contenedor';
+contenedor.ancho       = 500;
+contenedor.alto        = 300;
+contenedor.titulo      = ' ';
+contenedor.ayuda       = 1;
+contenedor.x           = 1;
+contenedor.y           = 1;
+contenedor.titulo      = 'titulo';
+contenedor.botonCerrar = true;
+contenedor.leyenda     = '     ';
+contenedor.usaFrame    = false;
+contenedor.interpretar = false;
+contenedor.modal       = true;
+contenedor.onClose     = function ()
+{
+    f_activo.ocultar();
+    contenedor.ocultar();
+}
+
+m_cxc             = new lista("cxc/m_cxc")
+m_cxc.nombre      = "m_cxc";
+m_cxc.padre       = "GRUPO1";
+m_cxc.funcion     = t_m_cxc;
+m_cxc.url         = server_path + "herramientas/genera_xml/genera_xml.php";
+m_cxc.buscador    = true;
+m_cxc.enter       = 1;
+m_cxc.pieTimer    = 500;
+m_cxc.filtro      = 'ID_M_CLIENTES;SALDO';
+m_cxc.xoperadores = '=;<>';
+
+m_cxc.onFocus   = focus_cxc;
+m_cxc.onSelect  = Actualiza_detalle;
+
+d_cxc           = new lista("cxc/d_cxc")
+d_cxc.nombre    = "d_cxc";
+d_cxc.padre     = "GRUPO2";
+d_cxc.funcion   = t_d_cxc;
+d_cxc.url       = server_path + "herramientas/genera_xml/genera_xml.php";
+d_cxc.enter     = 0;
+d_cxc.filtro    = 'ID_PADRE';
+d_cxc.onFocus   = focus_d_cxc;
+
+m_clientes             = new lista("maestros/m_clientes")
+m_clientes.nombre      = "m_clientes";
+m_clientes.url         = server_path + "herramientas/genera_xml/genera_xml.php";
+m_clientes.funcion     = t_m_cliente;
+m_clientes.buscador    = true;
+m_clientes.x           = 1;
+m_clientes.y           = 1;
+m_clientes.modal       = true;
+m_clientes.botonCerrar = true;
+m_clientes.enter       = 1;
+
+f_nota_credito          = new formulario2('cxc/f_nota_credito');
+f_nota_credito.nombre   = 'f_nota_credito';
+f_nota_credito.funcion  = t_f_nota_credito;
+f_nota_credito.padre    = 'contenedor_cuadro';
+
+f_nota_debito          = new formulario2('cxc/f_nota_debito');
+f_nota_debito.nombre   = 'f_nota_debito';
+f_nota_debito.funcion  = t_f_nota_debito;
+f_nota_debito.padre    = 'contenedor_cuadro';
+
+f_pagos          = new formulario2('cxc/f_pagos');
+f_pagos.nombre   = 'f_pagos';
+f_pagos.funcion  = t_f_pagos;
+f_pagos.padre    = 'contenedor_cuadro';
+
+f_anticipos          = new formulario2('cxc/f_anticipos');
+f_anticipos.nombre   = 'f_anticipos';
+f_anticipos.funcion  = t_f_anticipos;
+f_anticipos.padre    = 'contenedor_cuadro';
+
+// Se Crea el Formulario de nota_debito
+f_retencion          = new formulario2('cxc/f_retencion_iva');
+f_retencion.nombre   = 'f_retencion';
+f_retencion.funcion  = t_f_retencion;
+f_retencion.padre    = 'contenedor_cuadro';
+
+
+var pmenu      = new popup('pmenu');
+pmenu.position = _popupUp;
+pmenu.action   = t_pmenu;
+pmenu.addItem('credito', '{$t_nota_credito_submenu}','Filtrar_nota("NCC")');
+pmenu.addItem('credito', '{$t_nota_credito_adm_submenu}','Filtrar_nota("ACC")');
+pmenu.addItem('debito', '{$t_nota_debito_submenu}','Filtrar_debito("NDC")');
+pmenu.addItem('debito', '{$t_nota_debito_adm_submenu}','Filtrar_debito("ADC")');
+
+
+function focus_cxc()
+{
+        mostrarLeyenda(0);
+}
+function focus_d_cxc(obj)
+{
+    if(GridAct.nombre==obj.nombre) mostrarLeyenda(1);
+}
+
+function Filtrar_nota(xtipo)
+{
+       if(xtipo=='ACC')
+       {
+
+           f_nota_credito.origen="cxc/f_nota_credito adm";
+           f_nota_credito.destruir();
+           f_nota_credito.inicializa();
+       }
+       else
+       {
+           f_nota_credito.origen="cxc/f_nota_credito";
+           f_nota_credito.destruir();
+           f_nota_credito.inicializa();
+       }
+       var registro = valida_xml(m_cxc.elementoXml(),'DOCUMENTO');
+       if (!registro) return;
+
+       f_nota_credito.limpiar();
+       mostrar_formulario(f_nota_credito);
+       f_nota_credito.setValue("FECHA_DOCUMENTO",'{$fecha}');
+       f_nota_credito.setValue("ID_M_CLIENTES",xid_m_cliente);
+       f_nota_credito.setValue("NOMBRES",xTITULAR);
+       f_nota_credito.setValue("CODIGO1",xCODIGO1);
+       f_nota_credito.setValue("DIRECCION",xDIRECCION);
+	   f_nota_credito.setValue("CORREO",xCORREO);
+       f_nota_credito.setValue("TELEFONO",xTELEFONOS);
+       f_nota_credito.setValue("DOCUMENTO",xdocumento);
+       f_nota_credito.setValue("ID_M_CAJAS",xid_m_cajas);
+       f_nota_credito.setValue("CAMPO4",xpadre);
+       f_nota_credito.setValue("TIPO",xtipo);
+       if(xtipo=='NCC')
+       {
+			f_nota_credito.setValue("ID_M_CAJAS",xid_m_cajas);
+       }
+}
+
+function Filtrar_debito(xtipo)
+{
+    f_nota_debito.limpiar();
+    if(xtipo=='ADC')
+    {
+        f_nota_debito.origen="cxc/f_nota_debito_adm";
+        f_nota_debito.destruir();
+        f_nota_debito.inicializa();
+    }
+    else
+    {
+        f_nota_debito.origen="cxc/f_nota_debito";
+        f_nota_debito.destruir();
+        f_nota_debito.inicializa();
+        if(!xdocumento)
+        {
+         alert('{$t_seleccionar_documento}');
+         return;
+        }
+        f_nota_debito.setValue("DOCUMENTO",xdocumento);
+    }
+    mostrar_formulario(f_nota_debito);
+    f_nota_debito.setValue("FECHA_DOCUMENTO",'{$fecha}');
+    f_nota_debito.setValue("ID_M_CLIENTES",xid_m_cliente);
+    f_nota_debito.setValue("NOMBRES",xTITULAR);
+    f_nota_debito.setValue("CODIGO1",xCODIGO1);
+    f_nota_debito.setValue("DIRECCION",xDIRECCION);
+    f_nota_debito.setValue("TELEFONO",xTELEFONOS);
+    f_nota_debito.setValue("ID_M_CAJAS",xid_m_cajas);
+    f_nota_debito.setValue("CAMPO4",xpadre);
+    f_nota_debito.setValue("TIPO",xtipo);
+}
+
+function Actualiza_detalle(objeto, xml)
+{
+    var registro = XML2Array(xml);
+    if (!registro[0]||!registro[0]['ID_D_CXC'])
+    {
+       d_cxc.limpiar();
+       xid_d_cxc =null;
+       return;
+    }
+    dxml = xml;
+        setTimeout('act_timer(dxml)',1000);
+}
+function act_timer(xml)
+{
+    if (t) window.clearTimeout(t);
+    dxml = xml;
+    t = window.setTimeout("muestra_detalle(dxml)",500);
+    actualizaHTML(xml,'PIED_');
+}
+
+function muestra_detalle(xml)
+{
+    var registro = XML2Array(xml);
+    xid_d_cxc   = registro[0]['ID_D_CXC'];
+    d_cxc.xfiltro =xid_d_cxc ;
+    d_cxc.buscar('*');
+}
+
+function VerPreview(doc,tipo)
+{
+   if(tipo !='ABO')
+   {
+    var xsufijo = tipo.toLowerCase();
+    if(tipo=='ADC') tipo='NDC';
+    impresora.origin = 'reportes/r_documento_' + tipo.toLowerCase()+'_graf';
+    impresora.setParam('ID_M_DOCUMENTOS',doc);
+	impresora.setParam('ID_M_DOC_FINAL',xID_M_DOC_FINAL);
+   }
+
+   if(tipo=='FAC')
+   {
+    	impresora.origin = 'reportes/r_documento_' + tipo.toLowerCase() + 't_carta_gra';
+      	impresora.preview();
+   }
+   else
+   {
+        impresora.setParam('letras',1);
+        impresora.showDialog = true;
+        //impresora.print();
+        impresora.preview();
+   }
+   m_cxc.setFocus();
+}
+
+function t_f_pagos(objeto, tecla, xml)
+{
+  switch (tecla)
+  {
+    case _f12:
+      if(!xid_m_cajas)
+      {
+        alert('{$t_caja_no_valida}');
+        return;
+      }
+      Guardar_abono();
+      break;
+
+    case _esc:
+      Salir_abono();
+      break;
+  }
+}
+
+function Guardar_abono()
+{
+     var x =genera_xml('D_CXC','SALDO','ID_D_CXC',xid_d_cxc,'=');
+     var registro= valida_xml(x,'SALDO');
+     if(!registro) return;
+     var xsaldo = unformat(registro[0]['SALDO']).toFixed(2);
+     var xmonto = unformat(f_pagos.getValue('CREDITOS'));
+
+     if(xmonto > xsaldo)
+     {
+         alert('{$t_ventas_002}');
+         f_pagos.setFocus();
+         return;
+     }
+
+     var registro = f_pagos.submit();
+     if(!registro) return;
+
+     ocultar_formulario(f_pagos);
+     m_cxc.actualizar(xid_d_cxc);
+     d_cxc.setFocus();
+     Calcula_saldo(xid_m_cliente);
+
+     Imprimir_Recibo(registro[0]['ID_D_PAGOS'],documento);
+}
+
+function Imprimir_Recibo(id_d_pagos,documento)
+{
+	impresora.origin = 'reportes/r_recibo_caja_grafico';
+    impresora.setParam('ID_D_PAGOS',id_d_pagos);
+    impresora.setParam('REFERENCIA',documento);
+	impresora.showDialog = true;
+
+    impresora.setParam('letras',1);
+    impresora.preview();      
+}
+
+function Salir_abono()
+{
+      ocultar_formulario(f_pagos);
+      m_cxc.setFocus();
+}
+
+function t_m_cliente(objeto, tecla, xml, e)
+{
+  var evt = window.event || e;
+  switch (tecla)
+  {
+    case _enter:
+         var registro = valida_xml(xml,'ID_M_CLIENTES');
+         if(!registro) return;
+         m_clientes.ocultar();
+         xid_m_cliente   = registro[0]['ID_M_CLIENTES'];
+
+         xCODIGO1        = registro[0]['CODIGO1'];
+         xCODIGO2        = registro[0]['CODIGO2'];
+         xTITULAR        = registro[0]['NOMBRES'];
+         xDIRECCION      = registro[0]['DIRECCION'];
+         xTELEFONOS      = registro[0]['TELEFONO1'];
+		 xCORREO     	 = registro[0]['CORREO'];
+
+         actualizaHTML(xml , 'ENCABEZADO');
+         m_cxc.xfiltro = xid_m_cliente+';0';
+         m_cxc.limpiar();
+         d_cxc.limpiar();
+         m_cxc.buscar();
+         m_cxc.setFocus();
+         Calcula_saldo(xid_m_cliente);
+    break;
+    case _esc:
+    	if(!xbandera) Salir();
+        else
+        {
+            m_clientes.ocultar();
+            m_cxc.setFocus();
+        }
+	break;
+  }
+}
+
+function t_m_cxc(objeto, tecla, xml, e)
+{
+  var evt = window.event || e;
+  switch (tecla)
+  {
+    case _insert:
+		cancelaTecla(evt);
+		break;
+
+	case _enter:
+        cancelaTecla(evt);
+        var registro = valida_xml(xml,'ID_D_CXC');
+        if(!registro) return;
+        xid_d_cxc=registro[0]['ID_D_CXC'];
+        d_cxc.setFocus();
+        mostrarLeyenda(1);
+       break;
+
+	case _supr:
+		cancelaTecla(evt);
+	break;
+	case _esc:
+		cancelaTecla(evt);
+		Salir();
+	break;
+
+	case _f1:
+	case _f2:
+		cancelaTecla(evt);
+	break;
+    case _f3:
+        cancelaTecla(evt);
+        m_clientes.mostrar();
+        m_clientes.setFocus();
+        xbandera='*';
+        break;
+    case _f4:
+        cancelaTecla(evt);
+        var registro = XML2Array(xml);
+        xdocumento = registro[0]['DOCUMENTO'];
+		
+        var xanticipo  = registro[0]['ID_M_DOC_FINAL'];
+		xID_M_DOC_FINAL = registro[0]['ID_M_DOC_FINAL'];
+        var xtipo = registro[0]['TIPO'];
+        //if (!xdocumento) return false;
+        if (xtipo == 'FAC' || xtipo == 'ADC' || xtipo == 'ND')
+        {
+        	VerPreview(xdocumento,xtipo);
+        }else
+        {
+			//alert(xanticipo);
+            Imprimir_anticipo(xanticipo);
+        }
+    break;
+	case _f5:
+		cancelaTecla(evt);
+	break;
+	case _f6:
+		cancelaTecla(evt);
+		var registro = valida_xml(xml,'ID_D_CXC');
+		if(!registro) return;
+		if( unformat(registro[0]['SALDO'])==0)
+		{
+			alert('{$t_operacion_no_permitida}');
+			return false;
+		}
+		var registro = valida_xml(xml,'DOCUMENTO');
+		if (!registro)
+		{
+			alert('{$t_operacion_no_permitida}');
+			return false;
+		}
+		xpadre = registro[0]['ID_D_CXC'];
+		//xreferencia = registro[0]['ID_M_DOC_FINAL'];
+		xdocumento  = registro[0]['DOCUMENTO'];
+		Filtrar_debito("ADC")
+	break;
+
+    case _f7:
+		cancelaTecla(evt);
+		var registro = valida_xml(xml,'DOCUMENTO');
+		if (!registro)
+		{
+			alert('{$t_operacion_no_permitida}');
+			return false;
+		}
+		var registro = valida_xml(xml,'ID_D_CXC');
+		if(!registro) return;
+		if( unformat(registro[0]['SALDO'])==0)
+		{
+			alert('{$t_operacion_no_permitida}');
+			return false;
+		}
+		xpadre = registro[0]['ID_D_CXC'];
+		xreferencia = registro[0]['ID_M_DOC_FINAL'];
+		xdocumento  = registro[0]['DOCUMENTO'];
+		Filtrar_debito("NDC")
+	break;
+
+    case _f8:
+        cancelaTecla(evt);
+        if(xid_m_cajas=='')
+        {
+         alert('$t_caja_no_valida');
+         return;
+        }
+        f_anticipos.limpiar();
+        f_anticipos.setValue('FECHA_PAGO',xfecha);
+        f_anticipos.setValue('IDX',xid_m_cliente);
+        f_anticipos.setValue('TABLA','M_CLIENTES');
+        masDatos_anticipo();
+        mostrar_formulario(f_anticipos);
+        break;
+    case _f9:
+    case _f10:
+    case _f11:
+    case _f12:
+		cancelaTecla(evt);	
+        break;
+  }
+}
+
+function masDatos()
+{
+    var xtipo = f_pagos.getValue("ID_M_TIPO_PAGOS");
+    if(!xtipo) return;
+    f_pagos.ocultarCampo("ID_M_BANCOS");
+	f_pagos.setValue("ID_M_BANCOS","");
+    f_pagos.ocultarCampo("FECHA_PAGO2");
+	f_pagos.setValue("FECHA_PAGO2","");
+	f_pagos.ocultarCampo("NUMERO");
+	f_pagos.setValue("NUMERO","");
+	f_pagos.ocultarCampo("CUENTA");
+	f_pagos.setValue("CUENTA","");
+	f_pagos.ocultarCampo("CODIGO1");
+	f_pagos.setValue("CODIGO1","");
+	f_pagos.ocultarCampo("TITULAR");
+	f_pagos.setValue("TITULAR","");
+	f_pagos.ocultarCampo("TELEFONOS");
+	f_pagos.setValue("TELEFONOS","");
+	f_pagos.ocultarCampo("ID_M_CUENTAS_BANCARIAS");
+	f_pagos.setValue("ID_M_CUENTAS_BANCARIAS","");
+
+    for(i=0;i<frm_campos[xtipo].length;i++)
+    {
+        //alert(frm_campos[xtipo][i]);
+        f_pagos.mostrarCampo(frm_campos[xtipo][i]);
+        var xvalor = eval('x'+frm_campos[xtipo][i]);
+        f_pagos.setValue(frm_campos[xtipo][i],xvalor);
+    }
+	//alert(frm_cuentas[xtipo][0]);
+	f_pagos.setValue("ID_M_CUENTAS_BANCARIAS", frm_cuentas[xtipo][0]);
+}
+
+function masDatos_anticipo()
+{
+	var xtipo = f_anticipos.getValue("ID_M_TIPO_PAGOS");
+	 if(!xtipo) return;
+    f_anticipos.ocultarCampo("ID_M_BANCOS");
+	f_anticipos.setValue("ID_M_BANCOS","");
+    f_anticipos.ocultarCampo("FECHA_PAGO2");
+	f_anticipos.setValue("FECHA_PAGO2","");
+	f_anticipos.ocultarCampo("NUMERO");
+	f_anticipos.setValue("NUMERO","");
+	f_anticipos.ocultarCampo("CUENTA");
+	f_anticipos.setValue("CUENTA","");
+	f_anticipos.ocultarCampo("CODIGO1");
+	f_anticipos.setValue("CODIGO1","");
+	f_anticipos.ocultarCampo("TITULAR");
+	f_anticipos.setValue("TITULAR","");
+	f_anticipos.ocultarCampo("TELEFONOS");
+	f_anticipos.setValue("TELEFONOS","");
+	f_anticipos.ocultarCampo("ID_M_CUENTAS_BANCARIAS");
+	f_anticipos.setValue("ID_M_CUENTAS_BANCARIAS","");
+    for(i=0;i<frm_campos[xtipo].length;i++)
+    {
+		//alert(frm_campos[xtipo][i]);
+        f_anticipos.mostrarCampo(frm_campos[xtipo][i]);
+        var xvalor = eval('x'+frm_campos[xtipo][i]);
+        f_anticipos.setValue(frm_campos[xtipo][i],xvalor);
+    }
+	f_anticipos.setValue("ID_M_CUENTAS_BANCARIAS", frm_cuentas[xtipo][0]);
+}
+
+function t_d_cxc(objeto, tecla, xml, e)
+{
+  var evt = window.event || e;
+  switch (tecla)
+  {
+    case _esc:
+        cancelaTecla(evt);
+        m_cxc.setFocus();
+        mostrarLeyenda(0);
+        break;
+    case _insert:
+    case _supr:
+            cancelaTecla(evt);
+        
+    break;
+    case _f1:
+    case _f2:
+    case _f3:
+    case _f4:
+        cancelaTecla(evt);
+        var registro= valida_xml(xml,'ID_D_CXC');
+        if(!registro) return;
+        var xtipo   = registro[0]['TIPO'];
+        reporte = xtipo +'_'+ impresora_formato +'_'+  impresora_protocolo;
+        switch (xtipo)
+        {
+         case 'ACC':
+            var xarqueo= registro[0]['ID_M_ARQUEOS'];
+            if (xtipo=='ACC'){xtipo='NCC'};
+            if(impresora_protocolo == 'GRA') impresora.origin = 'reportes/r_documento_ncc_carta_gra';
+    		else{
+	           impresora.origin = 'reportes/r_documento_' + reporte.toLowerCase();
+            }
+            impresora.setParam('ID_M_DOCUMENTOS',registro[0]['DOCUMENTO']);
+            impresora.setParam('letras',1);
+            //impresora.preview();
+            impresora.print();
+         break;
+         case 'ADC':
+            var xarqueo= registro[0]['ID_M_ARQUEOS'];
+
+            if(impresora_protocolo == 'GRA') impresora.origin = 'reportes/r_documento_ndc_graf';
+    		else impresora.origin = 'reportes/r_documento_ncc';
+            impresora.setParam('ID_M_DOCUMENTOS',registro[0]['DOCUMENTO']);
+            impresora.setParam('letras',1);
+            //impresora.preview();
+            impresora.print();
+         break;
+         case 'NCC':
+            var xarqueo= registro[0]['ID_M_ARQUEOS'];
+            if(impresora_protocolo == 'GRA') impresora.origin = 'reportes/r_documento_ncc_carta_gra';
+    		else
+            {
+	           impresora.origin = 'reportes/r_documento_' + reporte.toLowerCase();
+            }
+            impresora.setParam('ID_M_DOCUMENTOS',registro[0]['DOCUMENTO']);
+            impresora.setParam('letras',1);
+            //impresora.preview();
+            impresora.print();
+         break;
+         case 'NDC':
+            var xarqueo= registro[0]['ID_M_ARQUEOS'];
+            if(impresora_protocolo == 'GRA') impresora.origin = 'reportes/r_documento_ndc_graf';
+    		else impresora.origin = 'reportes/r_documento_ndc';
+            impresora.setParam('ID_M_DOCUMENTOS',registro[0]['DOCUMENTO']);
+            impresora.setParam('letras',1);
+            //impresora.preview();
+            impresora.print();
+         break;
+         case 'DEV':
+            if(ximpresora = 'GRA') impresora.origin = 'reportes/r_documento_dev_graf';
+    		else impresora.origin = 'reportes/r_documento_dev';
+            impresora.setParam('ID_M_DOCUMENTOS',registro[0]['DOCUMENTO']);
+            impresora.setParam('letras',1);
+            //impresora.preview();
+            impresora.print();
+         break;
+         case 'ABO':
+            documento=registro[0]['REFERENCIA'];
+  			Imprimir_Recibo(registro[0]['ID_D_PAGOS'],documento);
+         break;
+        default:
+        break;
+        }
+    break;
+    case _f5:
+    case _f6:
+	case _f6:
+		cancelaTecla(evt);
+		xml = m_cxc.elementoXml();
+		var registro = valida_xml(xml,'DOCUMENTO');
+		if (!registro)
+		{
+			alert('{$t_operacion_no_permitida}');
+			return false;
+		}
+		var registro = valida_xml(xml,'ID_D_CXC');
+		if(!registro) return;
+		if( unformat(registro[0]['SALDO'])==0)
+		{
+			alert('Verifique el saldo del documento');
+			return false;
+		}
+		xpadre = registro[0]['ID_D_CXC'];
+		xreferencia = registro[0]['ID_M_DOC_FINAL'];
+		xdocumento  = registro[0]['DOCUMENTO'];
+		Filtrar_nota("ACC");
+	break;	
+	case _f7:
+		cancelaTecla(evt);
+		xml = m_cxc.elementoXml();
+		var registro = valida_xml(xml,'DOCUMENTO');
+		if (!registro || registro[0]['TIPO']=='ADC')
+		{
+			alert('{$t_operacion_no_permitida}');
+			return false;
+		}
+		var registro = valida_xml(xml,'ID_D_CXC');
+		if(!registro) return;
+		if( unformat(registro[0]['SALDO'])==0)
+		{
+			alert('Verifique el saldo del documento');
+			return false;
+		}
+		xpadre = registro[0]['ID_D_CXC'];
+		xreferencia = registro[0]['ID_M_DOC_FINAL'];
+		xdocumento  = registro[0]['DOCUMENTO'];
+		Filtrar_nota("NCC");
+	break;	
+    case _f8:
+    case _f9:
+    	cancelaTecla(evt);
+        if(xid_m_cajas=='')
+        {
+               alert('$t_caja_no_valida');
+        return;
+        }
+		xml = m_cxc.elementoXml();
+        var registro = valida_xml(xml,'ID_D_CXC');
+        if(!registro) return;
+
+        var xsaldo= unformat(registro[0]['SALDO']).toFixed(2);
+        if(xsaldo==0)
+        {
+            alert('{$t_ventas_002}');
+            return;
+        }
+        if(xid_m_cajas=='')
+        {
+        	alert('{$t_autorizacion_recibir_pagos}');
+            return false;
+        }
+
+        if(registro[0]['TIPO']=='ANT')
+        {
+        	alert('{$t_operacion_no_permitida}');
+            return;
+        }
+
+        f_pagos.limpiar();
+	    xid_d_cxc = registro[0]['ID_D_CXC'];
+	    xsaldo    = unformat(registro[0]['SALDO']);
+        xdocumento= registro[0]['DOCUMENTO'];
+        documento = xdocumento=registro[0]['ID_M_DOC_FINAL'];
+	    f_pagos.setValue('FECHA_PAGO' , xfecha);
+	    f_pagos.setValue('CAMPO5'   , registro[0]['ID_D_CXC']);
+	    f_pagos.setValue('DOCUMENTO'  , registro[0]['DOCUMENTO']);
+	    f_pagos.setValue('IDX'        , xid_m_cliente);
+	    f_pagos.setValue('CODIGO1'    , xCODIGO1);
+	    f_pagos.setValue('TABLA'      , 'M_CLIENTES');
+	    f_pagos.setValue('TIPO'       , 'ABO');
+        f_pagos.setValue('CREDITOS'   ,xsaldo);
+        f_pagos.setValue('ID_M_CAJAS',xid_m_cajas );
+        masDatos();
+        mostrar_formulario(f_pagos);
+    break;
+	
+    case _f10:
+    case _f11:
+         cancelaTecla(evt);
+		 xml = m_cxc.elementoXml();
+         var registro = valida_xml(xml,'ID_D_CXC');
+        if(!registro) return;
+        var xsaldo= unformat(registro[0]['SALDO']);
+        if(xsaldo==0)
+        {
+            alert('{$t_ventas_002}');
+            return;
+        }
+
+        xpadre   = registro[0]["ID_D_CXC"];
+        var tipo = registro[0]["TIPO"];
+        f_retencion.origen="cxc/f_retencion_iva";
+        f_retencion.destruir();
+        f_retencion.inicializa();
+        f_retencion.limpiar();
+
+        if (tipo == 'FAC' ||tipo =='NDC')
+        {
+             f_retencion.setValue("ID_M_CLIENTES",xid_m_cliente);
+             f_retencion.setValue("CAMPO4",xpadre);
+             f_retencion.setValue("TIPO","RIC");
+             f_retencion.setValue("FECHA_DOCUMENTO",xfecha);
+             f_retencion.setValue("FECHA_RECEPCION",xfecha);
+             f_retencion.setValue("DOCUMENTO",registro[0]['DOCUMENTO']);
+             f_retencion.setValue("REFERENCIA",registro[0]['REFERENCIA']);
+             f_retencion.setValue("ESTATUS",'C');
+             mostrar_formulario(f_retencion);
+
+        } else{
+			alert('Documento no válido para aplicar retención');
+			return;
+		} 
+		break;
+	
+    case _f12:
+		cancelaTecla(evt);
+		xml=m_cxc.elementoXml();
+		var registro = valida_xml(xml,'ID_D_CXC');
+        if(!registro) return;
+        var xsaldo= unformat(registro[0]['SALDO']);
+        if(xsaldo==0)
+        {
+            alert('{$t_ventas_002}');
+            return;
+        }
+
+        xpadre   = registro[0]["ID_D_CXC"];
+        var tipo = registro[0]["TIPO"];
+        f_retencion.origen="cxc/f_retencion_isrl";
+        f_retencion.destruir();
+        f_retencion.inicializa();
+        f_retencion.limpiar();
+
+        if (tipo == 'FAC' ||tipo =='NDC')
+        {
+             f_retencion.setValue("ID_M_CLIENTES",xid_m_cliente);
+             f_retencion.setValue("CAMPO4",xpadre);
+             f_retencion.setValue("TIPO","RRC");
+             f_retencion.setValue("FECHA_DOCUMENTO",xfecha);
+             f_retencion.setValue("FECHA_RECEPCION",xfecha);
+             f_retencion.setValue("DOCUMENTO",registro[0]['DOCUMENTO']);
+             f_retencion.setValue("REFERENCIA",registro[0]['REFERENCIA']);
+             f_retencion.setValue("ESTATUS",'C');
+             mostrar_formulario(f_retencion);
+
+        } else{
+			alert('Documento no válido para aplicar retención');
+			return;
+		} 
+		break;
+  }
+}
+function Eliminar_abono(confirmado)
+{
+      if(!confirmado)
+      {
+        xclave.hide();
+        d_cxc.setFocus();
+      }
+      else
+      {
+         var url = server_path + 'herramientas/utiles/actualizar_registro.php';
+         var params = "origen=cxc/d_cxc&procedimiento=ELIMINAR_ABONO&ID_D_CXC=" + xabono;
+         var x=enviar(url,params,'POST');
+         d_cxc.buscar('*');
+         m_cxc.actualizar(xid_d_cxc);
+         xclave.hide();
+         d_cxc.setFocus();
+      }
+}
+function t_f_retencion(objeto, tecla, xml)
+{
+  switch (tecla)
+  {
+    case _f12: // F12 Guardar
+         Guardar_ret();
+    break;
+
+    case _esc: // ESC Cerrar Formulario
+        Salir_ret();
+    break;
+  }
+}
+function Guardar_ret()
+{
+     var x =genera_xml('D_CXC','SALDO','ID_D_CXC',xpadre,'=');
+     var registro= valida_xml(x,'SALDO');
+     if(!registro) return;
+     var xsaldo = unformat(registro[0]['SALDO']);
+     var xmonto = unformat(f_retencion.getValue('NETO'));
+     if(xmonto > xsaldo )
+     {
+         alert('{$t_ventas_002}');
+         f_retencion.setFocus();
+         return;
+     }
+
+     var registro = f_retencion.submit();
+     if(!registro[0]) return;
+     m_cxc.actualizar(xpadre);
+     m_cxc.setFocus();
+     ocultar_formulario(f_retencion);
+     Calcula_saldo(xid_m_cliente);
+}
+function Salir_ret()
+{
+      ocultar_formulario(f_retencion);
+      m_cxc.setFocus();
+}
+
+function t_f_nota_debito(objeto, tecla, xml)
+{
+  switch (tecla)
+  {
+    case _f12: // F12 Guardar
+        Guardar_nd(objeto);
+    break;
+
+    case _esc: // ESC Cerrar Formulario
+        Salir_nd();
+    break;
+
+  }
+}
+
+function Guardar_nd()
+{
+	var xneto = unformat(f_nota_debito.getValue("NETO"));
+	if(xneto<=0)
+	{
+	    alert('{$t_monto_mayor}');
+	    f_nota_debito.setFocus();
+	    return;
+	}
+
+	var xconcepto=f_nota_debito.getValue("r_CAMPO1" );
+	f_nota_debito.setValue("CAMPO2",xconcepto);
+	var registro = f_nota_debito.submit();
+	if(!registro||!registro[0]) return;
+	ocultar_formulario(f_nota_debito);
+	Calcula_saldo(xid_m_cliente);
+	m_cxc.buscar(registro[0]['ID_D_CXC'],'ID_D_CXC','=');
+	m_cxc.setFocus();
+}
+
+function Salir_nd()
+{
+   ocultar_formulario(f_nota_debito);
+   m_cxc.setFocus();
+}
+
+function t_f_nota_credito(objeto, tecla, xml)
+{
+  switch (tecla)
+  {
+    case _f12: // F12 Guardar
+        Guardar_nc();
+    break;
+
+    case _esc: // ESC Cerrar Formulario
+        Salir_nc();
+    break;
+
+  }
+}
+function Guardar_nc()
+{
+     var x =genera_xml('D_CXC','SALDO','ID_D_CXC',xpadre,'=');
+     var registro= valida_xml(x,'SALDO');
+     if(!registro) return;
+     var xsaldo = unformat(registro[0]['SALDO']).toFixed(2);
+     var xmonto = unformat(f_nota_credito.getValue('NETO')).toFixed(2);
+     if(abs(xmonto) > abs(xsaldo) )
+     {
+         alert('{$t_ventas_002}');
+         f_nota_credito.setFocus();
+         return;
+     }
+     var xconcepto=f_nota_credito.getValue("r_CAMPO1" );
+     f_nota_credito.setValue("CAMPO2",xconcepto);
+     var registro = f_nota_credito.submit();
+     if(!registro) return;
+     ocultar_formulario(f_nota_credito);
+     m_cxc.actualizar(xpadre);
+     xpadre=null;
+	 
+     Calcula_saldo(xid_m_cliente);
+     d_cxc.setFocus();
+}
+
+function t_f_anticipos(objeto, tecla, xml)
+{
+  switch (tecla)
+  {
+    case _f12: // F12 Guardar
+      f_anticipos.setValue('ID_M_CAJAS',xid_m_cajas);
+      var registro = f_anticipos.submit();
+      if(!registro) return false;
+      var xanticipo=registro[0]['ID_M_ANTICIPOS'];
+      var xml=genera_xml('D_CXC','ID_D_CXC','ID_M_ANTICIPOS',xanticipo,'=');
+      registro = valida_xml(xml,'ID_D_CXC');
+      if(!registro) return;
+      ocultar_formulario(f_anticipos);
+      m_cxc.buscar(registro[0]['ID_D_CXC'],'=');
+      m_cxc.setFocus();
+      Calcula_saldo(xid_m_cliente);
+      //Imprimir_anticipo(xanticipo);
+      xanticipo =null;
+    break;
+
+    case _esc: // ESC Cerrar Formulario
+      ocultar_formulario(f_anticipos);
+      m_cxc.mostrar();
+      m_cxc.setFocus();
+    break;
+  }
+}
+
+function Salir_nc()
+{
+      ocultar_formulario(f_nota_credito);
+      m_cxc.setFocus();
+}
+function Calcula_impuesto(objeto,xml)
+{
+  var formulario = objeto.nombre;
+  var registro = XML2Array(xml);
+  var impuesto = registro[0]["MONTO_IMPUESTO"];
+  f_activo.setValue("IMPUESTO",impuesto);
+  var concepto = registro[0]["NOMBRES"];
+  f_activo.setValue("NOMBRE_VENDEDOR",concepto);
+
+}
+function Calcula_saldo(xid_m_cliente)
+{
+   var url = server_path + 'herramientas/genera_xml/genera_xml.php';
+   var params = "origen=cxc/m_cxc&procedimiento=SALDO&ID_M_CLIENTES=" + xid_m_cliente;
+   var xml= enviar(url, params, 'GET');
+   actualizaHTML(xml,'PIE','totales');
+}
+
+function mostrar_formulario(xformulario)
+{
+    contenedor.setTitle(xformulario.titulo);
+    contenedor.setWidth(xformulario.ancho);
+    contenedor.setHeight(xformulario.alto);
+    centrarObj(contenedor.contenedor);
+    contenedor.setLegend(xformulario.leyenda);
+    contenedor.mostrar();
+    xformulario.mostrar();
+
+    f_activo = xformulario;
+    window.setTimeout("f_activo.setFocus()", 100);
+}
+
+function ocultar_formulario(xformulario)
+{
+    contenedor.ocultar();
+    xformulario.ocultar();
+}
+
+function Imprimir_anticipo(anticipo)
+{
+    if(ximpresora = 'GRA'){
+		impresora.origin = 'reportes/r_anticipo_graf';
+	}else{
+		impresora.origin = 'reportes/r_anticipo';
+	} 
+    impresora.setParam('ID_M_ANTICIPOS',anticipo);
+    impresora.setParam('letras',1);
+    impresora.showDialog = true;
+    impresora.preview();
+}
+
+function iniciar()
+{
+	console.clear();
+    contenedor.inicializa();
+    centrarObj(contenedor.contenedor);
+
+    m_cxc.inicializa(false);
+    m_cxc.mostrar();
+
+    d_cxc.inicializa(false);
+    d_cxc.mostrar();
+
+    m_clientes.inicializa(false);
+    centrarObj(m_clientes.contenedor);
+
+    f_pagos.inicializa();
+	f_nota_credito.inicializa(false);
+	f_nota_debito.inicializa(false);
+    f_retencion.inicializa();
+    f_anticipos.inicializa();
+
+    pmenu.init();
+
+    addEvent(frm_f_pagos.ID_M_TIPO_PAGOS, 'change', masDatos);
+    addEvent(frm_f_anticipos.ID_M_TIPO_PAGOS, 'change', masDatos_anticipo);
+
+    addEvent(M_CXC_F3,    "click",   function()   { t_m_cxc('', _f3,      m_cxc.elementoXml()) } )
+    addEvent(M_CXC_ENTER, "click",   function()   { t_m_cxc('', _enter,   m_cxc.elementoXml()) } )
+    addEvent(M_CXC_F6,    "click",   function()   { t_m_cxc('', _f6,      m_cxc.elementoXml()) } )
+	addEvent(M_CXC_F7,    "click",   function()   { t_m_cxc('', _f7,      m_cxc.elementoXml()) } )
+    addEvent(M_CXC_F4,    "click",   function()   { t_m_cxc('', _f4,      m_cxc.elementoXml()) } )
+    addEvent(M_CXC_F8,    "click",   function()   { t_m_cxc('', _f8,      m_cxc.elementoXml()) } )
+    
+	addEvent(D_CXC_F6,    "click",   function()   { t_d_cxc('', _f6,      d_cxc.elementoXml()) } )
+	addEvent(D_CXC_F7,    "click",   function()   { t_d_cxc('', _f7,      d_cxc.elementoXml()) } )
+	addEvent(D_CXC_F9,    "click",   function()   { t_d_cxc('', _f9,      d_cxc.elementoXml()) } )
+    addEvent(D_CXC_ESC,   "click",   function()   { t_d_cxc('', _esc,     d_cxc.elementoXml()) } )
+    addEvent(D_CXC_F11,   "click",   function()   { t_d_cxc('', _f11,     d_cxc.elementoXml()) } )
+    addEvent(D_CXC_F12,   "click",   function()   { t_d_cxc('', _f12,     d_cxc.elementoXml()) } )
+
+    addEvent(D_CXC_ENTER, "click",   function() { t_d_cxc('', _enter,   d_cxc.elementoXml()) } )
+    addEvent(D_CXC_ESC,   "click",   function() { t_d_cxc('', _esc,     d_cxc.elementoXml()) } )
+    addEvent(D_CXC_F4,    "click",   function() { t_d_cxc('', _f4,      d_cxc.elementoXml()) } )
+
+    addEvent(m_clientes_ENTER, "click",   function() { t_m_cliente('', _enter, m_clientes.elementoXml()) } )
+    addEvent(m_clientes_ESC, "click",     function() { t_m_cliente('', _esc, m_clientes.elementoXml()) } )
+
+    var extra = '<center>';
+    extra +='<input name="FILTRO" id="oTODOS" type="radio" onclick="Switch(\'TODOS\')"><b><u>M</u></b>ostrar Todos';
+    extra +='<input name="FILTRO" id="oSALDO" type="radio" checked="checked" onclick="Switch(\'SALDO\')"> Mostrar Con Sa<b><u>l</u></b>do';
+    extra +='</center>';
+
+	m_cxc.extra(extra);
+	
+    mostrarLeyenda(0);
+
+    document.onclick=function() { if (parent.menu) parent.menu.reset(); }
+
+    return true;
+}
+
+function Switch(opcion)
+{
+    switch(opcion)
+    {
+    case 'TODOS':
+            m_cxc.filtro  = 'ID_M_CLIENTES';
+            m_cxc.xfiltro = xid_m_cliente;
+            m_cxc.xoperadores = '';
+        break;
+        case 'SALDO':
+            m_cxc.filtro  = 'ID_M_CLIENTES;SALDO';
+            m_cxc.xfiltro = xid_m_cliente+';0';
+            m_cxc.xoperadores = '=;<>';
+        break
+    }
+    m_cxc.buscar('*');
+    m_cxc.setFocus();
+}
+
+
+
+function t_pmenu(obj,tecla)
+{
+  switch (tecla)
+  {
+    case _esc:
+      m_cxc.setFocus();
+    break;
+  }
+}
+ 
+function Salir(){
+	location.href = server_path + 'main/inicio.php';
+}
+
+
+function inicio()
+{
+    m_clientes.mostrar();
+    m_clientes.setFocus();
+}
+
+var resp = iniciar();
+if(resp)
+{
+        inicio();
+}
+else
+{
+        Salir();
+}
+</script>
+
+
+</body>
+</html>
+
+EOT;
+
+?>

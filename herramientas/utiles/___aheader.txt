@@ -1,0 +1,765 @@
+xxxxxxxxx_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 162
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 5987627
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 162
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 55964
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515564.793
+    [REQUEST_TIME] => 1569515564
+)
+$_SESSION
+Array
+(
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 163
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 11912558
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 163
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 55997
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515622.354
+    [REQUEST_TIME] => 1569515622
+)
+$_SESSION
+Array
+(
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 163
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 80694571
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 163
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 56018
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515655.348
+    [REQUEST_TIME] => 1569515655
+)
+$_SESSION
+Array
+(
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 163
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 28728957
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 163
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 56035
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515679.65
+    [REQUEST_TIME] => 1569515679
+)
+$_SESSION
+Array
+(
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 163
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 22158308
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 163
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 56081
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515765.55
+    [REQUEST_TIME] => 1569515765
+)
+$_SESSION
+Array
+(
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 163
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 40587582
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 163
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 56093
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515784.342
+    [REQUEST_TIME] => 1569515784
+)
+$_SESSION
+Array
+(
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 163
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 33457814
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 163
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 56137
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515851.413
+    [REQUEST_TIME] => 1569515851
+)
+$_SESSION
+Array
+(
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+_HEADER
+Array
+(
+    [Host] => 192.168.1.149
+    [Connection] => keep-alive
+    [Content-Length] => 163
+    [llave] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [Origin] => http://192.168.1.149
+    [X-Requested-With] => XMLHttpRequest
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [db] => usame
+    [Content-Type] => application/x-www-form-urlencoded
+    [Accept] => */*
+    [Referer] => http://192.168.1.149/usame/movil/www/index.html
+    [Accept-Encoding] => gzip, deflate
+    [Accept-Language] => es-ES,es;q=0.9
+    [Cookie] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+)
+_REQUEST
+Array
+(
+    [auth] => undefined
+    [rnd] => 61317831
+    [tabla] => M_USUARIOS
+    [busca] => ID_M_USUARIO
+    [xbusca] => 00150
+    [filtro] => 
+    [onload] => 
+    [unload] => 
+    [xfiltro] => 
+    [c_NOMBRES_CSS] => PRUEBA
+    [c_APELLIDOS_CSS] => PRUEBA IBARRARRA
+)
+$_SERVER
+Array
+(
+    [HTTP_HOST] => 192.168.1.149
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 163
+    [HTTP_LLAVE] => FA703863-661D-EE0E-05EC-A125F1FE6C4C
+    [HTTP_ORIGIN] => http://192.168.1.149
+    [HTTP_X_REQUESTED_WITH] => XMLHttpRequest
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [HTTP_DB] => usame
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT] => */*
+    [HTTP_REFERER] => http://192.168.1.149/usame/movil/www/index.html
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_ACCEPT_LANGUAGE] => es-ES,es;q=0.9
+    [HTTP_COOKIE] => PHPSESSID=c6slbohumtt5dd0fsfv7a239r4
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.10 (Debian) Server at 192.168.1.149 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.10 (Debian)
+    [SERVER_NAME] => 192.168.1.149
+    [SERVER_ADDR] => 192.168.1.149
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 192.168.1.57
+    [DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /opt/lampp/htdocs/
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /opt/lampp/htdocs/usame/herramientas/utiles/actualizar_registro_json.php
+    [REMOTE_PORT] => 56178
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /usame/herramientas/utiles/actualizar_registro_json.php?
+    [SCRIPT_NAME] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [PHP_SELF] => /usame/herramientas/utiles/actualizar_registro_json.php
+    [REQUEST_TIME_FLOAT] => 1569515925.828
+    [REQUEST_TIME] => 1569515925
+)
+$_SESSION
+Array
+(
+    [db] => usame
+    [M_USUARIOS_ID_M_USUARIO] => 0016
+    [M_USUARIOS_NOMBRES] => LUIS MANUEL NUÑEZ
+    [M_GRUPOS_ID_M_GRUPOS] => XXXXGRUP0011
+    [M_GRUPOS_GRUPOS] => DEPARTAMENTO DE SISTEMAS
+    [M_USUARIOS_ID_M_CLIENTES] => 
+    [M_USUARIOS_NOMBRE_CLIENTE] => 
+    [M_USUARIOS_HOST] => 
+    [M_USUARIOS_SISTEMA] => 
+)
+xxxxxxxxxxxxxxxxxxxxxx
+22222222222222222
+33333333333333333
+xxxxxxxxxxxxxxxxxxxxxx
+Array
+(
+    [0] => sql Object
+        (
+            [sql] => update M_USUARIOS set NOMBRES= 'PRUEBA',APELLIDOS= 'PRUEBA IBARRARRA', ID_M_USUARIOS='0016' , ID_M_AREAS='' , UNICO='C4DB6AD5C7DDE5D2FB4D346A5DEE93A2' , ACCION='U'  where ID_M_USUARIO = '00150'
+            [sql_log] => update M_USUARIOS set NOMBRES= 'PRUEBA',APELLIDOS= 'PRUEBA IBARRARRA' where ID_M_USUARIO = '00150'
+            [sql_count] => 
+            [criterio] => ID_M_USUARIO = '00150'
+            [tabla] => M_USUARIOS
+            [campos] => 
+            [busca] => ID_M_USUARIO
+            [xbusca] => 00150
+            [orden] => 
+            [orddesc] => 
+            [limite] => 
+            [origen] => 
+            [operador] => =
+            [array_asociativo] => 1
+            [procedimiento] => 
+            [regi] => 
+            [topen] => '
+            [tclose] => '
+            [prefijo] => v_
+            [arreglo] => 
+            [tipo] => update
+            [my_ini] => 
+            [camposql] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => NOMBRES
+                            [value] => PRUEBA
+                            [value_sql] => 'PRUEBA'
+                            [tipo] => C
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => APELLIDOS
+                            [value] => PRUEBA IBARRARRA
+                            [value_sql] => 'PRUEBA IBARRARRA'
+                            [tipo] => C
+                        )
+
+                )
+
+            [filtro] => 
+            [filtrar] => 
+            [filtro_op] => 
+            [Error] => 
+            [conexion] => 
+            [unico] => C4DB6AD5C7DDE5D2FB4D346A5DEE93A2
+            [cOrden] => 
+            [zOrden] => 
+            [pagina] => 
+            [paginas] => 
+            [registros] => 
+            [zcampos] => 
+            [actureg] => 
+            [accion] => 
+            [convertir_numero_letras] => 
+            [tabla_log] => log_2019-09-26
+            [contar] => 1
+            [DBHost] => localhost
+            [DBDatabase] => /opt/lampp/firebird/db/usame.gdb
+            [DBUser] => SYSDBA
+            [DBPassword] => masterkey
+            [Persistent] => 
+            [Uppercase] => 1
+            [Link_ID] => Resource id #11
+            [Query_ID] => 1
+            [Record] => Array
+                (
+                )
+
+            [Row] => 0
+            [Reg_Afect] => 1
+            [Auto_Free] => 1
+            [Connected] => 1
+            [reg_campos] => Array
+                (
+                )
+
+            [reg_campos_tipos] => Array
+                (
+                )
+
+            [arreglo_atributos] => Array
+                (
+                )
+
+            [erro] => 
+            [erro_msg] => 
+            [LastSQL] => update M_USUARIOS set NOMBRES= 'PRUEBA',APELLIDOS= 'PRUEBA IBARRARRA', ID_M_USUARIOS='0016' , ID_M_AREAS='' , UNICO='C4DB6AD5C7DDE5D2FB4D346A5DEE93A2' , ACCION='U'  where ID_M_USUARIO = '00150' /* LUIS MANUEL NUÑEZ - 192.168.1.57 */
+            [in_transaction] => 
+            [transaction_id] => 0
+            [transaction_error] => 0
+            [primero] => 
+            [ultimo] => 
+            [xwhere] => 
+            [campo_blob] => 
+            [next_id] => 
+            [DBPort] => 
+        )
+
+)

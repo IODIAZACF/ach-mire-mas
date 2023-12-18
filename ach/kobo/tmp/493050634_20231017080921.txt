@@ -1,0 +1,350 @@
+stdClass Object
+(
+    [_id] => 493050634
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-10-17T07:25:58.444-05:00
+    [end] => 2023-10-17T08:09:20.265-05:00
+    [group_pl6la06/_1_C_digo] => CAPU-940.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-09-29
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-10-04
+    [group_pl6la06/_4_Departamento] => CAQUETA
+    [group_pl6la06/CAQUETA] => PUERTO RICO
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Santana Ramos
+    [group_pl6la06/_9_Tipo_de_emergencia] => RESTRICCION_DE_MOVILIDAD
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => OCHA OTRO_ORIGEN
+    [group_pl6la06/_Cu_l_001] => Defensoría del Pueblo
+    [group_mb5pt53/_1a_Evaluador] => Angie Lorena Carvajal López
+    [group_mb5pt53/_1b_Celular] => 3102166477
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_mb5pt53/_2a_Evaluador] => Cristian Henao
+    [group_mb5pt53/_2b_Celular] => 3168173550
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => MEDICOS_DEL_MUNDO_MDM
+    [group_mb5pt53/_3a_Evaluador] => Camilo Ruiz Gómez
+    [group_mb5pt53/_3b_Celular] => 3102993637
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => ACCION_CONTRA_EL_HAMBRE_ACH
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-08-11
+    [group_rq63s60/_1c_Descripci_n_del_evento] => La disputa por el control territorial en el área de la cordillera del municipio de Puerto Rico ha desencadenado una crisis humanitaria en la que no se respeta el derecho de distinción y las comunidades quedan atrapadas en medio de este conflicto armado, lo que ha generado diversas necesidades y vulnerabilidades. Las tensiones se intensificaron en mayo de 2023 en el corregimiento de Santana Ramos, cuando el Estado Mayor Central (EMC) comenzó a ejercer presión en una zona que previamente estaba bajo el control exclusivo de la Segunda Marquetalia (SM).
+
+El día 27 de mayo se presenta un enfrentamiento entre los GANE en la vereda Arenoso de Santana Ramos; de igual manera, se dio el ingreso de personas armadas al centro poblado del corregimiento. Inicialmente se conoció que se trataba de estructuras del EMC – Frente Rodrigo Cadete, quienes convocaron a las comunidades a reuniones en las que informaron sobre su presencia y control sobre el territorio.
+
+Los efectos y la expansión de la crisis humanitaria por estos hechos ya habían sido advertidos por la Defensoría del Pueblo en diferentes escenarios, donde insta al Gobierno nacional a llevar a cabo medidas de prevención, protección y seguridad a corto plazo, a fin de garantizar de manera inmediata la seguridad de la población civil; incluyendo la creación de un corredor humanitario en apoyo de las comunidades que residen en Santana Ramos.
+
+Sin embargo, para el mes de agosto se registran nuevas acciones bélicas relacionadas con combates y enfrentamientos con interposición de la población civil. El 13 de agosto de 2023, se presentó un enfrentamiento en el centro poblado de Santana Ramos, y continua en cercanías al corregimiento el día 15 de agosto, en el que se dio la presencia de cuerpos sin vida, que se presume, corresponden a miembros de los grupos en disputa.
+
+Desde el inicio de la lucha por el control territorial hasta la fecha, se han presentado casos de asesinatos selectivos, amenazas, actos intimidatorios e incursiones. Además, los enfrentamientos que ocurrieron en agosto dieron lugar a restricciones a la movilidad en la vía que conecta el municipio de Algeciras (Huila) con el corregimiento de Santana Ramos. Estas restricciones complicaron el flujo de alimentos y personas en la zona, lo que resultó en el confinamiento de 2,000 personas (correspondientes a 450 familias) y representó un peligro inminente y directo para los derechos fundamentales de la población civil.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las dinámicas y los repertorios de violencia desplegados por los GANE establecen conductas vulneradoras en contra de la población civil, pues las estrategias y acciones por el control territorial regulan la vida cotidiana de la población y generan graves repercusiones en la seguridad alimentaria; además, del impacto significativo en la salud y el bienestar de las comunidades de Santana Ramos.
+
+Así mismo, los GANE someten a la comunidad en general a situaciones de riesgo, presión y amenazas al demandar "muestras de lealtad" para permanecer en el territorio y evitar ser blanco de ataques. Esto se traduce en la imposición de restricciones a las comunicaciones y las reuniones, así como en la forzosa adherencia a directrices, lo que ejerce una considerable limitación sobre la autonomía de la comunidad.
+
+Finalmente, cabe resaltar que, las comunidades se sienten desatendidas y apartadas, especialmente por el área de ubicación del corregimiento de Santana Ramos. Esto ha dado lugar una desconexión territorial que ha engendrado una serie de carencias estructurales y desafíos humanitarios, incrementando la vulnerabilidad de las comunidades. Además, la volatilidad del conflicto debido a la presencia de los GANE y sus estrategias de control territorial ha generado nuevas necesidades y ha agravado aún más aquellas que ya existían.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => La aparición de disputas territoriales ha generado cambios dentro de la organización social comunitaria de Santana Ramos. El corregimiento cuenta con Juntas de Acción Comunal en las 25 veredas, las cuales son lideradas por un presidente y cada 15 días se reúnen con la comunidad con el propósito de escuchar las problemáticas que se presentan en los territorios principalmente en los ámbitos de acceso al trabajo, educación, desarrollo de infraestructuras y recreación, dentro de las cuales mediante un comité de conciliación se dan a conocer las decisiones que desde la junta se pueden establecer.
+
+Cada mes se reúnen los presidentes para realizar un seguimiento de las acciones realizadas, sin embargo, estas reuniones a causa del conflicto, restricciones a la movilidad y amenazas se han visto afectadas aumentando el tiempo entre reuniones y las respuestas ante las problemáticas que se presentan.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => El corregimiento de Santana Ramos se destaca por ser una región altamente productiva, donde sus habitantes dependen principalmente de la producción de café y ganadería, así como de cultivos de frutas, caña de azúcar, plátanos, yuca, entre otros. Sin embargo, para lograr la comercialización de sus productos, las familias enfrentan diversos desafíos debido al mal estado de la vía principal y a la falta de caminos hacia las veredas. A esta situación estructural se le suma el impacto negativo causado por el conflicto armado que generó el cierre de la vía durante más de 15 días, lo que provocó que las familias no pudieran sacar sus productos al mercado y, como consecuencia, experimentaron una disminución en sus ingresos económicos. Esto llevó a algunas familias a contraer deudas de las cuales algunas han empezado a recuperarse, mientras que otras todavía enfrentan dificultades financieras.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Santana Ramos cuenta con diversas fuentes hídricas que garantizan el acceso al agua por parte de las familias, sin embargo, no constituye una fuente de agua segura para el consumo humano. Por otro lado, el servicio de luz eléctrica es parcializado puesto que algunas casas cuentan con su respectiva planta de luz solar mientras otras carecen del servicio; el alcantarillado se maneja mediante pozos sépticos, la mayoría de los hogares cuenta con sanitario.
+
+Servicios como telefonía celular están presentes, sin embargo, solamente es funcional para realización de llamadas, no hay cobertura de datos, sin embargo, dentro de la comunidad se cuenta con puntos de WiFi los cuales ofertan paquetes por horas o semanales. Los servicios de transporte se ofrecen mediante una chiva que diariamente llega al poblado, pero dadas las condiciones de la carretera este servicio no se presta en meses de invierno por lo que gran parte del recorrido para abastecerse deben hacerlo en animales de carga.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Como estrategia de control territorial por parte de los GANE, se presume la presencia de posibles minas antipersonal en la zona rural de Santana Ramos. Este hecho ha suscitado preocupación, ya que la instalación de estas minas puede tener un impacto significativo en la calidad y el uso del suelo, al mismo tiempo que representa una amenaza para la fauna y flora local.
+
+Por otro lado, aunque esta cuestión no se relaciona directamente con la situación de emergencia, la comunidad del caserío de Santana Ramos expresa su preocupación por un área improvisada cercana al colegio y a una fuente hídrica que funciona como un vertedero de basura. Este lugar se ha convertido en un foco de diversos vectores y malos olores que afectan a la comunidad en general.
+    [group_fm93i53/_1_Problem_tica_Principal] => MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/Riesgos_para_respuesta] => PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => OTRO_GRUPO_ARMADO
+    [group_fm93i53/_Cu_l_005] => Estado Mayor Central y Segunda Marquetalia
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => El corregimiento de Santana Ramos se encuentra ubicado sobre el área de cordillera del municipio de Puerto Rico, Caquetá. Cuenta con 25 veredas dispersas con difícil acceso debido a la inexistencia de vías terciarias. Para llegar al caserío existe una vía de acceso carreteable, que se encuentra en pésimas condiciones que comunica con el municipio de Algeciras (Huila). Es un desplazamiento aproximadamente de 6 a 9 horas de duración, esto cuando no ha llovido y se facilita el ingreso.
+
+Para llegar a Santana desde Puerto Rico, hay que recorrer cuatro horas de camino hasta Florencia, cuatro más hasta el cruce de Campoalegre (Huila), muy cerca de Neiva, y una hora más hasta Algeciras. Por la cabecera municipal del corregimiento el recorrido puede tardar hasta 22 horas.
+
+No obstante, cabe mencionar que, existe otra manera de llegar desde el centro poblado de Puerto Ricos y es atravesando la cordillera a lomo de mula, pero es una opción poco viable debido a la alta presencia de los GANE.
+
+Para aquellos que pernoctan en Algeciras y/o Santana Ramos existen diversas opciones de hospedaje, puntos de abastecimiento de alimentos y formas de acceso de comunicación. Además, en Santana Ramos la comunidad cuenta con la buena voluntad de brindar apoyo a las instituciones y organizaciones humanitarias que los visiten.
+    [group_fm93i53/seguridad] => Existe presencia de tres actores armados en la zona y una disputa constante por el control del territorio. Se reporta la instalación de artefactos explosivos como estrategia de control por parte de los GANE, esto ha dejado como consecuencia un accidente de un civil e incidentes con semovientes.Durante los desplazamientos no se dieron controles por parte de actores armados, pero no se descarta la posibilidad de que se pueda presentar de forma aleatoria al momento de los ingresos.
+
+El ingreso a la zona rural se debe hacer concertado con organismos humanitarios y los y las lideres con la finalidad de evitar situaciones complejas para los equipos en terreno y las comunidades. Es importante el uso de visibilidad y recordar los principios que como organizaciones humanitarias nos rigen frente a las atenciones y acciones que desarrollamos. El uso de medios de comunicación (satelitales) puede ser riesgoso y debe ser consultado con los miembros de la comunidad. Dado el contexto cambiante en la zona se debe contar con planes estructurados frente a riesgos como fuego cruzado.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 450
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 2000
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 25
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => NO
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-09-28
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => UARIV, Defensoría del Pueblo, MAPP OEA, UNP, Gobernación, Secretaria de Educación, ICBF, Personería.
+    [group_de9og58/Entidades_territorio] => SI
+    [group_de9og58/_4_Cu_les] => UARIV, Defensoría del Pueblo, MAPP OEA, UNP, Gobernación, Secretaria de Educación, ICBF, Personería.
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD TM
+    [group_aa8xg30/group_ow1dy59/ICLA] => • Los GANE en aras de apropiarse de los corredores estratégicos de movilidad, han hecho que, de forma general líderes, lideresas, docentes y comunidad sean objeto de amenazas, presiones y regulaciones en su vida cotidiana a cambio de resguardar los intereses de los grupos y exigir “muestras de lealtad”.
+• Se conocen casos de amenazas individuales hacia los docentes de las diferentes escuelas con visitas a su lugar de residencia en el corregimiento y amenazas a no salir del territorio por parte de los actores armados, de estos casos se ha tomado uno por amenaza telefónica.
+• Se han impuesto controles a las comunicaciones y se han emitido prohibiciones en torno a la participación en reuniones y acatamiento de directrices de cada uno de los grupos, generando zozobra en la población con abstinencia del uso de equipos móviles.
+• Se presentan afectaciones psicosociales por la presencia de enfrentamientos, conociéndose un caso de un niño menor de 5 años que presenta afectaciones al escuchar niveles altos de ruido.
+• La comunidad refleja una alta carga mental, de angustia y preocupación, esto se ve reflejado mayoritariamente en el caso de los docentes, con ataques de llanto constantes, respecto a la comunidad manifestaron mucho temor por los enfrentamientos y la posibilidad de quedar en fuego cruzado. En consecuencia, algunos de los docentes han renunciado y han logrado salir del territorio, manifiestan insomnio/pesadillas.
+• Los GANE han usado mecanismos para generar temor en la población a través de la contaminación del territorio con instalación de artefactos explosivos y minas antipersonal, La comunidad manifiesta el posicionamiento de estos artefactos con mayor incidencia en las veredas más alejadas a la cabecera de Santana Ramos.
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => • Las comunidades no conocen mecanismo de exigibilidad de derechos, ni las disposiciones de la ley 1448 de 2011, pero manifiestan interés por conocerla.
+• Existen riesgos asociados al contexto del conflicto armado y el choque de los intereses de los grupos, llevando a que se presenten mecanismos para generar temor en la población con contaminación del territorio y colocación de MAP- MSE y TE
+• Las familias de la comunidad manifiestan la solicitud de un proceso de desminado con interés en la formación ERM, ya que las actividades principales son la ganadería y la agricultura, generando exposición a accidentes.
+• La población no tiene establecidos planes, ni estrategias de protección comunitaria para riesgos derivados del conflicto armado.
+• Existen niveles elevados de tensión y desconfianza entre los docentes de las diferentes veredas haciendo que algunos de ellos hayan renunciado a sus trabajos y hayan tenido que irse del territorio.
+• No existen servicios disponibles inmediatos en la comunidad para atender las necesidades de protección.
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => • ¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección? La comunidad mencionó casos de amenazas a docentes y presidentes de la JAC veredales, sin embargo, sólo se logró identificar un caso.
+• ¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)? Se identifican hechos victimizantes individuales como amenazas e intimidaciones y riesgo de violación basada en género, siendo estas principalmente hacia las docentes de las diferentes escuelas.
+• ¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo? La situación de conflicto desencadenó niveles elevados de estrés y afectación psicosocial generalizada, con percepción especial en los docentes, madres y niños menores de edad.
+• ¿El hecho victimizante ha sido visibilizado con la institucionalidad? Si, pero el hecho no ha sido declarado ante el Comité de Justicia Transicional por las dinámicas del territorio.
+•	¿Tienen conocimiento las comunidades sobre normatividad de víctima? No, no tienen claridad sobre la ley 1448 de 2011, sin embargo, se evidencia interés por el conocimiento, por lo que podrían fortalcerse estos conocimientos.
+• ¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención? Ruptura en la confianza institucional por parte de las comunidades dado el abandono estatal y la negación de esta en la inclusión del censo.
+• ¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? Los lideres y lideresas manifiestan interés en el conocimiento de rutas de atención, cuentan con el conocimiento de los casos que se presentan, pero no conocen los derechos como víctimas del conflicto armado.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => • La población se encuentra con una restricción de la movilidad, en las 25 veredas que conforman Santana Ramos, las cuales, durante los hechos más fuertes, no se vio viviendas afectadas por los enfrentamientos; sin embargo, se logró percibir un uso o utilización de las escuelas veredales, para la pernotada de los GANES, teniendo suspensión de los servicios educativos en un 100%.
+• Se evidencia que las familias cuentan con los elementos de primera necesidad como toldillos, cobijas, menaje y elementos para tener una vivienda saludable (mínimos establecidos por el manual de esfera).
+• Se hace un énfasis en las infraestructuras de Santana Ramos, las cuales se encuentran realizadas a material, y no se logra identificar afectaciones a las viviendas, escuelas y centros de reuniones.
+• Se evidencia un deterioro significativo del puesto de salud.
+• Las Escuelas rurales tiene problema con la loza de concreto, ya que se encuentra con daños significativos y en algunas de ellas con falta de acceso a energía eléctrica, por lo cual no cuentan con iluminación artificial.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => • Se observa necesidades fundamentalmente en el mejoramiento de arreglo locativos en las escuelas en zona veredales del corregimiento de Santana Ramos.
+• Se observa una necesidad fundamental en el arreglo del puesto de salud, sin embargo, no cuentan actualmente con algún promotor de salud y/o enfermera.
+• Se pudo observar que las personas cuentan con espacios dignos y seguros, esto dado que las familias se encuentran con una restricción a la movilidad.
+• Actualmente las familias y los centros educativos cuentan con menaje para la preparación de sus alimentos tanto comunitarios como familiares.
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => * ¿Las familias y/o personas tienen donde albergarse en condiciones seguras?
+SI, Las familias se albergan en sus propias viviendas, y en cado caso que no puedan llegar a sus destinos se quedan en casa de conocidos y/o en redes de apoyo.
+* ¿Las familias y comunidad cuentan con las infraestructuras adecuadas que promuevan seguridad?
+SI, La mayor parte de las casas se encuentran hechas de material, no se logra evidenciar las casas de las veredas.
+* ¿Existe problemáticas entre la comunidad de acogida y las familias desplazadas?
+No aplica, dado que no se presencia un desplazamiento masivo a centros poblados, si bien se logró identificar que hay movimientos inter-veredales, son pausados y no continuos.
+* ¿Se permite y/o valida con autoridades locales y comunidades la aceptación de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales?
+Si, la comunidad cuenta con mano de obra calificada y no calificada
+* ¿Se identifica la necesidad de contribución, nueva construcción o mejoramiento para la provisión de alojamientos temporales?
+Si, mejoramiento del puesto de salud, dado que se
+* ¿La respuesta desde Shelter disminuye que las personas estén expuestas a riesgos de seguridad física, inclemencias climáticas, salud, privacidad y mejora la dignidad de las personas?
+Si, apoyar en el mejoramiento de los espacios para la atención médica, bien sea para la atención presencial y/ o de las brigadas
+    [group_aa8xg30/group_fv0ct51/Agua] => • Se logra identificar que dentro del corregimiento de Santana Ramos hay presencia de vectores, sin embargo, son de tipos de una zona húmeda del país, por parte de la comunidad nos manifiesta que se tienen picaduras y ronchas provenientes de mosquitos, ronchas en la pie y dermatitis no agudas, acompañado de algunas personas también manifiesta que personas de tercera edad y menor de edad sufren constantemente de dolores de estómago y diarera, si bien no se logra identificar la procedencia de las enfermedades, se presume que es por la ingesta de agua no segura.
+
+• Se cuenta que redes de acueductos veredales en los cascos urbanos principales y en en la mayor cantidad de casas en zonas lejanas con su propio sistema de captación de agua superficial, sin embargo, se manifiesta que ninguna de los sistemas existentes tiene tratamiento de agua comunitarios, ni domiciliario
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => • Se realiza la verificación de las problemáticas que se presentan dentro de la comunidad, en relación con las basuras generadas en el centro poblado de Santana Ramos, el cual se realiza dos practicas no seguras, en mayor parte se lleva y se disponen las basuras en un punto de basurero de cielo abierto (botadero), y otra parte es quemada por cada una de las viviendas, dichas acciones están generando un problema a la modificación del suelo y contaminación de agua aguas abajo del centro poblado.
+• Por otra parte, se pregunta qué forma se realiza en la zona de las fincas las cuales manifiestan que el 100% de la basura es quemada por cada finca o casa; por lo anterior generando un daño al ambiente y a la salud de la comunidad a largo plazo.
+• En relación de las aguas residuales de cada una de las casas, son vertidas a ríos y quebradas, sin ningún tipo de tratamiento, se habla de un matadero en las orillas del rio el cual genera una gran contaminación del agua, sin embargo, estas actividades son persistentes a lo largo del tiempo y no a causa de la emergencia en la zona.
+    [group_aa8xg30/group_fv0ct51/Higiene] => • A causa de la emergencia en el territorio se logra identificar que las comunidades de todo el corregimiento de Santana Ramos a tenido que reducir la cantidad de los elementos de higiene, para poder dar prioridad a elementos de mayor importancia para las familias, como lo son productos alimentarios y productos de Salud; por lo anterior durante el momento de la emergencia, se ha manifestado que hubo escases de elementos en la región por el no tránsito de abastecimiento en la zona, por lo que las familias tuvieron que acudir a red l red de apoyo; Se evidencia que, si bien las personas cuentan con agua para el aseo personal, no contaba con los elementos apropiados para las buenas prácticas de higiene, tanto para hombres y mujeres.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => • Se logra identificar que se cuenta con un continuo servicio de agua en todo el corregimiento teniendo acceso a agua no segura durante los 24 días; el cual manifiestan que nunca han tenido suspensión del servicio, sin embargo, se observa que no se realiza ningún proceso de tratamiento de agua; pero se ha manifestado que hay un interés grande para el desarrollo de actividades de tratamiento de agua, espacialmente en cada un uno de las escuelas del corregimiento.
+• Tanto hombres como mujeres se encargan de la recolección del agua, y hasta el momento no se ha evidenciado contaminación fecal del agua. Se ha reportado que niños menores de 5 años han presentado enfermedades diarreicas agudas (EDA) debido al consumo de esta agua. Las familias mencionan que no realizan tratamiento al agua, como hervido, debido al gasto o consumo de gas que ello implicaría.
+• Se evidencia que el 80% de la población cuenta con red de acueducto y el otro porcentaje de la comunidad tiene a menor de 50 metros aguas; se logra identificar por tacto, olor, y sabor que el agua puede tener una afectación por algún tipo de contaminante microbiológico, por lo cual se resalta el uso de proceso de tratamiento domiciliarios.
+• Se logra evidenciar un alto interés en realizar procesos domiciliarios del agua y en conocer las diferentes alternativas para ellos.
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => • Entrega de filtros a los centros educativos, madres cabeza de hogar, personas mayores de edad y personas con alguna dificultad que la comunidad pueda identificar.
+• Con los filtros adicional el almacenamiento de agua tratada para reducir la morbilidad.
+• Rehabilitación de la batería sanitaria del centro educativo, con el cual cuenta con infraestructura, en concreto y espacios ya definidos.
+• Realizar un aumento del conocimiento en buenas prácticas de higiene en el centro educativo, con padres de familia y docentes
+• Promover buenas prácticas de uso y conservación del agua, además de reforzar los conocimientos sobre métodos de tratamiento para consumo y almacenamiento de agua segura familiar y comunitaria, con la estrategia de sensibilizaciones y capsulas informativas.
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => • El 100% de las familias cuentan con acceso a agua no segura, sin embargo, no cuentan con procesos de tratamiento intradomiciliario.
+• El 70% de la población no cuenta con elementos para tener una buena higiene personal, en especial elementos para la higiene menstrual.
+• El 80% de la población cuenta con baterías sanitaria en sus hogares, sin embargo, en el centro educativo principal solo cuentan con una batería sanitaria para cubrir a 110 estudiantes y 5 docentes.
+    [group_aa8xg30/group_jn0nm53/san] => Los principales efectos del confinamiento de agosto y septiembre se vieron reflejados en la seguridad alimentaria de más de 2000 personas, entre ellos un alto porcentaje de NNA y adultos mayores, puesto que, por la vía principal de acceso carreteable al corregimiento de Santana Ramos (Caquetá) se impuso una serie de restricciones a la movilidad que imposibilitaron el flujo de alimentos por más de 15 días.
+
+Durante los días de enfrentamientos y posterior a estos, el caserío de Santana Ramos experimentó escasez de productos básicos. Los pocos alimentos disponibles se vendían a precios considerablemente elevados.
+
+La implementación de diversas estrategias de control territorial y la presencia de los GANE en la región provocan zozobra y miedo entre las comunidades, lo que a su vez conduce a cambios en la forma en que utilizan y acceden a sus medios de vida. Un ejemplo concreto es la instalación de MAP, lo cual limita la posibilidad de utilizar áreas de pastoreo para la ganadería y agricultura de subsistencia.
+
+Debido a las condiciones que afectan la disponibilidad y acceso a los alimentos, las personas tienen un consumo bajo en diversidad de alimentos. La exclusión de algunos grupos de alimentos en la ingesta provoca la deficiencia de múltiples nutrientes que pueden agudizar los padecimientos de salud en el marco de la emergencia.
+
+Las familias no pueden almacenar una variedad de alimentos en grandes cantidades, ya que no cuentan con acceso constante a servicios eléctricos para la refrigeración y preservación. Esto, en ocasiones, conduce a un consumo inadecuado debido a problemas de calidad y seguridad de los alimentos.
+
+Se extiende la preocupación por el no cumplimiento de los principios del Programa de Alimentación Escolar (PAE), pues los NNA en edad escolar no están consumiendo alimentos de buena calidad, de manera complementaria y estable que garanticen la permanecen de los estudiantes en el sistema escolar. Es de resaltar que esta situación de agudiza por el contexto de orden público actual, sin mencionar los efectos a largo plazo para este tipo de población.
+    [group_aa8xg30/group_jn0nm53/Hallazgos_003] => Los días los días 23 y 24 de septiembre la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV) realizó la entrega de 360 paquetes alimentarios y de higiene para garantizar el acceso a las familias en el marco de la inmediatez. Sin embargo, como no todas las personas brindaron los datos para la caracterización y actualización de los censos algunos hogares se quedaron por fuera de la asistencia alimentaria.
+
+En la misma fecha los hogares unipersonales y/o compuesto por dos personas recibieron mercados por parte de la Gobernación y Alcaldía. La configuración de estos paquetes alimentarios estaba definida por menor cantidad de productos de alimentos e higiene.
+
+En el marco de la emergencia, las familias se vieron imposibilitadas de acceder a sus fuentes de ingresos habituales, lo que las dejó en una situación en la que algunas tuvieron que recurrir a préstamos para hacer frente a las necesidades alimentarias más apremiantes.
+
+Las condiciones sociales, ambientales, geográficas, económicas y administrativas no proporcionan los medios para que las familias de Santana Ramos puedan garantizar de manera estable su seguridad alimentaria. Se enfrentan a circunstancias cambiantes y variables, junto con factores impredecibles, lo que plantea diversos desafíos en el intento de mantener una dieta saludable de manera constante.
+
+La mayoría de las familias tienen establecidas unidades productivas como una medida para garantizar su propia seguridad alimentaria, incluso aquellas que residen en el caserío. Sin embargo, varios de estos sistemas se encuentran en veredas donde la presencia de los GANE es notable. En respuesta a esta situación, las personas eligen no trabajar solas o reducen sus horas de trabajo para ser más eficientes y mitigar los riesgos asociados.
+    [group_aa8xg30/group_jn0nm53/Recomendaciones_003] => Ofrecer una ayuda alimentaria humanitaria complementaria y continuada por el tiempo necesario para que las familias puedan recuperarse, manteniendo un proceso de entrega riguroso para evitar una sobreasistencia.
+
+Evaluar los impactos de la inseguridad alimentaria en los Niños, Niñas y Adolescentes (NNA) durante el período de emergencia y sus secuelas, con el objetivo de desarrollar una estrategia de apoyo que reduzca las consecuencias negativas y fortalezca a las comunidades a través de la implementación de estrategias para fomentar la resiliencia en materia de seguridad alimentaria.
+
+Aunar esfuerzos entre organismos nacionales e internacionales en el marco de una respuesta humanitaria complementaria, coordinada y que tenga un alcance mucho más amplio. Esto permitirá maximizar los esfuerzos y recursos, lo que resultará en una acción humanitaria más efectiva y con un impacto más significativo.
+    [group_aa8xg30/group_jn0nm53/Indicadores_Clave_003] => La emergencia por los enfrentamientos entre los GANE agudizo los problemas de disponibilidad y acceso a los alimentos que tienen las familias de Santana Ramos; puesto que, principalmente no existen condiciones de orden social que permitan la seguridad alimentaria.
+
+Los ingresos de asistencia humanitaria fueron posibles en la tercera semana del mes de septiembre, aproximadamente un mes después de los enfrentamientos. Sin embargo, los efectos producto de la emergencia se mantenían.
+
+Las restricciones de movilidad que obstaculizan el acceso a alimentos han llevado a que las familias recurran a estrategias de afrontamiento. Deben administrar cuidadosamente los alimentos disponibles, ya que su cantidad es limitada, a fin de extender su duración el mayor tiempo posible.
+
+Durante la interrupción de más de 15 días en la única vía de acceso para la llegada de alimentos a Santana Ramos, los residentes del corregimiento se vieron restringidos en la variedad de alimentos disponibles para mantener una dieta equilibrada. La ingesta se basó principalmente en el consumo de plátanos, huevos, algunas frutas como banano y aguacate, leche y queso producidos por las familias locales, junto con un consumo esporádico de carne de res.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Durante la ERN al corregimiento de Santana Ramos se pudo evidenciar que la problemática de salud en la población está enfocada en patologías crónicas como hipertensión, diabetes, obesidad, y enfermedades reumatológicas, esto sumado a que la población promedio es de adultos jóvenes y adultos mayores los cuales adicionalmente no cuentan con controles de salud periódicos y deben adquirir los medicamentos por su cuenta; al indagar por enfermedades tropicales no se conocen casos de malaria ni leishmaniasis en la zona, así como tampoco existen casos reportados en la secretaria municipal de Puerto Rico, sin embargo, se presentan casos ocasionales de dengue y es notable la presencia de vectores como zancudos en el casco urbano.
+
+Los accidentes ofídicos son frecuentes, el ultimo ocurrido hace 6 meses en un adulto joven trabajador del campo, en su mayoría son causados por serpientes del género Bohtrops las cuales son endémicas en la zona. Es común encontrar lesiones por trauma ya sea por accidente en las actividades del campo o por riñas entre los pobladores, al igual que heridas por arma de fuego.
+Son comunes los casos de EDA en menores de 5 años, también casos de IRA sin que estos hayan revestido gravedad durante la emergencia; no fueron reportados casos de desnutrición aguda en el último trimestre. Adicionalmente, son frecuentes las patologías de la piel como dermatomicosis y celulitis de distintas partes de los miembros, de igual forma se observaron  algunas personas en situación de discapacidad principalmente de carácter visual.
+
+Mujeres gestantes y planificación familiar:
+Durante la evaluación y según lo manifestado por la comunidad, la población de mujeres gestantes en la actualidad es relativamente baja, sin embargo, las que residen en el corregimiento no cuentan con controles prenatales, estos deben ser realizados en el municipio de Algeciras (Huila) y en el peor de los casos en Puerto Rico (Caquetá) según su municipio de afiliación al SGSSS, estos desplazamientos son costosos, con un valor aproximado de 500000COP, esta al parecer es la razón principal para la no asistencia a controles, de igual forma no se cuentan con programas de controles prenatales por parte de su EAPB o su respectiva IPS en la zona; en cuanto a los partos son en su mayoría domiciliarios, en las respectivas veredas cuentan con personas con escasos conocimientos en dicha actividad sin al parecer existir personas que se autodenominen como parteras o comadronas.
+
+La oferta de servicios de planificación familiar es nula, las mujeres que quieren acceder a servicios como anticonceptivos inyectables deben incurrir en cuantiosos gastos para su consecución, las mujeres que han podido acceder a implantes subdérmicos son aquellas que han tenido partos recientemente y se desplazaron a las cabeceras municipales de Algeciras o Puerto Rico donde les fue brindado el servicio; al indagarse sobre la necesidad del servicio la comunidad manifestó que es un aspecto muy demandado por las mujeres de la comunidad.
+
+Vacunación:
+Sobre los planes de inmunización en menores es común que se encuentren desactualizados, incluso menores en su primer año de edad que solo cuentan con las vacunas del nacimiento, el servicio solo se oferta cuando se realizan brigadas de salud en el municipio las cuales son aproximadamente una vez al año; los padres que desean continuar los planes de vacunación deben desplazarse a Algeciras incurriendo en los gastos que esto genera, sufriendo además en ocasiones la negación del servicio por no estar adscritos a la E.S.E de Algeciras.
+
+Cobertura e intervenciones en salud:
+Acerca del aseguramiento, las personas en un alto porcentaje se encuentran afiliadas el sistema general de seguridad social en salud siendo la EAPB predominante ASMETSALUD la cual se encuentra en liquidación en el departamento del Caquetá por lo que algunos usuarios han venido siendo trasladados a la NUEVA EPS, esto hablando de las personas aseguradas en el municipio de Puerto Rico-Caquetá, por otra parte las personas que están aseguradas en Algeciras-Huila se les viene negando el servicio de salud en las brigadas realizadas por la E.S.E de Puerto Rico.
+
+Los habitantes del corregimiento de Santana Ramos deben enfrentar múltiples barreras en salud, principalmente administrativas donde, por ejemplo, pertenecer a un municipio (Puerto Rico) con el cual no tienen comunicación terrestre, siendo su acceso al territorio incluso por un departamento diferente (Huila) lo cual genera los problemas de afiliación previamente comentados, por otro lado, dadas las condiciones precarias de la vía  y su lejanía geográfica deben incurrir en gastos de bolsillos elevados para acceder a los servicios de salud, las evacuaciones de urgencias vitales son todo un reto en el corregimiento donde no se cuenta con ambulancia para el desplazamiento y deben recurrir a servicios expresos de transporte, los cuales pueden tener un costo de hasta un millón de pesos, lo cual hace evidente la barrera geográfica que enfrentan, eso sin contar aquellas veredas en las que primero deben recorrer múltiples horas en transporte animal para llegar al casco urbano de Santana Ramos y de ahí posteriormente ser evacuado.
+
+En cuanto a intervenciones de salud, la ultima fue hecha por la E.S.E de Puerto Rico en el mes de noviembre del año 2022 donde ofertaron servicios de medicina general, odontología, toma de citología, vacunación además del programa de crecimiento y desarrollo, estos servicios solo se ofertan para las personas zonificadas en dicha E.S.E, según manifestaron los pobladores las personas que están zonificadas en Algeciras deben pagar en efectivo par acceder a los servicios ofertados por la brigada.
+
+Para los días 23 y 24 de septiembre se había programado un ingreso por parte de la E.S.E de Puerto rico acompañando la caravana humanitaria integrada por la Defensoría del pueblo, MAPP-OEA, la UARIV y otros entes institucionales que ingresaron a la zona en los días referidos, sin embargo, la entidad de salud canceló su ingreso al territorio un día antes y durante el marco de la evaluación se conoció que reprogramaron el ingreso previsto para los días 12 al 16 de octubre.
+
+En diálogos con la E.S.E de Algeciras manifestaron no tener recursos económicos para un ingreso a la zona, adicionalmente, el personal médico no se atreve a ingresar a la zona por lo que tampoco cuentan con el recurso humano, por otra parte, manifestaron un porcentaje mínimo de población asegurada al municipio de Algeciras siendo según ellos mayoría la población asegurada en Puerto Rico.
+
+Por parte de otras ONGs no se ha manifestado intención de ingreso, en el marco de la caravana humanitaria la UARIV realizo entrega de alimentos y se adelantarán acciones en el marco del consorcio MIRE para complementar dichas actividades.
+
+Referentes comunitarios en salud:
+En la comunidad no se cuenta con un promotor de salud establecido ni personas que desempeñen un rol activo en salud, los líderes de la comunidad manifiestan que hasta hace 4 meses hubo un auxiliar de enfermería en el centro de salud que venia ocasionalmente y era insuficiente para los requerimientos de salud de la población, sin embargo, no se ha vuelto a realizar la contratación de dicho puesto por lo que no se cuenta con personal de salud en el momento.
+
+Capacidad instalada:
+En el corregimiento de Santana Ramos se encuentra una casa destinada a servir como centro de salud la cual se encuentra en abandono, cuenta con tres consultorios, una habitación, dos baños y un patio además de algunas camillas e insumos médicos básicos que eran utilizados por el personal que estuvo hace 4 meses, pero actualmente en pésimas condiciones de aseo.
+
+En la E.S.E Hospital municipal de Algeciras se atienden los casos que revisten gravedad y es el que se encuentra mas cercano al corregimiento de Santana Ramos, se documentó que es una institución de primer nivel que cuenta con 4 médicos para la atención de los servicios de urgencias y consulta externa, no cuenta con servicios de especialidades medicas ni unidades de cuidados intermedios, por lo que todos los casos emergentes deben ser trasladados a la ciudad de Neiva la cual esta a una hora y media de Algeciras, para esto cuentan con 4 ambulancias de traslado asistencial básico. La institución cuenta con programas de vacunación, enfermedades crónicas, planificación familiar, odontología, consultas de psicología para lo cual cuentan con 1 psicólogo, como se menciono previamente no se prevén intervenciones en el corto plazo para el corregimiento de Santana Ramos por parte de la E.S.E de Algeciras.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => En cuanto a las afectaciones de salud mental  a nivel de la población de Santana Ramos se encuentra un temor generalizado dada la inestabilidad de la situación y la presencia de un tercer actor armado en la zona (Ejercito Nacional), los pobladores refieren miedo a transitar caminos rurales ante el riesgo de MAP/MUSE/AEI, adicionalmente se encuentran síntomas como insomnio que se exacerba cuando se realizan sobrevuelos en la zona; las personas se enfrentan a restricciones de horarios en carretera a partir de las 6 pm, adicionalmente, se observa una tendencia a no salir en horas de la noche por lo que la actividad es principalmente durante el día.
+
+En el corregimiento se observan múltiples iglesias cristianas-evangélicas por lo que predominan tendencias conservadoras a la hora de la vestimenta, el comportamiento y la forma de relacionarse entre sí.
+
+Las personas manifiestan ansiedad, tristeza y desesperanza sin embargo refieren que así siempre ha sido la vida en Santana Ramos por lo cual las situaciones en el marco del conflicto están muy normalizadas entre los habitantes; se pudieron observar ciertos trastornos adaptivos, TEPT, y trastornos de ansiedad, algunos en menores de edad, pero al indagarse sobre hechos recientes de suicido el ultimo ocurrido fue hace más de 10 años.
+
+Recreación:
+Las actividades de recreación son esencialmente orientadas a departir con bebidas alcohólicas en un establecimiento, el baile y la práctica del billar, durante la evaluación se pudieron apreciar partidos de futbol femeninos y masculinos por lo que se considera un tejido social presente y funcional que se refuerza mediante actividades de campeonatos y partidos amistosos que aún después del episodio reciente de conflicto se conservan, existen dos canchas de futbol en el corregimiento; La población infantil cuenta con un pequeño parque donde ejercen actividades de recreación.
+
+Consumo de SPA:
+Al indagar sobre el consumo de sustancias psicoactivas la comunidad fue muy enfática en que estas se encuentran prohibidas por parte de los grupos y que no se avistan consumidores de marihuana, cocaína y demás, el único consumo permitido es el de alcohol, aunque según el punto de vista de la población esto es problemático en la comunidad, pues ha desencadenado riñas frecuentes en las que resultan personas heridas e incluso muertas.
+
+Roles de género:
+Respecto a roles de genero predomina el enfoque patriarcal, la mayoría de los espacios generados durante la evaluación fueron integrados mayoritariamente por hombres con escasa participación del género femenino, cuando se hizo esta apreciación en los espacios, los hombres manifestaron que las mujeres han de estar ocupadas con los hijos y los quehaceres del hogar, por lo cual no solían participar en dichos espacios.  El hombre ocupa su rol de proveedor desempeñándose en actividades de agricultura, ganadería y comercio.
+    [group_aa8xg30/group_ga2zh63/SaludVBG] => La comunidad refiere que los casos de VBG son habituales, es un tema muy normalizado entre la población quienes incluso hacen bromas acerca del tema  y refieren que incluso ante dichas situaciones las mujeres han optado por tener “mano dura” también con sus parejas; no existen mecanismos de gestión de dichas problemáticas en la comunidad, ni rutas claras para la denuncia o implementación de estrategias que mitiguen estas conductas por lo cual debería indagarse mediante talleres grupales e individuales detalles que permitan establecer la presencia de estos patrones en la comunidad. Al averiguar e indagar sobre violencia sexual no se obtuvieron relatos de violencia por parte de los GANEs hacia las mujeres de la zona, ni hechos recientes de abusos de esta índole contra la población civil. Dado lo anterior al no conocerse casos puntuales no se consideró la necesidad de iniciar rutas de atención en VBG/VS.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => • Barreras en salud:
+- Barreras geográficas: Corregimiento ubicado a 90 km del municipio de Algeciras cuyo desplazamiento toma alrededor de 7 horas por las pésimas condiciones de la carretera, por lo que es difícil la asistencia a controles de salud y urgencias médicas.
+- Barreras administrativas: Al pertenecer al departamento del Caquetá, pero siendo su centro urbano más cercano Algeciras-Huila se presentan negaciones de los servicios de salud al estar zonificados en otro departamento.
+- Gasto de bolsillo: Los habitantes incurren en gastos de bolsillo elevados para poder acceder a servicios de planificación, atención médica y programas de salud.
+
+• Patologías prevalentes:
+- Enfermedades crónicas: HTA en su mayoría seguida de diabetes y enfermedades reumatológicas.
+- EDA- por aguas no seguras.
+- Infecciones de tejidos blandos.
+- Lesiones por trauma
+- Accidente ofídico.
+
+• No existen referentes de salud en la zona, se cuenta con un puesto de salud el cual se encuentra en abandono, hasta hace 4 meses conto con un auxiliar de enfermería el cual asistía esporádicamente.
+
+• Ultimo ingreso de la ESE Municipal de Puerto rico en noviembre de 2022, con próximo ingreso proyectado del 12-16 de octubre de 2023.
+
+• No se encontraron enfermedades de interés en salud publica como Malaria y Leishmaniasis.
+
+• No se documentaron casos de DNT aguda en menores de 5 años reportados en la institucionalidad.
+
+• No se cuenta con programas de salud como:
+- Control prenatal.
+- Crecimiento y desarrollo.
+- Vacunación.
+- Control de enfermedades crónicas.
+- Planificación familiar.
+
+• Durante la ERN se atendieron dos casos en salud que ameritaban atención inmediata una blefaritis y un trauma cortante en mano con 15 días de evolución, adicionalmente las consultas en salud (condiciones médicas no emergentes) de los pobladores fueron constantes en los dos días de evaluación.
+
+• Existen necesidades humanitarias en salud propias de una población sin asistencia estatal, cuyas necesidades se derivan de problemas estructurales y determinantes estáticos en salud no derivada de la emergencia actual.
+
+Salud mental:
+
+• Se encontraron casos de:
+- Trastorno de estrés postraumático,
+- Trastornos adaptativos
+- Insomnio
+- Estrés agudo
+- Ansiedad
+
+• No se documentaron casos expresos de VBG y VS, sin embargo, se podrían documentar casos en el transcurso de una intervención, conductas como VBG se encuentran muy normalizadas en la población.
+• Roles de genero habituales, donde se refuerzan las conductas patriarcales.
+• Se encontró un tejido social activo y funcional que se refuerza mediante actividades deportivas y culturales, así como también JAC establecidas y reconocidas.
+• No se documentaron casos de abuso de SPA.
+• En la comunidad son muy arraigadas las creencias religiosas de tipo cristiano-evangélicas por lo que tienden a ser muy conservadores, la fé suele ser su principal mecanismo de afrontamiento en las situaciones de crisis además de la normalización.
+• No se documentaron casos recientes de intentos de suicidio ni de ideación suicida, tampoco de trastornos depresivos mayores ni trastornos psicóticos breves.
+• No se encontró un incremento de los eventos en salud mental desencadenados por la emergencia actual.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => Salud Física:
+Se considera mediante la información de salud física recopilada durante la ERN que la afectación en salud es importante propia de una región olvidada por la institucionalidad y alejada geográficamente, en la que dadas dichas características no se garantizan programas de salud básicos en poblaciones como: la primera infancia, mujeres gestantes o adultos mayores; la población de Santana Ramos no tiene acceso a servicios de salud de primer nivel ni tampoco a servicios especializados, las principales barreras de salud son geográficas, administrativas y un gasto de bolsillo elevado. Se considera que dichas dificultades de salud tienen su origen en determinantes de salud estáticos y dinámicos que determinan las patologías mas prevalentes y las complicaciones subsecuentes por la falta de atención oportuna.
+No se encontró una afectación en salud física agudizada en el marco del conflicto, sino más bien que obedecen a temas estructurales que han sido permanentes en el tiempo por lo que dadas estas condiciones, se considera que no amerita un ingreso en primera fase.
+Se recomienda seguimiento estrecho frente a nuevos eventos victimizantes para esta población cuyas dificultades ya mencionadas impiden regularidad en el acceso a servicios de atención primaria en salud.
+
+Salud mental y VBG:
+Posterior a la evaluación realizada se considera que las afectaciones en salud mental son evidentes en el marco de una comunidad víctima del conflicto desde hace mas de 50 años, que no cuenta con ninguna clase de atención en salud mental, que ha venido normalizando su situación como un mecanismo de defensa para el afrontamiento de la realidad tan hostil y difícil que se vive en este territorio, adicionalmente las personas se muestran resilientes, su principal mecanismo de afrontamiento se da en el refugio de la fé, ya que la mayoría de los pobladores profesan el cristianismo-evangélico. Se considera que la afectación en salud mental es palpable pero no corresponde a una agudización actual de la problemática en el marco de la emergencia por el conflicto, siendo una afectación crónica con picos de reagudización, que se beneficiaría de una intervención en salud donde se aborden problemáticas como VBG, escolaridad y el desarrollo de estrategias de afrontamiento personales ante los acontecimientos y el estrés que genera el conflicto armado en estas zonas.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => • No se encontraron situaciones en salud o complicaciones que comprometan la vida que se hayan generado en el marco de la emergencia.
+• No existen casos reportados de DNT aguda en menores de 5 años, ni morbimortalidad materna extrema, tampoco de mortalidad en menores de 5 años desencadenados en el marco de la emergencia.
+• No existe aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida.
+• No se reportan casos de reclutamiento en el marco de la emergencia.
+• No hay reportes de aumento de Violencia Basada en Género desde el inicio de la emergencia
+• No se identificó la necesidad de activar rutas de VBG ni VS al no documentarse casos.
+    [group_aa8xg30/group_tb5de96/EIE] => • Durante los enfrentamientos entre los GANE y en los días siguientes, la oferta académica se suspendió temporalmente. Aunque se reanudaron las clases poco después, se observó que los NNA no regresaron con la misma frecuencia debido a la ansiedad y el temor generados por el evento. La posibilidad de que los NNA puedan abandonar sus estudios es motivo de preocupación.
+• Cuando los NN faltan a clase, los padres no realizan acompañamiento y apoyo con el material de refuerzo para trabajo en casa.
+• En su mayoría, las escuelas muestran deficiencias en su infraestructura. No obstante, es relevante destacar la situación crítica de las escuelas ubicadas en las veredas de Arenoso, Palmar Oriental, Guayas Alto, Guayas Medio, El Nutrio y San Pablo, donde la infraestructura se encuentra en condiciones lamentables. Esta situación generalizada de infraestructura precaria coloca en situación de vulnerabilidad a toda la comunidad estudiantil del corregimiento de Santana Ramos, especialmente ante los enfrentamientos e incursiones de los GANE que suelen ocurrir los fines de semana.
+• Las I.E. no cuentan con un Plan de gestión de riesgo escolar enfocado en los riesgos y amenazas derivados del conflicto armado.
+• Los docentes carecen de material lúdico pedagógico para enriquecer el desarrollo de sus clases, y aún menos disponen de material específico para abordar las necesidades surgidas en el contexto de la emergencia.
+• Los docentes han experimentado graves afectaciones en su salud mental como consecuencia de la emergencia, lo que ha llevado a que algunos soliciten traslados a otras zonas y que otros hayan optado por renunciar.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => • En el corregimiento de Santana Ramos, 14 docentes se encargan de llevar a cabo las actividades educativas. Es importante destacar que actualmente 5 escuelas se encuentran cerradas y se está gestionando su reapertura.
+• Aproximadamente hay 188 estudiantes en las 14 escuelas. En la IE de Santana Ramos hay 54 internos.
+• Se han presentado incidentes de incursiones por parte de los GANE en las escuelas, aunque es relevante mencionar que, solo se han registrado casos en los que dichos grupos han pernoctado en una o dos escuelas.
+• Por otro lado, algunos NNA no están asistiendo a la escuela, ya que se encuentran brindando apoyo en la cosecha de café. Además, el incentivo del PAE no está funcionando de manera eficiente.
+• Las estrategias de control territorial, como la instalación de MAP representan un riesgo para los NNA que se desplazan hacia las escuelas. De manera similar, las Municiones sin Explosionar (MUSE) también constituyen un peligro potencial para su seguridad. Estas amenazas incrementan la preocupación y la vulnerabilidad de los NNA que realizan su viaje diario hacia las escuelas rurales.
+• La presencia constante de actores armados representa un riesgo para los NNA.
+    [group_aa8xg30/group_tb5de96/Recomendaciones_005] => • Es de suma importancia apoyar a las I.E del corregimiento de Santana Ramos en la construcción de plan académico que gestione el riesgo enfocado en hechos derivados del conflicto armado.
+• Se requiere la formación del comportamiento seguro en NNA, docente y agentes educativos.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => • Además del abandono estatal, lamentablemente en el corregimiento de Santana Ramos, las escuelas sufren graves afectaciones a causa de los incidentes relacionados con el conflicto armado. Como se mencionó anteriormente, la presencia significativa de actores armados, con incursiones y en algunos casos su permanencia en las instalaciones escolares.
+• Se identifica afectación en NNA en edad escolar ante la presencia de uno o más riesgos de protección durante la emergencia.
+• En algunos casos los docentes tienen que sacar de recursos propios para el material de trabajo académico. 
+• La Institución Educativa NO cuenta con Plan de Gestión integral de riesgo escolar PGIRE y ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación).
+    [group_aa8xg30/group_tb5de96_001/TM] => N/A
+    [group_aa8xg30/group_tb5de96_001/Hallazgos_006] => • Riesgos de inclusión de personas no vulnerables por la emergencia para entrega de la asistencia humanitaria.
+• Poco relacionamiento y/o experiencia de los participantes con el uso de transferencias monetarias u otras herramientas utilizadas para la implementación de la modalidad.
+• Riesgos de seguridad y protección para las poblaciones por recibir montos elevados en efectivo.
+• Dificultades de acceso (movilidad, distancia, horarios) para que el total de la población afectada pueda reclamar y/o hacer uso del dinero. Esto dadas las condiciones y términos para la funcionalidad de esta modalidad
+    [group_aa8xg30/group_tb5de96_001/Recomendaciones_006] => En el caso que una organización opte por brindar asistencia humanitaria a través del enfoque de cash multipropósito, es esencial que realice un análisis en tiempo real de los diversos factores de seguridad que pueden representar un riesgo tanto para los facilitadores de la ayuda como para quienes la reciben. Esto se debe a que las condiciones de seguridad pueden cambiar en función del contexto. Además, es importante tener en cuenta la opinión de los líderes comunitarios en lo que respecta a esta modalidad de asistencia.
+
+Por último, es fundamental señalar que, la entrega de un recurso no condicionado puede llevar a un uso inadecuado del mismo. Por lo tanto, resulta crucial desarrollar una estrategia de apoyo a las comunidades que les permita a cada hogar priorizar sus necesidades más urgentes, garantizando así un uso efectivo de los recursos proporcionados.
+    [group_aa8xg30/group_tb5de96_001/Indicadores_Clave_006] => La circulación de mercancías y la cadena de suministro se ven continuamente interrumpidas debido a diversos factores, que incluyen elementos relacionados con el conflicto armado, el deterioro de la vía de acceso, restricciones en la movilidad, las condiciones agroecológicas de la zona caracterizada por una alta pluviosidad, y otros desafíos adicionales. Esta compleja combinación de obstáculos afecta significativamente la capacidad de la región para recibir suministros de manera constante y eficiente.
+
+Los productos suelen llegar al caserío principalmente a través del transporte de carga, conocido como "chivas" o “mixtos”. Sin embargo, estos a menudo quedan varados en las vías debido a las frecuentes lluvias, lo que impide su llegada al caserío. Como resultado, los comerciantes se ven obligados a transferir la carga a mulas para su transporte, lo que constituye una de las principales razones del aumento en los costos, el mal estado y calidad de los alimentos.
+
+Cabe mencionar que, en Santana Ramos se lleva a cabo la producción y transformación de una variedad de alimentos, los cuales son posteriormente comercializados a nivel local. Entre los productos más destacados se encuentran el plátano, la yuca, la leche, el café, la panela y el queso; además, de estos alimentos, también se cultivan y venden frutas, como el banano. Esta producción local no solo abastece a la comunidad, sino que aporta al mercado de la región circundante.
+
+El corregimiento de Santana Ramos se compone de 25 veredas con una población estimada de alrededor de 2,000 habitantes. Para abastecerse de alimentos y otros recursos, algunas familias se dirigen al caserío o a una vereda llamada Tres Esquinas. Durante los meses de agosto y septiembre, esta actividad se vio interrumpida; no obstante, cuando todo se desarrolla "con normalidad", las personas suelen realizar estos viajes aproximadamente cada 15 o 20 días.
+
+Para algunas familias que residen en las veredas más remotas, los desplazamientos a caballo pueden tomar entre 7 y 8 horas. En el caso de las personas que viven en las veredas más cercanas, el tiempo de viaje a caballo suele ser de al menos dos horas. Cabe destacar que, estos tiempos de trayecto se ven prolongados cuando se llevan a cabo compras, lo que implica una inversión adicional de tiempo y esfuerzo.
+
+Dadas las diversas condiciones geográficas y de contexto previamente expuestas, los comerciantes pueden requerir hasta tres semanas para reponer su inventario. En el caserío, se encuentran alrededor de 7 establecimientos comerciales, entre los cuales se incluyen dos panaderías, un mini supermercado y cuatro tiendas minoristas. Además, el caserío dispone de un punto de efecty que es gestionado por una sola persona. Este punto se encuentra dentro de un establecimiento que también ofrece otros servicios, tales como papelería y la venta de PINES para acceso a internet.
+    [group_aa8xg30/BrechasInformacion] => N/A
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 80
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 21
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => Jhonata Ruiz
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3144732010
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => Presidente JAC Santana Ramos
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => Edwin Ruiz Londoño
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3223513762
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => Presidente JAC Plumero
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:51e5578a-3771-4147-b894-84cce9dfabef
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 51e5578a-3771-4147-b894-84cce9dfabef
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-10-17T13:09:20
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

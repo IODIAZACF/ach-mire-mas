@@ -1,0 +1,86 @@
+stdClass Object
+(
+    [_id] => 466790073
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-08-15T19:00:04.534-05:00
+    [end] => 2023-08-15T19:11:49.497-05:00
+    [group_gu1lq88/Departamento] => HUILA
+    [group_gu1lq88/HUILA] => LA PLATA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Los cauchos, los pinos, villa esperanza, Santa marta, agua bonita, dos aguas, villa mercedes, buenos aires, palestina, el roble, los jardines, san miguel, el triunfo, aurora, el bosque, san Vicente, la burra, san pedro, Monserrate y belén.
+    [group_gu1lq88/Nombre_de_la_comunidad] => Veredas Rurales de la Plata Huila
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-08-15
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diana Marcela Holguin
+    [group_gu1lq88/Cargo] => Consejo Noruego para Refugiados
+    [group_gu1lq88/Origen_de_la_informaci_n] => CTJT
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => RESTRICC_MOV
+    [group_hl1yc96/Problema] => PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => desplazamiento masivo de aproximadamente 20 veredas pertenecientes al municipio de la Plata – Huila, por combates entre la fuerza pública y el frente de las FARC "Ismael Ruiz", entre el 26 y 27 de julio del 2023, por lo que 1116 personas 336 familias deciden salir forzosamente de su territorio hacia el casco urbano del municipio a fin de salvaguardar su vida, seguridad e integridad por consecuencia de la confrontación armada una menor de edad pierde la vida.​ Se sugiere una restricción de movilidad en las veredas, la población regreso a los territorios y se han presentado panfletos en la cabecera municipal y riesgo de detonación de artefactos explosivos.
+    [group_yv1ph08/time2] => 2023-08-14
+    [group_yv1ph08/time3] => 1
+    [group_yv1ph08/evidencia] => proteccion educacion wash san
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección y Seguridad Alimentaria por restricción de movilidad
+    [group_cn9za51/familias] => 342
+    [group_cn9za51/personas] => 1116
+    [group_cn9za51/comu] => 20
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => UARIV entrego en la vereda san miguel
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => La Vereda mas cercana esta a una hora de la cabecera municipal.
+
+La vereda mas lejana esta a dos horas de la Cabecera municipal.
+    [group_mu9ho06/Seguridad] => *En las veredas la presencia es permanente del GANE a esto se le suma el aumento de pie de fuerza del ejército, lo que supone un riesgo por nuevos combates en los territorios. 
+*La vigilancia del actor armado se extendía hacia la cabecera municipal con el fin de controlar las acciones que desarrollaban las familias desplazadas, generando el temor de las personas para activar rutas o hablar acerca de sus afectaciones.
+*La Presencia de la fuerza pública en el alojamiento en el desarrollo de actividades lúdicas, genera un riesgo para la comunidad.
+*Establecimiento retenes por parte del GANE en vías de ingreso hacia las veredas como mecanismo de control territorial. 
+*Debido a la presencia alta de fuerzas militares en la zona rural se presume el establecimiento de puestos de control en las vías. 
+*Se ve limitado el ejercicio de liderazgo de las comunidades por el temor ante represalias contra lideres y lideresas que tomen la vocería en nombre de la comunidad o vereda. 
+*Restricción horaria para el transporte o tránsito en un horario de 6 pm a 5 am.
+*El alojamiento centro de acopio bomberos ubicado en la vía Carmelo, está ubicado en una zona distante de la zona central del municipio, lo que genera un riesgo al momento de los traslados como hurtos por parte de personas externas (delincuencia común), se evidencia consumo de sustancias psicoactivas por personas de casas aledañas.
+    [group_mu9ho06/Operativa] => Coordinación con la municipalidad y liderazgo de las comunidades.
+    [group_mu9ho06/Observaciones] => No hay ELC en Huila, la información es gestionada por el ELC de Caquetá.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:46582ab6-12d8-4a3b-90c5-bc73f7abd4a6
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 46582ab6-12d8-4a3b-90c5-bc73f7abd4a6
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-08-16T00:11:51
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

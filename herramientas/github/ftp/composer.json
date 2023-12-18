@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nicolab/php-ftp-client": "^2.0",
+        "touki/ftp": "^1.2",
+        "lazzard/php-ftp-client": "^1.5"
+    }
+}

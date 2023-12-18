@@ -1,0 +1,90 @@
+stdClass Object
+(
+    [_id] => 420925502
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-04-28T08:43:13.607-05:00
+    [end] => 2023-04-28T08:53:27.345-05:00
+    [group_gu1lq88/Departamento] => NARINO
+    [group_gu1lq88/NARINO] => MAGUI
+    [group_gu1lq88/Otros_Municipios] => Olaya Herrera
+    [group_gu1lq88/Vereda] => Bolívar, La Victoria, El Rosario, Naranjito y Las Lajas
+    [group_gu1lq88/Nombre_de_la_comunidad] => Por Confirmar
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-04-28
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM PRESENCIA_GAI RECLUTAMIENTO VBG
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => - Entre el 18 y 26 de abril, más de 1.491 personas (701 familias) afrodescendientes se desplazaron y más de 1.800 personas (480 familias) se confinaron en los municipios de Magüí Payán y Olaya Herrera, como consecuencia de enfrentamientos entre Grupos Armados No Estatales (GANE), así:
+- El 18 de abril, más de 280 personas (159 familias) se desplazaron desde la vereda Cualalá hacia la cabecera municipal en Magüí Payán.
+- El 24 de abril, más de 900 personas (382 familias) se desplazaron desde la vered a Laguna Naranjito (Olaya Herrera) y desde las veredas Bolívar, La Victoria, El Rosario, Naranjito y Las Lajas (Magüí Payán) hacia el casco urbano del municipio de Olaya Herrera.
+- Desde el 24 de abril, se encuentran confinadas más de 1.800 personas (480 familias) de las veredas Chocho, La Loma, La Victoria, Bellaunión, El Rosario, La Isla, Ricaurte, Canquiste y Bolívar de los Consejos Comunitarios Unión Patía Viejo y Manos Amigas del municipio de Magüi Payán.
+- El 26 de abril, más de 311 personas (160 familias) se desplazaron de las veredas Nansalví, El Diviso, Nansalví La Unión y Las Lajas hacia el casco urbano en Magüí Payán.
+Enlace:
+https://drive.google.com/file/d/1QmwPux11SXTMw_4K2EF0LJK28C4mb-D0/view
+    [group_yv1ph08/time2] => 2023-04-18
+    [group_yv1ph08/time3] => 10
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Refugio y Asentamientos
+    [group_cn9za51/familias] => 1181
+    [group_cn9za51/personas] => 3291
+    [group_cn9za51/comu] => 9
+    [group_cn9za51/Grupo_tnico] => afro mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Desde el 18 de abril, la Alcaldía Municipal de Magüí Payán entrega kits de alimentos y ollas comunitarias a las familias desplazadas. Desde el 24 de abril, la Alcaldía Municipal deOlaya Herrera entrega kits de alimentos a las familias desplazadas.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 20 y 26 de abril, la Alcaldía Municipal de Magüí Payán sesionó en Comité Territorial de Justicia Transicional (CTJT) y declaró los desplazamientos forzados masivos y el confinamiento. El 26 de abril, las administraciones municipales de Olaya Herrera y Magüí Payán solicitaron el apoyo subsidiario de la Gobernación de Nariño, la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV), y apoyo complementario al ELC Nariño debido a que sus capacidades operativas y financieras se encuentran desbordadas.
+    [group_mu9ho06/Logisitica] => Por Actualizar
+    [group_mu9ho06/Seguridad] => Por Actualizar
+    [group_mu9ho06/Operativa] => Por Actualizar
+    [group_mu9ho06/Observaciones] => Por Actualizar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/1QmwPux11SXTMw_4K2EF0LJK28C4mb-D0/view+Por confirmar+Por confirmar
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:47ed3af1-810a-40f9-a232-3a18f3909438
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 47ed3af1-810a-40f9-a232-3a18f3909438
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-04-28T13:53:38
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

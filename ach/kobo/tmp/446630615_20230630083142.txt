@@ -1,0 +1,81 @@
+stdClass Object
+(
+    [_id] => 446630615
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-06-30T08:21:37.721-05:00
+    [end] => 2023-06-30T08:31:40.295-05:00
+    [group_gu1lq88/Departamento] => ANTIOQUIA
+    [group_gu1lq88/municip_antioquia] => SEGOVIA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Montefrío, Palmas, Las Jaguas y Arenales
+    [group_gu1lq88/Nombre_de_la_comunidad] => Por confirmar
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-06-30
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESPLAZAM_MASIV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM MINAS PRESENCIA_GAI
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Entre el 1 y el 17 de junio, al menos 77 personas (26 familias) pertenecientes a las veredas de Montefrío (16 familias), Palmas (7 familias), Las Jaguas (2 familias) y Arenales (1 familia) del municipio de Segovia (Antioquia), se han desplazado hacia el corregimiento de Puerto López (El Bagre, Antioquia), debido a enfrentamientos entre GANE desde el 31 de mayo en la vereda Montefrío. Actualmente, las personas se encuentran alojadas en viviendas de sus redes de apoyo.
+Se conoce que hay un subregistro del total de personas afectadas, debido a que algunas víctimas directas de los ataques no han denunciado por temor ante posibles retaliaciones por parte de los GANE.
+Como antecedente, el 14 de marzo se presentó el desplazamiento de al menos 40 personas (14 familias) desde la vereda Montefrío hacia el corregimiento de Puerto López (El Bagre) y el municipio de Montelíbano (Córdoba). 
+Enlace: https://drive.google.com/file/d/1FvHZeSf-0w2KfoExjdW8aFwlEABwx4Ms/view
+    [group_yv1ph08/time2] => 2023-06-17
+    [group_yv1ph08/time3] => 13
+    [group_yv1ph08/evidencia] => proteccion educacion san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Seguridad Alimentaria
+    [group_cn9za51/familias] => 26
+    [group_cn9za51/personas] => 77
+    [group_cn9za51/comu] => 4
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => Se activó la ruta de atención a víctimas por parte del municipio de El Bagre, tras la realización de un Comité Territorial de Justicia Transicional (CTJT) el día 15 de junio para analizar el contexto y articular la primera respuesta por parte de la Alcaldía municipal. Desde mediados de junio, la Alcaldía entregó Ayuda Humanitaria Inmediata (AHI) en efectivo para la totalidad de familias desplazadas.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 15 de junio se realizó un CTJT por parte de la Alcaldía de El Bagre, donde asistieron las secretarías del municipio, la Gobernación de Antioquia y la Unidad para las Víctimas (UARIV). En esta reunión se acordó una primera respuesta por parte de la Alcaldía de El Bagre. A partir del 1 de julio la Gobernación de Antioquia se encargará de brindar asistencia y desde el 10 de julio la UARIV. El ELC de Antioquia se encuentra monitoreando la situación y junto con los socios se viene realizando incidencia con instituciones para la respuesta y activación de rutas, además de coordinar complementariedad de ser requerida por las autoridades locales.Se activó la ruta de atención a víctimas por parte del municipio de El Bagre, tras la realización de un Comité Territorial de Justicia Transicional (CTJT) el día 15 de junio para analizar el contexto y articular la primera respuesta por parte de la Alcaldía municipal. Desde mediados de junio, la Alcaldía entregó Ayuda Humanitaria Inmediata (AHI) en efectivo para la totalidad de familias desplazadas.
+    [group_mu9ho06/Logisitica] => Por Actualizar
+    [group_mu9ho06/Seguridad] => Por Actualizar
+    [group_mu9ho06/Operativa] => Por Actualizar
+    [group_mu9ho06/Observaciones] => Por Actualizar
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/1FvHZeSf-0w2KfoExjdW8aFwlEABwx4Ms/view+Por Confirmar+¿FCE?
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => v68TZUqNP2DqVQckNnWeZT
+    [meta/instanceID] => uuid:9ed06b62-a6af-4b26-9f91-09cb0acf6cd0
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 9ed06b62-a6af-4b26-9f91-09cb0acf6cd0
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-06-30T13:31:41
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

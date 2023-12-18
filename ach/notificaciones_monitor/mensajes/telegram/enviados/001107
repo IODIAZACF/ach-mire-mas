@@ -1,0 +1,28 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 214
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1133999349
+                    [first_name] => Edson
+                    [last_name] => Daza
+                    [username] => edsondaza
+                    [type] => private
+                )
+
+            [date] => 1594218998
+            [text] => como estas?
+        )
+
+)

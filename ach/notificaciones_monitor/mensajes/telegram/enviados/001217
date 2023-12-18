@@ -1,0 +1,50 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 285
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594260717
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBHV8GfO0aPFJmj2ALwAF9Dbn_JHS0AAKIqDEbjCowRAbex6mxvn9vJ7VuBgAEAQADAgADbQADN6wDAAEaBA
+                            [file_unique_id] => AQADJ7VuBgAEN6wDAAE
+                            [file_size] => 6204
+                            [width] => 320
+                            [height] => 209
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBHV8GfO0aPFJmj2ALwAF9Dbn_JHS0AAKIqDEbjCowRAbex6mxvn9vJ7VuBgAEAQADAgADeAADOKwDAAEaBA
+                            [file_unique_id] => AQADJ7VuBgAEOKwDAAE
+                            [file_size] => 26855
+                            [width] => 800
+                            [height] => 523
+                        )
+
+                )
+
+            [caption] => Broche redondo metalico  plateado personalizado
+Precio: 6.000000
+        )
+
+)

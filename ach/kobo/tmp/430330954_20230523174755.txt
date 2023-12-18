@@ -1,0 +1,298 @@
+stdClass Object
+(
+    [_id] => 430330954
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-05-11T22:55:04.530-05:00
+    [end] => 2023-05-23T17:47:53.879-05:00
+    [group_pl6la06/_1_C_digo] => BOAR-909.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-05-18
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-05-23
+    [group_pl6la06/_4_Departamento] => BOLIVAR
+    [group_pl6la06/BOLIVAR] => ARENAL
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => Santo Domingo
+    [group_pl6la06/_8_Comunidad] => Santo Domingo, La sabana, Soya, Muela, Mina proyecto, Mina Cielo, Unión dorada y La Dorada
+    [group_pl6la06/_9_Tipo_de_emergencia] => RESTRICCION_DE_MOVILIDAD
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => INSTITUCIONES_EDUCATIVAS LIDER_COMUN OCHA ORGANISMO_PUBLICO ORGANIZACION_ETNICO_COMUNITARIA
+    [group_mb5pt53/_1a_Evaluador] => ANGELICA PINO MENA
+    [group_mb5pt53/_1b_Celular] => 3223934868
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => ANDREA RINCÓN
+    [group_mb5pt53/_2b_Celular] => 316 7803028
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_3a_Evaluador] => DIANA HOLGUIN
+    [group_mb5pt53/_3b_Celular] => 312 4108207
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_4a_Evaluador] => Cristian Henao
+    [group_mb5pt53/_4b_Celular] => 316 8173550
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-05-09
+    [group_rq63s60/_1c_Descripci_n_del_evento] => Desde finales del 2022, se viene presentando un aumento de hostilidades en la zona rural del municipio de Arenal donde hegemónicamente hacia control del ejército nacional de liberación - ELN, quienes dominaban y establecían normas sociales, económicas y territoriales.  
+
+Las dinámicas del territorio cambian con el ingreso de las autodefensas gaitanistas de Colombia – AGC, quienes han generado una avanzada y una estrategia por diferentes municipios del sur de Bolívar con la finalidad de posicionarse en toda la zona de la serranía de San Lucas para controlar el tránsito y actividades económicas relacionadas con los GANEs como la compra de sustancias ilícitas y extorsiones para el desarrollo de las mismas. Para noviembre inicia el tránsito y presencia constante de los dos actores armados en la zona rural del municipio, lo que generó una sensación de incertidumbre e inseguridad en las comunidades y la percepción de un riesgo latente, el cual se materializo en la semana del 18 de diciembre, cuando se presentaron los primeros enfrentamientos entre estos grupos armados, que generaron el desplazamiento de algunas familias de las veredas de La Dorada y Unión Dorada hacia el casco urbano.  
+
+La presencia de diferentes actores armados ha generado el establecimiento de campamentos en zonas estratégicas y cercanas a las comunidades, situación que incremento la instalación de artefactos explosivos con la finalidad de controlar la avanzada del grupo enemigo.  Es así como para el mes de diciembre en el camino que conduce hacia a la vereda Mina Cielo ocurre un accidente ocasionado por una mina antipersonal que genero lesiones menores en una persona y a otra, afectación en sus miembros inferiores que desencadeno la amputación de uno y múltiples facturas, generando incapacidad permanente.  
+
+Un nuevo accidente se presentó el 21 de febrero en cercanías al basurero municipal de Arenal donde se identificó una bandera protegida por artefactos explosivos de uno de los grupos armados, lo cual dejo como resultado a 2 personas con lesiones menores y otras dos personas con pérdida de un ojo y un miembro inferior, lo anterior da cuenta de la grave situación presentada en la zona rural del municipio de arenal por la instalación y presencia de minas antipersonal, trampas explosivas y municiones sin explosionar – MAP, TE y MSE.  
+
+La demarcación territorial se hace por medio de banderas y la instalación de artefactos explosivos con la finalidad de que no sean removidas y quede claro el control que ejercen sobre estas veredas y puntos estratégicos de comunicación.  
+
+ Posteriormente, para los primeros días de marzo, comienzan a presentarse enfrentamientos en el corregimiento de Micoahumado – Morales, que es colindante con la zona alta del municipio de Arenal, lo que permitió un rápido tránsito de las hostilidades hacia los corregimientos de San Agustín y Santo Domingo. En estos dos corregimientos, se presentaron enfrentamientos entre GANEs del 18 al 31 de marzo, que generaron el desplazamiento de aproximadamente 50 familias y 150 personas hacia casco urbano y el confinamiento de las comunidades en la zona rural de ambos corregimientos. 
+
+De forma subyacente a los enfrentamientos se identificaron los siguientes hechos en las comunidades: la imposición de normas que restringen y controlan la movilidad en las vías de acceso terciario en el horario nocturno, señalamientos y amenazas a la comunidad y a roles de liderazgo, retenciones, secuestros, uso, utilización y vinculación de niños, niñas y jóvenes a actividades relacionadas con su accionar y patrullaje constante en las noches por parte de los GANEs. Los últimos enfrentamientos se registraron el 9 de mayo, dando cuenta que las situaciones de riesgo son constantes y la alerta de nuevos hechos sigue vigente.
+    [group_rq63s60/group_lm6cx76/a_Social] => Las comunidades están organizadas por medio de juntas de acción comunal-JAC con comités de Salud, conciliación y deportivo que permiten identificar de forma clara los roles de liderazgo y el ejercicio de gobernabilidad, participación y autogestión comunitaria. 
+
+El desarrollo de espacios colectivos permite el abordaje y análisis de problemáticas del territorio para propiciar escenarios de resolución de conflictos y acciones colaborativas para el sostenimiento de las veredas.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => El análisis desarrollado en las comunidades permite determinar las características propias de cada población, encontrando los siguientes hallazgos: la población de las veredas se auto reconocen como campesinas y además se evidencian presencia de población afrocolombiana, es de resaltar, que en la composición poblacional predomina la presencia de hombres en edades comprendidas entre los 16 y 60 años, lo anterior responde a las dinámicas económicas en la zona. 
+
+Los escenarios de participación identificados en las comunidades son limitados para las mujeres y los roles de genero se adaptan a las dinámicas tradicionales y patriarcales.  
+
+Se identifican personas con discapacidad de tipo visual, física y cognitiva, por lo que se requieren que la respuesta tenga ajustes razonables que permitan la accesibilidad a los servicios que se brindan en el marco de una atención humanitaria.  Además, es necesario que la asistencia se proporcione, de acuerdo a las características de los grupos etarios de la población con la finalidad de adaptar lenguaje, adquirir consentimientos y actividades a desarrollar.  
+
+Resaltamos la importancia de transversalizar la protección en el marco de las atenciones que se brinden en el territorio, con propósito de garantizar la seguridad, dignidad y acción sin daño, así como promover la accesibilidad, la responsabilidad, rendiciones de cuentas, participación y empoderamiento de la población sujeta a atención.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Algunas comunidades obtienen su sustento económico a través de actividades que se desarrollan desde la agricultura, como lo son; la siembra de cultivos de yuca, maíz, cacao, ñame y aguacates, cría de ganado, caprinos y avícola por familia para su auto sostenimiento y la venta de estos alimentos en el casco urbano. 
+
+En las Comunidades ubicadas en las zonas altas, su fuente de sustento económico se basa en minería artesanal para la cual se utiliza metales pesados como mercurio y cianuro los cuales son vertidos en fuentes hídricas aledañas de las cuales se aprovisiona de agua, además se identifica otra actividad económica como el cultivo de la planta de coca y el proceso de transformación que incluyen la recolección y procesamiento de la misma, en esta última actividad se han disminuido los ingresos causados por los bajos precios, generando una crisis económica en la región afectando el suministro de alimentos, acceso a salud y demás servicios.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Las veredas afectadas por los enfrentamientos de los GANE se encuentran ubicadas en el municipio de Arenal, en el sur del departamento de Bolívar, en la serranía de San Lucas, que es una zona estratégica para el desarrollo de actividades mineras y relacionadas con los actores armados que hacen presencia en la zona.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Alojamientos: 
+Arenal: Hotel Azteca 
+
+Alimentación: 
+Arenal: Oferta de restaurantes 
+
+Servicios: 
+Agua: No potable 
+Comunicaciones: Señal del servidor de Claro solo en el casco urbano de Arenal.  
+Energía: Por planta eléctrica municipal y en las veredas por medio de paneles solares. 
+Acceso a unidades sanitarias:  
+Arenal: Hospital local Manuela Pabuena Lobo
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => Las practicas económicas de algunas poblaciones impactan de manera considerable el medio ambiente, ejemplo de ello, es la contaminación de fuentes hídricas por la utilización de metales pesados en la minería, la quema controlada y desforestación para el cultivo.
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO HOMICIDIOS MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES RECLUTAMIENTO_NNJ OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/Riesgos_para_respuesta] => MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_cual] => Amenaza, Secuestro
+    [group_fm93i53/_1d_Caracterizaci_n_Homicidios] => HOMICIDIOS_SELECTIVOS_LÍDERES
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN OTRO_GRUPO_ARMADO
+    [group_fm93i53/_Cu_l_005] => Fuerza militar - ejercito
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Es necesario el uso de camionetas 4x4 que sean altas debido a que el traslado desde el casco urbano hasta las veredas es por medio de vías carreteables en zona montañosa con un terraplem con tramos de difícil tránsito y cuando llueve, se convierten en barrizales que deslizan los vehículos y se incrementa las horas de traslado, lo que genera retos en carros con carga pesada para el tránsito y la distribución a las comunidades ubicadas en las zonas altas del municipio. 
+
+Aéreo hasta Aguachica o Bucaramanga 
+
+Terrestre Camioneta tipo pick up 4X4 desde Aguachica a Arenal vía pavimentada hasta Gamarra, paso en ferri del río Magdalena y carretera destapada a Arenal.   
+
+Terrestre Camioneta tipo pick up 4x4 desde Arenal hasta: 
+
+La Sabana: 1hrs 
+
+Soya: 2 hrs 
+
+Santo Domingo: 4 hrs 
+
+La Dorada: 1 hrs y 30 mn 
+
+Unión Dorada: 2 hrs 
+
+Mina Cielo: 3 hrs
+    [group_fm93i53/seguridad] => En el territorio hacen presencia tres GANEs y la fuerza militar, lo que aumenta la posibilidad de hostilidades, combates y enfrentamientos. 
+
+Se han registrado enfrentamientos en las zonas rurales del municipio Arenal, así como en municipios cercanos desde diciembre de 2022. 
+
+Existe un control y establecimiento de normas de conducta por parte de los actores armados para el acceso a las veredas. 
+
+Existe demarcación de territorio por medio de banderas y letreros correspondiente al grupo armado con mayor injerencia en la zona.  
+
+Antecedentes de accidentes con minas antipersonal que dejo tres personas afectadas y con secuelas físicas. 
+
+Es de resaltar que la única ONGs que ha ingresado a la zona es el CICR, y poca presencia de actores humanitarios por lo que es una zona donde no es cotidiana la presencia de ONGs 
+
+Secuestro de un líder comunitario.  
+
+Ha habido retenes en las vías de acceso por parte de los GANEs. 
+
+Riesgo de artefactos explosivos. 
+
+Moderar el lenguaje y el uso de palabras en los espacios comunitarios que puedan poner en riesgo la respuesta a la emergencia.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 518
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 850
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 8
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 15
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 35
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-05-21
+    [group_de9og58/ONG_territorio] => NO
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => La emergencia en las veredas de la zona rural del municipio de Arenal se genera por la disputa territorial de los actores armados que han generado desplazamientos, confinamientos y restricciones a la movilidad y donde aún se identifica una situación de riesgo por la posibilidad que se presenten nuevos enfrentamientos y hostigamientos en el territorio. Por esta emergencia de conflicto armado, se configuraron amenazas que responden a situaciones de violencia, coerción y privación deliberada. 
+
+Se identifican amenazas y señalamientos a los miembros de las JAC (juntas de acción comunal), quiénes han sido citados en varias ocasiones por parte de los GANE para aclarar normas impuestas por los mismo, las normas incluyen horarios establecidos para la movilidad (6 am – 6 pm), código de vestimenta, prohibición de medios de comunicación y comportamientos no aceptados (robar y consumo de SPA), la advertencia es que quiénes infrinjan estas normas serán sancionados por el GANE, como norma impuesta también se menciona la prohibición de mover cadáveres de personas pertenecientes a GANE que han sido abatidos y la orden para sepultarlos solo puede ser dada por ellos, obligando a que hombre de las comunidades lo hagan en fosas comunes.  
+
+Se presentó, además, un caso de secuestro al presidente de la JAC de una de las veredas se refiere que la razón es que fue “confundido” con otra persona y estuvo privado de su libertad por 5 días, recibiendo violencia física y psicológica por el mismo tiempo, fue también despojado de sus documentos de identidad y la liberación se da ante la presencia de su familia y comunidad.  
+
+Como mecanismo de control territorial los GANE solicitan a las JAC que realicen la caracterización y censo de las veredas para el control de las personas que llegan e ingresan a la zona, además, se evidencian, un trato hostil (intimidaciones, allanamiento de morada, hurto de alimentos y animales para su consumo) por parte de grupos armados estatales y no estatales y la utilización de la comunidad obligándoles en acciones como enterrar muertos, transportar Alimentos y agua e insumos.  
+
+Las personas de las comunidades veredales manifiestan afectaciones a nivel emocional por la tensión de quedar nuevamente en fuego cruzado, ya que grupos armados y la fuerza militar, las utilizan como escudo en medio de estos, acampando al interior de las veredas y escuelas, lo que supone un riesgo y una infracción al derecho internacional humanitario. Algunas mujeres refieren tener listos el equipaje con elementos básicos “por si deben salir corriendo otra vez”. 
+
+La presencia de los actores armados y la utilización de estrategias de convencimiento ha aumentado el riesgo de vinculación, uso y utilización de NNA a actividades relacionadas con los actores armados. Este riesgo aumenta por la falta de oportunidades educativas en las comunidades y estrategias de uso del tiempo libre. 
+
+Se evidencia casos en que los GANE han abordado a las madres de familia para convencerlas de que sus hijos se unan a estos grupos, lo que ha generado temor en los padres y como medida de mitigación prefieren trasladar a los menores a otras zonas bajo el cuidado de familiares o conocidos. 
+
+El tránsito y la presencia de actores continúa en el territorio, debido a ello las mujeres refieren sentirse inseguras al momento de quedarse solas en sus casas o tener que movilizarse, cuándo se escucha el rumor de que los GANE están cerca los hombres jefes de hogar dejan de trabajar para evitar dejar solas a las mujeres y NNA.   
+
+Como mecanismos de autoprotección identificados, las veredas cuentan con estructuras organizativas, en las que se encuentra el comité conciliador quién se encarga de velar por el cumplimiento de normas de convivencia y resolución de conflictos. Ha habido ejercicios de interlocución con actores armados para la negociación. Se percibe cohesión social y colaboración comunitaria ante situaciones de emergencia. 
+
+Además, existe limitación para el acceso a derechos esenciales como la salud y la educación que incrementan los riesgos de la población y aumenta las vulneraciones a las que están frente a situaciones de conflicto armado.
+    [group_aa8xg30/group_lg2ro37/Shelter] => Los principales hallazgos identificados en la ERN, revelan un deterioro significativo de las sedes educativas. Estas sedes presentan problemas como techos dañados, pisos en mal estado y paredes con fisuras y grietas, lo cual representa un riesgo para el desarrollo de las actividades escolares. En particular, en la comunidad de Mina Cielo, se ha observado que la estructura utilizada para las clases ha sido abandonada debido a la colocación de artefactos explosivos en las cercanías, lo que limita el derecho a la educación. Como resultado, la comunidad se ha visto obligada a alquilar un lugar inadecuado para impartir las clases.  
+
+Además, se han identificado espacios comunitarios, como los puestos de salud, que presentan un deterioro en sus infraestructuras, lo cual conlleva riesgos biológicos y eléctricos. Esto genera un aumento en la propagación de enfermedades para la comunidad de las veredas.  
+
+En cuanto a las necesidades de alojamiento temporal y elementos de hogar que salvan vidas, no se ha detectado la necesidad de activar esta respuesta, ya que los habitantes se encuentran en sus hogares en las veredas y no se han evidenciado requerimientos de elementos adicionales. Las necesidades identificadas se centran principalmente en problemáticas estructurales.
+    [group_aa8xg30/group_fv0ct51/Agua] => El suministro de agua en las veredas se realiza mediante acueductos comunitarios improvisados, a través de mangueras autogestionadas por la población, de esta forma el agua es conducida hasta algunas viviendas. La captación es desde nacimientos de agua, ubicados en las zonas montañosas hasta sus casas, o de quebrabas cercanas. El sistema funciona por gravedad.  
+
+El agua recolectada no está tratada antes de su consumo lo que ha generado muchos casos de enfermedad diarreicas agudas por consumos de aguas inseguras, sumado a enfermedades de piel como irritación (brotes/sarpullidos) y coloración en la piel , además es importante resalta que en gran parte de la zona rural de municipio de Arenal se desarrolla minería artesanal para la cual se usan metales pesado como el mercurio, el cianuro y la pólvora que son vertidos posteriormente a las fuentes hídricas y general una mayor afectación repercutiendo en la salud de la población que hace uso de esta agua. 
+
+La cantidad de agua y disponibilidad de esta varía de acuerdo a la época del año, ya que las quebradas y nacimientos reducen su nivel en tiempos de sequía, generando un limitado acceso a liquito y donde las familias se quedan sin agua durante periodos largos de tiempo. 
+
+Es importante resaltar que la comunidad manifiesta no conocer, y no realizar ningún tipo de tratamiento de agua luego de la recolección que se usa para consumo, en algunas ocasiones se observan animales muertos que bajan por la tuberías del agua, lo que da cuenta de las condiciones del agua consumida en las veredas.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => En las veredas se evidencia la existencia de tasas sanitarias que son conectadas a pozos sépticos autogestionados por las familias, los cuales no cuentan con las medidas técnicas para su uso.
+El manejo de las basuras se realiza la quema de las mismas al aire libre.
+    [group_aa8xg30/group_fv0ct51/Higiene] => Las comunidades se abastecen de elementos de higiene en el casco urbano del municipio de Arenal, lo cual por el encarecimiento de precios ha generado una problemática para el acceso a los mismo y la reducción de las cantidades con la finalidad de economizar los gastos de la familia.
+    
+Se evidencia enfermedades producto de vectores que generan afectaciones gastrointestinales y en la piel; además el manejo de metales pesado como mercurio y el cianuro que genero el fallecimiento de un miembro de la vereda de Mina Cielo podría dar cuenta del manejo inadecuado de estos y las consecuencias que se generan en la población.
+    [group_aa8xg30/group_jn0nm53/san] => En la implementación de las diferentes herramientas para desarrollar las ERN en las veredas de Arenal, se identificaron necesidades de medios de vida y alimentación que responden a condiciones estructurales, que se han incrementado, sin embargo, no son afectaciones derivadas propias de la situación de emergencia por conflicto.  
+
+Las comunidades utilizan como fuentes de alimento: la compra en los mercados, el cultivo y la cría de algunos animales, compran productos como aceite, arroz, café, panela, pasta, frijol y lenteja, cultivan yuca, plátano, maíz y arroz. De igual forma, tienen activa la cría de especies menores (gallinas, cerdos, cabras) y en menor medida reses. La mayoría de la población cocina con leña, son muy pocos los que tienen acceso a fogones de gas.  
+
+En su gran mayoría las familias preparan dos o tres comidas al día, la cantidad y diversidad de los alimentos varía según las capacidades económicas de cada familia. Sin embargo, en los grupos focales expresaron que en términos generales la dieta es variada, pues se alimentan con los productos mencionados en el párrafo anterior. No se observaron signos de desnutrición en niños y/o niñas.  
+
+Además del autoconsumo, se abastecen fuertemente de los mercados que se encuentran en la cabecera municipal. El medio de transporte más común es la moto, hay disminución de otro tipo de transporte por esta zona y no existe una línea de transporte publica que cubra esta ruta. El transporte desde las veredas más cercanas (Soya y Sabana) tiene un costo aproximado de 30 mil pesos por trayecto (60 mil ida y regreso) y toma entre 30 y 40 minutos. Desde otras veredas más retiradas (Mina Cielo, Unión Dorada, Dorada) el costo es de entre 60 mil y 100 mil pesos por trayecto (de 120 mil a 200 mil pesos ida y regreso) y toma de 2 a 4 horas dependiendo de la vereda (la más distante es Mina Cielo). Adicionalmente, cuando se abastecen deben pagar aproximadamente 30 mil pesos por el flete de transporte del mercado.  
+
+Las comunidades se abastecen semanalmente, con la excepción de Mina Cielo, donde expresan que la periodicidad es mensual. Esto podría explicarse por la cercanía de esta comunidad a la mina y la presencia más amplia de cultivos de coca, lo que puede significar mayor poder adquisitivo permitiéndoles un mayor abastecimiento. Adicionalmente, el alto costo de desplazamiento es un incentivo para movilizarse lo menor posible hacia Arenal.  
+
+En lo que respecta a los medios de vida, se identificaron distintas fuentes de trabajo. En las veredas de Soya y Sabana el principal ingreso proviene de la agricultura, cultivan y comercializan productos como la yuca, el plátano y el cacao. Adicionalmente, algunas personas trabajan la minería artesanal por medio del “barequeo”.  
+
+Las comunidades de las veredas de Mina Cielo, Unión Dorada y Dorada manifestaron que sus principales fuentes de ingreso provienen del trabajo con la hoja de coca (El cultivo y el procesamiento para la elaboración de pasta de coca) y de la minería por “azogue”.  
+
+Como se ha mencionado también existen actividades agrícolas especialmente para el autoconsumo, sin embargo, la presencia y disputa territorial de los distintos actores armados legales e ilegales representa un riesgo latente, generando dificultades para moverse con libertad al interior de su territorio debido a la presencia de MAP/TE/MSE.  
+
+Las dificultades monetarias que han experimentado tienen que ver con situaciones más estructurales que emergenciales como: el alto costo para sacar y comercializar los productos que producen, la falta de vías de acceso en buen estado y la reducción en la demanda por la coca. A pesar de estas dificultades, las comunidades acceden a los alimentos y el trabajo. Se recomienda continuar monitoreando las condiciones de estas comunidades, pues la disputa territorial de los 4 actores armados que hacen presencia en el territorio son un riesgo latente que puede detonar y generar nuevas afectaciones en estas poblaciones.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => Durante la ERN se pudieron evidenciar afectaciones de Salud propias de las zonas tropicales tales como: malaria, dengue y leishmaniasis, de estas últimas se disponen de tratamientos para malaria y leishmaniasis, los casos detectados ya se encuentran en manejo oportuno con remisión de las patologías, adicionalmente se mencionan casos de accidentes ofídicos ocasionales, lesiones físicas propias de las actividades campesinas y de minería, donde se encuentran heridas cortantes y amputaciones traumáticas por otro lado son comunes los casos de enfermedad diarreica aguda en los menores, además de celulitis y dermatomicosis generalizadas en los adultos.
+Se encuentran patologías que amerizan manejo por especialidades médicas como estrabismos oculares, hernias; con respecto a patologías crónicas se evidencia: hipertensión, diabetes, hipotiroidismo y EPOC sin embargo es de aclarar que la población adulta mayor es minoritaria en estas comunidades. Es una comunidad donde abundan jóvenes y adultos en edad productiva con contados casos de personas con discapacidad.
+
+Mujeres gestantes y planificación familiar:
+La población de mujeres gestantes es limitada, la mayoría de las gestantes optan por establecerse en la cabecera municipal ante la ausencia de controles prenatales en su lugar de vivienda y también 
+para la atención de sus respectivos partos en la institución de salud municipal; en cuanto a planificación familiar está es nula en la zona sin embargo las mujeres manifiestan su deseo de 
+acceder a métodos de planificación, y para acceder a ellos deben solicitar mensualmente la compra de la inyección la cual es aplicada por personas referentes de salud en la población, por otra parte, algunas tienen implantes subdérmicos implantados luego de mucha insistencia por lo que coinciden en que es muy difícil el acceso a estos métodos. 
+
+Vacunación:
+En cuanto a vacunación los niños se encuentran con planes de inmunización actualizados sin embargo no hay planes de inmunización en las veredas, por lo cual deben estar desplazándose a la cabecera municipal para acceder a vacunas lo cual representa un gasto económico importante para 
+la población.
+
+Cobertura e intervenciones en salud:
+Las personas casi en su totalidad se encuentran afiliadas a una EPS siendo nueva EPS la que afilia a los pobladores sin embargo por barreras de acceso en Salud como la vivienda lejana no acceden a 
+ningún tipo de programa y la institucionalidad no realiza brigadas de salud desde hace más dos años en la época de pandemia, y cuando se realizan normalmente se dirigen a Santo Domingo la 
+cual es reconocida como corregimiento dejando de lado las demás veredas para la cual es geográficamente un reto ir hasta dichas zonas para acceder a atención médica, tampoco han 
+recibió atención en salud por otras ONGs, ha hecho presencia el CICR en temas de mediación de conflicto sin intervención en salud.
+
+Referentes comunitarios en salud:
+En cuanto a personas referentes en salud no se encuentran promotores en Salud establecidos sin embargo en mina cielo vive establecida una enfermera jefa la cual brinda primeros auxilios y 
+prescribe medicamentos básicos para problemas de salud en la comunidad, en el corregimiento de Santo Domingo hay una mujer que suturas heridas, aplica inyecciones y aconseja en problemas de Salud menores, en las demás veredas existen algunas personas que aplican inyecciones, pero sin nociones claras de salud o atención primaria. 
+
+Capacidad instalada:
+El municipio de Arenal Bolívar cuenta con una institución prestadora de salud de primer nivel ubicada en el centro del poblado, cuenta con laboratorios clínicos básicos y en la que no se cuenta con ninguna especialidad médica, ni unidad de cuidados intermedios. La atención médica de urgencias y Consulta Externa prestada por la institución está a cargo de cinco médicos generales, sin embargo, en el momento solo se cuenta con tres médicos debido a que la rotación del personal es alta y no se han podido ofertar las dos plazas rurales restantes.
+Las remisiones médicas emergentes se realizan al municipio de Aguachica que se encuentra aproximadamente a dos horas y media en ambulancia, o al municipio de el Banco-Magdalena a la 
+misma distancia según sea el caso. La institución cuenta con programas de vacunación, planificación familiar y manejo de enfermedades crónicas sin embargo se pudo evidenciar que no 
+existe una priorización para las poblaciones que habitan en zona rural. Finalmente se indagó acerca de posibles brigadas médicas en la zona lo cual fue descartado por falta de garantías de seguridad en la zona.
+
+Conclusiones:
+Resumiendo los puntos mencionados se puede concluir que la situación de salud en la zona es debida a una afectación estructural la cual corresponde a un abandono estatal de larga data por lo cual no se garantizan controles prenatales, programas de crecimiento y desarrollo, vacunación, ni tampoco control de enfermedades crónicas además de dificultad para acceder a servicios de salud especializados, adicionalmente las patologías más comunes y agudas se deben a los determinantes de salud estáticos propios de la comunidad y las dinámicas sociales en las que se ven inmersas, haciendo énfasis en que no hay una agudización de la situación de salud causada por la emergencia 
+del conflicto armado que amerite un primer ingreso, puesto que las condiciones de salud físicas descritas previamente son permanentes y estables en el tiempo que bien podrían ser abordadas en una intervención en segunda fase si hubiera lugar.
+    [group_aa8xg30/group_ga2zh63/SaludMental] => Las condiciones de salud mental en estas veredas corresponden a una afectación general de la población la cual está marcada por un temor generalizado dadas las constantes intimidaciones por 
+parte de los grupos armados quienes despojan de sus animales de corral para el consumo, por lo cual se abstienen de la crianza de los mismos, adicionalmente refieren a nivel de la comunidad 
+ansiedad generalizada asociada al insomnio debido a que en horas de la noche suelen ocurrir las incursiones armadas por lo que temen salir de sus hogares en horas de la tarde-noche, evitando la 
+movilización por carretera en dichas horas debido y a la prohibición por parte de los grupos armados.
+En la mayoría de las veredas existe afectación escolar, dado que que por miedo los niños no son enviados a clases debido a que los padres temen episodios de enfrentamientos armados, por otro 
+lado se suspenden clases regularmente debido a la ausencia permanente de docentes quienes ante estas situaciones salen de la zona y es difícil encontrar un reemplazo.
+Los habitantes de las veredas deben transitar los senderos con mucha precaución debido a la existencia de minas antipersona MAP/MSE/TE, dado que se han presentado recientemente muertos 
+por estos artefactos lo cual tiene una repercusión en la salud mental como resultado que las personas sientan que se restringe el derecho a su libre circulación.
+Las actividades de recreación son limitadas a billares y actividades de consumo de alcohol por parte de los hombres, y en cuanto a las mujeres refieren no gozar de espacios para el ocio, adicionalmente existen pocos lugares dedicados a este espacio solo se encontraron por ejemplo canchas de fútbol en las veredas de Santos Domingo y unión dorada pero no existe tejido social 
+más allá que las agremiaciones de la junta de acción comunal ya que no se realizan campeonatos ni reuniones o agremiaciones que permitan reforzar los lazos comunitarios.
+Las personas, aunque manifiestan una desesperanza generalizada, tristeza y ansiedad, niegan episodios de suicidios recientes; con respecto a consumo de sustancias es común y generalizado la 
+ingesta del alcohol, el consumo de SPA está penalizado por los grupos armados sin embargo su consumo se realiza de forma clandestina.
+Los roles de género son los comunes, desde un enfoque patriarcal donde el hombre ejerce funciones de proveedor y la mujer labores de cuidado y asistencia del hogar, la VBG es gestionada por una comitiva de la JAC que intenta mediar en la situación y cuando se escala el problema, la mujer es acogida por la comunidad quienes la retiran del lado del agresor, sin embargo la comunidad manifiesta que generalmente la víctima prefiere la no intervención de la juntas en esos casos, por lo cual es difícil impactar en casos de VBG por parte de los mecanismos existentes, no se obtuvieron relatos de violencia sexual por parte de los grupos armados hacia las mujeres de la zona.
+En lo referente a vinculación forzada a los grupos armados se documentan incentivos por parte de estos grupos quienes visitan escuelas rurales y coaccionan a los menores para el reclutamiento, lo cual se suma a la problemática de la deserción escolar por los cual los padres prefieren retirarlos de sus labores educativas y vincularlos a las actividades económicas familiares.
+
+Conclusión:
+En salud mental se evidencia una afectación global crónica reagudizada por los eventos recientes sin embargo las personas se muestran resilientes y con ciertos mecanismos de adaptación a la 
+situación que les permite afrontar la realidad, puesto que los pobladores de estas veredas están siendo objeto de intimidaciones constantes por lo grupos armados, con desplazamientos y restricciones habituales; se considera que si bien existe una necesidad de salud mental en la zona 
+no amerita una intervención de primera fase, sin embargo, se beneficiarían de actividades que ayuden a reforzar sus redes de apoyo comunitarias mediante la reconstrucción del tejido social y la atención psicológica individual en casos particulares
+    [group_aa8xg30/group_tb5de96/EIE] => Los enfrentamientos en los territorios se han suscitado en zonas cercanas a las escuelas, afectando la continuidad del servicio educativo, que incrementa el riesgo de los niños, niñas y adolescentes en el uso, utilización y vinculación por los GANEs y el aumento de trabajo infantil en las actividades económicas relacionadas con los grupos armados como la minera y el procesamiento de la planta de coca.  
+
+Además, se identificaron ataques en las 6 sedes educativas que incluyen: la ocupación de las escuelas y en las zonas cercanas y caminos hacia ellas por parte de actores armados estatales y no estatales, la instalación de artefactos explosivos en las zonas de juego y recreación de los niños, niñas y adolescentes. En una comunidad se identificó el establecimiento de un campamento por parte de las fuerzas militares estatales con armamento al lado de la escuela, generando temor e incertidumbre en las comunidades y los cuidadores que restringen el enviar o llevar a los niños, niñas y adolescentes a la escuela de manera regular.  
+
+Se presentan la instalación de artefactos explosivos alrededor y caminos hacia las escuelas, MAP, TE y MSE, lo que genero el cierre del funcionamiento de una sede educativa, ya que no cuenta con encerramiento y representaba un riesgo para los niños, niñas y adolescentes, además se registró un accidente que afecto una persona con una amputación de un miembro inferior, lo anterior, ha sido una de las principales causas que ha aumentado la deserción escolar en todas las comunidades. La dispersión de las comunidades en las veredas genera un riesgo en los trayectos de los niños, niñas, adolescentes hasta las sedes educativas, que en algunos casos está a una o dos horas de distancia lo cual incrementa el riesgo en las vías por la presencia de los actores armados.  
+
+Además, se evidencia una afectación marcada en los docentes, niños, niñas, y adolescentes, madres, padres y/o cuidadores psicosocialmente por la presencia de actores armados y los enfrentamientos sucedidos entre marzo, abril y mayo, expresan sentirse afectados en las horas de sueño a consecuencia del temor y ansiedad que les produce los sonidos en las noches y permanecer solos en casa por la presencia de los actores armados estatales y no estatales. 
+
+Las instituciones educativas no cuentan con plan de gestión de riesgo escolar o plan de emergencia ante situaciones de conflicto como fuego cruzado, presencia de artefactos explosivos o de actores armados, no tienen materiales fungibles, deportivos, lúdicos y pedagógicos para la realización de actividades dentro del aula con metodologías ajustadas durante la emergencia; estos sumado a la falta de formación en educación en emergencias, ni herramientas para el afrontamiento de las situaciones de crisis de los docentes y estudiantes.   
+
+Por todos los riesgos mencionados, los cuidadores de las veredas han enviado sus hijos a otros lugares a cargo de su familia extendida o el algunos casos a cargo de los docentes de la cabecera municipal con el propósito de continuar con las trayectorias educativas, además de esto, las veredas visitadas solo cuentan con el ciclo educativo básica primaria y el ciclo de secundaria está ofertado por la institución principal ubicada en la cabecera municipal de Arenal, lo que genera que los participantes no finalicen el ciclo escolar hasta secundaria por falta de recursos económicos para su sostenimiento durante la trayectoria educativa, se presenta poco acompañamiento de las madres y padres en la realización de tareas a los niños y niñas por desconocimiento y en algunos casos familias con cuidadores analfabetas.
+    [group_aa8xg30/BrechasInformacion] => CASH 
+
+En las veredas existen pequeñas tiendas con una diversidad limitada y una capacidad baja de abastecimiento, por esto las comunidades manifestaron que compran alimentos y productos de uso cotidiano en la cabecera municipal de Arenal. El acceso a los mercados puede verse limitado por las condiciones de la carretera, donde la movilidad se dificulta cuando hay lluvia y se ve bloqueada cuando se presentan dificultades de orden público derivadas del conflicto armado. En este momento se puede transitar libremente, la última vez que se presentaron problemas para movilizarse a la cabecera municipal fue iniciando marzo.  
+
+En Arenal se observa un mercado mediano, en donde se encuentran diversos productos, comercios y servicios. Hay graneros, ferreterías, farmacias y almacenes de ropa. Estos comercios tienen una capacidad de bodega y de ellos se surten las pequeñas tiendas veredales. No han experimentado desabastecimientos de ningún producto recientemente. 
+
+En arenal hay 2 puntos de Efecty que tienen la capacidad para distribuir transferencias monetarias. Hace aproximadamente dos meses se llevó a cabo una distribución de CASH exitosa en la cabecera municipal por parte de NRC como respuesta a una situación de desplazamiento. Se puede afirmar que el mercado en la cabecera municipal de Arenal tiene las capacidades para que una distribución por medio de CASH sea viable.  
+
+Hay algunos riesgos que son importantes tener presentes al momento de evaluar una distribución de transferencias monetarias en el contexto de Arenal. Estos principalmente tienen que ver con la disputa territorial que se ha venido presentando por parte de las AGC, ELN, Disidencias FARC y Ejercito. Existe un riesgo latente de que se presenten enfrentamientos en las cercanías a estas poblaciones y en los caminos dificultando la movilidad y poniendo a la población en riesgo. Además, el estado de las carreteras puede perjudicarse por las condiciones climáticas. A pesar de lo anterior, en este momento las comunidades expresaron que pueden moverse con libertad por los caminos principales y que la última vez que se presentó una situación de este tipo fue a inicios de marzo.  
+
+Después de aplicar las herramientas de viabilidad se identifican condiciones para distribuir CASH en las veredas más cercanas (Sabana y Soya), pues pueden movilizarse hacia la cabecera municipal con más facilidad y menores costos. En las comunidades más distantes esto implica mayores riesgos para la población, además de costos de transporte altos. Por lo cual de implementarse se recomienda cubrir el transporte de las personas. Por otro lado, se debe tener en cuenta que las necesidades identificadas responden más a condiciones estructurales que a afectaciones derivadas de la emergencia, para así evaluar si se cumple con los criterios de activación en primera fase. 
+
+Por el momento se desestima la atención con transferencias monetarias multipropósito, sin embargo, la información recolectada permite la toma de decisión frente a una emergencia y el uso de este mecanismo.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 200
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 15
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 4
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => MILENA QUIROZ
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 312 4778906
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => ORGANIZACIÓN DE DDHH
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => DIANA
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 310 6938445
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => SEC. MINA CIELO
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vZECRZ5Km2woAGsMiYMciE
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [meta/instanceID] => uuid:62bd9e3a-8a5e-4727-95f8-b6d1e4fafb83
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 62bd9e3a-8a5e-4727-95f8-b6d1e4fafb83
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-23T22:47:54
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

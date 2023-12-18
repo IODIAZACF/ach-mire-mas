@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [_id] => 396369286
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-02-21T09:10:55.613-05:00
+    [end] => 2023-02-21T09:18:23.708-05:00
+    [group_gener/departamento] => narino
+    [group_gener/municipio] => 52427_maguipayan
+    [group_gener/Point] => 3.352585 -69.585969 0 0
+    [group_gener/Vereda_Corregimiento] => Sin Información
+    [group_gener/Comunidad] => Sin Información
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => NAMA-091.1
+    [group_gener/Fecha_del_Evento_001] => 2021-10-20
+    [group_gener/Hora_del_Evento] => 13:56:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => Magüí Payan, se encuentran en Barbacoas, por las condiciones del rio no fue posible continuar hacia Magüí, estarán en Barbacoas en temas administrativos y logísticos internos.
+    [group_gu1lq88/CATEGOR_A] => condiciones_climaticas_adversa
+    [group_gu1lq88/ONG_IMPLICADAS] => mdm
+    [group_gu1lq88/Autor] => Alexander Rivera
+    [group_gu1lq88/Consecuencias] => reprogramaci_n_de_la_agenda retraso_en_la_agenda
+    [group_gu1lq88/Retraso_en_la_agenda] => Retraso en la agenda 1 día
+    [group_gu1lq88/Fecha_de_Reprogramaci_n] => 2021-10-21
+    [group_gu1lq88/MEDIDAS_TOMADAS] => En monitoreo
+    [group_gu1lq88/Seguimiento] => Sin Información
+    [__version__] => v3LgFrMgdyuRWy5atfQtQk
+    [meta/instanceID] => uuid:ae8531b6-95a9-4af9-aefa-c81d47030550
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => ae8531b6-95a9-4af9-aefa-c81d47030550
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 3.352585
+            [1] => -69.585969
+        )
+
+    [_submission_time] => 2023-02-21T14:18:34
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

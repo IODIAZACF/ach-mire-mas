@@ -1,0 +1,78 @@
+sql Object
+(
+    [sql] => UPDATE M_AYUDA SET CONTENIDO = '<p><strong><em>Esta es una prueba de la tecla Insert.</em></strong></p><p><strong><em>Complemento la ayuda con la segunda linea</em></strong></p>', CONTENIDO_DELTA = '{"ops":[{"attributes":{"italic":true,"bold":true},"insert":"Esta es una prueba de la tecla Insert."},{"insert":"\n"},{"attributes":{"italic":true,"bold":true},"insert":"Complemento la ayuda con la segunda linea"},{"insert":"\n"}]}' WHERE ID_M_AYUDA = '0011'
+    [sql_count] => 
+    [criterio] => 
+    [tabla] => 
+    [campos] => 
+    [busca] => 
+    [xbusca] => 
+    [orden] => 
+    [orddesc] => 
+    [limite] => 
+    [origen] => 
+    [operador] => 
+    [array_asociativo] => 1
+    [procedimiento] => 
+    [regi] => 
+    [topen] => '
+    [tclose] => '
+    [prefijo] => v_
+    [arreglo] => 
+    [tipo] => update
+    [my_ini] => 
+    [camposql] => 
+    [filtro] => 
+    [filtrar] => 
+    [filtro_op] => 
+    [Error] => 
+    [conexion] => 
+    [unico] => 6B437D8D66430B06F37BF9E862FB9C1C
+    [cOrden] => 
+    [zOrden] => 
+    [pagina] => 
+    [paginas] => 
+    [registros] => 
+    [zcampos] => 
+    [actureg] => 
+    [convertir_numero_letras] => 
+    [DBHost] => 127.0.0.1
+    [DBDatabase] => /opt/lampp/firebird/db/demo24.gdb
+    [DBUser] => SYSDBA
+    [DBPassword] => masterkey
+    [Persistent] => 
+    [Uppercase] => 1
+    [Link_ID] => Resource id #5
+    [Query_ID] => 1
+    [Record] => Array
+        (
+        )
+
+    [Row] => 0
+    [Reg_Afect] => 1
+    [Auto_Free] => 1
+    [Connected] => 1
+    [reg_campos] => Array
+        (
+        )
+
+    [reg_campos_tipos] => Array
+        (
+        )
+
+    [arreglo_atributos] => Array
+        (
+        )
+
+    [erro] => 0
+    [erro_msg] => 
+    [LastSQL] => UPDATE M_AYUDA SET CONTENIDO = '<p><strong><em>Esta es una prueba de la tecla Insert.</em></strong></p><p><strong><em>Complemento la ayuda con la segunda linea</em></strong></p>', CONTENIDO_DELTA = '{"ops":[{"attributes":{"italic":true,"bold":true},"insert":"Esta es una prueba de la tecla Insert."},{"insert":"\n"},{"attributes":{"italic":true,"bold":true},"insert":"Complemento la ayuda con la segunda linea"},{"insert":"\n"}]}' WHERE ID_M_AYUDA = '0011'
+    [in_transaction] => 
+    [transaction_id] => 0
+    [transaction_error] => 0
+    [primero] => 
+    [ultimo] => 
+    [xwhere] => 
+    [next_id] => 
+    [campo_blob] => 
+)

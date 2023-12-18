@@ -1,0 +1,1007 @@
+stdClass Object
+(
+    [_id] => 455615620
+    [formhub/uuid] => 942f0aa263954454883589c03f7698b5
+    [start] => 2023-05-23T17:47:53.958-05:00
+    [end] => 2023-07-20T21:43:51.573-05:00
+    [group_pl6la06/_1_C_digo] => ANSE-920.1
+    [group_pl6la06/_2_Fecha_de_elaboraci_n_ERN] => 2023-07-10
+    [group_pl6la06/_3_Fecha_fin_de_la_ERN] => 2023-07-14
+    [group_pl6la06/_4_Departamento] => ANTIOQUIA
+    [group_pl6la06/ANTIOQUIA] => SEGOVIA
+    [group_pl6la06/_6_Urbano_Rural] => RURAL
+    [group_pl6la06/_7_Corregimiento_Vereda_Barrio] => RANCHO QUEMADO
+    [group_pl6la06/_8_Comunidad] => RESGUARDO INDIGENA DE LA PO
+    [group_pl6la06/_9_Tipo_de_emergencia] => AFECTACION_MULTIPLE
+    [group_pl6la06/Si_es_afectaci_n_m_ltiple_seleccione] => confinamiento desplazamiento_masivo
+    [group_pl6la06/_10_Origen_de_la_informaci_n] => INSTITUCIONES_EDUCATIVAS LIDER_COMUN ELC_EQUIPO_LOCAL_DE_COORDINACION_EHL_EQUIPO ORGANISMO_PUBLICO ORGANIZACION_ETNICO_COMUNITARIA
+    [group_mb5pt53/_1a_Evaluador] => ANGELICA PINO MENA
+    [group_mb5pt53/_1b_Celular] => 3223934868
+    [group_mb5pt53/_1c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_2a_Evaluador] => ZEUS VERGARA
+    [group_mb5pt53/_2b_Celular] => 3124111921
+    [group_mb5pt53/_2c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_3a_Evaluador] => DIEGO REYES
+    [group_mb5pt53/_3b_Celular] => 3103124381
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert] => CONSEJO_NORUEGO_PARA_REFUGIADOS_NRC
+    [group_mb5pt53/_4a_Evaluador] => CAROLINA MANRIQUE
+    [group_mb5pt53/_4b_Celular] => 310 3851247
+    [group_mb5pt53/_3c_Organizaci_n_a_la_que_pert_001] => MEDICOS_DEL_MUNDO_MDM
+    [group_rq63s60/_1a_Fecha_del_evento] => 2023-06-16
+    [group_rq63s60/_1c_Descripci_n_del_evento] => La presencia de los actores armados en el sur de Bolívar y el nordeste Antioqueño era hegemónica, teniendo el control territorial y de las actividades económicas; pero esta situación cambia en los últimos tres años con el ingreso un tercer grupo armado a la disputa. La avanzada de este inicia desde el sur de Bolívar, con la intención principal de controlar y replegar a los otros actores armados de la zona de la serranía de San Lucas, la cual es estratégica por su ubicación ya que recorre los departamentos de Córdoba, Bolívar y Antioquia creando un ambiente propicio para las rutas de tránsito, pero es de resaltar que otra de las razones de importancia de esta zona es por su riqueza natural maderera, pero sobre todo de minerales como el oro y el gran número de minas que actualmente se encuentran en los municipios de Remedios y Segovia. 
+Esta situación generó la reconfiguración del conflicto armado en la zona sur del departamento de Bolívar y en el Nordeste Antioqueño con una expansión territorial que van dejando a su paso enfrentamientos, artefactos explosivos y emergencias humanitarias. Desde el mes de septiembre del 2022 por medio de Alertas tempranas de la Defensoría del Pueblo, se venía alertando sobre el escenario de riesgos por la presencia de múltiples actores armado en el municipio; así como también en octubre del mismo año, ya era latente la situación de zozobra y evidente la movilidad de actores armado en la zona rural del municipio de Segovia y por esto diferentes organizaciones de DDHH emitieron alertas por los riesgos de confrontaciones que afectaran a la población civil.  
+
+Es así como para los meses de marzo, abril y mayo, se materializa el riesgo, al presentarse varios enfrentamientos en la Vereda de Monte Frio causando el desplazamiento de las familias a diferentes lugares de Antioquia y Córdoba.  
+
+Posteriormente, en la semana del 13 de junio de 2023, se presentaron enfrentamientos en las veredas de Arenales y la Jagua que generaron el desplazamiento masivo hasta Rancho Quemado de las familias de estas 2 veredas y de San Jose de Pescador ante las constantes confrontaciones las cuales para las primeras semanas de Julio aún continúan, presentándose el último enfrentamiento para el momento de construcción de la presente ERN, el día jueves, 13 de julio. 
+
+Las familias desplazadas ante esta situación continúan en la comunidad de acogida, ya que no se cuenta con las condiciones de seguridad ni garantías para regresar a sus veredas ya que el riesgo aun esta activo y las confrontaciones continúan. 
+
+Adicionalmente, esta emergencia ha ocasionado el confinamiento del resguardo indígena de Tagual la Po, la ubicación estratégica del resguardo por su cercanía con las veredas de Monte Frio, Rancho Quemado, la Po Campesina, Jagua, las Palmas y Cañaveral hace que esta se encuentre afectados por los enfrentamientos y es una ruta de movilidad de los actores armados. Este es un territorio de paso que conecta algunas veredas de la zona rural de Segovia.  
+
+Siendo esta situación junto con amenazas directas de los actores armados sobre la no movilidad fuera del resguardo y la alerta de instalación de artefactos explosivos, las que han generado que la comunidad del resguardo vea limitando el acceso a zonas de cultivos y caza, el desarrollo de actividades económicas que permitan en acceso a recursos económicos. Antes los antecedentes de personas del resguardo retenidas o instigadas por los actores armados, las familias prefieran resguardarse en sus hogares como medida de protección y ante la dispersión de las viviendas algunas han preferido ubicarse en casas de familiares en la parte central del resguardo. 
+
+Anudado a lo anterior, la instalación y presencia de MAP, MSE Y TE ha sido otras de las estrategias de control, dejando como resultado el accidente de una persona en diciembre de 2023, el cual perdió una de sus extremidades inferiores y la vista en su ojo izquierdo, así como también incidentes con animales de corral, donde el ultimo de registro entre el 5 y 6 de julio en la vereda de la Jagua. Es conocida la instalación de artefactos explosivos en zonas limítrofes de las veredas campesinas, cerca de los corrales de ganadería (donde se han presentados los incidentes con animales de corral) y caminos reales, y se han evidenciado municiones sin explosionar - MSE en los lugares de confrontación y tránsito de los grupos armados, esto limita el acceso de la población a zonas de cultivos, caza y pesca o el transito libre por el territorio.  
+
+Son estos hechos los que configuran junto a la ocurrencia de afectaciones individuales como amenazas e intimidaciones, riesgos de vinculación, uso y utilización los que generan las emergencias por desplazamiento masivo y confinamientos de las comunidades campesinas e indígenas de la zona rural del municipio de Segovia.
+    [group_rq63s60/group_lm6cx76/a_Social] => Resguardo Tagual La Po 
+
+Frente a la comunidad indígena, esta cuenta con el reconocimiento como resguardo indígena por lo que cuentan con un cabildo como estructura organizativa, que direcciona el desarrollo de su cosmovisión y representan a las familias ante autoridades locales ante situaciones complejas de necesidades urgentes. Además, cuenta con guardia indígena que protege desde la justicia propia a la comunidad 
+
+Rancho Quemado 
+
+Las comunidades campesinas están organizadas por medio de juntas de acción comunal que son las encargadas de gestionar, informar y alertar sobre las situaciones que se presenten en las veredas. Además, como medida de autoprotección, se agrupan por medio del bloque de juntas de acción comunal para exponer de forma colectiva el contexto actual de sus veredas, ya que todas se ven afectadas por la situación de conflicto y disputas de actores armados. Se evidencia una estructura de liderazgo sólida y de apoyo mancomunado entre las veredas ante emergencia masivas y necesidades. 
+
+En el marco del desplazamiento se han presentado conflictos de convivencia las personas afectadas debido a al hacinamiento y estrés antes la situación de desplazamiento, pero estos han sido resueltos por las juntas de acción comunal.
+    [group_rq63s60/group_lm6cx76/b_Enfoque_diferencial] => Reguardo Tagual La Po 
+
+ 
+
+En el marco de la emergencia se ve afectada la comunidad indígena del resguardo de Tagual la Po pertenecientes a la etnia Emberá chami, por lo que es necesario la aplicación de medidas que respondan y reconozcan su diversidad cultural y étnica, entre las cuales está la lengua, con la necesidad de utilizar traductores al momento de la realización de actividades, ya que la mayoría de las mujeres no comprende con claridad el español. 
+
+Además, en el marco de la evaluación rápida de necesidades se identificaron un gran número de mujeres gestantes y lactantes, entre las cuales se destacan menores de edad, con necesidades especiales en lo relacionado con la alimentación y atención en salud prioritaria.  
+
+En los relacionado con el enfoque etario, existe un número significativo de niños y niñas de la primera infancia con afectaciones fuertes a nivel emocional; así como también adultos mayores con problemáticas en la salud y movilidad, para los cuales se hace necesario una atención adecuada a su comprensión y problemas de movilidad. 
+
+Es importante propiciar la participación de diferentes grupos como mujeres, jóvenes, adultos mayores en los espacios de formación e información con la finalidad de visibilizar sus necesidades particulares. 
+
+Rancho Quemado (desplazamiento) 
+
+Es importante llevar a cabo el desarrollo de estrategias y técnicas psicológicas de primera instancia, que permitan realizar asistencia de descarga emocional, gestión de emociones y primeros auxilios psicológicos, en las mujeres y los niños. Teniendo en cuenta, que todos los hechos que suscitaron la emergencia fueron determinantes traumáticos que han ocasionado un desbordamiento emocional, en la población general, específicamente mujeres y niños, debido a la   falta de una gestión adecuada de las mismas; cabe acotar que, de no ser gestionadas adecuadamente, las personas podrían llegar a desarrollar sintomatología relacionada con estrés post traumático en un futuro. Así mismo, es importante contar con personal capacitado y capaz de realizar dichas estrategias, al igual que desarrollar espacios de escucha activa.   
+
+Se requiere la adaptación del plan educativo para la atención de los estudiantes de estas veredas, ya que no se han desarrollados actividades en contra jornada  
+
+Ante la suspensión de las clases, no se han realizado espacios de Además, se evidencia un gran número de niños, niñas y adolescentes que por la suspensión de clases no cuentan con actividades de uso del tiempo libre ni espacios de esparcimiento, por lo que se requiere planificar actividades que permitan la recuperación emocional y atención psicológica de estos, ya que se identifica una afectación significativa principalmente en menores de edad. 
+
+Por último, Se requiere la adaptación de la atención para personas en condición de discapacidad o enfermas que estan albergadas en casas de personas de la vereda de Rancho Quemado y que no cuentan con la posibilidad de moverse hasta los puntos de atención generando formas para hacer llegar la asistencia hasta los lugares de albergue.
+    [group_rq63s60/group_lm6cx76/c_Econ_mica] => Resguardo Tagual La Po 
+
+La principal actividad económica del resguardo antes de que sucediera esta emergencia era la minería, la tala de madera, y el trabajo en fincas cercanas para ganarse el jornal. En el resguardo se evidencio la existencia de proyectos productivos como la piscicultura por medio de un tanque donde crían bocachico y cachama, es un proyecto enfocado a la producción de ingresos para las mujeres de la comunidad. De igual manera trabajaban la agricultura, con cultivos de plátano, la yuca y el maíz los cuales con principalmente para el pan coger. En menor medida existen también cultivos de frijol, arroz y ñame. Adicionalmente, mencionaron la práctica de la caza y la cría de algunas especies pequeñas como gallinas para sustentas su alimentación. 
+
+Debido a la emergencia estas actividades económicas se han visto afectadas de manera considerable. Las comunidades han visto su capacidad de transitar tranquilamente por el territorio perjudicada por la constante amenaza de enfrentamientos y la presencia de MAP/MSE/TE en los lugares donde desempeñan sus actividades productivas. Adicionalmente, se ha restringido el acceso de combustible al territorio por parte de los GANE, lo que ha afectado el trabajo de la tala de madera. Esta dificultad para acceder a los ingresos ha tenido un impacto alto en la comunidad, afectando su capacidad de acceder a alimentos y a otros bienes y servicios básicos. 
+
+ 
+
+Rancho Quemado  
+
+Las comunidades desplazadas de Arenales y Las Guaguas se encuentran refugiadas en un albergue y en casas de la vereda de Rancho Quemado. En su territorio la principal actividad económica que se desempeñaba era la minería. De igual manera practicaban la agricultura para el pan coger. También se encontraban en proceso para desarrollar un proyecto productivo que les permitiera trabajar el cacao para su sustento. En este momento y debido al desplazamiento no han podido acceder a sus medios de vida, por lo cual han dependido únicamente de ayudas recibidas por la gobernación y la UARIV para su subsistencia. Adicionalmente, han tenido que abrir un crédito en un granero de la comunidad de acogida para poder comprar productos que no recibieron en las ayudas como el gas que utilizan para cocinar y elementos de aseo comunitario. Mencionaron que la deuda de dicho crédito ya se acerca a los $2,500,000 pesos. Aunque inicialmente la secretaría de gobierno de Segovia manifestó su interés por ayudarlos con esta deuda, al momento de realizar la ERN mencionaron que hacía unos días se habían comunicado con los lideres para informarles que este apoyo no sería posible.
+    [group_rq63s60/group_lm6cx76/d_Geogr_fica] => Las comunidades afectadas se encuentran ubicadas en la zona rural del municipio de Segovia, en el nordeste antioqueño, limitando al norte con el municipio de Zaragoza, al sur con el corregimiento de carrizal, al oriente con el municipio de San Pablo (Bolívar) y al occidente con el municipio de Amalfi, lo que genera que estas veredas y resguardo sean un corredor estratégico de comunicación.  
+
+Esta zona está ubicada en la cordillera central de los Andes y la serranía de San Lucas, lo que genera que sea una zona de temperaturas altas y montañosa con carreteras destapadas que al presentarse precipitaciones de lluvia se van afectadas y generan dificultan para el tránsito en estas. 
+
+Se identifican afluentes hídricos como el rio Bagre, que se crecen por constante lluvias e impiden el paso por las carreteras de acceso a las veredas campesinas y el resguardó indígena.
+    [group_rq63s60/group_lm6cx76/e_Servicios] => Resguardo Tagual La Po – Rancho Quemado: 2hrs /30 mn. 
+
+Alojamientos: 
+
+En los cascos urbanos de Segovia y Remedios existe oferta hotelera. 
+
+En el resguardo existe disponibilidad de un lugar (comedor comunitario) que es habilitado para el hospedaje, este cuenta con energía permanente, agua, ducha y baños (solo para orinar).  
+
+En Rancho Quemado existe oferta de residencias y además se puede gestionar viviendas donde se puede pernoctar en campings. 
+
+Alimentación: 
+
+En los cascos urbanos de Segovia y Remedios existe oferta de restaurantes para desayuno, almuerzo y cena.  
+
+En el resguardo es necesario llevar la comida previamente adquirida y contratar la preparación en la comunidad. En el lugar donde se pernota existe disponibilidad de una nevera para guardar alimentos perecederos. 
+
+En Rancho Quemado existe una limitada oferta de restaurantes, se puede adquirir la comida y contratar la preparación en la vereda, se tiene disponibilidad de refrigerar alimentos. 
+
+Servicios:  
+
+En el resguardo y en Rancho Quemado se cuenta con:  
+
+Energía permanente 
+
+Servicio de Pines para conectividad (no se cuentan con señal de celular)  
+
+Disponibilidad de neveras para conservar alimentos 
+
+En el resguardo existe una tienda para compras menores (No tiene mucho surtido).  
+
+En Rancho Quemado se cuenta con disponibilidad de comercio para adquirir suministros. 
+
+Se cuentan con baños y duchas.
+    [group_rq63s60/group_lm6cx76/f_Ambiental] => El desarrollo de actividades de extracción de oro en la zona, a pequeña y gran escala, ha generado impactos ambientales sobre las fuentes hídricas del territorio, afectando la captación, uso y consumo de pescados de las mismas. 
+
+No existe un manejo adecuado de los residuos sólidos por lo que es necesario la orientación sobre los desechos causado en el marco de una atención y de ser posible reducir el impacto ambiental de las acciones, con medidas como la extracción hacia casco urbano de la basura producida.
+    [group_fm93i53/_1_Problem_tica_Principal] => CONTROL_NARCOTRÁFICO CRISIS_POR_DESPLAZAMIENTO MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES OTRA_PROBLEMAT_PRAL
+    [group_fm93i53/Riesgos_para_respuesta] => MINAS_ANTIPERSONALES_ARTEFACTOS_EXPLOSIVOS PRESENCIA_GAI_GRUPOS_ARMADOS_ILEGALES
+    [group_fm93i53/_cual] => CONFINAMIENTO
+    [group_fm93i53/_1b_Caracterizaci_n_s_por_desplazamiento] => DESPLAZAMIENTO_MASIVO
+    [group_fm93i53/_1g_Caracterizaci_n_Presencia_] => AGC_O_CLAN_DEL_GOLFO DISIDENCIAS_O_GRUPO_ARMADO_ORGANIZADO_RESIDUAL_GAOR ELN
+    [group_fm93i53/_2_Forma_de_acceso] => TERRESTRE
+    [group_fm93i53/logistica] => Transporte: 
+
+El ingreso al resguardo se realiza de forma terrestre así:  
+
+Medellín – Remedios: 4 hrs 
+
+Remedios – Segovia: 1 hr 
+
+Segovia – Resguardo Tagual La Po: 2 hrs / 30mn (este tiempo depende de las condiciones de la carretera, si llueve este recorrido puede ser de 4hrs, si llueve muy fuerte también se pueden crecer las quebradas impidiendo el paso) El carro ingresa hasta la parte central del resguardo. 
+
+Segovia – Rancho Quemado: 3 hrs (este tiempo depende de las condiciones de la carretera, si llueve este recorrido puede ser de 4hrs)
+    [group_fm93i53/seguridad] => Seguridad. 
+
+Existe presencia de tres actores armado en la zona, los cuales tienen una disputa constante por el control del territorio.  
+
+Las disputas territoriales han traído consigo enfrentamientos que son recurrentes en la zona rural de Segovia (persisten actualmente, 12 de julio).  
+
+Se evidencia la instalación de artefactos explosivos como estrategia de control por parte de los actores en disputa, esto ha dejado como consecuencia un accidente de un civil e incidentes con semovientes. 
+
+Existen controles por parte de actores armados en diferentes puntos de ingreso hacia las veredas de la zona rural, los cuales son instalados de forma aleatoria. 
+
+El ingreso a las veredas y resguardos de la zona rural se debe hacer concertado con los y las lideres con la finalidad de evitar situaciones complejas para los equipos en terreno y las comunidades. 
+
+Es importante el uso de visibilidad y recordar los principios que como organizaciones humanitarias nos rigen frente a las atenciones y acciones que desarrollamos. 
+
+El uso de medios de comunicación (satelitales) puede ser riesgoso y debe ser consultada la pertinencia de los mismo con los miembros de la comunidad.  
+
+Se debe contar con plan estructurado de evacuación en caso de confrontaciones y los lugares más estratégicos para refugiarse tanto fuera como dentro del resguardo y veredas. 
+
+Es importante el uso de un lenguaje adecuado y cuidados al realizar intervenciones en las veredas.
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Familias] => 247
+    [group_lw3xn64/group_lj4ac17/Cantidad_de_Personas] => 884
+    [group_lw3xn64/group_lj4ac17/N_mero_de_Comunidades_Evaluadas] => 2
+    [group_lw3xn64/group_lj4ac17/Familias_extranjeras] => 0
+    [group_lw3xn64/group_lj4ac17/Personas_extranjeras] => 0
+    [group_lw3xn64/group_qv1qk78/_2_Censo_Actualizado] => SI
+    [group_lw3xn64/group_qv1qk78/_2_Fecha_del_Censo] => 2023-07-14
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Afrocolombianos_Negros] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Ind_genas] => 512
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Mestizos] => 376
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Palenqueros_de_San_Basilio] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_Raizales_d_Andr_s_y_Providencia] => 0
+    [group_lw3xn64/group_bd2zd42/N_mero_de_ROM_o_gitano] => 0
+    [group_de9og58/ONG_territorio] => SI
+    [group_de9og58/_2_Cu_les] => UARIV, Alcaldía municipal y Gobernación
+    [group_de9og58/Entidades_territorio] => NO
+    [group_aa8xg30/_En_qu_sectores_de_evidenciar] => PROTECCION-ICLA EDUCACION SHELTER WASH SAN SALUD
+    [group_aa8xg30/group_ow1dy59/ICLA] => Resguardo indígena de Tagual la Po 
+
+Se identificaron amenazas, específicamente a los perfiles de liderazgos y protección territorial, así como intimidaciones desde el trato hostil a toda la comunidad de Tagual la Po por parte de los actores armados de manera recurrente como mecanismos de coacción y control de las comunidades, son la finalidad de limitar su movilidad y acceso a zonas del resguardo y veredas vecinas.  
+
+Adicionalmente el riesgo de vinculación, uso y utilización de NNA es elevado dada la presencia constante del GANE que ha realizado algunos acercamientos con propuestas, aunque este no se ha materializado, la incertidumbre sobre todo de los padres y madres de familia es elevado generando que como medida de protección se brinde acompañamiento constante y prohibiciones de movilidad fuera del hogar de no ser estrictamente necesarias como lo es, asistir a la escuela a niños, niñas y adolescentes. Se evidencia un alto riesgo asociado a violencia sexual en NNAJ.  
+
+Además, existe el riesgo de violencia física, psicológica, amenazas e intimidación que lleva a que las mujeres tengan  miedo constante, incertidumbre y afectación emocional, no solo porque dichos riesgos se derivan de la presencia de grupos armados, sino que las  consecuencias del confinamiento  aumentan los riesgos de violencia intrafamiliar, ya que factores como  la escases de alimentos, las  restricciones de movilidad, la pérdida del libre desarrollo de actividades económicas, lleva a que se torne un ambiente de tensión y estrés que se puede manifestar a través de este tipo de problemáticas a nivel interno en la comunidad. 
+
+Es que si bien, se tiene una representación de las mujeres dentro de la guardia indígena, existen perfiles de lideresas invisibilizados y aunque se evidencia en algunos escenarios su participación, esta es limitada ante la oportunidad de decisión que tienen en entornos colectivos y familiares. La desigualdad en las relaciones hombres y mujeres es marcada, por lo cual es el hombre quien  es el encargado de tomar todas las decisiones, incluyendo las relacionadas con  el acceso a planificación familiar de la mujer, la carga exclusiva de labores domésticas  y cuidado de los niños  es de las mujeres, desarrollándose una relación de poder por parte del hombre dentro del hogar,  por lo cual, se podría deducir que, en la comunidad y en el  hogar no representan totalmente un escenario seguro para las niñas y mujeres. 
+
+Las medidas de confinamiento se han convertido en una barrera que impide el goce efectivo del derecho de las mujeres a los servicios en salud, planificación familiar, y dificulta el acceso a los artículos de higiene personal y menstrual, ya que, aunque a veces pueden obtenerlos cada vez es más frecuente el desabastecimiento de estos elementos.  
+
+Cabe resaltar que cuentan un proyecto de piscicultura que es liderado por las mujeres el cual les brinda un factor protector, pero no logra ser suficientemente efectivo, por lo tanto, es necesario fortalecer estrategias que garanticen la prevención, atención y protección a las mujeres y niñas víctimas de VBG y VIF, socializar las rutas de atención y los derechos de las víctimas de VBG Y VIF, además, promover la conformación de grupos de mutua ayuda que se conviertan en un factor protector. 
+
+La situación de confinamiento e incertidumbre ha generado elevados niveles de estrés y ansiedad que lleva a que la comunidad en general presente síntomas como miedo excesivo, insomnio y alteración emocional generalizada en la comunidad. No se cuentan con estratégicas colectivas de gestión de estas situaciones lo que dificulta la superación o la realización de espacios de armonización que permita superar las afectaciones emocionales causadas por el miedo y el temor.  
+
+Como estrategia de auto protección, se identificó la guardia indígena, la cual presta la protección de las personas y el territorio ante la presencia de los actores armados y establece una vigilancia permanente con la finalidad de limitar afectaciones a las comunidades y el accionar de los grupos armado en el territorio que comprende el resguardo indígena. 
+
+Si bien, se configura el confinamiento por la presencia de los actores armados, el conocimiento de instalación de artefactos explosivos en los límites del resguardo con las comunidades campesinas, la reiterada ocurrencia de enfrentamientos en lugares aledaños y la limitación al acceso de bienes y servicios esenciales, aun no se ha activado la ruta de atención de inmediatez, lo cual limita el acceso a las garantías establecidas para atención de la población afectada por eventos masivos. 
+
+Se evidencia el desconocimiento de las rutas de atención tanto en caso individuales y masivos, así como el temor de activar rutas de atención por la repercusión que esto podría representar para las familias que lo hagan, este temor es desde el desconocimiento de las garantías de protección y seguridad que tienen las rutas para la atención de población víctima. No existen tampoco medidas colectivas de protección ante los riesgos en el marco del conflicto armado. 
+
+ 
+
+ 
+
+Rancho Quemado 
+
+Se identifica en primera instancia a una población que ha pasado por un proceso de desplazamiento masivo y abrupto, en el cuál no hubo posibilidad de llevar más que la ropa y elementos que tenían en ese momento, que se dio a raíz de la disputa entre grupos armado. En este sentido, se identifica una alteración emocional generalizada debido a que este es un proceso traumático en el cual las personas no han tenido el espacio ni el acompañamiento necesario de salud emocional como primeros auxilios psicológicos, por lo tanto, presentan síntomas relacionado con desborde emocional debido a que hay una alta represión de estas, miedo, incertidumbre, sensación de desesperanza y sentimientos de pérdida de la identidad de manera colectiva e individual. En este sentido, es necesario acotar de no ser tratada la sintomatología anterior de manera adecuada a futuro algunas personas podrían desarrollar síndrome de estrés post traumático.  
+
+Por otro lado, el riesgo de amenazas, intimidaciones, violencia física y psicológica está en un nivel alto, dado que la continuidad de los enfrentamientos es constante y lo que se expresa es que los mismos seguirán hasta que logren apoderarse del territorio. Si bien ahora se encuentran fuera del territorio, se ha identificado que el control de los grupos armado es constante en rancho Quemado por lo cual los niveles de riesgo aumentan y al mismo tiempo se presentan otro tipo de afectación.   
+
+En este sentido, la presencia de los grupos armados dentro de la comunidad es significativa, cabe aclarar que se realiza de forma sutil, y desencadenan otros riesgos como enfrentamientos, vinculación de NNAJ, amenazas en la población, dentro de los cuales se destaca la vinculación, utilización y uso de NNAJ, mediante diferentes estrategias como es el enamoramiento, la estrategia es la misma tanto para hombres como para mujeres.  
+
+Por otro lado, ha aumentado el riesgo de ejercer el sexo por supervivencia en las mujeres en esta zona, si bien no existe evidencia de que haya menores de edad, tampoco se descarta la posibilidad, se identifican unas medidas de prevención utilizadas tanto por la comunidad en condición de desplazamiento, como por la población de acogida, considerando horarios de salida y entrada a la comunidad, cabe aclarar que dichos horarios no son impuestos directamente por los GANE, pero que las condiciones de inseguridad y riesgo han llevado a que de manera indirecta las personas se hayan visto en la necesidad de realizarlo. Así mismo, las dos comunidades han logrado una articulación de apoyo entre ellos, permitiendo que tengan una relación positiva que ha contribuido al buen desarrollo del albergue y de cubrir la mayor cantidad de necesidades básicas posible.
+    [group_aa8xg30/group_ow1dy59/Hallazgos] => RESGUARDO TAGUAL LA PO 
+Se configura un confinamiento por la presencia de actores armados, la instalación de artefactos explosivos que limitan en acceso a bienes y servicios.​
+
+Se establecen horarios de tránsito y existe prohibición para la adquisición de combustible y víveres en grandes cantidades.  ​
+
+Existen riesgos asociados al contexto de conflicto armado tales como amenazas, vinculación de NNAJ, VBG, artefactos explosivos​
+
+Registran accidentes e incidentes por artefactos explosivos  alrededor de la comunidad. ​
+
+Se  identifica  restricciones que no permiten el acceso a realizar  las actividades  de generación de ingresos.​
+
+Se evidencia alto  nivel de alteración emocional, preocupación, sentimientos de desesperanza, estrés e incertidumbre, especialmente las mujeres. ​
+
+Se identifica movilidad interna  de grupos familias hacia la parte central (Punto de encuentro seguro) de la comunidad. ​
+
+​
+
+​RANCHO QUEMADO
+Se configura un desplazamiento por enfrentamientos en las veredas de la Jagua y Arenales.​
+
+La instalación de artefactos explosivos a dejado varios incidentes con semovientes y un accidente de un civil.  ​
+
+Existen riesgos asociados al contexto de conflicto armado tales como amenazas, vinculación, uso y utilización de NNAJ, delitos sexuales, artefactos explosivos ​
+
+Los enfrentamientos persisten y se conoce sobre la afectación a una torre de energía.​
+
+Se evidencia alto  nivel de alteración emocional, preocupación, sentimientos de desesperanza, estrés e incertidumbre, especialmente las mujeres.
+    [group_aa8xg30/group_ow1dy59/Recomendaciones] => - Fortalecer el acompañamiento psicosocial a las comunidades
+- Difusión de las rutas de prevención y atención de casos de VBG
+- Fortalecer las rutas de prevención de la vinculación, uso y utilización de NNAJ
+- Formaciones sobre normatividad de victima
+    [group_aa8xg30/group_ow1dy59/Indicadores_Clave] => TAGUAL LA PO
+¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección?​
+
+Se identifican afectaciones por Amenazas, y desplazamientos individuales.​
+
+¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)?​
+
+Se identifican hechos victimizantes individuales como amenazas, intimidaciones, riesgo de reclutamiento, desplazamientos internos individuales y colectivos, confinamiento y restricción a la movilidad. De igual manera, existe un alto riesgo de VBG.​
+
+¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo?​
+
+La situación de conflicto y tensión en la comunidad, desencadenan  niveles elevados de estrés que llevan a que la mayoría de las personas presenten  insomnio, preocupación excesiva y alteración emocional,  debido a que el confinamiento ha  irrumpido abruptamente el desarrollo  adecuado de sus actividades económicas  y de esparcimiento.​
+
+¿El hecho victimizante ha sido visibilizado con la institucionalidad? ​
+
+Las entidades territoriales no han declarado por medio de CJT el confinamiento, lo que ha dificultado la activación de las rutas de atención.​
+
+​¿Tienen conocimiento las comunidades sobre normatividad de víctima? ​
+No existen claridades sobre las rutas de atención para casos de afectaciones individuales y masivas.​
+
+
+¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención?​
+
+La falta de interés y de priorización de otros eventos masivos genera la no activación de las rutas de atención.​
+
+¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? 
+Si, los lideres y lideresas nos tienen conocimiento sobre la normatividad de victima ni mecanismos de exigibilidad.​
+
+RANCHO QUEMADO 
+¿Existen afectaciones individuales que requieran una gestión de caso, perfiles especiales de protección?​
+
+Se identifican afectaciones por Amenazas, víctima de artefacto explosivos, y desplazamientos masivos.​
+
+¿Se evidencian materialización de amenazas individuales y colectivas (casos de uso, utilización y vinculación forzada, amenazas a lideres y lideresas, VBG en el marco del conflicto armado, desapariciones, homicidios, secuestro, tortura)?​
+
+Se identifican hechos victimizantes individuales como amenazas, intimidaciones, riegos de vinculación, uso y utilización de NNAJ, delitos sexuales  desplazamientos masivos.  De igual manera, existe un alto riesgo de VBG.​
+
+¿Las comunidades tienen alto nivel de afectación psicosocial y estrés severo?​
+
+La situación de conflicto y tensión por el desplazamiento, desencadenan  niveles elevados de estrés que llevan a que la mayoría de las personas presenten  insomnio, preocupación excesiva y alteración emocional,  debido a que el desplazamiento se presentó de forma abrupta.​
+
+¿El hecho victimizante ha sido visibilizado con la institucionalidad? ​
+
+Las entidades territoriales activaron en comité de justicia transicional y la atención en fase de inmediatez.​
+
+¿Tienen conocimiento las comunidades sobre normatividad de víctima? ​
+
+No existen claridades sobre las rutas de atención para casos de afectaciones individuales y masivas.​
+
+​¿Existe alguna brecha que impida el acceso de las comunidades víctimas a la ruta de asistencia y atención?​
+
+La poca capacidad que desborda la capacidad de las entidades terrioriales.​
+
+¿Se identifican líderes, lideresas, defensores de DDHH con necesidades de fortalecer conocimiento en torno a acceso a rutas de atención, normatividad, entidades responsables en la atención? 
+
+Si, los lideres y lideresas nos tienen conocimiento sobre la normatividad de victima ni mecanismos de exigibilidad.​
+    [group_aa8xg30/group_lg2ro37/Shelter] => RANCHO QUEMADO 
+
+La situación de desplazamiento masivo de las familias de las veredas de Arenalas, La Jagua y San Jose del Pescador, genero la declaratoria de refugio humanitario en la vereda de Rancho Quemado; dentro de los lugares habilitados para albergar a las familias esta la escuela de la vereda. Donde se puedo evidenciar una capacidad reducida para la cantidad de personas, lo que genera una situación de hacinamiento y rápida propagación de afecciones médicas.  
+
+Algunas familias, personas en condición de discapacidad y con enfermedades graves se encuentran albergadas en casas de personas y residencias de las veredas que fueron habilitadas para tal fin, dado el tiempo que ha transcurrido, en algunos casos estos espacios ya estan siendo requeridos por los dueños, lo que genera preocupación en las familias por la falta de otro lugar donde albergarse, ya que más del 80% de la población desplazada se encuentre alojada en la escuela y no existen disponibilidad para otras familias. 
+
+Dado que fue habilitada la escuela para albergar a las familias, y esta solo cuenta con 6 salones, de los cuales dos tienen piso de barro, no se cuenta con las instalaciones adecuadas que generen unas condiciones aptas de habitabilidad porque si bien las familias cuentan con elementos de hábitat, la estructura escolar no genera condiciones seguridad, ni se cuentan con espacios de privacidad aumentando los riesgos de situaciones de VBG en el alberge. En la vereda no se cuenta con otro lugar comunitario para albergue a las familias, lo que dificulta más la situación de las familias.  
+
+La preparación de los alimentos se realiza en el comedor escolar, pero dada la cantidad de alimentos que se deben preparar, se habilitaron dos fogones improvisados que complementan la capacidad de albergue. Aun así, existe dificultad para la compra de gas limitando la preparación de los alimentos.
+    [group_aa8xg30/group_lg2ro37/Hallazgos_001] => RANCHO QUEMADO ​
+
+​
+
+La mayoría de las familias se encuentran alojadas en la escuela, mientras que algunas personas en condiciones de vulnerabilidad, con enfermedades o discapacidades, están siendo acogidas en casas de residentes de la vereda. En algunos casos, estas casas y residencias están solicitando que las personas se retiren, debido al tiempo prolongado de estadía.​
+
+La instalación del refugio humanitario en Rancho Quemado ha llevado a que alrededor de 110 personas sean alojadas en la escuela, que cuenta con 5 salones, generando una situación de hacinamiento durante la pernoctación.​
+
+Los espacios de alojamiento no están diferenciados por género ni rango de edad, lo cual genera riesgos en términos de protección.​
+
+El uso de la escuela como lugar de albergue ha ocasionado la suspensión de las clases, afectando el calendario escolar de los niños, niñas y adolescentes de Rancho Quemado, además de provocar el deterioro de la estructura y las instalaciones sanitarias.​
+
+En cuanto a la construcción de un albergue provisional, el único espacio disponible es la cancha principal, ya que la vereda carece de espacios comunitarios adecuados para este fin.​
+
+La preparación de alimentos se realiza en el comedor escolar utilizando estufas de gas, aunque anteriormente se utilizaban fogones improvisados al aire libre para cocinar una mayor cantidad de alimentos.
+    [group_aa8xg30/group_lg2ro37/Recomendaciones_001] => Analisis de ampliacion de espacios de alojamiento temporal (mitigar riesgos de protección y hacinamiento)​
+
+Rehabilitacion  aulas escolares ​
+
+Habilitacion de espacios seguros para el aprendizaje
+    [group_aa8xg30/group_lg2ro37/Indicadores_Clave_001] => ¿La mayoría de las familias y/o personas tienen donde albergarse?. SI.​
+
+¿La mayoría de las familias y/o personas tienen donde albergarse en condiciones seguras? No​
+
+¿Las familias cuentan con los elementos adecuados de hábitat que promuevan seguridad? SI.​
+
+¿La institucionalidad y población desconoce sobre temas relacionados con el sector de Alojamiento y Asentamiento?  SI.​
+
+¿Los espacios educativos presenta hacinamiento agudizado por la emergencia, Si /No? SI.​
+
+¿Existen espacios educativos para la atención de NNAJ durante la emergencia, Si/No? NO.​
+
+¿Se cuenta con el apoyo y coordinación de autoridades locales para el seguimiento y desarrollo de espacios educativos en la emergencia, Si/No? NO.​
+
+​
+    [group_aa8xg30/group_fv0ct51/Agua] => RESGUARDO TAGUAL LA PO 
+
+Agua:  
+
+Parte del resguardo Tagual La Po, se encuentra abastecido por un acueducto veredal ubicado a 1 hora del centro del resguardo. Debido a que no se le hace adecuado mantenimiento, la presión a dañado varios puntos, impidiendo el funcionamiento adecuado del mismo. En los grupos focales mencionaron que este acueducto apenas alcanza a cubrir alrededor del 30% de la comunidad. El tanque en el que se almacena el agua lleva más de un año sin recibir mantenimiento. Durante el verano se suele secar la fuente y reducir su capacidad. Ya que a la mayoría de los hogares no llega el acueducto, estos se abastecen de otros puntos de agua, ninguno tiene tratamiento. Hace ocho años se hizo el último estudio de la calidad del agua. 
+
+ 
+
+RANCHO QUEMADO  
+
+Agua: 
+
+El refugio humanitario de Rancho Quemado, donde esta albergada la mayoria de la población desplazada queda ubicado en la escuela de esta vereda. La escuela cuenta con 4 tanques para el almacenamiento de agua: dos tanques de 2000 litros, uno de 1000 litros y uno de 500 litros. Es decir que en total tiene la capacidad de almacenar 5500 litros. A pesar de esto, están presentando algunas dificultades con el acceso al agua, pues reciben el agua por bombeo dos veces a la semana desde unos pozos que hay en la vereda. Debido a que estas personas se encuentran en hacinamiento el gasto de agua es muy grande y no es suficiente el agua que se alcanza a bombear para cubrir las necesidades de todas las personas del refugio. Han tenido que pedir agua prestada a los vecinos de los barrios aledaños. También mencionaron que han recibido algunas bolsas de agua, pero ya se están agotando entonces en momentos han recurrido a comparar el agua.
+    [group_aa8xg30/group_fv0ct51/Saneamiento] => RSGUARDO TAGUAL LA PO 
+Saneamiento: 
+
+Las aguas servidas son arrojadas a cañadas al no contar con pozo séptico por lo que se da proliferación de insectos. Las necesidades fisiológicas se realizan a campo abierto sin ningún control o territorio delimitado para esto. Las basuras son acumuladas en sacos y baldes para luego ser arrojadas en agujeros donde se queman y las toallas sanitarias y pañales son enterrados, los restos de alimentos son servidos a los animales de corral.
+
+RANCHO QUEMADO 
+Saneamiento: 
+
+Rancho Quemado cuenta con un botadero para disponer de las basuras. Sin embargo, en el refugio no se evidencio que no hay elementos aptos para la gestión de los residuos. La basura estaba acumulada en una esquina y no cuentan con muchas canecas. El refugio tiene para el uso del baño dos letrinas y dos duchas que funcionan. Sin embargo, estas son insuficientes para el número de personas que se encuentran ahí.
+    [group_aa8xg30/group_fv0ct51/Higiene] => RESGUARO TAGUAL LA PO 
+
+Higiene: 
+
+La comunidad evidencio prácticas de higiene como el lavado de manos después de ir al baño y antes de las comidas. Han presentado dificultades para acceder a elementos de aseo personal e higiene debido a que no tienen acceso a recursos económicos para abastecerse. No suelen hervir ni tratar el agua de ninguna manera antes de consumirla. El único lugar en el que se realiza esta práctica es en la escuela para la preparación de los jugos de los estudiantes.  
+
+RANCHO QUEMADO 
+Higiene: 
+
+Expresaron que necesitan jabón para lavar la loza. Los kits de aseo que se les entregaron eran kits de aseo personal. Manifestaron necesidades de aseo comunitario, pues estos elementos los han tenido que pedir a crédito en el granero.
+    [group_aa8xg30/group_fv0ct51/Hallazgos_002] => RESGUARDO TAGUAL LA PO
+Agua​
+
+•El suministro de agua de la población se obtiene a través de un acueducto veredal por gravedad, ubicada a una del centro de la comunidad y escuela. No aplican ningún tratamiento.​
+
+•El acueducto abastece solamente al 30 % de la vereda y no ha recibido mantenimiento en un año. Lo que genera riesgos de contaminación y proliferación vectores. ​
+
+•Existe pérdidas significativas de agua debido a los daños de las mangueras que distribuyen,  y durante el verano disminuye el suministro. ​
+
+•El resto de la población se abastecen de otras fuentes (nacederos) cercanos a sus hogares, utilizando mangueras que han instalado ellos mismos.. ​
+
+•El agua destinada para consumo no recibe tratamiento, excepto en casos aislados donde algunos residentes la hierven para preparar alimentos para los niños, niñas y adolescentes ​
+
+• En el resguardo, está prohibida la minería  con mercurio, y solo se realiza esta de forma artesanal. Sin embargo, se evidencia que alrededor del resguardo es practicada lo cual podría afectar sus fuentes de suministro. 
+
+Saneamiento​
+
+ La gestión de residuos en la comunidad se realiza mediante la quema a campo abierto, el entierro de pañales y toallas sanitarias,  y el uso de residuos orgánicos para la alimentación de los animales. ​
+
+ Las deposiciones son realizadas a campo abierto debido a la falta de letrinas en las viviendas, excepto en la escuela, que cuenta con baños funcionales y su pozo séptico.​
+
+ La escuela tiene baterías sanitarias (8 tasas), se necesita adecuar las tuberías de abastecimiento de agua y rehabilitar los lavamanos. En casa comunitaria existen 2 baños, orinal  y ducha. ​
+
+ La comunidad enfrenta un riesgo debido a la presencia de artefactos explosivos al realizar sus necesidades a campo abierto, especialmente en las áreas cercanas a la escuela.​
+
+No hay condiciones de accesibilidad para niños, niñas y adolescentes (NNAJ) con discapacidad en las baterías sanitarias existentes
+
+Higiene​
+
+•La población reconocen la importancia de momentos claves para el lavado de manos, pero carecen de los elementos necesarios para llevar a cabo prácticas de higiene adecuadas ​
+
+•La escuela desempeña un papel crucial en la implementación de acciones de WASH (Agua, Saneamiento e Higiene), ya que cuenta con infraestructuras y recursos necesarios​
+
+•La comunidad manifiesta que no cuentan con recursos para adquirir elementos de higiene, los cuales representan una parte importante de sus gastos.​
+
+• Se identifica alta población de mujeres con necesidades de higiene menstrual
+
+
+
+RANCHO QUEMADO 
+• La principal fuente de suministro de agua es un pozo perforado, que se conecta a través de redes de mangueras instaladas por la comunidad. Sin embargo, el sistema de bombeo presenta fallas y carece de algunos accesorios necesarios.​
+
+• El suministro de agua se realiza por días, de acuerdo a cada sector, y los habitantes almacenan el agua en tanques elevados. El abastecimiento ocurre cada dos días.​
+
+• La sede educativa, que también funciona como refugio humanitario, cuenta con una capacidad total de 5.500 litros, distribuidos en 2 tanques de 2000 litros, 1 tanque de 1000 litros y 1 tanque de 500 litros. Sin embargo, debido al alto consumo, esta cantidad no es suficiente para las actividades diarias como bañarse, cocinar y la limpieza.​
+
+• La administración proporciona agua para consumo en bolsas plásticas de 5 litros. Sin embargo, se menciona que este recurso se está agotando y podría no ser suficiente para continuar suministrando agua de esta manera.
+
+Saneamiento​
+
+En el refugio humanitario, se utilizan canecas y sacos para la gestión de residuos, que posteriormente se envían al botadero a cielo abierto. Sin embargo, el envío de cada saco tiene un costo de 3 mil pesos, lo cual representa un desafío ya que la comunidad no cuenta con los recursos necesarios. Este sistema no es sostenible para la comunidad.​
+
+Aunque existen canecas para la recolección de residuos, se observa que no son suficientes para la cantidad de desechos que se producen diariamente, lo que provoca desbordamientos y se convierten en focos de vectores.​
+
+En la escuela o refugio, hay 4 tasas sanitarias con un pozo séptico que se utilizan para las necesidades fisiológicas e higiene personal. Sin embargo, no hay lavamanos que permitan una adecuada higiene al momento de realizar las necesidades fisiológicas. Para 110 personas.​
+
+Se ha observado que, al no estar adecuados los baños como espacios de ducha, el agua se acumula y genera un riesgo para la proliferación de vectores
+
+Higiene​
+
+• En Rancho Quemado, se evidencia la necesidad de elementos de higiene comunitaria. Aunque se han recibido kits de aseo personal, actualmente se requieren jabón de loza y otros elementos de limpieza para los espacios comunes.​
+
+• Estos elementos de limpieza para los espacios comunes han sido solicitados a través de un crédito en el granero, debido a la falta de recursos disponibles en la comunidad.​
+
+La administración ha realizado la entrega de elementos familiares a la población afectada
+    [group_aa8xg30/group_fv0ct51/Recomendaciones_002] => RESGUARDO TAGUAL LA PO 
+Rehabilitación de baterías sanitarias existentes en escuela y casa comunitaria​
+
+Formación y sensibilización sobre temáticas WASH, especialmente en mantenimientos básicos de los puntos de toma de agua y baterías sanitarias, manejo adecuado de tanques de almacenamiento y gestión residuos. sensibilización en hábitos de higiene para toda la comunidad con énfasis en la escuela. Manejo de vectores para evitar la proliferación de plagas.
+
+RANCHO QUEMADO
+Entrega de kit de tratamiento de agua comunitarios​
+
+Rehabilitación de baños en alojamiento (escuela)​
+
+Formación y sensibilización sobre temáticas WASH, especialmente en mantenimientos básicos de los puntos de toma de agua y baterías sanitarias, manejo adecuado de tanques de almacenamiento y gestión residuos. sensibilización en hábitos de higiene para toda la comunidad con énfasis en la escuela. Manejo de vectores para evitar la proliferación de plagas.​
+
+Entrega de kit de aseo comunitarios
+    [group_aa8xg30/group_fv0ct51/Indicadores_Clave_002] => RESGUARDO TAGUAL LA PO 
+100% de la población que NO usa agua segura. ​
+
+90% de la población que NO tiene recursos suficientes para la compra de útiles de aseo.
+
+RANCHO QUEMADO
+80% de la población que NO usa agua segura. ​
+
+100% de la población que SI tiene elementos de higiene.
+    [group_aa8xg30/group_jn0nm53/san] => RESGUARDO TAGUAL LA PO 
+
+La población emberá ubicada en el resguardo Tagual La Po se encuentra confinada debido a las condiciones del conflicto armado en la región. Esto ha afectado de manera significativa su acceso a medios de vida y ha puesto en riesgo su seguridad alimentaria. Este resguardo se encuentra ubicado a aproximadamente 3 horas de la cabecera municipal de Segovia si se viaja en la línea de transporte, o a 2 horas si se viaja en moto.  Además, manifiestan que no es seguro transitar por los caminos pues algunos miembros de la comunidad han recibido señalamientos por parte de los GANE. La comunidad expresa que esta situación ha reducido de manera significativa su acceso a alimentos y medios de vida. Al momento de realizar los ejercicios de recolección de información, las personas afectadas por esta emergencia no han recibido atención alimentaria por parte de la alcaldía, ni otra organización, según refieren representantes del gobierno municipal, esto se debe a que la capacidad institucional en este momento se encuentra desbordada; pues han priorizado la atención de las comunidades desplazadas en la vereda de Rancho Quemado. 
+
+Una de las principales fuentes de ingreso de las familias, se basa en el jornal diario, empleo al que generalmente acceden  los hombres en fincas y minas cercanas, situación que se ha visto afectada por el confinamiento, por lo que para su sostenimiento para el autoconsumo se basa en pequeños cultivos de pan coger, que complementan con alimentos los compran en Segovia y tiendas cercanas como la ubicada a media hora del resguardo llamada Las Guaguas, pero recientemente han empezado a recurrir al trueque  de sus productos (cambio en ocasiones no justos) al no tener recursos suficientes. 
+
+Se evidenciaron distintos tipos de cultivos como plátano, yuca, maíz, ñame, arroz y frijol. También especies menores como gallinas y solo unos pocos cuentan con cerdos. Otra manera en la que conseguían el alimento era por medio de la caza y la pesca, pero estas se han visto restringidas por los GANE, la presencia de MAP/MSE/TE y los enfrentamientos constantes en los caminos y lugares donde se desarrolla la minería, la agricultura y la tala de madera, trayendo más barreras en el acceso a los medios de vida y la seguridad alimentaria. Otro factor son el riesgo constante de enfrentamientos entre los diferentes GANE disputándose el control del territorio, a lo que se le adiciona el riesgo de presencia de MAP/MSE/TE., haciendo que dependan únicamente de los cultivos cercanos a sus casas para acceder a la alimentación. 
+
+Durante la ERN los miembros del resguardo expusieron como esta situación ha impactado de manera muy negativa su alimentación. Dijeron que en este momento están haciendo de 2 comidas e incluso en ocasiones 1 comida al día. Esta además ha sido muy limitada en términos dietarios, pues principalmente ha consistido en plátano o yuca en distintas preparaciones, es decir, solo consumos de carbohidratos y escaso consumo de grasas y proteína. Cada hogar cocina de manera personal en leña, sin embargo, debido a la escasez han llegado a apoyarse y compartir los alimentos entre distintos miembros de la comunidad. 
+
+Debido a las necesidades urgentes de alimentación y al desbordamiento de la capacidad institucional que ha ocasionado el conflicto armado en este municipio, se recomienda evaluar la posibilidad de llevar a cabo entregas de paquetes alimentarios a la población emberá del resguardo Tagual la Po. 
+
+RANCHO QUEMADO 
+
+Las comunidades desplazadas en Rancho Quemado se encuentran refugiadas en la escuela de la vereda que convirtieron en un albergue temporal y en casas de familias. En este momento han estado preparando los alimentos en ollas comunitarias. Utilizan las cocinas del comedor escolar que funcionan a gas. Mencionaron que la pipeta de gas alcanza para cocinar los alimentos de toda la comunidad durante alrededor de dos días, por lo que la compra del gas les ha implicado un costo significativo. No hay posibilidades utilizar leña, pues en el lugar donde se encuentran albergados no tienen donde recogerla.  
+
+Debido al desplazamiento las personas han visto afectado su acceso al trabajo y medios de vida. En su territorio se dedicaban a la agricultura, la minería y la tala de madera. Cultivaban tanto para el pan coger, como en el marco de un proyecto productivo que estaban comenzando a construir en torno al cacao. Ahora, en la situación de desplazamiento no han podido desempeñar ninguna de sus actividades productivas. Han logrado subsistir a partir de la ayuda recibida por la comunidad de acogida, con algunos recursos tomados de la junta de acción comunal de sus veredas y con la entrega de kits de alimentos, de higiene y de hábitat distribuidos por la gobernación, la UARIV y ACNUR.  
+
+Adicionalmente, y con el apoyo de la JAC de Rancho Quemado, tienen abierto un crédito en un granero llamado “Granero el Impacto”. Este crédito lo han utilizado para conseguir algunos productos que no hacen parte de las ayudas recibidas, como las pipetas de gas, los elementos de aseo comunitario y algunos alimentos. En las conversaciones con los lideres, estos expresaron su preocupación pues la deuda con el granero ya se encuentra en alrededor de $2,500,000 pesos. Mencionaron que inicialmente la Secretaría de Gobierno de Segovia había acordado ayudar a saldar esta deuda, sin embargo, el día anterior a la ERN esta se comunicó con los lideres a informarles que no tenían recursos en el municipio para brindar ese apoyo. 
+
+En este momento las necesidades alimentarias de estas comunidades están siendo atendidas por la institucionalidad. Inicialmente recibieron alimentos para cocinar ollas comunitarias que tenían diversos productos, así como ollas y menaje. También recibieron 93 kits de alimentos por parte de la UARIV que aún no han comenzado a utilizar. Dijeron que hacen las 3 comidas diarias con los alimentos que han recibido. Se estima que con los alimentos que tienen en este momento puedan cubrir sus necesidades por alrededor de 10 días.
+    [group_aa8xg30/group_ga2zh63/SaludFisica] => TAGUAL LA PO 
+
+•	SALUD FÍSICA 
+
+Durante la evaluación realizada a las comunidades afectadas en el resguardo Tagual la po, en la zona rural de Segovia, Antioquia, se encuentra que están cubiertos por el Hospital San Juan de Dios, ESE (Empresa Social del Estado) Nivel I, quienes cuentan con los servicios de urgencias y profesionales de la salud entre los que se encuentran medicina general, psicología, enfermería, higiene oral, vacunación y un equipo con quienes trabajan en engranaje con la Secretaría de Salud local que denominan equipo de Salud Pública compuesto por servicios de medicina general, enfermería, salud sexual y reproductiva, nutrición e higiene oral además de técnicos ambientales encargados de la gestión de vectores.  
+
+En el marco de la emergencia han realizado allí 2 jornadas de valoración de la población, la segunda de ellas el día 12 de Julio, estuvieron realizando atención médica general de 22 pacientes priorizados por la gestora de salud de la comunidad, Diana Baquiaza, atención de PyP, realización de 43 pruebas de gota gruesa con 12 pacientes con resultados positivos, quienes recibieron todo el régimen terapéutico con antimaláricos entregados por la ESE, entre los casos positivos se encontró una gestante menor de edad, que fue evacuada para realizar laboratorios de extensión por parte de ellos. 
+
+La secretaría de salud indica que aproximadamente 96% de la población afectada por la emergencia, se encuentra carnetizada, con atención en brigadas aproximadamente 2 a 3 veces al año, sin embargo, la dificultad geográfica para el ingreso a las comunidades genera que las brigadas no se hagan periódicamente ni que las poblaciones acudan al hospital para controles o consulta de urgencia. 
+
+Hace aproximadamente 8 años la población tuvo evaluación de sus fuentes de agua y manifiestan que el reporte impartido indicaba que el agua era potable, sin embargo, no es claro si el agua es apta para el consumo. Consideran que por ello, la población actualmente presenta mayor cantidad de casos con cuadros gripales en todos los grupos etarios que casos de enfermedad diarreica aguda. 
+
+Al indagar grupos focales, promotora de salud, médicos tradicionales y parteras, refieren que la población presenta síntomas que refieren así principalmente:  
+
+•	Primera infancia y NNAJ: picaduras de insectos, cuadros gripales y pediculosis.  
+
+La ESE ha llevado a cabo el control de un caso de un menor con desnutrición. Actualmente no hay casos de novo que reporte la comunidad ni la secretaría de salud o menores que hagan parte de los programas de nutrición. La comunidad se beneficia del programa impartido por la Corporación PECAS que entrega paquetes de alimentos no perecederos a 32 familias que tengan menores de 5 años de edad. 
+
+•	Adultos jóvenes reportan dolencias de tipo osteomuscular que se exacerban por las condiciones de vivienda, dado que algunos están pernoctando en casas de familiares y amigos por la imposibilidad del retorno a sus casas. Las mujeres en edad reproductiva indican que sólo algunas de ellas se encuentran en programas de planificación familiar dado que la decisión de planificación es tomada en pareja cuya última palabra la tiene el hombre. 
+
+La comunidad indica que hay aproximadamente 5 mujeres lactantes y 5 mujeres en embarazo, entre las que pudimos ver a 3 menores de edad, los controles prenatales los realizan ocasionalmente dada la lejanía de la ESE y la promotora de salud junto con las parteras son quienes cuidan el progreso del embarazo, durante las brigadas de salud recibieron micronutrientes por parte de la ESE. No se reporta un aumento de la morbimortalidad materna o que se hayan presentados casos médicos de mortalidad o complicaciones maternas.  
+
+•	Adultos en edad avanzada: dolores osteomusculares, no asistencia a control de sus patologías crónicas de base. 
+
+Se evidencian falencias en torno a determinantes sociales de la salud de forma crónica que impactan negativamente la situación sobre la salud de la comunidad y se exacerban por las condiciones de desplazamiento que inhabilitan la autonomía alimentaria dada la imposibilidad de acceso a sus cosechas. 
+
+Se conocieron conductas y hábitos de higiene deficientes dada la ausencia de baterías sanitarias adecuadas que aseguren la correcta higiene de manos. La promotora de salud lleva a cabo charlas de sensibilización con la comunidad en Enfermedad diarreica aguda e infección respiratoria aguda, que durante la evaluación de necesidades fue apoyada y fortalecida durante una sensibilización con el grupo focal de mujeres. Gran parte de la población afectada realiza sus deposiciones en campo abierto lo cual representa un alto riesgo de transmisión de enfermedades. Algunos de los hogares no cuentan con toldillos por lo cual las enfermedades transmitidas por vectores son comunes entre la población. 
+
+En las comunidades hay 1 promotora de salud, aproximadamente 6 parteras y 2 médicos ancestrales/tradicionales, que atienden a la población con plantas y medicina tradicional. 
+
+RANCHO QUEMADO 
+
+  
+
+SALUD FÍSICA   
+Durante la evaluación realizada a las comunidades afectadas que se encuentran en el refugio humanitario en Rancho Quemado, en la zona rural de Segovia, Antioquia, se encuentra que están cubiertos por el Hospital San Juan de Dios, ESE (Empresa Social del Estado) Nivel I, quienes cuentan con los servicios de urgencias y profesionales de la salud entre los que se encuentran medicina general, psicología, enfermería, higiene oral, vacunación y un equipo con quienes trabajan en engranaje con la Secretaría de Salud local que denominan equipo de Salud Pública compuesto por servicios de medicina general, enfermería, salud sexual y reproductiva, nutrición e higiene oral además de técnicos ambientales encargados de la gestión de vectores.   
+
+ En el marco de la emergencia realizaron 1 jornada de valoración de la población el día 30 de junio donde evaluaron a aproximadamente 30 personas que consideraron la población más enferma priorizada para atención, entre los que se encontraban aproximadamente 6 menores de 5 años con cuadros de rinofaringitis y/o enfermedad diarreica aguda que fueron tratados.  
+
+Posterior a esta atención, la comunidad ha venido siendo atendida por un técnico en enfermería que da los cuidados iniciales a quienes acuden y suministra medicamentos aquellos casos que lo requieran, los cuales adquieren en la farmacia de la vereda. 
+
+Se prevé ingreso de 1 equipo de profesionales con aproximadamente 5 integrantes (médico general, jefe de enfermería, 2 auxiliares de enfermería y psicología por confirmar), para el 18 y 19 de julio, quienes estarán realizando atención en salud primaria a la población priorizada por sus líderes y promotores.  
+La secretaría de salud indica que aproximadamente 96% de la población afectada por la emergencia, se encuentra carnetizada, según la comunidad y líderes de las juntas de acción comunal con atención en brigadas aproximadamente 1 o 2 veces al año en Rancho Quemado y en las veredas que fueron desplazadas 1 vez al año y ocasionalmente 2 veces al año por lo que los mayores no tienen un adecuado control de sus patologías crónicas de base, las mujeres en embarazo no tiene controles prenatales mensuales y la asistencia a los programas de crecimiento y desarrollo son esporádicas dada la dificultad geográfica para el ingreso a las comunidades que no sólo dificulta la entrada de las brigadas por parte del Hospital y la Secretaría de Salud sino también para las poblaciones que difícilmente pueden acudir a la institución para controles o consultas de urgencia.  
+
+ La ausencia de pozos sépticos y las condiciones de hacinamiento en la que se encuentra la población desplazada y refugiada en la sede de Rancho Quemado de la Institución Educativa Liborio Bataller, propician enfermedades respiratorias transmisibles y cuadros diarreicos predominantemente en la población infantil; actualmente cuentan de manera intermitente con el suministro de agua potable en bolsas además de la presencia del técnico en enfermería que junto al cuerpo docente sensibilizan a la comunidad frente a medidas de higiene y saneamiento. 
+
+
+Al indagar al grupo de líderes y promotores de salud, refieren que la población presenta síntomas que refieren así principalmente:   
+
+  
+
+•	Primera infancia y NNAJ: cuadros gripales, enfermedad diarreica aguda y síndromes febriles. Indican que hay aproximadamente 56 menores de edad entre la población desplazada, dentro de los cuales hay un menor con Síndrome de Down. 
+
+No hay registro de casos de desnutrición de novo que reporte la comunidad ni la secretaría de salud o menores que hagan parte de los programas de nutrición. 
+
+  
+
+•	Adultos jóvenes reportan dolencias de tipo osteomuscular y alteraciones del sueño y del ánimo desencadenados por la condición de desplazamiento, hacinamiento y zozobra ante las disputas en sus territorios y la imposibilidad de continuar con sus actividades económicas que aseguren sus medios de subsistencia. 
+
+Las mujeres en edad reproductiva acceden a planificación familiar y continúan con los métodos ya establecidos en algunos de los programas de la ESE, sin embargo, por las condiciones geográficas y la lejanía, han determinado continuar con la adquisición de los métodos en la farmacia de la vereda.  
+
+  
+
+Los líderes indican que hay 3 mujeres gestantes y ninguna lactante, los controles prenatales los realizan ocasionalmente dada la lejanía de la ESE y el técnico en enfermería es quien les indica los micronutrientes. No se reporta un aumento de la morbimortalidad materna o que se hayan presentados casos médicos de mortalidad o complicaciones maternas.   
+
+  
+
+•	Adultos en edad avanzada: dolores osteomusculares, enfermedades crónicas sin control tipo Hipertensión Arterial y Diabetes Mellitus. 
+
+  
+
+Se evidencian falencias en torno a determinantes sociales de la salud de forma crónica que impactan negativamente la situación sobre la salud de la comunidad y se exacerban por las condiciones de desplazamiento y hacinamiento.  
+
+  
+
+Líderes y promotores procuran por sensibilizar frente a conductas y hábitos de higiene dado que se encuentran en hacinamiento, habitando 110 personas la escuela/refugio, distribuidos en 4 salones, con 2 baterías sanitarias compuestas por ducha y sanitario con ausencia de lavabos que aseguren la correcta higiene de manos. La comunidad desplazada, asentada en el refugio, cuenta con toldillos
+    [group_aa8xg30/group_ga2zh63/SaludMental] => RESGUARDO TAGUAL LA PO
+SALUD MENTAL:  
+
+Los efectos del conflicto armado son importantes sobre la salud mental de la población afectada por desplazamiento, indican un aumento del temor y el estrés ante ruidos externos que no se presentaban usualmente al interior de las comunidades. 
+
+En Tagual la po hay ausencia de agentes para la atención por psicología individual o grupal, o detección y gestión de los casos. La forma más frecuente de acceso es asistiendo a la ESE a donde acuden en escasas ocasiones por la lejanía de Segovia. 
+
+No se logró identificar casos de violencia basada en género o aumento de los mismos posterior a la emergencia; sin embargo, se evidencia un patrón etnocultural donde el hombre es quien toma las decisiones y donde es posible exista una minimización de los hechos de esta índole. La comunidad reporta que, en caso de violencia intrafamiliar, el gobernador indica castigos como el uso del cepo por 96 horas. 
+
+Las comunidades cuentan con una red de apoyo comunitaria, que les ha permitido generarse lazos comunitarios y espacios seguros donde pueden intercambiar experiencias en algunas jornadas del día procurándose soluciones a las situaciones que enfrentan. El grupo de mujeres es liderado por la promotora de salud y una de sus lideresas. El conflicto ha tenido un alto impacto en las dinámicas familiares, sociales y personales traduciéndose en alteraciones de la estabilidad de la población. 
+
+No hay un claro panorama frente al reclutamiento y según los líderes y la comunidad no se han presentado casos de ideas o conductas suicidas o pensamiento con intención de muerte. 
+
+Es evidente la presencia de síntomas emocionales tales como tristeza, sensación de desesperanza por no poder tener acceso al alimento y la perdida de la soberanía alimentaria, y cambios en el estado de ánimo, que impactan los niveles de calidad de vida de la población afectada y se exacerban por las condiciones de los albergues y lugares que habitan posterior al desplazamiento.  
+
+La situación en torno a la salud en Tagual la po, es notablemente de carácter crónico, con una agudización de factores estructurales desfavorable que empeoran las condiciones de vida de las poblaciones afectadas. 
+
+Con respecto a lo anterior, se menciona como sobresaliente que: 
+
+El Hospital San Juan de Dios ESE Nivel I por el momento ha intentado cubrir las necesidades prioritarias urgentes de la comunidad, se encuentra evaluando la posibilidad de un futuro ingreso, sin embargo, no ha podido llevar a cabo atención a toda la población con aflicciones menores ni campañas de sensibilización que permitan sostener en el tiempo las acciones de prevención de enfermedades transmisibles. 
+
+No hay aumento de los casos de desnutrición desencadenado por la emergencia y los casos en atención son conocidos y tratados por la ESE. 
+
+En términos de salud mental, la comunidad no manifiesta que se hayan presentado intentos autolesivos o aumento en dicha conducta. Es evidente la presencia de síntomas emocionales, ansiedad ante la situación, tristeza por las condiciones en que se encuentran, sensación de pánico, trastornos del sueño y del estado de ánimo que requieren un abordaje psicosocial comunitario y entrega de herramientas de gestión emocional. 
+
+Es importante que durante la intervención se fortalezcan rutas de atención en salud mental, además que se promuevan estrategias de afrontamiento, autocuidado en salud mental, reconocimiento y manejo de las emociones, pautas de crianza, roles y estereotipos de género, derechos sexuales y reproductivos, salud sexual y reproductiva, reconocimiento de señales de alarma, resolución pacífica de conflictos, estrategias para uso adecuado del tiempo libre, aseo e higiene personal, además que se realicen espacios de psicoeducación en prevención del consumo de SPA, prevención del suicidio, VBG, PAP. 
+
+Por lo anterior, se estima que existe una necesidad en torno a la salud en las comunidades visitadas, de carácter crónico, con una agudización por el conflicto, el desplazamiento y confinamiento asociado a factores estructurales desfavorables. En el momento se considera que la mayor necesidad se encuentra es de tipo psicosocial, primeros auxilios psicológicos y abordaje comunitario e individual de la situación donde se fortalezcan capacidades en líderes y comunidad paralelo a una atención en salud enfocada en afianzar medidas de autocuidado y prevención de enfermedades transmisibles. 
+
+RANCHO QUEMADO 
+SALUD MENTAL:   
+
+Los efectos del conflicto armado son importantes sobre la salud mental de la población afectada por desplazamiento, ubicadas en el refugio de la institución educativa, refieren un aumento en el temor, el estrés, la sensación de tristeza y zozobra por la imposibilidad de retornar a sus territorios por la ausencia de garantías de seguridad y los recientes eventos en sus territorios de combates entre los actores armados. 
+
+  
+
+En el momento no hay agentes para la atención por psicología individual o grupal de la población afectada desplazada en Rancho Quemado, ni hay la posibilidad de detección y gestión de casos. La forma más frecuente de acceso es asistiendo a la ESE a donde acuden en escasas ocasiones por la lejanía de Segovia y porque no es clara la presencia del personal de psicología. 
+
+  
+
+No se logró identificar casos de violencia basada en género o aumento de los mismos posterior a la emergencia; en el grupo de mujeres se nota un aumento de la sensación de tristeza y desasosiego generado por el temor y la zozobra del retorno a sus hogares y sensación de frustración ante la situación en la población masculina. 
+
+Las comunidades cuentan con una red de apoyo comunitaria, los líderes procuran generar lazos comunitarios y espacios seguros a pesar de la situación de hacinamiento. El conflicto ha tenido un alto impacto en las dinámicas familiares, sociales y personales traduciéndose en alteraciones de la estabilidad de la población.  
+
+  
+
+No hay un claro panorama frente al reclutamiento y según los líderes y promotores no es de tipo forzado, los jóvenes y sobre todo las niñas y adolescentes son seducidas por el poder que representa los actores armados y porque representan la solución para la comunidad ante la situación socioeconómica. No se han presentado casos de ideas o conductas suicidas o pensamiento con intención de muerte.  
+
+  
+
+Es evidente la presencia de síntomas emocionales tales como tristeza, sensación de desesperanza por no poder tener acceso al alimento, por la zozobra ante el retorno a sus hogares, por la sensación de peligro para sus familias y los menores de edad. Los cambios en el estado de ánimo impactan los niveles de calidad de vida de la población afectada y se exacerban por las condiciones en que están en el refugio. 
+
+  
+
+La situación en torno a la salud en Rancho Quemado tiene un carácter crónico dada la ausencia de la institucionalidad que brinde atención continua y el acceso a personal de salud así como a tratamiento de las patologías, hay una agudización dado factores estructurales desfavorables que empeoran las condiciones de vida de las poblaciones en el refugio.  
+
+  
+
+Con respecto a lo anterior, se menciona como sobresaliente que:  
+
+El Hospital San Juan de Dios ESE Nivel I por el momento ha intentado cubrir las necesidades prioritarias urgentes de la comunidad, sin embargo, la restricción geográfica ha empeorado el acceso a servicios de salud e la población en situación de desplazamiento. 
+
+La ESE en el momento se encuentra evaluando la posibilidad de un futuro ingreso el 18 y 19 de julio, para intentar llevar a cabo atención a toda la población afectada.  
+
+No hay aumento de los casos de desnutrición desencadenado por la emergencia y los casos en atención son conocidos y tratados por la ESE.   
+
+No hay aumento de la morbimortalidad materna ni en menores de 5 años. 
+
+En términos de salud mental, la comunidad no manifiesta que se hayan presentado intentos autolesivos o aumento en dicha conducta ni en violencia basada en género. Es evidente la presencia de síntomas emocionales, ansiedad ante la situación, tristeza por las condiciones en que se encuentran, zozobra por no saber si es posible el regreso a sus territorios, sensación de pánico, trastornos del sueño y del estado de ánimo que requieren un abordaje psicosocial comunitario y entrega de herramientas de gestión emocional.  
+
+Es importante que durante la intervención se fortalezcan rutas de atención en salud mental, además que se promuevan estrategias de afrontamiento, autocuidado en salud mental, reconocimiento y manejo de las emociones, pautas de crianza, roles y estereotipos de género, derechos sexuales y reproductivos, salud sexual y reproductiva, reconocimiento de señales de alarma, resolución pacífica de conflictos, estrategias para uso adecuado del tiempo libre, aseo e higiene personal, además que se realicen espacios de psicoeducación en prevención del consumo de SPA, prevención del suicidio, VBG, PAP.
+    [group_aa8xg30/group_ga2zh63/Hallazgos_004] => RESGUARDO TAGUAL LA PO 
+Salud física:​
+
+ 96%  de la población carnetizada, atendidos por el Hospital San Juan de Dios, ESE Nivel I: medicina general, psicología, enfermería, higiene oral, vacunación y junto a Secretaría de Salud otros servicios como salud sexual y reproductiva, nutrición e higiene oral y técnicos ambientales.​​
+
+ 2 jornadas de atención: 12 de Julio (2a) atendidos pacientes priorizados, atención de PyP, 43 pruebas de Malaria gota gruesa, 12 pacientes con resultados positivos que fueron tratados y una gestante evacuada para estudios.​
+
+ La situación geográfica dificulta la realización de brigadas frecuentes y que la población acuda al hospital. ​
+
+ Cuentan con promotora de salud, médicos tradicionales (2) y parteras (6).​
+
+üPrimera infancia y NNAJ: picaduras de insectos, cuadros gripales y pediculosis. La ESE ha llevado a cabo el control de un caso de un menor con desnutrición. ​
+
+üAdultos jóvenes: dolencias de origen osteomuscular. Algunas mujeres están en programas de Planificación familiar. 5 mujeres lactantes y 5 mujeres en embarazo, 3 menores de edad, controles prenatales ocasionales, recibieron micronutrientes (ESE)​
+
+üAdultos en edad avanzada: dolores osteomusculares, sin control de sus patologías crónicas de base.​
+
+​
+
+Salud mental​
+
+Aumento del temor , el estrés ante ruidos externos, síntomas emocionales tales como tristeza y sensación de desesperanza.​
+
+Ausencia de agentes para la atención y gestión de casos por psicología individual o grupal​
+
+No se logró identificar casos de violencia basada en género o aumento ​
+
+Cuentan con una red de apoyo comunitaria.​
+
+No hay un claro panorama frente al reclutamiento y según los líderes y la comunidad no se han presentado casos de ideas o conductas suicidas​
+
+RANCHO QUEMADO 
+
+Salud física:​
+
+ 96%  de la población carnetizada, atendidos también por la ESE.​
+
+ 30 de junio: evaluadas 30 personas priorizadas y tratadas, entre ellos aproximadamente 6 menores de 5 años con cuadros gripales y/o enfermedad diarreica. ​
+
+ La comunidad desplazada es atendida por un técnico en enfermería que vive en Rancho Quemado que da los cuidados iniciales a quienes acuden y suministra medicamentos.  ​
+
+ 18 y 19/Julio: Se prevé ingreso de 1 equipo de profesionales con médico general, jefe de enfermería, 2 auxiliares de enfermería y psicología (por confirmar).​
+
+ La situación geográfica dificulta la realización de brigadas y que la población acuda.​
+
+ La ausencia de pozos sépticos y condiciones de hacinamiento, propician enfermedades respiratorias transmisibles y cuadros diarreicos sobre todo en la población infantil.​
+
+ El técnico en enfermería junto al cuerpo docente sensibiliza a la comunidad frente a medidas de higiene y saneamiento. ​
+
+Primera infancia y NNAJ: cuadros gripales, enfermedad diarreica aguda y síndromes febriles. No hay casos de desnutrición reportados de novo.​
+
+Adultos jóvenes: dolencias osteomusculares, alteraciones del sueño y del ánimo. Las mujeres acceden a PNF. 3 mujeres gestantes y ninguna lactante sin control mensual.​
+
+Adultos en edad avanzada: dolores osteomusculares, enfermedades crónicas sin control tipo Hipertensión Arterial y Diabetes Mellitus. ​
+
+​
+
+Salud mental​
+
+Aumento del temor, el estrés, síntomas emocionales tales como tristeza y sensación de zozobra por la falta de seguridad para retornar a sus territorios.​
+
+Ausencia de agentes o psicólogos para la atención y gestión de casos.​
+
+No se logró identificar casos de violencia basada en género o aumento de los mismos.​
+
+Cuentan con una red de apoyo comunitaria, que genera espacios seguros​
+
+No es claro el fenómeno de vinculación y según los líderes y promotores no es de tipo forzado, los jóvenes son seducidos por los actores armados quienes representan la solución a su situación socioeconómica. No se han presentado casos de ideas o conductas suicidas o pensamiento con intención de muerte.
+    [group_aa8xg30/group_ga2zh63/Recomendaciones_004] => RESGUARDO TAGUAL LA PO 
+ Existe una mayor necesidad por las condiciones crónicas de la zona, acceso por condiciones climáticas y geográficas, y condiciones sociales por las economías locales agudizadas por la situación de emergencia y los eventos desencadenados.​
+
+​
+
+ Realizar intervención en salud para la atención de las comunidades evaluadas, considerando la realización de triaje para la priorización de los pacientes.​
+
+​
+
+ Socializar medidas de consumo de agua segura, optimización de la higiene, hábitos alimenticios sanos, entre otros temas relevantes para la salud de las comunidades. ​
+
+​
+
+ Considerar el acompañamiento por actores comunitarios para la traducción e interpretación lingüística, principalmente para la atención de personal femenino. ​
+
+​
+
+ Considerar en el momento del ingreso que las vías de acceso terrestre presentan múltiples dificultades ​
+
+​
+
+ Es importante que durante la intervención se fortalezcan aspectos relacionados con cohesión social, redes de apoyo sociales y comunitarias, fortalecimiento cultural, y rutas de atención en salud mental, además que se promuevan estrategias de afrontamiento, autocuidado en salud mental, reconocimiento y manejo de las emociones, pautas de crianza, roles y estereotipos de género, derechos sexuales y reproductivos, salud sexual y reproductiva, reconocimiento de señales de alarma, resolución pacífica de conflictos, estrategias para uso adecuado del tiempo libre, aseo e higiene personal, además que se realicen espacios de psicoeducación en prevención del consumo de SPA, prevención del suicidio, VBG, PAP.
+
+RANCHO QUEMADO 
+ La situación en torno a la salud en Rancho Quemado tiene un carácter crónico dada la ausencia de la institucionalidad que brinde atención continua y acceso, con agudización por el desplazamiento, el hacinamiento y factores estructurales desfavorables que empeoran las condiciones de vida de la población afectada. ​
+
+​
+
+La ESE en el momento se encuentra evaluando la posibilidad de un futuro ingreso el 18 y 19 de julio, por lo que se considera contacto continuo con la institucionalidad para evaluar el tipo de atención brindada en caso de llevarse a cabo. ​
+
+​
+
+ Realizar intervención en salud para la atención de la comunidad en desplazamiento y hacinada en el refugio humanitario en la institución educativa.​
+
+​
+
+ Socializar medidas de consumo de agua segura, optimización de la higiene y saneamiento, hábitos alimenticios sanos. ​
+
+​
+
+  Considerar en el momento del ingreso que las vías de acceso terrestre presentan múltiples dificultades ​
+
+​
+
+ Es importante que durante la intervención se fortalezcan rutas de atención en salud mental, se promuevan estrategias de afrontamiento, autocuidado en salud mental, reconocimiento y manejo de las emociones, derechos sexuales y reproductivos, resolución pacífica de conflictos, estrategias para uso adecuado del tiempo libre, aseo e higiene personal, además que se realicen espacios de psicoeducación en prevención del consumo de SPA, del reclutamiento, prevención del suicidio, VBG, PAP.
+    [group_aa8xg30/group_ga2zh63/Indicadores_Clave_004] => RESGUARDO TAGUAL LA PO 
+Existen entre 500 y 1500 personas afectadas​
+
+​
+
+El municipio tiene capacidad de respuesta en salud física y SSR, limitada capacidad para respuesta en salud mental, y la situación geográfica dificulta el acceso a las comunidades y que la comunidad acuda en caso de requerirlo. ​
+
+​
+
+Actualmente no hay casos de novo de Desnutrición que reporte la comunidad ni la secretaría de salud o menores que hagan parte de los programas de nutrición. La comunidad se beneficia del programa impartido por la Corporación PECAS que entrega paquetes de alimentos no perecederos a 32 familias que tengan menores de 5 años de edad.​
+
+​
+
+Se evidencia dificultad de acceso a tratamiento de enfermedades crónicas no transmisibles​
+
+​
+
+No se reporta un aumento de la morbimortalidad materna o que se hayan presentados casos médicos de mortalidad o complicaciones maternas. ​
+
+No existe un aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida, sin embargo, es evidente la presencia de síntomas emocionales, ansiedad ante la situación, tristeza por las condiciones en que se encuentran, sensación de pánico, trastornos del sueño y del estado de ánimo que requieren un abordaje psicosocial comunitario y entrega de herramientas de gestión emocional.​
+
+No hay aumento o inicio de consumo de PSA en NNAJ durante la emergencia ​
+
+No se reportan casos de deserción escolar​
+
+No hay un claro panorama frente al reclutamiento y no se han presentado casos de ideas o conductas suicidas  ​
+
+
+RANCHO QUEMADO 
+Existen entre 500 y 1500 personas afectadas​
+
+​
+
+El municipio tiene capacidad de respuesta en salud física y SSR, limitada capacidad para respuesta en salud mental, y la situación geográfica dificulta el acceso a las comunidades y que la comunidad acuda en caso de requerirlo. ​
+
+​
+
+Actualmente no hay casos de novo de Desnutrición que reporte la comunidad ni la secretaría de salud o menores que hagan parte de los programas de nutrición. Hay difícil acceso a agua potable y alimentos.​
+
+​
+
+Se evidencia dificultad de acceso a tratamiento de enfermedades crónicas no transmisibles.​
+
+​
+
+No se reporta un aumento de la morbimortalidad materna o que se hayan presentados casos médicos de mortalidad o complicaciones maternas. ​
+
+No existe un aumento sobre línea basal de eventos en salud mental que potencialmente amenacen la vida, sin embargo, es evidente la presencia de síntomas emocionales, trastornos del estado de ánimo, zozobra por la ausencia de seguridad para retorno y riesgo de vinculación no forzada lo cual requiere un abordaje psicosocial comunitario y entrega de herramientas de gestión emocional, de proyectos de vida y primeros auxilios psicológicos ​
+
+No hay aumento o inicio de consumo de PSA en NNAJ durante la emergencia ​
+
+En el momento de la evaluación no se estaban llevando a cabo actividades escolares que se prevé inicien el 17 de Julio. ​
+
+No se han presentado casos de ideas o conductas suicidas
+    [group_aa8xg30/group_tb5de96/EIE] => RESGUARDO TAGUAL LA PO - Confinamiento 
+
+La IE Liborio Bataller sede PO Indígena, se encuentra ubicada en la parte central del resguardo Tagual La Po, cuenta con un encerramiento en regular estado, un centro de desarrollo infantil, baños con 4 letrinas, dos orinales con pozo séptico, dos salones principales los cuales han sido divididos a su vez en dos, una biblioteca donde funciona el bachillerato, cocina y comedor escolar, servicio de electricidad permanente y agua sin tratamiento para el consumo y preparación de alimentos. La oferta educativa que tienen es desde preescolar a octavo de bachillerato. 
+
+Cuenta con dos sedes educativas, una sede principal que cuenta con cinco docentes y la otra sede que queda a una distancia de 1 hora en la vía que conduce a Segovia, con un docente (para un total de 6 docentes: 2 mujeres y 4 hombres) todos con nombramiento por secretaria de educación Departamental, la institución educativa tiene 147 estudiantes matriculados, de los cuales 19 reciben clase en la sede educativa más lejana, la cual refieren presenta una infraestructura deteriorada y no cuenta con servicio d agua potable ni servicios de energía.  
+
+La institución no cuenta con un plan de gestión de riesgo educativo, no hay un plan de respuesta en emergencia, ni rutas de evacuación señaladas; tienen la intención de reubicar la sede en un terreno otorgado por la comunidad en un lugar más alto pues en caso de fuertes lluvias, existe el riesgo de inundación. El mobiliario existente se encuentra en buen estado y en general la infraestructura de la sede educativa cuenta con condiciones seguras para el desarrollo de las actividades escolares.  
+
+Se tiene previsto un incremento en la matrícula para la vigencia 2024 con los NNA que entrarían de preescolar y están gestionando ampliar la oferta educativa hasta el ciclo de bachillerato, sin embargo, no se cuenta con aulas y mobiliario suficiente para el aumento de la cobertura. Los docentes manifiestan que los niños, niñas y adolescentes en las aulas se encuentran en hacinamiento, se requiere para la matricula actual, más aulas en la escuela. Por otro lado, la escuela no cuenta con suficiente material pedagógico y deportivo para la realización de sus actividades escolares, ni servicio de internet para consulta de los estudiantes y docentes. 
+
+ Dentro de los principales hallazgos en el sector de educación se encuentran: la presencia constante de actores armados en el territorio, riesgo de protección a niños, niñas, adolescentes, riesgo de accidentes por presencia de artefactos explosivos MAP, MSE y TE, amenazas a dos docentes que manifiestan una retención por actores armados camino a la escuela, la oferta educativa no cuenta con el ciclo de secundaria, no cuentan con la oferta de modelos educativos flexibles para los niños, niñas y adolescentes en extra edad, se identifican dos casos de embarazo adolescentes, riesgo de abuso sexual en camino por la presencia actores armados al salir de la comunidad, incrementando el riesgo de deserción escolar a causa del conflicto armado. 
+
+Hay una afectación psicosocial aguda en los niños, niñas, adolescentes, docentes y cuidadores, secundario al control de los actores armados, temor ante posibles enfrentamientos y fuego cruzado, al quedar en medio de las disputas territoriales. No se cuenta con capacidad por parte de los docentes y/o lideres de la comunidad con mecanismos de afrontamiento emocional ante las crisis presentadas, no se cuenta con material ajustado para la emergencia que le permita a la escuela retomar sus actividades educativas con un enfoque de aprendizajes socioemocionales, por lo que se requieren espacios de formación y construcción de un plan de respuesta educativo en la emergencia. La Escuela no cuenta con materiales pedagógicos, lúdicos y deportivos que permitan la realización de estas actividades, estos materiales requieren que cuenten con enfoque étnico y corresponda a su contexto territorial. 
+
+Los NNAJ en general manifiestan temor por lo ocurrido en la vereda de Arenales y por la no atención psicosocial para la comunidad educativa. En la evaluación se identifica una red de apoyo que pudiera ser utilizado en la escuela, con la presencia de un orientador@ de la sede principal ubicada en Segovia para la atención de la comunidad educativa afectada en las veredas.  
+
+  
+
+RANCHO QUEMADO - Desplazamiento 
+
+En la vereda se identifican los siguientes hallazgos: afectaciones en NNAJ de la Jagua y Arenales que se encuentran desplazados y de los NNA de Rancho quemado que, debido a la utilización de la escuela como albergue temporal, presentan una interrupción del servicio educativo desde hace dos semanas que se retornó del periodo de vacaciones. 
+
+La sede educativa Santa Laura, pertenece a la Institución Educativa Santo Domingo Savio, fue construida por la propia comunidad, esto como consecuencia a un problema de división política entre Remedios y Segovia, aun no se tiene certeza de a que municipio pertenece y dificulta la inversión de recursos por parte de la institucionalidad (secretaria de Educación y Alcaldías). La Sede educativa cuenta en su infraestructura con cinco aulas construidas en madera y dos aulas en material sin terminar con una matrícula de 168 estudiantes desde grado preescolar a 9no de post-primaria rural (Modelo Educativo Flexible MEF), cuatro letrinas con agua de tanques elevados y un pozo séptico construido por la comunidad. Un comedor escolar con cocina e implementos, el Plan de Alimentación Escolar PAE es suministrado cuando el estado de la vía lo permite. No tiene encerramiento y tienen un solar al frente que suele ser usado como cancha de futbol y patio de recreo. En algunos momentos las clases deben ser impartidas a los NNAJ debajo de un árbol o en el comedor escolar ante la falta de aulas de la institución en relación a su matrícula actual.   
+
+La planta docente la componen cinco docentes en primaria y dos docentes en post-primaria rural, provenientes de diferentes regiones del país lo que dificulta su situación por la lejanía de sus familias y el riesgo ante el desconocimiento del territorio y de los actores presentes. Los docentes refieren un alto número de estudiantes en extra-edad y los estudiantes que finalizan el ciclo de post primaria rural en grado noveno deben trasladarse a la vereda El Carmen lo que implica que los estudiantes que pertenece al municipio de Remedios, para continuar con su ciclo educativo de bachillerato deben realizar un recorrido de 45 minutos en transporte terrestre para llegar a la sede que cuenta con esta oferta educativa. 
+
+Se identificaron entre 12 a 15 NNA desescolarizados, utilizados en trabajo infantil, situación que se presenta en la zona por la oferta laboral en las minas como parte de las economías ilegales en el territorio, se identifican dos casos de uso, utilización y vinculación por parte de los actores armados (1 niño, y 1 niña). Dentro de los riesgos de protección identificados, refieren que los jóvenes están siendo adoctrinados por actores armados y algunos son seducidos por integrantes de estos grupos que llegan bien arreglados y así les convencen.   
+
+ 
+
+Los estudiantes de la comunidad desplazada son parte de la Institución Educativa Liborio Bataller, sede Arenales, a donde asisten de la vereda La Jagua, con un total de 4 docentes y 120 estudiantes matriculados. Los docentes se encuentran en la cabecera municipal cumpliendo horario en la sede principal asumiendo el costo de su alojamiento, por lo que no están dictando clases ninguna de las dos sedes, pero al parecer a partir del lunes 17 de julio, inician con la modalidad de guías académicas, situación que para los padres de familia resultaría costoso ya que en la escuela no tienen impresora y el costo por hoja es elevado. 
+
+La continuidad educativa esta interrumpida y no se tiene un plan educativo con las autoridades locales para retomar las actividades, ni el ajuste de los contenidos por parte de los docentes, ni se ha establecido los cambios en el calendario escolar y en el sistema institucional de evaluación, lo que podría generar deserción escolar y mortalidad académica, hasta la fecha solo la Corporación Derechos Humanos Jesus María Valler Jaramillo junto con la Junta de Acción Comunal de palo quemado, realizó una actividad con los NNAJ, con pinturas para la creación de mensajes de resiliencia que fueron colocados en los alrededores de la escuela.    
+
+En cuanto a elementos para mejorar las condiciones del servicio educativo se requieren material pedagógico (marcadores, temperas, papel, colores, cartulinas, tijeras, sacapuntas, fomi, block iris, juegos didácticos), Guías de trabajo adaptada para la emergencia, material audiovisual, diccionarios, bafle, internet, impresora y utensilios de aseo. Tanto en el resguardo Tafual La Po como en Rancho Quemado se requiere construcción y rehabilitación de aulas escolares con material mobiliario, tableros y elementos deportivos. 
+
+Debido a los riesgos asociados con el conflicto, se requieren espacios de sensibilización con los niños, niñas, adolescentes y jovenes en: 
+
+Comportamientos seguros en medio del fuego cruzado. 
+
+Comportamientos seguros frente a riesgos por MAP/MSE/TE. 
+
+Primeros auxilios y recuperación emocionales. 
+
+Aprendizaje seguro (animación lecto escritura, lógica matemática).  
+
+ 
+
+Con docentes, directivos docentes, orientadores y Agentes Educativos comunitarios se requieren espacios de Formación en Educación en Emergencias en:  
+
+Conceptos teóricos Educación en Emergencias. 
+
+Declaración de Escuelas Seguras y Ataque a las escuelas. 
+
+Práctica pedagógica y comunitaria.  
+
+Plan de respuesta educativo en emergencias. 
+
+Simulacro y respuesta en medio del Fuego cruzado. 
+
+Comportamientos seguros frente a riesgos por MAP/MSE/TE. Socialización y seguimiento del plan de respuesta educativo en emergencias a las comunidades. 
+
+ 
+
+Con la comunidad en General (Cuidadores) se requiere un espacio de Formación en Comportamientos seguros en medio del fuego cruzado y presencia de artefactos explosivos MAP/MSE/TE.
+    [group_aa8xg30/group_tb5de96/Hallazgos_005] => RESGUARDI TAGUAL LA PO 
+•Hasta el momento no se ha presentado interrupción en el servicio de educación en el resguardo Tagual La Po.​
+
+No hay ajuste en el material pedagógico y en las clases impartidas por la emergencia. ​
+
+•Incremento del riesgo de los niños, niñas y adolescentes en el uso, utilización y vinculación por los GANEs.​
+
+•No hay casos de deserción escolar relacionado con vinculación que se mencionen.  ​
+
+•Dos menores de post-primaria, en estado de embarazo en la escuela.​
+
+•No cuentan con plan de gestión de riesgo escolar o plan de emergencia.​
+
+•Oferta educativa de preescolar  a 5 primaria y de 6 a 8 en post-primaria rural MEF.  ​
+
+•Alta afectación psicosocial de la comunidad en general por la presencia de actores armados y el riesgo por presencia de MAP/MSE/TE en el territorio con casos de retenciones y amenazas a dos docentes en la vía y temor de los NNA sin atención adecuada a la fecha .​
+
+•Docentes y Comunidad sin herramientas de afrontamiento. Necesidad de formación en educación en emergencias a Docentes y AEC. ​
+
+•Infraestructura Educativa en regular estado con necesidad de adecuación en las unidades sanitarias  y ampliación del número de aulas (hacinamiento).​
+
+•No cuentan con Materiales Educativos deportivos, lúdicos y pedagógicos suficientes adaptados a la emergencia.​
+
+•Necesidad de Formación a Cuidadores ante el riesgo de confinamiento para actividades en casa con los NNAJ. ​
+
+•Debido a la difícil situación económica de las familias, los NNA no están siendo bien alimentados y no cuentan con recursos para la compra de útiles escolares.
+
+RANCHO QUEMADO 
+•Las clases se encuentran suspendidas desde el 4 de julio (dos semanas), que se retornó del periodo de vacaciones.​
+
+•Debido a la presencia de los GANEs y su disputa por el territorio, se ha incrementado el riesgo de los niños, niñas y adolescentes en el uso, utilización y vinculación de los mismos.​
+
+•Existen alrededor de 12 a 15 casos de estudiantes que han desertado del estudio para trabajar en las minas y dos casos mencionados por un docente de reclutamiento reciente.  ​
+
+•Las sedes educativas (desplazados y receptores), no tiene un plan de gestión de riesgo escolar o plan de emergencia.​
+
+•La sede de Rancho Quemado cuenta con cursos desde preescolar hasta 9  de post-primaria, para terminar sus estudios, los NNA deben asistir a la vereda el Carmen a 45 minutos y la sede de Arenales tiene desde preescolar hasta 11 post-primaria.  ​
+
+•Requieren atención psicosocial por las afectaciones sufridas por el desplazamiento, el riesgo por la presencia armada en su territorio, MAP/MSE/TE y la zozobra por los enfrentamientos.​
+
+•Los Docentes no han sido formados en herramientas de afrontamiento para su autoprotección y la de los NNA, por lo que se requiere formación en Educación en Emergencia, primeros auxilios emocionales, cuidado al cuidador y comportamientos seguros tanto con docentes como AEC y NNA. ​
+
+•En Rancho Quemado, la infraestructura Educativa está deteriorada, construida en madera, las aulas en material están sin terminar, por lo que algunos docentes deben de dictar clases debajo de árboles o en el comedor escolar. ​
+
+•Los NNA No cuentan con espacios adecuados de recreación, ni dotación de mobiliario y elementos pedagógicos. Los pupitres han sido de donaciones de otras sedes ya usados y en regular estado. El no tener claridad a que municipio pertenece esta sede, no hay inversión de recursos desde la SED o Alcaldías.​
+
+•Necesidad de Formación a Cuidadores ante el riesgo de confinamiento para actividades en casa con los NNAJ. ​
+
+•Se requiere formación de AEC que realicen un proceso de acompañamiento con estrategias lúdicas comunitarias para los NNA tanto desplazados como receptores que ayuden a fortalecer su capacidad de resiliencia y la continuidad de las actividades escolares en acompañamiento de los docentes, en caso de presentarte otra emergencia.​
+
+•Los NNAJ que estudian en la vereda Arenales y se desplazaron,  han visto afectada su educación por la presencia de artefactos explosivos de camino a la escuela debido a la presencia de actores armados y combates en la zona, en caso de darse un retorno, se requiere hacer una sensibilización y formación en comportamiento seguros sobre este espacio.
+    [group_aa8xg30/group_tb5de96/Indicadores_Clave_005] => RESGUADRO TAGUAL LA PO 
+1.    Hay Presencia de Ataque a la Escuela de la comunidad (Acampamiento de Actores armados Legales e ilegales en la escuela y/o Camino a ella, Uso y utilización de la escuela por los actores armados, Fuego cruzado, Presencia de Artefactos explosivos en la escuela, alrededor y camino hacia ella, uso, utilización y vinculación por parte de los Actores amados de estudiantes y docentes).  NO. ​
+
+2.    Suspensión del servicio educativo de la Institución o Sede educativas afectada durante la emergencia. NO.​
+
+3.    Se identifica afectación en niños, niñas y adolescentes ante la presencia 1 ó + riesgos de protección durante la emergencia: (1) deserción y abandono escolar de los niños, niñas y adolescentes por el conflicto armado, (2) Incremento de los riesgos de uso, utilización y vinculación de los niños, niñas y adolescentes, (3) violencias basadas en género, abuso sexual y prostitución de los niños, niñas y adolescentes por el conflicto, (4) Afectación Psicosocial de los niños, niñas y adolescentes durante y después de la emergencia, (5) incidentes y/o Accidentes por artefactos explosivos (MAP-MSE-TE) en la escuela, alrededor o camino a ella.  SI ​
+
+4.    Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. SI.​
+
+5.    La escuela no cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO.​
+
+6.    La Institución Educativa cuenta con Plan de Gestión de riesgo escolar y la ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.  
+
+RANCHO QUEMADO 
+1.    Hay Presencia de Ataque a la Escuela de la comunidad (Acampamiento de Actores armados Legales e ilegales en la escuela y/o Camino a ella, Uso y utilización de la escuela por los actores armados, Fuego cruzado, Presencia de Artefactos explosivos en la escuela, alrededor y camino hacia ella, uso, utilización y vinculación por parte de los Actores amados de estudiantes y docentes).  NO. ​
+
+2.    Suspensión del servicio educativo de la Institución o Sede educativas afectada durante la emergencia. SI.​
+
+3.    Se identifica afectación en niños, niñas y adolescentes ante la presencia 1 ó + riesgos de protección durante la emergencia: (1) deserción y abandono escolar de los niños, niñas y adolescentes por el conflicto armado, (2) Incremento de los riesgos de uso, utilización y vinculación de los niños, niñas y adolescentes, (3) violencias basadas en género, abuso sexual y prostitución de los niños, niñas y adolescentes por el conflicto, (4) Afectación Psicosocial de los niños, niñas y adolescentes durante y después de la emergencia, (5) incidentes y/o Accidentes por artefactos explosivos (MAP-MSE-TE) en la escuela, alrededor o camino a ella.  SI ​
+
+4.    Durante la emergencia existe la necesidad construcción de 1 ó + Espacios Temporales de Aprendizaje Seguro e inclusivo. SI.​
+
+5.    La escuela no cuenta con material pedagógico, didáctico y lúdico adaptado para continuar con el servicio educativo durante la emergencia. NO.​
+
+6.    La Institución Educativa cuenta con Plan de Gestión de riesgo escolar y la ruta de respuesta durante la emergencia (simulacro de fuego cruzado, punto de encuentro ante emergencias, ruta de información a cuidadores y autoridades locales de educación). NO.
+    [group_aa8xg30/BrechasInformacion] => CASH: 
+
+Las tiendas que se identificaron en el resguardo Tagual La Po son pequeñas y con una capacidad baja de abastecimiento. Las personas de esta comunidad manifestaron que compran los alimentos y productos en la cabecera municipal de Segovia. Por lo general los mandan a traer en la línea de transporte que hace el recorrido hacia las veredas todos los días. Cuando toman la línea de transporte esta tiene un costo de 30 mil pesos por trayecto (60 mil ida y regreso). También dijeron que existen algunas tiendas en la comunidad de Las Guaguas ubicada a aproximadamente 30 minutos del resguardo. Sin embargo, durante la ERN no visitamos este lugar y no fue posible corroborar las capacidades del mercado.  
+
+La vereda de Rancho Quemado se declaró Refugio Humanitario después de haber acogido a las comunidades de Arenales y Las Guaguas que se vieron afectadas por el desplazamiento forzado. En Rancho Quemado se evidencia una población mediana en donde hay mayor acceso al mercado. Tanto la población de Rancho Quemado como las personas refugiadas se abastecen en los almacenes de la vereda. En la observación directa se evidenciaron tiendas, graneros, almacenes de ropa, panaderías y restaurantes. Este mercado tiene una capacidad de abastecimiento para cubrir la demanda de la población desplazada y una oferta variada de bienes y servicios. Estas tiendas se abastecen de Medellín y Segovia, y en el momento se encuentran abiertas y operando con normalidad. 
+
+ 
+
+Figura 1: Mapa de Acceso y Capacidad del Mercado en Tagual La Po y Rancho Quemado 
+
+El traslado en las carreteras hacia Segovia y otras veredas del municipio puede verse impactado por las malas condiciones en que se encuentra y por el control territorial de los GANE que en ocasiones colocan puestos de control. En este momento, la comunidad Emberá del resguardo Tagual La Po se encuentra confinada, por lo que no pueden acceder a sus medios de vida. Esta ha sido la principal barrera de esta para poder acceder al mercado y conseguir bienes y servicios de primera necesidad, tanto para la comunidad de Tagual, como para las personas desplazadas en el Refugio Humanitario de Rancho Quemado. 
+
+Al utilizar las herramientas de análisis de mercados, riesgos y observación directa se pudo determinar que en las veredas de Segovia no hay condiciones para poder llevar a cabo una distribución de CASH de manera exitosa. El mercado en la cabecera municipal tiene capacidad de abastecimiento, comercios grandes y operadores de giros. Sin embargo, estas comunidades se encuentran apartadas de esta y movilizarse hacia la misma implica costos y riesgos especialmente a los relacionados a la presencia de los GANE. Algunos miembros de la comunidad manifiestan haber recibido señalamientos por parte de los grupos, por lo que no pueden salir tranquilamente de su territorio. En Rancho Quemado se evidencio un mercado mediano con buenas capacidades y diversidad de productos. Sin embargo, en la observación directa no se identificaron proveedores de giros para distribución de CASH. Además, las comunidades desplazadas y refugiadas en Rancho Quemado están siendo atendidas en este momento por la institucionalidad con paquetes de alimentos, kit de higiene y kit de hábitat. 
+
+La principal barrera que han encontrado estas comunidades para acceder al mercado es la falta de acceso al trabajo y medios de vida, por lo cual no cuentan con recursos económicos para adquirir bienes y servicios. En el caso de las comunidades desplazadas en Rancho Quemado, las necesidades básicas están siendo atendidas por la institucionalidad. Debido a que las ayudas se han concentrado en esta población desplazada, la comunidad confinada en el Resguardo Tagual La Po aún no ha sido atendida y presenta necesidades persistentes. Sin embargo, no se ve viable atenderlas por medio de CASH pues su acceso a la cabecera municipal de Segovia implica costos y riesgos que es recomendable mitigar y evitar antes de hacer entregas por transferencias monetarias.
+    [group_aa0qz67/group_ys9jk69/a_N_mero_de_Personas_de_la_Comunidad] => 150
+    [group_aa0qz67/group_ys9jk69/b_N_mero_de_Lider_JAC] => 15
+    [group_aa0qz67/group_ys9jk69/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_aa0qz67/group_ys9jk69/d_N_mero_de_persona_Consejos_Ind_genas] => 10
+    [group_aa0qz67/group_ys9jk69/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_aa0qz67/group_ys9jk69/f_N_mero_de_Secretarios_Municipales] => 5
+    [group_aa0qz67/group_ys9jk69/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_aa0qz67/group_zf1xv45/_1a_Nombre] => JESSICA TIRADO
+    [group_aa0qz67/group_zf1xv45/_1d_Celular] => 3024456945
+    [group_aa0qz67/group_zf1xv45/_1e_Instituci_n_Orga_mo_al_que_representa] => SECRETARIA DE GOBIERNO DE LA ALCADIA MUNICIPAL
+    [group_aa0qz67/group_by3wp07/_2a_Nombre] => EMIRO
+    [group_aa0qz67/group_by3wp07/_2d_Celular] => 3206234960
+    [group_aa0qz67/group_by3wp07/_2e_Instituci_n_Orga_mo_al_que_representa] => GOBERNADOR DEL RESGUARDO TAGUAL LA PO
+    [group_aa0qz67/group_de0zc49/_3a_Nombre] => DELFINA
+    [group_aa0qz67/group_de0zc49/_3d_Celular] => 3225317493
+    [group_aa0qz67/group_de0zc49/_3e_Instituci_n_Orga_mo_al_que_representa] => LIDER DE RANCHO QUEMADO
+    [group_sp7cc00/Observaciones_adicionales] => Observaciones
+    [__version__] => vGoELZTpfnYhi3GMRjATp6
+    [meta/instanceID] => uuid:1dc79990-864d-47b7-af53-c18c1e83d646
+    [_version_] => v8kVb9gWRnLVYdhncFfQe3
+    [_version__001] => vm7gPiiAeeJNw5iguxxQHy
+    [_version__002] => vgpcMtawprLe3Zm9uPKBhM
+    [_xform_id_string] => aCZ9DfhLrtUETS2GvRDtRm
+    [_uuid] => 1dc79990-864d-47b7-af53-c18c1e83d646
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-07-21T02:43:52
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

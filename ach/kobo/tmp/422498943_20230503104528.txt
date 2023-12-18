@@ -1,0 +1,146 @@
+stdClass Object
+(
+    [_id] => 422498943
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-05-03T08:00:29.098-05:00
+    [end] => 2023-05-03T10:43:45.589-05:00
+    [group_kp1mu41/_1_C_digo] => ANRE-530.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-03-30
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2023-01-09
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-03-03
+    [group_kp1mu41/_4_Departamento] => ANTIOQUIA
+    [group_kp1mu41/ANTIOQUIA] => REMEDIOS
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Comunidades Carrizal, Puna, Cristalina, Lejanías, Mulatos, Tamar Alto, Altos de Manila y Mosquito Do
+    [group_kp1mu41/num_comunidades] => 8
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => Comunidades atendidas por estar en situación de riesgo, la ruta no fue activada por la institucionalidad
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Jessica Rangel
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3232342745
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_VBG R1_Proteccion_PR R.2_EeE R3_Shelter R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2023-01-09
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2023-01-17
+    [group_wo86e58/group_hc3sa85/vacios_icla] => N/A
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2023-01-09
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2023-01-17
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-11/Evaluación_de_riesgos 2-R1-1.3-5-12/Asesoramiento_jurídico 2-R1-1.3-5-13/Apoyo_psicosocial_(individ
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2023-01-09
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2023-01-17
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => N/A
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2023-01-09
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2023-01-17
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => N/A
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => N/A
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-12-1/Provisión_de_soluciones_de 4-R3-3.1-13-2/Entrega_de_artículos_para_
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2023-01-09
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2023-01-17
+    [group_wo86e58/group_zh0iq17/Vacios_SHELTER] => N/A
+    [group_wo86e58/group_zh0iq17/Recomendaciones_SHELTER] => N/A
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.1-16-1-Entrega_kits_agua 2-R4-4.1-16-2-Rehabilitaciones_agua 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2023-01-09
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2023-01-17
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => N/A
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => N/A
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2023-01-09
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2023-01-17
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => N/A
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => N/A
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2023-01-09
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2023-01-17
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => N/A
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => N/A
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => Espacios de información en normatividad vigente política pública de atención a víctimas (Ley 1448) en  grupos con 198 jefaturas de hogar. Asimismo se realizo espacios de orientación legal a 12 personas y 4 de ellas asistidas legalmente.
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => Espacios de sensibilización sobre identificación del riesgo, amenazas, vulnerabilidades en contextos de conflicto armado; así como, mecanismos de autoprotección y rutas colectivas e individuales de protección institucional
+    [group_of2sk15/group_cf63e32/_4_Provisi_n_de_respuesta_y_seguimiento_a_casos_de_riesgo_o_sobrevivientes_de_VBG_ApS] => Sensibilizaciones para la identificación de las distintas VBG en contexto familiar, individual, comunitario y de conflicto armado; así como, las rutas de protección para personas víctimas y sobrevivientes de VBG
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => En el aspecto individual, se identificaron, asesoraron jurídica y psicológicamente a personas en riesgo dado su liderazgo y labor de defensa en el territorio; así como, a mujeres victimas de VBG a fin de apoyar para su reubicación fuera de la zona de riesgo
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Se realizó entrega de 698 kits de destinación y uso del tiempo libre a NNAJ de las comunidades de Carrizal, Puna, Cristalina, Lejanías, Mulatos, Tamar Alto, Altos de Manila y Mosquito Do.
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => 698 NNAJ fueron sensibilizados en comportamientos seguros, especialmente que hacer en medio de fuego cruzado y se les reforzo sus conocimientos sobre ERM, debido al riesgo por presencia de artefactos explosivos en estas comunidades
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Se realizó espacios de formación en Educación en Emergencia y construcción de Plan Educativo de Respuesta a Emergencia a 22 Agentes Educativos Comunitarios y 2 docentes de las comunidades de Púna, Lejanías, Cristalina y Tamar, cada uno con entrega de su respectivo Kit docente, a su vez se realizo entrega de kit para los 11 docentes de Carrizal no logro realizar espacio de formación.
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => entrega de 35 kits docentes
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => Se entregaron 6 maletas pedagógicas en las comunidades de Púna, Lejanías, Cristalina, Mulatos y Carrizal, se dejo la maleta de Manila para ser recogida por el líder y monitorear de manera remota.
+    [group_of2sk15/group_qw7se20/_11_Provisi_n_de_soluciones_de_refugio_temporal_colectivo_o_individual_NRC] => Entrega de un kit de alojamiento temporal a una familia priorizada en Puna
+    [group_of2sk15/group_qw7se20/_12_Entrega_de_art_culos_dom_sticos_que_salvan_vidas_NRC] => Entrega de un kit de hábitat en Púna para una familia
+Entrega de 11 kits de hábitat a familias priorizadas en la comunidad de Lejanías.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => Se realizo entrega de filtros de agua, fueron distribuidos de la siguiente manera: 
+Cristalina: 3 filtros (para la escuela)
+Lejanías: 3 filtros (Para la escuela)
+Altos de Puna: 45 filtros, queda pendiente la entrega de 5
+Mulatos: 64 filtros
+Altos Manila: 170 filtros
+Tamar Alto: 45 filtros
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => Adecuaciones al sistema de captación de agua de la escuela llano de córdoba, sede Lejanías
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Se realizo entrega de filtros de agua, fueron distribuidos de la siguiente manera: 
+Cristalina: 3 filtros (para la escuela)
+Lejanías: 3 filtros (Para la escuela)
+Altos de Puna: 45 filtros, queda pendiente la entrega de 5
+Mulatos: 64 filtros
+Altos Manila: 170 filtros
+Tamar Alto: 45 filtros
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Sensibilización en practicas de higiene personal, familiar y comunitaria. 
+Sensibilización en lavado de manos.
+Sensibilización en buenas practicas en manejo de agua, método de coloración.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => Se realizaron talleres de sensibilización en Seguridad Alimentaria y buenos hábitos, estos espacios de formación se desarrollaron de manera articulada con el sector WASH.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => Se efectuó la entrega de 500 paquetes alimentarios, solventando las necesidades en seguridad alimentaria de familias de las comunidades de Puna, Cristalina, Mulatos, Altos de Manila y Tamar Alto
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Atenciones salud física, Entrega de Medicamentos, Atenciones Individuales Salud Mental, Talleres grupales Psicología, Atenciones VBG, Atenciones de Violencia sexual, Evacuaciones de urgencia, Asesoría en IVE. En las comunidades Carrizal, Cristalina, Mulatos, con punto de atención en Carrizal
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => Atenciones salud física, Entrega de Medicamentos, Atenciones Individuales Salud Mental, Talleres grupales Psicología, Atenciones VBG, Atenciones de Violencia sexual, Evacuaciones de urgencia, Asesoría en IVE. En las comunidades Carrizal, Cristalina, Mulatos, con punto de atención en Carrizal
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Atenciones salud física, Entrega de Medicamentos, Atenciones Individuales Salud Mental, Talleres grupales Psicología, Atenciones VBG, Atenciones de Violencia sexual, Evacuaciones de urgencia, Asesoría en IVE. En las comunidades Carrizal, Cristalina, Mulatos, con punto de atención en Carrizal
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Atenciones salud física, Entrega de Medicamentos, Atenciones Individuales Salud Mental, Talleres grupales Psicología, Atenciones VBG, Atenciones de Violencia sexual, Evacuaciones de urgencia, Asesoría en IVE. En las comunidades Carrizal, Cristalina, Mulatos, con punto de atención en Carrizal
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_NNAJ] => no se identificó necesidades
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => no se identificó necesidades
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => NO
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => Suspensión de actividades debido a las no condiciones de seguridad para el equipo en terreno
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => recomendaciones y directriz del procedimiento a seguir por parte de los equipos de seguridad y directivos del consorcio
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Luisa - secretaria de gobierno
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3023899364
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Alcaldía de Remedios
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:2846a23c-7c36-423d-8935-e20d7f1a3bd8
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 2846a23c-7c36-423d-8935-e20d7f1a3bd8
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-03T15:43:57
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

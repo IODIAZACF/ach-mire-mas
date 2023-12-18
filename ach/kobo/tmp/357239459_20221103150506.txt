@@ -1,0 +1,87 @@
+stdClass Object
+(
+    [_id] => 357239459
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2022-11-03T12:39:07.033-05:00
+    [end] => 2022-11-03T15:03:22.928-05:00
+    [group_gu1lq88/Departamento] => ANTIOQUIA
+    [group_gu1lq88/municip_antioquia] => REMEDIOS
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => (El Piñal, Tamar Alto, Panamá Nueve, Altos de Manila, Cañaveral, El Carmen, Carrizal y La Cristalina
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin Información
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2022-11-03
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => RESTRICC_MOV
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM MINAS PRESENCIA_GAI RECLUTAMIENTO OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => Amenazas
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Familias: 5.000
+Personas: 10.000
+Desde septiembre de 2021, la presencia y hostilidades entre grupos armados no estatales (GANE) han resultado en severas restricciones al acceso a bienes y servicios básicos de la población civil en 8 veredas del municipio de Remedios (El Piñal, Tamar Alto, Panamá Nueve, Altos de Manila, Cañaveral, El Carmen, Carrizal y La Cristalina). Al menos 10.000 personas enfrentan restricciones en el acceso a salud (agravado por ataques contra misión médica), justicia, elementos de aseo, y alimentación (debido a las extorsiones realizadas a los transportadores de alimentos, resultando en un aumento del precio de los productos y la disminución de porciones consumidas al día).
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/03112022_restricciones_a_bienes_y_servicios_en_remedios_antioquia_vf.pdf
+    [group_yv1ph08/time2] => 2022-09-15
+    [group_yv1ph08/time3] => 49
+    [group_yv1ph08/evidencia] => proteccion educacion wash san salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 5000
+    [group_cn9za51/personas] => 10000
+    [group_cn9za51/comu] => 8
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => El 17 de octubre, la Unidad para las Víctimas (UARIV) y OCHA ingresaron a la zona para verificar la situación humanitaria en las 8 veredas, con el fin de visibilizar las necesidades ante el nivel nacional y planear una respuesta a las necesidades encontradas.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 10 de junio se realizó un Comité Territorial de Justicia Transicional (CTJT) en el municipio de Remedios, donde asistieron la Alcaldía municipal de Remedios, la UARIV, entre otras instituciones. En este espacio se expusieron las afectaciones por los constantes combates y enfrentamientos en la zona. Durante este CTJT se concluyó que el concepto de seguridad de la zona es desfavorable, por lo cual las instituciones del Estado tienen acceso limitado. Se acordó realizar capacitaciones a líderes sociales en rutas de atención con el fin de garantizar que las declaraciones sean realizadas y así poder activar los mecanismos de respuesta pertinentes. El 9 de septiembre se realizó un Subcomité de Prevención, Protección y Garantías de No Repetición (SPPGNR) donde participó el ELC de Antioquia, la Gobernación de Antioquia, alcaldías municipales de El Bagre, Segovia, Remedios y Valdivia para alertar sobre la situación de seguridad en los 4 municipios. Se resaltó que las Alcaldías tienen alertas de posibles desplazamientos masivos en Segovia y Remedios, por lo cual las instituciones se están organizando y tomando medidas para la organización de albergues.
+    [group_mu9ho06/Logisitica] => Debido a la falta de censos desagregados de la población, a causa de las restricciones de acceso en la zona impuestas por los GANE, la comunidad aún presenta necesidades insatisfechas en los sectores de Protección, Salud, SAN y WASH.
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3--https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/03112022_restricciones_a_bienes_y_servicios_en_remedios_antioquia_vf.pdf+ERN*FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:916df2f2-d7a0-4444-b86a-de6301c9db83
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 916df2f2-d7a0-4444-b86a-de6301c9db83
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-11-03T20:03:34
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

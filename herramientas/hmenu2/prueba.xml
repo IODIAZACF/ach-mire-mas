@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+
+<tabla>
+  <registro>
+    <ROTULO>[P]rueba</ROTULO>
+    <ITEM>
+      <ROTULO>Prueba 11</ROTULO>
+      <POSICION>1</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes</URL>
+      <TARGET>CONTENIDO</TARGET>
+      <ICONO>antorcha.gif</ICONO>
+    </ITEM>
+    <ITEM>
+      <ROTULO>Prueba 12</ROTULO>
+      <POSICION>2</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes2</URL>
+      <TARGET>CONTENIDO</TARGET>
+    </ITEM>
+  </registro>
+  <registro>
+    <ROTULO>[P]rueba 2</ROTULO>
+    <ITEM>
+      <ROTULO>Prueba 21</ROTULO>
+      <POSICION>1</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes</URL>
+      <TARGET>CONTENIDO</TARGET>
+      <ITEM>
+        <ROTULO>Prueba 211</ROTULO>
+        <POSICION>1</POSICION>
+        <URL>main/main.php?origen=maestros/m_clientes</URL>
+        <TARGET>CONTENIDO</TARGET>
+      </ITEM>
+      <ITEM>
+        <ROTULO>Prueba 212</ROTULO>
+        <POSICION>2</POSICION>
+        <URL>main/main.php?origen=maestros/m_clientes2</URL>
+        <TARGET>CONTENIDO</TARGET>
+
+        <ITEM>
+          <ROTULO>Prueba 11</ROTULO>
+          <POSICION>1</POSICION>
+          <URL>main/main.php?origen=maestros/m_clientes</URL>
+          <TARGET>CONTENIDO</TARGET>
+        </ITEM>
+        <ITEM>
+          <ROTULO>Prueba 12</ROTULO>
+          <POSICION>2</POSICION>
+          <URL>main/main.php?origen=maestros/m_clientes2</URL>
+          <TARGET>CONTENIDO</TARGET>
+
+          <ITEM>
+            <ROTULO>Prueba 11</ROTULO>
+            <POSICION>1</POSICION>
+            <URL>main/main.php?origen=maestros/m_clientes</URL>
+            <TARGET>CONTENIDO</TARGET>
+          </ITEM>
+          <ITEM>
+            <ROTULO>Prueba 12</ROTULO>
+            <POSICION>2</POSICION>
+            <URL>main/main.php?origen=maestros/m_clientes2</URL>
+            <TARGET>CONTENIDO</TARGET>
+          </ITEM>
+        </ITEM>
+
+      </ITEM>
+    </ITEM>
+    <ITEM>
+      <ROTULO>Prueba 22</ROTULO>
+      <POSICION>2</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes2</URL>
+      <TARGET>CONTENIDO</TARGET>
+      <ITEM>
+        <ROTULO>Prueba 221</ROTULO>
+        <POSICION>1</POSICION>
+        <URL>main/main.php?origen=maestros/m_clientes</URL>
+        <TARGET>CONTENIDO</TARGET>
+      </ITEM>
+      <ITEM>
+        <ROTULO>Prueba 222</ROTULO>
+        <POSICION>2</POSICION>
+        <URL>main/main.php?origen=maestros/m_clientes2</URL>
+        <TARGET>CONTENIDO</TARGET>
+              <ITEM>
+	            <ROTULO>Prueba 321</ROTULO>
+	            <POSICION>1</POSICION>
+	            <URL>main/main.php?origen=maestros/m_clientes</URL>
+	            <TARGET>CONTENIDO</TARGET>
+	          </ITEM>
+	          <ITEM>
+	            <ROTULO>Prueba 322</ROTULO>
+	            <POSICION>2</POSICION>
+	            <URL>main/main.php?origen=maestros/m_clientes2</URL>
+	            <TARGET>CONTENIDO</TARGET>
+	          </ITEM>
+      </ITEM>
+
+    </ITEM>
+
+    <ITEM>
+      <ROTULO>Prueba 11</ROTULO>
+      <POSICION>1</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes</URL>
+      <TARGET>CONTENIDO</TARGET>
+    </ITEM>
+
+    <ITEM>
+      <ROTULO>Prueba 11</ROTULO>
+      <POSICION>1</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes</URL>
+      <TARGET>CONTENIDO</TARGET>
+    </ITEM>
+
+  </registro>
+
+  <registro>
+    <ROTULO>[P]rueba</ROTULO>
+    <ITEM>
+      <ROTULO>Prueba 11</ROTULO>
+      <POSICION>1</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes</URL>
+      <TARGET>CONTENIDO</TARGET>
+    </ITEM>
+  </registro>
+
+    <registro>
+    <ROTULO>[P]rueba</ROTULO>
+    <ITEM>
+      <ROTULO>Prueba 11</ROTULO>
+      <POSICION>1</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes</URL>
+      <TARGET>CONTENIDO</TARGET>
+    </ITEM>
+  </registro>
+
+    <registro>
+    <ROTULO>[P]rueba</ROTULO>
+    <ITEM>
+      <ROTULO>Prueba 11</ROTULO>
+      <POSICION>1</POSICION>
+      <URL>main/main.php?origen=maestros/m_clientes</URL>
+      <TARGET>CONTENIDO</TARGET>
+    </ITEM>
+  </registro>
+</tabla>

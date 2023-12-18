@@ -1,0 +1,129 @@
+stdClass Object
+(
+    [_id] => 388037135
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-01-27T08:03:12.809-05:00
+    [end] => 2023-01-27T11:23:10.646-05:00
+    [group_kp1mu41/_1_C_digo] => CHSI.187
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-01-27
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-08-30
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-09-12
+    [group_kp1mu41/_4_Departamento] => CHOCO
+    [group_kp1mu41/CHOCO] => SIPI
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Medio San Juan
+    [group_kp1mu41/num_comunidades] => 7
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => SAN AGUSTIN, BUENAS BRISAS, CAÑAVERAL, CHARCO HONDO, CHARCO LARGO, BARRANCON Y BARRANCONCITO
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Erika Torres
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3213260846
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_PR R1_Proteccion_NNAJ R.2_EeE R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-09-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-09-12
+    [group_wo86e58/group_hc3sa85/vacios_icla] => N/A
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-12/Asesoramiento_jurídico
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2022-09-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2022-09-12
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => N/A
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i4] => 2-R1-1.4-7-22/NNJ_con_orientación_o_ases
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_NNAJ] => 2022-09-11
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_NNAJ] => 2022-09-12
+    [group_wo86e58/group_hc3sa85/Vacios_NNAJ] => N/A
+    [group_wo86e58/group_hc3sa85/Recomendaciones_NNAJ] => N/A
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.2-9-3/Sesiones_de_formación_para_
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-09-11
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-09-12
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => N/A
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => N/A
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental 3-R6-6.2-26-4/Asesoramiento_y_sesiones_a 3-R6-6.3-27-5/Identificación_y_asistenci
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2022-08-31
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2022-09-12
+    [group_wo86e58/group_ei4fm80/Vacios_SALUD] => N/A
+    [group_wo86e58/group_ei4fm80/Recomendaciones_SALUD] => N/A
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de atención de emergencia por confinamiento en Sipí - Chocó, desde la competencia ICLA se realizó estrategia jurídico-pedagógica para el conocimiento, acceso, exigibilidad derechos y activación administrativa de asistencia y atención de población víctima del conflicto armado, así mismo se realizó asistencia y orientación a la población víctima del conflicto. 
+
+●	Estrategia Jurídico-pedagógica para el conocimiento, acceso y exigibilidad de derechos de población víctima del conflicto armado. 
+
+Se realizó taller formativo en la comunidad de San Agustín sobre la ley 1448 de 2011, decretos étnicos, y mecanismos de exigibilidad derechos fundamentales, orientado a la identificación de riesgos en el marco del conflicto armado, rutas de atención e instituciones responsables de la asistencia y atención de la población. Dicho taller contó con la asistencia de 16 hombres y 14 mujeres para un total de 30 personas.
+
+●	Asistencia y Orientación Legal
+
+En respuesta a emergencia por confinamiento se identificaron personas con necesidades jurídicas, a las que se les ha brindado asistencia y orientación legal conforme los riesgos y necesidades de protección identificadas. Dichas asistencias fueron orientadas en la solicitud de asistencia humanitaria para la protección derechos y satisfacción de necesidades relacionadas con seguridad alimentaria, y rehabilitación. Se asisitieron legalmente a 3 personas.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => Articulación con Personería municipal y enlace de víctimas para brindar respuesta a la población y posible remisión de casos.
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => Dentro de las respuesta que se brinda a la emergencia, se realizan actividades jurídicas desde un enfoque etnoterritorial, logrando identificar las necesidades de protección de aquellos líderes y lideresas que por su rol dentro de la comunidad enfrentan algún tipo de riesgo por parte de los actores armados presentes en el territorio. Se hace necesario dar a conocer la normatividad colombiana vigente que permita la garantía de protección real y efectiva de sus derechos. Una vez abordado el tema frente a la normatividad, se da a conocer las rutas de atención institucional, las medidas de protección que se establece para garantizar las estabilidad de las personas en las comunidades y de las mismas comunidades. A su vez, se brinda información sobre mecanismo de exigibilidad de derechos, por medio de los cuales pueden acudir a los entes territoriales para proteger sus derechos.Beneficiando a 30 personas con esta actividad.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Se realizó taller de educación en emergencias en 2 módulos (Conceptos básicos EiE y práctica pedagógica y comunitaria en la emergencia aguda) con 1 docente y 4 agentes educativos comunitarios de la comunidad de San Agustín.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => El objetivo de las atenciones se centró en generar respuesta integral en salud física para manejo de morbilidades complementarias derivadas de la emergencia y en propiciar espacios de consulta individual y colectiva para el acceso y mejoría de síntomas de salud mental derivados de la crisis por conflicto armado.Las atenciones se llevaron a cabo entre el 31 de agosto y el 12 de septiembre en las comunidades de Charco Largo (01/09/22 – 07/09/22) y San Agustín (10/09/22 – 12/09/22). Para esta atención fueron priorizadas 7 comunidades para la atención integral en salud mental y salud física: Charco Largo, Barrancón, Charco Hondo, San Agustín, Buenas Brisas, Cañaveral, Barranconcito. 
+El municipio de Sipí, en sus zonas rurales, presenta grandes retos en cuanto a servicios de salud oportunos y de calidad, situaciones que se ven empeoradas en el marco del conflicto armado y contexto social del municipio. Se observa que la mayoría de población no cuenta con acceso real a servicios de consulta externa, situación todavía más crítica en cuanto a acceso a servicios de mayor complejidad, control de las enfermedades crónicas, controles prenatales oportunos y control de crecimiento y desarrollo infantil. Entre las principales causas de consulta, se encontraron: anemia, lumbago, hipertensión arterial, infección aguda de vías aéreas bajas, mialgia y cefalea. Muchos de estos síntomas secundarios a situaciones de orden emocional/psicológico en el marco del conflicto armado. Se alcanzó un total de 871 personas.
+    [group_of2sk15/group_ix45j17/Entrega_de_medicamentos] => Se entregaron medicamentos a la mayoría de personas atendidas por los médicos (861 medicamentos entregados en total) de acuerdo al diagnóstico realizado en la consulta de atención primaria en salud
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Las nuevas dinámicas del conflicto armado que se observan por presencia de grupos armados legales e ilegales como confinamiento, desplazamiento, presencia de artefactos explosivos, minas antipersona, munición sin explotar, enfrentamientos, hostigamientos o simplemente el miedo entre otros hacen que las personas de las comunidades sufran de múltiples afecciones psicopatológicas y diagnósticos como: otros problemas psicológicos: con el 46.7 % de las personas atendidas  en las diferentes comunidades que corresponden a trastornos del estado de ánimo, desadaptación social, problemas comportamentales, todo esto está ligado al dolor, la perdida el temor, rabia ,resentimiento, el agotamiento la frustración que sienten las personas y manifiestan en la sesiones individuales .  Se brindó atención a 225 personas.
+    [group_of2sk15/group_ix45j17/Sesiones_de_asesoramiento_y_b_squeda_activa_de_casos] => Los talleres de psicología fueron priorizados según las necesidades expresadas por la comunidad estudiantil, por los lideres y lideresas de las comunidades visitadas y según los casos vistos en la intervención individual.184 en total.
+    [group_of2sk15/group_ix45j17/Identificaci_n_y_asistencia_a_v_ctimas_de_VBG] => Los casos fueron atendidos tanto por equipo de salud física como de salud mental, de los cuales, destacamos 1 caso de violencia sexual >72 horas. 141 en total.
+    [group_of2sk15/group_jz0qt48/R1_Sin_respuesta_VBG] => Debido a la situación de seguridad, no fue posible realizar los espacios que se habían planteado en este aspecto.
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => No se evidenciaron necesidades que demandaran atención
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASH] => No se evidenciaron necesidades que demandaran atención
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No se evidenciaron necesidades que demandaran atención
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SAN] => No se evidenciaron necesidades que demandaran atención
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Personería municipal
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Articulación con  Personería municipal y enlace de víctimas para brindar respuesta a la población y posible remisión de casos.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => Enfrentamientos en las comunidades cercanas que dificultaron el desarrollo de las actividades.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => Evacuación de equipo y articulación con entidades territoriales.
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Nivel del río y traslado en botes de poca capacidad
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Verificar información con las comunidades
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 1400
+    [group_kq5co41/group_zo3ck85/b_N_mero_de_Lider_JAC] => 1
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 0
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 0
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 0
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 1
+    [group_kq5co41/group_zo3ck85/g_N_mero_de_Secretarios_Departamentales] => 0
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 1
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 1400
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => Seguey Palacios
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3103205794
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Personería municipal Sipí
+    [group_ek1nq87/Observaciones] => Repuesta a las necesidades brindada de manera integral y coordinada.
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:f9a64f75-131a-4ee0-8b08-bb2b5ae2d15b
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => f9a64f75-131a-4ee0-8b08-bb2b5ae2d15b
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-01-27T16:23:16
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

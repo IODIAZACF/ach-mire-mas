@@ -1,0 +1,84 @@
+stdClass Object
+(
+    [_id] => 386660115
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-01-24T10:34:34.325-05:00
+    [end] => 2023-01-24T10:50:13.989-05:00
+    [group_gu1lq88/Departamento] => ARAUCA
+    [group_gu1lq88/ARAUCA] => PUERTO_RONDON
+    [group_gu1lq88/Otros_Municipios] => Arauquita
+    [group_gu1lq88/Vereda] => Lejanias, El Ripial y El Progreso
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin Información
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-01-24
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => MINAS PRESENCIA_GAI RECLUTAMIENTO
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Durante enero de 2023 se han reportado nuevos enfrentamientos entre GANE en zona rural de Puerto Rondón, afectando las veredas de El Ripial, La Esmeralda, Normandía, El Paisaje y El Progreso, generando confinamiento y desplazamientos individuales, dada la presencia de los GANE en medio de los territorios comunitarios. sta situación ha generado graves afectaciones intersectoriales a la población: por un lado, al menos 71 niños y niñas se encuentran sin acceso a educación, bien sea por la continua presencia y control de los GANE o los enfrentamientos entre éstos. También se reporta un fuerte control de los GANE a la población civil por medio de requisas, retenes ilegales, instalación de minas, reclutamiento, uso y vinculación, entre otras prácticas que infringen el Derecho Internacional Humanitario. 
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/1._01172023_alerta_por_confinamientos_en_puerto_rondon_b2b_vf_1.pdf
+    [group_yv1ph08/time2] => 2023-01-13
+    [group_yv1ph08/time3] => 11
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 320
+    [group_cn9za51/personas] => 981
+    [group_cn9za51/comu] => 7
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => En el Comité de Justicia Transicional el 13 de enero la institucionalidad activó las rutas de acción para brindar respuesta a las personas confinadas y desplazadas en Puerto Rondón y Arauquita. Aún no se ha establecido una ruta de acción para personas refugiadas y migrantes.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => El 13 de enero se sostuvo reunión bilateral con la UARIV y la Gobernación para verificar y coordinar el apoyo complementario de la cooperación internacional
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:bf7f046e-d714-43fb-adba-89d5ebeecad2
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => bf7f046e-d714-43fb-adba-89d5ebeecad2
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-01-24T15:50:26
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

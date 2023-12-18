@@ -1,0 +1,225 @@
+stdClass Object
+(
+    [_id] => 356490417
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2022-11-01T15:08:21.069-05:00
+    [end] => 2022-11-01T18:46:05.156-05:00
+    [group_kp1mu41/_1_C_digo] => CHEL-461.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2022-11-01
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-06-05
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2022-10-28
+    [group_kp1mu41/_4_Departamento] => CHOCO
+    [group_kp1mu41/CHOCO] => EL_LITORAL_DEL_SAN_JUAN
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Puerto España-Mira Mar, Isla Mono, Garcia Gomez, Isla Bello, Buenavista, Agua Clara, Guarataco, San Bernardo, Burujon, Las Palmas, Papayo, Chachajo, Cabecera, Puerto Pizario, Puerto Guadualito, Union San Juan, Vista Alegre, Nuevo Pitalito, Chamapuro, Malaguita, el Choncho y Cerrito Bongo
+    [group_kp1mu41/num_comunidades] => 24
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => ALGUNA
+    [group_kp1mu41/_8_Comunidad] => Puerto España-Mira Mar, Isla Mono, Garcia Gomez, Isla Bello FUD CK000440085 , Buenavista FUD CI000442472, Agua Clara, Tiocilidio FUD CJ000442462, Santa Rosa de Nalde fUD CJ000442471, Guarataco FUD CJ000440086, San Bernardo FUD CG00443068, Burujón fUD CI000440087,  Las Palmas, Papayo, Chachajo, Cabecera, Puerto Pizario, Puerto Guadualito, Union San Juan, Vista Alegre, Nuevo Pitalito, Chamapuro, Malaguita, el Choncho y Cerrito Bongo
+    [group_kp1mu41/Urbano_Rural] => rural
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Wendy Meliza Carabali Gonzalias
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Consejo_Noruego_para_Refugiados_NRC
+    [group_qd4az23/_1d_Celular] => 3228809070
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_VBG R1_Proteccion_PR R1_Proteccion_NNAJ R.2_EeE R3_Shelter R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid R6_Salud
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC 5-R1-1.1-2-2_Prestacion_de_apoyo_directo_a_las_autoridades__NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-06-05
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-10-21
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-5/Apoyo_psicosocial_(individu 2-R1-1.2-4-6/Orientación_jurídica_o_ases 2-R1-1.2-4-7/Entrega_de_kits_de_dignidad 2-R1-1.2-4-8/VBG_-_Entrega_de_efectivo 2-R1-1.2-4-9/Remisión_a_otras_institucio
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2022-06-05
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2022-08-12
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-12/Asesoramiento_jurídico
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2022-06-05
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2022-08-12
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-06-05
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2022-10-28
+    [group_wo86e58/group_zh0iq17/R3_Actividades_SHELTER] => 4-R3-3.1-12-1/Provisión_de_soluciones_de 4-R3-3.1-13-2/Entrega_de_artículos_para_
+    [group_wo86e58/group_zh0iq17/Fecha_de_ingreso_NRC_SHELTER] => 2022-06-05
+    [group_wo86e58/group_zh0iq17/Fecha_de_salida_NRC_SHELTER] => 2022-06-16
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.5-21-7a-Medidas_lavado_de_manos 3-R5-4.6-22-7b-Distribución_de_KIT_WASH_
+    [group_wo86e58/group_sh9cv64/Fecha_de_ingreso_APS_WASH] => 2022-06-05
+    [group_wo86e58/group_sh9cv64/Fecha_de_salida_APS_WASH] => 2022-08-12
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2022-07-06
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2022-07-19
+    [group_wo86e58/group_ei4fm80/R6_Actividades] => 3-R6-6.1-24-1/Consultas_de_atención_prim 3-R6-6.1-25-2/Entrega_de_medicamentos 3-R6-6.2-26-3/Consultas_de_salud_mental
+    [group_wo86e58/group_ei4fm80/Fecha_de_ingreso_MdM_R6] => 2022-06-06
+    [group_wo86e58/group_ei4fm80/Fecha_de_salida_MdM_R6] => 2022-08-06
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de atención de emergencia por confinamiento y desplazamiento forzado masivo en 24 comunidades ubicadas en la zona de río grande de El Litoral del San Juan, Choco y Buenaventura, Valle del Cauca , desde la competencia ICLA se realizó estrategia jurídico pedagógica para el conocimiento, acceso, exigibilidad derechos y activación de rutas de atención administrativa de atención de población víctima del conflicto armado, así mismo se realizó asistencia y orientación a la población víctima del conflicto. 
+
+● Estrategia Jurídico pedagógica para el conocimiento, acceso y exigibilidad de derechos de población víctima del conflicto armado. 
+
+Se realizaron talleres formativos sobre mecanismos de exigibilidad derechos fundamentales, orientados a la identificación de riesgos en el marco del conflicto armado, rutas de atención e instituciones responsables de la asistencia y atención de la población. Dichos talleres contaron con la asistencia de 788 personas (404 hombres-384 mujeres).
+
+Los talleres formativos se desarrollaron bajo la temática de ruta de atención, mecanismos de exigibilidad de derechos, decretos étnicos, reparación colectiva y ley 1448 de 2011, esto con el objetivo de fomentar el conocimiento y acceso a derechos de la población víctima del conflicto armado, así como la identificación de posibles riesgos y los ya materializados. 
+Talleres que empoderan y fortalecen los roles de liderazgo de las comunidades, el afrontamiento de crisis agudas en situaciones de emergencias, capacidad de resiliencia y recuperación de la población. 
+
+● Asistencia y Orientación Legal
+
+En respuesta a emergencia por confinamiento y desplazamiento en El Litoral del San Juan se identificaron personas con necesidades jurídicas, a las que se les ha brindado asistencia y orientación legal conforme a los riesgos y necesidades de protección identificadas, orientaciones brindadas a 145 personas.  
+
+Las asistencias realizadas se enfocaron en el acceso a derechos esenciales y el reconocimientos de derechos a los que pueden acceder las victimas del conflicto armado, como lo es la asistencia humanitaria de emergencia, asistencia transitaria, el derecho a la salud y la educación. Consiguiendo de este modo el disfrute de los derechos fundamentales, dignificando la vida en condiciones adecuadas y apoyando la efectividad de la ruta administrativa de la población victima del conflicto armado.
+
+Es importante resaltar que las acciones de asistencia y orientación desarrolladas a la fecha se reportan de manera parcial, puesto que son actividades que se encuentran desarrollando hasta la actualidad. 
+
+Así mismo, se resalta que, para el desarrollo del proceso de asistencias y orientación a la población se realizó la articulación y consolidación del comité de protección del consorcio MIRE desde las competencias de ICLA NRC y Protección APS, así como la articulación con la Personería Municipal de El Litoral del San Juan.
+    [group_of2sk15/group_cf63e32/_2_Apoyo_directo_con_autoridades_para_garantizar_servicios_humanitarios_Descripci_n_Cantidad] => Se otorgo apoyo a la Personería Municipal de El Litoral del San Juan, con el objetivo de superar los obstáculos para activar la ruta de atención administrativa a la población victima de confinamiento y desplazamiento. A través del apoyo se beneficio a 2843 personas con la toma de declaración masiva de 15 comunidades.
+Del mismo modo, gracias al apoyo se realizo en cubrimiento de gastos de transporté, papelería y visibilidad de la Personería Municipal.
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => Durante la atención en la emergencia, se realizó la identificación y evaluación de treinta (30) casos de personas en riesgo de VBG. Los casos correspondieron a personas  en riesgo dada la vulneración al acceso efectivo a servicios de salud sexual y reproductiva. De igual forma, se identificaron distintas VBG hacia las mujeres que ejercen el rol de parteras tradicionales, labor que no es reconocida como un trabajo remunerado y usualmente lo asumen las abuelas y mayoras de la comunidad. En consecuencia, recae sobre ellas el costo de los insumos requeridos. Quienes, además, sufren de estigmatización y rechazo, debido a la ausencia de reconocimiento por parte del Estado y del Sistema de Seguridad Social en Salud. Adicionalmente, la falta de insumos y condiciones dado el confinamiento de la comunidad, ha implicado riesgos y antecedentes de violencia obstétrica donde mujeres, niños y niñas recién nacidas han perdido la vida como consecuencia de la falta de insumos para el tratamiento y la posterior negligencia en el servicio para el traslado a los centros médicos más cercanos.
+    [group_of2sk15/group_cf63e32/_4_Provisi_n_de_respuesta_y_seguimiento_a_casos_de_riesgo_o_sobrevivientes_de_VBG_ApS] => Se dio respuesta a los treinta (30) casos de personas en riesgo y sobrevivientes de VBG con las actividades apoyo psicosocial, orientación y asesoramiento jurídico, entrega de kits de dignidad, apoyo para CASH para protección, y remisión efectiva a otras instituciones. Adicionalmente, se realizaron actividades y sensibilizaciones orientadas a la identificación y reconocimiento de las VBG en contextos individuales, familiares, comunitarios y de conflicto armado con distintas estrategias que permitieran la reflexión sobre la normalización cultural de las mismas. Así también, se socializaron distintas estrategias para el afrontamiento de las VBG, como el fortalecimiento de las redes de apoyo y acciones individuales y colectivas de autocuidado; así, también se socializaron las rutas institucionales de protección y prevención y los canales de comunicación y recepción de casos del sector de protección del Consorcio MIRE. Estas actividades permiten la identificación de casos individuales durante la emergencia y el tiempo posterior, logrando la remisión, identificación y atención de manera prolongada en tiempo.
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => La atención e identificación de casos individuales durante la emergencia fue posible gracias a la articulación con los socios del Consorcio (MdM y NRC), así como por la articulación de líderes y lideresas comunitarios, Gobernadores, Presidentes de las Juntas de Acción Comunal (JAC) y agentes educativos de las comunidades. Además, de la identificación propia a partir de las actividades colectivas realizadas. Los casos identificados corresponden a Joven en riesgo de vinculación a los grupos armados ilegales con presencia en el territorio, líderes en riesgo por sus actividades de defensa por la permanecía en el territorio y los derechos de sus comunidades; se dio respuesta a cada uno de estos casos con las actividades de apoyo psicosocial, orientación y asesoramiento jurídico, entrega de kits de dignidad, apoyo para CASH para protección, y remisión efectiva a otras instituciones para la activación de rutas institucionales.
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Los kits de ocupación de tiempo libre, fueron entregados a cada NNA en las 23 sedes educativas de las comunidades (tanto primaria como bachillerato donde fuera el caso) atendidas durante la emergencia, en apoyo a las actividades educativas de repaso que realizan los estudiantes durante los periodos en que debido a las emergencias, suspenden clases y de esta manera, a través de las cartillas de "LEO Y ESCRIBO" y "APRENDIENDO A CUIDARME", apoyar la educación y fomentar el autocuidado de manera didactica y divertida, mejorando así, su bienestar emocional. Otros elementos como el botilito, la mandala y los colores, acompañan igualmente este fin.
+Total kits entregados: 1761
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Se realizaron sesiones de aproximadamente dos horas por grupo de NNA atendidos, dividiendolos por grado escolar y teniendo en cuenta los principales riesgos de protección a los que se ven expuestos debido a la emergencia y presencia de grupos armados en el territorio como: Manejo y expresión de emociones, Paz y convivencia,  Prevención en fuego cruzado, Comportamientos seguros frente a riesgos por artefactos explosivos, Mi comunidad me cuida y me protege y Cuido mi cuerpo. Con algunas comunidades se realizaron más de una sesión abarcando temas de la cartilla de "Aprendiendo a Cuidarme" de la mano con docentes. Las condiciones climáticas dificultaron la realización de más sesiones ante la suspensión de clases por inundaciones en algunas comunidades. 
+Sesiones de formación para niños: 30
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => Se realizó la formación en EeE con docentes y Agentes Educativos Comunitarios (AEC) durante día y medio en cada comunidad, brindandoles herramientas para la atención de los estudiantes en medio de las emergencias que se presentan en sus comunidades. Se construyeron planes de respuesta educativa en la emergencia con ellos y se realiza seguimiento de las actividades que realizan con los estudiantes.
+Secciones formativas: 24
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Se hizo entrega de kits docentes AEC para los formados en la capacitación de EeE, para apoyar y motivar la realización de las actividades y seguimiento de las mismas de parte de estos, ademas el kit cuenta con la cartilla "ENSEÑAR EN LA EMERGENCIA", donde se explican los temas trabajados durante el taller para el refuerzo de los conocimientos con técnicas y metodologías para el trabajo con los NNA.
+
+Kits docentes: 154
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => Como apoyo para la realización de las actividades planteadas en el plan de respuesta educativo en la emergencia, se realizó entrega de las maletas pedagógicas educativas por comunidad de acuerdo a las principales necesidades identificadas y solicitadas por los docentes y AEC, fortaleciendo así las herramientas de trabajo y centrándose en materiales que apoyaran actividades de rescate cultural como la entrega de instrumentos musicales para danzas tradicionales y para la transmisión de técnicas de artesanías autóctonas en la escuela. 
+
+Entrega de kits deportivos a escuelas: 23
+    [group_of2sk15/group_qw7se20/_12_Entrega_de_art_culos_dom_sticos_que_salvan_vidas_NRC] => Se realizo entrega de 11 kits de habita familiar, que mejoraron las condiciones de habiatd de cada hogar y se contribuyo a su biniestar, entrega que beneficio a las 11 familias de la comunidad de El Choncho desplazadas en Docordo. 
+Asi mismo, se realizo entrega de 23 cocinas comunitarias a 23 comunidades de Valle del Cuaca y Choco, compuesta por Platos, cubiertos, espatulas, olllas, caldero, etc. Con el objetivo de fortalecer las practicas comunitarias de los pueblos indigenas y afrodescendientes que habitan el territotio. 
+
+Dichas entregas se fortalecieron con espacios de sensibilización y formación sobre buenas practicas, uso y mantenimiento seguro del albergue a la comunidad de El Choncho, identificación de alojamientos seguros, zonas de riesgo y reconocimiento de buenas prácticas dentro del hogar a las 23 comunidades atendidas. lización y formación sobre buenas. Beneciaindo de este modo a 4.823 personas con las olllas comunitarias y 38 personas con los kits de habitad.
+    [group_of2sk15/group_qw7se20/_14_Shelter_and_Settlements_information_and_awareness_raising_sessions_NRC] => Las  entregas realizadas se fortalecieron con espacios de sensibilización y formación sobre buenas practicas, uso y mantenimiento seguro del albergue a la comunidad de El Choncho, identificación de alojamientos seguros, zonas de riesgo y reconocimiento de buenas prácticas dentro del hogar a las 23 comunidades atendidas. lización y formación sobre buenas. Beneciaindo de este modo a 4.823 personas con las olllas comunitarias y 38 personas con los kits de habitad.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => En las comunidades se realizó entrega de kits de agua conformado por filtro de arcilla y recipiente de 40 litros, se realizó el montaje de unos de los filtros para que la comunidad pueda instalarlos en cada vivienda, adicional a lo anterior se realiza un ejemplo de cómo debe realizar el mantenimiento preventivo y el trimestral, tanto a las partes plásticas y a al filtro como tal.  612 filtros de agua
+
+Comunidades Choco: 
+Filtro de Agua: Papayo, San Bernardo, Tiocilidio, Guarataco, Burujón, Santa Rosa de Nalde, Isla Bello, Las Palmas. 
+
+Comunidades Valle del Cauca: 
+Filtro de agua: Cocalito. Chachajo.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Se realizo entrega de kits de higiene familiar a las siguientes comunidades: 669 kits de higiene
+
+Comunidades Choco: 
+Kits de Higiene: Isla Mono, Garcia Gomez, Nuevo Pitalito, Unión San Juan, Puerto Guadualito, El Choncho, Buenavista.
+Comunidades Valle del Cauca: 
+Kits de Higiene: Cabecera, Agua Clara, Puerto España/Mira Mar, Malaguita, Puerto Pizario.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => Desde el sector de WASH se realizó atención a 23 de las 24 comunidades Priorizadas, con un enfoque diferencial por comunidad, según su nivel de necesidad en temas de agua e higiene, donde se realizaron las siguientes actividades:
+-	Talleres sobre temas relacionados con el manejo de aguas no tratadas, enfermedades provocadas por la ingesta de agua no segura, agua estancada, agua lluvia, el lavado de tanques tanto de recolección como de almacenamiento, la importancia de no mezclar cloro con jabón, el auto cuidado personal con enfoque hacia los padres como primeros correspondientes de las siguientes generaciones. 
+
+-	En las comunidades se realizó entrega de kits de agua conformado por filtro de arcilla y recipiente de 40 litros, se realizó el montaje de unos de los filtros para que la comunidad pueda instalarlos en cada vivienda, adicional a lo anterior se realiza un ejemplo de cómo debe realizar el mantenimiento preventivo y el trimestral, tanto a las partes plásticas y a al filtro como tal.
+
+-	Las acciones para los enterramientos controlado comprendieron: 1. La elaboración de los enterramientos controlados con ayuda de la comunidad. 2. Sensibilización en el majo y mantenimiento de estos. 3. Compromiso de brindar asesoramientos de forma remota. Generando como resultado un total de 257 personas beneficiadas, discriminadas de la siguiente manera:
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => Como resultado de la Evaluación Rápida de Inseguridad Alimentaria realizada en el mes de mayo del 2022, fue posible identificar las afectaciones generalizadas que perjudican la seguridad alimentaria de las comunidades (Indígenas Wounaan y Afrodescendientes) que se encuentran asentadas en la región del río grande entre los municipios de El Litoral de San Juan y Buenaventura. 
+
+ Se planifica el ingreso a las 9 comunidades de Buenaventura y 3 comunidades Indígenas de El Litoral del San Juan, puesto que, para la fecha estas no habían recibido asistencia alimentaria.
+
+Durante la evaluación se reconocieron las preferencias alimentarias de las comunidades en emergencia para tener en cuenta en la configuración del paquete alimentario.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => Para cubrir las necesidades alimentarias básicas de las familias en emergencia ACH en el marco del Consorcio MIRE realizó un ingreso del 6 al 19 de julio del 2022. Se aportó a la seguridad alimentaria de 85 familias (398 personas) de El Litoral del San Juan y 501 familias (2108 personas) de Buenaventura. En total se dio respuesta a las necesidades de 586 familias, que corresponden a 2506 beneficiarios de las 12 comunidades atendidas, con la entrega de 750 paquetes alimentarios.
+
+Con la entrega de la asistencia alimentaria se aportó a la seguridad alimentaria de aproximadamente 19 madres gestantes y 102 madres lactantes quienes bajo las condiciones de dificultad de disponibilidad y acceso a los alimentos se encuentran en alto grado de vulneración. Así mismo, fue posible solventar las condiciones de inseguridad alimentaria de aproximadamente 1185 NNA, que afectan el desarrollo de actividades diarias producto de la disminución en la ingesta de alimentos, las cuales tienen graves consecuencias a largo plazo y a veces son permanentes.
+
+La configuración del paquete alimentario se determina para que dure un tiempo aproximado de 15 a 20 días y cumpla con los requerimientos nutricionales de un promedio 2100 k cal/día, por lo cual, se les entregó un paquete alimentario a núcleos familiares compuesto por 1 a 5 integrantes, 2 paquetes alimentario para hogares que tengan de 6 a 10 integrantes, y en los casos de 11 a más integrantes estas familias reciben 3 paquetes alimentarios.
+
+De igual manera, para hacer mayor incidencia de las acciones de SAN, se llevó a cabo el taller de sensibilización donde se socializó con los participantes aspectos claves, integrales y generales para garantizar la seguridad alimentara del hogar. Se enfatizo en la buena alimentación a partir de dietas diversificadas, en las prácticas de higiene a la hora de preparar y almacenar los alimentos.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => Durante la atención se levantaron 42 líneas bases de las cuales 20 líneas se hicieron efectivas a través del PDM. El ejercicio permitió reconocer el impacto de la asistencia alimentaria entregada y la aceptación que tuvo la población.
+    [group_of2sk15/group_ix45j17/Consultas_de_atenci_n_primaria_en_salud] => Incidencia de las atenciones sector salud por Médicos del Mundo:
+Las comunidades del Litoral del San Juan, por tratarse de un número considerable y con cantidades muy variables de familias y personas, requirieron la organización del equipo para brindar atención a la mayor parte de la población, se realizó la división de las poblaciones para ampliar la cobertura del equipo. Se realizaron dos ingresos de la siguiente forma:
+1.	5 al 16 de junio de 2022, con 9 días efectivos de atención.
+a.	Equipo: 4 profesionales en medicina, 3 profesionales en enfermería, 3 profesionales en psicología, 3 logistas.
+b.	Comunidades priorizadas: Papayo y Chachajo.
+c.	Puntos de atención en cada comunidad.
+2.	22 de julio al 6 de agosto de 2022, con 13 días de atención.
+a.	Equipo: 2 profesionales en medicina, 2 profesionales en enfermería, 2 profesionales en psicología, 2 logistas.
+b.	Comunidades priorizadas: Cabecera, Puerto Pizario, Chamapuro, Unión San Juan, Nuevo Pitalito, Malaguita, Puerto Guadualito.
+c.	Putos de atención en Cabecera y Nuevo Pitalito.
+d.	En el transcurso de las actividades se sumaron dos comunidades no priorizadas: Vista Alegre y Chorros.
+Durante las atenciones del Equipo de Respuesta Rápida de Médicos del Mundo, al interior del Consorcio MIRE, se realizaron diferentes actividades:
+
+Consultas individuales de atención primaria en salud mental.	281
+Talleres grupales y sesiones informativas.	323 (beneficiarios)
+Consultas atención primaria en salud física.	1285
+Consultas de control prenatal.	40
+Toma de muestras rápidas de laboratorio.	1028
+Entrega de medicamentos.	1277
+Realización de procedimientos de enfermería.	121
+Asesoría en métodos de planificación familiar, salud sexual y reproductiva.	133
+Asesoría sobre Interrupción Voluntaria del Embarazo.	5
+
+•	Se realizaron atenciones priorizando diariamente a diferentes comunidades, en puntos de atención al interior de Papayo, Chachajo, Cabecera y Nuevo Pitalito. Adicionalmente también se tuvo en cuenta también a los asistentes desde poblaciones alejadas o con patologías importantes, mujeres en estado de embarazo, menores y adultos mayores.
+
+•	Se realizaron cuatro evacuaciones por varios motivos a diferentes centros, incluyendo urgencias al hospital Luis Ablanque de la Plata. De las cuatro, tres fueron efectivas y una fue rechazada por la familia responsable del beneficiario a pesar de las facilidades ofrecidas.
+•	Remisiones: El número total de remisiones de las atenciones de MDM fueron 106.
+
+•	Dentro de las primeras causas de consulta se encontraron:
+-	Anemia
+-	Trastornos osteomusculares
+-	Trastornos de la piel
+-	Infección respiratoria aguda
+-	Enfermedades crónicas del tipo HTA y DM 2
+-	Enfermedad acidopéptica.
+    [group_of2sk15/group_ix45j17/Consultas_de_salud_mental] => Desde la atención psicológica se realizaron atenciones en modalidad individual y taller grupal para la comunidad en general; los principales temas tratados fueron salud sexual y reproductiva, primeros auxilios psicológicos, duelo y psico-orientación.
+Se realizaron 281 atenciones psicológicas individuales (incluyendo dos controles), cuyas principales causas de consulta fueron:
+Depresión, ansiedad, Duelo, e ideación suicida
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => No se observo necesidades en el sector
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Alcaldia Muncipal
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Articulación con el enlace de victimas y secretaria de desarrollo social en la comunicación con lideres y lideresas de comunidades Priorizadas. Del mismo modo, Dentro de las acciones realizadas, se crearon canales de comunicación para la remisión de casos y atención prioritaria de la población vulnerable, en las atenciones brindadas por el equipo de protección, lo que garantizaría un solución estable y duradera, que permita el acceso a servicios fundamentales y garantías de acceso.
+    [group_ob0im32/b_Nombre_de_la_entidad] => Personeria Muncipal de El Litoral del San Juan
+    [group_ob0im32/a_Sector_en_el_que_se_intervino_001] => PROTECCION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_001] => Articulación y apoyo del ministerio publico, con el objetivo de garantizar la activación de las rutas administrativas y acceso a derechos de la población afectada en el marco del conflicto armado
+    [group_ob0im32/c_Nombre_de_la_entidad] => Secretaria de Salud
+    [group_ob0im32/c_Sector_en_el_que_se_intervino] => SALUD
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es_002] => Remisión de casos para la atención en salud de la población vulnerable con afectaciones graves, que requieren afiliación al sistema de salud.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => ACCESIBILIDAD RESPONSABILIDAD PARTICIPACION OTRAS
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => Las problemáticas en materia de conectividad y señal, propias de la región, limitan la posibilidad de comunicarse de manera constante con las comunidades.
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Se establecieron acuerdos de horarios donde puede mejorar la cobertura telefónica, mediante el uso de mensajería de texto y WhatsApp.
+    [group_zj0tq00/Dificultades_encontr_das_Responsabilidad] => La división política del territorio en los departamentos del Valle del Cauca y Chocó, limita el alcance y comunicación con los actores con responsabilidad en protección.
+    [group_zj0tq00/Medidas_adoptadas_Responsabilidad] => Durante la emergencia en el casco urbano de Docordó, se realizaron acciones de incidencia con actores con competencia en el departamento del Chochó y desde el seguimiento de manera remota, así como con apoyo de la oficina regional, se continúan realizando acciones de incidencia con actores claves del Valle del Cauca.
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => Dado que no todas las mujeres de las comunidades Wounaan hablan español, esto podría afectar su participación en las actividades.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => Se pidió el apoyo de algunas de las mujeres Wounnan que son madres comunitarias dentro de la comunidad, donde se contó con la participación de varias mujeres traductoras dentro de cada comunidad.
+    [group_zj0tq00/_Cu_les_Otras] => Espacios para el desarrollo de las actividades
+    [group_zj0tq00/Dificultades_encontradas_Otras] => Las infraestructura de los espacios dispuestos no tenían las mejores condiciones físicas para dar las sensibilizaciones
+    [group_zj0tq00/Medidas_adoptadas_Otras] => Se utilizaron distintos recursos para la implementación de las metodológicas realizando actividades y didácticas que facilitaran la aprehensión del conocimiento de forma experiencial
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 1
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 10
+    [group_kq5co41/group_zo3ck85/d_N_mero_de_persona_Consejos_Ind_genas] => 90
+    [group_kq5co41/group_zo3ck85/e_N_mero_de_Represe_tes_de_Ayuntamientos] => 1
+    [group_kq5co41/group_wc9ei25/a_Presencial_Individual] => 10
+    [group_kq5co41/group_vt2ve84/_1a_Nombre] => JOINER CAICEDO
+    [group_kq5co41/group_vt2ve84/_1d_Celular_001] => 3136913715
+    [group_kq5co41/group_vt2ve84/_1e_Instituci_n_Orga_mo_al_que_representa] => Alcaldía Municipal de El Litoral del San Juan
+    [group_kq5co41/group_ay3fs88/_2a_Nombre] => Bercelio Moya
+    [group_kq5co41/group_ay3fs88/_2d_Celular] => 3117270790
+    [group_kq5co41/group_ay3fs88/_2e_Instituci_n_Orga_mo_al_que_representa] => Consejo de Autoridades del Pueblo Wounaan
+    [group_kq5co41/group_wb3kr41/_3a_Nombre] => Carlos Alberto Cardenas
+    [group_kq5co41/group_wb3kr41/_3d_Celular] => 3225616073
+    [group_kq5co41/group_wb3kr41/_3e_Instituci_n_Orga_mo_al_que_representa] => Consejo Comunitario General ACADESAN
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vEuY4YChYbyaq4h2dUgdWX
+    [meta/instanceID] => uuid:289c987b-aef2-47ce-a2a8-d28aae3f4853
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 289c987b-aef2-47ce-a2a8-d28aae3f4853
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2022-11-01T23:46:15
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

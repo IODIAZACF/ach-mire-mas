@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [_id] => 396063261
+    [formhub/uuid] => 3d84ff936bc44b728f0dd606d1160425
+    [start] => 2023-02-20T16:30:36.299-05:00
+    [end] => 2023-02-20T16:37:44.703-05:00
+    [group_gener/departamento] => narino
+    [group_gener/municipio] => 52427_maguipayan
+    [group_gener/Point] => 6.316663 -75.83683 0 0
+    [group_gener/Vereda_Corregimiento] => Sin Información
+    [group_gener/Comunidad] => Sin Información
+    [group_gener/C_digo_de_la_Comunidad] => Código de la Comunidad
+    [group_gener/_1_C_digo] => NAMA-091.1
+    [group_gener/Fecha_del_Evento_001] => 2021-09-18
+    [group_gener/Hora_del_Evento] => 08:50:00.000-05:00
+    [group_gener/Urbano_Rural] => Rural
+    [group_gu1lq88/Narrativo] => Reporto que en la vía rumbo Magui Payan - barbacoas nos quedamos detenidos debido a que un camión se varó. Estamos a la espera de que pueda arreglarse el daño del camión para continuar con el trayecto
+    [group_gu1lq88/CATEGOR_A] => Otras
+    [group_gu1lq88/Escriba_la_Otra] => Obstrucción de la vía
+    [group_gu1lq88/ONG_IMPLICADAS] => nrc aps
+    [group_gu1lq88/Autor] => Isabel Betancourt
+    [group_gu1lq88/Consecuencias] => retraso_en_la_agenda
+    [group_gu1lq88/Retraso_en_la_agenda] => Sin Información
+    [group_gu1lq88/MEDIDAS_TOMADAS] => seguimiento, apertura de la ví sin mayor novedad
+    [group_gu1lq88/Seguimiento] => Sin Información
+    [__version__] => v9qBduHhHhTXNhFESyUWks
+    [meta/instanceID] => uuid:e9304583-f7b8-48c8-a516-77dac46be1fb
+    [_xform_id_string] => aCwFF3gu95UyViGzXVY952
+    [_uuid] => e9304583-f7b8-48c8-a516-77dac46be1fb
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 6.316663
+            [1] => -75.83683
+        )
+
+    [_submission_time] => 2023-02-20T21:37:55
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

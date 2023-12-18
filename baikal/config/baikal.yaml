@@ -1,0 +1,19 @@
+system:
+    configured_version: 0.9.1
+    timezone: America/Guayaquil
+    card_enabled: true
+    cal_enabled: true
+    dav_auth_type: Digest
+    admin_passwordhash: e756bd68c39fcaeb7aac23ff8d86be011f2f58925d9d8e9683c65f6315f02949
+    failed_access_message: 'user %u authentication failure for Baikal'
+    auth_realm: BaikalDAV
+    base_uri: ''
+    invite_from: noreply@edsondaza.dyndns.info
+database:
+    sqlite_file: /opt/lampp/htdocs/baikal/Specific/db/db.sqlite
+    mysql: true
+    mysql_host: 'localhost:3306'
+    mysql_dbname: baikal
+    mysql_username: root
+    mysql_password: las36horas
+    encryption_key: 9cd73d702990a06bf25166eeec1a7185

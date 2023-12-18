@@ -1,0 +1,26 @@
+<ons-page id="{objeto}" modifier="grid-s24" data-modulo="{modulo}">
+	<ons-toolbar modifier="s24">
+		<div class="left"><ons-button modifier="s24" data-funcion="" data-valor="esc"><ons-icon icon="fa-chevron-left"></ons-icon></ons-button></div>
+		<div class="center {objeto}_titulo" style="overflow: auto !important; color: var(--color-blanco);">{VENTANA-TITULO}</div>
+	</ons-toolbar>
+	
+	<ons-page>
+	<ons-toolbar >
+		<label class="center">
+				<ons-search-input class="{objeto}_buscador" modifier="" onchange="{objeto}.buscar(this.value); this.value='';" placeholder="Buscar" style="width: 100%; margin: -8px auto 20px auto;" autocomplete="off">
+				</ons-search-input>  
+		</label>
+	</ons-toolbar>
+	
+	<ons-list class="{objeto}_grid list-grid-24" >
+	</ons-list>		
+
+	<ons-bottom-toolbar modifier="s24" id="{objeto}_leyenda">
+	{leyenda}
+	</ons-bottom-toolbar>
+	</ons-page>
+	
+	<ons-action-sheet id="{objeto}_opciones" modifier="material" cancelable >
+		{opciones}
+	</ons-action-sheet>		
+</ons-page>

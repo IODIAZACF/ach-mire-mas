@@ -1,0 +1,88 @@
+stdClass Object
+(
+    [_id] => 424889254
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-05-10T12:19:55.910-05:00
+    [end] => 2023-05-10T12:37:40.469-05:00
+    [group_gu1lq88/Departamento] => CHOCO
+    [group_gu1lq88/CHOCO] => BOJAYA
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Por Actualizar
+    [group_gu1lq88/Nombre_de_la_comunidad] => Isla de los Palacios
+    [group_gu1lq88/Urbano_Rural] => rural
+    [group_gu1lq88/time1] => 2023-05-10
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => CONFINAMIENTO
+    [group_hl1yc96/Problema] => NARCOTRAF PRESENCIA_GAI RECLUTAMIENTO
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el segundo semestre de 2022, al menos 275 personas (85 familias) afrodescendientes de la comunidad Isla de los Palacios se encuentra confinada en el municipio de Bojayá, debido a la presencia de un Grupo Armado No Estatal (GANE) e intimidación por parte de éste. Lo anterior, ha limitado la movilidad y la realización de actividades de pesca, caza y recolección de alimentos en cultivos de pan coger y recolección de agua. Adicionalmente, se han suspendido las clases por falta de docentes, lo que aumenta los riesgos de reclutamiento, uso y utilización de niños, niñas y adolescentes.
+Enlace: https://drive.google.com/file/d/1QTwYBcEvRX6-LlevTKdlw6tBO-DYMOBA/view
+    [group_yv1ph08/time2] => 2022-11-15
+    [group_yv1ph08/time3] => 176
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Protección
+    [group_cn9za51/familias] => 85
+    [group_cn9za51/personas] => 275
+    [group_cn9za51/comu] => 1
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => El Ministerio Público realizó incidencia ante la Secretaria de Educación departamental para la contratación de un docente para esta comunidad.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => En abril, el Programa Mundial de Alimentos entregó kits de alimentos IN-KIND (con cesta específica) a la población afectada.
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Coordinación: 
+El 26 de abril, el municipio de Bojayá realizó Comité Territorial de Justicia Transicional (CTJT), en el que reconoció el confinamiento, asimismo, se comprometieron a realizar una misión de verificación entre el 25 de mayo y el 28 de mayo, donde se realizará una jornada de atención.
+El Equipo Local de Coordinación de Chocó continúa haciendo seguimiento a la situación humanitaria del municipio de Bojayá. Se ha realizado la activación de respuesta y coordinación con los socios del ELC a través de los Standard Operating Procedures (SOP).
+    [group_mu9ho06/Observaciones] => VACÍOS:
+
+Debido a la situación de conflicto en el municipio de Bojayá, se ha evidenciado falencias en la activación de planes de contingencia por eventos masivos (confinamiento) y baja capacidad de respuesta institucional.
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE4+https://drive.google.com/file/d/1QTwYBcEvRX6-LlevTKdlw6tBO-DYMOBA/view+Por Confirmar+¿FCE?
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:142b93c5-3713-43d7-af4d-c94464208675
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 142b93c5-3713-43d7-af4d-c94464208675
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-05-10T17:37:52
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

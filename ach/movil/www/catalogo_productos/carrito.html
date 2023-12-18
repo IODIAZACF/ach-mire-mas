@@ -1,0 +1,46 @@
+<div class="page" data-name="carrito" >
+	<div class="navbar">
+		<div class="navbar-inner sliding">
+			<div class="left">
+				<a href="#" class="link" data-funcion="t_M_CARRITO" data-opcion="esc">
+					<i class="icon icon-back"></i>
+				</a>
+			</div>
+			<div class="title">
+				Carrito de Compra
+			</div>
+		</div>
+	</div>
+
+	<div class="toolbar tabbar-labels toolbar-bottom-md">
+		<div class="toolbar-inner">
+			<a href="#" class="tab-link opciones" data-funcion="t_M_CARRITO" data-opcion="esc">
+				<i class="icon icon-back"></i>
+				<span class="tabbar-label">Atrás</span>
+			</a>
+		</div>
+		
+	</div>
+	
+	<div class="page-content">
+		<div class="list media-list">
+			<ul id="M_CARRITO" data-tabla="M_CARRITO" data-indice="ID_M_CARRITO" data-campos="*" data-busca="ID_M_CARRITO,DESCRIPCION,CODIGO1" data-orden="DESCRIPCION ASC" data-filtro="ID_M_LINEAS" data-xfiltro="" data-limite="50" data-debug="" data-onselect="t_M_CARRITO">
+			</ul>
+			<script id="M_CARRITO-template" type="text/template7">
+				</>
+				<li>
+					<a REGISTRO href="#" class="item-link item-content registro XCOLOR">
+						<div class="item-inner">
+							<div class="item-title-row">
+								<div class="item-title">{{DESCRIPCION}}</div>
+							</div>
+							<div class="item-text">{{ID_M_PRODUCTOS}}</div>
+							<div class="item-subtitle">{{ format PRECIO 2}}</div>
+						</div>
+					</a>
+				</li>
+			</script>
+		</div>
+	</div>
+	<javascript src="catalogo_productos/carrito.js"></javascript>
+</div>

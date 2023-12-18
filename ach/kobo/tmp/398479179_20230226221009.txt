@@ -1,0 +1,211 @@
+stdClass Object
+(
+    [_id] => 398479179
+    [formhub/uuid] => 65b08613bd544ee1b2cb2fd799db21e1
+    [start] => 2023-02-02T10:27:49.729-05:00
+    [end] => 2023-02-26T22:09:54.386-05:00
+    [group_kp1mu41/_1_C_digo] => NAOL-628.1
+    [group_kp1mu41/_2_Fecha_de_Reporte] => 2023-02-23
+    [group_kp1mu41/Fecha_de_inicio_de_la_emergencia] => 2022-12-01
+    [group_kp1mu41/Fecha_de_cierre_de_la_emergencia] => 2023-02-10
+    [group_kp1mu41/_4_Departamento] => NARIÑO
+    [group_kp1mu41/_7_Corregimiento_Vereda_Barrio] => Conejo, María, Cedro, Playa Blanca, Barbacoitas.
+    [group_kp1mu41/num_comunidades] => 6
+    [group_kp1mu41/_9_Las_comunidades_por_esta_emergencia] => NINGUNA
+    [group_kp1mu41/_8_Comunidad] => Conejo, María, Cedro, Playa Blanca, Barbacoitas.
+    [group_kp1mu41/Urbano_Rural] => urbano
+    [group_qd4az23/_1a_Responsable_del_Cierre] => Angie Lorena Carvajal López
+    [group_qd4az23/Organizaci_n_a_la_que_pertenec] => Accion_Contra_el_Hambre_ACH
+    [group_qd4az23/_1d_Celular] => 3102166477
+    [group_wo86e58/_En_qu_sectores_hubo_interven] => R1_Proteccion R1_Proteccion_VBG R1_Proteccion_PR R1_Proteccion_NNAJ R.2_EeE R4_Wash R5_Seguridad_alimentaria_y_medios_de_vid
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i1] => 5-R1-1.1-1-1_Talleres_de_informacion_NRC
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_NRC_ICLA] => 2022-12-01
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_NRC_ICLA] => 2022-12-09
+    [group_wo86e58/group_hc3sa85/vacios_icla] => Articulación y trabajo conjunto con el ministerio público y autoridades étnico-territoriales.
+    [group_wo86e58/group_hc3sa85/recomendaciones_icla] => 1. Promover la activación y conocimiento sobre las rutas de atención y acceso a derechos de la población víctima del conflicto armado y personas en riesgo, como una estrategia que contribuye al fortalecimiento de las capacidades comunitarias, resiliencia, empoderamiento y preparación para nuevas crisis, orientada a la atención de emergencias desde la reconstrucción social y la resiliencia comunitaria. 
+
+2. Fortalecer los lazos de comunicación y cooperación de la institucionalidad con las comunidades con el ánimo de fomentar la recuperación psicosocial, la inclusión ciudadana, la reconstrucción del tejido social y la devolución de la confianza en las instituciones. 
+
+3. Delimitar la acción humanitaria de las responsabilidades que recaen en las autoridades territoriales, en aras de no remplazar el accionar del estado como principal respondiente de la atención en inmediatez de las víctimas del conflicto armado, esto con el ánimo de no contribuir al asistencialismo en el municipio. 
+
+4. Analizar la oferta institucional y cooperación internacional que responde a las necesidades de protección y asistencia legal en el marco de la emergencia, lo anterior con el objetivo de no generar multiplicidad de actores que responden a una misma necesidad.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i2] => 2-R1-1.2-3-3/Evaluación_de_necesidades_d 2-R1-1.2-4-6/Orientación_jurídica_o_ases 2-R1-1.2-4-7/Entrega_de_kits_de_dignidad 2-R1-1.2-4-9/Remisión_a_otras_institucio
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_VBG] => 2022-12-01
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_VBG] => 2022-12-09
+    [group_wo86e58/group_hc3sa85/Vacios_VBG] => Se evidenció la necesidad de continuar la labor de sensibilización sobre las VBG, como identificarlas y que medidas de protección están a disposición de las personas que son víctimas o sobrevivientes de VBG. Lo anterior, a fin de que las personas reconozcan la VBG y acudan a los actores claves en protección que pueden brindarle un apoyo, pues, aunque en la zona existe alta cobertura de atención para este tipo de situaciones, se logra evidenciar la falta de confianza que presenta las diferentes comunidades para acceder a estos servicios, quizá por el temor de ser identificados por los GAO al momento de solicitar o requerir.
+    [group_wo86e58/group_hc3sa85/Recomendacion_VBG] => Fortalecimiento de las capacidades de las mujeres, líderes, lideresas, docentes y actores claves, en la identificación de las distintas formas de VBG. Así como, la implementación y apoyo para la construcción de estrategias de auto protección, afrontamiento. Lo anterior, a fin de contrarrestar los estereotipos que inhiben que las personas accedan a buscar ayuda.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i3] => 2-R1-1.3-5-11/Evaluación_de_riesgos 2-R1-1.3-5-12/Asesoramiento_jurídico 2-R1-1.3-5-13/Apoyo_psicosocial_(individ 2-R1-1.3-5-16/Derivaciones_a_institucion
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_PR] => 2022-12-01
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_PR] => 2022-12-09
+    [group_wo86e58/group_hc3sa85/Vacios_PR] => No se presentan vacíos durante la respuesta dada en las comunidades atendidas, ya que la información brindada a estas durante los espacios de sensibilización permitió que las personas accedieran a los servicios de manera confiable, expresando con seguridad la necesidad existente y recibiendo la asesoría requerida. De igual manera, se establecieron contactos con actores claves que hacen presencia continua en el territorio a fin de establecer los canales pertinentes para la remisión de casos que no logren acudir directamente dadas las falencias en las redes de comunicación.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_PR] => Aprovechar los espacios de sensibilización con la comunidad en general para dar a conocer el proceso de gestión de casos mediante el cual se puede brindar apoyo a personas con alguna dificultad y que no deseen acceder a las instituciones cercanas a su comunidad. También, continuar con actores locales en el fortalecimiento de los procesos de exigibilidad y atención legal de líderes, lideresas y personas que por sus acciones de defensa de los derechos colectivos se encuentran en riesgo.
+    [group_wo86e58/group_hc3sa85/R1_Actividades_i4] => 2-R1-1.4-7-19/NNJ_con_evaluación_inicial 2-R1-1.4-7-20/NNJ_con_primeros_auxilios_
+    [group_wo86e58/group_hc3sa85/Fecha_de_ingreso_APS_NNAJ] => 2022-12-01
+    [group_wo86e58/group_hc3sa85/Fecha_de_salida_APS_NNAJ] => 2022-12-09
+    [group_wo86e58/group_hc3sa85/Vacios_NNAJ] => El tema de los NNAJ en la mayoría de las comunidades es difícil de trabajar dado la desconfianza que mantienen líderes y lideresas ante los procesos, como también, la falta de confianza de las familias de los menores que presenten algún riesgo. Si bien, no se identificaron casos de NNAJ en riesgo, por las condiciones del territorio se puede presumir una posible vinculación de adolescentes y jóvenes con el fin de generar ingresos para las necesidades básicas de las familias. El tema no es abordado con seguridad dada la desconfianza y temor hacia la represaría de los grupos armados, esto inhibe que las personas hablen abiertamente del reclutamiento y utilización de NNAJ en el conflicto armado.
+    [group_wo86e58/group_hc3sa85/Recomendaciones_NNAJ] => Identificar aquellas Organizaciones No Gubernamentales en cada zona que trabajen en pro de los derechos y bienestar de los NNAJ con el fin de identificar aquellas necesidades de difícil atención con el fin de brindar fortalecimiento a las estrategias comunitarias y familiares para la prevención del reclutamiento y utilización de los NNAJ en el conflicto armado. Y continuar realizando, acciones de incidencia con los distintos actores institucionales y de acompañamiento con capacidades de protección para la visibilidad y establecimiento de canales de remisión segura de casos para la activación de las rutas de protección.
+    [group_wo86e58/group_bh8os36/R2_Actividades_EeE] => 4-R2-2.1-8-1/Provisión_de_NFI 4-R2-2.1-8-2/Sesiones_de_formación_para_ 4-R2-2.2-9-3/Sesiones_de_formación_para_ 4-R2-2.2-9-4/Maestros_o_AE_con_aumento_d 4-R2-2.3-10-5/Entrega_de_material_educat 4-R2-2.4-11-6/Entrega_de_kits_deportivos
+    [group_wo86e58/group_bh8os36/Fecha_de_ingreso_NRC_EeE] => 2022-12-01
+    [group_wo86e58/group_bh8os36/Fecha_de_salida_NRC_EeE] => 2023-02-10
+    [group_wo86e58/group_bh8os36/Vacios_EeE] => • Registro total de NNAJ que se encuentran en situación de desplazamiento en la cabecera municipal y los que se encuentran en las comunidades.
+• Acceso al simat y/o a la información detallada de los NNA por parte de referentes educativos.
+• Identificación y registro de NNA en deserción escolar y alguna condición o limitación especial.
+• Articulación institucional con las organizaciones étnico-territoriales y autoridades comunitarias que garanticen espacios seguros de aprendizaje para NNA durante las emergencias.
+    [group_wo86e58/group_bh8os36/Recomendaciones_EeE] => • Caracterización de la población de NNA que se encuentra en deserción escolar.
+• Ejercicio de identificación de NNA con condiciones o limitaciones especiales.
+• Generar espacios seguros de aprendizaje para los NNA en situación de desplazamiento.
+• Garantizar el derecho a la educación en situaciones de emergencia por parte de la institucionalidad y las mismas autoridades comunitarias.
+• Capacitación y formación a docentes y agentes educativos en planes de gestión del riesgo y soporte psicosocial.
+• Acompañamiento institucional al plan de respuesta educativo en emergencias y gestión de material pedagógico.
+    [group_wo86e58/group_sh9cv64/R4_Actividades_WASH] => 2-R4-4.5-21-7a-Medidas_lavado_de_manos 2-R4-4.1-16-1-Entrega_kits_agua 2-R4-4.2-17-3-Rehabilitaciones_saneamiento 2-R4-4.3-18-4-Entrega_kits_higiene 2-R4-4.3-19-5-Promoción_buenas_practicas 2-R4-4.5-22-8-Aumento_conocimiento
+    [group_wo86e58/group_sh9cv64/Vacios_WASH] => N/A
+    [group_wo86e58/group_sh9cv64/Recomendaciones_WASH] => N/A
+    [group_wo86e58/group_ws7kb43/R5_Actividades_SAN] => 1-R5-5.1-22-1/Evaluación_rápida_de_la_in 1-R5-5.1-22-2b/Paquete_alimentario_por_f 1-R5-5.1-22-2c/Paquete_alimentario_por_c 1-R5-5.2-23-3/PDM_de_SAN_con_puntuación_
+    [group_wo86e58/group_ws7kb43/Fecha_de_ingreso_ACH_SAN] => 2022-12-01
+    [group_wo86e58/group_ws7kb43/Fecha_de_salida_ACH_SAN] => 2022-12-10
+    [group_wo86e58/group_ws7kb43/Vacios_SAN] => 1. Desarrollar estrategias que permitan fortalecer los medios de vida de las familias, y que en el marco de una emergencia existan alternativas de acceso seguro a estos para garantizar las condiciones de seguridad alimentaria.
+
+2. Identificación de casos de personas en riesgo de desnutrición, grupos etarios vulnerables, y población con necesidades especiales, que necesitaran complementariedad en la asistencia alimentaria entregada.
+
+3. Inconsistencias en la información de los censos para la proyección de la asistencia alimentaria: Información errónea que incluían núcleos familiares que no se vieron afectadas por los hechos, familias divididas con el objetivo de recibir doble atención, y familias sin registrar.
+    [group_wo86e58/group_ws7kb43/Recomendaciones_SAN] => 1. Mantener comunicación asertiva con los líderes de las comunidades desplazadas para evitar las situaciones de fraude por personas que no pertenecen las comunidades y demandan por asistencia alimentaria.
+
+2. Igualmente, mantener comunicación con los líderes permite priorizar personas en condición de vulnerabilidad para que puedan recibir apoyo urgente en asistencia alimentaria.
+
+3. Identificar los impedimentos para que las familias puedan garantizar su seguridad alimentaria en el marco de la emergencia, y hacer seguimiento para evitar situaciones y complicaciones por problemas de desnutrición.
+    [group_of2sk15/group_cf63e32/_1_Intervenci_n_de_ICLA_Descripci_n_Cantidad] => En el marco de atención de emergencia por desplazamiento forzado en Olaya herrera, Nariño, desde la competencia ICLA se realizó estrategia jurídico-pedagógica para el conocimiento, acceso, exigibilidad derechos y activación de ruta de atención, asistencia y reparación de población víctima del conflicto armado, así mismo se realizó asistencia y orientación a la población víctima del conflicto. 
+
+● Estrategia Jurídico-pedagógica para el conocimiento, acceso y exigibilidad de derechos de población víctima del conflicto armado. 
+Se realizo taller formativo sobre ley 1448 de 2011 y decretos étnicos; un espacio jurídico pedagógico orientado a la identificación de riesgos, amenazas y vulnerabilidades (hechos victimizante) en el marco del conflicto armado, ruta de atención e instituciones responsables de la asistencia y atención de la población víctima del conflicto armado en el marco de la inmediatez. Dichos talleres se desarrollaron con la población de las comunidades de Los Cedros II, Conejo, Playa Blanca y María II.
+
+Del mismo modo, se desarrolló espacio con lideres y lideresas comunitarias de las cuatro comunidades desplazadas, espacio donde se hizo énfasis en la importancia de visibilizar y declarar los hechos victimizante, el empoderamiento y la exigibilidad de derechos a través de los mecanismos de exigibilidad como lo son el derecho de petición y la acción de tutela.
+Dichos talleres contaron con la asistencia de 241 personas (75 hombres y 166 mujeres), destacándose así, la participación de mujeres que forjaron sus roles de liderazgo y empoderamiento en la exigibilidad de sus derechos y libertades como principales víctimas en el conflicto armado). 
+
+● Asistencia y Orientación Legal
+En el marco de atención a la emergencia, se identificaron personas con necesidades jurídicas, a las que se les ha brindado asistencia y orientación legal conforme a los riesgos y necesidades de protección identificadas. Estas, fueron orientadas en la solicitud de asistencia humanitaria para la protección derechos y satisfacción de necesidades relacionadas con seguridad alimentaria, y rehabilitación, acceso al derecho de la salud e indemnización como medida de reparación integral.  (Orientados 13 - asistidas 8, para un total de 21 personas).
+    [group_of2sk15/group_cf63e32/_3_Identificaci_n_y_evaluaci_n_de_casos_en_riesgo_de_VG_o_sobrevivientes_de_VBG_ApS] => El sector de protección APS basa su identificación de casos de VBG por medio de los espacios de sensibilización a mujeres y comunidad en general. Creando mediante este espacio, un ambiente de confianza y seguridad mediado por la información, lo cual permite que las mujeres, en la mayoría de los casos, se acerquen a compartir la situación que atraviesan y así brindar una respuesta integral ante su condición. Se identificaron cinco (5) casos de mujeres sobrevivientes de VBG a las cuales se les brindo acompañamiento psicosocial. Asesoría jurídica y apoyo en cash con el fin de salvaguardar su integridad y aportar a minimizar necesidades básicas urgentes.
+    [group_of2sk15/group_cf63e32/_4_Provisi_n_de_respuesta_y_seguimiento_a_casos_de_riesgo_o_sobrevivientes_de_VBG_ApS] => El seguimiento de los casos individuales por VBG de desarrolla conforme la evaluación inicial de cada caso, pues es ahí donde se identifican aspectos claves que le permiten al equipo de protección APS brindar una respuesta integral. En los casos identificados se apoyó con acciones orientadas a la protección y reubicación fuera de la zona de riesgo; la remisión a entidades especializadas y asesoría jurídica y psicológica pertinentes.
+    [group_of2sk15/group_cf63e32/_5_Respuesta_adecuada_a_personas_en_riesgo_ApS] => La respuesta se basa en el respeto a las condiciones de cada caso y la necesidad que presenta la persona. Se explica cada paso del proceso de manera que la información que se le entregue a las personas sea de fácil comprensión, reconociendo la importancia de cada fase del proceso.
+    [group_of2sk15/group_rj4ak26/_6_Suministro_de_NFI_kits_de_EiE_individuales_educativos_pertinentes_a_los_ni_os] => Cantidad: 620
+
+Se hizo entrega de 620 kits de ocupación de tiempo libre a Niños, Niñas y Adolescentes de las comunidades de Playa Blanca, Las Marías II, Cedro II, Barbacoíta, Conejo, Pueblo Nuevo, San Jose Robles, Casa Grande, Tórtola, Tórtola las Palmas, pertenecientes al municipio de Olaya Herrera que se encontraban en situación de desplazamiento. 
+
+kits individuales que se entregaron con el fin de que NNA contaran con un material de apoyo para el desarrollo de actividades extracurriculares, aprovechamiento del tiempo libre y gestión de emociones durante la situación de desplazamiento, uno de los elementos que trae el kit es la cartilla leo y escribo, material que también les permite a los NNA fortalecer el aprendizaje seguro.
+    [group_of2sk15/group_rj4ak26/_7_Sesiones_de_formaci_n_para_ni_os] => Los espacios de aprendizaje con los NNA estuvieron enfocados a trabajar 2 componentes de EeE: protección, aprendizaje seguro. Se realizaron en media jornada por cada comunidad, organizados en grupos focales de acuerdo con el grado de escolaridad (0 a 2 y 3 en adelante).
+
+En el componente de protección se aplicaron técnicas de visualización con ejercicios prácticos para trabajar la recuperación y manejo de emociones (Mi pluma), una actividad manual para fortalecer el auto reconocimiento de los NNA, un tema de identidad y territorio para enlazarlo con mensajes de comportamientos seguros frente a riesgos de protección promoviendo así el autocuidado en medio de la crisis, se utilizó la cartilla aprendiendo a cuidarme para sensibilizar el cuidado del cuerpo.
+
+El componente de aprendizaje seguro se trabajó con los niños y niñas de preescolar, se realizaron ejercicios para fortalecer la motricidad fina donde colorearon mándalas y realizaron trazos de la cartilla leo y escribo, actividades de preparación para el inicio de actividades escolares.
+    [group_of2sk15/group_rj4ak26/_8_Sesiones_de_formaci_n_para_profesores_y_agentes_educativos_NRC] => La formación se realizó durante 1 día, se conto con la participación de 28 docentes y 17 agentes educativos comunitarios de las 10 comunidades de Olaya Herrera (Playa Blanca, Las Marías II, Cedro II, Barbacoíta, Conejo, Pueblo Nuevo, San José Robles, Casa Grande, Tórtola, Tórtola las Palmas), para un total de 45 personas formadas en educación en emergencias. 
+
+El taller de formación se enfocó a fortalecer conocimientos y herramientas para la respuesta educativa durante la emergencia, se utilizó una metodología participativa y practica a partir de un enfoque pedagógico que permitiera un aprendizaje significativo y constructivista en los tres módulos de EeE.
+
+En el primer módulo consto de un fortalecimiento de conocimientos teóricos acerca de que es una emergencia, tipos de emergencia y la educación en contextos de emergencia.
+Práctica Pedagógica y Comunitaria fue el segundo modulo donde se trabajaron temáticas que permitieron  fortalecer la respuesta educativa en la emergencia como es la practica pedagógica en la fase aguda, acompañamiento emocional y la resiliencia, para el tema de enfoque de género se articulo con el sector de protección, donde se brindaron mensajes claves  para tener en cuenta en la práctica pedagógica durante emergencia.
+
+El tercer modulo Ruta Pedagógica para la Respuesta en la Emergencia aguda, se hizo un trabajo de identificación y reconocimiento de riesgos de protección en sus comunidades y con esta información se procedió a construir el plan de respuesta educativo en emergencias identificando estrategias educativas y comunitarias que se pudieran implementar en sus escuelas y comunidades, garantizando así la continuidad de la educación en situaciones de emergencia.
+    [group_of2sk15/group_rj4ak26/_9_Entrega_de_material_educativo_a_profesores_NRC] => Cantidad: 45
+
+Se hizo entrega de kits docentes individuales a 28 docentes y 17 agentes educativos comunitarios de las 10 comunidades atendidas en Olaya Herrera, con el fin de apoyar su labor educativa durante la situación de desplazamiento, entregando en total 45 kits.
+    [group_of2sk15/group_rj4ak26/_10_Entrega_de_kits_deportivos_a_escuelas_NRC] => Cantidad: 10
+
+Se entregaron maletas pedagógicas a cada una de las 10 sedes educativas de las comunidades atendidas en Olaya Herrera: Playa Blanca, Las Marías II, Cedro II, Barbacoíta, Conejo, Pueblo Nuevo, San Jose Robles, Casa Grande, Tórtola, Tórtola las Palma. Los elementos de estas maletas fueron definidos durante la construcción del plan de respuesta educativo, cuenta con un enfoque étnico teniendo en cuenta que son población afro e indígena y constan de elementos deportivos, musicales y material fungible, entrega realizada con el objetivo de apoyar la implementación de las estrategias educativas y comunitarias con NNAJ y comunidad durante las emergencias.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_agua] => Estas actividades se realizaron en 3 días. Para las 3 comunidades beneficiarias la entrega se realizó en las instalaciones de la alcaldía de Olaya herrera, en donde los lideres recibieron personalmente los kits de agua (Filtros). 
+
+Inicialmente se tenía planeado trasladarse a las comunidades, pero por temas de seguridad se cancelaron los viajes. Con la entrega e instalación de los filtros de agua se pretende brindar acceso a agua segura y suficiente a las comunidades que hacen uso del albergue.  
+
+- 4 filtros entregados para el Albergue Municipal de Bocas de Satinga, Comunidad Afrodescendiente de Conejo.
+- 8 filtros entregados para el Albergue Bocas de Víbora, Comunidad Indígena de San José Robles.
+- 8 filtros entregados para el Albergue Merizalde, Comunidad Afrodescendiente de Pueblo Nuevo.
+    [group_of2sk15/group_gj7ck76/Rehabilitaciones_simples_de_sistemas_de_abastecimiento_de_agua] => Se realizo la rehabilitación sencilla del sistema de saneamiento en el albergue de Merizalde. Para las actividades se emplearon (4) días. Instalación de (1) Electrobomba Periférica Autocebante de 1/2" Hp Pearl que logro abastecer de agua al sistema de tanques. Se habilito y mejoro la red hidráulica los tanques elevados de almacenamiento y distribución, se instaló un (1) combo sanitario corona Tasa sanitaria y lavamanos de colgar, Se instalo un (1) punto para obtener agua. 
+
+En el albergué bocas de víbora se realizó la adaptación de un (1) lavaplatos que se instaló en el albergue de la comunidad bocas de víbora.
+    [group_of2sk15/group_gj7ck76/Entrega_de_kits_de_higiene] => Para las 3 comunidades beneficiarias la entrega se realizó en las instalaciones de la alcaldía de Olaya herrera, en donde los líderes recibieron personalmente los insumos. Inicialmente se tenía planeado trasladarse a las comunidades, pero por temas de seguridad se cancelaron los viajes. Para Merizalde y conejo la entrega se dejó en custodia del personal encargado del cuidado y mantenimiento del albergue. En bocas de víbora la custodia del kit fue para el gobernador de la comunidad. Con estos kits se pretende dar cumplimiento a las acciones de limpieza y desinfección de superficies y espacios comunes del albergue. 
+
+- 1 kit de higiene comunitario entregados para el Albergue Municipal de Bocas de Satinga, Comunidad Afrodescendiente de Conejo.
+- 1 kit de higiene comunitario entregados para el Albergue Bocas de Víbora, Comunidad Indígena de San José Robles.
+- 1 kit de higiene comunitario entregados para el Albergue Merizalde, Comunidad Afrodescendiente de Pueblo Nuevo.
+    [group_of2sk15/group_gj7ck76/Promoci_n_de_buenas_pr_cticas_de_higiene] => •	Higiene oral. 
+•	Higiene menstrual. 
+•	Lavado de manos. 
+•	Higiene respiratoria (CRC solicito énfasis en esto por aumento de casos covid y enfermedades respiratorias).
+•	Manejo de residuos sólidos.
+•	Técnicas de manejo correcto del agua lluvia y obtener agua segura.
+    [group_of2sk15/group_lq31m11/Evaluaci_n_r_pida_de_la_inseguridad_alimentaria] => Se realizó una evaluación rápida de inseguridad alimentaria (ERIN) con las comunidades de Conejo, Playa Blanca, Barbacoitas, Cedro II y María II, puesto que, producto de la emergencia por desplazamiento forzado se generaron eventos que pusieron en riesgo la seguridad alimentaria de las familias. Este ejercicio permitió identificar las dinámicas alimentarias de 370 familias bajo condiciones de vulnerabilidad por disponibilidad y acceso seguro a los alimentos. 
+
+En la ERIN se relacionaron diferentes factores de riesgo que configuran un escenario de crisis alimentaria para las 370 familias; por el ejemplo, la implementación de estrategias de afrontamiento reducido, dietas poco diversificadas, afectaciones en los medios de vida, señalamientos y estigmatización hacía la comunidad, etc. Así pues, de acuerdo con el ejercicio de validación de los criterios Acción Contra el Hambre en el marco del Consorcio MIRE se activa para dar respuesta a esta emergencia y solventar las necesidades urgentes identificadas en seguridad alimentaria.
+    [group_of2sk15/group_lq31m11/Entrega_de_asistencia_alimentaria] => Para subsanar las necesidades identificadas en seguridad Alimentaria, Acción Contra El Hambre-ACH en el marco del Consorcio MIRE realizó una atención con la entrega de 410 paquetes alimentarios familiares y un paquete alimentario comunitario. Con los paquetes alimentarios de tipo familiar se aportó a la seguridad alimentaria de 398 familias (904 personas); y el paquete alimentario comunitario se entregó a 23 familias (71 personas). En total la respuesta en el sector de seguridad alimentario registro un total de 421 familias beneficiadas que corresponde a 975 personas.
+
+La respuesta se realizó en el marco de un taller de sensibilización en seguridad alimentaria donde se trabajaron temáticas de almacenamiento, preparación y consumo de alimentos, buscando el máximo aprovechamiento de la ayuda alimentaria entregada, la disminución en el uso de estrategias de afrontamiento reducido y aumento del puntaje de diversidad dietaría.
+
+Cabe resaltar, la atención de grupos etarios vulnerables a los efectos de la inseguridad alimentaria, aproximadamente 438 NNA y 125 adultos mayores.
+    [group_of2sk15/group_lq31m11/PDM_seguimiento_posterior_a_la_distribuci_n] => Se desarrollaron 13 PDM que permitieron medir el impacto de la entrega de la asistencia alimentaria en las 5 comunidades atendidas en Olaya Herrera. En general, las familias resaltan el valor del paquete para garantizar la alimentación en condiciones de disponibilidad y acceso no seguros. Igualmente, la diversidad en productos del paquete alimentario, el cual esta diseñado para complementar la dieta de las familias y aumentar el puntaje de diversidad dietaría. 
+
+Cabe mencionar, algunos aspectos importantes que limitaron el número de la muestra de PDM teniendo en cuenta el total de la población atendida. Acceso limitado a conectividad por internet y señal, la mayoría de las personas no cuentan con equipos móviles, poca voluntad de los participantes y tiempo limitado de las actividades por restricciones a la movilidad en la cabecera municipal. Aunque, las familias no lo mencionaban abiertamente, etas sentían temor por entregar sus números de teléfono, a pesar de que en varias ocasiones se aclaró la intencionalidad del ejercicio.
+    [group_of2sk15/group_jz0qt48/R3_Sin_respuesta_SHELTER] => Hubo asistencia en shelter por parte de organizaciones como NRC y Save The Children.
+    [group_of2sk15/group_jz0qt48/R4_Sin_respuesta_WASHIPC] => N/A
+    [group_of2sk15/group_jz0qt48/R5_Sin_respuesta_SALUD] => Hubo atenciones por parte de la ESE Hospital en el marco de la emergencia. Además, Cruz Roja Colombiana realizó una brigada en la cabecera municipal atendiendo parte de la población desplazada.
+    [group_ob0im32/_Realiz_acciones_con_ONG_o_u_] => SI
+    [group_ob0im32/a_Nombre_de_la_entidad] => Gobernación Nariño
+    [group_ob0im32/a_Sector_en_el_que_se_intervino] => ALIMENTACION
+    [group_ob0im32/a_Descripci_n_de_la_s_acci_n_es] => Para el ingreso de de Acción Contra el Hambre se coordinó con la Gobernación de Nariño, puesto que, desde la Alcaldía Local se tenía adelantada una gestión para la entrega de alimentos. Así pues, para dar una ayuda sostenida y complementaria en el tiempo que no que generaran duplicidad de acciones se programaron las atenciones.
+    [group_zj0tq00/_En_cuales_componentes_se_enco] => SEGURIDAD ACCESIBILIDAD PARTICIPACION OTRAS
+    [group_zj0tq00/Dificultades_encontradas_Seguridad] => El tiempo para el desarrollo de las actividades tuvo que ser reducido, puesto que, para el momento de la atención las condiciones de seguridad en la cabecera municipal se complejizaron por cuenta de la presencia de los grupos armados no estatales (GANE). Esta situación generó riguridad en las normas de restricción a la movilidad, intimidación, intranquilidad y temor en las comunidades priorizadas. Además, existía la posibilidad de enfrentamientos en la cabecera municipal. 
+
+Por otro lado, la presunta movilización de dos GANE hacía la cabecera municipal de Olaya Herrera, los rumores de un posible enfrentamiento y la alta presencia de fuerza pública, el equipo móvil se vi en la necesidad de evacuar Olaya Herrera el día 7 de diciembre a las 2:00 p.m.
+    [group_zj0tq00/Medidas_adoptadas_Seguridad] => Adaptación de metodologías de tal manera que se pudieran abarcar el total de las actividades del Consorcio de manera segura y otorgando el espacio requerido mediado por el respeto hacia las personas. Este ejercicio se coordinó con los líderes, teniendo presente recomendaciones y sugerencias frente al manejo de tiempos en los talleres y entregas. Se establecieron y acordaron los horarios adecuados con los participantes de las actividades, igualmente como equipo se acataron las restricciones de horario. Los ajustes no afectaron la calidad de los espacios de las actividades.
+
+Las novedades se iban escalando en tiempo con los puntos focales de seguridad.
+    [group_zj0tq00/Dificultades_encontradas_Accesibilidad] => La respuesta humanitaria no pudo ser insitu en los albergues de Merizalde y Pueblo Nuevo, puesto que, en el tiempo que se estaba llevando a cabo las atenciones la situación se complejizo en la zona rural por la presencia de Grupos Armados No Estatales (GANE), y la alta posibilidad de enfrentamientos. Cabe mencionar que, Cruz Roja Colombiana presentó la misma situación, las condiciones de seguridad dificultaron el acceso a la zona rural.
+    [group_zj0tq00/Medidas_adoptadas_Accesibilidad] => Coordinar con los líderes para desarrollar las actividades de educación en emergencias y agua y saneamiento en espacios seguros. Las actividades se desarrollaron en la cabecera municipal, hecho que permitió a las comunidades de los albergues de Merizalde y Bocas de Víbora participar de la brigada en salud de Cruz Roja Colombiana.
+    [group_zj0tq00/Dificultades_encontradas_Participaci_n] => En el caso de agua y saneamiento pocas personas de las comunidades priorizadas por el sector atendieron la convocatoria para participar en los espacios de formación y entrega, esto debido a las dinámicas de retorno de las comunidades en emergencia y temas de seguridad. De igual manera, las restricciones y posibles advertencias de seguridad y la falta de registro de NNA en situación de desplazamiento en la cabecera municipal limitó la participación de un gran número de NNA a las actividades, la misma implico reducción y adaptación de las metodologías en un corto tiempo. 
+
+Es importante resaltar la buena voluntad y disponibilidad por participar en los espacios de formación de un número importante de familias, lastimosamente algunas familias demandaban solo la ayuda y no les interesaba los espacios complementarios de formación.
+    [group_zj0tq00/Medidas_adoptadas_Participaci_n] => Se establecieron reuniones extras con las organizaciones presentes en el territorio (CRC) para poder dar claridad a las acciones priorizadas por la organización, y de esta forma no duplicar acciones. Por otro lado, el sector de Educación en Emergencias acordó implementar las estrategia educativas y comunitarias enmarcadas en plan de respuesta educativo, igualmente se realizó un acompañamiento remoto y se apoyó con maletas pedagógicas a todas las sedes educativas para que continuarán desarrollando las estrategias.
+    [group_zj0tq00/_Cu_les_Otras] => Recepción de información de los beneficiarios.
+    [group_zj0tq00/Dificultades_encontradas_Otras] => Los censos presentaban varias inconsistencias como: familias registradas que los líderes no reconocen y mencionan que no hacen parte de sus comunidades. Hogares que se censaron por aparte, pero que constituyen una sola familia y registros incompletos. A la hora de completar la información de los Censos para la LPA las familias no eran totalmente honestas en relación con la conformación de sus núcleos familiares.
+    [group_zj0tq00/Medidas_adoptadas_Otras] => Previo a la atención se organizó una reunión con los líderes para identificar las familias que estaban registradas en los censos de cada comunidad y así poder priorizar aquellas que se quedaron por fuera. Igualmente, con el apoyo de los representantes comunitarios y de manera discreta se logró identificar algunos casos de duplicidades. Es importante mencionar, que estos hallazgos generaron que las familias reaccionaran de manera molesta.
+    [group_kq5co41/group_zo3ck85/a_N_mero_de_Personas_de_la_Comunidad] => 370
+    [group_kq5co41/group_zo3ck85/c_N_mero_de_persona_Consejo_Comunitario] => 370
+    [group_kq5co41/group_zo3ck85/f_N_mero_de_Secretarios_Municipales] => 4
+    [group_kq5co41/group_zo3ck85/_0_Personas_que_participaron_e] => 1
+    [group_kq5co41/group_zo3ck85/_Cual] => Enlace de víctimas.
+    [group_kq5co41/group_wc9ei25/b_Presencial_Grupos_Focal] => 370
+    [__version__] => vs3uETWnfwTxy5Zd2RZkGf
+    [_version_] => v4MEdcJjN4DqDbekQRjGwo
+    [_version__001] => vBi45YZ68AVGeBPD9YwhJq
+    [_version__002] => vwKZxc5NKGeayC4V2RrdtN
+    [_version__003] => vkzXFLMqrBuw8hBNCra7Ek
+    [_version__004] => vJPPHf9JDQprH2LdhbKttf
+    [_version__005] => vt9eq2eBb5qvkYeeozTC3v
+    [_version__006] => vMKbAzs2T8rUqcM5vn63Aj
+    [_version__007] => vPVpW5zKgPtXEeWLHCMeuP
+    [meta/instanceID] => uuid:26564828-f412-4a1c-910e-ee00949ef17c
+    [_xform_id_string] => aN2rTeYLhRVH5UZj5UdBtB
+    [_uuid] => 26564828-f412-4a1c-910e-ee00949ef17c
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-02-27T03:10:08
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

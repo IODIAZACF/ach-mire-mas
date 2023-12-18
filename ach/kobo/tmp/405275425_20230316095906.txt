@@ -1,0 +1,89 @@
+stdClass Object
+(
+    [_id] => 405275425
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-03-16T09:13:47.569-05:00
+    [end] => 2023-03-16T09:57:22.628-05:00
+    [group_gu1lq88/Departamento] => BOLIVAR
+    [group_gu1lq88/BOLIVAR] => MORALES
+    [group_gu1lq88/Otros_Municipios] => ARENAL
+    [group_gu1lq88/Vereda] => Corregimiento de Micoahumado
+    [group_gu1lq88/Nombre_de_la_comunidad] => La Conformidad1,La Conformidad2,La Conformidad3 (Morales), y las veredas Sabana Alta y Nueva Esperanza
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-03-16
+    [group_gu1lq88/Nombre_de_quien_reporta] => ANGELICA PINO MENA
+    [group_gu1lq88/Cargo] => NRC
+    [group_gu1lq88/Origen_de_la_informaci_n] => ELC OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => AFECTAC_MULT
+    [group_hl1yc96/afectacion_multiple] => CONFINAMIENTO DESPLAZAMIENTO Restric_movilidad OTRA
+    [group_hl1yc96/Problema] => CRISIS_DESPLAZAM HOMICIDIOS MINAS PRESENCIA_GAI OTRA_PROBLEMAT
+    [group_hl1yc96/_cual_001] => ENFRENTAMIENTOS
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Desde el 2021, se ha intensificado el conflicto armado en el sur de Bolívar por la disputa territorial entre GANE en diversas zonas de la Serranía de San Lucas. La Defensoría del Pueblo emitió, en 2019, una alerta temprana de inminencia por la disputa territorial de los GANE en los corregimientos de Micoahumado y Corcovado, municipio de Morales (AT-No 019-19).
+Desde el 7 de marzo, se encuentran confinadas aproximadamente 4.500personas (1.125familias) de 11 veredas del corregimiento de Micoahumado (Morales) y 527 personas (158familias) de cuatro veredas de Arenal por cuenta de enfrentamientos entre dos grupos armados no estatales (GANE) y el uso de trampas explosivas (TE), que han dejado a la población civil en medio del fuego cruzado.
+Adicionalmente, se han desplazado, entre el 07 y el 14 de marzo, por la misma causa del confinamiento, por lo menos 128 personas (67 familias) desde las veredas La Conformidad 1, La Conformidad 2, La Conformidad 3 (Morales), y las veredas Sabana Alta y Nueva Esperanza (Arenal) hacia distintos destinos: 24 familias se encuentran en la cabecera municipal de Morales, 30 familias en la cabecera municipal de Arenal, 2 familias en Bucaramanga (Santander) y 2 en Aguachica (Cesar). 
+9 familias se desplazaron a la cabecera municipal de Morales y luego se reubicaron en lugares sin determinar aún. Preocupa que los GANE han realizado acciones armadas como incursiones en diferentes veredas, retenes ilegales en vías de acceso al corregimiento de Micoahumado e instalación de Minas Antipersonal (MAP) y ataques contra la población civil como amenazas y homicidios en la zona.
+Todo esto ha generado impactos humanitarios en la comunidad: han cerrado escuelas, se ha dificultado el acceso a servicios de salud, a medios de vida y a alimentos. Hay dificultades para el abastecimiento de bienes básicos de las 15 veredas que dependen del centro poblado de Micoahumado, conocido como La Plaza, y la cabecera de Arenal.
+    [group_yv1ph08/time2] => 2023-03-07
+    [group_yv1ph08/time3] => 9
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Existe necesidades urgentes de acceso a alimentos, educación en comportamientos seguro en entornos de conflicto armado, orientación y asistencia en los casos de familias victimas de amenazas y casos de homicidios. Seguridad Alimentaria y Nutricional (SAN):Se requieren kits de alimentos para las 68 familias desplazadas y las 1.283 confinadas que cubran los requerimientos nutricionales mínimos considerando las necesidades específicas de grupos vulnerables (niños y niñas [aprox.1.904], mujeres gestantes, mujeres lactantes y adultos mayores [aprox.492]). •Protección: Se requieren medidas de prevención y protección individuales (líderes comunitarios) y colectivas por el riesgo de amenazas. Se requiere garantizar la toma de declaración de la población confinada, que implica el reconocimiento de la emergencia por confinamiento para poder activar rutas de atención. •Salud: Se requiere brindar apoyo psicosocial, debido al temor con el que viven las comunidades por los diversos hechos de violencia. También, jornadas de atención primaria en salud y salud sexual y reproductiva para mujeres gestantes en Arenal. •Alojamientos temporales: Se requiere la adecuación de alojamientos temporales en Morales y Arenal, kits de hábitat y noche para 30 familias en Arenal y 24 en Morales.  	Educación en emergencias: Se requieren acciones de Educación en Riesgo de Minas tanto en zona rural como urbana de Morales y Arenal ante el posible hallazgo demás MAP como producto de los enfrentamientos. Se necesitan acciones de recreación para niños, niñas y adolescentes en situación de desplazamiento.
+    [group_cn9za51/familias] => 1479
+    [group_cn9za51/personas] => 5027
+    [group_cn9za51/comu] => 15
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => no
+    [group_xz4hy76/respuestas] => no
+    [group_xz4hy76/presentese] => no
+    [group_mu9ho06/Logisitica] => El ingreso hasta el casco de Morales es desde Aguachica en un recorrido terrestre de 2 horas, donde se debe cruzar por ferri. Desde Morales hasta arenal se realiza un recorrido terrestre de 2 horas donde también se debe cruzar por ferri. 
+Hacia las comunidades los recorridos también se realizan de forma terrestres pero las condiciones de seguridad son complejas para el ingreso.
+    [group_mu9ho06/Seguridad] => Las condiciones de seguridad en las zonas rurales son difíciles hasta el momento solo ha podido ingresar el CICR, debido a que persisten los enfrentamientos entre los GANE, así como también se presume da la instalación de artefactos explosivos en zonas rurales de ambos municipios.
+    [group_mu9ho06/Operativa] => En el departamento no existe ELC, por lo que se hace necesario la coordinación bilateral con las ONGs presentes en el territorio. 
+Además de la coordinación con las entidades territoriales.
+    [group_mu9ho06/Observaciones] => -
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:58170a34-b7f3-4bb7-a990-0d2e3b4e3d18
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 58170a34-b7f3-4bb7-a990-0d2e3b4e3d18
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-03-16T14:57:34
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

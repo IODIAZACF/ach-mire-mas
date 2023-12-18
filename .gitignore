@@ -1,0 +1,10 @@
+*.tgz
+*/*.tgz
+*.zip
+*/*.zip
+*.rar
+*/*.rar
+vendor
+*/vendor
+*/*/vendor
+

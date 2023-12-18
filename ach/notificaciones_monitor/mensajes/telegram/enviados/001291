@@ -1,0 +1,50 @@
+Array
+(
+    [ok] => 1
+    [result] => Array
+        (
+            [message_id] => 336
+            [from] => Array
+                (
+                    [id] => 1178837406
+                    [is_bot] => 1
+                    [first_name] => Sistemas24bot
+                    [username] => Sistemas24bot
+                )
+
+            [chat] => Array
+                (
+                    [id] => 1233369065
+                    [first_name] => Jesús Benjamín
+                    [last_name] => Franco Ibarra
+                    [type] => private
+                )
+
+            [date] => 1594263742
+            [photo] => Array
+                (
+                    [0] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBUF8GiL5ObOOdt8ZQrPYvrig0hQVtAAKEqDEbjCo4RIYfjrs2raBm5MBuBgAEAQADAgADbQADAaIDAAEaBA
+                            [file_unique_id] => AQAD5MBuBgAEAaIDAAE
+                            [file_size] => 9245
+                            [width] => 320
+                            [height] => 218
+                        )
+
+                    [1] => Array
+                        (
+                            [file_id] => AgACAgEAAxkDAAIBUF8GiL5ObOOdt8ZQrPYvrig0hQVtAAKEqDEbjCo4RIYfjrs2raBm5MBuBgAEAQADAgADeAADAqIDAAEaBA
+                            [file_unique_id] => AQAD5MBuBgAEAqIDAAE
+                            [file_size] => 52152
+                            [width] => 800
+                            [height] => 545
+                        )
+
+                )
+
+            [caption] => Broche redondo metalico cafe  personalizado
+Precio: 6.000000
+        )
+
+)

@@ -1,0 +1,94 @@
+<user-mapping>
+	<authorize username="admin" password="admin">
+		<connection name="CALL-CENTER01">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.201</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER02">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.202</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER03">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.203</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER04">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.204</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER05">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.205</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER06">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.206</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER07">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.207</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER08">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.208</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER09">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.209</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER10">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.210</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER11">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.211</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER12">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.212</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER13">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.213</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="CALL-CENTER14">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.214</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+		<connection name="LUISMAN">
+			<protocol>vnc</protocol>
+			<param name="hostname">192.168.1.57</param>
+			<param name="port">5900</param>
+			<param name="password">las36horas</param>
+        </connection>
+    </authorize>
+</user-mapping>

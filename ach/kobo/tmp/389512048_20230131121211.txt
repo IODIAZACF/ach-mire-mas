@@ -1,0 +1,84 @@
+stdClass Object
+(
+    [_id] => 389512048
+    [formhub/uuid] => 196906620ae84ad291b571392f2ccec1
+    [start] => 2023-01-31T11:36:24.590-05:00
+    [end] => 2023-01-31T12:11:58.009-05:00
+    [group_gu1lq88/Departamento] => CAUCA
+    [group_gu1lq88/CAUCA] => ROSAS
+    [group_gu1lq88/Otros_Municipios] => No Aplica
+    [group_gu1lq88/Vereda] => Santa Clara, Soledad, Párraga Viejo y Chontaduro
+    [group_gu1lq88/Nombre_de_la_comunidad] => Sin Información
+    [group_gu1lq88/Urbano_Rural] => urbanoyrural
+    [group_gu1lq88/time1] => 2023-01-31
+    [group_gu1lq88/Nombre_de_quien_reporta] => Diego Ballén Monastoque
+    [group_gu1lq88/Cargo] => Acción contra el Hambre
+    [group_gu1lq88/Origen_de_la_informaci_n] => OCHA
+    [group_hl1yc96/La_alerta_corresponde_a_] => EMERGENCIA
+    [group_hl1yc96/tipo] => DESASTRES
+    [group_hl1yc96/Problema] => DESASTRES_NAT
+    [group_hl1yc96/Descripci_n_general_de_la_alerta] => Tras el deslizamiento de tierra en el municipio de Rosas ocurrido el 7 de enero (ver alerta), a la fecha se ha realizado la evacuación de al menos 248 familias (920 personas) de 4 veredas que fueron afectadas directamente (Santa Clara, Soledad, Párraga Viejo y Chontaduro). A su vez, se ha evidenciado que 15 veredas (Florida, Loma de Abajo, Jigual, Pinzón, Berlín, Alto de las Hierbas, Retiro, Bellavista, Peñas Blancas, Párraga, Pan de Azúcar, Golondrinas, La Esperanza, El Limón y la Alhaja) han quedado aisladas dejando a su paso al menos 884 familias (3.536 personas) en condición de extrema vulnerabilidad.
+Enlace: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/16012023_actualizacion1_alerta_humanitaria_deslizamiento_rosas_vf.pdf
+    [group_yv1ph08/time2] => 2023-01-07
+    [group_yv1ph08/time3] => 24
+    [group_yv1ph08/evidencia] => proteccion educacion wash san shelter salud
+    [group_yv1ph08/La_necesidad_mas_sen_a_de_la_poblaci_n_es] => Refugio y Asentamientos
+    [group_cn9za51/familias] => 248
+    [group_cn9za51/personas] => 920
+    [group_cn9za51/comu] => 10
+    [group_cn9za51/Grupo_tnico] => mestizo
+    [group_xz4hy76/orga] => si
+    [group_xz4hy76/respuestas] => si
+    [group_xz4hy76/_Cuales_001] => El inicio de las jornadas académicas genera un gran reto, dado que se debe garantizar la entrega del Programa de Alimentación Escolar (PAE) en las 15 veredas que quedaron aisladas, así como también incorporar a establecimientos educativos a los niños, niñas y adolescentes que se encuentran albergados en la cabecera.
+    [group_xz4hy76/presentese] => si
+    [group_xz4hy76/_Cuales_002] => Desde el 09 de enero se han venido realizando Puestos de Mando Unificado, con el fin de hacer seguimiento diario a la situación, identificando las necesidades más urgentes en temas de movilidad, abastecimiento, albergues y el estado del deslizamiento. Estos espacios han contado con la presencia de entidades del Gobierno Nacional (Ministerio de Transporte, INVIAS, Unidad Nacional de Gestión del Riesgo) y gabinete departamental y municipal, así como autoridades del departamento de Nariño
+    [group_mu9ho06/Logisitica] => Sin Información
+    [group_mu9ho06/Seguridad] => Sin Información
+    [group_mu9ho06/Operativa] => Sin Información
+    [group_mu9ho06/Observaciones] => Sin Información
+    [group_pl21b64/_ACH_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_NRC_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_MdM_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/_APS_puede_responder_Cuando] => Escribir si se puede responder y cuando
+    [group_pl21b64/Respuesta_Emergencia] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Fecha_del_comit_don_e_si_se_atiende_o_no] => 2020-01-01
+    [group_pl21b64/Socio_lider_de_la_Respuesta] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Enlace_de_la_FSA] => MIRE3+https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/16012023_actualizacion1_alerta_humanitaria_deslizamiento_rosas_vf.pdf+ERN+FCE
+    [group_pl21b64/Observaciones_operaciones_UGC] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Actualizacion] => Este campo se completará por parte de operaciones del MIRE
+    [group_pl21b64/Estado_de_la_emergencia] => EN ALERTA
+    [__version__] => vNt6P8ePauqy8rLg5QoVaW
+    [_version_] => vgq7S4BWFLmtSrgtjGrnxT
+    [_version__001] => vEz8cyscpoJveJnhTVu4GV
+    [_version__002] => vkhmVfkNfqhe8EDPf9DDPd
+    [_version__003] => vzp34FPg58T3BoWcurczVw
+    [_version__004] => vJdvxiEAXwqwsgZYS5tYTx
+    [meta/instanceID] => uuid:0ea34b78-d575-4a03-9367-b56786aaf01a
+    [_xform_id_string] => aERiZwVqPrcEbYzhFux5au
+    [_uuid] => 0ea34b78-d575-4a03-9367-b56786aaf01a
+    [_attachments] => Array
+        (
+        )
+
+    [_status] => submitted_via_web
+    [_geolocation] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [_submission_time] => 2023-01-31T17:12:09
+    [_tags] => Array
+        (
+        )
+
+    [_notes] => Array
+        (
+        )
+
+    [_validation_status] => stdClass Object
+        (
+        )
+
+    [_submitted_by] => 
+)

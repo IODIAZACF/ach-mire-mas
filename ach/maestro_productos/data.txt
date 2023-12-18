@@ -1,0 +1,8 @@
+Array
+(
+    [db] => demo24
+    [tipo] => modulo_fondo
+    [origen] => maestro_productos/modulo
+    [objeto] => m_productos_estatus
+    [url_modulo] => /demo24/maestro_productos/index.php
+)

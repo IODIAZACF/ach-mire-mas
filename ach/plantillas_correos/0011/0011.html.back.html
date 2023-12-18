@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alarma</title>
+</head>
+<body>
+		
+	<!-- ENCABEZADO DE FORMULARIO !-->	
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td>Estimado(a), Hemos recibido un formulario de tipo {ENCABEZADO.NOMBRE_FORMULARIO} para el departamento {ENCABEZADO.DEPARTAMENTO} municipio {ENCABEZADO.MUNICIPIO}</td>
+		</tr>
+
+		<tr>
+			<td>Referencia UID: {ENCABEZADO.UID}</td>
+		</tr>
+
+		<tr>
+			<td><hr></td>
+		</tr>
+	
+		<tr>
+			<td>A continuación, se presenta el detalle del evento</td>
+		</tr>
+	</table>
+	<br>
+	<!-- DETALLE DE FORMULARIO !-->
+	<table border="1" cellpadding="5" cellspacing="0" width="100%">
+		<tr>
+			<td width="30%"><b>Departamento</b></td>	
+			<td width="70%">{ENCABEZADO.DEPARTAMENTO}</td>
+		</tr>
+		<tr>
+			<td width="30%"><b>Municipio</b></td>	
+			<td width="70%">{ENCABEZADO.MUNICIPIO}</td>
+		</tr>
+		<tr>
+			<td width="30%"><b>Código de la Emergencia</b></td>	
+			<td width="70%">{ENCABEZADO.CODIGO_ALERTA}</td>
+		</tr>
+
+	<!-- BEGIN DATA -->
+		<tr>
+			<td width="30%"><b>{ROTULO}</b></td>	
+			<td width="70%">{VALOR}</td>
+		</tr>
+	<!-- END DATA-->
+	</table>
+	<br>
+	<!-- PIE DEL FORMULARIO !-->	
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr>
+			<td>Agradecemos la atención prestada.</td>
+		</tr>
+		<tr>
+			<td>Cordialmente,</td>
+		</tr>
+		<tr>
+			<td>Equipo MIRE.</td>
+		</tr>
+	</table>
+	<br>
+	<img alt="" src="logo.jpg" width="300px">
+</body>
+</html>

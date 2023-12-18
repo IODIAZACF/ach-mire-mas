@@ -1,0 +1,118 @@
+    :root {
+      --f7-button-bg-color: #fff;
+      --f7-button-text-color: var(--f7-color-gray);
+      --f7-button-outline-border-color: #ccc;
+      --f7-button-pressed-bg-color: #f1f1f1;
+      --f7-button-hover-bg-color: #f8f8f8;
+      --f7-searchbar-input-border-color: #ccc;
+      --f7-searchbar-input-border-width: 1px;
+      --f7-searchbar-inline-input-height: 22px;
+      --f7-searchbar-inline-input-border-radius: 4px;
+      --f7-searchbar-inline-input-font-size: 12px;
+      --f7-searchbar-input-bg-color: #fff;
+      --f7-searchbar-inline-input-padding-horizontal: 20px;
+      --f7-appbar-extra-offset: 24px;
+      --f7-appbar-bg-color: #e3e3e3;
+      --f7-button-border-radius: 4px;
+      --f7-button-small-outline-border-width: 1px;
+      --f7-button-small-height: 24px;
+      --f7-button-small-text-transform: none;
+      --f7-button-small-font-size: 12px;
+      --f7-chip-height: 20px;
+      --f7-chip-padding-horizontal: 6px;
+    }
+
+
+    /* Buttons */
+    .button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .button i.f7-icons {
+      font-size: 16px;
+      width: 16px;
+      height: 16px;
+    }
+    /* Top Appbar */
+    .appbar .button {
+      display: flex;
+    }
+    .searchbar .icon {
+      width: 14px;
+    }
+    .searchbar .icon:after {
+      font-size: 14px;
+    }
+    .appbar-small {
+      --f7-appbar-height: 24px;
+      --f7-button-small-height: 16px;
+      --f7-button-small-font-size: 11px;
+      --f7-button-small-font-weight: 500;
+      --f7-button-bg-color: transparent;
+      --f7-button-text-color: #666;
+      --f7-button-pressed-bg-color: rgba(0,0,0,0.1);
+      --f7-button-hover-bg-color: rgba(0,0,0,0.05);
+    }
+    .appbar-small .button .icon-chevron {
+      font-size: 12px;
+      height: 12px;
+      width: 12px;
+      margin-right: -4px;
+      top: 1px;
+    }
+    /* Panel */
+    .panel-left {
+      border-right: 1px solid rgba(0,0,0,0.1);
+    }
+    /* Accounts Page (Panel) */
+    .page-accounts {
+      --f7-list-border-color: transparent;
+      --f7-list-item-border-color: transparent;
+      --f7-list-bg-color: transparent;
+      --f7-list-item-min-height: 26px;
+      --f7-list-item-padding-vertical: 2px;
+      --f7-list-item-title-font-size: 14px;
+
+      --f7-block-title-font-size: 12px;
+    }
+    .page-accounts .list .f7-icons {
+      font-size: 18px;
+      opacity: 0.55;
+    }
+    /* Email List Page */
+    .page-email-list {
+      --f7-page-bg-color: #fff;
+      --f7-list-border-color: transparent;
+      --f7-list-margin-vertical: 0px;
+      --f7-toolbar-height: 24px;
+      --f7-list-item-subtitle-font-size: 13px;
+      --f7-list-item-title-font-size: 13px;
+      --f7-list-item-title-line-height: 1.2;
+      --f7-list-item-subtitle-line-height: 1.2;
+      --f7-list-item-after-font-size: 12px;
+      --f7-list-item-after-line-height: 1.2;
+      --f7-list-item-text-line-height: 16px;
+    }
+    /* Email Detail Page */
+    .page-email-detail {
+      --f7-page-bg-color: #fff;
+    }
+    .email-detail-actions {
+      z-index: 10;
+      position: relative;
+    }
+    .email-detail-actions:before {
+      position: absolute;
+      width: 100%;
+      height: 1px;
+      background: #f1f1f1;
+      left: 0;
+      top: 50%;
+      content: '';
+    }
+    .email-detail-actions .segmented {
+      width: 140px;
+      margin-left: auto;
+      margin-right: auto;
+    }

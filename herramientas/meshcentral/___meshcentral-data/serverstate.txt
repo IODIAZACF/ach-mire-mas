@@ -1,0 +1,9 @@
+time=1663449774901
+state=running
+server-pid=403
+server-parent-pid=392
+redirect-port=80
+mps-port=4433
+mps-name=soporte.sistemas24.com
+servername=soporte.sistemas24.com
+https-port=4432

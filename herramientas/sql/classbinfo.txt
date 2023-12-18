@@ -1,0 +1,13 @@
+Array
+(
+    [0] => 0
+    [length] => 0
+    [1] => 1
+    [numseg] => 1
+    [2] => 0
+    [maxseg] => 0
+    [3] => 
+    [stream] => 
+    [4] => 
+    [isnull] => 
+)

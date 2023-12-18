@@ -1,0 +1,435 @@
+12:48:43 -> [75dda249] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-23&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-23&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+12:48:48 -> [75dda249] get report format
+12:48:48 -> [75dda249] init templates
+12:48:48 -> [75dda249] init main report format
+12:48:48 -> [75dda249] Trying to save...
+12:48:48 -> [75dda249] Saving to Z:\app\tmp\75dda249\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+12:48:48 -> [75dda249] loading report
+12:48:48 -> [75dda249] set variables
+12:48:48 -> [75dda249] building report file
+12:48:48 -> [75dda249] exporting to pdf file
+12:48:49 -> [75dda249] Report prepared
+12:48:50 -> [75dda249] Done! Z:\app\pdf\75dda249.pdf
+12:49:02 -> [12a0a03b] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/herramientas/seguro/&letras=1&FECHA_DESDE=2022-08-23&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-23&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+12:49:03 -> [12a0a03b] get report format
+12:49:03 -> [12a0a03b] init templates
+12:49:03 -> [12a0a03b] init main report format
+12:49:03 -> [12a0a03b] Trying to save...
+12:49:03 -> [12a0a03b] Saving to Z:\app\tmp\12a0a03b\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+12:49:03 -> [12a0a03b] loading report
+12:49:03 -> [12a0a03b] set variables
+12:49:03 -> [12a0a03b] building report file
+12:49:03 -> [12a0a03b] exporting to pdf file
+12:49:04 -> [12a0a03b] Report prepared
+12:49:05 -> [12a0a03b] Done! Z:\app\pdf\12a0a03b.pdf
+12:50:30 -> [95d81481] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-23&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-23&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-23&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+12:50:32 -> [95d81481] get report format
+12:50:32 -> [95d81481] init templates
+12:50:32 -> [95d81481] init main report format
+12:50:32 -> [95d81481] Trying to save...
+12:50:32 -> [95d81481] Saving to Z:\app\tmp\95d81481\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+12:50:32 -> [95d81481] loading report
+12:50:32 -> [95d81481] set variables
+12:50:32 -> [95d81481] building report file
+12:50:32 -> [95d81481] exporting to pdf file
+12:50:33 -> [95d81481] Report prepared
+12:50:34 -> [95d81481] Done! Z:\app\pdf\95d81481.pdf
+12:54:03 -> [23329c03] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+12:54:04 -> [23329c03] get report format
+12:54:04 -> [23329c03] init templates
+12:54:04 -> [23329c03] init main report format
+12:54:04 -> [23329c03] Trying to save...
+12:54:04 -> [23329c03] Saving to Z:\app\tmp\23329c03\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+12:54:04 -> [23329c03] loading report
+12:54:04 -> [23329c03] set variables
+12:54:04 -> [23329c03] building report file
+12:54:04 -> [23329c03] exporting to pdf file
+12:54:04 -> [23329c03] Report prepared
+12:54:04 -> [23329c03] Done! Z:\app\pdf\23329c03.pdf
+12:54:19 -> [9bbaa606] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+12:54:21 -> [9bbaa606] get report format
+12:54:21 -> [9bbaa606] init templates
+12:54:21 -> [9bbaa606] init main report format
+12:54:21 -> [9bbaa606] Trying to save...
+12:54:21 -> [9bbaa606] Saving to Z:\app\tmp\9bbaa606\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+12:54:21 -> [9bbaa606] loading report
+12:54:21 -> [9bbaa606] set variables
+12:54:21 -> [9bbaa606] building report file
+12:54:21 -> [9bbaa606] exporting to pdf file
+12:54:21 -> [9bbaa606] Report prepared
+12:54:21 -> [9bbaa606] Done! Z:\app\pdf\9bbaa606.pdf
+13:01:50 -> Conectado al puerto 80
+13:06:14 -> Conectado al puerto 80
+13:08:00 -> Conectado al puerto 80
+13:08:11 -> [80482937] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+13:08:13 -> [80482937] get report format
+13:08:13 -> [80482937] init templates
+13:08:13 -> [80482937] init main report format
+13:08:13 -> [80482937] Trying to save...
+13:08:13 -> [80482937] Saving to Z:\app\tmp\80482937\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+13:08:13 -> [80482937] loading report
+13:08:13 -> [80482937] set variables
+13:08:13 -> [80482937] building report file
+13:08:13 -> [80482937] exporting to pdf file
+13:08:13 -> [80482937] Report prepared
+13:08:13 -> [80482937] Done! Z:\app\pdf\80482937.pdf
+13:09:18 -> [52c74d00] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+13:09:19 -> [52c74d00] get report format
+13:09:19 -> [52c74d00] init templates
+13:09:19 -> [52c74d00] init main report format
+13:09:19 -> [52c74d00] Trying to save...
+13:09:19 -> [52c74d00] Saving to Z:\app\tmp\52c74d00\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+13:09:19 -> [52c74d00] loading report
+13:09:19 -> [52c74d00] set variables
+13:09:19 -> [52c74d00] building report file
+13:09:19 -> [52c74d00] exporting to pdf file
+13:09:20 -> [52c74d00] Report prepared
+13:09:20 -> [52c74d00] Done! Z:\app\pdf\52c74d00.pdf
+13:10:06 -> [d55cd7c5] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+13:10:07 -> [d55cd7c5] get report format
+13:10:07 -> [d55cd7c5] init templates
+13:10:07 -> [d55cd7c5] init main report format
+13:10:07 -> [d55cd7c5] Trying to save...
+13:10:07 -> [d55cd7c5] Saving to Z:\app\tmp\d55cd7c5\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+13:10:07 -> [d55cd7c5] loading report
+13:10:07 -> [d55cd7c5] set variables
+13:10:07 -> [d55cd7c5] building report file
+13:10:07 -> [d55cd7c5] exporting to pdf file
+13:10:08 -> [d55cd7c5] Report prepared
+13:10:08 -> [d55cd7c5] Done! Z:\app\pdf\d55cd7c5.pdf
+13:10:42 -> [0cb43475] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+13:10:43 -> [0cb43475] get report format
+13:10:43 -> [0cb43475] init templates
+13:10:43 -> [0cb43475] init main report format
+13:10:43 -> [0cb43475] Trying to save...
+13:10:43 -> [0cb43475] Saving to Z:\app\tmp\0cb43475\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+13:10:43 -> [0cb43475] loading report
+13:10:43 -> [0cb43475] set variables
+13:10:44 -> [0cb43475] building report file
+13:10:44 -> [0cb43475] exporting to pdf file
+13:10:48 -> [0cb43475] Report prepared
+13:10:53 -> [0cb43475] Done! Z:\app\pdf\0cb43475.pdf
+13:12:17 -> [1c9965a7] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+13:12:20 -> [1c9965a7] get report format
+13:12:20 -> [1c9965a7] init templates
+13:12:20 -> [1c9965a7] init main report format
+13:12:20 -> [1c9965a7] Trying to save...
+13:12:20 -> [1c9965a7] Saving to Z:\app\tmp\1c9965a7\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+13:12:20 -> [1c9965a7] loading report
+13:12:20 -> [1c9965a7] set variables
+13:12:20 -> [1c9965a7] building report file
+13:12:20 -> [1c9965a7] exporting to pdf file
+13:12:25 -> [1c9965a7] Report prepared
+13:12:31 -> [1c9965a7] Done! Z:\app\pdf\1c9965a7.pdf
+13:18:49 -> [60c623a3] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+13:18:51 -> [60c623a3] get report format
+13:18:51 -> [60c623a3] init templates
+13:18:51 -> [60c623a3] init main report format
+13:18:51 -> [60c623a3] Trying to save...
+13:18:51 -> [60c623a3] Saving to Z:\app\tmp\60c623a3\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+13:18:51 -> [60c623a3] loading report
+13:18:51 -> [60c623a3] set variables
+13:18:51 -> [60c623a3] building report file
+13:18:51 -> [60c623a3] exporting to pdf file
+13:18:57 -> [60c623a3] Report prepared
+13:19:06 -> [60c623a3] Done! Z:\app\pdf\60c623a3.pdf
+13:20:55 -> [ac652559] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+13:20:57 -> [ac652559] get report format
+13:20:57 -> [ac652559] init templates
+13:20:57 -> [ac652559] init main report format
+13:20:57 -> [ac652559] Trying to save...
+13:20:57 -> [ac652559] Saving to Z:\app\tmp\ac652559\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+13:20:57 -> [ac652559] loading report
+13:20:57 -> [ac652559] set variables
+13:20:57 -> [ac652559] building report file
+13:20:57 -> [ac652559] exporting to pdf file
+13:21:02 -> [ac652559] Report prepared
+13:21:08 -> [ac652559] Done! Z:\app\pdf\ac652559.pdf
+14:22:41 -> [379c1aad] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-01-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-01-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+14:22:45 -> [379c1aad] get report format
+14:22:45 -> [379c1aad] init templates
+14:22:45 -> [379c1aad] init main report format
+14:22:45 -> [379c1aad] Trying to save...
+14:22:45 -> [379c1aad] Saving to Z:\app\tmp\379c1aad\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+14:22:45 -> [379c1aad] loading report
+14:22:45 -> [379c1aad] set variables
+14:22:45 -> [379c1aad] building report file
+14:22:45 -> [379c1aad] exporting to pdf file
+14:22:48 -> [379c1aad] Report prepared
+14:22:51 -> [379c1aad] Done! Z:\app\pdf\379c1aad.pdf
+16:37:17 -> [bdd06068] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:37:19 -> [bdd06068] get report format
+16:37:19 -> [bdd06068] init templates
+16:37:19 -> [bdd06068] init main report format
+16:37:19 -> [bdd06068] Trying to save...
+16:37:19 -> [bdd06068] Saving to Z:\app\tmp\bdd06068\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:37:19 -> [bdd06068] loading report
+16:37:19 -> [bdd06068] set variables
+16:37:19 -> [bdd06068] building report file
+16:37:19 -> [bdd06068] exporting to pdf file
+16:37:20 -> [bdd06068] Report prepared
+16:37:21 -> [bdd06068] Done! Z:\app\pdf\bdd06068.pdf
+16:43:08 -> [d78d0a9b] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:43:10 -> [d78d0a9b] get report format
+16:43:10 -> [d78d0a9b] init templates
+16:43:10 -> [d78d0a9b] init main report format
+16:43:10 -> [d78d0a9b] Trying to save...
+16:43:10 -> [d78d0a9b] Saving to Z:\app\tmp\d78d0a9b\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:43:10 -> [d78d0a9b] loading report
+16:43:10 -> [d78d0a9b] set variables
+16:43:10 -> [d78d0a9b] building report file
+16:43:10 -> [d78d0a9b] exporting to pdf file
+16:43:11 -> [d78d0a9b] Report prepared
+16:43:13 -> [d78d0a9b] Done! Z:\app\pdf\d78d0a9b.pdf
+16:43:37 -> [a8906531] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:43:39 -> [a8906531] get report format
+16:43:39 -> [a8906531] init templates
+16:43:39 -> [a8906531] init main report format
+16:43:39 -> [a8906531] Trying to save...
+16:43:39 -> [a8906531] Saving to Z:\app\tmp\a8906531\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:43:39 -> [a8906531] loading report
+16:43:39 -> [a8906531] set variables
+16:43:39 -> [a8906531] building report file
+16:43:39 -> [a8906531] exporting to pdf file
+16:43:40 -> [a8906531] Report prepared
+16:43:41 -> [a8906531] Done! Z:\app\pdf\a8906531.pdf
+16:45:35 -> [991ab0b7] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:45:37 -> [991ab0b7] get report format
+16:45:37 -> [991ab0b7] init templates
+16:45:37 -> [991ab0b7] init main report format
+16:45:37 -> [991ab0b7] Trying to save...
+16:45:37 -> [991ab0b7] Saving to Z:\app\tmp\991ab0b7\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:45:37 -> [991ab0b7] loading report
+16:45:37 -> [991ab0b7] set variables
+16:45:37 -> [991ab0b7] building report file
+16:45:37 -> [991ab0b7] exporting to pdf file
+16:45:38 -> [991ab0b7] Report prepared
+16:45:39 -> [991ab0b7] Done! Z:\app\pdf\991ab0b7.pdf
+16:47:36 -> [2a158928] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:47:38 -> [2a158928] get report format
+16:47:38 -> [2a158928] init templates
+16:47:38 -> [2a158928] init main report format
+16:47:38 -> [2a158928] Trying to save...
+16:47:38 -> [2a158928] Saving to Z:\app\tmp\2a158928\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:47:38 -> [2a158928] loading report
+16:47:38 -> [2a158928] set variables
+16:47:38 -> [2a158928] building report file
+16:47:38 -> [2a158928] exporting to pdf file
+16:47:39 -> [2a158928] Report prepared
+16:47:41 -> [2a158928] Done! Z:\app\pdf\2a158928.pdf
+16:48:21 -> [924c2083] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:48:23 -> [924c2083] get report format
+16:48:23 -> [924c2083] init templates
+16:48:23 -> [924c2083] init main report format
+16:48:23 -> [924c2083] Trying to save...
+16:48:23 -> [924c2083] Saving to Z:\app\tmp\924c2083\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:48:23 -> [924c2083] loading report
+16:48:23 -> [924c2083] set variables
+16:48:23 -> [924c2083] building report file
+16:48:23 -> [924c2083] exporting to pdf file
+16:48:24 -> [924c2083] Report prepared
+16:48:25 -> [924c2083] Done! Z:\app\pdf\924c2083.pdf
+16:49:05 -> [2800b02b] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:49:06 -> [2800b02b] get report format
+16:49:06 -> [2800b02b] init templates
+16:49:06 -> [2800b02b] init main report format
+16:49:06 -> [2800b02b] Trying to save...
+16:49:06 -> [2800b02b] Saving to Z:\app\tmp\2800b02b\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:49:06 -> [2800b02b] loading report
+16:49:06 -> [2800b02b] set variables
+16:49:06 -> [2800b02b] building report file
+16:49:06 -> [2800b02b] exporting to pdf file
+16:49:08 -> [2800b02b] Report prepared
+16:49:09 -> [2800b02b] Done! Z:\app\pdf\2800b02b.pdf
+16:49:35 -> [9312cc3c] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:49:37 -> [9312cc3c] get report format
+16:49:37 -> [9312cc3c] init templates
+16:49:37 -> [9312cc3c] init main report format
+16:49:37 -> [9312cc3c] Trying to save...
+16:49:37 -> [9312cc3c] Saving to Z:\app\tmp\9312cc3c\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:49:37 -> [9312cc3c] loading report
+16:49:37 -> [9312cc3c] set variables
+16:49:37 -> [9312cc3c] building report file
+16:49:37 -> [9312cc3c] exporting to pdf file
+16:49:38 -> [9312cc3c] Report prepared
+16:49:39 -> [9312cc3c] Done! Z:\app\pdf\9312cc3c.pdf
+16:50:29 -> [b7c11903] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:50:32 -> [b7c11903] get report format
+16:50:32 -> [b7c11903] init templates
+16:50:32 -> [b7c11903] init main report format
+16:50:32 -> [b7c11903] Trying to save...
+16:50:32 -> [b7c11903] Saving to Z:\app\tmp\b7c11903\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:50:32 -> [b7c11903] loading report
+16:50:32 -> [b7c11903] set variables
+16:50:32 -> [b7c11903] building report file
+16:50:32 -> [b7c11903] exporting to pdf file
+16:50:33 -> [b7c11903] Report prepared
+16:50:33 -> [b7c11903] Done! Z:\app\pdf\b7c11903.pdf
+16:52:04 -> [2106300b] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:52:06 -> [2106300b] get report format
+16:52:06 -> [2106300b] init templates
+16:52:06 -> [2106300b] init main report format
+16:52:06 -> [2106300b] Trying to save...
+16:52:06 -> [2106300b] Saving to Z:\app\tmp\2106300b\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:52:06 -> [2106300b] loading report
+16:52:06 -> [2106300b] set variables
+16:52:06 -> [2106300b] building report file
+16:52:06 -> [2106300b] exporting to pdf file
+16:52:07 -> [2106300b] Report prepared
+16:52:08 -> [2106300b] Done! Z:\app\pdf\2106300b.pdf
+16:53:36 -> [431b17d6] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:53:38 -> [431b17d6] get report format
+16:53:38 -> [431b17d6] init templates
+16:53:38 -> [431b17d6] init main report format
+16:53:38 -> [431b17d6] Trying to save...
+16:53:38 -> [431b17d6] Saving to Z:\app\tmp\431b17d6\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:53:38 -> [431b17d6] loading report
+16:53:38 -> [431b17d6] set variables
+16:53:38 -> [431b17d6] building report file
+16:53:38 -> [431b17d6] exporting to pdf file
+16:53:39 -> [431b17d6] Report prepared
+16:53:40 -> [431b17d6] Done! Z:\app\pdf\431b17d6.pdf
+16:55:12 -> [215050da] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:55:14 -> [215050da] get report format
+16:55:14 -> [215050da] init templates
+16:55:14 -> [215050da] init main report format
+16:55:14 -> [215050da] Trying to save...
+16:55:14 -> [215050da] Saving to Z:\app\tmp\215050da\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:55:14 -> [215050da] loading report
+16:55:14 -> [215050da] set variables
+16:55:14 -> [215050da] building report file
+16:55:14 -> [215050da] exporting to pdf file
+16:55:15 -> [215050da] Report prepared
+16:55:17 -> [215050da] Done! Z:\app\pdf\215050da.pdf
+16:56:02 -> [1d0d1cdc] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:56:04 -> [1d0d1cdc] get report format
+16:56:04 -> [1d0d1cdc] init templates
+16:56:04 -> [1d0d1cdc] init main report format
+16:56:04 -> [1d0d1cdc] Trying to save...
+16:56:04 -> [1d0d1cdc] Saving to Z:\app\tmp\1d0d1cdc\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:56:04 -> [1d0d1cdc] loading report
+16:56:04 -> [1d0d1cdc] set variables
+16:56:04 -> [1d0d1cdc] building report file
+16:56:04 -> [1d0d1cdc] exporting to pdf file
+16:56:05 -> [1d0d1cdc] Report prepared
+16:56:06 -> [1d0d1cdc] Done! Z:\app\pdf\1d0d1cdc.pdf
+16:57:48 -> [51b610d6] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+16:57:50 -> [51b610d6] get report format
+16:57:50 -> [51b610d6] init templates
+16:57:50 -> [51b610d6] init main report format
+16:57:50 -> [51b610d6] Trying to save...
+16:57:50 -> [51b610d6] Saving to Z:\app\tmp\51b610d6\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+16:57:50 -> [51b610d6] loading report
+16:57:50 -> [51b610d6] set variables
+16:57:50 -> [51b610d6] building report file
+16:57:50 -> [51b610d6] exporting to pdf file
+16:57:51 -> [51b610d6] Report prepared
+16:57:52 -> [51b610d6] Done! Z:\app\pdf\51b610d6.pdf
+17:00:57 -> [7ac80045] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+17:00:59 -> [7ac80045] get report format
+17:00:59 -> [7ac80045] init templates
+17:00:59 -> [7ac80045] init main report format
+17:00:59 -> [7ac80045] Trying to save...
+17:00:59 -> [7ac80045] Saving to Z:\app\tmp\7ac80045\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+17:00:59 -> [7ac80045] loading report
+17:00:59 -> [7ac80045] set variables
+17:00:59 -> [7ac80045] building report file
+17:00:59 -> [7ac80045] exporting to pdf file
+17:01:00 -> [7ac80045] Report prepared
+17:01:02 -> [7ac80045] Done! Z:\app\pdf\7ac80045.pdf
+17:02:07 -> [b683ad62] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+17:02:09 -> [b683ad62] get report format
+17:02:09 -> [b683ad62] init templates
+17:02:09 -> [b683ad62] init main report format
+17:02:09 -> [b683ad62] Trying to save...
+17:02:09 -> [b683ad62] Saving to Z:\app\tmp\b683ad62\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+17:02:09 -> [b683ad62] loading report
+17:02:09 -> [b683ad62] set variables
+17:02:09 -> [b683ad62] building report file
+17:02:09 -> [b683ad62] exporting to pdf file
+17:02:10 -> [b683ad62] Report prepared
+17:02:11 -> [b683ad62] Done! Z:\app\pdf\b683ad62.pdf
+17:02:55 -> [b7024015] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+17:02:57 -> [b7024015] get report format
+17:02:57 -> [b7024015] init templates
+17:02:57 -> [b7024015] init main report format
+17:02:57 -> [b7024015] Trying to save...
+17:02:57 -> [b7024015] Saving to Z:\app\tmp\b7024015\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+17:02:57 -> [b7024015] loading report
+17:02:57 -> [b7024015] set variables
+17:02:57 -> [b7024015] building report file
+17:02:57 -> [b7024015] exporting to pdf file
+17:02:58 -> [b7024015] Report prepared
+17:02:59 -> [b7024015] Done! Z:\app\pdf\b7024015.pdf
+19:04:15 -> [c55d000a] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-08-24&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-08-24&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+19:04:22 -> [c55d000a] get report format
+19:04:22 -> [c55d000a] init templates
+19:04:22 -> [c55d000a] init main report format
+19:04:22 -> [c55d000a] Trying to save...
+19:04:22 -> [c55d000a] Saving to Z:\app\tmp\c55d000a\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+19:04:22 -> [c55d000a] loading report
+19:04:22 -> [c55d000a] set variables
+19:04:22 -> [c55d000a] building report file
+19:04:22 -> [c55d000a] exporting to pdf file
+19:04:23 -> [c55d000a] Report prepared
+19:04:23 -> [c55d000a] Done! Z:\app\pdf\c55d000a.pdf
+19:04:43 -> [0658056c] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-06-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-06-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+19:04:52 -> [0658056c] get report format
+19:04:52 -> [0658056c] init templates
+19:04:52 -> [0658056c] init main report format
+19:04:52 -> [0658056c] Trying to save...
+19:04:52 -> [0658056c] Saving to Z:\app\tmp\0658056c\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+19:04:52 -> [0658056c] loading report
+19:04:52 -> [0658056c] set variables
+19:04:52 -> [0658056c] building report file
+19:04:52 -> [0658056c] exporting to pdf file
+19:04:54 -> [0658056c] Report prepared
+19:04:55 -> [0658056c] Done! Z:\app\pdf\0658056c.pdf
+19:10:33 -> [504a4037] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-06-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-06-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+19:10:43 -> [504a4037] get report format
+19:10:43 -> [504a4037] init templates
+19:10:43 -> [504a4037] init main report format
+19:10:43 -> [504a4037] Trying to save...
+19:10:43 -> [504a4037] Saving to Z:\app\tmp\504a4037\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+19:10:43 -> [504a4037] loading report
+19:10:43 -> [504a4037] set variables
+19:10:43 -> [504a4037] building report file
+19:10:43 -> [504a4037] exporting to pdf file
+19:10:45 -> [504a4037] Report prepared
+19:10:46 -> [504a4037] Done! Z:\app\pdf\504a4037.pdf
+19:15:40 -> [3d854b09] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-06-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-06-01&TITULO=RESUMEN%20DE%20COTIZACIONES&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=RESUMEN%20DE%20COTIZACIONES
+19:15:47 -> [3d854b09] get report format
+19:15:47 -> [3d854b09] init templates
+19:15:47 -> [3d854b09] init main report format
+19:15:47 -> [3d854b09] Trying to save...
+19:15:47 -> [3d854b09] Saving to Z:\app\tmp\3d854b09\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+19:15:47 -> [3d854b09] loading report
+19:15:47 -> [3d854b09] set variables
+19:15:47 -> [3d854b09] building report file
+19:15:47 -> [3d854b09] exporting to pdf file
+19:15:49 -> [3d854b09] Report prepared
+19:15:51 -> [3d854b09] Done! Z:\app\pdf\3d854b09.pdf
+19:19:51 -> [7d874990] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=COTIZACIONES%20REALIZADAS%20POR%20PERIDO&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=COTIZACIONES%20REALIZADAS%20POR%20PERIDO
+19:19:59 -> [7d874990] get report format
+19:19:59 -> [7d874990] init templates
+19:19:59 -> [7d874990] init main report format
+19:19:59 -> [7d874990] Trying to save...
+19:19:59 -> [7d874990] Saving to Z:\app\tmp\7d874990\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+19:19:59 -> [7d874990] loading report
+19:19:59 -> [7d874990] set variables
+19:19:59 -> [7d874990] building report file
+19:19:59 -> [7d874990] exporting to pdf file
+19:20:01 -> [7d874990] Report prepared
+19:20:02 -> [7d874990] Done! Z:\app\pdf\7d874990.pdf
+19:27:49 -> [1d500689] call url: http://172.17.0.1/seguro/herramientas/impresora/impresora_new.php?origen=reportes/r_seguro_cotizaciones&db=seguro&SERVERPATH=http://172.17.0.1/seguro/&letras=1&FECHA_DESDE=2022-07-01&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&xconfig={$x_config}&SERVERPATH=https://desarrollo.protecseguros.com/seguro/&FECHA_DESDE=2022-07-01&TITULO=COTIZACIONES%20REALIZADAS%20POR%20PERIDO&FECHA_HASTA=2022-08-24&ID_M_SEGUROS_BROKER=0017&compress=1&id_m_usuario=0016&log_USER_ID=0016&log_USER_NAME=NUNEZ1111+LUIS+MANUEL&log_SISTEMA=seguro&log_SISTEMA_DB=seguro&viewer=1&title=COTIZACIONES%20REALIZADAS%20POR%20PERIDO
+19:27:57 -> [1d500689] get report format
+19:27:57 -> [1d500689] init templates
+19:27:57 -> [1d500689] init main report format
+19:27:57 -> [1d500689] Trying to save...
+19:27:57 -> [1d500689] Saving to Z:\app\tmp\1d500689\-opt-lampp-htdocs-seguro-reportes-r_seguro_cotizaciones.fr3
+19:27:57 -> [1d500689] loading report
+19:27:57 -> [1d500689] set variables
+19:27:57 -> [1d500689] building report file
+19:27:57 -> [1d500689] exporting to pdf file
+19:27:59 -> [1d500689] Report prepared
+19:28:00 -> [1d500689] Done! Z:\app\pdf\1d500689.pdf

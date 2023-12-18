@@ -1,0 +1,4 @@
+[17-01-2010 09:18:00]	SISTEMA	**** INICIO DEL LOG DE CAMBIOS ****
+
+
+-Se arregló problema con los botones del detalle y se adaptaron los grids al estandar vigente para la fecha. Fidel Díaz 18.01.2011 10:06am

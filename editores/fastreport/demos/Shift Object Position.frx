@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps."/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>FastReport Designer Builder</title>
+    <base href="/">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.indigo-pink.min.css">
+    <style>
+        .mdl-layout--fixed-drawer>.mdl-layout__content {
+            margin-left:0;
+        }
+        .mdl-layout--fixed-drawer:not(.is-small-screen)>.mdl-layout__header {
+            margin-left:0;
+            width:100%;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="d-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
+      <main class="mdl-layout__content mdl-color--grey-100">
+        <div class="mdl-grid d-content">
+          <div class="mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid">
+            <h1>ENOENT: no such file or directory, open &#39;/home/designer/apps/fastreport-designer-builder/demos/Shift+Object+Position.frx&#39;</h1>
+            <h2></h2>
+            <pre></pre>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.min.js"></script>
+  </body>
+</html>
