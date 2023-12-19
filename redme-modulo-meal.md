@@ -12,6 +12,7 @@ MODULO DE MEAL
     https://eu.kobotoolbox.org/accounts/login/
 
     el acceso al kobo de MEAL con laura y las credenciales del correo para la insercion de datos masivos 
+    El usuario del kobo es consorcioecho_2020 y clave Emergencia5468
 
     OPCION (NOTA DE GRUPOS DE GRUPOS SEPARADOS DE DATOS)
 
@@ -22,6 +23,7 @@ MODULO DE MEAL
         (nota: FALTARIA LOS FACTORE FILTRO)
         fuente 2 kobo outcomes = resultados alcanzados = mpd(monitoreo post distribucion)
         https://eu.kobotoolbox.org/#/forms/aQxrcJYzPy4nzzVRXZVSBC/summary (EXCEL | API)
+        https://eu.kobotoolbox.org/#/forms/aQxrcJYzPy4nzzVRXZVSBC/landing
             
 
         fuente 3 formato mqr = quejas retroalimentaciones y peticiones (EXCEL)
