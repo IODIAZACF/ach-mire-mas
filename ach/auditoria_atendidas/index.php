@@ -23,6 +23,9 @@ javascript('formulario2,utiles,auto_tabla,forma,submodal,impresora,jquery');
 echo <<<EOT
 
 {$modulo->inicio}
+<button href="http://ach.dyndns.info:6180/api/meal/lpa/download" class="boton_activo">
+	Descargar plantilla
+</button>
 <table border="0">
 	<tr>
 		<td id="GRUPO1" width="70%"></td>
@@ -227,6 +230,9 @@ function t_m_lpa(objeto, tecla, xml, e)
 
 
     case _f10:
+	  var URL = "http://ach.dyndns.info:6180/api/meal/lpa/download";
+	  window.open(URL, '_blank');
+      break;
     case _f11:
     case _f12:
 		cancelaTecla(evt);
@@ -300,6 +306,8 @@ function iniciar()
 	addEvent(F9,   		"click",   function() { t_m_lpa('', _f9,     m_lpa.elementoXml()) } );
 	addEvent(SUPR,  	"click",   function() { t_m_lpa('', _supr,    m_lpa.elementoXml()) } );
 	addEvent(ESC,  		"click",   function() { t_m_lpa('', _esc,    m_lpa.elementoXml()) } );
+	addEvent(F10,  		"click",   function() { t_m_lpa('', _f10,    m_lpa.elementoXml()) } );
+	
 
 	return true;
 }
