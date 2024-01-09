@@ -23,9 +23,6 @@ javascript('formulario2,utiles,auto_tabla,forma,submodal,impresora,jquery');
 echo <<<EOT
 
 {$modulo->inicio}
-<button href="http://ach.dyndns.info:6180/api/meal/lpa/download" class="boton_activo">
-	Descargar plantilla
-</button>
 <table border="0">
 	<tr>
 		<td id="GRUPO1" width="70%"></td>
